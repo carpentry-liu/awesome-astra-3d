@@ -44,6 +44,12 @@ npm run build
 
 `npm run check` 校验来源数据、执行筛选与证据语义测试、运行 TypeScript 检查。`npm run build` 同步目录与公开 JSON，静态站输出到 `dist/client/`。Windows Node 24+ 会自动使用 npm 官方发行的 Node 22.22.0，避免已复现的预渲染退出断言。生成文件通过 `npm run catalog` 同步，勿独立编辑 `public/cases.json` 和 `CATALOG.md`。
 
+## 完整视频
+
+已归档 **10 个完整视频**：9 条以 X 为主来源的案例，以及 AI Kai 作者博客明确链接的同一条 X 视频。每条保存最高码率 MP4 和原平台提供的完整播放版本，不剪辑、不转码。网页可直接播放并下载最高画质。
+
+[全部视频附件](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-09-06) · [时长与 SHA-256 清单](data/videos.json)。下载文件的时长与原帖媒体元数据核对，Pages 构建逐文件验证字节数和 SHA-256。视频放在 Release，避免把大文件写进 Git 历史。
+
 ## 数据与维护
 
 - `data/cases.json`：事实源；统一的作者、来源、日期、模型、证据、产物、提示词、媒体和许可字段。
@@ -54,6 +60,6 @@ npm run build
 
 ## 权利
 
-本仓库原创代码按 [MIT](LICENSE) 许可。第三方作品、图片、视频、商标、外部提示词及上游素材继续适用各自权利，不因本库 MIT 而获得重新分发授权。本库保存元数据并外链图片；不下载收编第三方模型或媒体。请通过 Issue 提交更正或移除请求。
+本仓库原创代码按 [MIT](LICENSE) 许可。第三方作品、图片、视频、商标、外部提示词及上游素材继续适用各自权利，不因本库 MIT 而获得重新分发授权。本库保存元数据并外链图片；按用户要求归档 X 案例的完整视频，作为 GitHub Release 附件发布。视频版权归原作者，不适用本库 MIT 许可，不代表已获得作者另行授权。请通过 Issue 提交更正或移除请求。
 
 独立整理，非 OpenAI 官方项目。

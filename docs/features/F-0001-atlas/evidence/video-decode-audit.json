@@ -1,0 +1,805 @@
+{
+  "auditedAt": "2026-09-06T01:47:35.607772+00:00",
+  "ffmpegExecutable": "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+  "scope": "Full audio/video decode of every web MP4, plus independent container-duration comparison with its highest-bitrate original MP4. Original files were probed, not fully decoded.",
+  "maxParallelDecodes": 2,
+  "durationMatchToleranceSeconds": 0.05,
+  "decodeEndpointToleranceSeconds": 0.15,
+  "expectedCases": 10,
+  "caseCount": 10,
+  "passedCount": 10,
+  "failedCount": 0,
+  "allPassed": true,
+  "results": [
+    {
+      "caseId": "aibattle-sonic-godot",
+      "sourceUrl": "https://x.com/AiBattle_/status/2095994051354919049",
+      "webFile": "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\aibattle-sonic-godot-1-web.mp4",
+      "originalFile": "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\aibattle-sonic-godot-1-original.mp4",
+      "webBytes": 8289737,
+      "originalBytes": 26328880,
+      "webProbe": {
+        "durationSeconds": 41.22,
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\aibattle-sonic-godot-1-web.mp4"
+        ],
+        "probeExitCode": 1,
+        "durationLine": "Duration: 00:00:41.22, start: 0.000000, bitrate: 1609 kb/s"
+      },
+      "originalProbe": {
+        "durationSeconds": 41.22,
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\aibattle-sonic-godot-1-original.mp4"
+        ],
+        "probeExitCode": 1,
+        "durationLine": "Duration: 00:00:41.22, start: 0.000000, bitrate: 5110 kb/s"
+      },
+      "durationDifferenceSeconds": 0.0,
+      "durationMatch": true,
+      "decode": {
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-v",
+          "error",
+          "-xerror",
+          "-threads",
+          "2",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\aibattle-sonic-godot-1-web.mp4",
+          "-map",
+          "0:v?",
+          "-map",
+          "0:a?",
+          "-progress",
+          "pipe:1",
+          "-nostats",
+          "-f",
+          "null",
+          "-"
+        ],
+        "exitCode": 0,
+        "stderr": "",
+        "lastProgress": {
+          "frame": "1235",
+          "fps": "1038.32",
+          "stream_0_0_q": "-0.0",
+          "bitrate": "N/A",
+          "total_size": "N/A",
+          "out_time_us": "41133333",
+          "out_time_ms": "41133333",
+          "out_time": "00:00:41.133333",
+          "dup_frames": "0",
+          "drop_frames": "0",
+          "speed": "34.6x",
+          "progress": "end"
+        },
+        "decodedEndSeconds": 41.133333,
+        "reachesContainerEndWithinTolerance": true,
+        "elapsedSeconds": 1.219,
+        "passed": true
+      },
+      "passed": true
+    },
+    {
+      "caseId": "anshu-concept-to-game",
+      "sourceUrl": "https://x.com/anshuc/status/2096008083826725132",
+      "webFile": "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\anshu-concept-to-game-1-web.mp4",
+      "originalFile": "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\anshu-concept-to-game-1-original.mp4",
+      "webBytes": 2880210,
+      "originalBytes": 48776566,
+      "webProbe": {
+        "durationSeconds": 18.55,
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\anshu-concept-to-game-1-web.mp4"
+        ],
+        "probeExitCode": 1,
+        "durationLine": "Duration: 00:00:18.55, start: 0.000000, bitrate: 1242 kb/s"
+      },
+      "originalProbe": {
+        "durationSeconds": 18.55,
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\anshu-concept-to-game-1-original.mp4"
+        ],
+        "probeExitCode": 1,
+        "durationLine": "Duration: 00:00:18.55, start: 0.000000, bitrate: 21035 kb/s"
+      },
+      "durationDifferenceSeconds": 0.0,
+      "durationMatch": true,
+      "decode": {
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-v",
+          "error",
+          "-xerror",
+          "-threads",
+          "2",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\anshu-concept-to-game-1-web.mp4",
+          "-map",
+          "0:v?",
+          "-map",
+          "0:a?",
+          "-progress",
+          "pipe:1",
+          "-nostats",
+          "-f",
+          "null",
+          "-"
+        ],
+        "exitCode": 0,
+        "stderr": "",
+        "lastProgress": {
+          "frame": "1113",
+          "fps": "0.00",
+          "stream_0_0_q": "-0.0",
+          "bitrate": "N/A",
+          "total_size": "N/A",
+          "out_time_us": "18550000",
+          "out_time_ms": "18550000",
+          "out_time": "00:00:18.550000",
+          "dup_frames": "0",
+          "drop_frames": "0",
+          "speed": "  21x",
+          "progress": "end"
+        },
+        "decodedEndSeconds": 18.55,
+        "reachesContainerEndWithinTolerance": true,
+        "elapsedSeconds": 0.922,
+        "passed": true
+      },
+      "passed": true
+    },
+    {
+      "caseId": "astra-orbital-dashboard-ai-kai",
+      "sourceUrl": "https://x.com/hqmank/status/2096082432197837065",
+      "webFile": "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\astra-orbital-dashboard-ai-kai-1-web.mp4",
+      "originalFile": "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\astra-orbital-dashboard-ai-kai-1-original.mp4",
+      "webBytes": 2656784,
+      "originalBytes": 49533598,
+      "webProbe": {
+        "durationSeconds": 39.55,
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\astra-orbital-dashboard-ai-kai-1-web.mp4"
+        ],
+        "probeExitCode": 1,
+        "durationLine": "Duration: 00:00:39.55, start: 0.000000, bitrate: 537 kb/s"
+      },
+      "originalProbe": {
+        "durationSeconds": 39.55,
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\astra-orbital-dashboard-ai-kai-1-original.mp4"
+        ],
+        "probeExitCode": 1,
+        "durationLine": "Duration: 00:00:39.55, start: 0.000000, bitrate: 10018 kb/s"
+      },
+      "durationDifferenceSeconds": 0.0,
+      "durationMatch": true,
+      "decode": {
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-v",
+          "error",
+          "-xerror",
+          "-threads",
+          "2",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\astra-orbital-dashboard-ai-kai-1-web.mp4",
+          "-map",
+          "0:v?",
+          "-map",
+          "0:a?",
+          "-progress",
+          "pipe:1",
+          "-nostats",
+          "-f",
+          "null",
+          "-"
+        ],
+        "exitCode": 0,
+        "stderr": "",
+        "lastProgress": {
+          "frame": "1976",
+          "fps": "0.00",
+          "stream_0_0_q": "-0.0",
+          "bitrate": "N/A",
+          "total_size": "N/A",
+          "out_time_us": "39520000",
+          "out_time_ms": "39520000",
+          "out_time": "00:00:39.520000",
+          "dup_frames": "0",
+          "drop_frames": "0",
+          "speed": "47.9x",
+          "progress": "end"
+        },
+        "decodedEndSeconds": 39.52,
+        "reachesContainerEndWithinTolerance": true,
+        "elapsedSeconds": 0.875,
+        "passed": true
+      },
+      "passed": true
+    },
+    {
+      "caseId": "ben-ship-render",
+      "sourceUrl": "https://x.com/davis7/status/2095600857626923097",
+      "webFile": "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\ben-ship-render-1-web.mp4",
+      "originalFile": "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\ben-ship-render-1-original.mp4",
+      "webBytes": 1231062,
+      "originalBytes": 19841478,
+      "webProbe": {
+        "durationSeconds": 7.0,
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\ben-ship-render-1-web.mp4"
+        ],
+        "probeExitCode": 1,
+        "durationLine": "Duration: 00:00:07.00, start: 0.000000, bitrate: 1406 kb/s"
+      },
+      "originalProbe": {
+        "durationSeconds": 7.0,
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\ben-ship-render-1-original.mp4"
+        ],
+        "probeExitCode": 1,
+        "durationLine": "Duration: 00:00:07.00, start: 0.000000, bitrate: 22675 kb/s"
+      },
+      "durationDifferenceSeconds": 0.0,
+      "durationMatch": true,
+      "decode": {
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-v",
+          "error",
+          "-xerror",
+          "-threads",
+          "2",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\ben-ship-render-1-web.mp4",
+          "-map",
+          "0:v?",
+          "-map",
+          "0:a?",
+          "-progress",
+          "pipe:1",
+          "-nostats",
+          "-f",
+          "null",
+          "-"
+        ],
+        "exitCode": 0,
+        "stderr": "",
+        "lastProgress": {
+          "frame": "210",
+          "fps": "0.00",
+          "stream_0_0_q": "-0.0",
+          "bitrate": "N/A",
+          "total_size": "N/A",
+          "out_time_us": "7000000",
+          "out_time_ms": "7000000",
+          "out_time": "00:00:07.000000",
+          "dup_frames": "0",
+          "drop_frames": "0",
+          "speed": "26.4x",
+          "progress": "end"
+        },
+        "decodedEndSeconds": 7.0,
+        "reachesContainerEndWithinTolerance": true,
+        "elapsedSeconds": 0.296,
+        "passed": true
+      },
+      "passed": true
+    },
+    {
+      "caseId": "derya-ship-bottle",
+      "sourceUrl": "https://x.com/DeryaTR_/status/2095699049722581065",
+      "webFile": "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\derya-ship-bottle-1-web.mp4",
+      "originalFile": "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\derya-ship-bottle-1-original.mp4",
+      "webBytes": 12632770,
+      "originalBytes": 63728269,
+      "webProbe": {
+        "durationSeconds": 120.04,
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\derya-ship-bottle-1-web.mp4"
+        ],
+        "probeExitCode": 1,
+        "durationLine": "Duration: 00:02:00.04, start: 0.000000, bitrate: 841 kb/s"
+      },
+      "originalProbe": {
+        "durationSeconds": 120.04,
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\derya-ship-bottle-1-original.mp4"
+        ],
+        "probeExitCode": 1,
+        "durationLine": "Duration: 00:02:00.04, start: 0.000000, bitrate: 4247 kb/s"
+      },
+      "durationDifferenceSeconds": 0.0,
+      "durationMatch": true,
+      "decode": {
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-v",
+          "error",
+          "-xerror",
+          "-threads",
+          "2",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\derya-ship-bottle-1-web.mp4",
+          "-map",
+          "0:v?",
+          "-map",
+          "0:a?",
+          "-progress",
+          "pipe:1",
+          "-nostats",
+          "-f",
+          "null",
+          "-"
+        ],
+        "exitCode": 0,
+        "stderr": "",
+        "lastProgress": {
+          "frame": "3600",
+          "fps": "1155.08",
+          "stream_0_0_q": "-0.0",
+          "bitrate": "N/A",
+          "total_size": "N/A",
+          "out_time_us": "120000000",
+          "out_time_ms": "120000000",
+          "out_time": "00:02:00.000000",
+          "dup_frames": "0",
+          "drop_frames": "0",
+          "speed": "38.5x",
+          "progress": "end"
+        },
+        "decodedEndSeconds": 120.0,
+        "reachesContainerEndWithinTolerance": true,
+        "elapsedSeconds": 3.156,
+        "passed": true
+      },
+      "passed": true
+    },
+    {
+      "caseId": "feraser-turbocharger",
+      "sourceUrl": "https://x.com/Feraser8/status/2095776712579571725",
+      "webFile": "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\feraser-turbocharger-1-web.mp4",
+      "originalFile": "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\feraser-turbocharger-1-original.mp4",
+      "webBytes": 3238785,
+      "originalBytes": 11933301,
+      "webProbe": {
+        "durationSeconds": 39.66,
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\feraser-turbocharger-1-web.mp4"
+        ],
+        "probeExitCode": 1,
+        "durationLine": "Duration: 00:00:39.66, start: 0.000000, bitrate: 653 kb/s"
+      },
+      "originalProbe": {
+        "durationSeconds": 39.66,
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\feraser-turbocharger-1-original.mp4"
+        ],
+        "probeExitCode": 1,
+        "durationLine": "Duration: 00:00:39.66, start: 0.000000, bitrate: 2407 kb/s"
+      },
+      "durationDifferenceSeconds": 0.0,
+      "durationMatch": true,
+      "decode": {
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-v",
+          "error",
+          "-xerror",
+          "-threads",
+          "2",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\feraser-turbocharger-1-web.mp4",
+          "-map",
+          "0:v?",
+          "-map",
+          "0:a?",
+          "-progress",
+          "pipe:1",
+          "-nostats",
+          "-f",
+          "null",
+          "-"
+        ],
+        "exitCode": 0,
+        "stderr": "",
+        "lastProgress": {
+          "frame": "2376",
+          "fps": "1633.25",
+          "stream_0_0_q": "-0.0",
+          "bitrate": "N/A",
+          "total_size": "N/A",
+          "out_time_us": "39583333",
+          "out_time_ms": "39583333",
+          "out_time": "00:00:39.583333",
+          "dup_frames": "0",
+          "drop_frames": "0",
+          "speed": "27.2x",
+          "progress": "end"
+        },
+        "decodedEndSeconds": 39.583333,
+        "reachesContainerEndWithinTolerance": true,
+        "elapsedSeconds": 1.484,
+        "passed": true
+      },
+      "passed": true
+    },
+    {
+      "caseId": "peter-gogh-strike",
+      "sourceUrl": "https://x.com/petergostev/status/2096013280519016608",
+      "webFile": "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\peter-gogh-strike-1-web.mp4",
+      "originalFile": "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\peter-gogh-strike-1-original.mp4",
+      "webBytes": 28020432,
+      "originalBytes": 283858202,
+      "webProbe": {
+        "durationSeconds": 110.06,
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\peter-gogh-strike-1-web.mp4"
+        ],
+        "probeExitCode": 1,
+        "durationLine": "Duration: 00:01:50.06, start: 0.000000, bitrate: 2036 kb/s"
+      },
+      "originalProbe": {
+        "durationSeconds": 110.06,
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\peter-gogh-strike-1-original.mp4"
+        ],
+        "probeExitCode": 1,
+        "durationLine": "Duration: 00:01:50.06, start: 0.000000, bitrate: 20633 kb/s"
+      },
+      "durationDifferenceSeconds": 0.0,
+      "durationMatch": true,
+      "decode": {
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-v",
+          "error",
+          "-xerror",
+          "-threads",
+          "2",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\peter-gogh-strike-1-web.mp4",
+          "-map",
+          "0:v?",
+          "-map",
+          "0:a?",
+          "-progress",
+          "pipe:1",
+          "-nostats",
+          "-f",
+          "null",
+          "-"
+        ],
+        "exitCode": 0,
+        "stderr": "",
+        "lastProgress": {
+          "frame": "6601",
+          "fps": "739.84",
+          "stream_0_0_q": "-0.0",
+          "bitrate": "N/A",
+          "total_size": "N/A",
+          "out_time_us": "110016667",
+          "out_time_ms": "110016667",
+          "out_time": "00:01:50.016667",
+          "dup_frames": "0",
+          "drop_frames": "0",
+          "speed": "12.3x",
+          "progress": "end"
+        },
+        "decodedEndSeconds": 110.016667,
+        "reachesContainerEndWithinTolerance": true,
+        "elapsedSeconds": 8.969,
+        "passed": true
+      },
+      "passed": true
+    },
+    {
+      "caseId": "peter-van-gogh-town",
+      "sourceUrl": "https://x.com/petergostev/status/2095776685807346105",
+      "webFile": "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\peter-van-gogh-town-1-web.mp4",
+      "originalFile": "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\peter-van-gogh-town-1-original.mp4",
+      "webBytes": 18586472,
+      "originalBytes": 229267158,
+      "webProbe": {
+        "durationSeconds": 76.12,
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\peter-van-gogh-town-1-web.mp4"
+        ],
+        "probeExitCode": 1,
+        "durationLine": "Duration: 00:01:16.12, start: 0.000000, bitrate: 1953 kb/s"
+      },
+      "originalProbe": {
+        "durationSeconds": 76.12,
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\peter-van-gogh-town-1-original.mp4"
+        ],
+        "probeExitCode": 1,
+        "durationLine": "Duration: 00:01:16.12, start: 0.000000, bitrate: 24096 kb/s"
+      },
+      "durationDifferenceSeconds": 0.0,
+      "durationMatch": true,
+      "decode": {
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-v",
+          "error",
+          "-xerror",
+          "-threads",
+          "2",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\peter-van-gogh-town-1-web.mp4",
+          "-map",
+          "0:v?",
+          "-map",
+          "0:a?",
+          "-progress",
+          "pipe:1",
+          "-nostats",
+          "-f",
+          "null",
+          "-"
+        ],
+        "exitCode": 0,
+        "stderr": "",
+        "lastProgress": {
+          "frame": "4567",
+          "fps": "768.57",
+          "stream_0_0_q": "-0.0",
+          "bitrate": "N/A",
+          "total_size": "N/A",
+          "out_time_us": "76116667",
+          "out_time_ms": "76116667",
+          "out_time": "00:01:16.116667",
+          "dup_frames": "0",
+          "drop_frames": "0",
+          "speed": "12.8x",
+          "progress": "end"
+        },
+        "decodedEndSeconds": 76.116667,
+        "reachesContainerEndWithinTolerance": true,
+        "elapsedSeconds": 5.985,
+        "passed": true
+      },
+      "passed": true
+    },
+    {
+      "caseId": "tom-steam-train",
+      "sourceUrl": "https://x.com/tomkrcha/status/2095756085890310311",
+      "webFile": "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\tom-steam-train-1-web.mp4",
+      "originalFile": "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\tom-steam-train-1-original.mp4",
+      "webBytes": 4200836,
+      "originalBytes": 57617977,
+      "webProbe": {
+        "durationSeconds": 34.17,
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\tom-steam-train-1-web.mp4"
+        ],
+        "probeExitCode": 1,
+        "durationLine": "Duration: 00:00:34.17, start: 0.000000, bitrate: 983 kb/s"
+      },
+      "originalProbe": {
+        "durationSeconds": 34.17,
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\tom-steam-train-1-original.mp4"
+        ],
+        "probeExitCode": 1,
+        "durationLine": "Duration: 00:00:34.17, start: 0.000000, bitrate: 13491 kb/s"
+      },
+      "durationDifferenceSeconds": 0.0,
+      "durationMatch": true,
+      "decode": {
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-v",
+          "error",
+          "-xerror",
+          "-threads",
+          "2",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\tom-steam-train-1-web.mp4",
+          "-map",
+          "0:v?",
+          "-map",
+          "0:a?",
+          "-progress",
+          "pipe:1",
+          "-nostats",
+          "-f",
+          "null",
+          "-"
+        ],
+        "exitCode": 0,
+        "stderr": "",
+        "lastProgress": {
+          "frame": "1025",
+          "fps": "0.00",
+          "stream_0_0_q": "-0.0",
+          "bitrate": "N/A",
+          "total_size": "N/A",
+          "out_time_us": "34166667",
+          "out_time_ms": "34166667",
+          "out_time": "00:00:34.166667",
+          "dup_frames": "0",
+          "drop_frames": "0",
+          "speed": "46.4x",
+          "progress": "end"
+        },
+        "decodedEndSeconds": 34.166667,
+        "reachesContainerEndWithinTolerance": true,
+        "elapsedSeconds": 0.782,
+        "passed": true
+      },
+      "passed": true
+    },
+    {
+      "caseId": "yunfan-zillow-house",
+      "sourceUrl": "https://x.com/realYunfanYe/status/2095612137582526615",
+      "webFile": "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\yunfan-zillow-house-1-web.mp4",
+      "originalFile": "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\yunfan-zillow-house-1-original.mp4",
+      "webBytes": 12407343,
+      "originalBytes": 51200531,
+      "webProbe": {
+        "durationSeconds": 78.09,
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\yunfan-zillow-house-1-web.mp4"
+        ],
+        "probeExitCode": 1,
+        "durationLine": "Duration: 00:01:18.09, start: 0.000000, bitrate: 1271 kb/s"
+      },
+      "originalProbe": {
+        "durationSeconds": 78.09,
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\yunfan-zillow-house-1-original.mp4"
+        ],
+        "probeExitCode": 1,
+        "durationLine": "Duration: 00:01:18.09, start: 0.000000, bitrate: 5245 kb/s"
+      },
+      "durationDifferenceSeconds": 0.0,
+      "durationMatch": true,
+      "decode": {
+        "command": [
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\python-tools\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+          "-hide_banner",
+          "-nostdin",
+          "-v",
+          "error",
+          "-xerror",
+          "-threads",
+          "2",
+          "-i",
+          "D:\\vibe_code\\01_products\\awesome-astra-3d\\work\\videos\\yunfan-zillow-house-1-web.mp4",
+          "-map",
+          "0:v?",
+          "-map",
+          "0:a?",
+          "-progress",
+          "pipe:1",
+          "-nostats",
+          "-f",
+          "null",
+          "-"
+        ],
+        "exitCode": 0,
+        "stderr": "",
+        "lastProgress": {
+          "frame": "1873",
+          "fps": "924.03",
+          "stream_0_0_q": "-0.0",
+          "bitrate": "N/A",
+          "total_size": "N/A",
+          "out_time_us": "78041667",
+          "out_time_ms": "78041667",
+          "out_time": "00:01:18.041667",
+          "dup_frames": "0",
+          "drop_frames": "0",
+          "speed": "38.5x",
+          "progress": "end"
+        },
+        "decodedEndSeconds": 78.041667,
+        "reachesContainerEndWithinTolerance": true,
+        "elapsedSeconds": 2.063,
+        "passed": true
+      },
+      "passed": true
+    }
+  ]
+}

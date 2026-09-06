@@ -222,8 +222,8 @@
     "modelLabel": "GPT-6 Astra（作者原文）",
     "evidenceLevel": "author",
     "evidenceStatus": "first-party-live-demo-and-prompt",
-    "evidenceNote": "来自用户指定的提示词参考仓库；未确认这条图片的原始模型运行记录，不计入 Astra 案例。",
-    "sourceAccess": "来源页面已读取；未重新运行作品",
+    "evidenceNote": "作者博客明确标注 GPT-6 Astra，并提供完整提示词、视频与在线作品；本次未独立复现。",
+    "sourceAccess": "作者博客已读取；未重新运行作品 视频通过 FxTwitter 公开媒体元数据定位，原始帖 ID 与媒体 ID 匹配；MP4 从 X 的 video.twimg.com 下载并核对完整时长。",
     "summary": "作者展示从单张参考截图重建物流仪表盘，地球可旋转和缩放，含昼夜光照、货运路线、默认折叠的活动抽屉。附完整提示词、公开视频与在线页面；本次未独立验证完整交互。",
     "outputType": [
       "Three.js 3D 可交互网页"
@@ -232,19 +232,30 @@
     "promptExcerpt": "I want to build this HTML page as a single web page using Three.js, React, and Tailwind CSS.",
     "promptSummary": null,
     "promptUrl": "https://hqman.me/blog/gpt-6-astra-3d-globe-dashboard/",
-    "imageUrl": "https://hqman.me/media/blog/gpt-6-astra-3d-globe-dashboard/gpt6-astra-globe-demo-poster.jpg",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096082301176164361/img/457wlveeD7lEExH4.jpg",
     "imageKind": "source-media",
-    "imageCaption": "原作者发布的作品媒体；归属与限制见来源。",
+    "imageCaption": "X 原帖视频封面。下方为完整视频，时长已与该帖媒体清单核对；最高画质可下载。",
     "demoUrl": "https://hqman.me/demo/orbital-dashboard/",
-    "videoUrl": "https://hqman.me/media/blog/gpt-6-astra-3d-globe-dashboard/gpt6-astra-globe-demo.mp4",
+    "videoUrl": "https://x.com/hqmank/status/2096082432197837065",
     "repositoryUrl": null,
     "evidenceUrls": [
       "https://hqman.me/blog/gpt-6-astra-3d-globe-dashboard/",
       "https://hqman.me/blog/gpt-6-astra-3d-globe-dashboard.md",
-      "https://x.com/hqmank/status/2096082432197837065"
+      "https://x.com/hqmank/status/2096082432197837065",
+      "https://api.fxtwitter.com/status/2096082432197837065"
     ],
-    "licenseNotes": "未见重分发许可；推荐链接作者原页和在线 demo，媒体权利属作者。本次只收元数据，不下载媒体。",
-    "outcome": "showcase"
+    "licenseNotes": "视频版权归原作者，不适用本库 MIT 许可。按用户要求保存原平台公开的完整 MP4；未剪辑、未转码，不代表作者另行授予重分发许可。来源、时长和文件校验值见视频清单。",
+    "outcome": "showcase",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/astra-orbital-dashboard-ai-kai-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-06/astra-orbital-dashboard-ai-kai-1-original.mp4",
+        "durationSeconds": 39.55,
+        "bytes": 49533598,
+        "sha256": "c4dac1381609082369917fba8c158520ace0fb9d791b2408e5a98c876c8268ed",
+        "sourceUrl": "https://x.com/hqmank/status/2096082432197837065"
+      }
+    ]
   },
   {
     "id": "openai-courtyard-house",
@@ -608,7 +619,7 @@
     "evidenceLevel": "secondary",
     "evidenceStatus": "explicit-astra",
     "evidenceNote": "作者原文镜像明确模型；独立演示页面可读，后续 Gogh Strike 仓库保留原始场景和来源说明。",
-    "sourceAccess": "X web 403；作者文本镜像可读；独立站可读，未完成交互试玩",
+    "sourceAccess": "X web 403；作者文本镜像可读；独立站可读，未完成交互试玩 视频通过 FxTwitter 公开媒体元数据定位，原始帖 ID 与媒体 ID 匹配；MP4 从 X 的 video.twimg.com 下载并核对完整时长。",
     "summary": "把卧室、夜间咖啡馆、罗讷河和田野连成可走动的绘画世界。",
     "outputType": [
       "Three.js",
@@ -619,19 +630,30 @@
     "promptExcerpt": null,
     "promptSummary": "公开长提示词要求连续空间、三维笔触、分区调色、动态环境与性能分档。",
     "promptUrl": "https://x.com/petergostev/status/2095778829738393889",
-    "imageUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2095776416302280708/img/IzfZe03VWW3gBzC6.jpg",
     "imageKind": "source-media",
-    "imageCaption": "原作者发布的作品媒体；归属与限制见来源。",
+    "imageCaption": "X 原帖视频封面。下方为完整视频，时长已与该帖媒体清单核对；最高画质可下载。",
     "demoUrl": "https://van-goghs-town.surge.sh/",
-    "videoUrl": null,
+    "videoUrl": "https://x.com/petergostev/status/2095776685807346105",
     "repositoryUrl": "https://github.com/petergpt/gogh-strike/blob/main/reference/van-goghs-town.original.html",
     "evidenceUrls": [
       "https://www6.twstalker.com/petergostev",
       "https://vibecoding.ru/news/2026/09/04/van-gogh-town-three-js-gpt6-astra",
-      "https://github.com/petergpt/gogh-strike/blob/main/PROVENANCE.md"
+      "https://github.com/petergpt/gogh-strike/blob/main/PROVENANCE.md",
+      "https://api.fxtwitter.com/status/2095776685807346105"
     ],
-    "licenseNotes": "作品与媒体版权归原权利人；本库仅记录来源并外链展示，未取得再分发许可。",
-    "outcome": "showcase"
+    "licenseNotes": "视频版权归原作者，不适用本库 MIT 许可。按用户要求保存原平台公开的完整 MP4；未剪辑、未转码，不代表作者另行授予重分发许可。来源、时长和文件校验值见视频清单。",
+    "outcome": "showcase",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/peter-van-gogh-town-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-06/peter-van-gogh-town-1-original.mp4",
+        "durationSeconds": 76.12,
+        "bytes": 229267158,
+        "sha256": "cb4feb874ab0db6d2c9ee0dfb2b4af789835938abb3a0544aecd410d9f248265",
+        "sourceUrl": "https://x.com/petergostev/status/2095776685807346105"
+      }
+    ]
   },
   {
     "id": "peter-gogh-strike",
@@ -654,7 +676,7 @@
     "evidenceLevel": "secondary",
     "evidenceStatus": "explicit-astra",
     "evidenceNote": "原帖镜像称约六小时；当前 README 已更新为 6 对 6、单人对机器人，不能沿用旧帖 5v5 为现状。",
-    "sourceAccess": "GitHub README、PROVENANCE 可读；X 经镜像读取；未试玩",
+    "sourceAccess": "GitHub README、PROVENANCE 可读；X 经镜像读取；未试玩 视频通过 FxTwitter 公开媒体元数据定位，原始帖 ID 与媒体 ID 匹配；MP4 从 X 的 video.twimg.com 下载并核对完整时长。",
     "summary": "从绘画小镇发展为浏览器射击游戏，源码含人物 GLB、Blender 构建器与素材来源。",
     "outputType": [
       "WebGL 游戏",
@@ -665,18 +687,29 @@
     "promptExcerpt": null,
     "promptSummary": null,
     "promptUrl": null,
-    "imageUrl": "https://raw.githubusercontent.com/petergpt/gogh-strike/main/docs/screenshots/gameplay.png",
-    "imageKind": "gameplay-screenshot",
-    "imageCaption": "作者仓库公开的 Gogh Strike 游戏画面，非原始梵高小镇截图。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096012866734501888/img/5Q86-WBXYVk1d-NJ.jpg",
+    "imageKind": "source-media",
+    "imageCaption": "X 原帖视频封面。下方为完整视频，时长已与该帖媒体清单核对；最高画质可下载。",
     "demoUrl": "https://gogh-strike.petergostev.chatgpt.site/",
-    "videoUrl": null,
+    "videoUrl": "https://x.com/petergostev/status/2096013280519016608",
     "repositoryUrl": "https://github.com/petergpt/gogh-strike",
     "evidenceUrls": [
       "https://www6.twstalker.com/petergostev/status/2096013280519016608",
-      "https://github.com/petergpt/gogh-strike/blob/main/PROVENANCE.md"
+      "https://github.com/petergpt/gogh-strike/blob/main/PROVENANCE.md",
+      "https://api.fxtwitter.com/status/2096013280519016608"
     ],
-    "licenseNotes": "仓库称原创代码与艺术素材 MIT；包含 CC0 MakeHuman 基础模型，来源文件有说明。",
-    "outcome": "showcase"
+    "licenseNotes": "视频版权归原作者，不适用本库 MIT 许可。按用户要求保存原平台公开的完整 MP4；未剪辑、未转码，不代表作者另行授予重分发许可。来源、时长和文件校验值见视频清单。",
+    "outcome": "showcase",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/peter-gogh-strike-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-06/peter-gogh-strike-1-original.mp4",
+        "durationSeconds": 110.06,
+        "bytes": 283858202,
+        "sha256": "30bba6dd96da15d6c9223bb9682b176ae0743be1ea76014ab51c3927c10cb15e",
+        "sourceUrl": "https://x.com/petergostev/status/2096013280519016608"
+      }
+    ]
   },
   {
     "id": "tom-steam-train",
@@ -697,7 +730,7 @@
     "evidenceLevel": "secondary",
     "evidenceStatus": "explicit-astra",
     "evidenceNote": "eChai 与作者文本镜像均保留明确模型及对象数量声明；未取得 .blend 核验。",
-    "sourceAccess": "X web 403；公开原文镜像可读",
+    "sourceAccess": "X web 403；公开原文镜像可读 视频通过 FxTwitter 公开媒体元数据定位，原始帖 ID 与媒体 ID 匹配；MP4 从 X 的 video.twimg.com 下载并核对完整时长。",
     "summary": "作者称由旧机车图重建出 3295 个可编辑 Blender 对象。",
     "outputType": [
       "Blender",
@@ -708,20 +741,31 @@
     "promptExcerpt": null,
     "promptSummary": "作者回复称要求尽可能详细；未找到完整原始提示词。",
     "promptUrl": "https://x.com/tomkrcha/status/2095756085890310311",
-    "imageUrl": "https://echai.ventures/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIwNDYsInB1ciI6ImJsb2JfaWQifX0=--a621a985f5b0ac2c7f23118436cf9d71735cbcf1/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsxMjAwLDkwMF19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--50b0a2ee09b00976f15e6aaa2cef3753089a94a9/note-165.jpg",
-    "imageKind": "repost-poster",
-    "imageCaption": "Tom Krcha 的蒸汽机车建模原帖视频封面（eChai 转载）。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2095754646069354497/img/Pz6DsxqZ529t3QdE.jpg",
+    "imageKind": "source-media",
+    "imageCaption": "X 原帖视频封面。下方为完整视频，时长已与该帖媒体清单核对；最高画质可下载。",
     "demoUrl": null,
-    "videoUrl": null,
+    "videoUrl": "https://x.com/tomkrcha/status/2095756085890310311",
     "repositoryUrl": null,
     "evidenceUrls": [
       "https://echai.ventures/astra?category=3D",
       "https://www.sotwe.com/tomkrcha?lang=tr",
       "https://www.techmeme.com/260904/p18",
-      "https://echai.ventures/feed/so-how-good-really-is-gpt-6-astra-at-3d-modeling-i-took-an-old-165"
+      "https://echai.ventures/feed/so-how-good-really-is-gpt-6-astra-at-3d-modeling-i-took-an-old-165",
+      "https://api.fxtwitter.com/status/2095756085890310311"
     ],
-    "licenseNotes": "作品与媒体版权归原权利人；本库仅记录来源并外链展示，未取得再分发许可。",
-    "outcome": "showcase"
+    "licenseNotes": "视频版权归原作者，不适用本库 MIT 许可。按用户要求保存原平台公开的完整 MP4；未剪辑、未转码，不代表作者另行授予重分发许可。来源、时长和文件校验值见视频清单。",
+    "outcome": "showcase",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/tom-steam-train-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-06/tom-steam-train-1-original.mp4",
+        "durationSeconds": 34.17,
+        "bytes": 57617977,
+        "sha256": "ce475f5addcf42e5ebe8debaf3bc8ef9b430974ac79f3dfeea99b935bf983e4a",
+        "sourceUrl": "https://x.com/tomkrcha/status/2095756085890310311"
+      }
+    ]
   },
   {
     "id": "derya-ship-bottle",
@@ -742,7 +786,7 @@
     "evidenceLevel": "secondary",
     "evidenceStatus": "explicit-astra",
     "evidenceNote": "eChai 保留作者模型署名与 Three.js 说明；物理准确度未独立验证。",
-    "sourceAccess": "X web 403；eChai 原文摘录可读",
+    "sourceAccess": "X web 403；eChai 原文摘录可读 视频通过 FxTwitter 公开媒体元数据定位，原始帖 ID 与媒体 ID 匹配；MP4 从 X 的 video.twimg.com 下载并核对完整时长。",
     "summary": "作者展示带海浪、海鸥和港口的 Three.js 瓶中船。",
     "outputType": [
       "Three.js",
@@ -753,18 +797,29 @@
     "promptExcerpt": null,
     "promptSummary": null,
     "promptUrl": null,
-    "imageUrl": "https://echai.ventures/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI0MzIsInB1ciI6ImJsb2JfaWQifX0=--799a573c5b3e305ac15e83dc1857ef2ebb46dcbc/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsxMjAwLDkwMF19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--50b0a2ee09b00976f15e6aaa2cef3753089a94a9/note-196.jpg",
-    "imageKind": "repost-poster",
-    "imageCaption": "Derya Unutmaz 的 Three.js 瓶中船原帖视频封面（eChai 转载）。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2095698775075622912/img/X2vJ3HmhZXcG8lNC.jpg",
+    "imageKind": "source-media",
+    "imageCaption": "X 原帖视频封面。下方为完整视频，时长已与该帖媒体清单核对；最高画质可下载。",
     "demoUrl": null,
-    "videoUrl": null,
+    "videoUrl": "https://x.com/DeryaTR_/status/2095699049722581065",
     "repositoryUrl": null,
     "evidenceUrls": [
       "https://echai.ventures/astra?category=3D",
-      "https://echai.ventures/feed/i-built-a-really-cool-ship-in-a-bottle-with-gpt-6-astra-this-one-is-196"
+      "https://echai.ventures/feed/i-built-a-really-cool-ship-in-a-bottle-with-gpt-6-astra-this-one-is-196",
+      "https://api.fxtwitter.com/status/2095699049722581065"
     ],
-    "licenseNotes": "作品与媒体版权归原权利人；本库仅记录来源并外链展示，未取得再分发许可。",
-    "outcome": "showcase"
+    "licenseNotes": "视频版权归原作者，不适用本库 MIT 许可。按用户要求保存原平台公开的完整 MP4；未剪辑、未转码，不代表作者另行授予重分发许可。来源、时长和文件校验值见视频清单。",
+    "outcome": "showcase",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/derya-ship-bottle-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-06/derya-ship-bottle-1-original.mp4",
+        "durationSeconds": 120.04,
+        "bytes": 63728269,
+        "sha256": "f0fd7849c8a4a2ab25bb8b3ce22ab3b4e5db8795f4b4589d421243faa24dc28c",
+        "sourceUrl": "https://x.com/DeryaTR_/status/2095699049722581065"
+      }
+    ]
   },
   {
     "id": "feraser-turbocharger",
@@ -785,7 +840,7 @@
     "evidenceLevel": "secondary",
     "evidenceStatus": "explicit-astra",
     "evidenceNote": "eChai 摘录原任务与明确模型名；未见源码或独立试玩入口。",
-    "sourceAccess": "X web 403；eChai 原文摘录可读",
+    "sourceAccess": "X web 403；eChai 原文摘录可读 视频通过 FxTwitter 公开媒体元数据定位，原始帖 ID 与媒体 ID 匹配；MP4 从 X 的 video.twimg.com 下载并核对完整时长。",
     "summary": "以可旋转和隔离部件的涡轮增压器展示交互机械视图。",
     "outputType": [
       "交互 3D 模型",
@@ -795,18 +850,29 @@
     "promptExcerpt": null,
     "promptSummary": "作者公开任务：建立交互涡轮增压器，分离工作系统并允许旋转和隔离部件。",
     "promptUrl": "https://x.com/Feraser8/status/2095776712579571725",
-    "imageUrl": "https://echai.ventures/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI0MDAsInB1ciI6ImJsb2JfaWQifX0=--0bc42324ad425f89d27a9a19bc27f5e47f236cab/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsxMjAwLDkwMF19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--50b0a2ee09b00976f15e6aaa2cef3753089a94a9/note-185.jpg",
-    "imageKind": "repost-poster",
-    "imageCaption": "Feraser 的交互涡轮增压器原帖视频封面（eChai 转载）。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2095769948190801920/img/mGHcR0ny6WoaITEz.jpg",
+    "imageKind": "source-media",
+    "imageCaption": "X 原帖视频封面。下方为完整视频，时长已与该帖媒体清单核对；最高画质可下载。",
     "demoUrl": null,
-    "videoUrl": null,
+    "videoUrl": "https://x.com/Feraser8/status/2095776712579571725",
     "repositoryUrl": null,
     "evidenceUrls": [
       "https://echai.ventures/astra?category=3D",
-      "https://echai.ventures/feed/i-gave-the-new-gpt-6-astra-one-task-build-an-interactive-3d-185"
+      "https://echai.ventures/feed/i-gave-the-new-gpt-6-astra-one-task-build-an-interactive-3d-185",
+      "https://api.fxtwitter.com/status/2095776712579571725"
     ],
-    "licenseNotes": "作品与媒体版权归原权利人；本库仅记录来源并外链展示，未取得再分发许可。",
-    "outcome": "showcase"
+    "licenseNotes": "视频版权归原作者，不适用本库 MIT 许可。按用户要求保存原平台公开的完整 MP4；未剪辑、未转码，不代表作者另行授予重分发许可。来源、时长和文件校验值见视频清单。",
+    "outcome": "showcase",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/feraser-turbocharger-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-06/feraser-turbocharger-1-original.mp4",
+        "durationSeconds": 39.66,
+        "bytes": 11933301,
+        "sha256": "40b18b41ba18115d080188df676af94eb288221977c7c3010c703bbbe5201827",
+        "sourceUrl": "https://x.com/Feraser8/status/2095776712579571725"
+      }
+    ]
   },
   {
     "id": "yunfan-zillow-house",
@@ -827,7 +893,7 @@
     "evidenceLevel": "secondary",
     "evidenceStatus": "explicit-astra",
     "evidenceNote": "eChai 保留模型名、输入来源及作者自述局限；不可写成精确重建。",
-    "sourceAccess": "X web 403；eChai 原文摘录可读",
+    "sourceAccess": "X web 403；eChai 原文摘录可读 视频通过 FxTwitter 公开媒体元数据定位，原始帖 ID 与媒体 ID 匹配；MP4 从 X 的 video.twimg.com 下载并核对完整时长。",
     "summary": "作者从 Zillow 照片生成住宅模型，承认仍有错误细节。",
     "outputType": [
       "住宅重建",
@@ -837,18 +903,29 @@
     "promptExcerpt": null,
     "promptSummary": null,
     "promptUrl": null,
-    "imageUrl": "https://echai.ventures/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIxMTEsInB1ciI6ImJsb2JfaWQifX0=--9d55af86ac41f909b29bc89ccc7f79d7222c7a5b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsxMjAwLDkwMF19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--50b0a2ee09b00976f15e6aaa2cef3753089a94a9/note-179.jpg",
-    "imageKind": "repost-poster",
-    "imageCaption": "Yunfan Ye 的房源照片转三维住宅原帖视频封面（eChai 转载）。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2095611898968547328/img/EKCYWcJTBrAMT4e6.jpg",
+    "imageKind": "source-media",
+    "imageCaption": "X 原帖视频封面。下方为完整视频，时长已与该帖媒体清单核对；最高画质可下载。",
     "demoUrl": null,
-    "videoUrl": null,
+    "videoUrl": "https://x.com/realYunfanYe/status/2095612137582526615",
     "repositoryUrl": null,
     "evidenceUrls": [
       "https://echai.ventures/astra?category=3D",
-      "https://echai.ventures/feed/gpt-6-astra-is-a-beast-give-it-a-zillow-listing-it-can-3d-model-the-179"
+      "https://echai.ventures/feed/gpt-6-astra-is-a-beast-give-it-a-zillow-listing-it-can-3d-model-the-179",
+      "https://api.fxtwitter.com/status/2095612137582526615"
     ],
-    "licenseNotes": "作品与媒体版权归原权利人；本库仅记录来源并外链展示，未取得再分发许可。",
-    "outcome": "showcase-with-limitations"
+    "licenseNotes": "视频版权归原作者，不适用本库 MIT 许可。按用户要求保存原平台公开的完整 MP4；未剪辑、未转码，不代表作者另行授予重分发许可。来源、时长和文件校验值见视频清单。",
+    "outcome": "showcase-with-limitations",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/yunfan-zillow-house-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-06/yunfan-zillow-house-1-original.mp4",
+        "durationSeconds": 78.09,
+        "bytes": 51200531,
+        "sha256": "c7736fb89602f5aa394a1dbbef632bec746f4df10dd5b62e3b6a48b6b8485246",
+        "sourceUrl": "https://x.com/realYunfanYe/status/2095612137582526615"
+      }
+    ]
   },
   {
     "id": "ben-ship-render",
@@ -869,7 +946,7 @@
     "evidenceLevel": "secondary",
     "evidenceStatus": "explicit-astra",
     "evidenceNote": "作者镜像原文描述 Blender 船模和 4K 输出，并嵌入 GPT-6 Astra 发布帖；未下载项目检查。",
-    "sourceAccess": "X web 403；作者文本镜像可读",
+    "sourceAccess": "X web 403；作者文本镜像可读 视频通过 FxTwitter 公开媒体元数据定位，原始帖 ID 与媒体 ID 匹配；MP4 从 X 的 video.twimg.com 下载并核对完整时长。",
     "summary": "作者发布从零建立船模并渲染海上画面的 4K 演示。",
     "outputType": [
       "Blender",
@@ -879,18 +956,29 @@
     "promptExcerpt": null,
     "promptSummary": null,
     "promptUrl": null,
-    "imageUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2095600428587298816/img/GM52giA7HpU8xx0h.jpg",
     "imageKind": "source-media",
-    "imageCaption": "原作者发布的作品媒体；归属与限制见来源。",
+    "imageCaption": "X 原帖视频封面。下方为完整视频，时长已与该帖媒体清单核对；最高画质可下载。",
     "demoUrl": null,
-    "videoUrl": null,
+    "videoUrl": "https://x.com/davis7/status/2095600857626923097",
     "repositoryUrl": null,
     "evidenceUrls": [
       "https://twstalker.com/davis7",
-      "https://t-j.ru/gpt-6-astra-hype/"
+      "https://t-j.ru/gpt-6-astra-hype/",
+      "https://api.fxtwitter.com/status/2095600857626923097"
     ],
-    "licenseNotes": "作品与媒体版权归原权利人；本库仅记录来源并外链展示，未取得再分发许可。",
-    "outcome": "showcase"
+    "licenseNotes": "视频版权归原作者，不适用本库 MIT 许可。按用户要求保存原平台公开的完整 MP4；未剪辑、未转码，不代表作者另行授予重分发许可。来源、时长和文件校验值见视频清单。",
+    "outcome": "showcase",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/ben-ship-render-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-06/ben-ship-render-1-original.mp4",
+        "durationSeconds": 7,
+        "bytes": 19841478,
+        "sha256": "581f00c093f14882443fddfb2ceccbd0a451d9cd2b6052f1c9df2a06120b2a63",
+        "sourceUrl": "https://x.com/davis7/status/2095600857626923097"
+      }
+    ]
   },
   {
     "id": "anshu-concept-to-game",
@@ -912,7 +1000,7 @@
     "evidenceLevel": "secondary",
     "evidenceStatus": "explicit-astra",
     "evidenceNote": "Reddit 保留原帖、后续流程帖和 High 设置；45 分钟与额度消耗为作者自述。",
-    "sourceAccess": "Reddit 可读；X 原页受限",
+    "sourceAccess": "Reddit 可读；X 原页受限 视频通过 FxTwitter 公开媒体元数据定位，原始帖 ID 与媒体 ID 匹配；MP4 从 X 的 video.twimg.com 下载并核对完整时长。",
     "summary": "作者用 Blender MCP 与概念图引导场景，并让 Astra 对照游戏截图迭代。",
     "outputType": [
       "3D 游戏",
@@ -923,17 +1011,28 @@
     "promptExcerpt": null,
     "promptSummary": "公开连接 Blender MCP、生成目标画风概念图、对照截图迭代并以 60 FPS 为目标的流程；具体游戏概念未见。",
     "promptUrl": "https://x.com/anshuc/status/2096008086901113339",
-    "imageUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096004824751890434/img/fW0IV1fAgJ3b7i-D.jpg",
     "imageKind": "source-media",
-    "imageCaption": "原作者发布的作品媒体；归属与限制见来源。",
+    "imageCaption": "X 原帖视频封面。下方为完整视频，时长已与该帖媒体清单核对；最高画质可下载。",
     "demoUrl": null,
-    "videoUrl": null,
+    "videoUrl": "https://x.com/anshuc/status/2096008083826725132",
     "repositoryUrl": null,
     "evidenceUrls": [
-      "https://www.reddit.com/r/accelerate/comments/1w7nzal/dude_gpt6_astra_is_some_kind_of_turboagi_machine/"
+      "https://www.reddit.com/r/accelerate/comments/1w7nzal/dude_gpt6_astra_is_some_kind_of_turboagi_machine/",
+      "https://api.fxtwitter.com/status/2096008083826725132"
     ],
-    "licenseNotes": "作品与媒体版权归原权利人；本库仅记录来源并外链展示，未取得再分发许可。",
-    "outcome": "showcase"
+    "licenseNotes": "视频版权归原作者，不适用本库 MIT 许可。按用户要求保存原平台公开的完整 MP4；未剪辑、未转码，不代表作者另行授予重分发许可。来源、时长和文件校验值见视频清单。",
+    "outcome": "showcase",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/anshu-concept-to-game-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-06/anshu-concept-to-game-1-original.mp4",
+        "durationSeconds": 18.55,
+        "bytes": 48776566,
+        "sha256": "acf1cc66393183132c4d18c6b850986f299d9380424e62a7dd1f8a7bf119e576",
+        "sourceUrl": "https://x.com/anshuc/status/2096008083826725132"
+      }
+    ]
   },
   {
     "id": "manu-gbasp-portfolio",
@@ -1158,7 +1257,7 @@
     "evidenceLevel": "secondary",
     "evidenceStatus": "explicit-astra",
     "evidenceNote": "Reddit 引用原帖和复测帖；耗时与额度为作者自报，评论也有不同体验，不能推广成标准成本。",
-    "sourceAccess": "Reddit 引文可读；X 原页受限",
+    "sourceAccess": "Reddit 引文可读；X 原页受限 视频通过 FxTwitter 公开媒体元数据定位，原始帖 ID 与媒体 ID 匹配；MP4 从 X 的 video.twimg.com 下载并核对完整时长。",
     "summary": "比较同类 Godot 三维游戏任务在两个推理档位下的输出。",
     "outputType": [
       "Godot",
@@ -1169,17 +1268,28 @@
     "promptExcerpt": null,
     "promptSummary": "作者后续发布提示词图片，但本轮未读全，不抄写或补全。",
     "promptUrl": "https://x.com/AiBattle_/status/2096056285896536086",
-    "imageUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2095992908448944130/img/v8BSAp4Xt5knPeV0.jpg",
     "imageKind": "source-media",
-    "imageCaption": "原作者发布的作品媒体；归属与限制见来源。",
+    "imageCaption": "X 原帖视频封面。下方为完整视频，时长已与该帖媒体清单核对；最高画质可下载。",
     "demoUrl": null,
-    "videoUrl": null,
+    "videoUrl": "https://x.com/AiBattle_/status/2095994051354919049",
     "repositoryUrl": null,
     "evidenceUrls": [
-      "https://www.reddit.com/r/ProAI/comments/1w7x6uc/gpt6astra_max_vs_gpt6astra_medium_simple_3d_sonic/"
+      "https://www.reddit.com/r/ProAI/comments/1w7x6uc/gpt6astra_max_vs_gpt6astra_medium_simple_3d_sonic/",
+      "https://api.fxtwitter.com/status/2095994051354919049"
     ],
-    "licenseNotes": "作品与媒体版权归原权利人；本库仅记录来源并外链展示，未取得再分发许可。",
-    "outcome": "comparison"
+    "licenseNotes": "视频版权归原作者，不适用本库 MIT 许可。按用户要求保存原平台公开的完整 MP4；未剪辑、未转码，不代表作者另行授予重分发许可。来源、时长和文件校验值见视频清单。",
+    "outcome": "comparison",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/aibattle-sonic-godot-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-06/aibattle-sonic-godot-1-original.mp4",
+        "durationSeconds": 41.22,
+        "bytes": 26328880,
+        "sha256": "580b2284dad76881b363047a913b8ab8c9ca0a56fe6e0c417a857ec76a110d9a",
+        "sourceUrl": "https://x.com/AiBattle_/status/2095994051354919049"
+      }
+    ]
   },
   {
     "id": "reference-freestyle-333",
@@ -1201,7 +1311,7 @@
     "evidenceLevel": "reference",
     "evidenceStatus": "reference-only-non-astra",
     "evidenceNote": "来自用户指定的提示词参考仓库；未确认这条图片的原始模型运行记录，不计入 Astra 案例。",
-    "sourceAccess": "来源页面已读取；未重新运行作品",
+    "sourceAccess": "参考仓库已读取；仓库外的原始帖子未逐条复核。",
     "summary": "用部件标签组织眼镜拆解图；仅作构图参考。",
     "outputType": [
       "3D 风格图片"
@@ -1240,7 +1350,7 @@
     "evidenceLevel": "reference",
     "evidenceStatus": "reference-only-non-astra",
     "evidenceNote": "来自用户指定的提示词参考仓库；未确认这条图片的原始模型运行记录，不计入 Astra 案例。",
-    "sourceAccess": "来源页面已读取；未重新运行作品",
+    "sourceAccess": "参考仓库已读取；仓库外的原始帖子未逐条复核。",
     "summary": "以垂直分层呈现产品内部结构。",
     "outputType": [
       "3D 风格图片"
@@ -1281,7 +1391,7 @@
     "evidenceLevel": "reference",
     "evidenceStatus": "reference-only-non-astra",
     "evidenceNote": "来自用户指定的提示词参考仓库；未确认这条图片的原始模型运行记录，不计入 Astra 案例。",
-    "sourceAccess": "来源页面已读取；未重新运行作品",
+    "sourceAccess": "参考仓库已读取；仓库外的原始帖子未逐条复核。",
     "summary": "人物身份与哑光搪胶材质转换。",
     "outputType": [
       "3D 风格图片"
@@ -1324,7 +1434,7 @@
     "evidenceLevel": "reference",
     "evidenceStatus": "reference-only-non-astra",
     "evidenceNote": "来自用户指定的提示词参考仓库；未确认这条图片的原始模型运行记录，不计入 Astra 案例。",
-    "sourceAccess": "来源页面已读取；未重新运行作品",
+    "sourceAccess": "参考仓库已读取；仓库外的原始帖子未逐条复核。",
     "summary": "前中后景串联国家景观与生活场景。",
     "outputType": [
       "3D 风格图片"
@@ -1366,7 +1476,7 @@
     "evidenceLevel": "reference",
     "evidenceStatus": "reference-only-non-astra",
     "evidenceNote": "来自用户指定的提示词参考仓库；未确认这条图片的原始模型运行记录，不计入 Astra 案例。",
-    "sourceAccess": "来源页面已读取；未重新运行作品",
+    "sourceAccess": "参考仓库已读取；仓库外的原始帖子未逐条复核。",
     "summary": "珠宝主体与城市尺度融合的商业构图。",
     "outputType": [
       "3D 风格图片"
@@ -1407,7 +1517,7 @@
     "evidenceLevel": "reference",
     "evidenceStatus": "reference-only-non-astra",
     "evidenceNote": "来自用户指定的提示词参考仓库；未确认这条图片的原始模型运行记录，不计入 Astra 案例。",
-    "sourceAccess": "来源页面已读取；未重新运行作品",
+    "sourceAccess": "参考仓库已读取；仓库外的原始帖子未逐条复核。",
     "summary": "角色转面与配饰说明，属二维建模参考板。",
     "outputType": [
       "3D 风格图片"
@@ -1448,7 +1558,7 @@
     "evidenceLevel": "reference",
     "evidenceStatus": "reference-only-non-astra",
     "evidenceNote": "来自用户指定的提示词参考仓库；未确认这条图片的原始模型运行记录，不计入 Astra 案例。",
-    "sourceAccess": "来源页面已读取；未重新运行作品",
+    "sourceAccess": "参考仓库已读取；仓库外的原始帖子未逐条复核。",
     "summary": "镜面马赛克材质的图标渲染风格。",
     "outputType": [
       "3D 风格图片"
@@ -1489,7 +1599,7 @@
     "evidenceLevel": "reference",
     "evidenceStatus": "reference-only-non-astra",
     "evidenceNote": "来自用户指定的提示词参考仓库；未确认这条图片的原始模型运行记录，不计入 Astra 案例。",
-    "sourceAccess": "来源页面已读取；未重新运行作品",
+    "sourceAccess": "参考仓库已读取；仓库外的原始帖子未逐条复核。",
     "summary": "纸面地图连接道路、车辆和地标。",
     "outputType": [
       "3D 风格图片"
@@ -1529,7 +1639,7 @@
     "evidenceLevel": "reference",
     "evidenceStatus": "reference-only-non-astra",
     "evidenceNote": "来自用户指定的提示词参考仓库；未确认这条图片的原始模型运行记录，不计入 Astra 案例。",
-    "sourceAccess": "来源页面已读取；未重新运行作品",
+    "sourceAccess": "参考仓库已读取；仓库外的原始帖子未逐条复核。",
     "summary": "30 度等距视角的书店、咖啡馆和广场。",
     "outputType": [
       "3D 风格图片"
@@ -1570,7 +1680,7 @@
     "evidenceLevel": "reference",
     "evidenceStatus": "reference-only-model-mismatch",
     "evidenceNote": "来自用户指定的提示词参考仓库；未确认这条图片的原始模型运行记录，不计入 Astra 案例。",
-    "sourceAccess": "来源页面已读取；未重新运行作品",
+    "sourceAccess": "参考仓库已读取；仓库外的原始帖子未逐条复核。",
     "summary": "网格、坡地与路径的等距地图表达。",
     "outputType": [
       "3D 风格图片"
@@ -1611,7 +1721,7 @@
     "evidenceLevel": "reference",
     "evidenceStatus": "reference-only-non-astra",
     "evidenceNote": "来自用户指定的提示词参考仓库；未确认这条图片的原始模型运行记录，不计入 Astra 案例。",
-    "sourceAccess": "来源页面已读取；未重新运行作品",
+    "sourceAccess": "参考仓库已读取；仓库外的原始帖子未逐条复核。",
     "summary": "根据包装刀版保持文字、折线与纸板质感。",
     "outputType": [
       "3D 风格图片"
@@ -1651,7 +1761,7 @@
     "evidenceLevel": "reference",
     "evidenceStatus": "reference-only-non-astra",
     "evidenceNote": "来自用户指定的提示词参考仓库；未确认这条图片的原始模型运行记录，不计入 Astra 案例。",
-    "sourceAccess": "来源页面已读取；未重新运行作品",
+    "sourceAccess": "参考仓库已读取；仓库外的原始帖子未逐条复核。",
     "summary": "毛发、材质和晨光的动画静帧参考。",
     "outputType": [
       "3D 风格图片"

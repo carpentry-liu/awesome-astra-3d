@@ -1,9 +1,10 @@
 export type EvidenceLevel = 'official' | 'author' | 'secondary' | 'reference';
+export type ArchivedVideo = {playbackUrl:string;downloadUrl:string;durationSeconds:number;bytes:number;sha256:string;sourceUrl:string};
 export type Case = {
  id:string; title:string; titleEn:string|null; group:'astra'|'reference'; category:string; platform:string; platforms:string[]; author:string|null;
  sourceUrl:string; sourceDate:string|null; secondaryPublishedAt:string|null; observedAt:string; modelLabel:string; evidenceLevel:EvidenceLevel; evidenceStatus:string; evidenceNote:string; sourceAccess:string;
  summary:string; outputType:string[]; promptAvailability:string; promptExcerpt:string|null; promptSummary:string|null; promptUrl:string|null;
- imageUrl:string|null; imageKind:string; imageCaption:string; demoUrl:string|null; videoUrl:string|null; repositoryUrl:string|null; evidenceUrls:string[]; licenseNotes:string; outcome:string;
+ imageUrl:string|null; imageKind:string; imageCaption:string; demoUrl:string|null; videoUrl:string|null; repositoryUrl:string|null; evidenceUrls:string[]; licenseNotes:string; outcome:string; archivedVideos?:ArchivedVideo[];
 };
 export const evidenceLabels:Record<EvidenceLevel,string>={official:'官方展示',author:'作者自述',secondary:'转引待复核',reference:'方法参考'};
 export type Filters={query?:string;group?:string;category?:string;platform?:string};
