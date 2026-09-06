@@ -2,9 +2,52 @@
 
 一个可溯源的 **GPT-6 Astra 3D 案例库**：建筑漫游、Blender 建模、Three.js / WebGL 世界、3D 游戏、空间创作工具与失败样本。
 
+**A curated gallery of GPT-6 Astra 3D examples** — Blender models, Three.js / WebGL worlds, architecture and games, with full videos, prompts, source code and original creators.
+
 **[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/) · [全部案例](CATALOG.md) · [结构化数据](data/cases.json) · [贡献案例](CONTRIBUTING.md)**
 
 首批整理于 **2026-09-06（Asia/Shanghai）**，收录 **29 条 Astra 案例 + 12 条独立方法参考**。覆盖官方、X/Twitter、GitHub、Reddit、YouTube、个人网站。模型归属按公开来源分级，未在本机重新运行这些第三方作品。
+
+## 网站预览
+
+[![Astra 3D Atlas 网站实拍：案例索引、分类筛选与三维作品预览](docs/features/F-0001-atlas/evidence/desktop.png)](https://carpentry-liu.github.io/awesome-astra-3d/)
+
+点击截图打开网站，按作品类型、作者和工具搜索，查看原帖、公开提示词、源码及 **10 个完整视频**。
+
+## 案例效果一览
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-solace-garden-house"><img src="https://cdn.openai.com/devhub/blog/architectural-visualization/garden-house-exterior-822ca33fb418.webp" alt="Solace：Blender 渲染的庭院住宅外观" width="420"></a>
+      <h3>Solace · 建筑与室内</h3>
+      <p>从建筑概念到 Blender 场景与 UE5 漫游。图为官方文章中的外观渲染。</p>
+      <p>Thomas Ricouard · 官方展示<br><a href="https://developers.openai.com/blog/architectural-visualization-with-astra">作者与过程</a> · <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-solace-garden-house">查看案例</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=simonw-pelican-bicycle"><img src="https://static.simonwillison.net/static/2026/astra-blender-pelican.jpg" alt="Simon Willison 用 Blender 制作的海滨鹈鹕骑自行车场景" width="420"></a>
+      <h3>鹈鹕骑车 · Blender 建模</h3>
+      <p>三轮对话完成建模与渲染，公开 .blend、Python 脚本和 Codex 记录。</p>
+      <p>Simon Willison · 作者自述<br><a href="https://til.simonwillison.net/llms/blender-coding-agents-macos">作者与过程</a> · <a href="https://github.com/simonw/gpt-6-astra-blender-pelican-bicycle">源码与模型</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=peter-van-gogh-town"><img src="https://pbs.twimg.com/amplify_video_thumb/2095776416302280708/img/IzfZe03VWW3gBzC6.jpg" alt="梵高小镇 Three.js 场景的原帖视频封面" width="420"></a>
+      <h3>走进梵高画作 · Three.js 世界</h3>
+      <p>把卧室、咖啡馆、河岸与田野连接成可漫步的绘画世界。图为原帖视频封面。</p>
+      <p>Peter Gostev · 转引待复核<br><a href="https://x.com/petergostev/status/2095776685807346105">作者原帖</a> · <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=peter-van-gogh-town">播放完整视频 · 1:16</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=tom-steam-train"><img src="https://pbs.twimg.com/amplify_video_thumb/2095754646069354497/img/Pz6DsxqZ529t3QdE.jpg" alt="老式蒸汽机车 Blender 模型的原帖视频封面" width="420"></a>
+      <h3>蒸汽机车 · 可编辑三维对象</h3>
+      <p>作者称由旧机车图重建出 3295 个可编辑 Blender 对象。图为原帖视频封面。</p>
+      <p>Tom Krcha · 转引待复核<br><a href="https://x.com/tomkrcha/status/2095756085890310311">作者原帖</a> · <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=tom-steam-train">播放完整视频 · 0:34</a></p>
+    </td>
+  </tr>
+</table>
+
+作品与图片归原作者所有；图片点击后进入对应案例。更多建筑、游戏、科学可视化和失败样本见 **[完整案例目录](CATALOG.md)**。
 
 ## 精选起点
 
