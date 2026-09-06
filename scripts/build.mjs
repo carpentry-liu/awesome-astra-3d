@@ -7,4 +7,5 @@ const result=needsCompatibleRuntime
  ? spawnSync('npm.cmd',['exec','--yes','--package=node@22.22.0','--','node','node_modules/vinext/dist/cli.js','build'],{stdio:'inherit',shell:true})
  : spawnSync(process.execPath,['node_modules/vinext/dist/cli.js','build'],{stdio:'inherit'});
 if(result.error){console.error(result.error.message);process.exit(1);}
-process.exit(result.status??1);
+if(result.status!==0)process.exit(result.status??1);
+await import('./verify-export.mjs');
