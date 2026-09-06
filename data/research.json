@@ -1,0 +1,80 @@
+{
+  "observedAt": "2026-09-06",
+  "officialSources": [
+    "https://developers.openai.com/showcase/all",
+    "https://developers.openai.com/api/docs/models/gpt-6-astra"
+  ],
+  "socialSearches": [
+    "\"GPT-6 Astra\" 3D",
+    "\"GPT-6\" \"Astra\" three.js",
+    "\"Astra\" \"GPT-6\" site:x.com",
+    "\"GPT-6 Astra\" Blender",
+    "\"GPT-6 Astra\" \"3D\" YouTube",
+    "\"GPT-6 Astra\" \"Blender\" github",
+    "\"GPT-6 Astra\" \"3D\" \"prompt\" Reddit",
+    "site:simonwillison.net \"Astra\" \"Blender\"",
+    "\"petergostev\" \"Astra\" \"Van\"",
+    "\"Tom Krcha\" \"steam train\" \"Astra\"",
+    "\"theo\" \"Fishslop\" \"Astra\"",
+    "\"Feraser\" \"interactive 3D turbocharger\""
+  ],
+  "socialLimitations": [
+    "X 原帖通过 web 获取普遍返回 403，已保留原链与实际可读镜像/引文。",
+    "媒体图片是否可读与使用许可是两回事；未将网页公开等同于自由转载许可。",
+    "没有把 GPT Image 2、GPT-5 或 Fable 生成物写成 Astra；对照条目保留另一模型名称。",
+    "独立演示仅确认页面或仓库可达，未完成交互玩法验证。",
+    "日期无绝对日期可核实时保留 null；不从相对时间猜精确日期。",
+    "只收集实际结果或失败结果，排除了仅宣布即将测试的帖子。"
+  ],
+  "referenceRepositories": [
+    {
+      "repository": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "countObserved": 544,
+      "reusableIdeas": [
+        "案例画廊 + 分类索引",
+        "每例图片、作者原链、提示词",
+        "方法模板与案例分层",
+        "声明与贡献入口"
+      ],
+      "qualityNotes": [
+        "部分建筑分类与实际提示词不符，例如 case-26 是人像摄影、case-120 是动漫人物、case-127 是漫画；本次按内容筛选，未照抄标签。",
+        "原始来源有的只到作者主页；必须区分发现来源与已核验原帖。",
+        "提示词中含 Blender、Octane、3D render 不能证明生成了可编辑网格。"
+      ],
+      "licenseEvidence": [
+        "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/LICENSE",
+        "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/disclaimer.md"
+      ]
+    },
+    {
+      "repository": "https://github.com/wuyoscar/GPT-Image2-Skill",
+      "reusableIdeas": [
+        "精选展示与完整分类文件分离",
+        "尺寸、质量、来源元数据",
+        "提示词与技能/CLI 各自单独维护",
+        "保留作者署名"
+      ],
+      "qualityNotes": [
+        "有来自 r/midjourney 的提示词，不能按仓库名统一判定模型。",
+        "部分来源为主页而非帖子；Curated 不等于独立验证。"
+      ],
+      "licenseEvidence": [
+        "https://github.com/wuyoscar/GPT-Image2-Skill/blob/main/LICENSE",
+        "https://github.com/wuyoscar/GPT-Image2-Skill#-license"
+      ]
+    }
+  ],
+  "repositorySearchLog": [
+    "Web 打开两个用户指定仓库，读取完整 raw README、gallery 索引、gallery-part-1/2 相关段、wuyoscar 分类文件和 LICENSE/disclaimer。",
+    "GitHub REST 未认证共享 IP 遭遇速率限制；本机 gh 不在 PATH；回退至 raw 与网页，不克隆大体量图像。",
+    "Web 查询 site:github.com \"GPT-6\" \"Astra\" \"3D\"；site:github.com \"gpt-6-astra\"；site:github.com \"GPT-6\" \"three.js\"；site:github.com \"GPT-6\" \"Blender\"。",
+    "GitHub 多数结果为接入/提示词配置而非 3D 案例；最终定位 PhiloLabs/fable51-worlds 的 Astra 子目录，读取其 README、package.json、许可证和首次提交 Atom。",
+    "作者博客全文与 HTML 媒体引用核验 AI Kai 案例；未下载任何媒体。"
+  ],
+  "repositoryLimitations": [
+    "调研候选中只有前两条为 Astra 作者归属明确的案例，其余 12 条必须放入独立方法参考区，不能污染 Astra 统计。",
+    "除可公开读取的 GitHub/作者网页外，参考库里的 X 原帖未逐条独立打开验证，缺失原始日期保持 null。",
+    "本次确认来源和公开产物存在，没有重跑作者项目，也没有声称独立验证建模耗时、性能、拓扑或几何质量。",
+    "当前检索只能说明找到这些公开可访问结果，不能声称互联网不存在更多 GitHub Astra 3D 仓库。"
+  ]
+}

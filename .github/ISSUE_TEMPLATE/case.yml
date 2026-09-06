@@ -1,0 +1,22 @@
+name: 补充或更正案例
+description: 提供可追溯的 Astra 3D 作品
+title: '[case] '
+body:
+  - type: input
+    id: source
+    attributes:
+      label: 原作者来源 URL
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 模型声明与输出
+      description: 写明原文如何提及 Astra，输出是图片、真实三维资产还是交互网页。
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: 作者、日期、提示词、源码、演示与媒体权利
+      description: 未知信息请保留未知。纠错或移除也可在此说明。

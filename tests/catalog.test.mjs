@@ -1,0 +1,12 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import {filterCases,validateSearch} from '../src/catalog.ts';
+const cases=JSON.parse(fs.readFileSync(new URL('../data/cases.json',import.meta.url),'utf8'));
+test('default search never mixes reference images into Astra results',()=>{const result=filterCases(cases);assert(result.length>0);assert(result.every(c=>c.group==='astra'));});
+test('reference selection has separate counts',()=>{assert.equal(filterCases(cases,{group:'reference'}).length,cases.filter(c=>c.group==='reference').length);});
+test('search combines words across author and output fields',()=>{assert(filterCases(cases,{query:'SIMON blender'}).some(c=>c.id==='simonw-pelican-bicycle'));});
+test('category and platform filters intersect, not union',()=>{const result=filterCases(cases,{category:'3D 游戏',platform:'OpenAI'});assert(result.length>0);assert(result.every(c=>c.category==='3D 游戏'&&c.platform==='OpenAI'));});
+test('unknown query returns an honest empty state',()=>{assert.equal(filterCases(cases,{query:'does-not-exist-9f13'}).length,0);});
+test('read-only WebMCP input rejects invalid values',()=>{assert.throws(()=>validateSearch({group:'everything'}));assert.throws(()=>validateSearch({query:3}));assert.throws(()=>validateSearch({token:'x'}));assert.throws(()=>validateSearch(null));assert.deepEqual(validateSearch({query:'Blender'}),{query:'Blender'});});
+test('quoted repost dates and video destinations remain distinct',()=>{for(const id of ['anshu-concept-to-game','aibattle-sonic-godot']){const c=cases.find(c=>c.id===id);assert.equal(c.sourceDate,null);assert(c.secondaryPublishedAt);}for(const id of ['claire-fashion-game','claire-family-journey']){const c=cases.find(c=>c.id===id);assert.equal(c.demoUrl,null);assert(c.videoUrl);}});

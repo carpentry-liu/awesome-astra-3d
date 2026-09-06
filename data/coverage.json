@@ -1,0 +1,15 @@
+{
+  "observedAt": "2026-09-06",
+  "timezone": "Asia/Shanghai",
+  "queries": ["site:xiaohongshu.com Astra 3D", "site:xiaohongshu.com GPT6", "Astra site:xiaohongshu.com/explore/", "GPT6 site:xiaohongshu.com/explore/", "GPT-6 site:bilibili.com/video/", "GPT-6 Astra 3D 中文"],
+  "xiaohongshu": {
+    "includedCount": 0,
+    "platformTotal": null,
+    "publicSearch": "未取得可核实笔记；不能据此断言平台无案例",
+    "browser": "搜索页读取两次超时",
+    "localSession": "专用 MCP check_login_status 实际返回未登录"
+  },
+  "bilibili": "检索命中预测、发布新闻与转载，未纳入独立 3D 案例",
+  "otherDiscoveryPages": ["https://echai.ventures/astra?category=3D", "https://www.sina.cn/news/detail/5339504621656088.html", "https://autolab.cloud/blog/gpt-6-astra-all-demo-videos", "https://note.com/takanashi_ai/n/nf8160f0c9cb5"],
+  "notes": "中文和日文媒体用来发现原始线索，重复内容不重复计数；来源访问受限状态不自动升级为作者原帖已核验。"
+}
