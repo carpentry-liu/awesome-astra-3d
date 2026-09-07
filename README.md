@@ -18,56 +18,95 @@
 
 本轮新增：多人卡丁车、PS1 格斗、Blender / GLB 交互网页、末世场景、中文甜甜圈建模与带局限说明的角色表情工作流。完整名单见 [更新目录](UPDATES.md)。
 
-## 网站预览
+## 先看新版网站
 
-[![Astra 3D Atlas 网站实拍：案例索引、分类筛选与三维作品预览](docs/features/F-0002-catalog-growth/evidence/desktop.png)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 新版网站实拍：53 个案例、最新收录排序、材料筛选与新增三维作品](docs/media/gallery-latest.png)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#top)
 
-点击截图打开网站，按作品类型、作者和工具搜索，筛选源码、演示入口与完整视频。当前筛选结果可以复制链接分享。
+**2026-09-07 实拍，按“最新收录”排序。** 点击截图直接浏览新增作品；可筛选源码、演示入口与完整视频，也能分享当前结果。
 
-## 案例效果一览
+| 你想做什么 | 直接进入 |
+| --- | --- |
+| 下载工程继续研究 | [源码 / 工程集合](https://carpentry-liu.github.io/awesome-astra-3d/?resource=source#collection) · [三条上手路线](START_HERE.md) |
+| 先看作品完整效果 | [完整视频集合](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video&order=newest#collection) · [最高画质附件](https://github.com/carpentry-liu/awesome-astra-3d/releases) |
+| 了解这次补了什么 | [最新收录目录](UPDATES.md) · [全部案例](CATALOG.md) |
+
+## 从这 8 个作品开始
+
+前六个来自本轮新增，覆盖可编辑工程、程序化世界、游戏与建筑场景；后两个保留过程资料完整的经典起点。图片与动图来自原作者，点击进入对应档案。
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-solace-garden-house"><img src="https://cdn.openai.com/devhub/blog/architectural-visualization/garden-house-exterior-822ca33fb418.webp" alt="Solace：Blender 渲染的庭院住宅外观" width="420"></a>
-      <h3>Solace · 建筑与室内</h3>
-      <p>从建筑概念到 Blender 场景与 UE5 漫游。图为官方文章中的外观渲染。</p>
-      <p>Thomas Ricouard · 官方展示<br><a href="https://developers.openai.com/blog/architectural-visualization-with-astra">作者与过程</a> · <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-solace-garden-house">查看案例</a></p>
+      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=ruofeng-orbital-core"><img src="https://pbs.twimg.com/amplify_video_thumb/2096549512995368961/img/kyuKVBrCE5i7fHA8.jpg" alt="Orbital Core · 模型到网页" width="420"></a>
+      <h3>Orbital Core · 模型到网页</h3>
+      <p>Blender 工程、GLB 与 Three.js 交互；附完整视频。</p>
+      <p>ruofeng (@oneruofeng) · 转引待复核<br><a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=ruofeng-orbital-core">查看档案</a> · <a href="https://github.com/wangruofeng/orbital-core-showcase">源码 / 工程</a> · <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=ruofeng-orbital-core">完整视频 · 0:55</a> · <a href="https://x.com/oneruofeng/status/2096551010089263181">原始来源</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=simonw-pelican-bicycle"><img src="https://static.simonwillison.net/static/2026/astra-blender-pelican.jpg" alt="Simon Willison 用 Blender 制作的海滨鹈鹕骑自行车场景" width="420"></a>
-      <h3>鹈鹕骑车 · Blender 建模</h3>
-      <p>三轮对话完成建模与渲染，公开 .blend、Python 脚本和 Codex 记录。</p>
-      <p>Simon Willison · 作者自述<br><a href="https://til.simonwillison.net/llms/blender-coding-agents-macos">作者与过程</a> · <a href="https://github.com/simonw/gpt-6-astra-blender-pelican-bicycle">源码与模型</a></p>
+      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=mollick-living-ocean"><img src="https://pbs.twimg.com/amplify_video_thumb/2095673008803241987/img/rkGOb6E0-oOUi5ka.jpg" alt="Living Deep · 海洋世界" width="420"></a>
+      <h3>Living Deep · 海洋世界</h3>
+      <p>在既有海面程序上扩展海底生态；公开源码与完整视频。</p>
+      <p>Ethan Mollick · 转引待复核<br><a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=mollick-living-ocean">查看档案</a> · <a href="https://github.com/emollick/abyssal-living-deep">源码 / 工程</a> · <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=mollick-living-ocean">完整视频 · 1:04</a> · <a href="https://x.com/emollick/status/2095673885605630429">原始来源</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=peter-van-gogh-town"><img src="https://pbs.twimg.com/amplify_video_thumb/2095776416302280708/img/IzfZe03VWW3gBzC6.jpg" alt="梵高小镇 Three.js 场景的原帖视频封面" width="420"></a>
-      <h3>走进梵高画作 · Three.js 世界</h3>
-      <p>把卧室、咖啡馆、河岸与田野连接成可漫步的绘画世界。图为原帖视频封面。</p>
-      <p>Peter Gostev · 转引待复核<br><a href="https://x.com/petergostev/status/2095776685807346105">作者原帖</a> · <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=peter-van-gogh-town">播放完整视频 · 1:16</a></p>
+      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=amsminn-smash-karts"><img src="https://raw.githubusercontent.com/amsminn/gpt-6-astra-smash-karts/main/docs/media/gameplay.gif" alt="Smash Karts · 多人卡丁车" width="420"></a>
+      <h3>Smash Karts · 多人卡丁车</h3>
+      <p>作者的游戏演示动图；公开 Three.js 游戏、服务器与 agent 轨迹。</p>
+      <p>amsminn · 作者自述<br><a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=amsminn-smash-karts">查看档案</a> · <a href="https://github.com/amsminn/gpt-6-astra-smash-karts">源码 / 工程</a> · <a href="https://github.com/amsminn/gpt-6-astra-smash-karts">原始来源</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=tom-steam-train"><img src="https://pbs.twimg.com/amplify_video_thumb/2095754646069354497/img/Pz6DsxqZ529t3QdE.jpg" alt="老式蒸汽机车 Blender 模型的原帖视频封面" width="420"></a>
-      <h3>蒸汽机车 · 可编辑三维对象</h3>
-      <p>作者称由旧机车图重建出 3295 个可编辑 Blender 对象。图为原帖视频封面。</p>
-      <p>Tom Krcha · 转引待复核<br><a href="https://x.com/tomkrcha/status/2095756085890310311">作者原帖</a> · <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=tom-steam-train">播放完整视频 · 0:34</a></p>
+      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=goroman-facet-fighter"><img src="https://raw.githubusercontent.com/GOROman/gpt-6-astra-ps1-game-benchmark/main/docs/screenshots/015-arcade-champion.png" alt="FACET FIGHTER · PS1 格斗" width="420"></a>
+      <h3>FACET FIGHTER · PS1 格斗</h3>
+      <p>作者的模拟器截图；公开 PSn00bSDK 源码与提示词记录。</p>
+      <p>GOROman · 作者自述<br><a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=goroman-facet-fighter">查看档案</a> · <a href="https://github.com/GOROman/gpt-6-astra-ps1-game-benchmark">源码 / 工程</a> · <a href="https://github.com/GOROman/gpt-6-astra-ps1-game-benchmark">原始来源</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-giverny-garden"><img src="https://cdn.openai.com/devhub/blog/architectural-visualization/giverny-water-garden-cec7107eed5b.webp" alt="Giverny · 莫奈花园" width="420"></a>
+      <h3>Giverny · 莫奈花园</h3>
+      <p>官方文章中的 Blender 渲染：睡莲池、绿桥与植被场景。</p>
+      <p>Thomas Ricouard · 官方展示<br><a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-giverny-garden">查看档案</a> · <a href="https://developers.openai.com/blog/architectural-visualization-with-astra">原始来源</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-helios-collector"><img src="https://cdn.openai.com/devhub/blog/architectural-visualization/helios-stellar-collector-8f89b625bd2f.webp" alt="HELIOS · 恒星集能结构" width="420"></a>
+      <h3>HELIOS · 恒星集能结构</h3>
+      <p>官方文章中的 Blender 概念场景渲染；附作者制作过程。</p>
+      <p>Thomas Ricouard · 官方展示<br><a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-helios-collector">查看档案</a> · <a href="https://developers.openai.com/blog/architectural-visualization-with-astra">原始来源</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=simonw-pelican-bicycle"><img src="https://static.simonwillison.net/static/2026/astra-blender-pelican.jpg" alt="鹈鹕骑车 · 可编辑 Blender 工程" width="420"></a>
+      <h3>鹈鹕骑车 · 可编辑 Blender 工程</h3>
+      <p>三轮迭代的 .blend、Python 脚本与 Codex 对话记录。</p>
+      <p>Simon Willison · 作者自述<br><a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=simonw-pelican-bicycle">查看档案</a> · <a href="https://github.com/simonw/gpt-6-astra-blender-pelican-bicycle">源码 / 工程</a> · <a href="https://til.simonwillison.net/llms/blender-coding-agents-macos">原始来源</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-solace-garden-house"><img src="https://cdn.openai.com/devhub/blog/architectural-visualization/garden-house-exterior-822ca33fb418.webp" alt="Solace · 建筑与室内" width="420"></a>
+      <h3>Solace · 建筑与室内</h3>
+      <p>官方文章中的庭院住宅渲染；Blender → Cycles → UE5 工作流。</p>
+      <p>Thomas Ricouard · 官方展示<br><a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-solace-garden-house">查看档案</a> · <a href="https://developers.openai.com/blog/architectural-visualization-with-astra">原始来源</a></p>
     </td>
   </tr>
 </table>
 
-作品与图片归原作者所有；图片点击后进入对应案例。更多建筑、游戏、科学可视化和失败样本见 **[完整案例目录](CATALOG.md)**。
+作品、图片与动图归原作者所有；原帖视频封面、作者截图与渲染图分别说明。收录不代表已经独立复现。
 
-## 精选起点
+## 完整视频与手机浏览
 
-第一次来，先看 [三条上手路线](START_HERE.md)：打开 Blender 工程、接入 Three.js 网页、研究完整游戏。
+[![Orbital Core 案例页实拍：内嵌完整视频、最高画质下载和作者来源](docs/media/orbital-video.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=ruofeng-orbital-core)
 
-- [Solace 建筑工作流](https://developers.openai.com/blog/architectural-visualization-with-astra)：Blender → Cycles → UE5。
-- [Simon Willison 的鹈鹕骑车](https://github.com/simonw/gpt-6-astra-blender-pelican-bicycle)：`.blend`、Python 与完整 Codex 记录。
-- [Gogh Strike](https://github.com/petergpt/gogh-strike)：三维绘画世界与游戏，公开 GLB 和 Blender 构建器。
-- [PhiloLabs 联合广场](https://github.com/PhiloLabs/fable51-worlds/tree/main/union-square-sf-gpt-astra)：可漫游城市及双模型对照；只收 Astra 子项目。
-- [Void Explorer](https://developers.openai.com/showcase/void-explorer)：可降落的程序化宇宙。
+点开档案即可观看完整视频、下载最高画质，并继续查看源码与原帖。完整视频指原帖片段的全部时长，不等同于作者全部开发过程。
+
+<details>
+<summary>展开手机端实拍</summary>
+
+[![手机端最新收录视图：搜索、材料筛选与案例预览](docs/media/gallery-mobile.png)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#top)
+
+</details>
 
 ## 收录标准
 
