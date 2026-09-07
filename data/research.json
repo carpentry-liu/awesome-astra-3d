@@ -1,5 +1,5 @@
 {
-  "observedAt": "2026-09-06",
+  "observedAt": "2026-09-07",
   "officialSources": [
     "https://developers.openai.com/showcase/all",
     "https://developers.openai.com/api/docs/models/gpt-6-astra"
@@ -76,5 +76,55 @@
     "除可公开读取的 GitHub/作者网页外，参考库里的 X 原帖未逐条独立打开验证，缺失原始日期保持 null。",
     "本次确认来源和公开产物存在，没有重跑作者项目，也没有声称独立验证建模耗时、性能、拓扑或几何质量。",
     "当前检索只能说明找到这些公开可访问结果，不能声称互联网不存在更多 GitHub Astra 3D 仓库。"
+  ],
+  "refreshes": [
+    {
+      "observedAt": "2026-09-07",
+      "addedCaseIds": [
+        "mollick-living-ocean",
+        "alesha-voidbound-slasher",
+        "alesha-antigravity-racer",
+        "ruofeng-orbital-core",
+        "danmana-cluj-voxel",
+        "shumer-unreal-society",
+        "majid-kaiju-city",
+        "nano-character-expressions",
+        "derya-enterprise-cad",
+        "arda-titan-exhibit",
+        "bilawal-scan-living-room",
+        "leo-surface-insect",
+        "amsminn-smash-karts",
+        "ayi-mosswing",
+        "goroman-facet-fighter",
+        "ian-rain-court",
+        "cagri-civilization-lab",
+        "guizang-blender-donut",
+        "reddit-godot-wasteland",
+        "openai-helios-collector",
+        "openai-aurelion-shipyard",
+        "openai-giverny-garden",
+        "alesha-breach-blacksite",
+        "alesha-rig-3090"
+      ],
+      "discoveryCollection": "https://github.com/TripoGrowthLab/awesome-astra-prompts",
+      "discoveryCount": 153,
+      "queries": [
+        "\"GPT-6 Astra\" \"3d\" site:github.com",
+        "\"GPT-6 Astra\" \"blender\" site:x.com",
+        "\"GPT-6 Astra\" \"3D\" site:reddit.com after:2026-09-05",
+        "\"GPT-6 Astra\" \"3D\" site:youtube.com",
+        "\"Astra\" \"3D\" site:xiaohongshu.com",
+        "\"GPT-6\" \"3D\" site:bilibili.com/video"
+      ],
+      "notes": [
+        "Discovered 153 leads; reviewed original author sources and mirrors for 24 distinct additions. Rewritten briefs are not original prompts.",
+        "Ayi melon game excluded: not established as 3D. Only Mosswing included.",
+        "Cagri comparison repository contains reports and media, not game source; source filter excludes it.",
+        "Leo source repository returned 404; retain author demo but repositoryUrl is null.",
+        "Bilibili donut owner and description verified through official public API; translated community compilations are discovery only.",
+        "X media matched by exact post and media ID. Date comes from author metadata, not repost date.",
+        "Xiaohongshu public query found no verifiable new note; no platform total inferred."
+      ]
+    }
   ]
 }

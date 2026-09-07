@@ -1,18 +1,28 @@
 # Awesome Astra 3D · 三维作品档案
 
+**简体中文** · [English](README.en.md)
+
 一个可溯源的 **GPT-6 Astra 3D 案例库**：建筑漫游、Blender 建模、Three.js / WebGL 世界、3D 游戏、空间创作工具与失败样本。
 
 **A curated gallery of GPT-6 Astra 3D examples** — Blender models, Three.js / WebGL worlds, architecture and games, with full videos, prompts, source code and original creators.
 
-**[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/) · [全部案例](CATALOG.md) · [结构化数据](data/cases.json) · [贡献案例](CONTRIBUTING.md)**
+**[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/) · [上手路线](START_HERE.md) · [最新收录](UPDATES.md) · [全部案例](CATALOG.md) · [贡献案例](CONTRIBUTING.md)**
 
-首批整理于 **2026-09-06（Asia/Shanghai）**，收录 **29 条 Astra 案例 + 12 条独立方法参考**。覆盖官方、X/Twitter、GitHub、Reddit、YouTube、个人网站。模型归属按公开来源分级，未在本机重新运行这些第三方作品。
+<!-- atlas:summary:start -->
+截至 **2026-09-07（Asia/Shanghai）**，收录 **53 条 Astra 案例 + 12 条独立方法参考**；**15 条有源码 / 工程链接，22 个完整视频**。首批收录于 2026-09-06。
+<!-- atlas:summary:end -->
+
+覆盖官方、X/Twitter、GitHub、Reddit、Bilibili、YouTube 与个人网站。模型归属按公开来源分级，未在本机重新运行这些第三方作品。
+
+**想直接动手：**[找源码](https://carpentry-liu.github.io/awesome-astra-3d/?resource=source#collection) · [找演示入口](https://carpentry-liu.github.io/awesome-astra-3d/?resource=demo#collection) · [看完整视频](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video#collection) · [按最新收录浏览](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+
+本轮新增：多人卡丁车、PS1 格斗、Blender / GLB 交互网页、末世场景、中文甜甜圈建模与带局限说明的角色表情工作流。完整名单见 [更新目录](UPDATES.md)。
 
 ## 网站预览
 
-[![Astra 3D Atlas 网站实拍：案例索引、分类筛选与三维作品预览](docs/features/F-0001-atlas/evidence/desktop.png)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 网站实拍：案例索引、分类筛选与三维作品预览](docs/features/F-0002-catalog-growth/evidence/desktop.png)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-点击截图打开网站，按作品类型、作者和工具搜索，查看原帖、公开提示词、源码及 **10 个完整视频**。
+点击截图打开网站，按作品类型、作者和工具搜索，筛选源码、演示入口与完整视频。当前筛选结果可以复制链接分享。
 
 ## 案例效果一览
 
@@ -51,6 +61,8 @@
 
 ## 精选起点
 
+第一次来，先看 [三条上手路线](START_HERE.md)：打开 Blender 工程、接入 Three.js 网页、研究完整游戏。
+
 - [Solace 建筑工作流](https://developers.openai.com/blog/architectural-visualization-with-astra)：Blender → Cycles → UE5。
 - [Simon Willison 的鹈鹕骑车](https://github.com/simonw/gpt-6-astra-blender-pelican-bicycle)：`.blend`、Python 与完整 Codex 记录。
 - [Gogh Strike](https://github.com/petergpt/gogh-strike)：三维绘画世界与游戏，公开 GLB 和 Blender 构建器。
@@ -72,7 +84,7 @@
 
 ## 参考仓库
 
-组织方式参考 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) 与 [wuyoscar/GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill)。它们不是 Astra 案例库；个别原链接属于其他模型或只有作者主页，因此本库单设“方法参考”。完整观察见 [检索记录](data/research.json)。
+组织方式参考 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) 与 [wuyoscar/GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill)。它们不是 Astra 案例库，因此单设“方法参考”。新一轮借助 [Tripo 的 Astra 索引](https://github.com/TripoGrowthLab/awesome-astra-prompts) 发现线索，再核对作者来源；没有把整理页改写的任务当作原始提示词。完整观察见 [检索记录](data/research.json)。
 
 ## 本地运行
 
@@ -89,11 +101,13 @@ npm run build
 
 ## 完整视频
 
-已归档 **10 个完整视频**：9 条以 X 为主来源的案例，以及 AI Kai 作者博客明确链接的同一条 X 视频。每条保存最高码率 MP4 和原平台提供的完整播放版本，不剪辑、不转码。网页可直接播放并下载最高画质。
+每条归档视频保存最高码率 MP4 和原平台提供的完整播放版本，不剪辑、不转码。网页可直接播放并下载最高画质。完整表示原帖视频的全部时长，不表示覆盖作者全部开发过程。
 
-[全部视频附件](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-09-06) · [时长与 SHA-256 清单](data/videos.json)。下载文件的时长与原帖媒体元数据核对，Pages 构建逐文件验证字节数和 SHA-256。视频放在 Release，避免把大文件写进 Git 历史。
+[全部视频附件](https://github.com/carpentry-liu/awesome-astra-3d/releases) · [时长与 SHA-256 清单](data/videos.json)。下载文件的时长与原帖媒体元数据核对，Pages 构建逐文件验证字节数和 SHA-256。视频放在 Release，避免把大文件写进 Git 历史。
 
 ## 数据与维护
+
+如果这个索引帮你找到了可用工程，可以 Star 收藏；新收录内容集中放在 [UPDATES.md](UPDATES.md)。欢迎通过 [Issue](https://github.com/carpentry-liu/awesome-astra-3d/issues/new?template=case.yml) 提交原作或更正。
 
 - `data/cases.json`：事实源；统一的作者、来源、日期、模型、证据、产物、提示词、媒体和许可字段。
 - `src/catalog.ts`：搜索与分组契约。`app/`：响应式案例站。

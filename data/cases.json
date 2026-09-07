@@ -36,7 +36,8 @@
     "repositoryUrl": null,
     "evidenceUrls": [],
     "licenseNotes": "原图和视频归原权利人；本次仅收录原站素材 URL 与署名，未取得素材重新分发授权。森林部分使用 Poly Haven 素材，不应将全部内容描述为从零生成。",
-    "outcome": "showcase"
+    "outcome": "showcase",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "openai-sunwake",
@@ -74,7 +75,8 @@
     "repositoryUrl": null,
     "evidenceUrls": [],
     "licenseNotes": "截图与游戏资产归原权利人；保留原站链接和署名，未取得素材重新分发授权。",
-    "outcome": "showcase"
+    "outcome": "showcase",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "simonw-pelican-bicycle",
@@ -118,7 +120,8 @@
       "https://feeds.simonwillison.net/2026/Sep/5/blender-coding-agents-macos/"
     ],
     "licenseNotes": "作品与媒体版权归原权利人；本库仅记录来源并外链展示，未取得再分发许可。",
-    "outcome": "showcase"
+    "outcome": "showcase",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "astra-union-square-philolabs",
@@ -162,7 +165,8 @@
       "https://raw.githubusercontent.com/PhiloLabs/fable51-worlds/main/LICENSE"
     ],
     "licenseNotes": "根 README 明确代码和生成资产 MIT；OSM 地图几何涉及 ODbL，USGS 数据公共领域，品牌仍属各权利人。转载代码/资产保留 MIT 通知。",
-    "outcome": "comparison"
+    "outcome": "comparison",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "openai-living-cell",
@@ -200,7 +204,8 @@
     "repositoryUrl": null,
     "evidenceUrls": [],
     "licenseNotes": "原图归原权利人；保留原站链接和署名，未取得素材重新分发授权。",
-    "outcome": "showcase"
+    "outcome": "showcase",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "astra-orbital-dashboard-ai-kai",
@@ -255,7 +260,8 @@
         "sha256": "c4dac1381609082369917fba8c158520ace0fb9d791b2408e5a98c876c8268ed",
         "sourceUrl": "https://x.com/hqmank/status/2096082432197837065"
       }
-    ]
+    ],
+    "addedAt": "2026-09-06"
   },
   {
     "id": "openai-courtyard-house",
@@ -293,7 +299,8 @@
     "repositoryUrl": null,
     "evidenceUrls": [],
     "licenseNotes": "原图归原权利人；保留原站链接和署名，未取得素材重新分发授权。",
-    "outcome": "showcase"
+    "outcome": "showcase",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "openai-stop-motion-desk",
@@ -331,7 +338,8 @@
     "repositoryUrl": null,
     "evidenceUrls": [],
     "licenseNotes": "截图和角色资产归原权利人；保留原站链接和署名，未取得素材重新分发授权。",
-    "outcome": "showcase"
+    "outcome": "showcase",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "openai-void-explorer",
@@ -369,7 +377,8 @@
     "repositoryUrl": null,
     "evidenceUrls": [],
     "licenseNotes": "截图与游戏资产归原权利人；保留原站链接和署名，未取得素材重新分发授权。",
-    "outcome": "showcase"
+    "outcome": "showcase",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "openai-clockwork-observatory",
@@ -407,7 +416,8 @@
     "repositoryUrl": null,
     "evidenceUrls": [],
     "licenseNotes": "原图归原权利人；保留原站链接和署名，未取得素材重新分发授权。",
-    "outcome": "showcase"
+    "outcome": "showcase",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "openai-physics-museum",
@@ -445,7 +455,8 @@
     "repositoryUrl": null,
     "evidenceUrls": [],
     "licenseNotes": "原图和 3D 资产归原权利人；本次仅收录来源与原图 URL，未取得素材重新分发授权。",
-    "outcome": "showcase"
+    "outcome": "showcase",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "openai-architecture-studio",
@@ -483,7 +494,8 @@
     "repositoryUrl": null,
     "evidenceUrls": [],
     "licenseNotes": "封面和家具资产归原权利人；保留原站链接和署名，未取得素材重新分发授权。",
-    "outcome": "showcase"
+    "outcome": "showcase",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "openai-abyssal",
@@ -521,7 +533,8 @@
     "repositoryUrl": null,
     "evidenceUrls": [],
     "licenseNotes": "原图归原权利人；保留原站链接和署名，未取得素材重新分发授权。",
-    "outcome": "showcase"
+    "outcome": "showcase",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "openai-little-ritual",
@@ -559,7 +572,8 @@
     "repositoryUrl": null,
     "evidenceUrls": [],
     "licenseNotes": "封面与游戏资产归原权利人；保留原站链接和署名，未取得素材重新分发授权。",
-    "outcome": "showcase"
+    "outcome": "showcase",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "openai-velocity-loop",
@@ -597,7 +611,8 @@
     "repositoryUrl": null,
     "evidenceUrls": [],
     "licenseNotes": "概念图归原权利人；保留原站链接和署名，未取得素材重新分发授权。",
-    "outcome": "showcase"
+    "outcome": "showcase",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "peter-van-gogh-town",
@@ -653,7 +668,8 @@
         "sha256": "cb4feb874ab0db6d2c9ee0dfb2b4af789835938abb3a0544aecd410d9f248265",
         "sourceUrl": "https://x.com/petergostev/status/2095776685807346105"
       }
-    ]
+    ],
+    "addedAt": "2026-09-06"
   },
   {
     "id": "peter-gogh-strike",
@@ -709,7 +725,8 @@
         "sha256": "30bba6dd96da15d6c9223bb9682b176ae0743be1ea76014ab51c3927c10cb15e",
         "sourceUrl": "https://x.com/petergostev/status/2096013280519016608"
       }
-    ]
+    ],
+    "addedAt": "2026-09-06"
   },
   {
     "id": "tom-steam-train",
@@ -765,7 +782,8 @@
         "sha256": "ce475f5addcf42e5ebe8debaf3bc8ef9b430974ac79f3dfeea99b935bf983e4a",
         "sourceUrl": "https://x.com/tomkrcha/status/2095756085890310311"
       }
-    ]
+    ],
+    "addedAt": "2026-09-06"
   },
   {
     "id": "derya-ship-bottle",
@@ -819,7 +837,8 @@
         "sha256": "f0fd7849c8a4a2ab25bb8b3ce22ab3b4e5db8795f4b4589d421243faa24dc28c",
         "sourceUrl": "https://x.com/DeryaTR_/status/2095699049722581065"
       }
-    ]
+    ],
+    "addedAt": "2026-09-06"
   },
   {
     "id": "feraser-turbocharger",
@@ -872,7 +891,8 @@
         "sha256": "40b18b41ba18115d080188df676af94eb288221977c7c3010c703bbbe5201827",
         "sourceUrl": "https://x.com/Feraser8/status/2095776712579571725"
       }
-    ]
+    ],
+    "addedAt": "2026-09-06"
   },
   {
     "id": "yunfan-zillow-house",
@@ -925,7 +945,8 @@
         "sha256": "c7736fb89602f5aa394a1dbbef632bec746f4df10dd5b62e3b6a48b6b8485246",
         "sourceUrl": "https://x.com/realYunfanYe/status/2095612137582526615"
       }
-    ]
+    ],
+    "addedAt": "2026-09-06"
   },
   {
     "id": "ben-ship-render",
@@ -978,7 +999,8 @@
         "sha256": "581f00c093f14882443fddfb2ceccbd0a451d9cd2b6052f1c9df2a06120b2a63",
         "sourceUrl": "https://x.com/davis7/status/2095600857626923097"
       }
-    ]
+    ],
+    "addedAt": "2026-09-06"
   },
   {
     "id": "anshu-concept-to-game",
@@ -1032,7 +1054,8 @@
         "sha256": "acf1cc66393183132c4d18c6b850986f299d9380424e62a7dd1f8a7bf119e576",
         "sourceUrl": "https://x.com/anshuc/status/2096008083826725132"
       }
-    ]
+    ],
+    "addedAt": "2026-09-06"
   },
   {
     "id": "manu-gbasp-portfolio",
@@ -1072,7 +1095,8 @@
     "repositoryUrl": null,
     "evidenceUrls": [],
     "licenseNotes": "作品与媒体版权归原权利人；本库仅记录来源并外链展示，未取得再分发许可。",
-    "outcome": "showcase"
+    "outcome": "showcase",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "claire-fashion-game",
@@ -1114,7 +1138,8 @@
       "https://www.youtube.com/watch?v=AniiF8rOu9c"
     ],
     "licenseNotes": "作品与媒体版权归原权利人；本库仅记录来源并外链展示，未取得再分发许可。",
-    "outcome": "showcase-with-limitations"
+    "outcome": "showcase-with-limitations",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "claire-family-journey",
@@ -1156,7 +1181,8 @@
       "https://www.youtube.com/watch?v=AniiF8rOu9c"
     ],
     "licenseNotes": "作品与媒体版权归原权利人；本库仅记录来源并外链展示，未取得再分发许可。",
-    "outcome": "showcase"
+    "outcome": "showcase",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "reddit-blender-car-comparison",
@@ -1195,7 +1221,8 @@
     "repositoryUrl": null,
     "evidenceUrls": [],
     "licenseNotes": "作品与媒体版权归原权利人；本库仅记录来源并外链展示，未取得再分发许可。",
-    "outcome": "comparison"
+    "outcome": "comparison",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "reddit-cheetah-rig-failure",
@@ -1235,7 +1262,8 @@
     "repositoryUrl": null,
     "evidenceUrls": [],
     "licenseNotes": "作品与媒体版权归原权利人；本库仅记录来源并外链展示，未取得再分发许可。",
-    "outcome": "failure"
+    "outcome": "failure",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "aibattle-sonic-godot",
@@ -1289,7 +1317,8 @@
         "sha256": "580b2284dad76881b363047a913b8ab8c9ca0a56fe6e0c417a857ec76a110d9a",
         "sourceUrl": "https://x.com/AiBattle_/status/2095994051354919049"
       }
-    ]
+    ],
+    "addedAt": "2026-09-06"
   },
   {
     "id": "reference-freestyle-333",
@@ -1328,7 +1357,8 @@
     "repositoryUrl": null,
     "evidenceUrls": [],
     "licenseNotes": "仓库 MIT，案例媒体见 docs/disclaimer.md；未取得单图额外授权，不并入 Astra 成果。",
-    "outcome": "reference"
+    "outcome": "reference",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "reference-freestyle-361",
@@ -1369,7 +1399,8 @@
       "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-361"
     ],
     "licenseNotes": "第三方媒体属原作者；仓库 MIT 不等于授予所有来源图商用权。",
-    "outcome": "reference"
+    "outcome": "reference",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "reference-freestyle-378",
@@ -1412,7 +1443,8 @@
       "https://x.com/Genematicai/status/2050655151120429464"
     ],
     "licenseNotes": "第三方媒体属原作者；参考仓库保留两条原作者提示词回复链接。",
-    "outcome": "reference"
+    "outcome": "reference",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "reference-freestyle-390",
@@ -1454,7 +1486,8 @@
       "https://x.com/volkan_iras/status/2051403530590638325"
     ],
     "licenseNotes": "第三方媒体属原作者；图像仅为微缩风格，不代表可编辑 3D。",
-    "outcome": "reference"
+    "outcome": "reference",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "reference-freestyle-438",
@@ -1495,7 +1528,8 @@
       "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-438"
     ],
     "licenseNotes": "第三方媒体属原作者；未见资产文件。",
-    "outcome": "reference"
+    "outcome": "reference",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "reference-freestyle-439",
@@ -1536,7 +1570,8 @@
       "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-439"
     ],
     "licenseNotes": "第三方媒体属原作者；不代表生成三维角色资产。",
-    "outcome": "reference"
+    "outcome": "reference",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "reference-freestyle-444",
@@ -1577,7 +1612,8 @@
       "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-444"
     ],
     "licenseNotes": "提示词中的 Blender 字样不证明实际使用 Blender；第三方媒体属原作者。",
-    "outcome": "reference"
+    "outcome": "reference",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "reference-freestyle-489",
@@ -1618,7 +1654,8 @@
       "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-489"
     ],
     "licenseNotes": "第三方媒体属原作者；作为图像构图参考。",
-    "outcome": "reference"
+    "outcome": "reference",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "reference-wuyoscar-isometric-cafe",
@@ -1658,7 +1695,8 @@
       "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts"
     ],
     "licenseNotes": "本仓库 MIT，仍要求尊重外部提示词作者；上游只链到归档仓库。",
-    "outcome": "reference"
+    "outcome": "reference",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "reference-wuyoscar-isometric-village",
@@ -1699,7 +1737,8 @@
       "https://github.com/wuyoscar/GPT-Image2-Skill/blob/main/skills/gpt-image/references/gallery-isometric.md"
     ],
     "licenseNotes": "不要将仓库收录自动视为 GPT Image 2 实测；原作者和图像重用许可待核验。",
-    "outcome": "reference"
+    "outcome": "reference",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "reference-wuyoscar-dieline-box",
@@ -1740,7 +1779,8 @@
       "https://x.com/Salmaaboukarr"
     ],
     "licenseNotes": "仅有 X 作者主页，缺具体原帖；仓库 MIT 并要求外部来源署名。",
-    "outcome": "reference"
+    "outcome": "reference",
+    "addedAt": "2026-09-06"
   },
   {
     "id": "reference-wuyoscar-kitten-cg",
@@ -1778,6 +1818,1160 @@
     "repositoryUrl": null,
     "evidenceUrls": [],
     "licenseNotes": "条目标 Curated；属于栅格 CG 风格图片，不能声称是 3D 动画资产。",
-    "outcome": "reference"
+    "outcome": "reference",
+    "addedAt": "2026-09-06"
+  },
+  {
+    "id": "mollick-living-ocean",
+    "title": "Living Deep：海面风暴与海底生态",
+    "titleEn": "Procedural Living Ocean",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "X",
+    "platforms": [
+      "X",
+      "GitHub"
+    ],
+    "author": "Ethan Mollick",
+    "sourceUrl": "https://x.com/emollick/status/2095673885605630429",
+    "sourceDate": "2026-09-04",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "GPT-6 Astra",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "以 Token-Gremlin 的既有开源海面作品为起点，不能描述为所有内容从零生成。",
+    "sourceAccess": "作者原帖文字及媒体通过 FxTwitter 镜像读取；有仓库者另行读取公开源码说明，未独立复现作品。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "从已有海面程序继续扩展海底环境与动物行为；保留上游来源，支持连续潜入海洋。",
+    "outputType": [
+      "Three.js",
+      "程序化海洋",
+      "交互世界"
+    ],
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptSummary": "作者公开作品说明；未取得可直接复用的完整原始提示词。",
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2095673008803241987/img/rkGOb6E0-oOUi5ka.jpg",
+    "imageKind": "source-media",
+    "imageCaption": "X 原帖视频封面。附完整视频，时长与对应原帖媒体清单核对，最高码率版本可下载。",
+    "demoUrl": "https://abyssal-living-deep.netlify.app/",
+    "videoUrl": "https://x.com/emollick/status/2095673885605630429",
+    "repositoryUrl": "https://github.com/emollick/abyssal-living-deep",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/status/2095673885605630429",
+      "https://www.tripo3d.ai/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429",
+      "https://github.com/emollick/abyssal-living-deep"
+    ],
+    "licenseNotes": "视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "showcase",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/mollick-living-ocean-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/untagged-89011cbaa7eeae73ea83/mollick-living-ocean-1-original.mp4",
+        "durationSeconds": 64.09,
+        "bytes": 19897213,
+        "sha256": "7b116617a03b1f84af4ff3200cecf3c052901bd3ca0c1cb0a428d96220f1b3af",
+        "sourceUrl": "https://x.com/emollick/status/2095673885605630429"
+      }
+    ]
+  },
+  {
+    "id": "alesha-voidbound-slasher",
+    "title": "VOIDBOUND：死星教堂中的第三人称动作游戏",
+    "titleEn": "VOIDBOUND: The Choir of Ash",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "X",
+    "platforms": [
+      "X",
+      "GitHub"
+    ],
+    "author": "Alexey (@superalesha)",
+    "sourceUrl": "https://x.com/superalesha/status/2095988972879335792",
+    "sourceDate": "2026-09-04",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "GPT-6 Astra",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原帖明确初版需要继续修改；仓库包含对应 ASTRA 游戏清单，不能称为未经迭代的一次完成。",
+    "sourceAccess": "作者原帖文字及媒体通过 FxTwitter 镜像读取；有仓库者另行读取公开源码说明，未独立复现作品。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "教堂竞技场里的第三人称剑术、闪避与魔法战斗；作者公开提示词并说明多轮模型与动画调整。",
+    "outputType": [
+      "Three.js",
+      "WebGL",
+      "动作游戏"
+    ],
+    "promptAvailability": "full",
+    "promptExcerpt": null,
+    "promptSummary": "原帖提供完整任务说明，原文请回源查看。",
+    "promptUrl": "https://x.com/superalesha/status/2095988972879335792",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2095988588534272001/img/LbeL-FX3FW9Ngqwm.jpg",
+    "imageKind": "source-media",
+    "imageCaption": "X 原帖视频封面。附完整视频，时长与对应原帖媒体清单核对，最高码率版本可下载。",
+    "demoUrl": "https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/",
+    "videoUrl": "https://x.com/superalesha/status/2095988972879335792",
+    "repositoryUrl": "https://github.com/alesha-pro/bench-portal/tree/main/games/voidbound-choir-of-ash",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/status/2095988972879335792",
+      "https://www.tripo3d.ai/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792",
+      "https://github.com/alesha-pro/bench-portal/tree/main/games/voidbound-choir-of-ash"
+    ],
+    "licenseNotes": "视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "showcase",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/alesha-voidbound-slasher-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/untagged-89011cbaa7eeae73ea83/alesha-voidbound-slasher-1-original.mp4",
+        "durationSeconds": 203.99,
+        "bytes": 250309290,
+        "sha256": "b5e3e83367f479b43f94e6c664b323e59fdc08f8b38b4c575a0c6ef9b5ed7c61",
+        "sourceUrl": "https://x.com/superalesha/status/2095988972879335792"
+      }
+    ]
+  },
+  {
+    "id": "alesha-antigravity-racer",
+    "title": "VOIDRUNNER：反重力战斗赛车",
+    "titleEn": "VOIDRUNNER: Orbital Combat League",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "X",
+    "platforms": [
+      "X",
+      "GitHub"
+    ],
+    "author": "Alexey (@superalesha)",
+    "sourceUrl": "https://x.com/superalesha/status/2095967568825582044",
+    "sourceDate": "2026-09-04",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "GPT-6 Astra",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者声明 Astra 主动使用本机 Blender；单次尝试的时间不是通用性能指标。",
+    "sourceAccess": "作者原帖文字及媒体通过 FxTwitter 镜像读取；有仓库者另行读取公开源码说明，未独立复现作品。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Three.js 反重力竞速，结合 Blender 飞行器、漂移、加速与武器；公开任务说明和源码。",
+    "outputType": [
+      "Three.js",
+      "Blender",
+      "竞速游戏"
+    ],
+    "promptAvailability": "full",
+    "promptExcerpt": null,
+    "promptSummary": "原帖提供完整任务说明，原文请回源查看。",
+    "promptUrl": "https://x.com/superalesha/status/2095967568825582044",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2095966450385289216/img/u4EnBwNxU0h3lQgI.jpg",
+    "imageKind": "source-media",
+    "imageCaption": "X 原帖视频封面。附完整视频，时长与对应原帖媒体清单核对，最高码率版本可下载。",
+    "demoUrl": "https://alesha-pro.github.io/bench-portal/games/voidrunner-astra/",
+    "videoUrl": "https://x.com/superalesha/status/2095967568825582044",
+    "repositoryUrl": "https://github.com/alesha-pro/bench-portal/tree/main/games/voidrunner-astra",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/status/2095967568825582044",
+      "https://www.tripo3d.ai/3d-prompts/anti-gravity-combat-racer-2095967568825582044",
+      "https://github.com/alesha-pro/bench-portal/tree/main/games/voidrunner-astra"
+    ],
+    "licenseNotes": "视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "showcase",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/alesha-antigravity-racer-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/untagged-89011cbaa7eeae73ea83/alesha-antigravity-racer-1-original.mp4",
+        "durationSeconds": 60.59,
+        "bytes": 64849813,
+        "sha256": "b264db01d80551630d6a242c76f2ebd6c271b64d25b974bd49d47e2bd74b7bb5",
+        "sourceUrl": "https://x.com/superalesha/status/2095967568825582044"
+      }
+    ]
+  },
+  {
+    "id": "ruofeng-orbital-core",
+    "title": "双环能量核心：Blender 模型到交互网页",
+    "titleEn": "Orbital Core Showcase",
+    "group": "astra",
+    "category": "交互与工具",
+    "platform": "X",
+    "platforms": [
+      "X",
+      "GitHub"
+    ],
+    "author": "ruofeng (@oneruofeng)",
+    "sourceUrl": "https://x.com/oneruofeng/status/2096551010089263181",
+    "sourceDate": "2026-09-06",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "GPT-6 Astra",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "仓库公开 .blend、GLB 和前端实现；模型归属依据作者原帖文字镜像。",
+    "sourceAccess": "作者原帖文字及媒体通过 FxTwitter 镜像读取；有仓库者另行读取公开源码说明，未独立复现作品。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "将能量核心、双环与底座从 Blender 导出 GLB，网页提供拖拽旋转、缩放、轨道与脉冲模式。",
+    "outputType": [
+      "Blender",
+      "GLB",
+      "Three.js"
+    ],
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptSummary": "作者公开作品说明；未取得可直接复用的完整原始提示词。",
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096549512995368961/img/kyuKVBrCE5i7fHA8.jpg",
+    "imageKind": "source-media",
+    "imageCaption": "X 原帖视频封面。附完整视频，时长与对应原帖媒体清单核对，最高码率版本可下载。",
+    "demoUrl": "https://orbital-core-showcase.wangruofeng007.workers.dev/",
+    "videoUrl": "https://x.com/oneruofeng/status/2096551010089263181",
+    "repositoryUrl": "https://github.com/wangruofeng/orbital-core-showcase",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/status/2096551010089263181",
+      "https://www.tripo3d.ai/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181",
+      "https://github.com/wangruofeng/orbital-core-showcase"
+    ],
+    "licenseNotes": "视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "showcase",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/ruofeng-orbital-core-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/untagged-89011cbaa7eeae73ea83/ruofeng-orbital-core-1-original.mp4",
+        "durationSeconds": 54.68,
+        "bytes": 26368235,
+        "sha256": "20a54f10dc6af9bd06e267d0378ec80d24dd5784b017f40e334b3c8b2463db72",
+        "sourceUrl": "https://x.com/oneruofeng/status/2096551010089263181"
+      }
+    ]
+  },
+  {
+    "id": "danmana-cluj-voxel",
+    "title": "Cluj-Napoca 联合广场：同题体素场景对照",
+    "titleEn": "Piața Unirii Voxel Comparison",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "X",
+    "platforms": [
+      "X",
+      "GitHub"
+    ],
+    "author": "Dan Manastireanu",
+    "sourceUrl": "https://x.com/danmana/status/2096262733259837681",
+    "sourceDate": "2026-09-05",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "GPT-6 Astra",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者仓库 runs.json 列出 GPT-Astra xhigh；多模型工程分目录，不能把其他模型输出并入。",
+    "sourceAccess": "作者原帖文字及媒体通过 FxTwitter 镜像读取；有仓库者另行读取公开源码说明，未独立复现作品。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "同一广场场景要求交给多个模型实现；本条只收 Astra 版本，保留共享提示词与并排对照。",
+    "outputType": [
+      "体素场景",
+      "模型对照",
+      "交互网页"
+    ],
+    "promptAvailability": "full-linked",
+    "promptExcerpt": null,
+    "promptSummary": "作者公开作品说明；未取得可直接复用的完整原始提示词。",
+    "promptUrl": "https://github.com/danmana/piata-unirii/blob/main/prompt.md",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096248939876126720/img/s3bAAUu8zYiJXskz.jpg",
+    "imageKind": "source-media",
+    "imageCaption": "X 原帖视频封面。附完整视频，时长与对应原帖媒体清单核对，最高码率版本可下载。",
+    "demoUrl": "https://piata-unirii.vercel.app/",
+    "videoUrl": "https://x.com/danmana/status/2096262733259837681",
+    "repositoryUrl": "https://github.com/danmana/piata-unirii/tree/main/runs/gpt-astra-xhigh-01",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/status/2096262733259837681",
+      "https://www.tripo3d.ai/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681",
+      "https://github.com/danmana/piata-unirii/tree/main/runs/gpt-astra-xhigh-01"
+    ],
+    "licenseNotes": "视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "showcase",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/danmana-cluj-voxel-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/untagged-89011cbaa7eeae73ea83/danmana-cluj-voxel-1-original.mp4",
+        "durationSeconds": 24.0,
+        "bytes": 20401916,
+        "sha256": "33ce98aea95814b5c5e47a9d301096be78faf3b6b5d6c59c7ddc92841fd5a3c0",
+        "sourceUrl": "https://x.com/danmana/status/2096262733259837681"
+      }
+    ]
+  },
+  {
+    "id": "shumer-unreal-society",
+    "title": "Unreal 生存社会：会交谈的智能体角色",
+    "titleEn": "Unreal Agent Society",
+    "group": "astra",
+    "category": "交互与工具",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Matt Shumer",
+    "sourceUrl": "https://x.com/mattshumer_/status/2095596175705399482",
+    "sourceDate": "2026-09-03",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "GPT-6 Astra",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "角色行为和自主性来自作者展示与叙述，未取得工程或独立验证；不能据此声称具备通用自主社会能力。",
+    "sourceAccess": "作者原帖文字及媒体通过 FxTwitter 镜像读取；有仓库者另行读取公开源码说明，未独立复现作品。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者展示由 Astra 驱动的角色在 Unreal 世界内沟通并尝试合作生存，原帖附完整演示片段。",
+    "outputType": [
+      "Unreal Engine",
+      "智能体角色",
+      "演示视频"
+    ],
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptSummary": "作者公开作品说明；未取得可直接复用的完整原始提示词。",
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2095589100539531264/img/Tlsi7uZFwLrLR-51.jpg",
+    "imageKind": "source-media",
+    "imageCaption": "X 原帖视频封面。附完整视频，时长与对应原帖媒体清单核对，最高码率版本可下载。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/mattshumer_/status/2095596175705399482",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/status/2095596175705399482",
+      "https://www.tripo3d.ai/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"
+    ],
+    "licenseNotes": "视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "showcase",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/shumer-unreal-society-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/untagged-89011cbaa7eeae73ea83/shumer-unreal-society-1-original.mp4",
+        "durationSeconds": 592.34,
+        "bytes": 129872769,
+        "sha256": "e3dd83502b5ab0308034a7e7c908a20376970486a218db7dceaa01850d9262d7",
+        "sourceUrl": "https://x.com/mattshumer_/status/2095596175705399482"
+      }
+    ]
+  },
+  {
+    "id": "majid-kaiju-city",
+    "title": "Storm Colossus：城市巨兽战斗",
+    "titleEn": "Storm Colossus",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Majid Manzarpour",
+    "sourceUrl": "https://x.com/majidmanzarpour/status/2096251574918013135",
+    "sourceDate": "2026-09-05",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "GPT-6 Astra",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "外部模型与音效工具在作者原帖明确署名，不能归为 Astra 从零生成所有资产。",
+    "sourceAccess": "作者原帖文字及媒体通过 FxTwitter 镜像读取；有仓库者另行读取公开源码说明，未独立复现作品。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "将 Astra 与作者 Three.js 游戏工作流结合，制作巨兽城市战斗；模型使用 Tripo，音效使用 ElevenLabs。",
+    "outputType": [
+      "Three.js",
+      "Tripo",
+      "3D 游戏"
+    ],
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptSummary": "作者公开作品说明；未取得可直接复用的完整原始提示词。",
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096251295594135556/img/mkKNAllU4LTzJGME.jpg",
+    "imageKind": "source-media",
+    "imageCaption": "X 原帖视频封面。附完整视频，时长与对应原帖媒体清单核对，最高码率版本可下载。",
+    "demoUrl": "https://stormcolossus.netlify.app/",
+    "videoUrl": "https://x.com/majidmanzarpour/status/2096251574918013135",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/status/2096251574918013135",
+      "https://www.tripo3d.ai/3d-prompts/kaiju-city-battle-2096251574918013135"
+    ],
+    "licenseNotes": "视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "showcase",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/majid-kaiju-city-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/untagged-89011cbaa7eeae73ea83/majid-kaiju-city-1-original.mp4",
+        "durationSeconds": 127.25,
+        "bytes": 398209244,
+        "sha256": "b147fdad1d4342adc80f874080cdd9089c2235c2e1d9a10b14608732c06499e6",
+        "sourceUrl": "https://x.com/majidmanzarpour/status/2096251574918013135"
+      }
+    ]
+  },
+  {
+    "id": "nano-character-expressions",
+    "title": "Blender 角色表情切换：多网格方案与局限",
+    "titleEn": "Switchable Character Expressions",
+    "group": "astra",
+    "category": "Blender 建模",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Nano / ナノ (@Dstudio_ai)",
+    "sourceUrl": "https://x.com/Dstudio_ai/status/2096525100518453342",
+    "sourceDate": "2026-09-06",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "Astra（作者表述；整理页标为 GPT-6 Astra）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者仅称 Astra，整理页标为 GPT-6 Astra；本方法不是连续表情混合，原帖还说明 VRM 兼容等限制。",
+    "sourceAccess": "作者原帖文字及媒体通过 FxTwitter 镜像读取；有仓库者另行读取公开源码说明，未独立复现作品。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "用 Tripo 生成多种表情模型，再由 Astra 协助在 Blender 中切换网格；记录缺乏中间表情等局限。",
+    "outputType": [
+      "Blender",
+      "Tripo",
+      "角色表情"
+    ],
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptSummary": "作者公开作品说明；未取得可直接复用的完整原始提示词。",
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096524256012316672/img/IDGr9lItOL1yZ3ZR.jpg",
+    "imageKind": "source-media",
+    "imageCaption": "X 原帖视频封面。附完整视频，时长与对应原帖媒体清单核对，最高码率版本可下载。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/Dstudio_ai/status/2096525100518453342",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/status/2096525100518453342",
+      "https://www.tripo3d.ai/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"
+    ],
+    "licenseNotes": "视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "showcase",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/nano-character-expressions-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/untagged-89011cbaa7eeae73ea83/nano-character-expressions-1-original.mp4",
+        "durationSeconds": 29.2,
+        "bytes": 13133710,
+        "sha256": "0ba2c24cf66e02206fa5efe2d40b58174ee603665d3671434789b844b2a26bef",
+        "sourceUrl": "https://x.com/Dstudio_ai/status/2096525100518453342"
+      }
+    ]
+  },
+  {
+    "id": "derya-enterprise-cad",
+    "title": "USS Enterprise：星舰 CAD 装配展示",
+    "titleEn": "USS Enterprise CAD Assembly",
+    "group": "astra",
+    "category": "拆解与剖面",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Derya Unutmaz (@DeryaTR_)",
+    "sourceUrl": "https://x.com/DeryaTR_/status/2095641163441254676",
+    "sourceDate": "2026-09-03",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "GPT-6 Astra",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者称使用 AutoFusion、含 28 个可动部件且可能用于打印；未取得 CAD 文件，未验证可打印性。",
+    "sourceAccess": "作者原帖文字及媒体通过 FxTwitter 镜像读取；有仓库者另行读取公开源码说明，未独立复现作品。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者使用 CAD 制作星舰外形、内部区域和可动部件，并展示 CAD 模型视频。",
+    "outputType": [
+      "CAD",
+      "装配模型",
+      "演示视频"
+    ],
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptSummary": "作者公开作品说明；未取得可直接复用的完整原始提示词。",
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2095640960680243200/img/XHJ2aX--CTheLjgN.jpg",
+    "imageKind": "source-media",
+    "imageCaption": "X 原帖视频封面。附完整视频，时长与对应原帖媒体清单核对，最高码率版本可下载。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/DeryaTR_/status/2095641163441254676",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/status/2095641163441254676",
+      "https://www.tripo3d.ai/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676"
+    ],
+    "licenseNotes": "视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "showcase",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/derya-enterprise-cad-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/untagged-89011cbaa7eeae73ea83/derya-enterprise-cad-1-original.mp4",
+        "durationSeconds": 30.06,
+        "bytes": 6088486,
+        "sha256": "3e3adfcb017c320c4bb798d04d244d90ebb4bbcb730af0fdf2daa37f0e8601ce",
+        "sourceUrl": "https://x.com/DeryaTR_/status/2095641163441254676"
+      }
+    ]
+  },
+  {
+    "id": "arda-titan-exhibit",
+    "title": "Titan：土卫六三维科普展示",
+    "titleEn": "Titan Science Exhibit",
+    "group": "astra",
+    "category": "科学与教育",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Arda Tugsat",
+    "sourceUrl": "https://x.com/ArdaTugsat/status/2095986941753712841",
+    "sourceDate": "2026-09-04",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "GPT-6 Astra Medium",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "科学准确性与交互功能未独立核验，记录为作者的三维科普展示。",
+    "sourceAccess": "作者原帖文字及媒体通过 FxTwitter 镜像读取；有仓库者另行读取公开源码说明，未独立复现作品。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "展示土卫六主题的三维科普界面，作者声明使用 Codex 中的 Astra Medium。",
+    "outputType": [
+      "3D 科普",
+      "演示视频"
+    ],
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptSummary": "作者公开作品说明；未取得可直接复用的完整原始提示词。",
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2095986724040290305/img/7G--77xdhynAlqtB.jpg",
+    "imageKind": "source-media",
+    "imageCaption": "X 原帖视频封面。附完整视频，时长与对应原帖媒体清单核对，最高码率版本可下载。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/ArdaTugsat/status/2095986941753712841",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/status/2095986941753712841",
+      "https://www.tripo3d.ai/3d-prompts/interactive-titan-science-exhibit-2095986941753712841"
+    ],
+    "licenseNotes": "视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "showcase",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/arda-titan-exhibit-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/untagged-89011cbaa7eeae73ea83/arda-titan-exhibit-1-original.mp4",
+        "durationSeconds": 331.35,
+        "bytes": 106607068,
+        "sha256": "2a77cb286696e770ffb96ae1ea1b618ae2d39859dcbfc3d9a9fae22070139da0",
+        "sourceUrl": "https://x.com/ArdaTugsat/status/2095986941753712841"
+      }
+    ]
+  },
+  {
+    "id": "bilawal-scan-living-room",
+    "title": "摄影测量扫描重建可编辑客厅",
+    "titleEn": "Photogrammetry to Blender Living Room",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Bilawal Sidhu",
+    "sourceUrl": "https://x.com/bilawalsidhu/status/2096092080397246707",
+    "sourceDate": "2026-09-05",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "GPT-6 Astra",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原帖描述使用既有摄影测量扫描；没有把输入扫描说成 Astra 生成，未取得 .blend 核验。",
+    "sourceAccess": "作者原帖文字及媒体通过 FxTwitter 镜像读取；有仓库者另行读取公开源码说明，未独立复现作品。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "以家庭客厅的既有三维扫描为参考，在 Blender 重建场景，纹理来自扫描并结合程序化材质。",
+    "outputType": [
+      "Blender",
+      "摄影测量",
+      "可编辑场景"
+    ],
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptSummary": "作者公开作品说明；未取得可直接复用的完整原始提示词。",
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096091625915301888/img/hwJYJ-JHXwUfDM3-.jpg",
+    "imageKind": "source-media",
+    "imageCaption": "X 原帖视频封面。附完整视频，时长与对应原帖媒体清单核对，最高码率版本可下载。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/bilawalsidhu/status/2096092080397246707",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/status/2096092080397246707",
+      "https://www.tripo3d.ai/3d-prompts/photogrammetry-scan-to-editable-living-room-2096092080397246707"
+    ],
+    "licenseNotes": "视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "showcase",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/bilawal-scan-living-room-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/untagged-89011cbaa7eeae73ea83/bilawal-scan-living-room-1-original.mp4",
+        "durationSeconds": 30.0,
+        "bytes": 24176424,
+        "sha256": "0abff99b85b198ac6e80ce5911c91c0c9758006fdf66024b9a30e4d544a702f9",
+        "sourceUrl": "https://x.com/bilawalsidhu/status/2096092080397246707"
+      }
+    ]
+  },
+  {
+    "id": "leo-surface-insect",
+    "title": "贴附表面行走的程序化多足虫",
+    "titleEn": "Surface-Climbing Procedural Insect",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "leo / 小磊 (@leo_xiaolei)",
+    "sourceUrl": "https://x.com/leo_xiaolei/status/2096460081982304546",
+    "sourceDate": "2026-09-06",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "GPT-6 Astra",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者引用 threejs-easybugs 作为灵感；所附源码仓库本次返回 404，因此不标记为可用源码。",
+    "sourceAccess": "作者原帖文字及媒体通过 FxTwitter 镜像读取；有仓库者另行读取公开源码说明，未独立复现作品。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "展示多足虫沿不同高度表面附着行走的 Three.js 场景；原帖保留灵感项目与演示入口。",
+    "outputType": [
+      "Three.js",
+      "程序化动画",
+      "多足运动"
+    ],
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptSummary": "作者公开作品说明；未取得可直接复用的完整原始提示词。",
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096457635352698880/img/l8ISZUQdh7BnxxRJ.jpg",
+    "imageKind": "source-media",
+    "imageCaption": "X 原帖视频封面。附完整视频，时长与对应原帖媒体清单核对，最高码率版本可下载。",
+    "demoUrl": "https://threerocks.github.io/web-3d-pages/",
+    "videoUrl": "https://x.com/leo_xiaolei/status/2096460081982304546",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/status/2096460081982304546",
+      "https://www.tripo3d.ai/3d-prompts/surface-climbing-procedural-insect-2096460081982304546"
+    ],
+    "licenseNotes": "视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "showcase",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/leo-surface-insect-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/untagged-89011cbaa7eeae73ea83/leo-surface-insect-1-original.mp4",
+        "durationSeconds": 54.06,
+        "bytes": 14388357,
+        "sha256": "95ba987af7b60dfe241811e53014cc5f77b0fbed26add1fbdd4f8cbb2bedae51",
+        "sourceUrl": "https://x.com/leo_xiaolei/status/2096460081982304546"
+      }
+    ]
+  },
+  {
+    "id": "amsminn-smash-karts",
+    "title": "Smash Karts：多人卡丁车对战与公开轨迹",
+    "titleEn": "Smash Karts Arena",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "amsminn",
+    "sourceUrl": "https://github.com/amsminn/gpt-6-astra-smash-karts",
+    "sourceDate": "2026-09-05",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "GPT-6 Astra",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "README 记录 gpt-6-astra、原始提示词和轨迹入口。多人联机需要独立服务器，不能把项目说明页当在线游戏。",
+    "sourceAccess": "作者公开页面已读取；未在本机独立复现作品。",
+    "summary": "Three.js 多人卡丁车对战，包含机器人练习、游戏服务器和作者公开的 Codex 轨迹。",
+    "outputType": [
+      "Three.js",
+      "多人游戏",
+      "源码"
+    ],
+    "promptAvailability": "full-linked",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": "https://github.com/amsminn/gpt-6-astra-smash-karts#agent-trajectory",
+    "imageUrl": "https://raw.githubusercontent.com/amsminn/gpt-6-astra-smash-karts/main/docs/media/gameplay.gif",
+    "imageKind": "gameplay-screenshot",
+    "imageCaption": "作者发布的游戏演示 GIF；标题图与实际程序化游戏素材分别说明。",
+    "demoUrl": null,
+    "videoUrl": "https://youtu.be/3laRe_z_gbI",
+    "repositoryUrl": "https://github.com/amsminn/gpt-6-astra-smash-karts",
+    "evidenceUrls": [],
+    "licenseNotes": "作品和媒体归原作者；引用原站素材与链接，不纳入本库 MIT 许可。",
+    "outcome": "showcase"
+  },
+  {
+    "id": "ayi-mosswing",
+    "title": "Mosswing：移动端单键三维飞行",
+    "titleEn": "Mosswing",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "Ayi1337",
+    "sourceUrl": "https://github.com/Ayi1337/gpt6-astra-one-shot-games",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "GPT-6 Astra Xhigh（作者声明）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "只收明确为 3D 的 Mosswing，不把同仓库半流体西瓜游戏混入。作者提供的 Sites 演示可能受访问策略限制，可下载 HTML。",
+    "sourceAccess": "作者公开页面已读取；未在本机独立复现作品。",
+    "summary": "单键控制的三维飞行游戏，公开原始任务与单 HTML 产物，包含移动端交互与作者截图。",
+    "outputType": [
+      "3D 游戏",
+      "单 HTML",
+      "移动端"
+    ],
+    "promptAvailability": "full",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": "https://github.com/Ayi1337/gpt6-astra-one-shot-games",
+    "imageUrl": "https://raw.githubusercontent.com/Ayi1337/gpt6-astra-one-shot-games/main/mosswing/src/design/desktop-final.png",
+    "imageKind": "gameplay-screenshot",
+    "imageCaption": "作者发布的预览；未独立复现。",
+    "demoUrl": "https://mosswing-quiet-flight.jack-514.chatgpt.site/",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/mosswing",
+    "evidenceUrls": [],
+    "licenseNotes": "作品和媒体归原作者；引用原站素材与链接，不纳入本库 MIT 许可。",
+    "outcome": "showcase"
+  },
+  {
+    "id": "goroman-facet-fighter",
+    "title": "FACET FIGHTER：原生 PS1 低多边形格斗",
+    "titleEn": "FACET FIGHTER",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "GOROman",
+    "sourceUrl": "https://github.com/GOROman/gpt-6-astra-ps1-game-benchmark",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "GPT-6 Astra",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者明确模型为 GPT-6 Astra，并区分模拟器验收与尚未验证的实体 PS1；本库未运行模拟器。",
+    "sourceAccess": "作者公开页面已读取；未在本机独立复现作品。",
+    "summary": "使用 PSn00bSDK 制作原生 PS1 三维格斗游戏，公开代码、提示词记录、模拟器截图与可下载镜像。",
+    "outputType": [
+      "PS1",
+      "低多边形",
+      "源码"
+    ],
+    "promptAvailability": "full-linked",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": "https://github.com/GOROman/gpt-6-astra-ps1-game-benchmark/blob/main/PROMPTS.md",
+    "imageUrl": "https://raw.githubusercontent.com/GOROman/gpt-6-astra-ps1-game-benchmark/main/docs/screenshots/015-arcade-champion.png",
+    "imageKind": "gameplay-screenshot",
+    "imageCaption": "作者发布的预览；未独立复现。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/GOROman/gpt-6-astra-ps1-game-benchmark",
+    "evidenceUrls": [],
+    "licenseNotes": "作品和媒体归原作者；引用原站素材与链接，不纳入本库 MIT 许可。",
+    "outcome": "showcase"
+  },
+  {
+    "id": "ian-rain-court",
+    "title": "Rain Court：Blender 角色驱动的生存射击",
+    "titleEn": "Rain Court // Survivor",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "IanOliverU",
+    "sourceUrl": "https://github.com/IanOliverU/web-3d-game",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "GPT-6 Astra",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "仓库 About 明确 Blender MCP + Codex GPT 6 Astra；README 说明产物与修复，作者测试结果不等于本库独立复现。",
+    "sourceAccess": "作者公开页面已读取；未在本机独立复现作品。 2026-09-07 作者提供的在线演示返回 HTTP 404，故只保留来源记录，不纳入演示入口筛选。",
+    "summary": "React Three Fiber 生存射击，公开 Blender 场景、角色 GLB、骨骼动作与移动问题修复说明。",
+    "outputType": [
+      "Blender",
+      "GLB",
+      "React Three Fiber"
+    ],
+    "promptAvailability": "not-found",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://raw.githubusercontent.com/IanOliverU/web-3d-game/main/public/gameplay-movement-fixed.png",
+    "imageKind": "gameplay-screenshot",
+    "imageCaption": "作者发布的预览；未独立复现。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/IanOliverU/web-3d-game",
+    "evidenceUrls": [
+      "https://web-3d-game-two.vercel.app"
+    ],
+    "licenseNotes": "作品和媒体归原作者；引用原站素材与链接，不纳入本库 MIT 许可。",
+    "outcome": "showcase"
+  },
+  {
+    "id": "cagri-civilization-lab",
+    "title": "Civilization Lab：同题三维文明模拟对照",
+    "titleEn": "WHAT IF? Civilization Lab",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "Cagri Kacmaz",
+    "sourceUrl": "https://github.com/cagrikacmaz/gpt-6-astra-vs-gemini-3-8-flash",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "GPT-6 Astra High",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "公开的是对照文档与媒体，未发现游戏实现代码，因此不归入“有源码”。运行环境与预算没有归一，不作为通用模型排名。",
+    "sourceAccess": "作者公开页面已读取；未在本机独立复现作品。",
+    "summary": "同一文明模拟需求的 Astra 与 Gemini 构建报告；公开提示词、Astra 截图与操作录屏。",
+    "outputType": [
+      "3D 模拟",
+      "对照报告",
+      "提示词"
+    ],
+    "promptAvailability": "full",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": "https://github.com/cagrikacmaz/gpt-6-astra-vs-gemini-3-8-flash/blob/main/PROMPT.md",
+    "imageUrl": "https://raw.githubusercontent.com/cagrikacmaz/gpt-6-astra-vs-gemini-3-8-flash/main/media/astra/astra-main-world.png",
+    "imageKind": "gameplay-screenshot",
+    "imageCaption": "作者仓库中的 Astra 单独画面，非 Gemini 版本。",
+    "demoUrl": null,
+    "videoUrl": "https://raw.githubusercontent.com/cagrikacmaz/gpt-6-astra-vs-gemini-3-8-flash/main/media/video/astra-demo.mp4",
+    "repositoryUrl": null,
+    "evidenceUrls": [],
+    "licenseNotes": "作品和媒体归原作者；引用原站素材与链接，不纳入本库 MIT 许可。",
+    "outcome": "comparison"
+  },
+  {
+    "id": "guizang-blender-donut",
+    "title": "Blender 甜甜圈：中文作者建模尝试",
+    "titleEn": "Blender Donut Experiment",
+    "group": "astra",
+    "category": "Blender 建模",
+    "platform": "Bilibili",
+    "platforms": [
+      "Bilibili"
+    ],
+    "author": "歸藏的AI工具箱",
+    "sourceUrl": "https://www.bilibili.com/video/BV16ct26KEm5/",
+    "sourceDate": "2026-09-05",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "GPT-6 Astra",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "平台作者简介通过 Bilibili 公开 API 核对。作者提到的耗时仅针对该次尝试；没有推断可使用任何软件。",
+    "sourceAccess": "Bilibili 网页请求受限；公开平台 API 取得作者、简介、封面与发布时间，未观看完整视频或复现。",
+    "summary": "歸藏的AI工具箱展示使用 Astra 制作 Blender 甜甜圈的尝试，保留作者原视频。",
+    "outputType": [
+      "Blender",
+      "渲染展示",
+      "中文视频"
+    ],
+    "promptAvailability": "not-found",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://i0.hdslb.com/bfs/archive/6901444a47ab3e89cd6124fb35db51114888c4b9.jpg",
+    "imageKind": "edited-screenshot",
+    "imageCaption": "作者 Bilibili 原视频封面，可能包含编辑文字；不当作未经编辑的渲染图。",
+    "demoUrl": null,
+    "videoUrl": "https://www.bilibili.com/video/BV16ct26KEm5/",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://api.bilibili.com/x/web-interface/view?bvid=BV16ct26KEm5"
+    ],
+    "licenseNotes": "作品和媒体归原作者；引用原站素材与链接，不纳入本库 MIT 许可。",
+    "outcome": "showcase"
+  },
+  {
+    "id": "reddit-godot-wasteland",
+    "title": "Godot 末世场景：既有素材与 Blender MCP",
+    "titleEn": "Post-Apocalyptic Godot Scene",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "Reddit",
+    "platforms": [
+      "Reddit"
+    ],
+    "author": "DarthOrganism",
+    "sourceUrl": "https://www.reddit.com/r/aigamedev/comments/1w9bkiw/gpt6_astra_built_this_postapocalyptic_game_scene/",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "GPT-6 Astra",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原帖正文可读并明确模型与工具；已有模型和纹理是输入，不能全部归为从零生成。未取得源码与完整任务。",
+    "sourceAccess": "作者公开页面已读取；未在本机独立复现作品。",
+    "summary": "作者用 Astra、Godot 与 Blender MCP 搭建末世场景，输入包含现有纹理与模型链接。",
+    "outputType": [
+      "Godot",
+      "Blender MCP",
+      "场景展示"
+    ],
+    "promptAvailability": "not-found",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": null,
+    "imageKind": "source-media",
+    "imageCaption": "作者发布的预览；未独立复现。",
+    "demoUrl": null,
+    "videoUrl": "https://www.reddit.com/r/aigamedev/comments/1w9bkiw/gpt6_astra_built_this_postapocalyptic_game_scene/",
+    "repositoryUrl": null,
+    "evidenceUrls": [],
+    "licenseNotes": "作品和媒体归原作者；引用原站素材与链接，不纳入本库 MIT 许可。",
+    "outcome": "showcase"
+  },
+  {
+    "id": "openai-helios-collector",
+    "title": "HELIOS：太阳与戴森球概念场景",
+    "titleEn": "HELIOS Stellar Collector",
+    "group": "astra",
+    "category": "科学与教育",
+    "platform": "OpenAI",
+    "platforms": [
+      "OpenAI"
+    ],
+    "author": "Thomas Ricouard",
+    "sourceUrl": "https://developers.openai.com/blog/architectural-visualization-with-astra",
+    "sourceDate": "2026-09-04",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "GPT-6 Astra",
+    "evidenceLevel": "official",
+    "evidenceStatus": "official-astra",
+    "evidenceNote": "电影化比例，不代表天文尺度模拟；使用有署名的 NASA 与行星贴图。",
+    "sourceAccess": "作者公开页面已读取；未在本机独立复现作品。",
+    "summary": "在 Blender 构建太阳周围的集能结构与行星环境，并按预览调整构图与照明。",
+    "outputType": [
+      "Blender",
+      "可编辑场景",
+      "渲染展示"
+    ],
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptSummary": "作者公开了任务过程概述，没有提供该场景完整原始对话。",
+    "promptUrl": "https://developers.openai.com/blog/architectural-visualization-with-astra#design-beyond-architecture",
+    "imageUrl": "https://cdn.openai.com/devhub/blog/architectural-visualization/helios-stellar-collector-8f89b625bd2f.webp",
+    "imageKind": "render",
+    "imageCaption": "官方作者文章中的 Blender 渲染。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [],
+    "licenseNotes": "作品和媒体归原作者；引用原站素材与链接，不纳入本库 MIT 许可。",
+    "outcome": "showcase"
+  },
+  {
+    "id": "openai-aurelion-shipyard",
+    "title": "AURELION-07：可编辑科幻巡洋舰",
+    "titleEn": "AURELION-07 Shipyard",
+    "group": "astra",
+    "category": "Blender 建模",
+    "platform": "OpenAI",
+    "platforms": [
+      "OpenAI"
+    ],
+    "author": "Thomas Ricouard",
+    "sourceUrl": "https://developers.openai.com/blog/architectural-visualization-with-astra",
+    "sourceDate": "2026-09-04",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "GPT-6 Astra",
+    "evidenceLevel": "official",
+    "evidenceStatus": "official-astra",
+    "evidenceNote": "作者描述了几何细化与多视角检查；未公开可下载工程。",
+    "sourceAccess": "作者公开页面已读取；未在本机独立复现作品。",
+    "summary": "Blender 科幻巡洋舰场景，包含分段环、四组引擎与可编辑材质。",
+    "outputType": [
+      "Blender",
+      "可编辑场景",
+      "渲染展示"
+    ],
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptSummary": "作者公开了任务过程概述，没有提供该场景完整原始对话。",
+    "promptUrl": "https://developers.openai.com/blog/architectural-visualization-with-astra#design-beyond-architecture",
+    "imageUrl": "https://cdn.openai.com/devhub/blog/architectural-visualization/aurelion-far-meridian-6f95d4a76080.webp",
+    "imageKind": "render",
+    "imageCaption": "官方作者文章中的 Blender 渲染。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [],
+    "licenseNotes": "作品和媒体归原作者；引用原站素材与链接，不纳入本库 MIT 许可。",
+    "outcome": "showcase"
+  },
+  {
+    "id": "openai-giverny-garden",
+    "title": "Giverny：莫奈花园灵感的三维场景",
+    "titleEn": "Giverny Water Garden",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "OpenAI",
+    "platforms": [
+      "OpenAI"
+    ],
+    "author": "Thomas Ricouard",
+    "sourceUrl": "https://developers.openai.com/blog/architectural-visualization-with-astra",
+    "sourceDate": "2026-09-04",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "GPT-6 Astra",
+    "evidenceLevel": "official",
+    "evidenceStatus": "official-astra",
+    "evidenceNote": "部分植物、纹理与天空来自 Poly Haven；场景比例经过构图调整。",
+    "sourceAccess": "作者公开页面已读取；未在本机独立复现作品。",
+    "summary": "围绕睡莲池、绿桥与植被搭建 Blender 花园，按参考和渲染反馈细化表面。",
+    "outputType": [
+      "Blender",
+      "可编辑场景",
+      "渲染展示"
+    ],
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptSummary": "作者公开了任务过程概述，没有提供该场景完整原始对话。",
+    "promptUrl": "https://developers.openai.com/blog/architectural-visualization-with-astra#design-beyond-architecture",
+    "imageUrl": "https://cdn.openai.com/devhub/blog/architectural-visualization/giverny-water-garden-cec7107eed5b.webp",
+    "imageKind": "render",
+    "imageCaption": "官方作者文章中的 Blender 渲染。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [],
+    "licenseNotes": "作品和媒体归原作者；引用原站素材与链接，不纳入本库 MIT 许可。",
+    "outcome": "showcase"
+  },
+  {
+    "id": "alesha-breach-blacksite",
+    "title": "BREACH：三维第一人称生存射击",
+    "titleEn": "BREACH — Blacksite",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "alesha-pro",
+    "sourceUrl": "https://github.com/alesha-pro/bench-portal/blob/main/games/breach-blacksite-astra/game.json",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "ASTRA（作者游戏清单）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "直接读取作者游戏清单，版本标记为 ASTRA；同仓库其他模型目录未纳入，功能描述尚未独立试玩核验。",
+    "sourceAccess": "作者公开页面已读取；未在本机独立复现作品。",
+    "summary": "Three.js 第一人称射击，作者清单描述武器后坐、角色动画、滑铲与程序化音频。",
+    "outputType": [
+      "Three.js",
+      "FPS",
+      "源码"
+    ],
+    "promptAvailability": "not-found",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": null,
+    "imageKind": "source-media",
+    "imageCaption": "作者发布的预览；未独立复现。",
+    "demoUrl": "https://alesha-pro.github.io/bench-portal/games/breach-blacksite-astra/",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/alesha-pro/bench-portal/tree/main/games/breach-blacksite-astra",
+    "evidenceUrls": [],
+    "licenseNotes": "作品和媒体归原作者；引用原站素材与链接，不纳入本库 MIT 许可。",
+    "outcome": "showcase"
+  },
+  {
+    "id": "alesha-rig-3090",
+    "title": "RIG / 3090：滚动拆解显卡工作站",
+    "titleEn": "RIG / 3090 — Anatomy of a Rig",
+    "group": "astra",
+    "category": "拆解与剖面",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "alesha-pro",
+    "sourceUrl": "https://github.com/alesha-pro/bench-portal/blob/main/games/rig-3090-astra/game.json",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "modelLabel": "ASTRA（作者游戏清单）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "直接读取作者游戏清单，版本标记为 ASTRA；同仓库其他模型目录未纳入，功能描述尚未独立试玩核验。",
+    "sourceAccess": "作者公开页面已读取；未在本机独立复现作品。",
+    "summary": "将工作站照片重建为 Blender 模型，再以滚动驱动部件展开与复原。",
+    "outputType": [
+      "Blender",
+      "GLB",
+      "滚动拆解"
+    ],
+    "promptAvailability": "not-found",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": null,
+    "imageKind": "source-media",
+    "imageCaption": "作者发布的预览；未独立复现。",
+    "demoUrl": "https://alesha-pro.github.io/bench-portal/games/rig-3090-astra/",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/alesha-pro/bench-portal/tree/main/games/rig-3090-astra",
+    "evidenceUrls": [],
+    "licenseNotes": "作品和媒体归原作者；引用原站素材与链接，不纳入本库 MIT 许可。",
+    "outcome": "showcase"
   }
 ]
