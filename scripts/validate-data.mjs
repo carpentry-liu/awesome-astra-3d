@@ -25,6 +25,7 @@ for(const c of cases){
 const media=JSON.parse(fs.readFileSync(new URL('../data/videos.json',import.meta.url),'utf8'));
 for(const video of media.videos){
  assert(ids.has(video.caseId));validUrl(video.downloadUrl);validUrl(video.releaseUrl);validUrl(video.metadataSource);
+ assert(!new URL(video.releaseUrl).pathname.includes('/untagged-'),`${video.filename}: draft release URL must be refreshed after publication`);
  assert(video.complete===true&&video.transcoded===false);assert(video.bytes>0);assert.match(video.sha256,/^[a-f0-9]{64}$/);
  assert(Math.abs(video.durationSeconds-video.expectedDurationSeconds)<=0.2,`${video.filename}: incomplete duration`);
 }
