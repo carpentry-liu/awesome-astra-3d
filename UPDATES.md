@@ -2,6 +2,19 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-09-08 · 8 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [BelugaXL Explorer：可拆解的白鲸运输机 / BelugaXL Explorer](https://carpentry-liu.github.io/awesome-astra-3d/#case=victoria-belugaxl-explorer) | Victoria Drake | 源码 / 工程 · 演示入口 |
+| [Softie：可以揉捏的 WebGPU 史莱姆 / Softie](https://carpentry-liu.github.io/awesome-astra-3d/#case=yuanyang-softie-webgpu) | 码农暖爸 / Delroy715 / yuanyang749 | 源码 / 工程 · 演示入口 |
+| [Inside Lloyd’s：拆开伦敦劳合社建筑 / Inside Lloyd’s](https://carpentry-liu.github.io/awesome-astra-3d/#case=cristian-inside-lloyds) | Cristian Exer | 源码 / 工程 · 演示入口 |
+| [Splashline：热带水滑道竞速 / Splashline](https://carpentry-liu.github.io/awesome-astra-3d/#case=kjlkurt-splashline) | KJLKurt | 源码 / 工程 · 演示入口 |
+| [曲柄滑块教材：CadQuery 参数化装配 / Educational Slider–Crank Mechanism](https://carpentry-liu.github.io/awesome-astra-3d/#case=sawamura-slider-crank) | Sawamura-Jun | 源码 / 工程 |
+| [Pulsebreak：Godot 原生三维竞技场实验 / Pulsebreak](https://carpentry-liu.github.io/awesome-astra-3d/#case=xindomusic-pulsebreak) | xindomusic | 源码 / 工程 · 提示词 / 过程 |
+| [Robo Open：Unity 机器人网球与绑定迭代 / Robo Open](https://carpentry-liu.github.io/awesome-astra-3d/#case=az9713-robo-open) | az9713 | 源码 / 工程 · 提示词 / 过程 |
+| [Minecrack：六边形群岛中的生存建造 / Minecrack](https://carpentry-liu.github.io/awesome-astra-3d/#case=anisayari-minecrack) | Anis Ayari | 源码 / 工程 |
+
 ## 2026-09-07 · 24 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

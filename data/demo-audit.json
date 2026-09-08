@@ -1,0 +1,181 @@
+{
+  "observedAt": "2026-09-08",
+  "method": "HTTP GET plus page-title checks. No independent gameplay or hardware compatibility test.",
+  "results": [
+    {
+      "id": "astra-orbital-dashboard-ai-kai",
+      "url": "https://hqman.me/demo/orbital-dashboard/",
+      "status": 200,
+      "title": "Global View - Orbital Logistics"
+    },
+    {
+      "id": "openai-sunwake",
+      "url": "https://sunwake-the-last-light.openai.chatgpt.site/",
+      "status": 200,
+      "title": "SUNWAKE — The Last Light"
+    },
+    {
+      "id": "openai-stop-motion-desk",
+      "url": "https://stop-motion-desk.openai.chatgpt.site/",
+      "status": 200,
+      "title": "Stop-Motion Desk"
+    },
+    {
+      "id": "openai-courtyard-house",
+      "url": "https://alder-courtyard-house.openai.chatgpt.site/",
+      "status": 200,
+      "title": "Courtyard House — Alder Practice"
+    },
+    {
+      "id": "openai-void-explorer",
+      "url": "https://void-explorer.openai.chatgpt.site/",
+      "status": 200,
+      "title": "VOID EXPLORER"
+    },
+    {
+      "id": "openai-physics-museum",
+      "url": "https://astra-museum-of-motion.openai.chatgpt.site/",
+      "status": 200,
+      "title": "Physics museum"
+    },
+    {
+      "id": "openai-living-cell",
+      "url": "https://living-cell-astra-20260901.openai.chatgpt.site/",
+      "status": 200,
+      "title": "Life on the inside — Micro Atlas"
+    },
+    {
+      "id": "openai-architecture-studio",
+      "url": "https://architecture-studio.openai.chatgpt.site/",
+      "status": 200,
+      "title": "Architecture Studio"
+    },
+    {
+      "id": "openai-little-ritual",
+      "url": "https://little-ritual.openai.chatgpt.site/",
+      "status": 200,
+      "title": "Little Ritual — coffee for a little world"
+    },
+    {
+      "id": "openai-clockwork-observatory",
+      "url": "https://kinetic-architecture-astra-20260901.openai.chatgpt.site/",
+      "status": 200,
+      "title": "The Ninth Meridian — An Impossible Observatory"
+    },
+    {
+      "id": "openai-velocity-loop",
+      "url": "https://velocity-loop.openai.chatgpt.site/",
+      "status": 200,
+      "title": "Velocity Loop"
+    },
+    {
+      "id": "mollick-living-ocean",
+      "url": "https://abyssal-living-deep.netlify.app/",
+      "status": 200,
+      "title": "ABYSSAL — The Living Deep"
+    },
+    {
+      "id": "openai-abyssal",
+      "url": "https://abyssal-ecosystem-astra-20260901.openai.chatgpt.site/",
+      "status": 200,
+      "title": "Abyssal — The living deep"
+    },
+    {
+      "id": "alesha-voidbound-slasher",
+      "url": "https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/",
+      "status": 200,
+      "title": "VOIDBOUND — The Choir of Ash"
+    },
+    {
+      "id": "alesha-antigravity-racer",
+      "url": "https://alesha-pro.github.io/bench-portal/games/voidrunner-astra/",
+      "status": 200,
+      "title": "VOIDRUNNER — Orbital Combat League"
+    },
+    {
+      "id": "ruofeng-orbital-core",
+      "url": "https://orbital-core-showcase.wangruofeng007.workers.dev/",
+      "status": 200,
+      "title": "ORBITAL CORE / 01"
+    },
+    {
+      "id": "majid-kaiju-city",
+      "url": "https://stormcolossus.netlify.app/",
+      "status": 200,
+      "title": "Storm Colossus: Cityfall — Play in Your Browser"
+    },
+    {
+      "id": "danmana-cluj-voxel",
+      "url": "https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/index.html",
+      "status": 200,
+      "title": "Piața Unirii — A living miniature",
+      "note": "Replaced comparator root: its runs.json returned 404."
+    },
+    {
+      "id": "leo-surface-insect",
+      "url": "https://threerocks.github.io/web-3d-pages/",
+      "status": 200,
+      "title": "微小共生 · A little closer"
+    },
+    {
+      "id": "alesha-breach-blacksite",
+      "url": "https://alesha-pro.github.io/bench-portal/games/breach-blacksite-astra/",
+      "status": 200,
+      "title": "BREACH — Blacksite"
+    },
+    {
+      "id": "alesha-rig-3090",
+      "url": "https://alesha-pro.github.io/bench-portal/games/rig-3090-astra/",
+      "status": 200,
+      "title": "RIG / 3090 — Power in every detail"
+    },
+    {
+      "id": "peter-van-gogh-town",
+      "url": "https://van-goghs-town.surge.sh/",
+      "status": 200,
+      "title": "A town made of paint"
+    },
+    {
+      "id": "manu-gbasp-portfolio",
+      "url": "https://manu.vision/gb",
+      "status": 200,
+      "title": "Manu.Vision — SP Edition"
+    },
+    {
+      "id": "peter-gogh-strike",
+      "url": "https://gogh-strike.petergostev.chatgpt.site/",
+      "status": 200,
+      "title": "Gogh Strike · Paint Clash"
+    },
+    {
+      "id": "ayi-mosswing",
+      "url": "https://mosswing-quiet-flight.jack-514.chatgpt.site/",
+      "status": 200,
+      "title": "Mosswing — Small wings. Endless wonder."
+    },
+    {
+      "id": "victoria-belugaxl-explorer",
+      "url": "https://victoria.dev/belugaxl-explorer/",
+      "status": 200,
+      "title": "BelugaXL Explorer"
+    },
+    {
+      "id": "yuanyang-softie-webgpu",
+      "url": "https://softie.520ai.site",
+      "status": 200,
+      "title": "Softie"
+    },
+    {
+      "id": "cristian-inside-lloyds",
+      "url": "https://lloyds.cristianexer.dev/",
+      "status": 200,
+      "title": "Inside Lloyd’s"
+    },
+    {
+      "id": "kjlkurt-splashline",
+      "url": "https://kjlkurt.github.io/waterslide-game-astra/",
+      "status": 200,
+      "title": "Splashline"
+    }
+  ]
+}

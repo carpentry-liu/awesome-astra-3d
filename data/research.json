@@ -1,5 +1,5 @@
 {
-  "observedAt": "2026-09-07",
+  "observedAt": "2026-09-08",
   "officialSources": [
     "https://developers.openai.com/showcase/all",
     "https://developers.openai.com/api/docs/models/gpt-6-astra"
@@ -124,6 +124,73 @@
         "Bilibili donut owner and description verified through official public API; translated community compilations are discovery only.",
         "X media matched by exact post and media ID. Date comes from author metadata, not repost date.",
         "Xiaohongshu public query found no verifiable new note; no platform total inferred."
+      ]
+    },
+    {
+      "observedAt": "2026-09-08",
+      "addedCaseIds": [
+        "victoria-belugaxl-explorer",
+        "yuanyang-softie-webgpu",
+        "cristian-inside-lloyds",
+        "kjlkurt-splashline",
+        "sawamura-slider-crank",
+        "xindomusic-pulsebreak",
+        "az9713-robo-open",
+        "anisayari-minecrack"
+      ],
+      "sources": [
+        "https://github.com/victoriadrake/belugaxl-explorer",
+        "https://x.com/Delroy715/status/2096793432987464010",
+        "https://github.com/cristianexer/Lloyds-of-London-3D-building",
+        "https://github.com/KJLKurt/waterslide-game-astra",
+        "https://github.com/Sawamura-Jun/Crank-Mech",
+        "https://github.com/xindomusic/pulsebreak",
+        "https://github.com/az9713/gpt-6-astra-tennis-game",
+        "https://github.com/anisayari/minecrack"
+      ],
+      "notes": [
+        "Eight new source-linked cases; four author demo endpoints returned HTTP 200.",
+        "Softie keeps secondary evidence: Astra/Gemini division comes from an X mirror, not a directly readable original post.",
+        "Minecrack promotional illustration is not used as gameplay media; native game releases are not online demos.",
+        "Piața Unirii now links directly to Astra. Author metadata establishes model identity."
+      ],
+      "excluded": [
+        {
+          "source": "https://developers.openai.com/showcase/below-the-surface",
+          "reason": "官方标 Astra，但当前页面 chunk 中无 WebGL/Three.js 几何实现证据；该作品为滚动海洋展览，勿只凭提示词中 illustrations or 3D specimens 判定真实 3D。"
+        },
+        {
+          "source": "https://developers.openai.com/showcase/pattern-studio",
+          "reason": "官方标 Astra，但实际编辑器为向量图案与 SVG 预览，未确认真实三维预览，不宜凑进 3D 案例。"
+        },
+        {
+          "source": "https://developers.openai.com/showcase/hollowflux",
+          "reason": "明确 Astra，但任务为 top-down pixel dungeon，属二维游戏。"
+        },
+        {
+          "source": "https://developers.openai.com/showcase/codex-modeling-studio",
+          "reason": "真实浏览器 3D 工具，但详情仅标 Codex，未声明 Astra。"
+        },
+        {
+          "source": "https://developers.openai.com/showcase/cubecade-rubiks",
+          "reason": "真实 3D 魔方，但无 Astra 模型声明。"
+        },
+        {
+          "source": "https://developers.openai.com/showcase/glass-towers",
+          "reason": "构建步骤写 GPT-5.6 Ultra。"
+        },
+        {
+          "source": "https://developers.openai.com/showcase/material-lab",
+          "reason": "属于 GPT-5.6 interactive-studies-56，非 Astra。"
+        },
+        {
+          "source": "https://developers.openai.com/showcase/biome-lab",
+          "reason": "属于 GPT-5.6 interactive-studies-56，非 Astra。"
+        },
+        {
+          "source": "https://developers.openai.com/showcase/terrain-mixer",
+          "reason": "属于 GPT-5.6 interactive-studies-56，非 Astra。"
+        }
       ]
     }
   ]

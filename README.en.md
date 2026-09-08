@@ -1,153 +1,127 @@
-# Awesome Astra 3D
+<div align="center">
 
-[简体中文](README.md) · **English**
+# ASTRA / 3D ATLAS
 
-**Find a 3D result, then follow it to the original creator, prompt, editable project or source code.** A curated collection of GPT-6 Astra examples across Blender, Three.js, WebGL, architecture, games and spatial tools.
+### Explore what an idea can become in 3D.
 
-**[Explore the gallery](https://carpentry-liu.github.io/awesome-astra-3d/) · [Start here](START_HERE.md) · [Latest additions](UPDATES.md) · [Contribute](CONTRIBUTING.md)**
+An open collection of GPT-6 Astra architecture, Blender models, Three.js worlds and games.
+
+**[Explore the live gallery](https://carpentry-liu.github.io/awesome-astra-3d/) · [Latest additions](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [Contribute](CONTRIBUTING.md)**
+
+[简体中文](README.md) · English
+
+</div>
 
 <!-- atlas:summary:start -->
-Updated **2026-09-07 (Asia/Shanghai)** · **53 Astra examples** · **15 with source / project links** · **22 complete videos** · **12 separately labeled references**.
+Updated **2026-09-08 (Asia/Shanghai)** · **61 Astra examples** · **23 source / project links** · **29 demo links** · **22 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
-[![Astra 3D Atlas: latest additions, material filters and 53 examples](docs/media/gallery-latest.png)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#top)
+[![Astra 3D Atlas: featured work, resource shortcuts and the case gallery](docs/media/welcome-desktop.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-Captured on 2026-09-07 with newest additions first. Click the screenshot to browse the same view.
-
-## Eight works to explore
-
-The first six are newly added; the final two are established starting points with useful process material. Images and the gameplay GIF come from the original creators.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=ruofeng-orbital-core"><img src="https://pbs.twimg.com/amplify_video_thumb/2096549512995368961/img/kyuKVBrCE5i7fHA8.jpg" alt="Orbital Core · Model to website" width="420"></a>
-      <h3>Orbital Core · Model to website</h3>
-      <p>Blender project, GLB and Three.js interactions, with a complete video.</p>
-      <p>ruofeng (@oneruofeng) · Secondary evidence<br><a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=ruofeng-orbital-core">View case</a> · <a href="https://github.com/wangruofeng/orbital-core-showcase">Source / project</a> · <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=ruofeng-orbital-core">Full video · 0:55</a> · <a href="https://x.com/oneruofeng/status/2096551010089263181">Original source</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=mollick-living-ocean"><img src="https://pbs.twimg.com/amplify_video_thumb/2095673008803241987/img/rkGOb6E0-oOUi5ka.jpg" alt="Living Deep · Ocean world" width="420"></a>
-      <h3>Living Deep · Ocean world</h3>
-      <p>An ocean world expanded from an existing sea simulation, with source and a complete video.</p>
-      <p>Ethan Mollick · Secondary evidence<br><a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=mollick-living-ocean">View case</a> · <a href="https://github.com/emollick/abyssal-living-deep">Source / project</a> · <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=mollick-living-ocean">Full video · 1:04</a> · <a href="https://x.com/emollick/status/2095673885605630429">Original source</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=amsminn-smash-karts"><img src="https://raw.githubusercontent.com/amsminn/gpt-6-astra-smash-karts/main/docs/media/gameplay.gif" alt="Smash Karts · Multiplayer arena" width="420"></a>
-      <h3>Smash Karts · Multiplayer arena</h3>
-      <p>The author’s gameplay GIF; Three.js game, server and agent trajectory are public.</p>
-      <p>amsminn · Author report<br><a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=amsminn-smash-karts">View case</a> · <a href="https://github.com/amsminn/gpt-6-astra-smash-karts">Source / project</a> · <a href="https://github.com/amsminn/gpt-6-astra-smash-karts">Original source</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=goroman-facet-fighter"><img src="https://raw.githubusercontent.com/GOROman/gpt-6-astra-ps1-game-benchmark/main/docs/screenshots/015-arcade-champion.png" alt="FACET FIGHTER · PS1 fighting game" width="420"></a>
-      <h3>FACET FIGHTER · PS1 fighting game</h3>
-      <p>The author’s emulator screenshot; PSn00bSDK source and prompt history are public.</p>
-      <p>GOROman · Author report<br><a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=goroman-facet-fighter">View case</a> · <a href="https://github.com/GOROman/gpt-6-astra-ps1-game-benchmark">Source / project</a> · <a href="https://github.com/GOROman/gpt-6-astra-ps1-game-benchmark">Original source</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-giverny-garden"><img src="https://cdn.openai.com/devhub/blog/architectural-visualization/giverny-water-garden-cec7107eed5b.webp" alt="Giverny · Water garden" width="420"></a>
-      <h3>Giverny · Water garden</h3>
-      <p>A Blender render from the official article: water lilies, a green bridge and a planted garden.</p>
-      <p>Thomas Ricouard · Official showcase<br><a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-giverny-garden">View case</a> · <a href="https://developers.openai.com/blog/architectural-visualization-with-astra">Original source</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-helios-collector"><img src="https://cdn.openai.com/devhub/blog/architectural-visualization/helios-stellar-collector-8f89b625bd2f.webp" alt="HELIOS · Stellar collector" width="420"></a>
-      <h3>HELIOS · Stellar collector</h3>
-      <p>A Blender concept-scene render from the official article, with the author’s process.</p>
-      <p>Thomas Ricouard · Official showcase<br><a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-helios-collector">View case</a> · <a href="https://developers.openai.com/blog/architectural-visualization-with-astra">Original source</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=simonw-pelican-bicycle"><img src="https://static.simonwillison.net/static/2026/astra-blender-pelican.jpg" alt="Pelican bicycle · Editable Blender scene" width="420"></a>
-      <h3>Pelican bicycle · Editable Blender scene</h3>
-      <p>Three iterations of .blend files, Python scripts and Codex conversation history.</p>
-      <p>Simon Willison · Author report<br><a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=simonw-pelican-bicycle">View case</a> · <a href="https://github.com/simonw/gpt-6-astra-blender-pelican-bicycle">Source / project</a> · <a href="https://til.simonwillison.net/llms/blender-coding-agents-macos">Original source</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-solace-garden-house"><img src="https://cdn.openai.com/devhub/blog/architectural-visualization/garden-house-exterior-822ca33fb418.webp" alt="Solace · Architecture and interiors" width="420"></a>
-      <h3>Solace · Architecture and interiors</h3>
-      <p>A courtyard-house render from the official article; a Blender → Cycles → UE5 workflow.</p>
-      <p>Thomas Ricouard · Official showcase<br><a href="https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-solace-garden-house">View case</a> · <a href="https://developers.openai.com/blog/architectural-visualization-with-astra">Original source</a></p>
-    </td>
-  </tr>
-</table>
-
-The collection identifies source quality and available materials; inclusion does not mean we independently reproduced the project.
+Actual website capture · September 8, 2026.
 
 ## Choose a starting point
 
-| Your next experiment | What is available | Start with |
+| Your goal | Open |
+| --- | --- |
+| Try a project | [Creator demos](https://carpentry-liu.github.io/awesome-astra-3d/?resource=demo#collection) |
+| Continue building | [Source code and editable projects](https://carpentry-liu.github.io/awesome-astra-3d/?resource=source#collection) |
+| Watch the work in motion | [Complete source videos](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video#collection) |
+| Follow a learning path | [Blender, web and game starting points](START_HERE.md) |
+| Reuse the index | [Catalog](CATALOG.md) · [Public JSON](https://carpentry-liu.github.io/awesome-astra-3d/cases.json) |
+
+## Latest additions
+
+Aircraft structures, interactive physics, architecture, parametric mechanisms and 3D games. This table is generated from the source data. Collection dates are distinct from original publication dates.
+
+<!-- atlas:latest:start -->
+| Example | Creator | Resources |
 | --- | --- | --- |
-| Study an editable Blender scene | `.blend`, Python scripts and the author's conversation | [Simon Willison's pelican bicycle](https://github.com/simonw/gpt-6-astra-blender-pelican-bicycle) |
-| Bring a model into a website | Blender source, GLB and Three.js interactions | [Orbital Core Showcase](https://github.com/wangruofeng/orbital-core-showcase) |
-| Explore browser game code | A single HTML game and the original task | [Mosswing](https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/mosswing) |
-| Inspect multiplayer implementation | Three.js game, server and public agent trajectory | [Smash Karts Arena](https://github.com/amsminn/gpt-6-astra-smash-karts) |
-| Follow a longer design process | Blender and Unreal walkthroughs, with author commentary | [Solace](https://developers.openai.com/blog/architectural-visualization-with-astra) |
+| [BelugaXL Explorer](https://carpentry-liu.github.io/awesome-astra-3d/#case=victoria-belugaxl-explorer) | Victoria Drake | [Demo](https://victoria.dev/belugaxl-explorer/) · [Source](https://github.com/victoriadrake/belugaxl-explorer) · [Original](https://github.com/victoriadrake/belugaxl-explorer) |
+| [Softie](https://carpentry-liu.github.io/awesome-astra-3d/#case=yuanyang-softie-webgpu) | 码农暖爸 / Delroy715 / yuanyang749 | [Demo](https://softie.520ai.site) · [Source](https://github.com/yuanyang749/softie-webgpu) · [Original](https://x.com/Delroy715/status/2096793432987464010) |
+| [Inside Lloyd’s](https://carpentry-liu.github.io/awesome-astra-3d/#case=cristian-inside-lloyds) | Cristian Exer | [Demo](https://lloyds.cristianexer.dev/) · [Source](https://github.com/cristianexer/Lloyds-of-London-3D-building) · [Original](https://github.com/cristianexer/Lloyds-of-London-3D-building) |
+| [Splashline](https://carpentry-liu.github.io/awesome-astra-3d/#case=kjlkurt-splashline) | KJLKurt | [Demo](https://kjlkurt.github.io/waterslide-game-astra/) · [Source](https://github.com/KJLKurt/waterslide-game-astra) · [Original](https://github.com/KJLKurt/waterslide-game-astra) |
+| [Educational Slider–Crank Mechanism](https://carpentry-liu.github.io/awesome-astra-3d/#case=sawamura-slider-crank) | Sawamura-Jun | [Source](https://github.com/Sawamura-Jun/Crank-Mech) · [Original](https://github.com/Sawamura-Jun/Crank-Mech) |
+| [Pulsebreak](https://carpentry-liu.github.io/awesome-astra-3d/#case=xindomusic-pulsebreak) | xindomusic | [Source](https://github.com/xindomusic/pulsebreak) · [Original](https://github.com/xindomusic/pulsebreak) |
+| [Robo Open](https://carpentry-liu.github.io/awesome-astra-3d/#case=az9713-robo-open) | az9713 | [Source](https://github.com/az9713/gpt-6-astra-tennis-game) · [Original](https://github.com/az9713/gpt-6-astra-tennis-game) |
+| [Minecrack](https://carpentry-liu.github.io/awesome-astra-3d/#case=anisayari-minecrack) | Anis Ayari | [Source](https://github.com/anisayari/minecrack) · [Original](https://github.com/anisayari/minecrack) |
+<!-- atlas:latest:end -->
 
-**[Examples with source code](https://carpentry-liu.github.io/awesome-astra-3d/?resource=source#collection) · [Author-provided demo links](https://carpentry-liu.github.io/awesome-astra-3d/?resource=demo#collection) · [Complete archived videos](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video#collection)**
+[Full update history →](UPDATES.md)
 
-The gallery interface is in Chinese; English case names, creator names and tool names are searchable. Demo availability and access requirements vary by author. We have reviewed sources, not independently reproduced every project.
+## The gallery
 
-## What each entry tells you
+The welcome page features three works with original creator media. Resource totals link directly to matching cases, and cards expose source and demo links. Combine keyword, category, platform and resource filters, then share the resulting URL. Each case has a direct detail link, attribution, model evidence and available process material.
 
-- Whether the output is a render, geometry, an editable project or an interactive experience.
-- Whether a prompt is public, partial, described by the author or unavailable.
-- Where to find the original post, project, demo and available media.
-- Whether the model attribution comes from an official showcase, the author or a secondary source.
-
-Image-generation references are kept in a separate group and excluded from the Astra count. Comparisons and unsuccessful attempts retain their limitations. Missing information remains missing.
-
-## Complete videos
-
-[![Orbital Core detail view with a full video and original-quality download](docs/media/orbital-video.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=ruofeng-orbital-core)
+The interface is in Chinese; English project names, tools and creators are searchable. Keyboard navigation, a mobile layout and image failure states are supported.
 
 <details>
-<summary>Mobile gallery screenshot</summary>
+<summary>Mobile welcome page</summary>
 
-[![Mobile view of the latest additions](docs/media/gallery-mobile.png)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#top)
+![Mobile welcome page and resource navigation](docs/media/welcome-mobile.jpg)
 
 </details>
 
+## Projects to study
 
-X media is archived as complete source-provided MP4 renditions: the highest-bitrate file and a smaller playback version. Files are not clipped or transcoded. The gallery plays the smaller rendition and links to the higher-quality download. Source IDs, durations, byte counts and SHA-256 hashes are recorded in the [media manifest](data/videos.json); large files live in [GitHub Releases](https://github.com/carpentry-liu/awesome-astra-3d/releases).
+| Project | What to inspect | Materials |
+| --- | --- | --- |
+| Solace | Architectural iteration through Blender, Cycles and UE5 | [Creator walkthrough](https://developers.openai.com/blog/architectural-visualization-with-astra) |
+| Pelican on a bicycle | Three iterations, editable meshes and recorded conversations | [Source project](https://github.com/simonw/gpt-6-astra-blender-pelican-bicycle) |
+| Orbital Core | Blender and GLB assets in an interactive Three.js page | [Source](https://github.com/wangruofeng/orbital-core-showcase) · [Demo](https://orbital-core-showcase.wangruofeng007.workers.dev/) |
+| Living Deep | Extending an existing ocean simulation with underwater ecology | [Source](https://github.com/emollick/abyssal-living-deep) · [Demo](https://abyssal-living-deep.netlify.app/) |
+| Smash Karts | Multiplayer client, server and agent trajectory | [Source](https://github.com/amsminn/gpt-6-astra-smash-karts) |
 
-## Use the index
+## Evidence, not assumptions
 
-The public [JSON index](https://carpentry-liu.github.io/awesome-astra-3d/cases.json) needs no API key:
+| Label | Meaning |
+| --- | --- |
+| Official showcase | An official project page explicitly identifies Astra |
+| Author statement | An accessible creator post, article or repository identifies the model |
+| Secondary evidence | The original page is restricted; a mirror, quote or collection provides the statement |
+| Method reference | Separately grouped composition and prompting references, excluded from Astra counts |
 
-```js
-const cases = await fetch(
-  'https://carpentry-liu.github.io/awesome-astra-3d/cases.json'
-).then(response => response.json());
-const withCode = cases.filter(
-  item => item.group === 'astra' && item.repositoryUrl
-);
-```
+Renders, geometry, editable projects and interactive pages are distinguished. Failed attempts and comparisons retain their limitations. Unknown dates and unpublished prompts remain missing. GPT Image 2 references are never relabeled as Astra geometry.
 
-To run this gallery locally, use Node.js 22.13+ (22.22.0 recommended):
+**Inclusion, attribution and an HTTP response do not establish independent reproduction.** External demos can require desktop hardware, WebGPU, additional assets or sign-in. See the [demo audit](data/demo-audit.json) and [research notes](data/research.json).
+
+## Run locally
+
+Use Node.js 22.13+ (22.22.0 recommended). No API key is needed for this static collection.
 
 ```sh
+git clone https://github.com/carpentry-liu/awesome-astra-3d.git
+cd awesome-astra-3d
 npm ci
 npm run dev
+```
+
+```sh
 npm run check
+npm run lint
 npm run build
 ```
 
-This runs the collection website, not the third-party games or models. See the original repositories for their requirements.
+The build synchronizes catalogs, bilingual statistics, latest additions, public JSON and the sitemap, then exports to `dist/client/`. On Windows with Node 24+, it uses the official npm-distributed Node 22.22.0 runtime for prerender compatibility. Use `npm run catalog` after editing `data/cases.json`.
 
-## Contribute and follow updates
+**Public demo: [GitHub Pages](https://carpentry-liu.github.io/awesome-astra-3d/).** The [Pages workflow](.github/workflows/pages.yml) checks, builds, verifies existing video assets and publishes pushes to `main`. The existing Sites configuration is retained for the owner's alternate preview with its current access settings.
 
-Found an original project, a missing source, or an incorrect attribution? [Submit a case or correction](https://github.com/carpentry-liu/awesome-astra-3d/issues/new?template=case.yml). Include the original creator and a clear model statement. The [contribution guide](CONTRIBUTING.md) explains the data fields.
+## Repository map
 
-If this index helps you find a useful project, a Star makes it easier to find again. New additions are listed in [UPDATES.md](UPDATES.md).
+- `data/`: cases, video manifests, research and link checks.
+- `app/`: welcome page, gallery, details and responsive styling.
+- `src/`: filtering, video playback and the read-only WebMCP search tool.
+- `scripts/` and `tests/`: generated documentation, export validation and behavior tests.
+- [docs/](docs/README.md): requirements, design and verification records.
 
-## Attribution
+## Contribute and attribution
 
-Organization was inspired by [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) and [GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill). [Tripo's Astra collection](https://github.com/TripoGrowthLab/awesome-astra-prompts) provided additional discovery leads; entries were checked against author sources where available, and rewritten briefs are not presented as original prompts.
+[Submit a case or correction](https://github.com/carpentry-liu/awesome-astra-3d/issues/new?template=case.yml) with the original creator, explicit model statement and verifiable links. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-Independent collection, not an official OpenAI project. Original repository code is MIT licensed. Third-party works, media, prompts and assets retain their own rights; the repository license does not grant permission to redistribute them. See [rights and removal information](README.md#权利).
+Organization was inspired by [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) and [GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill). [Tripo's Astra collection](https://github.com/TripoGrowthLab/awesome-astra-prompts) supplied some discovery leads; model attribution is checked against original sources where possible.
+
+Original repository code is [MIT licensed](LICENSE). Third-party works, images, prompts, videos and assets retain their own rights. This license grants no additional redistribution rights. Images remain on creator hosts.
+
+Previously archived X videos use complete source-provided renditions without clipping or transcoding. Full duration means the entire posted clip, not the whole development process. The [media manifest](data/videos.json) records duration, byte count and SHA-256; files live in [GitHub Releases](https://github.com/carpentry-liu/awesome-astra-3d/releases). Their inclusion does not assert additional creator permission. See [rights and removal information](README.md#权利).
+
+Independent collection, not an official OpenAI project.

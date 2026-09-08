@@ -1,8 +1,8 @@
 # 案例目录
 
-由 `data/cases.json` 生成。最近核查：2026-09-07。[上手路线](START_HERE.md) · [最新收录](UPDATES.md)。作品归属基于公开来源，不代表独立复现。
+由 `data/cases.json` 生成。最近核查：2026-09-08。[上手路线](START_HERE.md) · [最新收录](UPDATES.md)。作品归属基于公开来源，不代表独立复现。
 
-## GPT-6 Astra 案例（53）
+## GPT-6 Astra 案例（61）
 
 ### 建筑与室内
 
@@ -14,6 +14,7 @@
 | [房源照片转三维住宅与宣传视频](https://x.com/realYunfanYe/status/2095612137582526615) | Yunfan Ye (@realYunfanYe) · X | 转引待复核 | [视频](https://x.com/realYunfanYe/status/2095612137582526615) |
 | [摄影测量扫描重建可编辑客厅](https://x.com/bilawalsidhu/status/2096092080397246707) | Bilawal Sidhu · X | 转引待复核 | [视频](https://x.com/bilawalsidhu/status/2096092080397246707) |
 | [Giverny：莫奈花园灵感的三维场景](https://developers.openai.com/blog/architectural-visualization-with-astra) | Thomas Ricouard · OpenAI | 官方展示 | [提示词/过程](https://developers.openai.com/blog/architectural-visualization-with-astra#design-beyond-architecture) |
+| [Inside Lloyd’s：拆开伦敦劳合社建筑](https://github.com/cristianexer/Lloyds-of-London-3D-building) | Cristian Exer · GitHub | 作者自述 | [在线作品](https://lloyds.cristianexer.dev/) · [源码](https://github.com/cristianexer/Lloyds-of-London-3D-building) |
 
 ### 3D 游戏
 
@@ -37,6 +38,10 @@
 | [Civilization Lab：同题三维文明模拟对照](https://github.com/cagrikacmaz/gpt-6-astra-vs-gemini-3-8-flash) | Cagri Kacmaz · GitHub | 作者自述 | [视频](https://raw.githubusercontent.com/cagrikacmaz/gpt-6-astra-vs-gemini-3-8-flash/main/media/video/astra-demo.mp4) · [提示词/过程](https://github.com/cagrikacmaz/gpt-6-astra-vs-gemini-3-8-flash/blob/main/PROMPT.md) |
 | [Godot 末世场景：既有素材与 Blender MCP](https://www.reddit.com/r/aigamedev/comments/1w9bkiw/gpt6_astra_built_this_postapocalyptic_game_scene/) | DarthOrganism · Reddit | 作者自述 | [视频](https://www.reddit.com/r/aigamedev/comments/1w9bkiw/gpt6_astra_built_this_postapocalyptic_game_scene/) |
 | [BREACH：三维第一人称生存射击](https://github.com/alesha-pro/bench-portal/blob/main/games/breach-blacksite-astra/game.json) | alesha-pro · GitHub | 作者自述 | [在线作品](https://alesha-pro.github.io/bench-portal/games/breach-blacksite-astra/) · [源码](https://github.com/alesha-pro/bench-portal/tree/main/games/breach-blacksite-astra) |
+| [Splashline：热带水滑道竞速](https://github.com/KJLKurt/waterslide-game-astra) | KJLKurt · GitHub | 作者自述 | [在线作品](https://kjlkurt.github.io/waterslide-game-astra/) · [源码](https://github.com/KJLKurt/waterslide-game-astra) |
+| [Pulsebreak：Godot 原生三维竞技场实验](https://github.com/xindomusic/pulsebreak) | xindomusic · GitHub | 作者自述 | [源码](https://github.com/xindomusic/pulsebreak) · [提示词/过程](https://github.com/xindomusic/pulsebreak/blob/main/docs/EXPERIMENT.md) |
+| [Robo Open：Unity 机器人网球与绑定迭代](https://github.com/az9713/gpt-6-astra-tennis-game) | az9713 · GitHub | 作者自述 | [源码](https://github.com/az9713/gpt-6-astra-tennis-game) · [视频](https://raw.githubusercontent.com/az9713/gpt-6-astra-tennis-game/main/docs/media/match2.mp4) · [提示词/过程](https://github.com/az9713/gpt-6-astra-tennis-game/blob/main/DEVELOPMENT-JOURNEY.md) |
+| [Minecrack：六边形群岛中的生存建造](https://github.com/anisayari/minecrack) | Anis Ayari · GitHub | 作者自述 | [源码](https://github.com/anisayari/minecrack) |
 
 ### Blender 建模
 
@@ -59,6 +64,7 @@
 | [Physics museum：五个可操作的物理展项](https://developers.openai.com/showcase/physics-museum) | Katia Gil Guzman, OpenAI · OpenAI | 官方展示 | [在线作品](https://astra-museum-of-motion.openai.chatgpt.site/) · [提示词/过程](https://developers.openai.com/showcase/physics-museum) |
 | [Titan：土卫六三维科普展示](https://x.com/ArdaTugsat/status/2095986941753712841) | Arda Tugsat · X | 转引待复核 | [视频](https://x.com/ArdaTugsat/status/2095986941753712841) |
 | [HELIOS：太阳与戴森球概念场景](https://developers.openai.com/blog/architectural-visualization-with-astra) | Thomas Ricouard · OpenAI | 官方展示 | [提示词/过程](https://developers.openai.com/blog/architectural-visualization-with-astra#design-beyond-architecture) |
+| [曲柄滑块教材：CadQuery 参数化装配](https://github.com/Sawamura-Jun/Crank-Mech) | Sawamura-Jun · GitHub | 作者自述 | [源码](https://github.com/Sawamura-Jun/Crank-Mech) |
 
 ### 交互与工具
 
@@ -71,6 +77,7 @@
 | [家庭任务世界：把家务清单变成 3D 探索](https://www.chatprd.ai/how-i-ai/gpt-6-astra-review-hardware-3d-games-and-coding) | Claire Vo / How I AI · 个人网站 | 作者自述 | [视频](https://www.youtube.com/watch?v=AniiF8rOu9c) · [提示词/过程](https://www.chatprd.ai/how-i-ai/gpt-6-astra-review-hardware-3d-games-and-coding) |
 | [双环能量核心：Blender 模型到交互网页](https://x.com/oneruofeng/status/2096551010089263181) | ruofeng (@oneruofeng) · X | 转引待复核 | [在线作品](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [源码](https://github.com/wangruofeng/orbital-core-showcase) · [视频](https://x.com/oneruofeng/status/2096551010089263181) |
 | [Unreal 生存社会：会交谈的智能体角色](https://x.com/mattshumer_/status/2095596175705399482) | Matt Shumer · X | 转引待复核 | [视频](https://x.com/mattshumer_/status/2095596175705399482) |
+| [Softie：可以揉捏的 WebGPU 史莱姆](https://x.com/Delroy715/status/2096793432987464010) | 码农暖爸 / Delroy715 / yuanyang749 · X | 转引待复核 | [在线作品](https://softie.520ai.site) · [源码](https://github.com/yuanyang749/softie-webgpu) · [视频](https://x.com/Delroy715/status/2096793432987464010) |
 
 ### 程序化场景
 
@@ -81,7 +88,7 @@
 | [走进梵高画作：可连续漫步的 Three.js 小镇](https://x.com/petergostev/status/2095776685807346105) | Peter Gostev (@petergostev) · X | 转引待复核 | [在线作品](https://van-goghs-town.surge.sh/) · [源码](https://github.com/petergpt/gogh-strike/blob/main/reference/van-goghs-town.original.html) · [视频](https://x.com/petergostev/status/2095776685807346105) · [提示词/过程](https://x.com/petergostev/status/2095778829738393889) |
 | [瓶中船：17 世纪体素帆船与海浪](https://x.com/DeryaTR_/status/2095699049722581065) | Derya Unutmaz (@DeryaTR_) · X | 转引待复核 | [视频](https://x.com/DeryaTR_/status/2095699049722581065) |
 | [Living Deep：海面风暴与海底生态](https://x.com/emollick/status/2095673885605630429) | Ethan Mollick · X | 转引待复核 | [在线作品](https://abyssal-living-deep.netlify.app/) · [源码](https://github.com/emollick/abyssal-living-deep) · [视频](https://x.com/emollick/status/2095673885605630429) |
-| [Cluj-Napoca 联合广场：同题体素场景对照](https://x.com/danmana/status/2096262733259837681) | Dan Manastireanu · X | 转引待复核 | [在线作品](https://piata-unirii.vercel.app/) · [源码](https://github.com/danmana/piata-unirii/tree/main/runs/gpt-astra-xhigh-01) · [视频](https://x.com/danmana/status/2096262733259837681) · [提示词/过程](https://github.com/danmana/piata-unirii/blob/main/prompt.md) |
+| [Cluj-Napoca 联合广场：同题体素场景对照](https://x.com/danmana/status/2096262733259837681) | Dan Manastireanu · X | 作者自述 | [在线作品](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/index.html) · [源码](https://github.com/danmana/piata-unirii/tree/main/runs/gpt-astra-xhigh-01) · [视频](https://x.com/danmana/status/2096262733259837681) · [提示词/过程](https://github.com/danmana/piata-unirii/blob/main/prompt.md) |
 | [贴附表面行走的程序化多足虫](https://x.com/leo_xiaolei/status/2096460081982304546) | leo / 小磊 (@leo_xiaolei) · X | 转引待复核 | [在线作品](https://threerocks.github.io/web-3d-pages/) · [视频](https://x.com/leo_xiaolei/status/2096460081982304546) |
 
 ### 拆解与剖面
@@ -91,6 +98,7 @@
 | [交互涡轮增压器：旋转、拆分与隔离部件](https://x.com/Feraser8/status/2095776712579571725) | Feraser (@Feraser8) · X | 转引待复核 | [视频](https://x.com/Feraser8/status/2095776712579571725) · [提示词/过程](https://x.com/Feraser8/status/2095776712579571725) |
 | [USS Enterprise：星舰 CAD 装配展示](https://x.com/DeryaTR_/status/2095641163441254676) | Derya Unutmaz (@DeryaTR_) · X | 转引待复核 | [视频](https://x.com/DeryaTR_/status/2095641163441254676) |
 | [RIG / 3090：滚动拆解显卡工作站](https://github.com/alesha-pro/bench-portal/blob/main/games/rig-3090-astra/game.json) | alesha-pro · GitHub | 作者自述 | [在线作品](https://alesha-pro.github.io/bench-portal/games/rig-3090-astra/) · [源码](https://github.com/alesha-pro/bench-portal/tree/main/games/rig-3090-astra) |
+| [BelugaXL Explorer：可拆解的白鲸运输机](https://github.com/victoriadrake/belugaxl-explorer) | Victoria Drake · GitHub | 作者自述 | [在线作品](https://victoria.dev/belugaxl-explorer/) · [源码](https://github.com/victoriadrake/belugaxl-explorer) |
 
 ## 独立方法参考（12）
 
