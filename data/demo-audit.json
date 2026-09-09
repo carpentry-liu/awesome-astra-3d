@@ -1,6 +1,6 @@
 {
   "observedAt": "2026-09-09",
-  "method": "HTTP GET plus page-title and final-URL checks. No independent gameplay or hardware compatibility test.",
+  "method": "HTTP GET plus page-title and final-URL checks. No independent gameplay or hardware compatibility test. Explicit shutdown notice checked for Elderwood; it is excluded from the current demo count.",
   "results": [
     {
       "id": "openai-sunwake",
@@ -8,6 +8,112 @@
       "status": 200,
       "title": "SUNWAKE — The Last Light",
       "finalUrl": "https://sunwake-the-last-light.openai.chatgpt.site/",
+      "observedAt": "2026-09-09"
+    },
+    {
+      "id": "lbeilc-rhine-lab",
+      "url": "https://rhine-lab-ui.vercel.app",
+      "status": 200,
+      "title": "RHINE LAB · ANALYSIS OS",
+      "finalUrl": "https://rhine-lab-ui.vercel.app",
+      "observedAt": "2026-09-09"
+    },
+    {
+      "id": "ashe-model-x",
+      "url": "https://model-x-studio.vercel.app",
+      "status": 200,
+      "title": "Model X Studio",
+      "finalUrl": "https://model-x-studio.vercel.app",
+      "observedAt": "2026-09-09"
+    },
+    {
+      "id": "tspy-microduck",
+      "url": "https://microduck-assembly-lab.yishan-lin.chatgpt.site/",
+      "status": 200,
+      "title": "Microduck · 3D Assembly Lab",
+      "finalUrl": "https://microduck-assembly-lab.yishan-lin.chatgpt.site/",
+      "observedAt": "2026-09-09"
+    },
+    {
+      "id": "wengsiong-asteria",
+      "url": "https://asteria.wengsiong22.workers.dev/",
+      "status": 200,
+      "title": "Asteria — Starship Explorer",
+      "finalUrl": "https://asteria.wengsiong22.workers.dev/",
+      "observedAt": "2026-09-09"
+    },
+    {
+      "id": "op7418-moonlit-forge",
+      "url": "https://moonlit-forge-studio.op7418.chatgpt.site",
+      "status": 200,
+      "title": "Moonlit Forge",
+      "finalUrl": "https://moonlit-forge-studio.op7418.chatgpt.site",
+      "observedAt": "2026-09-09"
+    },
+    {
+      "id": "ashe-human-atlas",
+      "url": "https://human-atlas-seven.vercel.app",
+      "status": 200,
+      "title": "Human Atlas",
+      "finalUrl": "https://human-atlas-seven.vercel.app",
+      "observedAt": "2026-09-09"
+    },
+    {
+      "id": "shinboson-clouds",
+      "url": "https://clouds-in-motion.pages.dev",
+      "status": 200,
+      "title": "Clouds. — An interactive atmosphere",
+      "finalUrl": "https://clouds-in-motion.pages.dev",
+      "observedAt": "2026-09-09"
+    },
+    {
+      "id": "mollick-zork-3d",
+      "url": "https://zork-underground-empire.netlify.app/",
+      "status": 200,
+      "title": "Zork · The Great Underground Empire",
+      "finalUrl": "https://zork-underground-empire.netlify.app/",
+      "observedAt": "2026-09-09"
+    },
+    {
+      "id": "rohan-elderwood",
+      "url": "https://elderwood-realms.rohannvarma.chatgpt.site/",
+      "status": 200,
+      "title": "Elderwood | Thank you for the adventure",
+      "finalUrl": "https://elderwood-realms.rohannvarma.chatgpt.site/",
+      "observedAt": "2026-09-09",
+      "availability": "closed",
+      "note": "Author page explicitly states the game has closed. Removed from demo links; HTTP 200 is a shutdown notice."
+    },
+    {
+      "id": "derya-brandenburg-piano",
+      "url": "https://brandenburg-piano.vercel.app/",
+      "status": 200,
+      "title": "Brandenburg Piano — J. S. Bach",
+      "finalUrl": "https://brandenburg-piano.vercel.app/",
+      "observedAt": "2026-09-09"
+    },
+    {
+      "id": "akshdeep-earth-history",
+      "url": "https://earth.ethanplus.ai/",
+      "status": 200,
+      "title": "EARTH — The making of home",
+      "finalUrl": "https://earth.ethanplus.ai/",
+      "observedAt": "2026-09-09"
+    },
+    {
+      "id": "benikigai-worldkinetics",
+      "url": "https://worldkinetics.app/workspace/?mode=handle-demo",
+      "status": 200,
+      "title": "Cabinet handle | WorldKinetics",
+      "finalUrl": "https://worldkinetics.app/workspace/?mode=handle-demo",
+      "observedAt": "2026-09-09"
+    },
+    {
+      "id": "mizchi-traveler-walk",
+      "url": "https://mizchi.github.io/modeling-playground/?model=traveler-walk",
+      "status": 200,
+      "title": "Model Studio · GLB Viewer",
+      "finalUrl": "https://mizchi.github.io/modeling-playground/?model=traveler-walk",
       "observedAt": "2026-09-09"
     },
     {
@@ -214,7 +320,7 @@
       "id": "synabreu-seoul-atlas",
       "url": "https://seoul-3d-atlas.synabreu.chatgpt.site/",
       "status": 200,
-      "title": "SEOUL · 서울 3D Atlas v1.7",
+      "title": "SEOUL · 서울 3D Atlas v1.9",
       "finalUrl": "https://seoul-3d-atlas.synabreu.chatgpt.site/",
       "observedAt": "2026-09-09"
     },

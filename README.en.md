@@ -4,7 +4,7 @@
 
 ### Explore what an idea can become in 3D.
 
-An open collection of GPT-6 Astra architecture, Blender models, Three.js worlds and games.
+Explore GPT-6 Astra in 3D: Blender, Three.js, WebGL, CAD, VRM and interactive games. Find attributed examples, editable projects, demos and complete videos.
 
 **[Explore the live gallery](https://carpentry-liu.github.io/awesome-astra-3d/) · [Latest additions](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [Contribute](CONTRIBUTING.md)**
 
@@ -13,10 +13,10 @@ An open collection of GPT-6 Astra architecture, Blender models, Three.js worlds 
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-09-09 (Asia/Shanghai)** · **73 Astra examples** · **31 source / project links** · **35 demo links** · **27 complete videos** · **12 separate references**.
+Updated **2026-09-09 (Asia/Shanghai)** · **103 Astra examples** · **39 source / project links** · **47 demo links** · **41 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
-[![Astra 3D Atlas: featured work, resource shortcuts and the case gallery](docs/media/welcome-desktop-2026-09-09.png)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas: featured work, resource shortcuts and the case gallery](docs/media/expanded-desktop-2026-09-09.png)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
 Actual website capture · September 9, 2026.
 
@@ -32,29 +32,31 @@ Actual website capture · September 9, 2026.
 
 ## New work, at a glance
 
-| KOMOREBI · editable Blender scene | Grand Atelier · playable 3D piano |
+| Rhine Lab · interactive 3D archive | Sugarfall · editable Blender animation |
 | --- | --- |
-| [![KOMOREBI — CwC, CC BY 4.0](https://raw.githubusercontent.com/CwC-HydeX/komorebi-shrine/main/docs/images/sunset.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=cwc-komorebi-shrine) | [![Grand Atelier — anionex](https://raw.githubusercontent.com/Anionex/grand-atelier/main/docs/demo.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=anionex-grand-atelier) |
-| Bianjing · explore the painted city | Mechanical iris · Astra left / Fable right |
-| [![Bianjing — Rising1234Sun](https://raw.githubusercontent.com/Rising1234Sun/qingmingshanghetu/main/docs/images/%E7%BD%91%E9%A1%B5%E5%85%A8%E8%B2%8C.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=rising-bianjing-scroll) | [![Mechanical iris comparison — teshnizi2](https://raw.githubusercontent.com/teshnizi2/astra-fable-3d-iris/main/evidence/high/comparison-high.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=teshnizi-mechanical-iris) |
+| [![Rhine Lab Analysis OS — LBEILC](https://raw.githubusercontent.com/LBEILC/RhineLabUI/main/docs/media/archive.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=lbeilc-rhine-lab) | [![Sugarfall Donut Studio — CwC-HydeX](https://raw.githubusercontent.com/CwC-HydeX/donut-studio/main/docs/images/frame-0170.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=cwc-sugarfall) |
+| Model X · existing asset, interactive explosion | Microduck · exploring existing CAD |
+| [![Model X Studio — ashe / @ashebytes](https://pbs.twimg.com/amplify_video_thumb/2096008340329627648/img/f7Gt3ww30PLWmsKK.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=ashe-model-x) | [![Microduck Assembly Lab — yishan / @tspy](https://pbs.twimg.com/amplify_video_thumb/2096233778113118208/img/9HOvR6k_Z10CchxV.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=tspy-microduck) |
+| Asteria · spaceship exploration | Gundam · four-view modeling experiment |
+| [![Asteria Spaceship Explorer — Weng Siong / @wengsiong22](https://pbs.twimg.com/amplify_video_thumb/2096941837160509440/img/M7XW_FFqqtoslpUW.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=wengsiong-asteria) | [![Gundam Four-view Modeling — 湖森堡AI_hooosberg](https://i0.hdslb.com/bfs/archive/d0dc78c2b41bc103f1637e567f016f902da1d019.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=hooosberg-gundam) |
 
-Previews link to attributed case files. Images remain hosted by their creators; the iris image compares two models and does not establish a general ranking.
+Open a preview for the case file and original source. Media remains hosted by its creators. Model X and Microduck use existing assets; Sugarfall is credited to CwC under CC BY 4.0. Other works retain their own licenses.
 
 ## Latest additions
 
-Aircraft structures, interactive physics, architecture, parametric mechanisms and 3D games. This table is generated from the source data. Collection dates are distinct from original publication dates.
+This expansion adds **30 examples** across X, GitHub, Bilibili, Japanese creator articles and Reddit, including **14 complete X recordings**. Explore CAD assemblies, spaceship worlds, photogrammetry repair, VRM and Swift modeling. Collection dates are distinct from original publication dates.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [KOMOREBI Shrine](https://carpentry-liu.github.io/awesome-astra-3d/#case=cwc-komorebi-shrine) | CwC / CwC-HydeX | [Source](https://github.com/CwC-HydeX/komorebi-shrine) · [Original](https://github.com/CwC-HydeX/komorebi-shrine) |
-| [Grand Atelier](https://carpentry-liu.github.io/awesome-astra-3d/#case=anionex-grand-atelier) | anionex | [Demo](https://piano.anionex.me/) · [Source](https://github.com/Anionex/grand-atelier) · [Original](https://github.com/Anionex/grand-atelier) |
-| [Bianjing Scroll Explorer](https://carpentry-liu.github.io/awesome-astra-3d/#case=rising-bianjing-scroll) | Rising1234Sun | [Demo](https://rising1234sun.github.io/qingmingshanghetu/) · [Source](https://github.com/Rising1234Sun/qingmingshanghetu) · [Original](https://github.com/Rising1234Sun/qingmingshanghetu) |
-| [Mechanical Iris Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=teshnizi-mechanical-iris) | teshnizi2 | [Source](https://github.com/teshnizi2/astra-fable-3d-iris) · [Original](https://github.com/teshnizi2/astra-fable-3d-iris) |
-| [Jelly Baby](https://carpentry-liu.github.io/awesome-astra-3d/#case=scottstts-jelly-baby) | Scott / @scottstts | [Demo](https://jelly.scottsun.io/) · [Source](https://github.com/scottstts/Jelly-Baby) · [Original](https://x.com/scottstts/status/2096364764054131119) |
-| [Seoul 3D Atlas](https://carpentry-liu.github.io/awesome-astra-3d/#case=synabreu-seoul-atlas) | synabreu / @synabreu | [Demo](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [Original](https://x.com/synabreu/status/2096557555086725159) |
-| [Hullscope](https://carpentry-liu.github.io/awesome-astra-3d/#case=cristian-hullscope) | Cristian Exer | [Demo](https://hullscope.cristianexer.dev/Hullscope/) · [Source](https://github.com/cristianexer/Hullscope) · [Original](https://github.com/cristianexer/Hullscope) |
-| [Photo to LEGO-style Minifigure](https://carpentry-liu.github.io/awesome-astra-3d/#case=simonsmith-lego-minifig) | Simon Smith / @_simonsmith | [Original](https://x.com/_simonsmith/status/2096766465730847059) |
+| [Rhine Lab Analysis OS](https://carpentry-liu.github.io/awesome-astra-3d/#case=lbeilc-rhine-lab) | LBEILC | [Demo](https://rhine-lab-ui.vercel.app) · [Source](https://github.com/LBEILC/RhineLabUI) · [Original](https://github.com/LBEILC/RhineLabUI) |
+| [Model X Studio](https://carpentry-liu.github.io/awesome-astra-3d/#case=ashe-model-x) | ashe / @ashebytes | [Demo](https://model-x-studio.vercel.app) · [Source](https://github.com/ashemag/model-x-studio) · [Original](https://x.com/ashebytes/status/2096009146248122416) |
+| [Microduck Assembly Lab](https://carpentry-liu.github.io/awesome-astra-3d/#case=tspy-microduck) | yishan / @tspy | [Demo](https://microduck-assembly-lab.yishan-lin.chatgpt.site/) · [Original](https://x.com/tspy/status/2096238855519453662) |
+| [Sugarfall Donut Studio](https://carpentry-liu.github.io/awesome-astra-3d/#case=cwc-sugarfall) | CwC-HydeX | [Source](https://github.com/CwC-HydeX/donut-studio) · [Original](https://github.com/CwC-HydeX/donut-studio) |
+| [Asteria Spaceship Explorer](https://carpentry-liu.github.io/awesome-astra-3d/#case=wengsiong-asteria) | Weng Siong / @wengsiong22 | [Demo](https://asteria.wengsiong22.workers.dev/) · [Original](https://x.com/wengsiong22/status/2096941914906144784) |
+| [Gundam Four-view Modeling](https://carpentry-liu.github.io/awesome-astra-3d/#case=hooosberg-gundam) | 湖森堡AI_hooosberg | [Original](https://www.bilibili.com/video/BV1sgt163Eu4/) |
+| [Aerial Photogrammetry Model Repair](https://carpentry-liu.github.io/awesome-astra-3d/#case=mang-aerial-repair) | 莽小石 | [Original](https://www.bilibili.com/video/BV1U9bW6sEw4/) |
+| [VRM Texturing and Rigging Workflow](https://carpentry-liu.github.io/awesome-astra-3d/#case=chimerast-vrm) | たけうちさん / chimerast | [Original](https://zenn.dev/chimerast/articles/0003b377d0e8ba) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md)
@@ -68,7 +70,7 @@ The interface is in Chinese; English project names, tools and creators are searc
 <details>
 <summary>Mobile welcome page</summary>
 
-![Mobile welcome page and resource navigation](docs/media/welcome-mobile-2026-09-09.png)
+![Mobile welcome page and resource navigation](docs/media/expanded-mobile-2026-09-09.png)
 
 </details>
 

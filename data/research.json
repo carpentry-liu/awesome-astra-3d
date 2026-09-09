@@ -257,6 +257,106 @@
           "reason": "Astra + Tripo + Blender workflow statement is brief; asset provenance and exact output remain insufficiently clear for this batch."
         }
       ]
+    },
+    {
+      "observedAt": "2026-09-09",
+      "batch": "expanded-public-sources",
+      "addedCount": 30,
+      "caseIds": [
+        "lbeilc-rhine-lab",
+        "ashe-model-x",
+        "tspy-microduck",
+        "cwc-sugarfall",
+        "wengsiong-asteria",
+        "hooosberg-gundam",
+        "mang-aerial-repair",
+        "chimerast-vrm",
+        "op7418-moonlit-forge",
+        "everett-holo-card",
+        "ashe-human-atlas",
+        "shinboson-clouds",
+        "lumina-777-landing",
+        "mollick-zork-3d",
+        "rohan-elderwood",
+        "derya-brandenburg-piano",
+        "akshdeep-earth-history",
+        "senthil-taj-mahal",
+        "techartist-radial-engine",
+        "waitin4agi-speedtree",
+        "mojon-cinema4d",
+        "orgxsm-azura",
+        "benikigai-worldkinetics",
+        "mizchi-traveler-walk",
+        "hooosberg-three-view",
+        "deepwhite-seedance",
+        "koher-realitizer",
+        "jin-stylized-bust",
+        "ipentec-spaceship",
+        "lostreq-voxel-engine"
+      ],
+      "sources": [
+        "https://github.com/LBEILC/RhineLabUI",
+        "https://x.com/ashebytes/status/2096009146248122416",
+        "https://x.com/tspy/status/2096238855519453662",
+        "https://github.com/CwC-HydeX/donut-studio",
+        "https://x.com/wengsiong22/status/2096941914906144784",
+        "https://www.bilibili.com/video/BV1sgt163Eu4/",
+        "https://www.bilibili.com/video/BV1U9bW6sEw4/",
+        "https://zenn.dev/chimerast/articles/0003b377d0e8ba",
+        "https://x.com/op7418/status/2096205141187956887",
+        "https://x.com/everettfish0408/status/2096765359282061544",
+        "https://x.com/ashebytes/status/2096221988763173186",
+        "https://x.com/shinboson/status/2096568055413231902",
+        "https://x.com/LuminaBench/status/2096946420234207459",
+        "https://x.com/emollick/status/2096047660662722620",
+        "https://x.com/TheRohanVarma/status/2096744577332068549",
+        "https://x.com/DeryaTR_/status/2096090915790069857",
+        "https://x.com/akshdeeps_001/status/2096776530005488028",
+        "https://x.com/senthilnayagam/status/2096543077917986823",
+        "https://x.com/techartist_/status/2096577974242033738",
+        "https://x.com/waitin4agi_/status/2096572429066006845",
+        "https://x.com/mojon1/status/2096189580752081024",
+        "https://github.com/Orgxsm/azura",
+        "https://github.com/benikigai/worldkinetic",
+        "https://github.com/mizchi/modeling-playground",
+        "https://www.bilibili.com/video/BV1YUtk6mE3z/",
+        "https://www.bilibili.com/video/BV1wgbL6XER7/",
+        "https://zenn.dev/koher/articles/code-first-3d-modeling",
+        "https://zenn.dev/jinsights/articles/65514a07c8b091",
+        "https://www.ipentec.com/document/software/3d-model-generation-using-gpt-6-astra",
+        "https://www.reddit.com/r/aigamedev/comments/1w7kp5b/custom_voxel_engine_done_with_gpt_astra/"
+      ],
+      "discoverySources": [
+        "https://github.com/magiccreator-ai/awesome-gpt-6-astra",
+        "https://github.com/TripoGrowthLab/awesome-astra-prompts"
+      ],
+      "method": "Multi-platform web searches; original author articles, GitHub README and file trees, Bilibili public video metadata, Reddit author replies, and exact-ID FxTwitter mirrors. No independent reproduction.",
+      "notes": [
+        "16 X records, 5 GitHub-led records, 4 Bilibili records, 4 Japanese author articles, and 1 Reddit experiment.",
+        "14 new X recordings are archived at their full original duration, not the duration requested in their prompts.",
+        "Model X and Microduck use existing assets; Azura, VRM, Swift modeling and Seedance workflows explicitly record tool boundaries.",
+        "Unknown original publication dates remain null; same-day collection is not claimed as same-day publication.",
+        "Xiaohongshu excluded under the user revocation recorded on 2026-09-09. No platform visits or social publishing.",
+        "Elderwood returns HTTP 200 but displays an explicit shutdown notice. Kept as a historical recording and removed from playable demo links."
+      ],
+      "excluded": [
+        {
+          "source": "https://github.com/rolottr/la-terreta",
+          "reason": "Retrieved original README does not establish Astra attribution; do not infer it from discovery keywords."
+        },
+        {
+          "source": "https://github.com/thebuggeddev/wright-flyer",
+          "reason": "Retrieved README lacks clear Astra creation attribution; deferred."
+        },
+        {
+          "source": "https://github.com/hmldns/icrafty",
+          "reason": "No clear attribution in the retrieved author README."
+        },
+        {
+          "source": "https://github.com/gokayfem/H3-Max-Blender",
+          "reason": "Distinct H3 video-generation stage; this batch prioritizes clearly scoped geometry and interactive outputs."
+        }
+      ]
     }
   ]
 }

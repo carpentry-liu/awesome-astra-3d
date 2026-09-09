@@ -2,10 +2,40 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
-## 2026-09-09 · 12 个案例
+## 2026-09-09 · 42 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
+| [Rhine Lab：可抽取和拆解的三维档案 / Rhine Lab Analysis OS](https://carpentry-liu.github.io/awesome-astra-3d/#case=lbeilc-rhine-lab) | LBEILC | 源码 / 工程 · 演示入口 |
+| [Model X Studio：334 个网格的交互拆解 / Model X Studio](https://carpentry-liu.github.io/awesome-astra-3d/#case=ashe-model-x) | ashe / @ashebytes | 源码 / 工程 · 演示入口 · 完整视频 |
+| [Microduck：机器人 CAD 装配探索台 / Microduck Assembly Lab](https://carpentry-liu.github.io/awesome-astra-3d/#case=tspy-microduck) | yishan / @tspy | 演示入口 · 完整视频 |
+| [Sugarfall：糖粒落下的草莓甜甜圈 / Sugarfall Donut Studio](https://carpentry-liu.github.io/awesome-astra-3d/#case=cwc-sugarfall) | CwC-HydeX | 源码 / 工程 |
+| [Asteria：在宇宙飞船里探索太阳系 / Asteria Spaceship Explorer](https://carpentry-liu.github.io/awesome-astra-3d/#case=wengsiong-asteria) | Weng Siong / @wengsiong22 | 演示入口 · 完整视频 |
+| [高达四视图：分件网格与骨骼实验 / Gundam Four-view Modeling](https://carpentry-liu.github.io/awesome-astra-3d/#case=hooosberg-gundam) | 湖森堡AI_hooosberg | 作者展示 |
+| [航拍废模修复：从单栋建筑到园区 / Aerial Photogrammetry Model Repair](https://carpentry-liu.github.io/awesome-astra-3d/#case=mang-aerial-repair) | 莽小石 | 作者展示 |
+| [VRM 角色：Astra 补贴图、绑定与表情 / VRM Texturing and Rigging Workflow](https://carpentry-liu.github.io/awesome-astra-3d/#case=chimerast-vrm) | たけうちさん / chimerast | 提示词 / 过程 |
+| [Moonlit Forge：从 Blender 模型到交互展台 / Moonlit Forge Studio](https://carpentry-liu.github.io/awesome-astra-3d/#case=op7418-moonlit-forge) | 歸藏(guizang.ai) / @op7418 | 演示入口 · 完整视频 |
+| [Holo Card Studio：可编辑的全息闪卡 / Holo Card Studio](https://carpentry-liu.github.io/awesome-astra-3d/#case=everett-holo-card) | EverettFish / @everettfish0408 | 源码 / 工程 · 完整视频 |
+| [Human Atlas：人体部件的三维浏览界面 / Human Atlas](https://carpentry-liu.github.io/awesome-astra-3d/#case=ashe-human-atlas) | ashe / @ashebytes | 演示入口 · 完整视频 |
+| [Clouds in Motion：浏览器实时云层 / Clouds in Motion](https://carpentry-liu.github.io/awesome-astra-3d/#case=shinboson-clouds) | 𝞍 Shin Megami Boson 𝞍 / @shinboson | 演示入口 · 完整视频 |
+| [波音 777：着陆场景模拟展示 / Boeing 777 Landing Simulation](https://carpentry-liu.github.io/awesome-astra-3d/#case=lumina-777-landing) | Lumina / @LuminaBench | 完整视频 |
+| [Zork 3D：文字冒险变成地下城 / Zork 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=mollick-zork-3d) | Ethan Mollick / @emollick | 演示入口 · 完整视频 |
+| [Elderwood Realms：多人奇幻世界原型 / Elderwood Realms](https://carpentry-liu.github.io/awesome-astra-3d/#case=rohan-elderwood) | Rohan Varma / @TheRohanVarma | 完整视频 |
+| [Brandenburg Piano：巴赫协奏曲钢琴 / Brandenburg Piano](https://carpentry-liu.github.io/awesome-astra-3d/#case=derya-brandenburg-piano) | Derya Unutmaz, MD / @DeryaTR_ | 演示入口 · 完整视频 |
+| [Earth History：地球文明时间轴 / Earth History Timeline](https://carpentry-liu.github.io/awesome-astra-3d/#case=akshdeep-earth-history) | Aksh / @akshdeeps_001 | 演示入口 · 完整视频 |
+| [泰姬陵：Blender 建筑渲染 / Taj Mahal in Blender](https://carpentry-liu.github.io/awesome-astra-3d/#case=senthil-taj-mahal) | Senthil Nayagam / @senthilnayagam | 完整视频 |
+| [九缸星型发动机：浏览器运动展示 / Nine-cylinder Radial Engine](https://carpentry-liu.github.io/awesome-astra-3d/#case=techartist-radial-engine) | Techartist / @techartist_ | 完整视频 |
+| [SpeedTree：印度芒果树与树皮材质 / Indian Mango in SpeedTree](https://carpentry-liu.github.io/awesome-astra-3d/#case=waitin4agi-speedtree) | Varun Mayya / @waitin4agi_ | 作者展示 |
+| [Cinema 4D：细分曲面与扫描对象建模 / Cinema 4D Subdivision and Sweep](https://carpentry-liu.github.io/awesome-astra-3d/#case=mojon-cinema4d) | モジョン / @mojon1 | 作者展示 |
+| [Azura：Astra 与 Claude Code 共建岛屿 / Azura Island](https://carpentry-liu.github.io/awesome-astra-3d/#case=orgxsm-azura) | Orgxsm | 源码 / 工程 |
+| [WorldKinetics：弧形柜门拉手的 CAD 迭代 / WorldKinetics CAD Handle](https://carpentry-liu.github.io/awesome-astra-3d/#case=benikigai-worldkinetics) | benikigai | 源码 / 工程 · 演示入口 |
+| [旅人步行：低多边形建模、绑定与 IK / Traveler Walk Modeling Playground](https://carpentry-liu.github.io/awesome-astra-3d/#case=mizchi-traveler-walk) | mizchi | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [三视图到 Blender：硬表面外观模型实测 / Three-view to Editable Blender Model](https://carpentry-liu.github.io/awesome-astra-3d/#case=hooosberg-three-view) | 湖森堡AI_hooosberg | 作者展示 |
+| [Blender 白模到 Seedance：三维预演视频工作流 / Blender Blocking to Seedance Video](https://carpentry-liu.github.io/awesome-astra-3d/#case=deepwhite-seedance) | DeepWhite深白色 | 作者展示 |
+| [Realitizer：用 Swift 写蝠鲼和房屋 / Realitizer Swift Procedural Modeling](https://carpentry-liu.github.io/awesome-astra-3d/#case=koher-realitizer) | Yuta Koshizawa / koher | 源码 / 工程 · 提示词 / 过程 |
+| [照片到风格化半身像：逐轮修正比例 / Stylized Portrait Bust in Blender](https://carpentry-liu.github.io/awesome-astra-3d/#case=jin-stylized-bust) | Hiromitsu Jin | 提示词 / 过程 |
+| [参考图到飞船：Blender 与 3ds Max 实作 / Spaceship Modeling in Blender and 3ds Max](https://carpentry-liu.github.io/awesome-astra-3d/#case=ipentec-spaceship) | トリーニョ / iPentec | 提示词 / 过程 |
+| [C++ / Vulkan：自定义体素引擎实验 / Custom Voxel Engine](https://carpentry-liu.github.io/awesome-astra-3d/#case=lostreq-voxel-engine) | LostRequirement4828 | 作者展示 |
 | [木漏日社：可编辑的山林神社与昼夜动画 / KOMOREBI Shrine](https://carpentry-liu.github.io/awesome-astra-3d/#case=cwc-komorebi-shrine) | CwC / CwC-HydeX | 源码 / 工程 |
 | [Grand Atelier：可以弹奏的三维三角钢琴 / Grand Atelier](https://carpentry-liu.github.io/awesome-astra-3d/#case=anionex-grand-atelier) | anionex | 源码 / 工程 · 演示入口 |
 | [入画·汴京：走进清明上河图的虹桥与市井 / Bianjing Scroll Explorer](https://carpentry-liu.github.io/awesome-astra-3d/#case=rising-bianjing-scroll) | Rising1234Sun | 源码 / 工程 · 演示入口 · 提示词 / 过程 |

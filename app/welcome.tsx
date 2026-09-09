@@ -6,22 +6,22 @@ import { type Case } from '@/src/catalog';
 
 const spotlights = [
   {
-    id: 'cwc-komorebi-shrine',
-    name: 'KOMOREBI',
-    subtitle: '打开神社工程，看光线走过一天',
+    id: 'lbeilc-rhine-lab',
+    name: 'RHINE LAB',
+    subtitle: '抽取一份档案，探索玻璃之下的结构',
     label: '01 / 今日新收录',
   },
   {
-    id: 'openai-sunwake',
-    name: 'SUNWAKE',
-    subtitle: '在实时海浪中，驶向最后一束光',
+    id: 'wengsiong-asteria',
+    name: 'ASTERIA',
+    subtitle: '走进飞船，透过舷窗探索太阳系',
     label: '02 / 交互游戏',
   },
   {
-    id: 'ruofeng-orbital-core',
-    name: 'ORBITAL CORE',
-    subtitle: '从 Blender 模型，到交互网页',
-    label: '03 / 三维创作',
+    id: 'tspy-microduck',
+    name: 'MICRODUCK',
+    subtitle: '从已有 CAD，走进机器人的装配结构',
+    label: '03 / 交互拆解',
   },
 ];
 
