@@ -12,6 +12,8 @@
 
 **可带走的材料：**工程、脚本、过程记录。
 
+9 月 9 日补充：[木漏日社](https://github.com/CwC-HydeX/komorebi-shrine) 提供可直接打开的神社工程与昼夜时间轴，适合练习灯光和镜头。它的 V2 工程可编辑，但制作脚本含本机路径，不能当作跨机器一键重建流程。
+
 ## 路线二：把三维模型接到网页上
 
 [Orbital Core Showcase](https://github.com/wangruofeng/orbital-core-showcase) 同时包含 Blender 源文件、GLB 与 Three.js 网页。可以沿着文件结构看模型如何进入网页，以及旋转、缩放和不同动画模式如何连接到界面。
@@ -19,6 +21,8 @@
 从一个已存在的 GLB 开始，检查材质、模型原点和动画，再改网页交互。这样每次修改都能在同一个产物上观察结果。
 
 **可带走的材料：**`.blend`、`.glb`、前端代码、部署说明。[更多有源码案例](https://carpentry-liu.github.io/awesome-astra-3d/?resource=source#collection)
+
+9 月 9 日补充：[入画·汴京](https://github.com/Rising1234Sun/qingmingshanghetu) 保留建模、GLB 导出、中文提示词整理与网页交互；[Grand Atelier](https://github.com/Anionex/grand-atelier) 则适合研究三维钢琴与 Web Audio 的连接。两者都是经过迭代的作品，收录不等于一次输入即可复现。
 
 ## 路线三：研究一个完整游戏
 

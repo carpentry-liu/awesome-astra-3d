@@ -79,6 +79,138 @@
     "addedAt": "2026-09-06"
   },
   {
+    "group": "astra",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "modelLabel": "GPT-6 Astra（作者声明）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "已读取原作者 README 与公开文件目录；未在本库独立运行或复现工程。",
+    "promptAvailability": "not-found",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://raw.githubusercontent.com/CwC-HydeX/komorebi-shrine/main/docs/images/sunset.png",
+    "imageKind": "render",
+    "imageCaption": "原作者仓库公开的作品预览；点击来源查看工程与说明。",
+    "demoUrl": null,
+    "videoUrl": "https://github.com/CwC-HydeX/komorebi-shrine/releases",
+    "evidenceUrls": [
+      "https://raw.githubusercontent.com/CwC-HydeX/komorebi-shrine/main/README.md"
+    ],
+    "licenseNotes": "KOMOREBI / 木漏日社 — CwC。原创场景、渲染与文档为 CC BY 4.0；代码 MIT；第三方纹理 CC0，须按原仓库分项许可及署名要求使用。",
+    "outcome": "showcase",
+    "id": "cwc-komorebi-shrine",
+    "title": "木漏日社：可编辑的山林神社与昼夜动画",
+    "titleEn": "KOMOREBI Shrine",
+    "category": "Blender 建模",
+    "author": "CwC / CwC-HydeX",
+    "sourceUrl": "https://github.com/CwC-HydeX/komorebi-shrine",
+    "repositoryUrl": "https://github.com/CwC-HydeX/komorebi-shrine",
+    "summary": "方形山体、朱红鸟居、石阶与林木组成微缩神社。公开可编辑 .blend 工程、建模脚本和 15 秒昼夜镜头，能够沿时间轴查看灯光变化。",
+    "evidenceNote": "作者说明由人提出构图和迭代要求，GPT-6 Astra 协助编写建模、材质与灯光脚本。基于单张参考补全不可见区域；昼夜动画是艺术性时间压缩。V2 工程可打开，但制作脚本含本机路径，未提供跨机器一键重建。",
+    "outputType": [
+      "Blender",
+      "可编辑 .blend",
+      "Python 脚本",
+      "昼夜动画"
+    ]
+  },
+  {
+    "group": "astra",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "modelLabel": "Astra（作者署名，未列模型 ID）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "已读取原作者 README 与公开文件目录；未在本库独立运行或复现工程。",
+    "promptAvailability": "not-found",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://raw.githubusercontent.com/Anionex/grand-atelier/main/docs/demo.jpg",
+    "imageKind": "source-media",
+    "imageCaption": "原作者仓库公开的作品预览；点击来源查看工程与说明。",
+    "demoUrl": "https://piano.anionex.me/",
+    "videoUrl": "https://github.com/Anionex/grand-atelier/releases/download/v1.0.0/grand-atelier-demo.mp4",
+    "evidenceUrls": [
+      "https://raw.githubusercontent.com/Anionex/grand-atelier/main/README.md"
+    ],
+    "licenseNotes": "原创代码与程序化美术为 MIT；钢琴采样为 Salamander Grand Piano / CC BY 3.0。作者特别声明线上曲目与演示录像不受代码许可覆盖。",
+    "outcome": "showcase",
+    "id": "anionex-grand-atelier",
+    "title": "Grand Atelier：可以弹奏的三维三角钢琴",
+    "titleEn": "Grand Atelier",
+    "category": "交互与工具",
+    "author": "anionex",
+    "sourceUrl": "https://github.com/Anionex/grand-atelier",
+    "repositoryUrl": "https://github.com/Anionex/grand-atelier",
+    "summary": "旋转观察三角钢琴，使用鼠标、触屏或键盘弹奏，查看琴槌与制音器运动；支持本地 MIDI 导入及三种场景。",
+    "evidenceNote": "作者 README 将作品署名为 anionex 与 astra，未列出具体模型 ID。提供 Three.js / React 工程和实际演示；机械运动属于程序化可视化，不能当作钢琴工程 CAD。",
+    "outputType": [
+      "Three.js",
+      "交互 3D 网页",
+      "Web Audio",
+      "源码"
+    ]
+  },
+  {
+    "group": "astra",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "modelLabel": "GPT-6 Astra（作者声明）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "已读取原作者 README 与公开文件目录；未在本库独立运行或复现工程。",
+    "promptAvailability": "linked",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": "https://github.com/Rising1234Sun/qingmingshanghetu/blob/main/docs/%E6%8F%90%E7%A4%BA%E8%AF%8D%E4%B8%8E%E8%BF%AD%E4%BB%A3%E6%B5%81%E7%A8%8B.md",
+    "imageUrl": "https://raw.githubusercontent.com/Rising1234Sun/qingmingshanghetu/main/docs/images/%E7%BD%91%E9%A1%B5%E5%85%A8%E8%B2%8C.jpg",
+    "imageKind": "source-media",
+    "imageCaption": "原作者仓库公开的作品预览；点击来源查看工程与说明。",
+    "demoUrl": "https://rising1234sun.github.io/qingmingshanghetu/",
+    "videoUrl": null,
+    "evidenceUrls": [
+      "https://raw.githubusercontent.com/Rising1234Sun/qingmingshanghetu/main/README.md"
+    ],
+    "licenseNotes": "第三方代码、图片与资产保留原有权利，具体使用范围以原仓库许可为准，不受本库 MIT 许可覆盖。",
+    "outcome": "showcase",
+    "id": "rising-bianjing-scroll",
+    "title": "入画·汴京：走进清明上河图的虹桥与市井",
+    "titleEn": "Bianjing Scroll Explorer",
+    "category": "程序化场景",
+    "author": "Rising1234Sun",
+    "sourceUrl": "https://github.com/Rising1234Sun/qingmingshanghetu",
+    "repositoryUrl": "https://github.com/Rising1234Sun/qingmingshanghetu",
+    "summary": "把虹桥、汴河与沿岸市井做成 Three.js 三维网页，包含自由漫游、景点点击、线框查看和场景巡游；保留 Blender 建模与 GLB 导出脚本。",
+    "evidenceNote": "原作者 README 明确标注 GPT-6 Astra 实践测试，并说明成果经过需求澄清、反馈修订和录制迭代，不是一次输入完成。画作参考与第三方人物、纹理资产需分别追溯；不声称历史测绘精度。",
+    "outputType": [
+      "Blender Python",
+      "GLB",
+      "Three.js",
+      "交互 3D 网页"
+    ]
+  },
+  {
     "id": "simonw-pelican-bicycle",
     "title": "海滨鹈鹕骑自行车：三轮 Blender 建模与渲染",
     "titleEn": null,
@@ -2096,7 +2228,7 @@
       {
         "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/danmana-cluj-voxel-1-web.mp4",
         "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-07/danmana-cluj-voxel-1-original.mp4",
-        "durationSeconds": 24.0,
+        "durationSeconds": 24,
         "bytes": 20401916,
         "sha256": "33ce98aea95814b5c5e47a9d301096be78faf3b6b5d6c59c7ddc92841fd5a3c0",
         "sourceUrl": "https://x.com/danmana/status/2096262733259837681"
@@ -2419,7 +2551,7 @@
       {
         "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/bilawal-scan-living-room-1-web.mp4",
         "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-07/bilawal-scan-living-room-1-original.mp4",
-        "durationSeconds": 30.0,
+        "durationSeconds": 30,
         "bytes": 24176424,
         "sha256": "0abff99b85b198ac6e80ce5911c91c0c9758006fdf66024b9a30e4d544a702f9",
         "sourceUrl": "https://x.com/bilawalsidhu/status/2096092080397246707"
@@ -2813,6 +2945,455 @@
     "evidenceUrls": [],
     "licenseNotes": "作品和媒体归原作者；引用原站素材与链接，不纳入本库 MIT 许可。",
     "outcome": "showcase"
+  },
+  {
+    "group": "astra",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "modelLabel": "GPT-6 Astra（作者声明）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "已读取原作者 README 与公开文件目录；未在本库独立运行或复现工程。",
+    "promptAvailability": "linked",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": "https://github.com/teshnizi2/astra-fable-3d-iris/blob/main/PROMPT.md",
+    "imageUrl": "https://raw.githubusercontent.com/teshnizi2/astra-fable-3d-iris/main/evidence/high/comparison-high.png",
+    "imageKind": "comparison",
+    "imageCaption": "作者 HIGH 轮原生场景对照：左侧 GPT-6 Astra，右侧 Claude Fable 5.1。不是纯 Astra 单图，具体方法与机械问题见原仓库。",
+    "demoUrl": null,
+    "videoUrl": "https://github.com/teshnizi2/astra-fable-3d-iris/blob/main/evidence/high/comparison-high.mp4",
+    "evidenceUrls": [
+      "https://raw.githubusercontent.com/teshnizi2/astra-fable-3d-iris/main/README.md"
+    ],
+    "licenseNotes": "第三方代码、图片与资产保留原有权利，具体使用范围以原仓库许可为准，不受本库 MIT 许可覆盖。",
+    "outcome": "comparison",
+    "id": "teshnizi-mechanical-iris",
+    "title": "机械光圈对照：保留原始生成代码与失败记录",
+    "titleEn": "Mechanical Iris Comparison",
+    "category": "拆解与剖面",
+    "author": "teshnizi2",
+    "sourceUrl": "https://github.com/teshnizi2/astra-fable-3d-iris",
+    "repositoryUrl": "https://github.com/teshnizi2/astra-fable-3d-iris",
+    "summary": "同一用户提示要求六叶机械光圈完成开合、拆解和重组。公开 Astra 与 Fable 的原始 Python、16 秒并排渲染、冻结提示词、协议及生成记录。",
+    "evidenceNote": "作者明确请求 gpt-6-astra 与 claude-fable-5-1。HIGH 与早期 MAX 轮次分别记录；两产品系统上下文和请求过程并不相同，不能据此推导普遍性能排名。作者披露 Astra 支撑柱重叠、拆解时叶片未完全避让等机械问题。无公开 .blend，需由原始 Python 重建。",
+    "outputType": [
+      "Blender Python",
+      "原始生成代码",
+      "对照视频",
+      "方法与失败记录"
+    ]
+  },
+  {
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X",
+      "GitHub"
+    ],
+    "sourceDate": "2026-09-05",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "modelLabel": "Astra（原帖镜像中的作者声明）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "mirror-astra",
+    "sourceAccess": "X 原页读取受限；已核对原帖 ID、作者、原文和媒体信息的 FxTwitter 镜像。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "promptAvailability": "not-found",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096364109210202112/img/_-nTPLScjLl70avL.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "X 原帖视频封面。附完整视频，时长与对应原帖媒体清单核对，最高码率版本可下载。",
+    "demoUrl": "https://jelly.scottsun.io/",
+    "videoUrl": "https://x.com/scottstts/status/2096364764054131119",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/status/2096364764054131119",
+      "https://github.com/TripoGrowthLab/awesome-astra-prompts#2096364764054131119",
+      "https://github.com/scottstts/Jelly-Baby"
+    ],
+    "licenseNotes": "第三方代码、图片与资产保留原有权利，具体使用范围以原仓库许可为准，不受本库 MIT 许可覆盖。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "showcase",
+    "id": "scottstts-jelly-baby",
+    "title": "Jelly Baby：可以拉伸、抛掷和游玩的果冻角色",
+    "titleEn": "Jelly Baby",
+    "category": "3D 游戏",
+    "author": "Scott / @scottstts",
+    "sourceUrl": "https://x.com/scottstts/status/2096364764054131119",
+    "repositoryUrl": "https://github.com/scottstts/Jelly-Baby",
+    "evidenceNote": "原帖明确称使用 Astra 与 Three.js 制作 Jelly Baby，并直链相同作者工程。该项目与 Softie 为不同作者作品。 当前依据 FxTwitter 原帖镜像读取，保留原帖与镜像；尚未独立复现。",
+    "summary": "在 Three.js 桌面游乐场操控果冻角色，拖动拉伸、抛掷和跳跃，切换口味；作者提供实际游戏和源代码。",
+    "outputType": [
+      "Three.js",
+      "交互 3D 游戏",
+      "源码"
+    ],
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/scottstts-jelly-baby-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-09/scottstts-jelly-baby-1-original.mp4",
+        "durationSeconds": 47.36,
+        "bytes": 95820042,
+        "sha256": "d1a0f6fdc689f947d4c8cca1964cd137c5f0c894eddecac3cfac5d6305132dc6",
+        "sourceUrl": "https://x.com/scottstts/status/2096364764054131119"
+      }
+    ]
+  },
+  {
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "sourceDate": "2026-09-06",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "modelLabel": "GPT-6 Astra（原帖镜像声明）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "mirror-astra",
+    "sourceAccess": "X 原页读取受限；已核对原帖 ID、作者、原文和媒体信息的 FxTwitter 镜像。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "promptAvailability": "not-found",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096557441312034816/img/v3Iur3rDygYBuOdR.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "X 原帖视频封面。附完整视频，时长与对应原帖媒体清单核对，最高码率版本可下载。",
+    "demoUrl": "https://seoul-3d-atlas.synabreu.chatgpt.site/",
+    "videoUrl": "https://x.com/synabreu/status/2096557555086725159",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/status/2096557555086725159",
+      "https://github.com/TripoGrowthLab/awesome-astra-prompts#2096557555086725159"
+    ],
+    "licenseNotes": "地图与建筑来自 OpenFreeMap / OpenMapTiles / OpenStreetMap（ODbL）；地形与行政区数据各有来源条件。视频与地理资产不受本库 MIT 许可覆盖。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "showcase",
+    "id": "synabreu-seoul-atlas",
+    "title": "首尔 3D Atlas：从地图数据搭建城市微缩景观",
+    "titleEn": "Seoul 3D Atlas",
+    "category": "程序化场景",
+    "author": "synabreu / @synabreu",
+    "sourceUrl": "https://x.com/synabreu/status/2096557555086725159",
+    "repositoryUrl": null,
+    "evidenceNote": "作者声明 GPT-6 Astra 参与项目，并明确引用 OpenStreetMap 等地理数据；缺失高度采用估计，地形与建筑高度放大 4 倍。不是逐栋写实重建，边界数据具有历史时点。 当前依据 FxTwitter 原帖镜像读取，保留原帖与镜像；尚未独立复现。",
+    "summary": "旋转、缩放和飞越首尔街区，切换昼夜与地标导览。城市建筑按地图轮廓简化，兼顾大范围浏览与移动端触控。",
+    "outputType": [
+      "Three.js",
+      "地理数据可视化",
+      "交互 3D 网页"
+    ],
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/synabreu-seoul-atlas-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-09/synabreu-seoul-atlas-1-original.mp4",
+        "durationSeconds": 224.38,
+        "bytes": 44480157,
+        "sha256": "ea77900cf864d6b5b80f8116979f86b02e96d2853c1e6ecac06ebbb558d651cd",
+        "sourceUrl": "https://x.com/synabreu/status/2096557555086725159"
+      }
+    ]
+  },
+  {
+    "group": "astra",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "modelLabel": "GPT-6 Astra（作者声明）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "已读取原作者 README 与公开文件目录；未在本库独立运行或复现工程。",
+    "promptAvailability": "not-found",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": null,
+    "imageKind": "source-media",
+    "imageCaption": "作者未提供可确认的实机效果图，保留工程来源。",
+    "demoUrl": "https://hullscope.cristianexer.dev/Hullscope/",
+    "videoUrl": null,
+    "evidenceUrls": [
+      "https://raw.githubusercontent.com/cristianexer/Hullscope/main/README.md"
+    ],
+    "licenseNotes": "第三方代码、图片与资产保留原有权利，具体使用范围以原仓库许可为准，不受本库 MIT 许可覆盖。",
+    "outcome": "showcase",
+    "id": "cristian-hullscope",
+    "title": "Hullscope：拆开船体，观察系统与部件",
+    "titleEn": "Hullscope",
+    "category": "拆解与剖面",
+    "author": "Cristian Exer",
+    "sourceUrl": "https://github.com/cristianexer/Hullscope",
+    "repositoryUrl": "https://github.com/cristianexer/Hullscope",
+    "summary": "从船型目录进入可旋转、透视和逐层拆解的三维模型，查看部件说明与系统联系；仓库提供语义 GLB、TypeScript 建模定义及 Blender 场景。",
+    "evidenceNote": "作者 README 明确为探索 GPT-6 Astra 的个人项目。船舶属于教育性重建，公开参数不等于精确内部舱室与设备布局；驾驶和海况为近似展示。Black Pearl 是独立虚构演绎。",
+    "outputType": [
+      "Three.js",
+      "React Three Fiber",
+      "GLB",
+      "Blender",
+      "交互 3D 网页"
+    ]
+  },
+  {
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "sourceDate": "2026-09-07",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "modelLabel": "GPT-6 Astra High（原帖镜像声明）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "mirror-astra",
+    "sourceAccess": "X 原页读取受限；已核对原帖 ID、作者、原文和媒体信息的 FxTwitter 镜像。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "promptAvailability": "excerpt",
+    "promptExcerpt": "Use the Blender MCP to make a LEGO minifig version of Donald Trump",
+    "promptSummary": null,
+    "promptUrl": "https://x.com/_simonsmith/status/2096766465730847059",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096766389113556999/img/hN9hsB2OZfAAoSY5.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "X 原帖视频封面。附完整视频，时长与对应原帖媒体清单核对，最高码率版本可下载。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/_simonsmith/status/2096766465730847059",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/status/2096766465730847059",
+      "https://github.com/TripoGrowthLab/awesome-astra-prompts#2096766465730847059"
+    ],
+    "licenseNotes": "第三方代码、图片与资产保留原有权利，具体使用范围以原仓库许可为准，不受本库 MIT 许可覆盖。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "showcase",
+    "id": "simonsmith-lego-minifig",
+    "title": "照片到 LEGO 风格角色：Blender 游戏资产实验",
+    "titleEn": "Photo to LEGO-style Minifigure",
+    "category": "Blender 建模",
+    "author": "Simon Smith / @_simonsmith",
+    "sourceUrl": "https://x.com/_simonsmith/status/2096766465730847059",
+    "repositoryUrl": null,
+    "evidenceNote": "原帖明确写 GPT-6 Astra High、Blender MCP 和 Hyperframes，并提供实际提示词。视频包括多工具合成；当前没有公开可下载角色工程，不能由录像推断绑定或游戏性能。 当前依据 FxTwitter 原帖镜像读取，保留原帖与镜像；尚未独立复现。",
+    "summary": "作者以公开人物照片为参考制作 LEGO 风格角色，并用动画、配乐与音效展示模型，探索游戏资产制作流程。",
+    "outputType": [
+      "Blender MCP",
+      "角色模型",
+      "动画视频",
+      "Hyperframes"
+    ],
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/simonsmith-lego-minifig-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-09/simonsmith-lego-minifig-1-original.mp4",
+        "durationSeconds": 26.05,
+        "bytes": 8831156,
+        "sha256": "12cb42697b23e539078e69a44dfad93fabcb0938bb58da92531db320e1785dfb",
+        "sourceUrl": "https://x.com/_simonsmith/status/2096766465730847059"
+      }
+    ]
+  },
+  {
+    "group": "astra",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "sourceDate": "2026-09-08",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "modelLabel": "GPT-6 Astra（作者声明）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "已读取原作者 README 与公开文件目录；未在本库独立运行或复现工程。",
+    "promptAvailability": "not-found",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": null,
+    "imageKind": "source-media",
+    "imageCaption": "作者未提供可确认的实机效果图，保留工程来源。",
+    "demoUrl": "https://zermatt-mountain-atlas.oliviameng.chatgpt.site/?scene=reconstruction&view=matterhorn",
+    "videoUrl": "https://www.loom.com/share/2aeb49305ee84ed38d3304aa39b7d558",
+    "evidenceUrls": [
+      "https://raw.githubusercontent.com/oliviameng/alpine-atlas/main/README.md"
+    ],
+    "licenseNotes": "第三方代码、图片与资产保留原有权利，具体使用范围以原仓库许可为准，不受本库 MIT 许可覆盖。",
+    "outcome": "showcase",
+    "id": "olivia-alpine-atlas",
+    "title": "Alpine Atlas：在马特洪峰查看地形与影像证据",
+    "titleEn": "Alpine Atlas",
+    "category": "科学与教育",
+    "author": "oliviameng",
+    "sourceUrl": "https://github.com/oliviameng/alpine-atlas",
+    "repositoryUrl": "https://github.com/oliviameng/alpine-atlas",
+    "summary": "以瑞士地形与历史航片构建 Three.js 山地场景，支持马特洪峰环绕、日照展示和带日期的相机影像对照；公开网格、着色与交互代码。",
+    "evidenceNote": "作者明确说明 Astra 经 Codex 参与地形管线、网格与着色器、交互和证据 UI 开发。基础高程与航片来自 swisstopo，不是模型凭空生成；20 m 是应用采样间隔，非测绘精度。实时 Astra 探索另需模型访问权限。",
+    "outputType": [
+      "Three.js",
+      "地理网格",
+      "着色器",
+      "交互 3D 网页"
+    ]
+  },
+  {
+    "group": "astra",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "modelLabel": "Astra（作者声明，未列模型 ID）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "已读取原作者 README 与公开文件目录；未在本库独立运行或复现工程。",
+    "promptAvailability": "not-found",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": null,
+    "imageKind": "source-media",
+    "imageCaption": "作者未提供可确认的实机效果图，保留工程来源。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "evidenceUrls": [
+      "https://raw.githubusercontent.com/Onward0131/astra-vibe-coding-lunar-surveyor/main/README.md"
+    ],
+    "licenseNotes": "项目自有源码尚未单独指定开源许可证；NASA 模型、Poly Haven 纹理、Three.js 与 Draco 保留各自使用条件，详见作者 NOTICE.md。",
+    "outcome": "showcase",
+    "id": "onward-lunar-surveyor",
+    "title": "Lunar Surveyor：月面漫游与航天模型展台",
+    "titleEn": "Lunar Surveyor",
+    "category": "科学与教育",
+    "author": "Onward0131",
+    "sourceUrl": "https://github.com/Onward0131/astra-vibe-coding-lunar-surveyor",
+    "repositoryUrl": "https://github.com/Onward0131/astra-vibe-coding-lunar-surveyor",
+    "summary": "在程序化月面切换探测车与航天器，观察车轮、机械臂和旋翼动画。提供 Three.js 工程、模型来源清单及单 HTML 离线发布包。",
+    "evidenceNote": "作者声明使用 Astra 构建场景。17 个选项包括 16 套 NASA 已有模型与原创 L-03 概念车，不能称为 Astra 从零生成 17 个航天器。月面为统一展示环境，部分悬浮和缩放并非实际任务仿真。",
+    "outputType": [
+      "Three.js",
+      "NASA GLB 资产整合",
+      "程序化地形",
+      "离线 HTML"
+    ]
+  },
+  {
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "sourceDate": "2026-09-06",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "modelLabel": "GPT-6 Astra（原帖镜像声明）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "mirror-astra",
+    "sourceAccess": "X 原页读取受限；已核对原帖 ID、作者、原文和媒体信息的 FxTwitter 镜像。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "promptAvailability": "not-found",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096578527097421824/img/URU9i3UmgYiA-oul.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "X 原帖视频封面。附完整视频，时长与对应原帖媒体清单核对，最高码率版本可下载。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/icooperhero/status/2096578761877860502",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/status/2096578761877860502",
+      "https://github.com/TripoGrowthLab/awesome-astra-prompts#2096578761877860502"
+    ],
+    "licenseNotes": "第三方代码、图片与资产保留原有权利，具体使用范围以原仓库许可为准，不受本库 MIT 许可覆盖。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "showcase",
+    "id": "icooper-desktop-exploded",
+    "title": "电脑主机拆解：逐层查看核心部件",
+    "titleEn": "Exploded Desktop Computer",
+    "category": "拆解与剖面",
+    "author": "cooper / @icooperhero",
+    "sourceUrl": "https://x.com/icooperhero/status/2096578761877860502",
+    "repositoryUrl": null,
+    "evidenceNote": "原帖作者称使用 GPT-6 Astra 制作 29 个核心部件的交互网站。当前只核到原帖视频，未公开可确认的源码或演示地址；部件数是作者描述，不代表本库完成结构核验。 当前依据 FxTwitter 原帖镜像读取，保留原帖与镜像；尚未独立复现。",
+    "summary": "通过三维分解动画理解机箱内主要硬件的空间关系，结合部件说明展示电脑主机结构。",
+    "outputType": [
+      "三维拆解",
+      "交互网站录像"
+    ],
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/icooper-desktop-exploded-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-09/icooper-desktop-exploded-1-original.mp4",
+        "durationSeconds": 12.5,
+        "bytes": 5283019,
+        "sha256": "dc114ba8ba3532652461e88672ee6e6d40983f8f2a27fd2d802daa3c672160e0",
+        "sourceUrl": "https://x.com/icooperhero/status/2096578761877860502"
+      }
+    ]
+  },
+  {
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "sourceDate": "2026-09-06",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "modelLabel": "Astra（原帖镜像中的作者声明）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "mirror-astra",
+    "sourceAccess": "X 原页读取受限；已核对原帖 ID、作者、原文和媒体信息的 FxTwitter 镜像。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "promptAvailability": "not-found",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096578530561966080/img/h00AqoyEsyqlQzgD.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "X 原帖视频封面。附完整视频，时长与对应原帖媒体清单核对，最高码率版本可下载。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/dqlh47m/status/2096578684010508736",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/status/2096578684010508736",
+      "https://github.com/TripoGrowthLab/awesome-astra-prompts#2096578684010508736"
+    ],
+    "licenseNotes": "第三方代码、图片与资产保留原有权利，具体使用范围以原仓库许可为准，不受本库 MIT 许可覆盖。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "showcase",
+    "id": "dqlh-room-planner",
+    "title": "儿童房兼工作区：用照片比较家具布局",
+    "titleEn": "Room Layout Planner",
+    "category": "建筑与室内",
+    "author": "かのこ🌼AI×子育て×探究 / @dqlh47m",
+    "sourceUrl": "https://x.com/dqlh47m/status/2096578684010508736",
+    "repositoryUrl": null,
+    "evidenceNote": "原帖说明使用 Astra 从照片和尺寸建立三维模型；当前可确认的是演示视频，未提供可编辑工程与测量误差数据。 当前依据 FxTwitter 原帖镜像读取，保留原帖与镜像；尚未独立复现。",
+    "summary": "作者提供房间四角照片和长宽，观察三维房间全景、不同身高视角及家具改摆方案，辅助儿童房与工作区规划。",
+    "outputType": [
+      "照片与尺寸输入",
+      "三维空间规划",
+      "演示视频"
+    ],
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/dqlh-room-planner-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-09/dqlh-room-planner-1-original.mp4",
+        "durationSeconds": 44.3,
+        "bytes": 16571261,
+        "sha256": "4ae1a5d83533a9993d50cc2d6ca7948e0acd49a4e18f4e97108383a9b692ff92",
+        "sourceUrl": "https://x.com/dqlh47m/status/2096578684010508736"
+      }
+    ]
   },
   {
     "id": "openai-aurelion-shipyard",

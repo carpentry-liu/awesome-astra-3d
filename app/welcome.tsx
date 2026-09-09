@@ -6,10 +6,10 @@ import { type Case } from '@/src/catalog';
 
 const spotlights = [
   {
-    id: 'openai-solace-garden-house',
-    name: 'SOLACE',
-    subtitle: '从建筑概念，到可以走入的空间',
-    label: '01 / 建筑空间',
+    id: 'cwc-komorebi-shrine',
+    name: 'KOMOREBI',
+    subtitle: '打开神社工程，看光线走过一天',
+    label: '01 / 今日新收录',
   },
   {
     id: 'openai-sunwake',
@@ -171,7 +171,7 @@ export function Welcome({
             {item.author} ·{' '}
             {item.imageKind === 'render'
               ? '作者场景渲染'
-              : item.imageKind === 'source-media'
+              : item.imageKind === 'video-poster'
                 ? '原帖视频封面'
                 : '作者作品预览'}{' '}
             · 图片归原作者

@@ -13,12 +13,12 @@ An open collection of GPT-6 Astra architecture, Blender models, Three.js worlds 
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-09-08 (Asia/Shanghai)** · **61 Astra examples** · **23 source / project links** · **29 demo links** · **22 complete videos** · **12 separate references**.
+Updated **2026-09-09 (Asia/Shanghai)** · **73 Astra examples** · **31 source / project links** · **35 demo links** · **27 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
-[![Astra 3D Atlas: featured work, resource shortcuts and the case gallery](docs/media/welcome-desktop.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas: featured work, resource shortcuts and the case gallery](docs/media/welcome-desktop-2026-09-09.png)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-Actual website capture · September 8, 2026.
+Actual website capture · September 9, 2026.
 
 ## Choose a starting point
 
@@ -30,6 +30,16 @@ Actual website capture · September 8, 2026.
 | Follow a learning path | [Blender, web and game starting points](START_HERE.md) |
 | Reuse the index | [Catalog](CATALOG.md) · [Public JSON](https://carpentry-liu.github.io/awesome-astra-3d/cases.json) |
 
+## New work, at a glance
+
+| KOMOREBI · editable Blender scene | Grand Atelier · playable 3D piano |
+| --- | --- |
+| [![KOMOREBI — CwC, CC BY 4.0](https://raw.githubusercontent.com/CwC-HydeX/komorebi-shrine/main/docs/images/sunset.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=cwc-komorebi-shrine) | [![Grand Atelier — anionex](https://raw.githubusercontent.com/Anionex/grand-atelier/main/docs/demo.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=anionex-grand-atelier) |
+| Bianjing · explore the painted city | Mechanical iris · Astra left / Fable right |
+| [![Bianjing — Rising1234Sun](https://raw.githubusercontent.com/Rising1234Sun/qingmingshanghetu/main/docs/images/%E7%BD%91%E9%A1%B5%E5%85%A8%E8%B2%8C.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=rising-bianjing-scroll) | [![Mechanical iris comparison — teshnizi2](https://raw.githubusercontent.com/teshnizi2/astra-fable-3d-iris/main/evidence/high/comparison-high.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=teshnizi-mechanical-iris) |
+
+Previews link to attributed case files. Images remain hosted by their creators; the iris image compares two models and does not establish a general ranking.
+
 ## Latest additions
 
 Aircraft structures, interactive physics, architecture, parametric mechanisms and 3D games. This table is generated from the source data. Collection dates are distinct from original publication dates.
@@ -37,14 +47,14 @@ Aircraft structures, interactive physics, architecture, parametric mechanisms an
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [BelugaXL Explorer](https://carpentry-liu.github.io/awesome-astra-3d/#case=victoria-belugaxl-explorer) | Victoria Drake | [Demo](https://victoria.dev/belugaxl-explorer/) · [Source](https://github.com/victoriadrake/belugaxl-explorer) · [Original](https://github.com/victoriadrake/belugaxl-explorer) |
-| [Softie](https://carpentry-liu.github.io/awesome-astra-3d/#case=yuanyang-softie-webgpu) | 码农暖爸 / Delroy715 / yuanyang749 | [Demo](https://softie.520ai.site) · [Source](https://github.com/yuanyang749/softie-webgpu) · [Original](https://x.com/Delroy715/status/2096793432987464010) |
-| [Inside Lloyd’s](https://carpentry-liu.github.io/awesome-astra-3d/#case=cristian-inside-lloyds) | Cristian Exer | [Demo](https://lloyds.cristianexer.dev/) · [Source](https://github.com/cristianexer/Lloyds-of-London-3D-building) · [Original](https://github.com/cristianexer/Lloyds-of-London-3D-building) |
-| [Splashline](https://carpentry-liu.github.io/awesome-astra-3d/#case=kjlkurt-splashline) | KJLKurt | [Demo](https://kjlkurt.github.io/waterslide-game-astra/) · [Source](https://github.com/KJLKurt/waterslide-game-astra) · [Original](https://github.com/KJLKurt/waterslide-game-astra) |
-| [Educational Slider–Crank Mechanism](https://carpentry-liu.github.io/awesome-astra-3d/#case=sawamura-slider-crank) | Sawamura-Jun | [Source](https://github.com/Sawamura-Jun/Crank-Mech) · [Original](https://github.com/Sawamura-Jun/Crank-Mech) |
-| [Pulsebreak](https://carpentry-liu.github.io/awesome-astra-3d/#case=xindomusic-pulsebreak) | xindomusic | [Source](https://github.com/xindomusic/pulsebreak) · [Original](https://github.com/xindomusic/pulsebreak) |
-| [Robo Open](https://carpentry-liu.github.io/awesome-astra-3d/#case=az9713-robo-open) | az9713 | [Source](https://github.com/az9713/gpt-6-astra-tennis-game) · [Original](https://github.com/az9713/gpt-6-astra-tennis-game) |
-| [Minecrack](https://carpentry-liu.github.io/awesome-astra-3d/#case=anisayari-minecrack) | Anis Ayari | [Source](https://github.com/anisayari/minecrack) · [Original](https://github.com/anisayari/minecrack) |
+| [KOMOREBI Shrine](https://carpentry-liu.github.io/awesome-astra-3d/#case=cwc-komorebi-shrine) | CwC / CwC-HydeX | [Source](https://github.com/CwC-HydeX/komorebi-shrine) · [Original](https://github.com/CwC-HydeX/komorebi-shrine) |
+| [Grand Atelier](https://carpentry-liu.github.io/awesome-astra-3d/#case=anionex-grand-atelier) | anionex | [Demo](https://piano.anionex.me/) · [Source](https://github.com/Anionex/grand-atelier) · [Original](https://github.com/Anionex/grand-atelier) |
+| [Bianjing Scroll Explorer](https://carpentry-liu.github.io/awesome-astra-3d/#case=rising-bianjing-scroll) | Rising1234Sun | [Demo](https://rising1234sun.github.io/qingmingshanghetu/) · [Source](https://github.com/Rising1234Sun/qingmingshanghetu) · [Original](https://github.com/Rising1234Sun/qingmingshanghetu) |
+| [Mechanical Iris Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=teshnizi-mechanical-iris) | teshnizi2 | [Source](https://github.com/teshnizi2/astra-fable-3d-iris) · [Original](https://github.com/teshnizi2/astra-fable-3d-iris) |
+| [Jelly Baby](https://carpentry-liu.github.io/awesome-astra-3d/#case=scottstts-jelly-baby) | Scott / @scottstts | [Demo](https://jelly.scottsun.io/) · [Source](https://github.com/scottstts/Jelly-Baby) · [Original](https://x.com/scottstts/status/2096364764054131119) |
+| [Seoul 3D Atlas](https://carpentry-liu.github.io/awesome-astra-3d/#case=synabreu-seoul-atlas) | synabreu / @synabreu | [Demo](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [Original](https://x.com/synabreu/status/2096557555086725159) |
+| [Hullscope](https://carpentry-liu.github.io/awesome-astra-3d/#case=cristian-hullscope) | Cristian Exer | [Demo](https://hullscope.cristianexer.dev/Hullscope/) · [Source](https://github.com/cristianexer/Hullscope) · [Original](https://github.com/cristianexer/Hullscope) |
+| [Photo to LEGO-style Minifigure](https://carpentry-liu.github.io/awesome-astra-3d/#case=simonsmith-lego-minifig) | Simon Smith / @_simonsmith | [Original](https://x.com/_simonsmith/status/2096766465730847059) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md)
@@ -58,7 +68,7 @@ The interface is in Chinese; English project names, tools and creators are searc
 <details>
 <summary>Mobile welcome page</summary>
 
-![Mobile welcome page and resource navigation](docs/media/welcome-mobile.jpg)
+![Mobile welcome page and resource navigation](docs/media/welcome-mobile-2026-09-09.png)
 
 </details>
 

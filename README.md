@@ -13,12 +13,12 @@ GPT-6 Astra 建筑、Blender、Three.js、WebGL 与游戏的开放案例库。
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-09-08（Asia/Shanghai）**：**61 条 Astra 案例** · **23 条源码 / 工程** · **29 个演示入口** · **22 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-09-09（Asia/Shanghai）**：**73 条 Astra 案例** · **31 条源码 / 工程** · **35 个演示入口** · **27 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
-[![Astra 3D Atlas 欢迎页：精选作品、源码、演示与视频入口](docs/media/welcome-desktop.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 欢迎页：精选作品、源码、演示与视频入口](docs/media/welcome-desktop-2026-09-09.png)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-网站实拍 · 2026-09-08。点击进入在线案例库。
+网站实拍 · 2026-09-09。点击进入在线案例库。
 
 ## 找到你的下一次创作
 
@@ -30,21 +30,31 @@ GPT-6 Astra 建筑、Blender、Three.js、WebGL 与游戏的开放案例库。
 | 跟着已有项目入门 | [上手路线](START_HERE.md)：模型、网页和游戏三条路径 |
 | 检索、引用或补充索引 | [全部案例](CATALOG.md) · [公开 JSON](https://carpentry-liu.github.io/awesome-astra-3d/cases.json) · [贡献指南](CONTRIBUTING.md) |
 
+## 这次更新，先看效果
+
+| 木漏日社 · 可编辑 Blender 工程 | Grand Atelier · 可以弹奏的三维钢琴 |
+| --- | --- |
+| [![KOMOREBI — CwC, CC BY 4.0](https://raw.githubusercontent.com/CwC-HydeX/komorebi-shrine/main/docs/images/sunset.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=cwc-komorebi-shrine) | [![Grand Atelier — anionex](https://raw.githubusercontent.com/Anionex/grand-atelier/main/docs/demo.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=anionex-grand-atelier) |
+| 入画·汴京 · 漫游画卷中的城市 | 机械光圈 · 左 Astra / 右 Fable 对照 |
+| [![Bianjing — Rising1234Sun](https://raw.githubusercontent.com/Rising1234Sun/qingmingshanghetu/main/docs/images/%E7%BD%91%E9%A1%B5%E5%85%A8%E8%B2%8C.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=rising-bianjing-scroll) | [![Mechanical iris comparison — teshnizi2](https://raw.githubusercontent.com/teshnizi2/astra-fable-3d-iris/main/evidence/high/comparison-high.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=teshnizi-mechanical-iris) |
+
+点击效果图进入作品档案。图片外链作者仓库，保留署名与原有许可；机械光圈为双模型对照，不代表普遍性能排名。
+
 ## 最新收录
 
-新增飞机结构、软体交互、建筑拆解、参数化机械和三维游戏。以下入口从案例事实源自动同步；收录日期与作品发布日期分开记录。
+本轮新增 12 个案例：神社昼夜场景、三维钢琴、汴京漫游、机械光圈、船舶拆解、月面展台等；其中 8 条有源码 / 工程，5 条 X 视频已完整归档。以下入口从案例事实源自动同步；收录日期与作品发布日期分开记录。
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
-| [BelugaXL Explorer：可拆解的白鲸运输机](https://carpentry-liu.github.io/awesome-astra-3d/#case=victoria-belugaxl-explorer) | Victoria Drake | [演示](https://victoria.dev/belugaxl-explorer/) · [源码](https://github.com/victoriadrake/belugaxl-explorer) · [原始来源](https://github.com/victoriadrake/belugaxl-explorer) |
-| [Softie：可以揉捏的 WebGPU 史莱姆](https://carpentry-liu.github.io/awesome-astra-3d/#case=yuanyang-softie-webgpu) | 码农暖爸 / Delroy715 / yuanyang749 | [演示](https://softie.520ai.site) · [源码](https://github.com/yuanyang749/softie-webgpu) · [原始来源](https://x.com/Delroy715/status/2096793432987464010) |
-| [Inside Lloyd’s：拆开伦敦劳合社建筑](https://carpentry-liu.github.io/awesome-astra-3d/#case=cristian-inside-lloyds) | Cristian Exer | [演示](https://lloyds.cristianexer.dev/) · [源码](https://github.com/cristianexer/Lloyds-of-London-3D-building) · [原始来源](https://github.com/cristianexer/Lloyds-of-London-3D-building) |
-| [Splashline：热带水滑道竞速](https://carpentry-liu.github.io/awesome-astra-3d/#case=kjlkurt-splashline) | KJLKurt | [演示](https://kjlkurt.github.io/waterslide-game-astra/) · [源码](https://github.com/KJLKurt/waterslide-game-astra) · [原始来源](https://github.com/KJLKurt/waterslide-game-astra) |
-| [曲柄滑块教材：CadQuery 参数化装配](https://carpentry-liu.github.io/awesome-astra-3d/#case=sawamura-slider-crank) | Sawamura-Jun | [源码](https://github.com/Sawamura-Jun/Crank-Mech) · [原始来源](https://github.com/Sawamura-Jun/Crank-Mech) |
-| [Pulsebreak：Godot 原生三维竞技场实验](https://carpentry-liu.github.io/awesome-astra-3d/#case=xindomusic-pulsebreak) | xindomusic | [源码](https://github.com/xindomusic/pulsebreak) · [原始来源](https://github.com/xindomusic/pulsebreak) |
-| [Robo Open：Unity 机器人网球与绑定迭代](https://carpentry-liu.github.io/awesome-astra-3d/#case=az9713-robo-open) | az9713 | [源码](https://github.com/az9713/gpt-6-astra-tennis-game) · [原始来源](https://github.com/az9713/gpt-6-astra-tennis-game) |
-| [Minecrack：六边形群岛中的生存建造](https://carpentry-liu.github.io/awesome-astra-3d/#case=anisayari-minecrack) | Anis Ayari | [源码](https://github.com/anisayari/minecrack) · [原始来源](https://github.com/anisayari/minecrack) |
+| [木漏日社：可编辑的山林神社与昼夜动画](https://carpentry-liu.github.io/awesome-astra-3d/#case=cwc-komorebi-shrine) | CwC / CwC-HydeX | [源码](https://github.com/CwC-HydeX/komorebi-shrine) · [原始来源](https://github.com/CwC-HydeX/komorebi-shrine) |
+| [Grand Atelier：可以弹奏的三维三角钢琴](https://carpentry-liu.github.io/awesome-astra-3d/#case=anionex-grand-atelier) | anionex | [演示](https://piano.anionex.me/) · [源码](https://github.com/Anionex/grand-atelier) · [原始来源](https://github.com/Anionex/grand-atelier) |
+| [入画·汴京：走进清明上河图的虹桥与市井](https://carpentry-liu.github.io/awesome-astra-3d/#case=rising-bianjing-scroll) | Rising1234Sun | [演示](https://rising1234sun.github.io/qingmingshanghetu/) · [源码](https://github.com/Rising1234Sun/qingmingshanghetu) · [原始来源](https://github.com/Rising1234Sun/qingmingshanghetu) |
+| [机械光圈对照：保留原始生成代码与失败记录](https://carpentry-liu.github.io/awesome-astra-3d/#case=teshnizi-mechanical-iris) | teshnizi2 | [源码](https://github.com/teshnizi2/astra-fable-3d-iris) · [原始来源](https://github.com/teshnizi2/astra-fable-3d-iris) |
+| [Jelly Baby：可以拉伸、抛掷和游玩的果冻角色](https://carpentry-liu.github.io/awesome-astra-3d/#case=scottstts-jelly-baby) | Scott / @scottstts | [演示](https://jelly.scottsun.io/) · [源码](https://github.com/scottstts/Jelly-Baby) · [原始来源](https://x.com/scottstts/status/2096364764054131119) |
+| [首尔 3D Atlas：从地图数据搭建城市微缩景观](https://carpentry-liu.github.io/awesome-astra-3d/#case=synabreu-seoul-atlas) | synabreu / @synabreu | [演示](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [原始来源](https://x.com/synabreu/status/2096557555086725159) |
+| [Hullscope：拆开船体，观察系统与部件](https://carpentry-liu.github.io/awesome-astra-3d/#case=cristian-hullscope) | Cristian Exer | [演示](https://hullscope.cristianexer.dev/Hullscope/) · [源码](https://github.com/cristianexer/Hullscope) · [原始来源](https://github.com/cristianexer/Hullscope) |
+| [照片到 LEGO 风格角色：Blender 游戏资产实验](https://carpentry-liu.github.io/awesome-astra-3d/#case=simonsmith-lego-minifig) | Simon Smith / @_simonsmith | [原始来源](https://x.com/_simonsmith/status/2096766465730847059) |
 <!-- atlas:latest:end -->
 
 [查看完整更新目录 →](UPDATES.md)
@@ -60,7 +70,7 @@ GPT-6 Astra 建筑、Blender、Three.js、WebGL 与游戏的开放案例库。
 <details>
 <summary>查看手机版欢迎页</summary>
 
-![手机端欢迎页，精选作品与资源导航](docs/media/welcome-mobile.jpg)
+![手机端欢迎页，精选作品与资源导航](docs/media/welcome-mobile-2026-09-09.png)
 
 </details>
 

@@ -11,3 +11,4 @@
 - [GitHub 首页展示图片](media/README.md)：中英文 README 共用的最新首页、视频详情与手机实拍。
 
 - [2026-09-08 欢迎页、8 条新增案例与验证](features/F-0003-welcome-refresh/README.md)。
+- [2026-09-09 案例、完整视频与首页更新](features/F-0004-daily-refresh/README.md)。

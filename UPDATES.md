@@ -2,6 +2,23 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-09-09 · 12 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [木漏日社：可编辑的山林神社与昼夜动画 / KOMOREBI Shrine](https://carpentry-liu.github.io/awesome-astra-3d/#case=cwc-komorebi-shrine) | CwC / CwC-HydeX | 源码 / 工程 |
+| [Grand Atelier：可以弹奏的三维三角钢琴 / Grand Atelier](https://carpentry-liu.github.io/awesome-astra-3d/#case=anionex-grand-atelier) | anionex | 源码 / 工程 · 演示入口 |
+| [入画·汴京：走进清明上河图的虹桥与市井 / Bianjing Scroll Explorer](https://carpentry-liu.github.io/awesome-astra-3d/#case=rising-bianjing-scroll) | Rising1234Sun | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [机械光圈对照：保留原始生成代码与失败记录 / Mechanical Iris Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=teshnizi-mechanical-iris) | teshnizi2 | 源码 / 工程 · 提示词 / 过程 |
+| [Jelly Baby：可以拉伸、抛掷和游玩的果冻角色 / Jelly Baby](https://carpentry-liu.github.io/awesome-astra-3d/#case=scottstts-jelly-baby) | Scott / @scottstts | 源码 / 工程 · 演示入口 · 完整视频 |
+| [首尔 3D Atlas：从地图数据搭建城市微缩景观 / Seoul 3D Atlas](https://carpentry-liu.github.io/awesome-astra-3d/#case=synabreu-seoul-atlas) | synabreu / @synabreu | 演示入口 · 完整视频 |
+| [Hullscope：拆开船体，观察系统与部件 / Hullscope](https://carpentry-liu.github.io/awesome-astra-3d/#case=cristian-hullscope) | Cristian Exer | 源码 / 工程 · 演示入口 |
+| [照片到 LEGO 风格角色：Blender 游戏资产实验 / Photo to LEGO-style Minifigure](https://carpentry-liu.github.io/awesome-astra-3d/#case=simonsmith-lego-minifig) | Simon Smith / @_simonsmith | 完整视频 · 提示词 / 过程 |
+| [Alpine Atlas：在马特洪峰查看地形与影像证据 / Alpine Atlas](https://carpentry-liu.github.io/awesome-astra-3d/#case=olivia-alpine-atlas) | oliviameng | 源码 / 工程 · 演示入口 |
+| [Lunar Surveyor：月面漫游与航天模型展台 / Lunar Surveyor](https://carpentry-liu.github.io/awesome-astra-3d/#case=onward-lunar-surveyor) | Onward0131 | 源码 / 工程 |
+| [电脑主机拆解：逐层查看核心部件 / Exploded Desktop Computer](https://carpentry-liu.github.io/awesome-astra-3d/#case=icooper-desktop-exploded) | cooper / @icooperhero | 完整视频 |
+| [儿童房兼工作区：用照片比较家具布局 / Room Layout Planner](https://carpentry-liu.github.io/awesome-astra-3d/#case=dqlh-room-planner) | かのこ🌼AI×子育て×探究 / @dqlh47m | 完整视频 |
+
 ## 2026-09-08 · 8 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

@@ -1,5 +1,5 @@
 {
-  "observedAt": "2026-09-08",
+  "observedAt": "2026-09-09",
   "officialSources": [
     "https://developers.openai.com/showcase/all",
     "https://developers.openai.com/api/docs/models/gpt-6-astra"
@@ -190,6 +190,71 @@
         {
           "source": "https://developers.openai.com/showcase/terrain-mixer",
           "reason": "属于 GPT-5.6 interactive-studies-56，非 Astra。"
+        }
+      ]
+    },
+    {
+      "observedAt": "2026-09-09",
+      "addedCount": 12,
+      "caseIds": [
+        "cwc-komorebi-shrine",
+        "anionex-grand-atelier",
+        "rising-bianjing-scroll",
+        "teshnizi-mechanical-iris",
+        "scottstts-jelly-baby",
+        "synabreu-seoul-atlas",
+        "cristian-hullscope",
+        "simonsmith-lego-minifig",
+        "olivia-alpine-atlas",
+        "onward-lunar-surveyor",
+        "icooper-desktop-exploded",
+        "dqlh-room-planner"
+      ],
+      "sources": [
+        "https://github.com/CwC-HydeX/komorebi-shrine",
+        "https://github.com/Anionex/grand-atelier",
+        "https://github.com/Rising1234Sun/qingmingshanghetu",
+        "https://github.com/teshnizi2/astra-fable-3d-iris",
+        "https://x.com/scottstts/status/2096364764054131119",
+        "https://x.com/synabreu/status/2096557555086725159",
+        "https://github.com/cristianexer/Hullscope",
+        "https://x.com/_simonsmith/status/2096766465730847059",
+        "https://github.com/oliviameng/alpine-atlas",
+        "https://github.com/Onward0131/astra-vibe-coding-lunar-surveyor",
+        "https://x.com/icooperhero/status/2096578761877860502",
+        "https://x.com/dqlh47m/status/2096578684010508736"
+      ],
+      "discoverySources": [
+        "https://github.com/TripoGrowthLab/awesome-astra-prompts",
+        "https://github.com/magiccreator-ai/awesome-gpt-6-astra"
+      ],
+      "method": "GitHub repository search, original author README and file-tree inspection, FxTwitter mirrors keyed by exact original X post IDs; separate demo HTTP audit. No independent reconstruction or benchmark.",
+      "notes": [
+        "7 author repositories and 5 X videos; Jelly Baby also provides source code.",
+        "Some works were published before this collection date; unknown first-publication dates stay null. X dates use the timestamp in original-post metadata (UTC).",
+        "Inherited all 61 Astra cases from the 2026-09-08 remote update before adding records.",
+        "No fresh authenticated Xiaohongshu collection or social publication in this run; previous platform observations retain their original dates."
+      ],
+      "excluded": [
+        {
+          "source": "https://github.com/janus-tiu/glass-rubik-cube",
+          "reason": "Repository description mentions Astra, but the retrieved README lacks a clear creation attribution; defer pending stronger evidence."
+        },
+        {
+          "source": "https://github.com/vnmoorthy/starbound",
+          "reason": "Astra policy experiments are clear, but this round did not establish specific attribution for creating the 3D scene; do not infer that integration equals generated geometry."
+        },
+        {
+          "source": "https://x.com/juyeam/status/2096572156453028193",
+          "reason": "Original text says the picture is an x-z projection; no confirmed interactive 3D scene, so do not inflate the 3D count."
+        },
+        {
+          "source": "https://x.com/Jomolos/status/2096986557244723371",
+          "reason": "Repost of another creator’s comparison; defer until original author evidence is located."
+        },
+        {
+          "source": "https://x.com/luccacerf/status/2097047098281672782",
+          "reason": "Astra + Tripo + Blender workflow statement is brief; asset provenance and exact output remain insufficiently clear for this batch."
         }
       ]
     }
