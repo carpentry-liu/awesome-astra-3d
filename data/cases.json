@@ -79,6 +79,1295 @@
     "addedAt": "2026-09-06"
   },
   {
+    "id": "songkeys-little-flock",
+    "title": "Little Flock：小羊慢慢的牧场世界",
+    "titleEn": "Little Flock",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub",
+      "X"
+    ],
+    "author": "songkeys",
+    "sourceUrl": "https://github.com/songkeys/little-flock",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "读取 GitHub 作者 README、仓库描述与文件目录；未在本地重建工程。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。 作者演示页可达，联机农场需要账号登录；预告片为编排演出。",
+    "summary": "作者在一次持续 goal 任务中让 Astra 制作牧场游戏，公开 React Three Fiber 客户端及 Go 服务端。预告片在引擎内拍摄，包含安排好的镜头和本地演出的多人角色；录像不等于实际联机验证。",
+    "outputType": [
+      "React Three Fiber 游戏",
+      "Go 服务端",
+      "公开源码"
+    ],
+    "promptAvailability": "作者公开脱敏后的 goal 提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": "https://github.com/songkeys/little-flock#the-one-shot-goal-prompt",
+    "imageUrl": "https://raw.githubusercontent.com/songkeys/little-flock/main/docs/demo-poster.jpg",
+    "imageKind": "author-screenshot",
+    "imageCaption": "Songkeys 仓库中的游戏预告封面，CC BY 4.0；影片含编排镜头与本地多人演出。 附完整 X 视频，时长已与原帖媒体清单核对，可下载最高码率版本。",
+    "demoUrl": "https://sharpherd.song.work",
+    "videoUrl": "https://x.com/songkeys/status/2097231024375935286",
+    "repositoryUrl": "https://github.com/songkeys/little-flock",
+    "evidenceUrls": [
+      "https://github.com/songkeys/little-flock",
+      "https://x.com/songkeys/status/2097231024375935286",
+      "https://api.fxtwitter.com/status/2097231024375935286"
+    ],
+    "licenseNotes": "代码 MIT；作者美术、cottage 模型及演示媒体为 CC BY 4.0，保留 Songkeys 署名。其他资产按仓库 ASSETS.md 对应许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/songkeys-little-flock-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-10/songkeys-little-flock-1-original.mp4",
+        "durationSeconds": 64.04,
+        "bytes": 33685651,
+        "sha256": "367acd056a1628fcad664b2853ddd21ebc932597653141d0f62c7c2739a34901",
+        "sourceUrl": "https://x.com/songkeys/status/2097231024375935286"
+      }
+    ]
+  },
+  {
+    "id": "kana-flower-shop",
+    "title": "日式花店：街角模型的展开与重组",
+    "titleEn": "Japanese Flower Shop Exploded View",
+    "group": "astra",
+    "category": "拆解与剖面",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "KANA｜東京AI映像 / @KanaWorks_AI",
+    "sourceUrl": "https://x.com/KanaWorks_AI/status/2097153139795468365",
+    "sourceDate": "2026-09-08",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者用 Astra 与 Blender MCP 制作日式街角花店，展示建筑、店外陈设展开后重新组合的动画。原帖公开了场景和动画要求；可编辑工程是需求的一部分，当前未找到公开下载。",
+    "outputType": [
+      "Blender 场景",
+      "拆解动画"
+    ],
+    "promptAvailability": "原帖公开场景与动画提示词",
+    "promptExcerpt": null,
+    "promptSummary": "概括原帖：构建带花卉、售货机和街道小物的日式花店，再按部件展开、停留并重组。",
+    "promptUrl": "https://x.com/KanaWorks_AI/status/2097153139795468365",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097151136155553792/img/AuzVjF2Jxc14tJqt.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整 X 视频，时长已与原帖媒体清单核对，可下载最高码率版本。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/KanaWorks_AI/status/2097153139795468365",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/KanaWorks_AI/status/2097153139795468365",
+      "https://api.fxtwitter.com/status/2097153139795468365"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/kana-flower-shop-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-10/kana-flower-shop-1-original.mp4",
+        "durationSeconds": 10.87,
+        "bytes": 2460064,
+        "sha256": "277fee5bf80ae26a9405087a752acd213dbd8bcebfb36bedf5e0bc0f412b53d2",
+        "sourceUrl": "https://x.com/KanaWorks_AI/status/2097153139795468365"
+      }
+    ]
+  },
+  {
+    "id": "givros-wetland",
+    "title": "湿地湖畔：小屋、芦苇与野生动物",
+    "titleEn": "Cozy Wetland Lake",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Givros / @givros",
+    "sourceUrl": "https://x.com/givros/status/2097343467026289039",
+    "sourceDate": "2026-09-08",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者先描述湖畔小屋、荒岛房屋、船只和湿地生态，再让模型扩写 Blender、GLB 与 Three.js 的制作要求，最后交由 Astra 执行。录像展示扩展后的场景；属于多阶段提示工作流。",
+    "outputType": [
+      "湿地三维场景",
+      "Blender / GLB / Three.js 工作流"
+    ],
+    "promptAvailability": "原帖公开初始提示与扩写流程",
+    "promptExcerpt": null,
+    "promptSummary": "概括原帖：围绕平静湖泊布置渔人小屋、废弃房屋、芦苇、船只与野生动物，再扩写为可执行的场景和交互要求。",
+    "promptUrl": "https://x.com/givros/status/2097343467026289039",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097343347895525376/img/7BqNRpeoZcou-Xtu.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整 X 视频，时长已与原帖媒体清单核对，可下载最高码率版本。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/givros/status/2097343467026289039",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/givros/status/2097343467026289039",
+      "https://api.fxtwitter.com/status/2097343467026289039"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/givros-wetland-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-10/givros-wetland-1-original.mp4",
+        "durationSeconds": 62.93,
+        "bytes": 76556934,
+        "sha256": "1eb754918dabe82f5ca5cac81537e30a3f2e6a23f8e8465c977b2984f1fffd21",
+        "sourceUrl": "https://x.com/givros/status/2097343467026289039"
+      }
+    ]
+  },
+  {
+    "id": "magicyan-room-studio",
+    "title": "书桌一角：Blender 工程与实时网页",
+    "titleEn": "Room Studio",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "magicyan418",
+    "sourceUrl": "https://github.com/magicyan418/3D-ROOM-TEST",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "模型归属来自作者仓库 description 的明确制作说明；README 和文件目录确认工程及网页产物。未独立重建。",
+    "sourceAccess": "读取 GitHub 作者 README、仓库描述与文件目录；未在本地重建工程。",
+    "summary": "作者仓库描述明确说明使用 GPT6-Astra 操作 Blender 建模并生成交互网页，提供 Blender 工程和 GLB。仓库渲染图与实时网页在灯光、木纹和材质上存在差异，不能把离线渲染当作浏览器实测。",
+    "outputType": [
+      "Blender 工程",
+      "GLB 模型",
+      "交互网页"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://raw.githubusercontent.com/magicyan418/3D-ROOM-TEST/main/public/reference.png",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者仓库中的 Blender 离线参考渲染；实时网页材质有所不同。",
+    "demoUrl": "https://3-d-room-test.vercel.app",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/magicyan418/3D-ROOM-TEST",
+    "evidenceUrls": [
+      "https://github.com/magicyan418/3D-ROOM-TEST"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "goan-temple-heaven",
+    "title": "祈年殿：Three.js 建筑展示",
+    "titleEn": "Temple of Heaven in Three.js",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "govin.eth | G哥 / @goan999999",
+    "sourceUrl": "https://x.com/goan999999/status/2097323734504017936",
+    "sourceDate": "2026-09-08",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者展示 Astra 制作的祈年殿三维模型及 Three.js 网页效果。当前保留原帖录像，未取得公开工程、可访问演示或完整提示词；建筑比例与细节未独立核验。",
+    "outputType": [
+      "建筑模型",
+      "Three.js 展示"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097323160601546752/img/2k2LggwN0cvh5mVI.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整 X 视频，时长已与原帖媒体清单核对，可下载最高码率版本。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/goan999999/status/2097323734504017936",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/goan999999/status/2097323734504017936",
+      "https://api.fxtwitter.com/status/2097323734504017936"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/goan-temple-heaven-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-10/goan-temple-heaven-1-original.mp4",
+        "durationSeconds": 18.72,
+        "bytes": 9020090,
+        "sha256": "37c036d372c395c3ec44786b9fe65cebc35377390c652b9a85ba72c523d1316a",
+        "sourceUrl": "https://x.com/goan999999/status/2097323734504017936"
+      }
+    ]
+  },
+  {
+    "id": "hahaliu-house-styles",
+    "title": "同户型四种家装：Astra 与 Fable 对照",
+    "titleEn": "Four Interior Styles Comparison",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "hahaliu1029",
+    "sourceUrl": "https://github.com/hahaliu1029/house-3d",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "读取 GitHub 作者 README、仓库描述与文件目录；未在本地重建工程。",
+    "summary": "作者在同一户型中尝试法式、意式、现代和宋式装修，公开 Astra 与 Fable 两套网页。两边镜头、光照和环境设置并不一致，也未提供完整运行日志，因此作为作品对照展示。",
+    "outputType": [
+      "室内交互网页",
+      "双模型对照",
+      "公开源码"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://raw.githubusercontent.com/hahaliu1029/house-3d/main/media/images/song-living-comparison.png",
+    "imageKind": "comparison",
+    "imageCaption": "作者的宋式客厅对照图：左侧 Fable，右侧 Astra；演示入口为 Astra 版本。",
+    "demoUrl": "https://www.lyx666.cn/housegpt/?style=song",
+    "videoUrl": "https://github.com/hahaliu1029/house-3d/blob/main/media/videos/house-realistic-comparison-plan-music.mp4",
+    "repositoryUrl": "https://github.com/hahaliu1029/house-3d/tree/main/gpt6",
+    "evidenceUrls": [
+      "https://github.com/hahaliu1029/house-3d"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "digitalml-chess-cubed",
+    "title": "Chess Cubed：六面立方体棋盘",
+    "titleEn": "Chess Cubed",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "Reddit",
+    "platforms": [
+      "Reddit"
+    ],
+    "author": "digitalml",
+    "sourceUrl": "https://www.reddit.com/r/codex/comments/1wbmthc/i_built_chess_cubed_with_gpt6_astra_in_4_days/",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra + GPT Image 2 / Seedance 2 天空素材（作者说明）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "读取公开 Reddit 原帖及作者回复；未从相对时间推算发布日期。",
+    "summary": "作者展示在立方体六面棋盘上进行的国际象棋变体，说明 Astra 参与 Blender 资产与 Babylon.js 网页制作。天空素材另用了 GPT Image 2 与 Seedance 2；移动端移植为作者说明，未核实应用商店发行。",
+    "outputType": [
+      "Babylon.js 棋类游戏",
+      "Blender 资产"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": null,
+    "imageKind": "none",
+    "imageCaption": "作者 Reddit 预览图请求返回 403；保留原帖视频链接。",
+    "demoUrl": "https://playchesscubed.com/",
+    "videoUrl": "https://www.reddit.com/r/codex/comments/1wbmthc/i_built_chess_cubed_with_gpt6_astra_in_4_days/",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://www.reddit.com/r/codex/comments/1wbmthc/i_built_chess_cubed_with_gpt6_astra_in_4_days/"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "doomdave-dragon",
+    "title": "巨龙短镜头：Blender Python 迭代",
+    "titleEn": "Dragon Cinematic in Blender",
+    "group": "astra",
+    "category": "Blender 建模",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Sarang Borude / @doomdave",
+    "sourceUrl": "https://x.com/doomdave/status/2096335588727349434",
+    "sourceDate": "2026-09-05",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者从参考图出发，让 Astra 通过无界面的 Blender Python 逐轮制作巨龙与电影感镜头。原帖描述了长时间调整过程；此条保留最终短片，不把输出称作一次提示完成。",
+    "outputType": [
+      "Blender Python",
+      "巨龙动画"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096330178276601856/img/JU9wNEWrSNfh5CAK.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整 X 视频，时长已与原帖媒体清单核对，可下载最高码率版本。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/doomdave/status/2096335588727349434",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/doomdave/status/2096335588727349434",
+      "https://api.fxtwitter.com/status/2096335588727349434"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/doomdave-dragon-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-10/doomdave-dragon-1-original.mp4",
+        "durationSeconds": 10.0,
+        "bytes": 3382327,
+        "sha256": "16dbc0b81413ca7e3d2af3687d1998d29e4ad859a593abef7819509adfa81662",
+        "sourceUrl": "https://x.com/doomdave/status/2096335588727349434"
+      }
+    ]
+  },
+  {
+    "id": "taro-skyrim-village",
+    "title": "山间村落：参考图与地形场景联动",
+    "titleEn": "Skyrim-inspired Village",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Kichitaro (Kichi Shotaro) / @TaroKichijo",
+    "sourceUrl": "https://x.com/TaroKichijo/status/2097167383576383502",
+    "sourceDate": "2026-09-08",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者向 Astra Medium 提出受 Skyrim 启发的村落需求，并让 img2threejs 工作流先制作参考图，再构建山地与建筑场景。图像生成是其中一个阶段，录像不等于全部资产来源已核验。",
+    "outputType": [
+      "参考图工作流",
+      "三维村落"
+    ],
+    "promptAvailability": "原帖公开简短需求",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": "https://x.com/TaroKichijo/status/2097167383576383502",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097166730498113536/img/7GvqTsPqYabmN0A8.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整 X 视频，时长已与原帖媒体清单核对，可下载最高码率版本。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/TaroKichijo/status/2097167383576383502",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/TaroKichijo/status/2097167383576383502",
+      "https://api.fxtwitter.com/status/2097167383576383502"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/taro-skyrim-village-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-10/taro-skyrim-village-1-original.mp4",
+        "durationSeconds": 21.27,
+        "bytes": 12805260,
+        "sha256": "746b73d4f4b1820ea588a9f9adf11ea4bfa903613bd2ebc152f68cb2b26e2a71",
+        "sourceUrl": "https://x.com/TaroKichijo/status/2097167383576383502"
+      }
+    ]
+  },
+  {
+    "id": "givros-roblox-kart",
+    "title": "Roblox 卡丁车：漂移、加速与 AI 对手",
+    "titleEn": "Roblox Kart Racer",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Givros / @givros",
+    "sourceUrl": "https://x.com/givros/status/2096219700879331665",
+    "sourceDate": "2026-09-05",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者展示 Astra 在 Roblox Studio 中制作的卡丁车游戏，包含圈数、AI 对手、漂移和加速等玩法。制作时长与完成度为作者自述；当前未核实公开游戏入口。",
+    "outputType": [
+      "Roblox Studio 游戏",
+      "赛车录像"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096219608550461440/img/VmSvyEIrRRdukfjg.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整 X 视频，时长已与原帖媒体清单核对，可下载最高码率版本。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/givros/status/2096219700879331665",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/givros/status/2096219700879331665",
+      "https://api.fxtwitter.com/status/2096219700879331665"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/givros-roblox-kart-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-10/givros-roblox-kart-1-original.mp4",
+        "durationSeconds": 55.08,
+        "bytes": 43985343,
+        "sha256": "b162826761261b90e826a47590ed2f0adb5f51b45963ded56142b7700595438d",
+        "sourceUrl": "https://x.com/givros/status/2096219700879331665"
+      }
+    ]
+  },
+  {
+    "id": "badx-photo-building",
+    "title": "手机照片到建筑：Blender 重建实验",
+    "titleEn": "Phone Photos to Building",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Bad Decisions Studio / @badxstudio",
+    "sourceUrl": "https://x.com/badxstudio/status/2095982983379653113",
+    "sourceDate": "2026-09-04",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者使用自己拍摄的建筑照片，测试 Astra 在 Blender 中重建外观并生成观察录像。当前没有公开模型或尺寸验证；这是从照片推断三维形状的实验。",
+    "outputType": [
+      "照片参考建模",
+      "建筑录像"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2095982524044541952/pu/img/NojpJgktJm7E-l-F.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整 X 视频，时长已与原帖媒体清单核对，可下载最高码率版本。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/badxstudio/status/2095982983379653113",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/badxstudio/status/2095982983379653113",
+      "https://api.fxtwitter.com/status/2095982983379653113"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/badx-photo-building-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-10/badx-photo-building-1-original.mp4",
+        "durationSeconds": 57.75,
+        "bytes": 13672901,
+        "sha256": "967a5ff9178da680a5eeaf377ccb68423142060d278f7836382b9e97c8188f9a",
+        "sourceUrl": "https://x.com/badxstudio/status/2095982983379653113"
+      }
+    ]
+  },
+  {
+    "id": "yokohara-street-breakdown",
+    "title": "街景生成与拆解：保留不完善结果",
+    "titleEn": "Street Scene and Breakdown",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Hirokazu Yokohara / @Yokohara_h",
+    "sourceUrl": "https://x.com/Yokohara_h/status/2096622171011666003",
+    "sourceDate": "2026-09-06",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者展示 Astra 从图像参考构建 Blender 街景，并输出拆解展示。原帖同时指出完成度仍不理想，保留这些反馈有助于观察自动场景制作的局限。",
+    "outputType": [
+      "Blender 街景",
+      "拆解录像"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096619986119016448/img/DnxNHOzY0HSwEHqW.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整 X 视频，时长已与原帖媒体清单核对，可下载最高码率版本。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/Yokohara_h/status/2096622171011666003",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/Yokohara_h/status/2096622171011666003",
+      "https://api.fxtwitter.com/status/2096622171011666003"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/yokohara-street-breakdown-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-10/yokohara-street-breakdown-1-original.mp4",
+        "durationSeconds": 21.59,
+        "bytes": 15388985,
+        "sha256": "a4a7c6b592525dd88292ae16f64bd97a11690c7c7b213e7670c95da0c3aae381",
+        "sourceUrl": "https://x.com/Yokohara_h/status/2096622171011666003"
+      }
+    ]
+  },
+  {
+    "id": "lexn-verdant-forest",
+    "title": "Verdant Forest：实时森林与自定义着色器",
+    "titleEn": "Verdant Forest",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Leon Lin / @LexnLin",
+    "sourceUrl": "https://x.com/LexnLin/status/2096263046918197609",
+    "sourceDate": "2026-09-05",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者展示由 Astra 制作的 Three.js 森林，使用自定义着色器呈现树木、草和蕨类。提供公开浏览器入口；植被数量和运行表现为作者说明，未在本库进行性能测量。",
+    "outputType": [
+      "Three.js 森林",
+      "自定义着色器"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096262956774490112/img/9UcY8pI6LuZ8v2c_.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整 X 视频，时长已与原帖媒体清单核对，可下载最高码率版本。",
+    "demoUrl": "https://verdant-forest.lexn8.chatgpt.site",
+    "videoUrl": "https://x.com/LexnLin/status/2096263046918197609",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/LexnLin/status/2096263046918197609",
+      "https://api.fxtwitter.com/status/2096263046918197609"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/lexn-verdant-forest-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-10/lexn-verdant-forest-1-original.mp4",
+        "durationSeconds": 14.96,
+        "bytes": 17493162,
+        "sha256": "3f4739dff9575cb107552ced5d686e4c8d333ed034b14ce9e9801daf4f6b9182",
+        "sourceUrl": "https://x.com/LexnLin/status/2096263046918197609"
+      }
+    ]
+  },
+  {
+    "id": "dilum-v8-engine",
+    "title": "V8 发动机：交互机械运动可视化",
+    "titleEn": "Interactive V8 Engine",
+    "group": "astra",
+    "category": "科学与教育",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Dilum Sanjaya / @DilumSanjaya",
+    "sourceUrl": "https://x.com/DilumSanjaya/status/2096280244663775423",
+    "sourceDate": "2026-09-05",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者展示 Astra 制作的 V8 发动机交互模型，可以观察构件及其运动关系。当前收录原帖录像；没有独立工程仿真验证或已核实的公开运行入口。",
+    "outputType": [
+      "发动机交互模型",
+      "机械运动录像"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096278610743304192/img/jZDskFFb29_SDdCk.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整 X 视频，时长已与原帖媒体清单核对，可下载最高码率版本。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/DilumSanjaya/status/2096280244663775423",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/DilumSanjaya/status/2096280244663775423",
+      "https://api.fxtwitter.com/status/2096280244663775423"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/dilum-v8-engine-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-10/dilum-v8-engine-1-original.mp4",
+        "durationSeconds": 52.12,
+        "bytes": 69302714,
+        "sha256": "0ef49bd74e32922a4c295bf0590bc0905f0c8a5f815be72f3124b6c5f1a89a1d",
+        "sourceUrl": "https://x.com/DilumSanjaya/status/2096280244663775423"
+      }
+    ]
+  },
+  {
+    "id": "jake-rink-life",
+    "title": "Rink Life：有磨损痕迹的溜冰场",
+    "titleEn": "Rink Life",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Jake Boyles / @JakeBoyles",
+    "sourceUrl": "https://x.com/JakeBoyles/status/2096983366327226501",
+    "sourceDate": "2026-09-07",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者用 Astra 与 Three.js 制作第一人称溜冰场经营原型，冰面的滑行磨损会影响反射并保留痕迹。提供公开演示与原帖录像；本库未完成完整经营流程验证。",
+    "outputType": [
+      "Three.js 游戏",
+      "动态冰面材质"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096981099964772352/img/V5In6125jJkkEGp0.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整 X 视频，时长已与原帖媒体清单核对，可下载最高码率版本。",
+    "demoUrl": "https://vyrld.com/w/rink-life",
+    "videoUrl": "https://x.com/JakeBoyles/status/2096983366327226501",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/JakeBoyles/status/2096983366327226501",
+      "https://api.fxtwitter.com/status/2096983366327226501"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/jake-rink-life-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-10/jake-rink-life-1-original.mp4",
+        "durationSeconds": 28.05,
+        "bytes": 11514721,
+        "sha256": "7f2614c846f17975ef1256a8e63e51434e1338371dd21c82eefd13c679ea0f6c",
+        "sourceUrl": "https://x.com/JakeBoyles/status/2096983366327226501"
+      }
+    ]
+  },
+  {
+    "id": "anshuc-afterlight",
+    "title": "雨夜机器人：天气、灯光与场景迭代",
+    "titleEn": "Afterlight Robot World",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Anshu / @anshuc",
+    "sourceUrl": "https://x.com/anshuc/status/2096584624432374151",
+    "sourceDate": "2026-09-06",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者展示 Astra 持续完善夜间机器人场景，并在原帖中说明天气和 Blender 鸟类等制作内容。当前以公开视频记录画面效果，未取得完整工程和可运行入口。",
+    "outputType": [
+      "三维机器人场景",
+      "天气与灯光"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096580463288803328/img/_S5-VDnQ9RJh9URY.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整 X 视频，时长已与原帖媒体清单核对，可下载最高码率版本。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/anshuc/status/2096584624432374151",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/anshuc/status/2096584624432374151",
+      "https://api.fxtwitter.com/status/2096584624432374151",
+      "https://github.com/magiccreator-ai/awesome-gpt-6-astra"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/anshuc-afterlight-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-10/anshuc-afterlight-1-original.mp4",
+        "durationSeconds": 29.62,
+        "bytes": 89748078,
+        "sha256": "39d6c274f734dfe78885877ec725842d515746193cdf11d14eff18f33e774472",
+        "sourceUrl": "https://x.com/anshuc/status/2096584624432374151"
+      }
+    ]
+  },
+  {
+    "id": "sharif-palace-fine-arts",
+    "title": "艺术宫：Blender 建筑场景",
+    "titleEn": "Palace of Fine Arts",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Sharif Shameem / @sharifshameem",
+    "sourceUrl": "https://x.com/sharifshameem/status/2095653641164329143",
+    "sourceDate": "2026-09-03",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者展示 Astra 在 Blender 中制作艺术宫建筑场景的结果与观察录像。收录重点是建筑构形、材质和环境表达，不将社交媒体描述作为建筑史或工程精度依据。",
+    "outputType": [
+      "Blender 建筑场景",
+      "渲染录像"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2095652923917361152/img/HLx68_TTVmLK5LJa.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整 X 视频，时长已与原帖媒体清单核对，可下载最高码率版本。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/sharifshameem/status/2095653641164329143",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/sharifshameem/status/2095653641164329143",
+      "https://api.fxtwitter.com/status/2095653641164329143"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/sharif-palace-fine-arts-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-10/sharif-palace-fine-arts-1-original.mp4",
+        "durationSeconds": 30.06,
+        "bytes": 70269211,
+        "sha256": "64a2c24ec1ce4b15d96e7e7deca8dd18cc3c5573dca7306ba72179f61861500d",
+        "sourceUrl": "https://x.com/sharifshameem/status/2095653641164329143"
+      }
+    ]
+  },
+  {
+    "id": "chen-hangzhou",
+    "title": "杭州微缩城：地标与昼夜切换",
+    "titleEn": "Hangzhou Miniature City",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "SuSu_酥酥👅 / @NFT_Chen",
+    "sourceUrl": "https://x.com/NFT_Chen/status/2096143589151756638",
+    "sourceDate": "2026-09-05",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者展示 Astra 构建的 Three.js 杭州城市可视化，组合代表性建筑和昼夜切换。当前仅核实展示录像；不是覆盖全城的精确地理模型，也没有已核实的公开网页入口。",
+    "outputType": [
+      "Three.js 城市场景",
+      "昼夜可视化"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096142969032351744/img/lZvQ1GZMdqznrSqb.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整 X 视频，时长已与原帖媒体清单核对，可下载最高码率版本。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/NFT_Chen/status/2096143589151756638",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/NFT_Chen/status/2096143589151756638",
+      "https://api.fxtwitter.com/status/2096143589151756638"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/chen-hangzhou-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-10/chen-hangzhou-1-original.mp4",
+        "durationSeconds": 105.7,
+        "bytes": 17081555,
+        "sha256": "e26c789fb63bc510406a6b96805df731ce1d731c808a46147e6e5b547b8d5546",
+        "sourceUrl": "https://x.com/NFT_Chen/status/2096143589151756638"
+      }
+    ]
+  },
+  {
+    "id": "birdabo-singapore",
+    "title": "新加坡街头：手机视角的浏览器场景",
+    "titleEn": "Singapore Street Scene",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "sui / @birdabo",
+    "sourceUrl": "https://x.com/birdabo/status/2096156461365960837",
+    "sourceDate": "2026-09-05",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者展示 Astra 制作的 Three.js 新加坡街头场景，采用接近手机拍摄的视角与游戏画面目标。原帖提到演示随后开放，本轮未取得可核实入口。",
+    "outputType": [
+      "Three.js 街景",
+      "移动视角录像"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/media/HRcLFN8bcAAFP4k.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整 X 视频，时长已与原帖媒体清单核对，可下载最高码率版本。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/birdabo/status/2096156461365960837",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/birdabo/status/2096156461365960837",
+      "https://api.fxtwitter.com/status/2096156461365960837"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/birdabo-singapore-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-10/birdabo-singapore-1-original.mp4",
+        "durationSeconds": 8.1,
+        "bytes": 22805808,
+        "sha256": "f307fb630117a45ccd4ab0a4b5d2e5de10ef1a320784d852534fc380c4bda2f7",
+        "sourceUrl": "https://x.com/birdabo/status/2096156461365960837"
+      }
+    ]
+  },
+  {
+    "id": "danmana-piata-unirii",
+    "title": "Piața Unirii：同一简报的体素广场对照",
+    "titleEn": "Piata Unirii Voxel Comparison",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Dan Manastireanu / @danmana",
+    "sourceUrl": "https://x.com/danmana/status/2096262733259837681",
+    "sourceDate": "2026-09-05",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者对 Astra 与 Fable 5.1 使用同一广场简报，公开各自运行结果和项目。原帖为双模型对照，作者在这个例子中更偏好 Fable；本条演示入口指向 Astra 版本，不推广为模型综合排名。",
+    "outputType": [
+      "体素建筑",
+      "双模型对照",
+      "公开工程"
+    ],
+    "promptAvailability": "仓库公开共享场景简报",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": "https://github.com/danmana/piata-unirii/blob/main/prompt.md",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096248939876126720/img/s3bAAUu8zYiJXskz.jpg",
+    "imageKind": "comparison",
+    "imageCaption": "原帖双模型对照视频封面；演示链接单独指向 Astra 版本。 附完整 X 视频，时长已与原帖媒体清单核对，可下载最高码率版本。",
+    "demoUrl": "https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/",
+    "videoUrl": "https://x.com/danmana/status/2096262733259837681",
+    "repositoryUrl": "https://github.com/danmana/piata-unirii",
+    "evidenceUrls": [
+      "https://x.com/danmana/status/2096262733259837681",
+      "https://api.fxtwitter.com/status/2096262733259837681",
+      "https://github.com/danmana/piata-unirii"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/danmana-piata-unirii-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-10/danmana-piata-unirii-1-original.mp4",
+        "durationSeconds": 24.0,
+        "bytes": 20401916,
+        "sha256": "33ce98aea95814b5c5e47a9d301096be78faf3b6b5d6c59c7ddc92841fd5a3c0",
+        "sourceUrl": "https://x.com/danmana/status/2096262733259837681"
+      }
+    ]
+  },
+  {
+    "id": "syaripin-tripo-texture",
+    "title": "Tripo 角色：服装 UV 与贴图修整",
+    "titleEn": "Tripo Character Texture Repair",
+    "group": "astra",
+    "category": "Blender 建模",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "syaripin-i8i",
+    "sourceUrl": "https://github.com/syaripin-i8i/blender-astra-texture-guide",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "Astra + Tripo + 图像生成（作者混合工作流）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "读取 GitHub 作者 README、仓库描述与文件目录；未在本地重建工程。",
+    "summary": "作者记录 Astra 通过 Blender MCP 与 Python，为已有 Tripo 角色修整服装 UV、颜色贴图和材质分配。公开实际提示词和前后图，未附原始模型及通用自动化脚本；这是现有角色的材质修复。",
+    "outputType": [
+      "Blender 材质修复",
+      "UV 工作流",
+      "前后对照"
+    ],
+    "promptAvailability": "作者公开实际材质提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": "https://github.com/syaripin-i8i/blender-astra-texture-guide/tree/main/prompts",
+    "imageUrl": "https://raw.githubusercontent.com/syaripin-i8i/blender-astra-texture-guide/main/images/skirt_before_after.jpg",
+    "imageKind": "comparison",
+    "imageCaption": "作者发布的服装贴图前后对照，左侧修整前、右侧修整后；基础角色来自 Tripo。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://github.com/syaripin-i8i/blender-astra-texture-guide"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "threapchills-magic-carpet",
+    "title": "A Thousand Skies：在小星球上骑飞毯",
+    "titleEn": "A Thousand Skies",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "threapchills",
+    "sourceUrl": "https://github.com/threapchills/MagicCarpetWizard",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者仓库 description 明确声明游戏由 GPT 6 Astra 制作；README 和文件目录提供玩法与代码，未独立完成游戏验证。",
+    "sourceAccess": "读取 GitHub 作者 README、仓库描述与文件目录；未在本地重建工程。",
+    "summary": "作者仓库描述明确将这个游戏标为 GPT 6 Astra 制作，README 介绍小型球面世界中的飞毯飞行、穿环、法术与竞速玩法。代码公开，玩法完成度仍以作者说明为依据。",
+    "outputType": [
+      "浏览器 3D 游戏",
+      "公开源码"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": null,
+    "imageKind": "none",
+    "imageCaption": "当前未取得作者发布的作品截图。",
+    "demoUrl": "https://threapchills.github.io/MagicCarpetWizard/",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/threapchills/MagicCarpetWizard",
+    "evidenceUrls": [
+      "https://github.com/threapchills/MagicCarpetWizard"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "yo-tractor-animation",
+    "title": "拖拉机总成：长时间建模与动画实验",
+    "titleEn": "Tractor Modeling and Animation",
+    "group": "astra",
+    "category": "Blender 建模",
+    "platform": "Reddit",
+    "platforms": [
+      "Reddit"
+    ],
+    "author": "yo_hello_123",
+    "sourceUrl": "https://www.reddit.com/r/codex/comments/1wb8wgr/gpt6_astra_max_spent_7_hours_building_a_fully/",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "读取公开 Reddit 原帖与作者回复；原帖含动图与模型对照，暂不使用未辨明归属的单帧做封面。",
+    "summary": "作者记录 Astra Max 经多小时迭代制作拖拉机及构件动画，参考公开图片并使用图像生成辅助材质。部件与动画数量为作者自述，作者也说明自己不是拖拉机专家；不把结果作为机械工程认证。",
+    "outputType": [
+      "Blender 模型",
+      "机械构件动画"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": null,
+    "imageKind": "none",
+    "imageCaption": "未取得可用的作者效果图。",
+    "demoUrl": null,
+    "videoUrl": "https://www.reddit.com/r/codex/comments/1wb8wgr/gpt6_astra_max_spent_7_hours_building_a_fully/",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://www.reddit.com/r/codex/comments/1wb8wgr/gpt6_astra_max_spent_7_hours_building_a_fully/"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "ehuilanse-hard-surface",
+    "title": "硬表面与曲面：多类 Blender 建模实测",
+    "titleEn": "Hard Surface and Curved Modeling Tests",
+    "group": "astra",
+    "category": "Blender 建模",
+    "platform": "Bilibili",
+    "platforms": [
+      "Bilibili"
+    ],
+    "author": "E灰蓝色",
+    "sourceUrl": "https://www.bilibili.com/video/BV1xJbx64EYy/",
+    "sourceDate": "2026-09-07",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "读取 Bilibili 公开视频元数据，核对作者、标题、简介、发布时间与 342 秒时长。",
+    "summary": "作者用 Codex Astra 与 Blender MCP 测试硬表面、曲面及场景搭建，讨论 Python、轮廓挤出、曲线放样与函数拟合的结果。视频保留拓扑和造型不足，适合作为能力边界观察。",
+    "outputType": [
+      "Blender 建模实验",
+      "曲面与拓扑观察"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://i0.hdslb.com/bfs/archive/cc3828cd8882b05f76af5d455e20fa9a78a8e5ab.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "E灰蓝色发布的 B 站测试视频封面。",
+    "demoUrl": null,
+    "videoUrl": "https://www.bilibili.com/video/BV1xJbx64EYy/",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://www.bilibili.com/video/BV1xJbx64EYy/"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "teardownlab-wooden-crate",
+    "title": "木箱到 Unity：建模、烘焙与导入",
+    "titleEn": "Wooden Crate to Unity",
+    "group": "astra",
+    "category": "Blender 建模",
+    "platform": "Zenn",
+    "platforms": [
+      "Zenn"
+    ],
+    "author": "teardownlab",
+    "sourceUrl": "https://zenn.dev/teardownlab/articles/2026-09-06-codex-blender-mcp",
+    "sourceDate": "2026-09-06",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "gpt-6-astra / low（木箱阶段作者日志）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "读取公开原始页面与作者说明。",
+    "summary": "作者用 Astra low 经 Blender Python 生成木箱，再烘焙颜色贴图、导出 FBX 并导入 Unity。约 55 秒只指木箱请求到完成报告的日志时长；后续文章渲染、房间扩展与 Unity 配置另行进行。",
+    "outputType": [
+      "Blender 木箱",
+      "FBX / 贴图烘焙",
+      "Unity 导入"
+    ],
+    "promptAvailability": "作者公开原始短提示与迭代步骤",
+    "promptExcerpt": "木箱を作成してください",
+    "promptSummary": null,
+    "promptUrl": "https://zenn.dev/teardownlab/articles/2026-09-06-codex-blender-mcp",
+    "imageUrl": "https://static.zenn.studio/user-upload/deployed-images/04d136be9d670d9d328e48fe.png?sha=1dfc17af4dcd9827bf353749de3cdab73002002e",
+    "imageKind": "author-render",
+    "imageCaption": "作者为文章另行布光渲染的木箱；这张渲染图的制作时间不计入 55 秒。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://zenn.dev/teardownlab/articles/2026-09-06-codex-blender-mcp"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "cxuan-lunar-base",
+    "title": "月面小屋到采矿基地：场景方向迭代",
+    "titleEn": "Lunar Mining Base Iteration",
+    "group": "astra",
+    "category": "Blender 建模",
+    "platform": "LINUX DO",
+    "platforms": [
+      "LINUX DO"
+    ],
+    "author": "cxuanAI / cxuan",
+    "sourceUrl": "https://linux.do/t/topic/2881369",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-10",
+    "addedAt": "2026-09-10",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原文索引已读取，直连页面受限",
+    "evidenceNote": "搜索返回的原文索引包含作者、绝对日期和制作过程；直接打开页面失败，保留转引级别。",
+    "sourceAccess": "读取公开搜索中的原文内容；未通过登录访问 LINUX DO。",
+    "summary": "作者记录 Astra 安装并调用 Blender 脚本制作月面场景，从初版小屋继续要求更硬核的采矿基地。文章展示请求、反馈和结果，适合观察场景方向的迭代；当前未取得公开工程。",
+    "outputType": [
+      "Blender 月面场景",
+      "提示反馈过程"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": null,
+    "imageKind": "none",
+    "imageCaption": "未取得可用的作者效果图。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://linux.do/t/topic/2881369"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
     "id": "lbeilc-rhine-lab",
     "title": "Rhine Lab：可抽取和拆解的三维档案",
     "titleEn": "Rhine Lab Analysis OS",

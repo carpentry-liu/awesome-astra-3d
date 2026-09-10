@@ -2,6 +2,37 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-09-10 · 26 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Little Flock：小羊慢慢的牧场世界 / Little Flock](https://carpentry-liu.github.io/awesome-astra-3d/#case=songkeys-little-flock) | songkeys | 源码 / 工程 · 演示入口 · 完整视频 · 提示词 / 过程 |
+| [日式花店：街角模型的展开与重组 / Japanese Flower Shop Exploded View](https://carpentry-liu.github.io/awesome-astra-3d/#case=kana-flower-shop) | KANA｜東京AI映像 / @KanaWorks_AI | 完整视频 · 提示词 / 过程 |
+| [湿地湖畔：小屋、芦苇与野生动物 / Cozy Wetland Lake](https://carpentry-liu.github.io/awesome-astra-3d/#case=givros-wetland) | Givros / @givros | 完整视频 · 提示词 / 过程 |
+| [书桌一角：Blender 工程与实时网页 / Room Studio](https://carpentry-liu.github.io/awesome-astra-3d/#case=magicyan-room-studio) | magicyan418 | 源码 / 工程 · 演示入口 |
+| [祈年殿：Three.js 建筑展示 / Temple of Heaven in Three.js](https://carpentry-liu.github.io/awesome-astra-3d/#case=goan-temple-heaven) | govin.eth \| G哥 / @goan999999 | 完整视频 |
+| [同户型四种家装：Astra 与 Fable 对照 / Four Interior Styles Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=hahaliu-house-styles) | hahaliu1029 | 源码 / 工程 · 演示入口 |
+| [Chess Cubed：六面立方体棋盘 / Chess Cubed](https://carpentry-liu.github.io/awesome-astra-3d/#case=digitalml-chess-cubed) | digitalml | 演示入口 |
+| [巨龙短镜头：Blender Python 迭代 / Dragon Cinematic in Blender](https://carpentry-liu.github.io/awesome-astra-3d/#case=doomdave-dragon) | Sarang Borude / @doomdave | 完整视频 |
+| [山间村落：参考图与地形场景联动 / Skyrim-inspired Village](https://carpentry-liu.github.io/awesome-astra-3d/#case=taro-skyrim-village) | Kichitaro (Kichi Shotaro) / @TaroKichijo | 完整视频 · 提示词 / 过程 |
+| [Roblox 卡丁车：漂移、加速与 AI 对手 / Roblox Kart Racer](https://carpentry-liu.github.io/awesome-astra-3d/#case=givros-roblox-kart) | Givros / @givros | 完整视频 |
+| [手机照片到建筑：Blender 重建实验 / Phone Photos to Building](https://carpentry-liu.github.io/awesome-astra-3d/#case=badx-photo-building) | Bad Decisions Studio / @badxstudio | 完整视频 |
+| [街景生成与拆解：保留不完善结果 / Street Scene and Breakdown](https://carpentry-liu.github.io/awesome-astra-3d/#case=yokohara-street-breakdown) | Hirokazu Yokohara / @Yokohara_h | 完整视频 |
+| [Verdant Forest：实时森林与自定义着色器 / Verdant Forest](https://carpentry-liu.github.io/awesome-astra-3d/#case=lexn-verdant-forest) | Leon Lin / @LexnLin | 演示入口 · 完整视频 |
+| [V8 发动机：交互机械运动可视化 / Interactive V8 Engine](https://carpentry-liu.github.io/awesome-astra-3d/#case=dilum-v8-engine) | Dilum Sanjaya / @DilumSanjaya | 完整视频 |
+| [Rink Life：有磨损痕迹的溜冰场 / Rink Life](https://carpentry-liu.github.io/awesome-astra-3d/#case=jake-rink-life) | Jake Boyles / @JakeBoyles | 演示入口 · 完整视频 |
+| [雨夜机器人：天气、灯光与场景迭代 / Afterlight Robot World](https://carpentry-liu.github.io/awesome-astra-3d/#case=anshuc-afterlight) | Anshu / @anshuc | 完整视频 |
+| [艺术宫：Blender 建筑场景 / Palace of Fine Arts](https://carpentry-liu.github.io/awesome-astra-3d/#case=sharif-palace-fine-arts) | Sharif Shameem / @sharifshameem | 完整视频 |
+| [杭州微缩城：地标与昼夜切换 / Hangzhou Miniature City](https://carpentry-liu.github.io/awesome-astra-3d/#case=chen-hangzhou) | SuSu_酥酥👅 / @NFT_Chen | 完整视频 |
+| [新加坡街头：手机视角的浏览器场景 / Singapore Street Scene](https://carpentry-liu.github.io/awesome-astra-3d/#case=birdabo-singapore) | sui / @birdabo | 完整视频 |
+| [Piața Unirii：同一简报的体素广场对照 / Piata Unirii Voxel Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=danmana-piata-unirii) | Dan Manastireanu / @danmana | 源码 / 工程 · 演示入口 · 完整视频 · 提示词 / 过程 |
+| [Tripo 角色：服装 UV 与贴图修整 / Tripo Character Texture Repair](https://carpentry-liu.github.io/awesome-astra-3d/#case=syaripin-tripo-texture) | syaripin-i8i | 提示词 / 过程 |
+| [A Thousand Skies：在小星球上骑飞毯 / A Thousand Skies](https://carpentry-liu.github.io/awesome-astra-3d/#case=threapchills-magic-carpet) | threapchills | 源码 / 工程 · 演示入口 |
+| [拖拉机总成：长时间建模与动画实验 / Tractor Modeling and Animation](https://carpentry-liu.github.io/awesome-astra-3d/#case=yo-tractor-animation) | yo_hello_123 | 作者展示 |
+| [硬表面与曲面：多类 Blender 建模实测 / Hard Surface and Curved Modeling Tests](https://carpentry-liu.github.io/awesome-astra-3d/#case=ehuilanse-hard-surface) | E灰蓝色 | 作者展示 |
+| [木箱到 Unity：建模、烘焙与导入 / Wooden Crate to Unity](https://carpentry-liu.github.io/awesome-astra-3d/#case=teardownlab-wooden-crate) | teardownlab | 提示词 / 过程 |
+| [月面小屋到采矿基地：场景方向迭代 / Lunar Mining Base Iteration](https://carpentry-liu.github.io/awesome-astra-3d/#case=cxuan-lunar-base) | cxuanAI / cxuan | 作者展示 |
+
 ## 2026-09-09 · 42 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

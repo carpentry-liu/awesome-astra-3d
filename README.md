@@ -13,12 +13,12 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-09-09（Asia/Shanghai）**：**103 条 Astra 案例** · **39 条源码 / 工程** · **47 个演示入口** · **41 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-09-10（Asia/Shanghai）**：**129 条 Astra 案例** · **44 条源码 / 工程** · **55 个演示入口** · **58 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
-[![Astra 3D Atlas 欢迎页：精选作品、源码、演示与视频入口](docs/media/expanded-desktop-2026-09-09.png)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 欢迎页：精选作品、源码、演示与视频入口](docs/media/welcome-desktop-2026-09-10.png)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-网站实拍 · 2026-09-09。点击进入在线案例库。
+网站实拍 · 2026-09-10。点击进入在线案例库。
 
 ## 找到你的下一次创作
 
@@ -32,31 +32,31 @@
 
 ## 这次更新，先看效果
 
-| Rhine Lab · 可拆解三维档案 | Sugarfall · 可编辑甜甜圈动画 |
+| Little Flock · 可探索的牧场游戏 | 日式花店 · 展开与重新组合 |
 | --- | --- |
-| [![Rhine Lab Analysis OS — LBEILC](https://raw.githubusercontent.com/LBEILC/RhineLabUI/main/docs/media/archive.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=lbeilc-rhine-lab) | [![Sugarfall Donut Studio — CwC-HydeX](https://raw.githubusercontent.com/CwC-HydeX/donut-studio/main/docs/images/frame-0170.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=cwc-sugarfall) |
-| Model X · 现成汽车资产的交互拆解 | Microduck · 已有 CAD 装配探索 |
-| [![Model X Studio — ashe / @ashebytes](https://pbs.twimg.com/amplify_video_thumb/2096008340329627648/img/f7Gt3ww30PLWmsKK.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=ashe-model-x) | [![Microduck Assembly Lab — yishan / @tspy](https://pbs.twimg.com/amplify_video_thumb/2096233778113118208/img/9HOvR6k_Z10CchxV.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=tspy-microduck) |
-| Asteria · 太阳系飞船漫游 | 高达四视图 · 作者建模实测 |
-| [![Asteria Spaceship Explorer — Weng Siong / @wengsiong22](https://pbs.twimg.com/amplify_video_thumb/2096941837160509440/img/M7XW_FFqqtoslpUW.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=wengsiong-asteria) | [![Gundam Four-view Modeling — 湖森堡AI_hooosberg](https://i0.hdslb.com/bfs/archive/d0dc78c2b41bc103f1637e567f016f902da1d019.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=hooosberg-gundam) |
+| [![Little Flock — songkeys](https://raw.githubusercontent.com/songkeys/little-flock/main/docs/demo-poster.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=songkeys-little-flock) | [![Japanese Flower Shop Exploded View — KANA｜東京AI映像 / @KanaWorks_AI](https://pbs.twimg.com/amplify_video_thumb/2097151136155553792/img/AuzVjF2Jxc14tJqt.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=kana-flower-shop) |
+| 湿地湖畔 · 自然场景工作流 | 书桌一角 · Blender 离线渲染 |
+| [![Cozy Wetland Lake — Givros / @givros](https://pbs.twimg.com/amplify_video_thumb/2097343347895525376/img/7BqNRpeoZcou-Xtu.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=givros-wetland) | [![Room Studio — magicyan418](https://raw.githubusercontent.com/magicyan418/3D-ROOM-TEST/main/public/reference.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=magicyan-room-studio) |
+| 祈年殿 · Three.js 建筑展示 | 宋式客厅 · 左 Fable / 右 Astra |
+| [![Temple of Heaven in Three.js — govin.eth &#124; G哥 / @goan999999](https://pbs.twimg.com/amplify_video_thumb/2097323160601546752/img/2k2LggwN0cvh5mVI.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=goan-temple-heaven) | [![Four Interior Styles Comparison — hahaliu1029](https://raw.githubusercontent.com/hahaliu1029/house-3d/main/media/images/song-living-comparison.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=hahaliu-house-styles) |
 
-点击效果图打开完整档案和原始来源。图片外链原作者；Model X 与 Microduck 使用既有资产，Sugarfall 保留 CwC 的 CC BY 4.0 署名，其余作品按各自许可。
+点击效果图打开档案、完整视频和原始来源。图片外链作者原图；Little Flock 保留 Songkeys 的 CC BY 4.0 署名，书桌图为离线渲染，家装对照明确左侧 Fable、右侧 Astra。
 
 ## 最新收录
 
-本轮再新增 **30 个案例**：16 条 X、5 个 GitHub 项目、4 条 B 站视频、4 篇日文作者文章和 1 条 Reddit 实验；其中 **14 条 X 录像完整归档**。包含汽车与机器人拆解、飞船漫游、航拍模型修复、VRM 和 Swift 建模。以下入口自动同步，收录日期与作品发布日期分开记录。
+本轮新增 **26 个案例**：16 条 X、5 条 GitHub、2 条 Reddit，以及 B 站、Zenn、LINUX DO 各 1 条；其中 **17 段 X 视频完整归档**（含 GitHub 项目的原作者预告片）。新题材包括牧场游戏、花店拆解、Roblox 赛车、家装对照和角色贴图修整。仅有过程文档的条目不计入源码 / 工程数量，收录日期与作品发布日期分开记录。
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
-| [Rhine Lab：可抽取和拆解的三维档案](https://carpentry-liu.github.io/awesome-astra-3d/#case=lbeilc-rhine-lab) | LBEILC | [演示](https://rhine-lab-ui.vercel.app) · [源码](https://github.com/LBEILC/RhineLabUI) · [原始来源](https://github.com/LBEILC/RhineLabUI) |
-| [Model X Studio：334 个网格的交互拆解](https://carpentry-liu.github.io/awesome-astra-3d/#case=ashe-model-x) | ashe / @ashebytes | [演示](https://model-x-studio.vercel.app) · [源码](https://github.com/ashemag/model-x-studio) · [原始来源](https://x.com/ashebytes/status/2096009146248122416) |
-| [Microduck：机器人 CAD 装配探索台](https://carpentry-liu.github.io/awesome-astra-3d/#case=tspy-microduck) | yishan / @tspy | [演示](https://microduck-assembly-lab.yishan-lin.chatgpt.site/) · [原始来源](https://x.com/tspy/status/2096238855519453662) |
-| [Sugarfall：糖粒落下的草莓甜甜圈](https://carpentry-liu.github.io/awesome-astra-3d/#case=cwc-sugarfall) | CwC-HydeX | [源码](https://github.com/CwC-HydeX/donut-studio) · [原始来源](https://github.com/CwC-HydeX/donut-studio) |
-| [Asteria：在宇宙飞船里探索太阳系](https://carpentry-liu.github.io/awesome-astra-3d/#case=wengsiong-asteria) | Weng Siong / @wengsiong22 | [演示](https://asteria.wengsiong22.workers.dev/) · [原始来源](https://x.com/wengsiong22/status/2096941914906144784) |
-| [高达四视图：分件网格与骨骼实验](https://carpentry-liu.github.io/awesome-astra-3d/#case=hooosberg-gundam) | 湖森堡AI_hooosberg | [原始来源](https://www.bilibili.com/video/BV1sgt163Eu4/) |
-| [航拍废模修复：从单栋建筑到园区](https://carpentry-liu.github.io/awesome-astra-3d/#case=mang-aerial-repair) | 莽小石 | [原始来源](https://www.bilibili.com/video/BV1U9bW6sEw4/) |
-| [VRM 角色：Astra 补贴图、绑定与表情](https://carpentry-liu.github.io/awesome-astra-3d/#case=chimerast-vrm) | たけうちさん / chimerast | [原始来源](https://zenn.dev/chimerast/articles/0003b377d0e8ba) |
+| [Little Flock：小羊慢慢的牧场世界](https://carpentry-liu.github.io/awesome-astra-3d/#case=songkeys-little-flock) | songkeys | [演示](https://sharpherd.song.work) · [源码](https://github.com/songkeys/little-flock) · [原始来源](https://github.com/songkeys/little-flock) |
+| [日式花店：街角模型的展开与重组](https://carpentry-liu.github.io/awesome-astra-3d/#case=kana-flower-shop) | KANA｜東京AI映像 / @KanaWorks_AI | [原始来源](https://x.com/KanaWorks_AI/status/2097153139795468365) |
+| [湿地湖畔：小屋、芦苇与野生动物](https://carpentry-liu.github.io/awesome-astra-3d/#case=givros-wetland) | Givros / @givros | [原始来源](https://x.com/givros/status/2097343467026289039) |
+| [书桌一角：Blender 工程与实时网页](https://carpentry-liu.github.io/awesome-astra-3d/#case=magicyan-room-studio) | magicyan418 | [演示](https://3-d-room-test.vercel.app) · [源码](https://github.com/magicyan418/3D-ROOM-TEST) · [原始来源](https://github.com/magicyan418/3D-ROOM-TEST) |
+| [祈年殿：Three.js 建筑展示](https://carpentry-liu.github.io/awesome-astra-3d/#case=goan-temple-heaven) | govin.eth \| G哥 / @goan999999 | [原始来源](https://x.com/goan999999/status/2097323734504017936) |
+| [同户型四种家装：Astra 与 Fable 对照](https://carpentry-liu.github.io/awesome-astra-3d/#case=hahaliu-house-styles) | hahaliu1029 | [演示](https://www.lyx666.cn/housegpt/?style=song) · [源码](https://github.com/hahaliu1029/house-3d/tree/main/gpt6) · [原始来源](https://github.com/hahaliu1029/house-3d) |
+| [Chess Cubed：六面立方体棋盘](https://carpentry-liu.github.io/awesome-astra-3d/#case=digitalml-chess-cubed) | digitalml | [演示](https://playchesscubed.com/) · [原始来源](https://www.reddit.com/r/codex/comments/1wbmthc/i_built_chess_cubed_with_gpt6_astra_in_4_days/) |
+| [巨龙短镜头：Blender Python 迭代](https://carpentry-liu.github.io/awesome-astra-3d/#case=doomdave-dragon) | Sarang Borude / @doomdave | [原始来源](https://x.com/doomdave/status/2096335588727349434) |
 <!-- atlas:latest:end -->
 
 [查看完整更新目录 →](UPDATES.md)
@@ -72,7 +72,7 @@
 <details>
 <summary>查看手机版欢迎页</summary>
 
-![手机端欢迎页，精选作品与资源导航](docs/media/expanded-mobile-2026-09-09.png)
+![手机端欢迎页，精选作品与资源导航](docs/media/welcome-mobile-2026-09-10.png)
 
 </details>
 

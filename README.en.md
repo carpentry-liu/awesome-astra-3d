@@ -13,12 +13,12 @@ Explore GPT-6 Astra in 3D: Blender, Three.js, WebGL, CAD, VRM and interactive ga
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-09-09 (Asia/Shanghai)** · **103 Astra examples** · **39 source / project links** · **47 demo links** · **41 complete videos** · **12 separate references**.
+Updated **2026-09-10 (Asia/Shanghai)** · **129 Astra examples** · **44 source / project links** · **55 demo links** · **58 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
-[![Astra 3D Atlas: featured work, resource shortcuts and the case gallery](docs/media/expanded-desktop-2026-09-09.png)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas: featured work, resource shortcuts and the case gallery](docs/media/welcome-desktop-2026-09-10.png)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-Actual website capture · September 9, 2026.
+Actual website capture · September 10, 2026.
 
 ## Choose a starting point
 
@@ -32,31 +32,31 @@ Actual website capture · September 9, 2026.
 
 ## New work, at a glance
 
-| Rhine Lab · interactive 3D archive | Sugarfall · editable Blender animation |
+| Little Flock · a sheep-farming world | Flower shop · exploded animation |
 | --- | --- |
-| [![Rhine Lab Analysis OS — LBEILC](https://raw.githubusercontent.com/LBEILC/RhineLabUI/main/docs/media/archive.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=lbeilc-rhine-lab) | [![Sugarfall Donut Studio — CwC-HydeX](https://raw.githubusercontent.com/CwC-HydeX/donut-studio/main/docs/images/frame-0170.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=cwc-sugarfall) |
-| Model X · existing asset, interactive explosion | Microduck · exploring existing CAD |
-| [![Model X Studio — ashe / @ashebytes](https://pbs.twimg.com/amplify_video_thumb/2096008340329627648/img/f7Gt3ww30PLWmsKK.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=ashe-model-x) | [![Microduck Assembly Lab — yishan / @tspy](https://pbs.twimg.com/amplify_video_thumb/2096233778113118208/img/9HOvR6k_Z10CchxV.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=tspy-microduck) |
-| Asteria · spaceship exploration | Gundam · four-view modeling experiment |
-| [![Asteria Spaceship Explorer — Weng Siong / @wengsiong22](https://pbs.twimg.com/amplify_video_thumb/2096941837160509440/img/M7XW_FFqqtoslpUW.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=wengsiong-asteria) | [![Gundam Four-view Modeling — 湖森堡AI_hooosberg](https://i0.hdslb.com/bfs/archive/d0dc78c2b41bc103f1637e567f016f902da1d019.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=hooosberg-gundam) |
+| [![Little Flock — songkeys](https://raw.githubusercontent.com/songkeys/little-flock/main/docs/demo-poster.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=songkeys-little-flock) | [![Japanese Flower Shop Exploded View — KANA｜東京AI映像 / @KanaWorks_AI](https://pbs.twimg.com/amplify_video_thumb/2097151136155553792/img/AuzVjF2Jxc14tJqt.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=kana-flower-shop) |
+| Wetland lake · scene workflow | Room Studio · offline Blender render |
+| [![Cozy Wetland Lake — Givros / @givros](https://pbs.twimg.com/amplify_video_thumb/2097343347895525376/img/7BqNRpeoZcou-Xtu.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=givros-wetland) | [![Room Studio — magicyan418](https://raw.githubusercontent.com/magicyan418/3D-ROOM-TEST/main/public/reference.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=magicyan-room-studio) |
+| Temple of Heaven · Three.js | Song-style interior · Fable left / Astra right |
+| [![Temple of Heaven in Three.js — govin.eth &#124; G哥 / @goan999999](https://pbs.twimg.com/amplify_video_thumb/2097323160601546752/img/2k2LggwN0cvh5mVI.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=goan-temple-heaven) | [![Four Interior Styles Comparison — hahaliu1029](https://raw.githubusercontent.com/hahaliu1029/house-3d/main/media/images/song-living-comparison.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=hahaliu-house-styles) |
 
-Open a preview for the case file and original source. Media remains hosted by its creators. Model X and Microduck use existing assets; Sugarfall is credited to CwC under CC BY 4.0. Other works retain their own licenses.
+Open a preview for the case file, full video and original source. Images link to creator-hosted media. Little Flock media is credited to Songkeys (CC BY 4.0); Room Studio shows an offline render; the interior comparison labels Fable on the left and Astra on the right.
 
 ## Latest additions
 
-This expansion adds **30 examples** across X, GitHub, Bilibili, Japanese creator articles and Reddit, including **14 complete X recordings**. Explore CAD assemblies, spaceship worlds, photogrammetry repair, VRM and Swift modeling. Collection dates are distinct from original publication dates.
+This update adds **26 examples** across X, GitHub, Reddit, Bilibili, Zenn and LINUX DO, plus **17 complete X recordings**. Explore sheep farming, exploded buildings, Roblox racing, interior comparisons and texture repair. The documented texture workflow is not counted as a downloadable source project. Collection dates remain separate from original publication dates.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [Rhine Lab Analysis OS](https://carpentry-liu.github.io/awesome-astra-3d/#case=lbeilc-rhine-lab) | LBEILC | [Demo](https://rhine-lab-ui.vercel.app) · [Source](https://github.com/LBEILC/RhineLabUI) · [Original](https://github.com/LBEILC/RhineLabUI) |
-| [Model X Studio](https://carpentry-liu.github.io/awesome-astra-3d/#case=ashe-model-x) | ashe / @ashebytes | [Demo](https://model-x-studio.vercel.app) · [Source](https://github.com/ashemag/model-x-studio) · [Original](https://x.com/ashebytes/status/2096009146248122416) |
-| [Microduck Assembly Lab](https://carpentry-liu.github.io/awesome-astra-3d/#case=tspy-microduck) | yishan / @tspy | [Demo](https://microduck-assembly-lab.yishan-lin.chatgpt.site/) · [Original](https://x.com/tspy/status/2096238855519453662) |
-| [Sugarfall Donut Studio](https://carpentry-liu.github.io/awesome-astra-3d/#case=cwc-sugarfall) | CwC-HydeX | [Source](https://github.com/CwC-HydeX/donut-studio) · [Original](https://github.com/CwC-HydeX/donut-studio) |
-| [Asteria Spaceship Explorer](https://carpentry-liu.github.io/awesome-astra-3d/#case=wengsiong-asteria) | Weng Siong / @wengsiong22 | [Demo](https://asteria.wengsiong22.workers.dev/) · [Original](https://x.com/wengsiong22/status/2096941914906144784) |
-| [Gundam Four-view Modeling](https://carpentry-liu.github.io/awesome-astra-3d/#case=hooosberg-gundam) | 湖森堡AI_hooosberg | [Original](https://www.bilibili.com/video/BV1sgt163Eu4/) |
-| [Aerial Photogrammetry Model Repair](https://carpentry-liu.github.io/awesome-astra-3d/#case=mang-aerial-repair) | 莽小石 | [Original](https://www.bilibili.com/video/BV1U9bW6sEw4/) |
-| [VRM Texturing and Rigging Workflow](https://carpentry-liu.github.io/awesome-astra-3d/#case=chimerast-vrm) | たけうちさん / chimerast | [Original](https://zenn.dev/chimerast/articles/0003b377d0e8ba) |
+| [Little Flock](https://carpentry-liu.github.io/awesome-astra-3d/#case=songkeys-little-flock) | songkeys | [Demo](https://sharpherd.song.work) · [Source](https://github.com/songkeys/little-flock) · [Original](https://github.com/songkeys/little-flock) |
+| [Japanese Flower Shop Exploded View](https://carpentry-liu.github.io/awesome-astra-3d/#case=kana-flower-shop) | KANA｜東京AI映像 / @KanaWorks_AI | [Original](https://x.com/KanaWorks_AI/status/2097153139795468365) |
+| [Cozy Wetland Lake](https://carpentry-liu.github.io/awesome-astra-3d/#case=givros-wetland) | Givros / @givros | [Original](https://x.com/givros/status/2097343467026289039) |
+| [Room Studio](https://carpentry-liu.github.io/awesome-astra-3d/#case=magicyan-room-studio) | magicyan418 | [Demo](https://3-d-room-test.vercel.app) · [Source](https://github.com/magicyan418/3D-ROOM-TEST) · [Original](https://github.com/magicyan418/3D-ROOM-TEST) |
+| [Temple of Heaven in Three.js](https://carpentry-liu.github.io/awesome-astra-3d/#case=goan-temple-heaven) | govin.eth \| G哥 / @goan999999 | [Original](https://x.com/goan999999/status/2097323734504017936) |
+| [Four Interior Styles Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=hahaliu-house-styles) | hahaliu1029 | [Demo](https://www.lyx666.cn/housegpt/?style=song) · [Source](https://github.com/hahaliu1029/house-3d/tree/main/gpt6) · [Original](https://github.com/hahaliu1029/house-3d) |
+| [Chess Cubed](https://carpentry-liu.github.io/awesome-astra-3d/#case=digitalml-chess-cubed) | digitalml | [Demo](https://playchesscubed.com/) · [Original](https://www.reddit.com/r/codex/comments/1wbmthc/i_built_chess_cubed_with_gpt6_astra_in_4_days/) |
+| [Dragon Cinematic in Blender](https://carpentry-liu.github.io/awesome-astra-3d/#case=doomdave-dragon) | Sarang Borude / @doomdave | [Original](https://x.com/doomdave/status/2096335588727349434) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md)
@@ -70,7 +70,7 @@ The interface is in Chinese; English project names, tools and creators are searc
 <details>
 <summary>Mobile welcome page</summary>
 
-![Mobile welcome page and resource navigation](docs/media/expanded-mobile-2026-09-09.png)
+![Mobile welcome page and resource navigation](docs/media/welcome-mobile-2026-09-10.png)
 
 </details>
 

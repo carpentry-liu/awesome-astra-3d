@@ -1,5 +1,5 @@
 {
-  "observedAt": "2026-09-09",
+  "observedAt": "2026-09-10",
   "officialSources": [
     "https://developers.openai.com/showcase/all",
     "https://developers.openai.com/api/docs/models/gpt-6-astra"
@@ -355,6 +355,111 @@
         {
           "source": "https://github.com/gokayfem/H3-Max-Blender",
           "reason": "Distinct H3 video-generation stage; this batch prioritizes clearly scoped geometry and interactive outputs."
+        }
+      ]
+    },
+    {
+      "observedAt": "2026-09-10",
+      "batch": "daily-curation-2026-09-10",
+      "addedCount": 26,
+      "caseIds": [
+        "songkeys-little-flock",
+        "kana-flower-shop",
+        "givros-wetland",
+        "magicyan-room-studio",
+        "goan-temple-heaven",
+        "hahaliu-house-styles",
+        "digitalml-chess-cubed",
+        "doomdave-dragon",
+        "taro-skyrim-village",
+        "givros-roblox-kart",
+        "badx-photo-building",
+        "yokohara-street-breakdown",
+        "lexn-verdant-forest",
+        "dilum-v8-engine",
+        "jake-rink-life",
+        "anshuc-afterlight",
+        "sharif-palace-fine-arts",
+        "chen-hangzhou",
+        "birdabo-singapore",
+        "danmana-piata-unirii",
+        "syaripin-tripo-texture",
+        "threapchills-magic-carpet",
+        "yo-tractor-animation",
+        "ehuilanse-hard-surface",
+        "teardownlab-wooden-crate",
+        "cxuan-lunar-base"
+      ],
+      "sources": [
+        "https://github.com/songkeys/little-flock",
+        "https://x.com/KanaWorks_AI/status/2097153139795468365",
+        "https://x.com/givros/status/2097343467026289039",
+        "https://github.com/magicyan418/3D-ROOM-TEST",
+        "https://x.com/goan999999/status/2097323734504017936",
+        "https://github.com/hahaliu1029/house-3d",
+        "https://www.reddit.com/r/codex/comments/1wbmthc/i_built_chess_cubed_with_gpt6_astra_in_4_days/",
+        "https://x.com/doomdave/status/2096335588727349434",
+        "https://x.com/TaroKichijo/status/2097167383576383502",
+        "https://x.com/givros/status/2096219700879331665",
+        "https://x.com/badxstudio/status/2095982983379653113",
+        "https://x.com/Yokohara_h/status/2096622171011666003",
+        "https://x.com/LexnLin/status/2096263046918197609",
+        "https://x.com/DilumSanjaya/status/2096280244663775423",
+        "https://x.com/JakeBoyles/status/2096983366327226501",
+        "https://x.com/anshuc/status/2096584624432374151",
+        "https://x.com/sharifshameem/status/2095653641164329143",
+        "https://x.com/NFT_Chen/status/2096143589151756638",
+        "https://x.com/birdabo/status/2096156461365960837",
+        "https://x.com/danmana/status/2096262733259837681",
+        "https://github.com/syaripin-i8i/blender-astra-texture-guide",
+        "https://github.com/threapchills/MagicCarpetWizard",
+        "https://www.reddit.com/r/codex/comments/1wb8wgr/gpt6_astra_max_spent_7_hours_building_a_fully/",
+        "https://www.bilibili.com/video/BV1xJbx64EYy/",
+        "https://zenn.dev/teardownlab/articles/2026-09-06-codex-blender-mcp",
+        "https://linux.do/t/topic/2881369"
+      ],
+      "discoverySources": [
+        "https://github.com/magiccreator-ai/awesome-gpt-6-astra",
+        "https://github.com/TripoGrowthLab/awesome-astra-prompts"
+      ],
+      "method": "Multi-platform web searches plus original GitHub READMEs, repository descriptions and file trees; exact-ID FxTwitter mirrors; Reddit posts and author replies; Bilibili public metadata; Zenn author article; LINUX DO search-index text. No independent reproduction.",
+      "notes": [
+        "16 X-led, 5 GitHub-led, 2 Reddit, 1 Bilibili, 1 Zenn and 1 LINUX DO record.",
+        "17 complete X recordings include the GitHub-led Little Flock trailer; each keeps highest-bitrate source and a complete playback rendition.",
+        "YouTube, Qiita and creator blogs were searched but no additional non-duplicate verified case selected in this batch.",
+        "The Tripo texture guide is a documented experiment, not a downloadable model or implementation; repositoryUrl remains null.",
+        "Little Flock trailer uses staged in-engine action; comparison images retain model attribution; 55 seconds applies only to the wooden-crate creation log.",
+        "Xiaohongshu remains excluded under the explicit user revocation recorded on 2026-09-09. No visits, data collection or social posting.",
+        "Unknown publication dates remain null; today is the collection date, not a claim that all works were published today."
+      ],
+      "excluded": [
+        {
+          "source": "https://x.com/carlos_olivera/status/2097313247116341424",
+          "reason": "Challenge and input images, without a retrieved result."
+        },
+        {
+          "source": "https://github.com/BojanSof/echo-maze",
+          "reason": "Retrieved README did not establish Astra attribution."
+        },
+        {
+          "source": "https://github.com/buicongnguyen/3d_astra",
+          "reason": "Repository name and search keywords alone do not establish author creation attribution."
+        },
+        {
+          "source": "https://www.bilibili.com/video/BV144bE6BE56/",
+          "reason": "Same Hangzhou work as the original X post; do not count a second case."
+        },
+        {
+          "source": "https://www.bilibili.com/video/BV19Ubx6iENy/",
+          "reason": "General author reflections without a sufficiently specific new result in retrieved metadata."
+        },
+        {
+          "source": "https://www.bilibili.com/video/BV1c8bA6HErx/",
+          "reason": "Insufficient description to establish a distinct Astra result."
+        },
+        {
+          "source": "https://vagon.io/blog/reference-image-to-3d-scene-with-gpt-6-astra-blender",
+          "reason": "General workflow tutorial; not counted as a separate concrete author work."
         }
       ]
     }

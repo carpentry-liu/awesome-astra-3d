@@ -13,6 +13,7 @@ export const metadata: Metadata = {
     canonical: 'https://carpentry-liu.github.io/awesome-astra-3d/',
   },
   robots: { index: true, follow: true },
+  icons: { icon: './favicon.svg' },
 };
 export default function RootLayout({
   children,

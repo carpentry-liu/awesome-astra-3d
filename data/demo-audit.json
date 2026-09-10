@@ -1,6 +1,6 @@
 {
-  "observedAt": "2026-09-09",
-  "method": "HTTP GET plus page-title and final-URL checks. No independent gameplay or hardware compatibility test. Explicit shutdown notice checked for Elderwood; it is excluded from the current demo count.",
+  "observedAt": "2026-09-10",
+  "method": "HTTP GET plus page-title and final-URL checks. No independent gameplay or hardware compatibility test.",
   "results": [
     {
       "id": "openai-sunwake",
@@ -8,7 +8,71 @@
       "status": 200,
       "title": "SUNWAKE — The Last Light",
       "finalUrl": "https://sunwake-the-last-light.openai.chatgpt.site/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
+    },
+    {
+      "id": "songkeys-little-flock",
+      "url": "https://sharpherd.song.work",
+      "status": 200,
+      "title": "小羊慢慢 · Little Flock",
+      "finalUrl": "https://sharpherd.song.work",
+      "observedAt": "2026-09-10"
+    },
+    {
+      "id": "magicyan-room-studio",
+      "url": "https://3-d-room-test.vercel.app",
+      "status": 200,
+      "title": "书桌一角 · Room Studio",
+      "finalUrl": "https://3-d-room-test.vercel.app",
+      "observedAt": "2026-09-10"
+    },
+    {
+      "id": "hahaliu-house-styles",
+      "url": "https://www.lyx666.cn/housegpt/?style=song",
+      "status": 200,
+      "title": "MAISON · 双风格家装",
+      "finalUrl": "https://www.lyx666.cn/housegpt/?style=song",
+      "observedAt": "2026-09-10"
+    },
+    {
+      "id": "digitalml-chess-cubed",
+      "url": "https://playchesscubed.com/",
+      "status": 200,
+      "title": "Chess Cubed — Think in All Directions",
+      "finalUrl": "https://playchesscubed.com/",
+      "observedAt": "2026-09-10"
+    },
+    {
+      "id": "lexn-verdant-forest",
+      "url": "https://verdant-forest.lexn8.chatgpt.site",
+      "status": 200,
+      "title": "Verdant Forest",
+      "finalUrl": "https://verdant-forest.lexn8.chatgpt.site",
+      "observedAt": "2026-09-10"
+    },
+    {
+      "id": "jake-rink-life",
+      "url": "https://vyrld.com/w/rink-life",
+      "status": 200,
+      "title": "Rink Life — VYRLD",
+      "finalUrl": "https://vyrld.com/w/rink-life",
+      "observedAt": "2026-09-10"
+    },
+    {
+      "id": "danmana-piata-unirii",
+      "url": "https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/",
+      "status": 200,
+      "title": "Piața Unirii — A living miniature",
+      "finalUrl": "https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/",
+      "observedAt": "2026-09-10"
+    },
+    {
+      "id": "threapchills-magic-carpet",
+      "url": "https://threapchills.github.io/MagicCarpetWizard/",
+      "status": 200,
+      "title": "Magic Carpet Wizard · A Thousand Skies",
+      "finalUrl": "https://threapchills.github.io/MagicCarpetWizard/",
+      "observedAt": "2026-09-10"
     },
     {
       "id": "lbeilc-rhine-lab",
@@ -16,7 +80,7 @@
       "status": 200,
       "title": "RHINE LAB · ANALYSIS OS",
       "finalUrl": "https://rhine-lab-ui.vercel.app",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "ashe-model-x",
@@ -24,7 +88,7 @@
       "status": 200,
       "title": "Model X Studio",
       "finalUrl": "https://model-x-studio.vercel.app",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "tspy-microduck",
@@ -32,7 +96,7 @@
       "status": 200,
       "title": "Microduck · 3D Assembly Lab",
       "finalUrl": "https://microduck-assembly-lab.yishan-lin.chatgpt.site/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "wengsiong-asteria",
@@ -40,7 +104,7 @@
       "status": 200,
       "title": "Asteria — Starship Explorer",
       "finalUrl": "https://asteria.wengsiong22.workers.dev/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "op7418-moonlit-forge",
@@ -48,7 +112,7 @@
       "status": 200,
       "title": "Moonlit Forge",
       "finalUrl": "https://moonlit-forge-studio.op7418.chatgpt.site",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "ashe-human-atlas",
@@ -56,7 +120,7 @@
       "status": 200,
       "title": "Human Atlas",
       "finalUrl": "https://human-atlas-seven.vercel.app",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "shinboson-clouds",
@@ -64,7 +128,7 @@
       "status": 200,
       "title": "Clouds. — An interactive atmosphere",
       "finalUrl": "https://clouds-in-motion.pages.dev",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "mollick-zork-3d",
@@ -72,17 +136,7 @@
       "status": 200,
       "title": "Zork · The Great Underground Empire",
       "finalUrl": "https://zork-underground-empire.netlify.app/",
-      "observedAt": "2026-09-09"
-    },
-    {
-      "id": "rohan-elderwood",
-      "url": "https://elderwood-realms.rohannvarma.chatgpt.site/",
-      "status": 200,
-      "title": "Elderwood | Thank you for the adventure",
-      "finalUrl": "https://elderwood-realms.rohannvarma.chatgpt.site/",
-      "observedAt": "2026-09-09",
-      "availability": "closed",
-      "note": "Author page explicitly states the game has closed. Removed from demo links; HTTP 200 is a shutdown notice."
+      "observedAt": "2026-09-10"
     },
     {
       "id": "derya-brandenburg-piano",
@@ -90,7 +144,7 @@
       "status": 200,
       "title": "Brandenburg Piano — J. S. Bach",
       "finalUrl": "https://brandenburg-piano.vercel.app/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "akshdeep-earth-history",
@@ -98,7 +152,7 @@
       "status": 200,
       "title": "EARTH — The making of home",
       "finalUrl": "https://earth.ethanplus.ai/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "benikigai-worldkinetics",
@@ -106,7 +160,7 @@
       "status": 200,
       "title": "Cabinet handle | WorldKinetics",
       "finalUrl": "https://worldkinetics.app/workspace/?mode=handle-demo",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "mizchi-traveler-walk",
@@ -114,7 +168,7 @@
       "status": 200,
       "title": "Model Studio · GLB Viewer",
       "finalUrl": "https://mizchi.github.io/modeling-playground/?model=traveler-walk",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "anionex-grand-atelier",
@@ -122,7 +176,7 @@
       "status": 200,
       "title": "Grand Atelier | A world of resonance",
       "finalUrl": "https://piano.anionex.me/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "rising-bianjing-scroll",
@@ -130,7 +184,7 @@
       "status": 200,
       "title": "入画·汴京 — 清明上河图三维漫游",
       "finalUrl": "https://rising1234sun.github.io/qingmingshanghetu/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "openai-living-cell",
@@ -138,7 +192,7 @@
       "status": 200,
       "title": "Life on the inside — Micro Atlas",
       "finalUrl": "https://living-cell-astra.openai.chatgpt.site/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "astra-orbital-dashboard-ai-kai",
@@ -146,7 +200,7 @@
       "status": 200,
       "title": "Global View - Orbital Logistics",
       "finalUrl": "https://hqman.me/demo/gpt-6-astra-3d-globe/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "openai-courtyard-house",
@@ -154,7 +208,7 @@
       "status": 200,
       "title": "Courtyard House — Alder Practice",
       "finalUrl": "https://alder-courtyard-house.openai.chatgpt.site/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "openai-stop-motion-desk",
@@ -162,7 +216,7 @@
       "status": 200,
       "title": "Stop-Motion Desk",
       "finalUrl": "https://stop-motion-desk.openai.chatgpt.site/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "openai-void-explorer",
@@ -170,7 +224,7 @@
       "status": 200,
       "title": "VOID EXPLORER",
       "finalUrl": "https://void-explorer.openai.chatgpt.site/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "openai-clockwork-observatory",
@@ -178,7 +232,7 @@
       "status": 200,
       "title": "The Ninth Meridian — An Impossible Observatory",
       "finalUrl": "https://kinetic-architecture-astra.openai.chatgpt.site/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "openai-physics-museum",
@@ -186,7 +240,7 @@
       "status": 200,
       "title": "Physics museum",
       "finalUrl": "https://astra-museum-of-motion.openai.chatgpt.site/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "openai-architecture-studio",
@@ -194,7 +248,7 @@
       "status": 200,
       "title": "Architecture Studio",
       "finalUrl": "https://architecture-studio.openai.chatgpt.site/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "openai-abyssal",
@@ -202,7 +256,7 @@
       "status": 200,
       "title": "Abyssal — The living deep",
       "finalUrl": "https://abyssal-ecosystem-astra.openai.chatgpt.site/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "openai-little-ritual",
@@ -210,7 +264,7 @@
       "status": 200,
       "title": "Little Ritual — coffee for a little world",
       "finalUrl": "https://little-ritual.openai.chatgpt.site/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "openai-velocity-loop",
@@ -218,7 +272,7 @@
       "status": 200,
       "title": "Velocity Loop",
       "finalUrl": "https://velocity-loop.openai.chatgpt.site/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "peter-van-gogh-town",
@@ -226,7 +280,7 @@
       "status": 200,
       "title": "A town made of paint",
       "finalUrl": "https://van-goghs-town.surge.sh/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "peter-gogh-strike",
@@ -234,7 +288,7 @@
       "status": 200,
       "title": "Gogh Strike · Paint Clash",
       "finalUrl": "https://gogh-strike.petergostev.chatgpt.site/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "manu-gbasp-portfolio",
@@ -242,7 +296,7 @@
       "status": 200,
       "title": "Manu.Vision — SP Edition",
       "finalUrl": "https://manu.vision/gb/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "mollick-living-ocean",
@@ -250,7 +304,7 @@
       "status": 200,
       "title": "ABYSSAL — The Living Deep",
       "finalUrl": "https://abyssal-living-deep.netlify.app/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "alesha-voidbound-slasher",
@@ -258,7 +312,7 @@
       "status": 200,
       "title": "VOIDBOUND — The Choir of Ash",
       "finalUrl": "https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "alesha-antigravity-racer",
@@ -266,7 +320,7 @@
       "status": 200,
       "title": "VOIDRUNNER — Orbital Combat League",
       "finalUrl": "https://alesha-pro.github.io/bench-portal/games/voidrunner-astra/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "ruofeng-orbital-core",
@@ -274,7 +328,7 @@
       "status": 200,
       "title": "ORBITAL CORE / 01",
       "finalUrl": "https://orbital-core-showcase.wangruofeng007.workers.dev/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "danmana-cluj-voxel",
@@ -282,7 +336,7 @@
       "status": 200,
       "title": "Piața Unirii — A living miniature",
       "finalUrl": "https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/index.html",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "majid-kaiju-city",
@@ -290,7 +344,7 @@
       "status": 200,
       "title": "Storm Colossus: Cityfall — Play in Your Browser",
       "finalUrl": "https://stormcolossus.netlify.app/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "leo-surface-insect",
@@ -298,7 +352,7 @@
       "status": 200,
       "title": "微小共生 · A little closer",
       "finalUrl": "https://threerocks.github.io/web-3d-pages/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "ayi-mosswing",
@@ -306,7 +360,7 @@
       "status": 200,
       "title": "Mosswing — Small wings. Endless wonder.",
       "finalUrl": "https://mosswing-quiet-flight.jack-514.chatgpt.site/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "scottstts-jelly-baby",
@@ -314,7 +368,7 @@
       "status": 200,
       "title": "Jelly Baby",
       "finalUrl": "https://jelly.scottsun.io/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "synabreu-seoul-atlas",
@@ -322,7 +376,7 @@
       "status": 200,
       "title": "SEOUL · 서울 3D Atlas v1.9",
       "finalUrl": "https://seoul-3d-atlas.synabreu.chatgpt.site/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "cristian-hullscope",
@@ -330,7 +384,7 @@
       "status": 200,
       "title": "Hullscope — The world's ships, inside and out",
       "finalUrl": "https://hullscope.cristianexer.dev/Hullscope/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "olivia-alpine-atlas",
@@ -338,7 +392,7 @@
       "status": 200,
       "title": "Alpine Atlas — Zermatt",
       "finalUrl": "https://zermatt-mountain-atlas.oliviameng.chatgpt.site/?scene=reconstruction&view=matterhorn",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "alesha-breach-blacksite",
@@ -346,7 +400,7 @@
       "status": 200,
       "title": "BREACH — Blacksite",
       "finalUrl": "https://alesha-pro.github.io/bench-portal/games/breach-blacksite-astra/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "alesha-rig-3090",
@@ -354,7 +408,7 @@
       "status": 200,
       "title": "RIG / 3090 — Power in every detail",
       "finalUrl": "https://alesha-pro.github.io/bench-portal/games/rig-3090-astra/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "victoria-belugaxl-explorer",
@@ -362,7 +416,7 @@
       "status": 200,
       "title": "BelugaXL · Aircraft Explorer",
       "finalUrl": "https://victoria.dev/belugaxl-explorer/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "yuanyang-softie-webgpu",
@@ -370,7 +424,7 @@
       "status": 200,
       "title": "softie · 软乎乎。",
       "finalUrl": "https://softie.520ai.site",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "cristian-inside-lloyds",
@@ -378,7 +432,7 @@
       "status": 200,
       "title": "Inside Lloyd’s — An architectural exploration",
       "finalUrl": "https://lloyds.cristianexer.dev/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     },
     {
       "id": "kjlkurt-splashline",
@@ -386,7 +440,7 @@
       "status": 200,
       "title": "Splashline — Catch the current",
       "finalUrl": "https://kjlkurt.github.io/waterslide-game-astra/",
-      "observedAt": "2026-09-09"
+      "observedAt": "2026-09-10"
     }
   ]
 }

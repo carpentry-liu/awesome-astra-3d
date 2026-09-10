@@ -6,22 +6,22 @@ import { type Case } from '@/src/catalog';
 
 const spotlights = [
   {
-    id: 'lbeilc-rhine-lab',
-    name: 'RHINE LAB',
-    subtitle: '抽取一份档案，探索玻璃之下的结构',
+    id: 'songkeys-little-flock',
+    name: 'LITTLE FLOCK',
+    subtitle: '走进山谷，建造小屋，照顾你的羊群',
     label: '01 / 今日新收录',
   },
   {
-    id: 'wengsiong-asteria',
-    name: 'ASTERIA',
-    subtitle: '走进飞船，透过舷窗探索太阳系',
-    label: '02 / 交互游戏',
+    id: 'kana-flower-shop',
+    name: 'FLOWER SHOP',
+    subtitle: '展开街角花店，看清每个部件如何组合',
+    label: '02 / 拆解动画',
   },
   {
-    id: 'tspy-microduck',
-    name: 'MICRODUCK',
-    subtitle: '从已有 CAD，走进机器人的装配结构',
-    label: '03 / 交互拆解',
+    id: 'givros-wetland',
+    name: 'WETLAND LAKE',
+    subtitle: '从湖畔小屋，到芦苇与野生动物的世界',
+    label: '03 / 自然场景',
   },
 ];
 
