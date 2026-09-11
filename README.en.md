@@ -28,7 +28,7 @@ Open a preview for the complete recording, workflow and original source. Images 
 
 ## Live website preview
 
-[![Astra 3D Atlas live homepage](docs/media/homepage-live-2026-09-11.png)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas live homepage](docs/media/homepage-live-2026-09-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
 Captured from the published website on September 11, 2026. Click to explore the gallery.
 
@@ -70,9 +70,9 @@ The interface is in Chinese; English project names, tools and creators are searc
 <details>
 <summary>Gallery and mobile screenshots · September 11, 2026</summary>
 
-[![Latest examples and category sidebar](docs/media/collection-live-2026-09-11.png)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![Latest examples and category sidebar](docs/media/collection-live-2026-09-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![Mobile welcome page and resource navigation](docs/media/mobile-live-2026-09-11.png)
+![Mobile welcome page and resource navigation](docs/media/mobile-live-2026-09-11.jpg)
 
 </details>
 

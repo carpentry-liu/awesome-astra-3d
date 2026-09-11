@@ -28,7 +28,7 @@
 
 ## 网站实拍
 
-[![Astra 3D Atlas 正式网站首页](docs/media/homepage-live-2026-09-11.png)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 正式网站首页](docs/media/homepage-live-2026-09-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
 正式网站实拍 · 2026-09-11。点击图片进入案例库。
 
@@ -72,9 +72,9 @@
 <details>
 <summary>查看案例区与手机实拍 · 2026-09-11</summary>
 
-[![最新案例与分类侧栏](docs/media/collection-live-2026-09-11.png)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![最新案例与分类侧栏](docs/media/collection-live-2026-09-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端欢迎页，精选作品与资源导航](docs/media/mobile-live-2026-09-11.png)
+![手机端欢迎页，精选作品与资源导航](docs/media/mobile-live-2026-09-11.jpg)
 
 </details>
 

@@ -4,9 +4,9 @@
 
 | 图片 | 内容 | 页面状态 |
 | --- | --- | --- |
-| `homepage-live-2026-09-11.png` | 正式网站首页；README 默认展开显示 | 1440 × 1100，GitHub Pages |
-| `collection-live-2026-09-11.png` | 正式网站最新案例、侧栏与大图列表 | 1440 × 1100，GitHub Pages |
-| `mobile-live-2026-09-11.png` | 正式网站手机首页 | 390 × 844，GitHub Pages |
+| `homepage-live-2026-09-11.jpg` | 正式网站首页；README 默认展开显示 | 1440 × 1100，GitHub Pages |
+| `collection-live-2026-09-11.jpg` | 正式网站最新案例、侧栏与大图列表 | 1440 × 1100，GitHub Pages |
+| `mobile-live-2026-09-11.jpg` | 正式网站手机首页 | 390 × 844，GitHub Pages |
 | `welcome-desktop-2026-09-11.png` | 三件精选同时展示、135 个案例、44 个源码／工程、55 个演示和 66 个完整视频 | 1440 × 1100，最新收录顺序 |
 | `welcome-mobile-2026-09-11.png` | 单列精选与直接探索入口 | 390 × 844 |
 | `latest-cases-2026-09-11.png` | 工作室、Houdini、积木天气、鞋楦、立方体城市与塔林；左侧分类和来源 | 1440 × 1100，最新收录顺序 |
