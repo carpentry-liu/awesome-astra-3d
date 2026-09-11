@@ -501,6 +501,68 @@
           "reason": "Tractor already included; a later comment date does not make a new example."
         }
       ]
+    },
+    {
+      "observedAt": "2026-09-11",
+      "batch": "complete-refresh-2026-09-11-evening",
+      "addedCount": 15,
+      "caseIds": [
+        "realsee-editable-space",
+        "xinz-xianlin-campus",
+        "nick-op1-houdini",
+        "linfeng-robot-kitchen",
+        "miya-komorebi-market",
+        "rshhad-backrooms",
+        "gokay-neural-rendering",
+        "cyjj-kicad-board",
+        "sayan-genesis-atlas",
+        "yuntian-coin-avatar",
+        "luijait-vayne-hacker",
+        "enactra-madison-park",
+        "evgeny-ligand-animation",
+        "gostev-fluid-concepts",
+        "spenser-panthera-splat"
+      ],
+      "sources": [
+        "https://github.com/realsee-developer/realsee-astra-blender",
+        "https://github.com/super-xinz/nju-xianlin-campus-3d",
+        "https://x.com/_nscr/status/2097744564073218443",
+        "https://x.com/LinfengZhaoZLF/status/2097740382511800768",
+        "https://x.com/miya00907380/status/2097807257639748070",
+        "https://x.com/aaassa120/status/2097794770357866504",
+        "https://github.com/gokayfem/H3-Max-Blender",
+        "https://github.com/cyjjjj-21/gpt6-astra-kicad-blind-routing",
+        "https://github.com/sayanpersonal123/AI-learning",
+        "https://x.com/yuntiandeng/status/2097805500859519088",
+        "https://x.com/luijait_/status/2097722384224563453",
+        "https://x.com/EnactraAI/status/2097777259382018088",
+        "https://x.com/EvgenyKirilin/status/2097758340105506917",
+        "https://x.com/petergostev/status/2097801248099479576",
+        "https://x.com/SpenserFX/status/2097744080725774568"
+      ],
+      "method": "Broad web and GitHub discovery, author README and release assets, exact-ID X mirrors, deduplication against 147 existing records. Bounded HTTP checks of existing images, projects, demos and archived videos.",
+      "notes": [
+        "10 original X works and 5 GitHub projects; nine complete X clips with original and playback renditions.",
+        "Original X timestamps are September 9 UTC (September 10 in Shanghai), not today; collection dates remain separate.",
+        "H3, imagegen, existing robot and game assets, KiCad libraries, and Joanna Kobierska artwork retain explicit attribution.",
+        "Five broken official image URLs resolved using current official HTML; three Reddit image restrictions are not interpreted as deletion.",
+        "H3-Max-Blender was deferred in an earlier batch; now included with explicitly bounded script versus video-generation roles.",
+        "No Xiaohongshu access, social posting, or independent scientific/engineering validation."
+      ],
+      "excluded": [
+        {
+          "source": "https://github.com/zhx8702/port-meridian",
+          "reason": "Retrieved description identifies GPT-6 without an explicit Astra attribution."
+        },
+        {
+          "source": "https://github.com/bitofastickler/one-prompt-two-worlds",
+          "reason": "Retrieved results do not establish a 3D output; not added for volume."
+        },
+        {
+          "source": "https://github.com/thebuggeddev/wright-flyer",
+          "reason": "Public material lacks a verified, attributable result image or live preview in this review."
+        }
+      ]
     }
   ]
 }

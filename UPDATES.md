@@ -2,10 +2,25 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
-## 2026-09-11 · 6 个案例
+## 2026-09-11 · 21 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
+| [Realsee：实景扫描到可编辑空间 / Realsee to Editable Blender Space](https://carpentry-liu.github.io/awesome-astra-3d/#case=realsee-editable-space) | realsee-developer | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [仙林校园：Blender 漫游与建筑摄影 / NJU Xianlin Campus in Blender](https://carpentry-liu.github.io/awesome-astra-3d/#case=xinz-xianlin-campus) | super-xinz | 源码 / 工程 |
+| [OP-1 Field：Houdini 产品建模练习 / OP-1 Field in Houdini](https://carpentry-liu.github.io/awesome-astra-3d/#case=nick-op1-houdini) | Nick Scarcella / @_nscr | 作者展示 |
+| [机器人厨房：手机录像到 MuJoCo 场景 / Interactive Robot Kitchen](https://carpentry-liu.github.io/awesome-astra-3d/#case=linfeng-robot-kitchen) | Linfeng Zhao / @LinfengZhaoZLF | 完整视频 |
+| [こもれび市場：从参考图走进三维街市 / Komorebi Market Walk](https://carpentry-liu.github.io/awesome-astra-3d/#case=miya-komorebi-market) | miya / @miya00907380 | 完整视频 |
+| [Backrooms：Blender 后室与 VHS 效果 / Backrooms in Blender](https://carpentry-liu.github.io/awesome-astra-3d/#case=rshhad-backrooms) | Rshhad / @aaassa120 | 完整视频 |
+| [神经渲染：Blender 几何与 H3 风格预览 / Blender Geometry and H3 Style Previews](https://carpentry-liu.github.io/awesome-astra-3d/#case=gokay-neural-rendering) | gokayfem | 源码 / 工程 |
+| [KiCad：独立布局后的原生三维预览 / KiCad PCB Layout and Native 3D View](https://carpentry-liu.github.io/awesome-astra-3d/#case=cyjj-kicad-board) | cyjjjj-21 | 源码 / 工程 |
+| [GENESIS：可旋转的 AI 概念图谱 / GENESIS AI Atlas](https://carpentry-liu.github.io/awesome-astra-3d/#case=sayan-genesis-atlas) | sayanpersonal123 | 源码 / 工程 · 演示入口 |
+| [关节化头像：在手指间滚动硬币 / Articulated Avatar Coin Roll](https://carpentry-liu.github.io/awesome-astra-3d/#case=yuntian-coin-avatar) | Yuntian Deng / @yuntiandeng | 完整视频 |
+| [Vayne Hacker：自定义皮肤与实机动画 / Vayne Hacker Custom Skin](https://carpentry-liu.github.io/awesome-astra-3d/#case=luijait-vayne-hacker) | 0x6c75696a616974 / @luijait_ | 完整视频 |
+| [Madison Square Park：Unreal 场景对照 / Madison Square Park in Unreal Engine](https://carpentry-liu.github.io/awesome-astra-3d/#case=enactra-madison-park) | Enactra AI / @EnactraAI | 完整视频 |
+| [配体变换：Blender 分子概念动画 / Ligand Transformation Visualization](https://carpentry-liu.github.io/awesome-astra-3d/#case=evgeny-ligand-animation) | Evgeny Kirilin / @EvgenyKirilin | 完整视频 |
+| [Navier–Stokes：论文概念的三维表现 / Navier–Stokes Concept Visualization](https://carpentry-liu.github.io/awesome-astra-3d/#case=gostev-fluid-concepts) | Peter Gostev / @petergostev | 演示入口 · 完整视频 |
+| [Panthera：既有资产到 Gaussian Splat / Panthera Spelaea to Gaussian Splat](https://carpentry-liu.github.io/awesome-astra-3d/#case=spenser-panthera-splat) | Spenser Dickerson / @SpenserFX | 演示入口 · 完整视频 |
 | [9 张照片到工作室：空间重建与交互 / Studio from Nine Photos](https://carpentry-liu.github.io/awesome-astra-3d/#case=nickson-studio-photos) | Roberto Nickson / @rpnickson | 完整视频 |
 | [Houdini：程序化建模、灯光与动画 / Procedural Modeling in Houdini](https://carpentry-liu.github.io/awesome-astra-3d/#case=yokohara-houdini) | Hirokazu Yokohara / @Yokohara_h | 完整视频 |
 | [积木天气：汽车球赛的风格改造 / Brick Weather Car Soccer](https://carpentry-liu.github.io/awesome-astra-3d/#case=jannn-brick-weather) | Jan / @CreatedByJannn | 完整视频 |

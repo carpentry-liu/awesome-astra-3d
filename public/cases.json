@@ -79,6 +79,770 @@
     "addedAt": "2026-09-06"
   },
   {
+    "id": "realsee-editable-space",
+    "title": "Realsee：实景扫描到可编辑空间",
+    "titleEn": "Realsee to Editable Blender Space",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "realsee-developer",
+    "sourceUrl": "https://github.com/realsee-developer/realsee-astra-blender",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-11",
+    "addedAt": "2026-09-11",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "读取作者 README、文件树与相关材料说明；未在本地重新运行工程。",
+    "summary": "以 Realsee 导出资料为参考，让 Astra 在本地运行 Blender，重建墙、地板、天花、门窗和房间连接。作者公开可编辑工程、85 秒漫游及 GLB 查看器；完整原始扫描留在本地，公开版经过筛选。脚本针对该空间，需要结合自己的资料调整。",
+    "outputType": [
+      "Blender 工程",
+      "GLB 预览",
+      "空间重建脚本",
+      "公开提示词"
+    ],
+    "promptAvailability": "公开快速开始与详细提示词",
+    "promptExcerpt": null,
+    "promptSummary": "先建立连贯且可编辑的建筑空间，再逐步加入物品；用自己的扫描资料调整任务。",
+    "promptUrl": "https://github.com/realsee-developer/realsee-astra-blender/blob/main/prompts/quickstart.en.md",
+    "imageUrl": "https://raw.githubusercontent.com/realsee-developer/realsee-astra-blender/main/docs/assets/plan.png",
+    "imageKind": "render",
+    "imageCaption": "作者公开的 Blender 原生场景俯视渲染；用于展示重建几何，不使用扫描参考拼图作为模型封面。",
+    "demoUrl": "https://realsee-developer.github.io/realsee-astra-blender/",
+    "videoUrl": "https://github.com/realsee-developer/realsee-astra-blender/blob/main/artifacts/reconstruction_roaming.mp4",
+    "repositoryUrl": "https://github.com/realsee-developer/realsee-astra-blender",
+    "evidenceUrls": [
+      "https://github.com/realsee-developer/realsee-astra-blender",
+      "https://github.com/realsee-developer/realsee-astra-blender/blob/main/docs/releases.en.md",
+      "https://github.com/realsee-developer/realsee-astra-blender/blob/main/docs/data-and-license.en.md"
+    ],
+    "licenseNotes": "代码、提示词及原创文档 MIT；案例预览获准公开展示，模型、纹理及第三方材料按 artifacts/NOTICE.txt 和各来源许可，不统一标为 MIT。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "xinz-xianlin-campus",
+    "title": "仙林校园：Blender 漫游与建筑摄影",
+    "titleEn": "NJU Xianlin Campus in Blender",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "super-xinz",
+    "sourceUrl": "https://github.com/super-xinz/nju-xianlin-campus-3d",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-11",
+    "addedAt": "2026-09-11",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "读取作者 README、文件树与相关材料说明；未在本地重新运行工程。",
+    "summary": "作者用 GPT-6 Astra 辅助迭代仙林校园的建模、材质与镜头，公开 Blender 4.5 工程、38 秒漫游及八张高清渲染。建筑与植被采用近似布局；这是非官方外观展示。公开拍摄脚本使用已完成模型，不从零重建校园。",
+    "outputType": [
+      "Blender 工程",
+      "校园漫游",
+      "高清渲染"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://raw.githubusercontent.com/super-xinz/nju-xianlin-campus-3d/main/photos/03-%E6%9D%9C%E5%8E%A6%E6%B0%B4%E5%B2%B8.jpg",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者仓库公开的作品画面。",
+    "demoUrl": null,
+    "videoUrl": "https://github.com/super-xinz/nju-xianlin-campus-3d/releases/download/v5.2/xianlin-campus-film-v5.2.mp4",
+    "repositoryUrl": "https://github.com/super-xinz/nju-xianlin-campus-3d",
+    "evidenceUrls": [
+      "https://github.com/super-xinz/nju-xianlin-campus-3d",
+      "https://github.com/super-xinz/nju-xianlin-campus-3d/releases/tag/v5.2"
+    ],
+    "licenseNotes": "非官方校园作品。布局资料署名 © OpenStreetMap contributors，地理数据按 ODbL 1.0；字体许可另列。仓库未对全部模型和影像统一授予开源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "nick-op1-houdini",
+    "title": "OP-1 Field：Houdini 产品建模练习",
+    "titleEn": "OP-1 Field in Houdini",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Nick Scarcella / @_nscr",
+    "sourceUrl": "https://x.com/_nscr/status/2097744564073218443",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-11",
+    "addedAt": "2026-09-11",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。",
+    "summary": "Nick Scarcella 使用参考图，让 Astra 通过 MCP 在 Houdini 中建立并渲染 OP-1 Field。作者将其定位为建模和贴图练习，明确承认仍有问题；当前核到五张附图，未取得其预告的完整场景工程。",
+    "outputType": [
+      "Houdini 产品建模",
+      "材质与渲染"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/media/HRyqTjEaEAAOKhq.jpg?name=orig",
+    "imageKind": "author-screenshot",
+    "imageCaption": "同一作者回复中的 3840×2160 Houdini 渲染图。实际建模软件为 Houdini。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/_nscr/status/2097744564073218443",
+      "https://api.fxtwitter.com/status/2097744564073218443",
+      "https://x.com/_nscr/status/2097744568049435115",
+      "https://api.fxtwitter.com/status/2097744568049435115"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "linfeng-robot-kitchen",
+    "title": "机器人厨房：手机录像到 MuJoCo 场景",
+    "titleEn": "Interactive Robot Kitchen",
+    "group": "astra",
+    "category": "交互与工具",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Linfeng Zhao / @LinfengZhaoZLF",
+    "sourceUrl": "https://x.com/LinfengZhaoZLF/status/2097740382511800768",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-11",
+    "addedAt": "2026-09-11",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Linfeng Zhao 把实验室厨房的手机录像交给 Astra，经多次迭代得到带活动抽屉的三维空间，再由 MuJoCo 运行物理、网页提供开关抽屉交互。场景放入既有 mobile ALOHA 机器人；原帖中的 Retriever 入口不是该厨房的独立演示。",
+    "outputType": [
+      "MuJoCo 场景",
+      "照片录像参考",
+      "网页交互"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097656955351547904/img/agwXHBaNXy814rkT.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整视频及最高码率下载；各制作阶段分别标注。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/LinfengZhaoZLF/status/2097740382511800768",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/LinfengZhaoZLF/status/2097740382511800768",
+      "https://api.fxtwitter.com/status/2097740382511800768"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/linfeng-robot-kitchen-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-11-evening/linfeng-robot-kitchen-1-original.mp4",
+        "durationSeconds": 80.57,
+        "bytes": 35959618,
+        "sha256": "08f54a37c32b3588dec4d3c020444da5a79739358af643589ddf9d61955b4bc7",
+        "sourceUrl": "https://x.com/LinfengZhaoZLF/status/2097740382511800768",
+        "label": "手机视频到 MuJoCo 厨房",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2097656955351547904/img/agwXHBaNXy814rkT.jpg"
+      }
+    ]
+  },
+  {
+    "id": "miya-komorebi-market",
+    "title": "こもれび市場：从参考图走进三维街市",
+    "titleEn": "Komorebi Market Walk",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "miya / @miya00907380",
+    "sourceUrl": "https://x.com/miya00907380/status/2097807257639748070",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-11",
+    "addedAt": "2026-09-11",
+    "modelLabel": "GPT-6 Astra Medium（三维街市）+ imagegen（参考图）+ 既有游戏角色",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "miya 先用 imagegen 生成街景参考，再由 Astra Medium 与 img2threejs 制作 Three.js 街市并加入碰撞和镜头。散步角色来自其已有的 Mystic Forest Three 项目；视频最后展示的是参考图，不能混同于三维运行画面。",
+    "outputType": [
+      "Three.js 场景",
+      "参考图到模型",
+      "角色整合"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097110659590922240/img/nRlaHBNYuWDDyaD0.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整视频及最高码率下载；各制作阶段分别标注。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/miya00907380/status/2097807257639748070",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/miya00907380/status/2097807257639748070",
+      "https://api.fxtwitter.com/status/2097807257639748070"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/miya-komorebi-market-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-11-evening/miya-komorebi-market-1-original.mp4",
+        "durationSeconds": 60.12,
+        "bytes": 27502326,
+        "sha256": "2f2752c93ef93959a35464d8c2b01ad77d8533e89fef29d41843386840e3a595",
+        "sourceUrl": "https://x.com/miya00907380/status/2097807257639748070",
+        "label": "参考街景到 Three.js 散步",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2097110659590922240/img/nRlaHBNYuWDDyaD0.jpg"
+      }
+    ]
+  },
+  {
+    "id": "rshhad-backrooms",
+    "title": "Backrooms：Blender 后室与 VHS 效果",
+    "titleEn": "Backrooms in Blender",
+    "group": "astra",
+    "category": "Blender 建模",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Rshhad / @aaassa120",
+    "sourceUrl": "https://x.com/aaassa120/status/2097794770357866504",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-11",
+    "addedAt": "2026-09-11",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者展示 Astra 在 Blender 中建立后室、添加 VHS 效果和音效的短片，称经历约五次提示。原帖明确描述为 Blender 场景及合成；制作时长是作者自述，工程未公开。",
+    "outputType": [
+      "Blender 场景",
+      "VHS 合成",
+      "渲染短片"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097794715576115200/img/a7CUjFL6TO4x06cy.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整视频及最高码率下载；各制作阶段分别标注。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/aaassa120/status/2097794770357866504",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/aaassa120/status/2097794770357866504",
+      "https://api.fxtwitter.com/status/2097794770357866504"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/rshhad-backrooms-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-11-evening/rshhad-backrooms-1-original.mp4",
+        "durationSeconds": 20.1,
+        "bytes": 11659309,
+        "sha256": "e91722645753e3849ba7b17edf23275da262566de2d1d52db3c2351bed2c49db",
+        "sourceUrl": "https://x.com/aaassa120/status/2097794770357866504",
+        "label": "Blender 后室与 VHS 合成",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2097794715576115200/img/a7CUjFL6TO4x06cy.jpg"
+      }
+    ]
+  },
+  {
+    "id": "gokay-neural-rendering",
+    "title": "神经渲染：Blender 几何与 H3 风格预览",
+    "titleEn": "Blender Geometry and H3 Style Previews",
+    "group": "astra",
+    "category": "交互与工具",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "gokayfem",
+    "sourceUrl": "https://github.com/gokayfem/H3-Max-Blender",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-11",
+    "addedAt": "2026-09-11",
+    "modelLabel": "GPT-6 Astra（脚本）+ H3 Max（视频生成）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "读取作者 README、文件树与相关材料说明；未在本地重新运行工程。",
+    "summary": "公开项目把灰模船的 Blender 几何和多种风格影像并列展示。README 明确区分 Astra 编写演示脚本、H3 Max 生成视频；生成画面可重解释几何。作者录屏跳过首次等待并循环短段，属于流程演示，不是未剪辑的完整生成记录。",
+    "outputType": [
+      "Blender 扩展源码",
+      "神经渲染流程",
+      "多风格视频预览"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://raw.githubusercontent.com/gokayfem/H3-Max-Blender/main/demo/cover.png",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者仓库公开的作品画面。",
+    "demoUrl": null,
+    "videoUrl": "https://github.com/gokayfem/H3-Max-Blender/raw/refs/heads/main/demo/blender-neural-renderer.mp4",
+    "repositoryUrl": "https://github.com/gokayfem/H3-Max-Blender",
+    "evidenceUrls": [
+      "https://github.com/gokayfem/H3-Max-Blender"
+    ],
+    "licenseNotes": "扩展基于 fal-ai/fal-blender-extension，GPL-3.0-or-later。外部生成服务需要 API Key 并按用量计费；媒体与第三方资产另按来源权利。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "cyjj-kicad-board",
+    "title": "KiCad：独立布局后的原生三维预览",
+    "titleEn": "KiCad PCB Layout and Native 3D View",
+    "group": "astra",
+    "category": "交互与工具",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "cyjjjj-21",
+    "sourceUrl": "https://github.com/cyjjjj-21/gpt6-astra-kicad-blind-routing",
+    "sourceDate": "2026-09-05",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-11",
+    "addedAt": "2026-09-11",
+    "modelLabel": "GPT-6 Astra high（作者会话记录）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "读取作者 README、文件树与相关材料说明；未在本地重新运行工程。",
+    "summary": "Astra high 通过 Computer Use 操作 KiCad，在已有 PIC 编程器原理图和封装分配上完成独立布局、布线与检查。预览由 KiCad 原生三维查看器生成，标准元器件模型来自既有库；此处收录工程操作与三维展示，不能把器件资产算为从零建模。",
+    "outputType": [
+      "KiCad PCB 工程",
+      "原生三维预览",
+      "布局对照"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://raw.githubusercontent.com/cyjjjj-21/gpt6-astra-kicad-blind-routing/main/astra/pic_programmer-blind-routed-3d.png",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者仓库公开的作品画面。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/cyjjjj-21/gpt6-astra-kicad-blind-routing",
+    "evidenceUrls": [
+      "https://github.com/cyjjjj-21/gpt6-astra-kicad-blind-routing"
+    ],
+    "licenseNotes": "KiCad 参考示例为 PIC PROGRAMMER V03 / J-P Charras；第三方电路、封装与三维库保留其来源许可。本库未独立验证制造和装配质量。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "sayan-genesis-atlas",
+    "title": "GENESIS：可旋转的 AI 概念图谱",
+    "titleEn": "GENESIS AI Atlas",
+    "group": "astra",
+    "category": "科学与教育",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "sayanpersonal123",
+    "sourceUrl": "https://github.com/sayanpersonal123/AI-learning",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-11",
+    "addedAt": "2026-09-11",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者 README 明确说明 Astra 生成图谱内容及投影渲染器，分享卡片和托管配置为后加；未独立复现一次生成的说法。",
+    "sourceAccess": "读取作者 README、文件树与相关材料说明；未在本地重新运行工程。",
+    "summary": "作者公开由 GPT-6 Astra 制作的 AI 学习图谱，28 章中有 26 个可旋转、缩放并逐步观察的三维概念场景。模型坐标经手写投影绘制到 Canvas 2D，不使用 WebGL。内容是教学概念图，不是某个具体前沿模型的结构复刻。",
+    "outputType": [
+      "Canvas 三维投影",
+      "交互学习图谱",
+      "公开源码"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://raw.githubusercontent.com/sayanpersonal123/AI-learning/main/og.jpg",
+    "imageKind": "editorial-cover",
+    "imageCaption": "作者后期制作的分享卡片，不是教学场景的实机截图。",
+    "demoUrl": "https://atlas.sayangupta.in",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/sayanpersonal123/AI-learning",
+    "evidenceUrls": [
+      "https://github.com/sayanpersonal123/AI-learning"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "yuntian-coin-avatar",
+    "title": "关节化头像：在手指间滚动硬币",
+    "titleEn": "Articulated Avatar Coin Roll",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Yuntian Deng / @yuntiandeng",
+    "sourceUrl": "https://x.com/yuntiandeng/status/2097805500859519088",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-11",
+    "addedAt": "2026-09-11",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Yuntian Deng 表示 Astra 帮助逐个关节重建其头像，并展示角色在指关节间滚动硬币。作者未公开具体建模软件、绑定方法或工程文件，保留这些未知项。",
+    "outputType": [
+      "关节化角色",
+      "手部动画"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097761165216567304/img/IIO5hvay8G9UtGmq.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整视频及最高码率下载；各制作阶段分别标注。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/yuntiandeng/status/2097805500859519088",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/yuntiandeng/status/2097805500859519088",
+      "https://api.fxtwitter.com/status/2097805500859519088"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/yuntian-coin-avatar-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-11-evening/yuntian-coin-avatar-1-original.mp4",
+        "durationSeconds": 16.83,
+        "bytes": 1498560,
+        "sha256": "12683715f4a1bfd0bf7a5b1c6b3abdda7ecd35aa2e69e30544440bb33f0a2826",
+        "sourceUrl": "https://x.com/yuntiandeng/status/2097805500859519088",
+        "label": "关节化头像与滚硬币动画",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2097761165216567304/img/IIO5hvay8G9UtGmq.jpg"
+      }
+    ]
+  },
+  {
+    "id": "luijait-vayne-hacker",
+    "title": "Vayne Hacker：自定义皮肤与实机动画",
+    "titleEn": "Vayne Hacker Custom Skin",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "0x6c75696a616974 / @luijait_",
+    "sourceUrl": "https://x.com/luijait_/status/2097722384224563453",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-11",
+    "addedAt": "2026-09-11",
+    "modelLabel": "GPT-6 Astra（皮肤与动画）/ GPT Images 2.5（宣传插画）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者展示在 LTK 运行的 LoL 自定义皮肤，称 Astra 制作模型、动画和技能表现。宣传插画由 GPT Images 2.5 生成，单独注明；此案例收录原帖视频中的实机效果，完成程度和制作耗时未独立验证。",
+    "outputType": [
+      "自定义三维皮肤",
+      "角色动画",
+      "实机演示"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097720885188984832/img/KsBY2CjcX5gVbk6_.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "原帖完整视频封面；录像另含 GPT Images 2.5 宣传插画，不能将该插画视为三维实机效果。 附完整视频及最高码率下载；各制作阶段分别标注。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/luijait_/status/2097722384224563453",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/luijait_/status/2097722384224563453",
+      "https://api.fxtwitter.com/status/2097722384224563453"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/luijait-vayne-hacker-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-11-evening/luijait-vayne-hacker-1-original.mp4",
+        "durationSeconds": 63.74,
+        "bytes": 33771478,
+        "sha256": "340141410f100604a9a1ca12a7cb596a7207fdb4ed28b03d740765f859b1f2e2",
+        "sourceUrl": "https://x.com/luijait_/status/2097722384224563453",
+        "label": "自定义皮肤实机录像（含外部宣传美术）",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2097720885188984832/img/KsBY2CjcX5gVbk6_.jpg"
+      }
+    ]
+  },
+  {
+    "id": "enactra-madison-park",
+    "title": "Madison Square Park：Unreal 场景对照",
+    "titleEn": "Madison Square Park in Unreal Engine",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Enactra AI / @EnactraAI",
+    "sourceUrl": "https://x.com/EnactraAI/status/2097777259382018088",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-11",
+    "addedAt": "2026-09-11",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Enactra AI 展示 Astra 在 Unreal Engine 中重建的纽约 Madison Square Park，并与 Google Earth 并排对照。原帖未披露所有基础地图和模型来源；不据此声称全部几何从零生成或达到测绘精度。",
+    "outputType": [
+      "Unreal Engine 场景",
+      "城市外观对照"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097777088233439232/img/PlAlh9AKk8hWrOg_.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整视频及最高码率下载；各制作阶段分别标注。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/EnactraAI/status/2097777259382018088",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/EnactraAI/status/2097777259382018088",
+      "https://api.fxtwitter.com/status/2097777259382018088"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/enactra-madison-park-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-11-evening/enactra-madison-park-1-original.mp4",
+        "durationSeconds": 35.0,
+        "bytes": 25450637,
+        "sha256": "d2feb13e1115b0d029a5649ec29e2deefb250a89dff0470f2f4947bdaac3d3a7",
+        "sourceUrl": "https://x.com/EnactraAI/status/2097777259382018088",
+        "label": "Unreal Engine 场景与 Google Earth 对照",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2097777088233439232/img/PlAlh9AKk8hWrOg_.jpg"
+      }
+    ]
+  },
+  {
+    "id": "evgeny-ligand-animation",
+    "title": "配体变换：Blender 分子概念动画",
+    "titleEn": "Ligand Transformation Visualization",
+    "group": "astra",
+    "category": "科学与教育",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Evgeny Kirilin / @EvgenyKirilin",
+    "sourceUrl": "https://x.com/EvgenyKirilin/status/2097758340105506917",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-11",
+    "addedAt": "2026-09-11",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者将 OpenBind 中两个配体间的变换制作成 Blender 动画，明确将 Astra 的工作称为可视化。化合物优选由其他工具参与；该短片不证明药效、也不等于 Astra 独立完成或验证自由能计算。",
+    "outputType": [
+      "Blender 分子动画",
+      "概念可视化"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097757277398921216/img/G27oZoTTDSpQa3Ny.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整视频及最高码率下载；各制作阶段分别标注。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/EvgenyKirilin/status/2097758340105506917",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/EvgenyKirilin/status/2097758340105506917",
+      "https://api.fxtwitter.com/status/2097758340105506917"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/evgeny-ligand-animation-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-11-evening/evgeny-ligand-animation-1-original.mp4",
+        "durationSeconds": 38.52,
+        "bytes": 30744046,
+        "sha256": "b2da663ae3013784a27c80e5fb247c68978a321ca0eaa2925463835f476ea985",
+        "sourceUrl": "https://x.com/EvgenyKirilin/status/2097758340105506917",
+        "label": "Blender 分子概念动画",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2097757277398921216/img/G27oZoTTDSpQa3Ny.jpg"
+      }
+    ]
+  },
+  {
+    "id": "gostev-fluid-concepts",
+    "title": "Navier–Stokes：论文概念的三维表现",
+    "titleEn": "Navier–Stokes Concept Visualization",
+    "group": "astra",
+    "category": "科学与教育",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Peter Gostev / @petergostev",
+    "sourceUrl": "https://x.com/petergostev/status/2097801248099479576",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-11",
+    "addedAt": "2026-09-11",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Peter Gostev 让 Codex 中的 Astra 阅读论文并用 Blender 制作相关概念的三维可视化。此条记录创作流程和画面，不把作者关于论文结论的说法视为已确认的数学证明。",
+    "outputType": [
+      "Blender 概念动画",
+      "论文可视化"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097798486322188293/img/DlcWctBMX7CFNZGl.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整视频及最高码率下载；各制作阶段分别标注。",
+    "demoUrl": "https://navier-stokes-solution.petergostev.chatgpt.site/",
+    "videoUrl": "https://x.com/petergostev/status/2097801248099479576",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/petergostev/status/2097801248099479576",
+      "https://api.fxtwitter.com/status/2097801248099479576"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/gostev-fluid-concepts-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-11-evening/gostev-fluid-concepts-1-original.mp4",
+        "durationSeconds": 42.05,
+        "bytes": 134219906,
+        "sha256": "0cb148cd5f695dc243abf882a7461197209fee61ea0e643fcbf6039c5b4f27fb",
+        "sourceUrl": "https://x.com/petergostev/status/2097801248099479576",
+        "label": "论文概念的 Blender 可视化",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2097798486322188293/img/DlcWctBMX7CFNZGl.jpg"
+      }
+    ]
+  },
+  {
+    "id": "spenser-panthera-splat",
+    "title": "Panthera：既有资产到 Gaussian Splat",
+    "titleEn": "Panthera Spelaea to Gaussian Splat",
+    "group": "astra",
+    "category": "交互与工具",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Spenser Dickerson / @SpenserFX",
+    "sourceUrl": "https://x.com/SpenserFX/status/2097744080725774568",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-11",
+    "addedAt": "2026-09-11",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Spenser Dickerson 使用 Joanna Kobierska 的既有 Panthera Spelaea 资产，让 Astra 建立 200 帧相机装置、提交 Render Network 渲染并导出 COLMAP，之后由 Postshot 训练 Gaussian Splat、Octane 调整画面。Astra 负责转换流程，不是原始动物模型作者。",
+    "outputType": [
+      "既有资产转换",
+      "COLMAP 相机数据",
+      "Gaussian Splat"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097742247358005249/img/gER_aSRNmErqLxhP.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整视频及最高码率下载；各制作阶段分别标注。",
+    "demoUrl": "https://superspl.at/scene/7e4e9bcb",
+    "videoUrl": "https://x.com/SpenserFX/status/2097744080725774568",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/SpenserFX/status/2097744080725774568",
+      "https://api.fxtwitter.com/status/2097744080725774568"
+    ],
+    "licenseNotes": "原始 Panthera Spelaea 作品署名 Joanna Kobierska；发帖作者注明从 Blender.org 取得并采用 CC-BY。转换与展示署名 Spenser Dickerson，软件和后续产物分别遵循来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/spenser-panthera-splat-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-11-evening/spenser-panthera-splat-1-original.mp4",
+        "durationSeconds": 69.08,
+        "bytes": 57149605,
+        "sha256": "2725530c46f5ebf50f56f0ea44c6693a93fc4b389010f061e179e08a1e48d014",
+        "sourceUrl": "https://x.com/SpenserFX/status/2097744080725774568",
+        "label": "既有 Blender 资产到 Gaussian Splat",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2097742247358005249/img/gER_aSRNmErqLxhP.jpg"
+      }
+    ]
+  },
+  {
     "id": "nickson-studio-photos",
     "title": "9 张照片到工作室：空间重建与交互",
     "titleEn": "Studio from Nine Photos",
@@ -3395,12 +4159,12 @@
     "sourceUrl": "https://developers.openai.com/showcase/living-cell-cross-section",
     "sourceDate": null,
     "secondaryPublishedAt": null,
-    "observedAt": "2026-09-06",
+    "observedAt": "2026-09-11",
     "modelLabel": "GPT-6 Astra",
     "evidenceLevel": "official",
     "evidenceStatus": "official-astra",
     "evidenceNote": "详情标题下直接标注 GPT-6 Astra，公开提示词要求程序化结构、原生 WebGL 与结构检查交互。本条核验模型归属和呈现形式，未独立验证生物学模拟精度。",
-    "sourceAccess": "来源页面已读取；未重新运行作品",
+    "sourceAccess": "2026-09-11 重新读取官方页面；原图迁移至 CDN，按实际 img 地址更新。未重新运行作品。",
     "summary": "交互式细胞 3D 剖面将细胞膜、分子运输、微管与线粒体机制放在统一空间内，提供结构检查、剖切或展开视图及动画速度控制。",
     "outputType": [
       "交互 3D 网页"
@@ -3409,7 +4173,7 @@
     "promptExcerpt": "Build a luminous interactive cross-section of a living eukaryotic cell at molecular scale.",
     "promptSummary": null,
     "promptUrl": "https://developers.openai.com/showcase/living-cell-cross-section",
-    "imageUrl": "https://developers.openai.com/showcase/living-cell-cross-section/initial.webp",
+    "imageUrl": "https://cdn.openai.com/devhub/showcase/living-cell-cross-section/initial-46501ec49984.webp",
     "imageKind": "initial-output",
     "imageCaption": "官方记录中的初始版本画面。",
     "demoUrl": "https://living-cell-astra-20260901.openai.chatgpt.site/",
@@ -3529,12 +4293,12 @@
     "sourceUrl": "https://developers.openai.com/showcase/stop-motion-desk",
     "sourceDate": null,
     "secondaryPublishedAt": null,
-    "observedAt": "2026-09-06",
+    "observedAt": "2026-09-11",
     "modelLabel": "GPT-6 Astra",
     "evidenceLevel": "official",
     "evidenceStatus": "official-astra",
     "evidenceNote": "详情页直接标注 GPT-6 Astra，首轮要求原创 3D 角色与道具；公开步骤包括角色制作、动画导出、屏幕适配和存档。",
-    "sourceAccess": "来源页面已读取；未重新运行作品",
+    "sourceAccess": "2026-09-11 重新读取官方页面；原图迁移至 CDN，按实际 img 地址更新。未重新运行作品。",
     "summary": "浏览器内布置 3D 角色和道具、调整姿态并逐帧拍摄，用时间线预览、重排帧及导出 GIF，保留统一的三维舞台。",
     "outputType": [
       "交互 3D 网页"
@@ -3543,7 +4307,7 @@
     "promptExcerpt": "Build a browser-based stop-motion studio with original 3D characters and props.",
     "promptSummary": null,
     "promptUrl": "https://developers.openai.com/showcase/stop-motion-desk",
-    "imageUrl": "https://developers.openai.com/showcase/stop-motion-desk/final.webp",
+    "imageUrl": "https://cdn.openai.com/devhub/showcase/stop-motion-desk/final-c3c0f3218983.webp",
     "imageKind": "final-output",
     "imageCaption": "官方展示的完成版编辑器，含角色库、三维舞台与时间线。",
     "demoUrl": "https://stop-motion-desk.openai.chatgpt.site/",
@@ -3646,12 +4410,12 @@
     "sourceUrl": "https://developers.openai.com/showcase/physics-museum",
     "sourceDate": null,
     "secondaryPublishedAt": null,
-    "observedAt": "2026-09-06",
+    "observedAt": "2026-09-11",
     "modelLabel": "GPT-6 Astra",
     "evidenceLevel": "official",
     "evidenceStatus": "official-astra",
     "evidenceNote": "详情页直接标注 GPT-6 Astra，并嵌入最终 Blender 导出模型供旋转查看。初始提示词要求可编辑 .blend 与可复现资产生成脚本；不代表页面已经公开这些源文件的下载。",
-    "sourceAccess": "来源页面已读取；未重新运行作品",
+    "sourceAccess": "2026-09-11 重新读取官方页面；原图迁移至 CDN，按实际 img 地址更新。未重新运行作品。",
     "summary": "以 Blender 建模的博物馆串联五个互动展项，将碰撞、摆动、布料等物理机制做成可近距离观察的空间装置与镜头导览。",
     "outputType": [
       "交互 3D 网页"
@@ -3660,7 +4424,7 @@
     "promptExcerpt": "Build a polished interactive science museum with five exhibits.",
     "promptSummary": null,
     "promptUrl": "https://developers.openai.com/showcase/physics-museum",
-    "imageUrl": "https://developers.openai.com/showcase/physics-museum/final.webp",
+    "imageUrl": "https://cdn.openai.com/devhub/showcase/physics-museum/final-50909eb800bd.webp",
     "imageKind": "final-output",
     "imageCaption": "官方构建记录中的最终版本图片。",
     "demoUrl": "https://astra-museum-of-motion.openai.chatgpt.site/",
@@ -3724,12 +4488,12 @@
     "sourceUrl": "https://developers.openai.com/showcase/abyssal-bioluminescent-ecosystem",
     "sourceDate": null,
     "secondaryPublishedAt": null,
-    "observedAt": "2026-09-06",
+    "observedAt": "2026-09-11",
     "modelLabel": "GPT-6 Astra",
     "evidenceLevel": "official",
     "evidenceStatus": "official-astra",
     "evidenceNote": "详情页直接标注 GPT-6 Astra，首轮明确要求无外部素材的交互式 3D 单 HTML。后续步骤调整紧凑布局；图为初始输出，不冒充最终版。",
-    "sourceAccess": "来源页面已读取；未重新运行作品",
+    "sourceAccess": "2026-09-11 重新读取官方页面；原图迁移至 CDN，按实际 img 地址更新。未重新运行作品。",
     "summary": "在程序化海底喷口周围模拟发光鱼群、水母和海洋颗粒；可调水流、发光强度和环境明暗，并用触摸或鼠标扰动鱼群。",
     "outputType": [
       "交互 3D 网页"
@@ -3738,7 +4502,7 @@
     "promptExcerpt": "Use browser-native WebGL with a graceful fallback if unavailable.",
     "promptSummary": null,
     "promptUrl": "https://developers.openai.com/showcase/abyssal-bioluminescent-ecosystem",
-    "imageUrl": "https://developers.openai.com/showcase/abyssal-bioluminescent-ecosystem/initial.webp",
+    "imageUrl": "https://cdn.openai.com/devhub/showcase/abyssal-bioluminescent-ecosystem/initial-1f2e3f541332.webp",
     "imageKind": "initial-output",
     "imageCaption": "官方记录中的初始版本画面。",
     "demoUrl": "https://abyssal-ecosystem-astra-20260901.openai.chatgpt.site/",
@@ -3802,12 +4566,12 @@
     "sourceUrl": "https://developers.openai.com/showcase/velocity-loop",
     "sourceDate": null,
     "secondaryPublishedAt": null,
-    "observedAt": "2026-09-06",
+    "observedAt": "2026-09-11",
     "modelLabel": "GPT-6 Astra",
     "evidenceLevel": "official",
     "evidenceStatus": "official-astra",
     "evidenceNote": "详情页直接标注 GPT-6 Astra，公开 13 个构建阶段，包括可玩赛道、车库、车间材质及手机控制检查。图片仅用作有明确类型的构建参考。",
-    "sourceAccess": "来源页面已读取；未重新运行作品",
+    "sourceAccess": "2026-09-11 重新读取官方页面；原图迁移至 CDN，按实际 img 地址更新。未重新运行作品。",
     "summary": "从赛车菜单与赛道概念起步，制作微缩车间里的 3D 计时赛；迭代车辆、橙色回环轨道、镜头、氮气与回放机制。",
     "outputType": [
       "交互 3D 网页"
@@ -3816,7 +4580,7 @@
     "promptExcerpt": "Generate a menu concept for a realistic, die-cast-style 3D racing game",
     "promptSummary": null,
     "promptUrl": "https://developers.openai.com/showcase/velocity-loop",
-    "imageUrl": "https://developers.openai.com/showcase/velocity-loop/menu-concept.webp",
+    "imageUrl": "https://cdn.openai.com/devhub/showcase/velocity-loop/menu-concept-1e513c497d96.webp",
     "imageKind": "concept-art",
     "imageCaption": "官方生成的菜单概念图，不是完成版实机截图。",
     "demoUrl": "https://velocity-loop.openai.chatgpt.site/",

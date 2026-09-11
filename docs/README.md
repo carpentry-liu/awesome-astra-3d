@@ -15,3 +15,4 @@
 - [2026-09-09 第二轮跨平台扩充与 GitHub 封面](features/F-0005-expanded-sources/README.md)。
 - [2026-09-10 新增 26 个案例与 GitHub 首页更新](features/F-0006-daily-curation/README.md)。
 - [2026-09-11 高 Star 图库调研、6 个新案例与布局更新](features/F-0007-gallery-layout/README.md)。
+- [2026-09-11 晚间新增 15 个案例、完整视频与全库链接复查](features/F-0008-complete-refresh/README.md)。

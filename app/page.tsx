@@ -53,6 +53,9 @@ const imageKinds: Record<string, string> = {
   render: '场景渲染',
   'gameplay-screenshot': '实机截图',
   'source-media': '来源媒体',
+  'author-screenshot': '作者作品图',
+  'video-poster': '视频封面',
+  'editorial-cover': '分享卡片',
 };
 function Preview({
   item,

@@ -6,25 +6,25 @@ import { type Case } from '@/src/catalog';
 
 const spotlights = [
   {
-    id: 'songkeys-little-flock',
-    credit: 'songkeys',
-    name: '在山谷里，建造自己的小世界',
-    label: '可玩游戏',
-    note: 'Little Flock · 进入作者的互动世界',
+    id: 'xinz-xianlin-campus',
+    credit: 'super-xinz',
+    name: '把一座校园，存进三维世界',
+    label: '建筑摄影',
+    note: '仙林校园 · Blender 工程与 38 秒漫游',
   },
   {
-    id: 'nickson-studio-photos',
-    credit: '@rpnickson',
-    name: '把九张照片，变成一间工作室',
-    label: '照片重建',
-    note: '从真实空间到可交互的三维场景',
+    id: 'nick-op1-houdini',
+    credit: '@_nscr',
+    name: '从参考照片，到合成器的每个旋钮',
+    label: 'Houdini 建模',
+    note: 'OP-1 Field · 产品建模与材质练习',
   },
   {
-    id: 'will-cube-city',
-    credit: '@old_pgmrs_will',
-    name: '一张参考图，一座立方体城市',
-    label: 'Blender 建模',
-    note: 'GPT Image 2.5 参考图 → Astra 建模',
+    id: 'miya-komorebi-market',
+    credit: '@miya00907380',
+    name: '走进参考图里的那条小街',
+    label: 'Three.js 街市',
+    note: '三维街景与既有游戏角色的相遇',
   },
 ];
 export function Welcome({

@@ -4,7 +4,7 @@
 
 ### Real work. Original creators. Your next starting point.
 
-Explore GPT-6 Astra in 3D: Blender, Three.js, WebGL, CAD, VRM and interactive games. Find attributed examples, editable projects, demos and complete videos.
+Explore GPT-6 Astra in 3D: Blender, Houdini, Three.js, WebGL, CAD, VRM and interactive games. Find attributed examples, editable projects, demos and complete videos.
 
 **[Explore the live gallery](https://carpentry-liu.github.io/awesome-astra-3d/) · [Latest additions](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [Contribute](CONTRIBUTING.md)**
 
@@ -13,24 +13,24 @@ Explore GPT-6 Astra in 3D: Blender, Three.js, WebGL, CAD, VRM and interactive ga
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-09-11 (Asia/Shanghai)** · **135 Astra examples** · **44 source / project links** · **55 demo links** · **66 complete videos** · **12 separate references**.
+Updated **2026-09-11 (Asia/Shanghai)** · **150 Astra examples** · **49 source / project links** · **59 demo links** · **75 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 ## New work, at a glance
 
-| Nine photos → a studio | Houdini · procedural architecture | Car soccer · brick weather |
+| Xianlin campus · architectural renders | Houdini · OP-1 Field | Komorebi Market · a 3D walk |
 | --- | --- | --- |
-| [![Studio from Nine Photos — Roberto Nickson / @rpnickson](https://pbs.twimg.com/amplify_video_thumb/2097488345542660096/img/AMsWCLAtpDBFC6nu.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=nickson-studio-photos) | [![Procedural Modeling in Houdini — Hirokazu Yokohara / @Yokohara_h](https://pbs.twimg.com/amplify_video_thumb/2097665135863345152/img/s5w6T3ULXiUQpjOR.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=yokohara-houdini) | [![Brick Weather Car Soccer — Jan / @CreatedByJannn](https://pbs.twimg.com/amplify_video_thumb/2097340760001548288/img/uEv8cTvt3-j3Qm0R.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=jannn-brick-weather) |
-| Reference → cube city | Tallinn · scene assets | Little Flock · a farming world |
-| [![Cube City from an Image Reference — いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram / @old_pgmrs_will](https://pbs.twimg.com/amplify_video_thumb/2097505780085993472/img/6zfwunEdVDTWlZK4.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=will-cube-city) | [![Tallinn Scene and Previsualization — yachimat - AI Short Anime / @yachimat_manga](https://pbs.twimg.com/amplify_video_thumb/2097809399934849037/img/FOSfG-FzF7eDSuAL.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=yachimat-tallinn) | [![Little Flock — songkeys](https://raw.githubusercontent.com/songkeys/little-flock/main/docs/demo-poster.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=songkeys-little-flock) |
+| [![NJU Xianlin Campus in Blender — super-xinz](https://raw.githubusercontent.com/super-xinz/nju-xianlin-campus-3d/main/photos/03-%E6%9D%9C%E5%8E%A6%E6%B0%B4%E5%B2%B8.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=xinz-xianlin-campus) | [![OP-1 Field in Houdini — Nick Scarcella / @_nscr](https://pbs.twimg.com/media/HRyqTjEaEAAOKhq.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=nick-op1-houdini) | [![Komorebi Market Walk — miya / @miya00907380](https://pbs.twimg.com/amplify_video_thumb/2097110659590922240/img/nRlaHBNYuWDDyaD0.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=miya-komorebi-market) |
+| Scan references → editable space | Phone video → robot kitchen | Blender · Backrooms and VHS |
+| [![Realsee to Editable Blender Space — realsee-developer](https://raw.githubusercontent.com/realsee-developer/realsee-astra-blender/main/docs/assets/plan.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=realsee-editable-space) | [![Interactive Robot Kitchen — Linfeng Zhao / @LinfengZhaoZLF](https://pbs.twimg.com/amplify_video_thumb/2097656955351547904/img/agwXHBaNXy814rkT.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=linfeng-robot-kitchen) | [![Backrooms in Blender — Rshhad / @aaassa120](https://pbs.twimg.com/amplify_video_thumb/2097794715576115200/img/a7CUjFL6TO4x06cy.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=rshhad-backrooms) |
 
-Open a preview for the complete recording, workflow and original source. Images remain on creator hosts; Little Flock is credited to Songkeys (CC BY 4.0). Brick soccer includes 3DAIStudio assets. The Tallinn preview shows scene assets; 3D previs and H3 output are labeled separately in its case file.
+Open each image for the work, full recording and original source. Images stay on creator hosts. Realsee shows the modeled floor plan; the market uses an imagegen reference and an existing character, and the robot kitchen includes mobile ALOHA. Attribution and tool roles remain explicit.
 
 ## Live website preview
 
-[![Astra 3D Atlas live homepage](docs/media/homepage-live-2026-09-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas live homepage](docs/media/homepage-evening-2026-09-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-Captured from the published website on September 11, 2026. Click to explore the gallery.
+Captured from this update on the evening of September 11, 2026. Click to explore the gallery.
 
 ## Choose a starting point
 
@@ -44,19 +44,19 @@ Captured from the published website on September 11, 2026. Click to explore the 
 
 ## Latest additions
 
-This update adds **6 examples and 8 complete X videos**, each with its highest-bitrate original and a smaller full-length playback version. New subjects include photo reconstruction, Houdini, brick weather, shoe-last motion, cube cities and Tallinn scenes. Mixed-tool stages retain their attribution; an unverified playable link is not counted as a demo.
+This update adds **15 examples, 5 source projects, 4 demo links and 9 complete X videos**. Explore a campus, editable spaces, a Houdini synthesizer, a robot kitchen and a walkable market. Both highest-bitrate and smaller complete video renditions are preserved. Five migrated official image URLs are repaired, with existing project, demo and media links checked again.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [Studio from Nine Photos](https://carpentry-liu.github.io/awesome-astra-3d/#case=nickson-studio-photos) | Roberto Nickson / @rpnickson | [Original](https://x.com/rpnickson/status/2097488440489116111) |
-| [Procedural Modeling in Houdini](https://carpentry-liu.github.io/awesome-astra-3d/#case=yokohara-houdini) | Hirokazu Yokohara / @Yokohara_h | [Original](https://x.com/Yokohara_h/status/2097666997719089337) |
-| [Brick Weather Car Soccer](https://carpentry-liu.github.io/awesome-astra-3d/#case=jannn-brick-weather) | Jan / @CreatedByJannn | [Original](https://x.com/CreatedByJannn/status/2097706846056558912) |
-| [Shoe Last Motion Workflow](https://carpentry-liu.github.io/awesome-astra-3d/#case=flora-shoe-last) | FLORA © / @floraai | [Original](https://x.com/floraai/status/2097763728217272598) |
-| [Cube City from an Image Reference](https://carpentry-liu.github.io/awesome-astra-3d/#case=will-cube-city) | いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram / @old_pgmrs_will | [Original](https://x.com/old_pgmrs_will/status/2097506064078147861) |
-| [Tallinn Scene and Previsualization](https://carpentry-liu.github.io/awesome-astra-3d/#case=yachimat-tallinn) | yachimat - AI Short Anime / @yachimat_manga | [Original](https://x.com/yachimat_manga/status/2097810202762285265) |
-| [Little Flock](https://carpentry-liu.github.io/awesome-astra-3d/#case=songkeys-little-flock) | songkeys | [Demo](https://sharpherd.song.work) · [Source](https://github.com/songkeys/little-flock) · [Original](https://github.com/songkeys/little-flock) |
-| [Japanese Flower Shop Exploded View](https://carpentry-liu.github.io/awesome-astra-3d/#case=kana-flower-shop) | KANA｜東京AI映像 / @KanaWorks_AI | [Original](https://x.com/KanaWorks_AI/status/2097153139795468365) |
+| [Realsee to Editable Blender Space](https://carpentry-liu.github.io/awesome-astra-3d/#case=realsee-editable-space) | realsee-developer | [Demo](https://realsee-developer.github.io/realsee-astra-blender/) · [Source](https://github.com/realsee-developer/realsee-astra-blender) · [Original](https://github.com/realsee-developer/realsee-astra-blender) |
+| [NJU Xianlin Campus in Blender](https://carpentry-liu.github.io/awesome-astra-3d/#case=xinz-xianlin-campus) | super-xinz | [Source](https://github.com/super-xinz/nju-xianlin-campus-3d) · [Original](https://github.com/super-xinz/nju-xianlin-campus-3d) |
+| [OP-1 Field in Houdini](https://carpentry-liu.github.io/awesome-astra-3d/#case=nick-op1-houdini) | Nick Scarcella / @_nscr | [Original](https://x.com/_nscr/status/2097744564073218443) |
+| [Interactive Robot Kitchen](https://carpentry-liu.github.io/awesome-astra-3d/#case=linfeng-robot-kitchen) | Linfeng Zhao / @LinfengZhaoZLF | [Original](https://x.com/LinfengZhaoZLF/status/2097740382511800768) |
+| [Komorebi Market Walk](https://carpentry-liu.github.io/awesome-astra-3d/#case=miya-komorebi-market) | miya / @miya00907380 | [Original](https://x.com/miya00907380/status/2097807257639748070) |
+| [Backrooms in Blender](https://carpentry-liu.github.io/awesome-astra-3d/#case=rshhad-backrooms) | Rshhad / @aaassa120 | [Original](https://x.com/aaassa120/status/2097794770357866504) |
+| [Blender Geometry and H3 Style Previews](https://carpentry-liu.github.io/awesome-astra-3d/#case=gokay-neural-rendering) | gokayfem | [Source](https://github.com/gokayfem/H3-Max-Blender) · [Original](https://github.com/gokayfem/H3-Max-Blender) |
+| [KiCad PCB Layout and Native 3D View](https://carpentry-liu.github.io/awesome-astra-3d/#case=cyjj-kicad-board) | cyjjjj-21 | [Source](https://github.com/cyjjjj-21/gpt6-astra-kicad-blind-routing) · [Original](https://github.com/cyjjjj-21/gpt6-astra-kicad-blind-routing) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md)
@@ -70,9 +70,9 @@ The interface is in Chinese; English project names, tools and creators are searc
 <details>
 <summary>Gallery and mobile screenshots · September 11, 2026</summary>
 
-[![Latest examples and category sidebar](docs/media/collection-live-2026-09-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![Latest examples and category sidebar](docs/media/collection-evening-2026-09-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![Mobile welcome page and resource navigation](docs/media/mobile-live-2026-09-11.jpg)
+![Mobile welcome page and resource navigation](docs/media/mobile-evening-2026-09-11.jpg)
 
 </details>
 
@@ -97,7 +97,7 @@ The interface is in Chinese; English project names, tools and creators are searc
 
 Renders, geometry, editable projects and interactive pages are distinguished. Failed attempts and comparisons retain their limitations. Unknown dates and unpublished prompts remain missing. GPT Image 2 references are never relabeled as Astra geometry.
 
-**Inclusion, attribution and an HTTP response do not establish independent reproduction.** External demos can require desktop hardware, WebGPU, additional assets or sign-in. See the [demo audit](data/demo-audit.json) and [research notes](data/research.json).
+**Inclusion, attribution and an HTTP response do not establish independent reproduction.** External demos can require desktop hardware, WebGPU, additional assets or sign-in. See the [demo audit](data/demo-audit.json), [catalog link audit](data/link-audit.json) and [research notes](data/research.json).
 
 ## Run locally
 
