@@ -26,6 +26,12 @@ Updated **2026-09-11 (Asia/Shanghai)** · **135 Astra examples** · **44 source 
 
 Open a preview for the complete recording, workflow and original source. Images remain on creator hosts; Little Flock is credited to Songkeys (CC BY 4.0). Brick soccer includes 3DAIStudio assets. The Tallinn preview shows scene assets; 3D previs and H3 output are labeled separately in its case file.
 
+## Live website preview
+
+[![Astra 3D Atlas live homepage](docs/media/homepage-live-2026-09-11.png)](https://carpentry-liu.github.io/awesome-astra-3d/)
+
+Captured from the published website on September 11, 2026. Click to explore the gallery.
+
 ## Choose a starting point
 
 | Your goal | Open |
@@ -62,11 +68,11 @@ Three featured works are visible together. Desktop navigation places categories 
 The interface is in Chinese; English project names, tools and creators are searchable. Keyboard navigation, a mobile layout and image failure states are supported.
 
 <details>
-<summary>Desktop and mobile screenshots · September 11, 2026</summary>
+<summary>Gallery and mobile screenshots · September 11, 2026</summary>
 
-[![Desktop: three featured works and category navigation](docs/media/welcome-desktop-2026-09-11.png)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Latest examples and category sidebar](docs/media/collection-live-2026-09-11.png)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![Mobile welcome page and resource navigation](docs/media/welcome-mobile-2026-09-11.png)
+![Mobile welcome page and resource navigation](docs/media/mobile-live-2026-09-11.png)
 
 </details>
 

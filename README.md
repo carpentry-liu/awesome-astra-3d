@@ -26,6 +26,12 @@
 
 点击效果图查看完整视频、创作过程和原始来源。图片外链原作者媒体，Little Flock 署名 Songkeys（CC BY 4.0）。积木球赛含 3DAIStudio 资产；塔林预览是场景资产，三维预演与 H3 成片在详情中分段标注。
 
+## 网站实拍
+
+[![Astra 3D Atlas 正式网站首页](docs/media/homepage-live-2026-09-11.png)](https://carpentry-liu.github.io/awesome-astra-3d/)
+
+正式网站实拍 · 2026-09-11。点击图片进入案例库。
+
 ## 找到你的下一次创作
 
 | 你想做什么 | 从这里开始 |
@@ -64,11 +70,11 @@
 - 手机布局、键盘操作与图片失败提示均保留；方法参考与 Astra 案例分别呈现。
 
 <details>
-<summary>查看新版桌面与手机实拍 · 2026-09-11</summary>
+<summary>查看案例区与手机实拍 · 2026-09-11</summary>
 
-[![桌面首页：三件精选与分类侧栏](docs/media/welcome-desktop-2026-09-11.png)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![最新案例与分类侧栏](docs/media/collection-live-2026-09-11.png)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端欢迎页，精选作品与资源导航](docs/media/welcome-mobile-2026-09-11.png)
+![手机端欢迎页，精选作品与资源导航](docs/media/mobile-live-2026-09-11.png)
 
 </details>
 
