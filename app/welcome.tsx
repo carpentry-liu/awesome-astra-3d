@@ -7,24 +7,26 @@ import { type Case } from '@/src/catalog';
 const spotlights = [
   {
     id: 'songkeys-little-flock',
-    name: 'LITTLE FLOCK',
-    subtitle: '走进山谷，建造小屋，照顾你的羊群',
-    label: '01 / 今日新收录',
+    credit: 'songkeys',
+    name: '在山谷里，建造自己的小世界',
+    label: '可玩游戏',
+    note: 'Little Flock · 进入作者的互动世界',
   },
   {
-    id: 'kana-flower-shop',
-    name: 'FLOWER SHOP',
-    subtitle: '展开街角花店，看清每个部件如何组合',
-    label: '02 / 拆解动画',
+    id: 'nickson-studio-photos',
+    credit: '@rpnickson',
+    name: '把九张照片，变成一间工作室',
+    label: '照片重建',
+    note: '从真实空间到可交互的三维场景',
   },
   {
-    id: 'givros-wetland',
-    name: 'WETLAND LAKE',
-    subtitle: '从湖畔小屋，到芦苇与野生动物的世界',
-    label: '03 / 自然场景',
+    id: 'will-cube-city',
+    credit: '@old_pgmrs_will',
+    name: '一张参考图，一座立方体城市',
+    label: 'Blender 建模',
+    note: 'GPT Image 2.5 参考图 → Astra 建模',
   },
 ];
-
 export function Welcome({
   cases,
   onOpen,
@@ -34,63 +36,49 @@ export function Welcome({
   onOpen: (item: Case) => void;
   onExplore: (resource: string, order?: string) => void;
 }) {
-  const [active, setActive] = useState(0);
-  const [failedImage, setFailedImage] = useState<string | null>(null);
+  const [failedImages, setFailedImages] = useState<string[]>([]);
   const astra = cases.filter((c) => c.group === 'astra');
   const latest = astra
     .map((c) => c.addedAt)
-    .sort((a, b) => a.localeCompare(b))
+    .sort()
     .at(-1)!;
-  const spotlight = spotlights[active];
-  const item = astra.find((c) => c.id === spotlight.id)!;
   const resources = [
-    {
-      value: 'all',
-      count: astra.length,
-      label: 'Astra 案例',
-      icon: Layers3,
-      note: '按来源分级收录',
-    },
+    { value: 'all', count: astra.length, label: 'Astra 案例', icon: Layers3 },
     {
       value: 'source',
       count: astra.filter((c) => c.repositoryUrl).length,
       label: '源码 / 工程',
       icon: Code2,
-      note: '打开项目，继续探索',
     },
     {
       value: 'demo',
       count: astra.filter((c) => c.demoUrl).length,
       label: '演示入口',
       icon: ArrowUpRight,
-      note: '进入作者的三维世界',
     },
     {
       value: 'video',
       count: astra.reduce((n, c) => n + (c.archivedVideos?.length ?? 0), 0),
       label: '完整视频',
       icon: Play,
-      note: '看清作品的动态细节',
     },
   ];
   return (
     <>
       <section className="welcome" aria-labelledby="welcome-title">
-        <div className="welcome-copy">
-          <p className="eyebrow">
-            <span className="live-dot" />
-            THE OPEN 3D COLLECTION
-          </p>
-          <h1 id="welcome-title">
-            想法有了
-            <br />
-            <span>三维的形状。</span>
-          </h1>
-          <p className="welcome-description">
-            探索 GPT-6 Astra 创作的空间、游戏与模型。
-            <br className="desktop-break" />
-            从一件作品出发，找到作者、源码和创作过程。
-          </p>
+        <div className="welcome-intro">
+          <div>
+            <p className="eyebrow">
+              <span className="live-dot" /> THE OPEN 3D COLLECTION
+            </p>
+            <h1 id="welcome-title">
+              让下一次创作，<span>从这里开始。</span>
+            </h1>
+            <p className="welcome-description">
+              探索 GPT-6 Astra
+              的空间、游戏与模型。找到作品，也找到作者、工程和创作过程。
+            </p>
+          </div>
           <div className="welcome-actions">
             <a
               href="#collection"
@@ -107,88 +95,74 @@ export function Welcome({
               最新收录 <ArrowUpRight size={17} />
             </a>
           </div>
-          <p className="welcome-date">
-            持续整理的开放档案 <span>/</span> 更新于{' '}
-            {latest.replaceAll('-', '.')}
-          </p>
         </div>
-        <div className="spotlight">
-          <button
-            className="spotlight-art"
-            onClick={() => onOpen(item)}
-            aria-label={`查看精选案例：${item.title}`}
-          >
-            {item.imageUrl && failedImage !== item.id ? (
-              <img
-                key={item.id}
-                src={item.imageUrl}
-                alt={item.imageCaption}
-                fetchPriority="high"
-                referrerPolicy="no-referrer"
-                onError={() => setFailedImage(item.id)}
-              />
-            ) : (
-              <div className="spotlight-fallback">
-                <Layers3 size={48} />
-                <span>查看作者作品与创作过程</span>
-              </div>
-            )}
-            <span className="spotlight-kicker">
-              FEATURED EXPLORATION <ArrowUpRight size={19} />
-            </span>
-            <span className="spotlight-caption">
-              <span>{spotlight.name}</span>
-              <small>{spotlight.subtitle}</small>
-            </span>
-          </button>
-          <div className="spotlight-links">
-            <button onClick={() => onOpen(item)}>
-              查看作品档案 <ArrowRight size={14} />
-            </button>
-            {item.demoUrl ? (
-              <a href={item.demoUrl} target="_blank" rel="noreferrer">
-                打开演示 <ArrowUpRight size={14} />
-              </a>
-            ) : (
-              <a href={item.sourceUrl} target="_blank" rel="noreferrer">
-                阅读创作过程 <ArrowUpRight size={14} />
-              </a>
-            )}
-          </div>
-          <div className="spotlight-selector" aria-label="精选作品">
-            {spotlights.map((entry, index) => (
-              <button
-                key={entry.id}
-                aria-pressed={active === index}
-                onClick={() => setActive(index)}
-              >
-                {entry.label}
-                <span />
-              </button>
-            ))}
-          </div>
-          <p className="spotlight-credit">
-            {item.author} ·{' '}
-            {item.imageKind === 'render'
-              ? '作者场景渲染'
-              : item.imageKind === 'video-poster'
-                ? '原帖视频封面'
-                : '作者作品预览'}{' '}
-            · 图片归原作者
-          </p>
+        <div className="featured-heading">
+          <span>
+            本期精选 <span className="featured-divider">/</span> EDITOR&apos;S PICKS
+          </span>
+          <span>更新于 {latest.replaceAll('-', '.')}</span>
+        </div>
+        <div className="featured-grid">
+          {spotlights.map((entry, index) => {
+            const item = astra.find((c) => c.id === entry.id)!;
+            return (
+              <article className="featured-work" key={entry.id}>
+                <button
+                  className="featured-art"
+                  onClick={() => onOpen(item)}
+                  aria-label={`查看精选案例：${item.title}`}
+                >
+                  {item.imageUrl && !failedImages.includes(item.id) ? (
+                    <img
+                      src={item.imageUrl}
+                      alt={item.imageCaption}
+                      fetchPriority={index === 0 ? 'high' : 'auto'}
+                      referrerPolicy="no-referrer"
+                      onError={() =>
+                        setFailedImages((ids) => [...ids, item.id])
+                      }
+                    />
+                  ) : (
+                    <div className="spotlight-fallback">
+                      <Layers3 size={40} />
+                      <span>查看作者作品</span>
+                    </div>
+                  )}
+                  <span className="featured-label">{entry.label}</span>
+                  <span className="featured-arrow">
+                    <ArrowUpRight size={22} />
+                  </span>
+                </button>
+                <div className="featured-caption">
+                  <h2>
+                    <button onClick={() => onOpen(item)}>{entry.name}</button>
+                  </h2>
+                  <p>{entry.note}</p>
+                  <div className="featured-credit">
+                    <span>{entry.credit} · 作者作品预览</span>
+                    {item.demoUrl ? (
+                      <a href={item.demoUrl} target="_blank" rel="noreferrer">
+                        打开演示 <ArrowUpRight size={14} />
+                      </a>
+                    ) : (
+                      <button onClick={() => onOpen(item)}>
+                        创作过程 <ArrowRight size={14} />
+                      </button>
+                    )}
+                  </div>
+                </div>
+              </article>
+            );
+          })}
         </div>
       </section>
       <nav className="resource-paths" aria-label="探索作品资源">
-        {resources.map(({ value, count, label, icon: Icon, note }) => (
+        {resources.map(({ value, count, label, icon: Icon }) => (
           <a key={value} href="#collection" onClick={() => onExplore(value)}>
             <Icon size={19} />
-            <div>
-              <strong>
-                {count.toString().padStart(2, '0')} <span>{label}</span>
-              </strong>
-              <p>{note}</p>
-            </div>
-            <ArrowUpRight size={17} />
+            <strong>{count}</strong>
+            <span>{label}</span>
+            <ArrowUpRight size={16} />
           </a>
         ))}
       </nav>

@@ -26,3 +26,5 @@ Astra 3D Atlas 收集 GPT-6 Astra 建模、交互世界与空间可视化作品�
 第三方图片仅外链展示并标注来源；失败显示明确的原帖入口。无身份认证、自动抓取、自动发帖和大模型 API 调用。Git 提交可回滚网站与同版本数据，静态部署可回退历史版本。
 
 2026-09-08：首页提取为 `app/welcome.tsx`，README 的统计和最新八条记录统一由 `scripts/generate-catalog.mjs` 生成。演示可达性快照记录于 `data/demo-audit.json`，不将 HTTP 200 当作完成试玩。
+
+2026-09-11：精选改为三件同时展示，桌面分类及来源侧栏与大图列表并列，手机筛选横向滚动。布局样式置于 `app/gallery.css`；不改变 URL 检索契约。视频可选阶段标题和封面与每段原帖绑定，混合工具流程分别展示。方案与同类调研见 [F-0007](docs/features/F-0007-gallery-layout/README.md)。

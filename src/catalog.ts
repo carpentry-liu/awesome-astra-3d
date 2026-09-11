@@ -1,5 +1,5 @@
 export type EvidenceLevel = 'official' | 'author' | 'secondary' | 'reference';
-export type ArchivedVideo = {playbackUrl:string;downloadUrl:string;durationSeconds:number;bytes:number;sha256:string;sourceUrl:string};
+export type ArchivedVideo = {label?:string;posterUrl?:string;playbackUrl:string;downloadUrl:string;durationSeconds:number;bytes:number;sha256:string;sourceUrl:string};
 export type Case = {
  id:string; title:string; titleEn:string|null; group:'astra'|'reference'; category:string; platform:string; platforms:string[]; author:string|null;
  sourceUrl:string; sourceDate:string|null; secondaryPublishedAt:string|null; observedAt:string; addedAt:string; modelLabel:string; evidenceLevel:EvidenceLevel; evidenceStatus:string; evidenceNote:string; sourceAccess:string;

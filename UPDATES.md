@@ -2,6 +2,17 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-09-11 · 6 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [9 张照片到工作室：空间重建与交互 / Studio from Nine Photos](https://carpentry-liu.github.io/awesome-astra-3d/#case=nickson-studio-photos) | Roberto Nickson / @rpnickson | 完整视频 |
+| [Houdini：程序化建模、灯光与动画 / Procedural Modeling in Houdini](https://carpentry-liu.github.io/awesome-astra-3d/#case=yokohara-houdini) | Hirokazu Yokohara / @Yokohara_h | 完整视频 |
+| [积木天气：汽车球赛的风格改造 / Brick Weather Car Soccer](https://carpentry-liu.github.io/awesome-astra-3d/#case=jannn-brick-weather) | Jan / @CreatedByJannn | 完整视频 |
+| [鞋楦动画：用三维运动引导 FLORA / Shoe Last Motion Workflow](https://carpentry-liu.github.io/awesome-astra-3d/#case=flora-shoe-last) | FLORA © / @floraai | 完整视频 |
+| [立方体城市：图像参考与 Blender 建模 / Cube City from an Image Reference](https://carpentry-liu.github.io/awesome-astra-3d/#case=will-cube-city) | いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram / @old_pgmrs_will | 完整视频 |
+| [塔林旧城：场景资产、三维预演与 H3 成片 / Tallinn Scene and Previsualization](https://carpentry-liu.github.io/awesome-astra-3d/#case=yachimat-tallinn) | yachimat - AI Short Anime / @yachimat_manga | 完整视频 |
+
 ## 2026-09-10 · 26 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

@@ -1,0 +1,234 @@
+/* Category navigation and results share the existing URL filter contract. */
+.catalog-layout {
+  display: grid;
+  grid-template-columns: 184px minmax(0, 1fr);
+  gap: 28px;
+  align-items: start;
+}
+.catalog-sidebar {
+  position: sticky;
+  top: 24px;
+  border-right: 1px solid var(--border);
+  padding-right: 20px;
+}
+.catalog-sidebar h3 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  font-weight: 500;
+  color: #899bb5;
+  margin: 9px 0 13px;
+}
+.catalog-sidebar .filter-row {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-bottom: 28px;
+}
+.catalog-sidebar .filter {
+  justify-content: space-between;
+  padding: 9px 10px;
+  border-color: transparent;
+  text-align: left;
+  font-size: 14px;
+}
+.catalog-sidebar .filter.active {
+  background: #203653;
+  border-color: #3b5477;
+}
+.catalog-sidebar .filter span {
+  color: #7d91ae;
+}
+.catalog-sidebar .filter.active span {
+  color: #c1d6f8;
+}
+.catalog-sidebar .platforms {
+  gap: 7px 12px;
+}
+.catalog-sidebar .platforms button {
+  font-size: 14px;
+  padding: 5px 0;
+}
+.sidebar-note {
+  font-size: 12px;
+  line-height: 1.9;
+  color: #8293ad;
+  margin: 24px 0 0;
+}
+.catalog-results {
+  min-width: 0;
+}
+.catalog-results .material-row {
+  margin: 0 0 17px;
+  gap: 9px;
+}
+.catalog-results .material-filters {
+  gap: 6px;
+}
+.catalog-results .material {
+  padding: 7px 10px;
+}
+.catalog-results .collection-tools {
+  gap: 4px;
+}
+.catalog-results .collection-tools button {
+  font-size: 12px;
+}
+.catalog-results .result-bar {
+  margin-bottom: 18px;
+  font-size: 12px;
+}
+.result-bar strong {
+  color: #e0e9f8;
+  font-weight: 500;
+}
+.catalog-results .case-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 22px 18px;
+}
+.catalog-results .case-image {
+  aspect-ratio: 1.55;
+}
+.catalog-results .card-content {
+  padding: 17px;
+}
+.catalog-results .case-card h3 {
+  font-size: 18px;
+  line-height: 1.55;
+  margin-bottom: 10px;
+}
+.catalog-results .case-summary {
+  -webkit-line-clamp: 2;
+  line-height: 1.75;
+  flex: initial;
+  margin-bottom: 12px;
+}
+.catalog-results .case-meta {
+  margin-bottom: 10px;
+  gap: 6px;
+}
+.catalog-results .tags {
+  margin-bottom: 12px;
+  gap: 5px;
+}
+.catalog-results .card-resources {
+  margin-bottom: 12px;
+}
+.catalog-results .card-resources:empty {
+  display: none;
+}
+.catalog-results .card-bottom {
+  gap: 12px;
+  padding-top: 13px;
+}
+.card-bottom > span {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+.catalog-results .card-bottom > span {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.collection-head .search {
+  width: 360px;
+  max-width: 100%;
+  padding: 7px 12px;
+  border: 1px solid #34445b;
+  border-radius: 5px;
+  background: #101923;
+}
+.collection-head .search:focus-within {
+  border-color: #a9c8ff;
+}
+.video-stage {
+  color: #dbe9ff;
+  font-size: 16px;
+  line-height: 1.6;
+  font-weight: 500;
+  margin: 0 0 10px;
+}
+@media (min-width: 1600px) {
+  main {
+    max-width: 1600px;
+  }
+}
+@media (max-width: 1200px) {
+  .catalog-layout {
+    grid-template-columns: 164px minmax(0, 1fr);
+    gap: 20px;
+  }
+  .catalog-sidebar {
+    padding-right: 14px;
+  }
+  .catalog-results .case-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 900px) {
+  .catalog-layout {
+    display: block;
+  }
+  .catalog-sidebar {
+    position: static;
+    border-right: 0;
+    padding: 0;
+    margin: 0 0 18px;
+  }
+  .catalog-sidebar h3 {
+    display: none;
+  }
+  .catalog-sidebar .filter-row {
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    gap: 7px;
+    padding-bottom: 8px;
+    margin-bottom: 8px;
+  }
+  .catalog-sidebar .filter {
+    flex-shrink: 0;
+    gap: 9px;
+    border-color: #2d3645;
+    padding: 7px 10px;
+  }
+  .catalog-sidebar .platforms {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    padding-bottom: 6px;
+    gap: 16px;
+  }
+  .catalog-sidebar .platforms button {
+    flex-shrink: 0;
+  }
+  .sidebar-note {
+    display: none;
+  }
+  .catalog-results .material-row {
+    margin-bottom: 12px;
+  }
+}
+@media (max-width: 640px) {
+  .catalog-results .case-grid {
+    grid-template-columns: 1fr;
+    gap: 22px;
+  }
+  .catalog-results .case-image {
+    aspect-ratio: 1.55;
+  }
+  .catalog-results .card-content {
+    padding: 17px;
+  }
+  .collection-head .search {
+    width: 100%;
+  }
+  .catalog-results .collection-tools {
+    width: 100%;
+    justify-content: space-between;
+  }
+  .catalog-results .case-card h3 {
+    font-size: 19px;
+  }
+}

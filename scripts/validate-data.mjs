@@ -19,6 +19,8 @@ for(const c of cases){
  if(c.imageUrl)assert(c.imageCaption&&c.imageKind);
  for(const video of c.archivedVideos??[]){
   for(const key of ['playbackUrl','downloadUrl','sourceUrl'])validUrl(video[key]);
+  if(video.posterUrl)validUrl(video.posterUrl);
+  if(video.label!==undefined)assert(typeof video.label==='string'&&video.label.trim());
   assert(video.durationSeconds>0&&video.bytes>0);assert.match(video.sha256,/^[a-f0-9]{64}$/);
  }
 }

@@ -1,14 +1,17 @@
 # 案例目录
 
-由 `data/cases.json` 生成。最近核查：2026-09-10。[上手路线](START_HERE.md) · [最新收录](UPDATES.md)。作品归属基于公开来源，不代表独立复现。
+由 `data/cases.json` 生成。最近核查：2026-09-11。[上手路线](START_HERE.md) · [最新收录](UPDATES.md)。作品归属基于公开来源，不代表独立复现。
 
-## GPT-6 Astra 案例（129）
+## GPT-6 Astra 案例（135）
 
 ### 建筑与室内
 
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
 | [Solace：从建筑概念到 Blender 与 UE5 漫游](https://developers.openai.com/blog/architectural-visualization-with-astra) | Thomas Ricouard · OpenAI | 官方展示 | [视频](https://cdn.openai.com/devhub/blog/architectural-visualization/atelier-house-tour-30s-1080p-ddb8f2c81368.webm) · [提示词/过程](https://developers.openai.com/blog/architectural-visualization-with-astra) |
+| [9 张照片到工作室：空间重建与交互](https://x.com/rpnickson/status/2097488440489116111) | Roberto Nickson / @rpnickson · X | 转引待复核 | [视频](https://x.com/rpnickson/status/2097488440489116111) |
+| [立方体城市：图像参考与 Blender 建模](https://x.com/old_pgmrs_will/status/2097506064078147861) | いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram / @old_pgmrs_will · X | 转引待复核 | [视频](https://x.com/old_pgmrs_will/status/2097506064078147861) |
+| [塔林旧城：场景资产、三维预演与 H3 成片](https://x.com/yachimat_manga/status/2097810202762285265) | yachimat - AI Short Anime / @yachimat_manga · X | 转引待复核 | [视频](https://x.com/yachimat_manga/status/2097810202762285265) |
 | [书桌一角：Blender 工程与实时网页](https://github.com/magicyan418/3D-ROOM-TEST) | magicyan418 · GitHub | 作者自述 | [在线作品](https://3-d-room-test.vercel.app) · [源码](https://github.com/magicyan418/3D-ROOM-TEST) |
 | [祈年殿：Three.js 建筑展示](https://x.com/goan999999/status/2097323734504017936) | govin.eth \| G哥 / @goan999999 · X | 转引待复核 | [视频](https://x.com/goan999999/status/2097323734504017936) |
 | [同户型四种家装：Astra 与 Fable 对照](https://github.com/hahaliu1029/house-3d) | hahaliu1029 · GitHub | 作者自述 | [在线作品](https://www.lyx666.cn/housegpt/?style=song) · [源码](https://github.com/hahaliu1029/house-3d/tree/main/gpt6) · [视频](https://github.com/hahaliu1029/house-3d/blob/main/media/videos/house-realistic-comparison-plan-music.mp4) |
@@ -34,6 +37,7 @@
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
 | [Sunwake：波浪中的航海旅程](https://developers.openai.com/showcase/sunwake) | Thomas Ricouard, OpenAI · OpenAI | 官方展示 | [在线作品](https://sunwake-the-last-light.openai.chatgpt.site/) · [提示词/过程](https://developers.openai.com/showcase/sunwake) |
+| [积木天气：汽车球赛的风格改造](https://x.com/CreatedByJannn/status/2097706846056558912) | Jan / @CreatedByJannn · X | 转引待复核 | [视频](https://x.com/CreatedByJannn/status/2097706846056558912) |
 | [Little Flock：小羊慢慢的牧场世界](https://github.com/songkeys/little-flock) | songkeys · GitHub | 作者自述 | [在线作品](https://sharpherd.song.work) · [源码](https://github.com/songkeys/little-flock) · [视频](https://x.com/songkeys/status/2097231024375935286) · [提示词/过程](https://github.com/songkeys/little-flock#the-one-shot-goal-prompt) |
 | [Chess Cubed：六面立方体棋盘](https://www.reddit.com/r/codex/comments/1wbmthc/i_built_chess_cubed_with_gpt6_astra_in_4_days/) | digitalml · Reddit | 作者自述 | [在线作品](https://playchesscubed.com/) · [视频](https://www.reddit.com/r/codex/comments/1wbmthc/i_built_chess_cubed_with_gpt6_astra_in_4_days/) |
 | [Roblox 卡丁车：漂移、加速与 AI 对手](https://x.com/givros/status/2096219700879331665) | Givros / @givros · X | 转引待复核 | [视频](https://x.com/givros/status/2096219700879331665) |
@@ -66,25 +70,11 @@
 | [Robo Open：Unity 机器人网球与绑定迭代](https://github.com/az9713/gpt-6-astra-tennis-game) | az9713 · GitHub | 作者自述 | [源码](https://github.com/az9713/gpt-6-astra-tennis-game) · [视频](https://raw.githubusercontent.com/az9713/gpt-6-astra-tennis-game/main/docs/media/match2.mp4) · [提示词/过程](https://github.com/az9713/gpt-6-astra-tennis-game/blob/main/DEVELOPMENT-JOURNEY.md) |
 | [Minecrack：六边形群岛中的生存建造](https://github.com/anisayari/minecrack) | Anis Ayari · GitHub | 作者自述 | [源码](https://github.com/anisayari/minecrack) |
 
-### 拆解与剖面
-
-| 作品 | 作者 / 来源 | 证据 | 产物与过程 |
-|---|---|---|---|
-| [日式花店：街角模型的展开与重组](https://x.com/KanaWorks_AI/status/2097153139795468365) | KANA｜東京AI映像 / @KanaWorks_AI · X | 转引待复核 | [视频](https://x.com/KanaWorks_AI/status/2097153139795468365) · [提示词/过程](https://x.com/KanaWorks_AI/status/2097153139795468365) |
-| [Model X Studio：334 个网格的交互拆解](https://x.com/ashebytes/status/2096009146248122416) | ashe / @ashebytes · X | 转引待复核 | [在线作品](https://model-x-studio.vercel.app) · [源码](https://github.com/ashemag/model-x-studio) · [视频](https://x.com/ashebytes/status/2096009146248122416) |
-| [Microduck：机器人 CAD 装配探索台](https://x.com/tspy/status/2096238855519453662) | yishan / @tspy · X | 转引待复核 | [在线作品](https://microduck-assembly-lab.yishan-lin.chatgpt.site/) · [视频](https://x.com/tspy/status/2096238855519453662) |
-| [交互涡轮增压器：旋转、拆分与隔离部件](https://x.com/Feraser8/status/2095776712579571725) | Feraser (@Feraser8) · X | 转引待复核 | [视频](https://x.com/Feraser8/status/2095776712579571725) · [提示词/过程](https://x.com/Feraser8/status/2095776712579571725) |
-| [USS Enterprise：星舰 CAD 装配展示](https://x.com/DeryaTR_/status/2095641163441254676) | Derya Unutmaz (@DeryaTR_) · X | 转引待复核 | [视频](https://x.com/DeryaTR_/status/2095641163441254676) |
-| [机械光圈对照：保留原始生成代码与失败记录](https://github.com/teshnizi2/astra-fable-3d-iris) | teshnizi2 · GitHub | 作者自述 | [源码](https://github.com/teshnizi2/astra-fable-3d-iris) · [视频](https://github.com/teshnizi2/astra-fable-3d-iris/blob/main/evidence/high/comparison-high.mp4) · [提示词/过程](https://github.com/teshnizi2/astra-fable-3d-iris/blob/main/PROMPT.md) |
-| [Hullscope：拆开船体，观察系统与部件](https://github.com/cristianexer/Hullscope) | Cristian Exer · GitHub | 作者自述 | [在线作品](https://hullscope.cristianexer.dev/Hullscope/) · [源码](https://github.com/cristianexer/Hullscope) |
-| [电脑主机拆解：逐层查看核心部件](https://x.com/icooperhero/status/2096578761877860502) | cooper / @icooperhero · X | 转引待复核 | [视频](https://x.com/icooperhero/status/2096578761877860502) |
-| [RIG / 3090：滚动拆解显卡工作站](https://github.com/alesha-pro/bench-portal/blob/main/games/rig-3090-astra/game.json) | alesha-pro · GitHub | 作者自述 | [在线作品](https://alesha-pro.github.io/bench-portal/games/rig-3090-astra/) · [源码](https://github.com/alesha-pro/bench-portal/tree/main/games/rig-3090-astra) |
-| [BelugaXL Explorer：可拆解的白鲸运输机](https://github.com/victoriadrake/belugaxl-explorer) | Victoria Drake · GitHub | 作者自述 | [在线作品](https://victoria.dev/belugaxl-explorer/) · [源码](https://github.com/victoriadrake/belugaxl-explorer) |
-
 ### 程序化场景
 
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
+| [Houdini：程序化建模、灯光与动画](https://x.com/Yokohara_h/status/2097666997719089337) | Hirokazu Yokohara / @Yokohara_h · X | 转引待复核 | [视频](https://x.com/Yokohara_h/status/2097666997719089337) |
 | [湿地湖畔：小屋、芦苇与野生动物](https://x.com/givros/status/2097343467026289039) | Givros / @givros · X | 转引待复核 | [视频](https://x.com/givros/status/2097343467026289039) · [提示词/过程](https://x.com/givros/status/2097343467026289039) |
 | [Verdant Forest：实时森林与自定义着色器](https://x.com/LexnLin/status/2096263046918197609) | Leon Lin / @LexnLin · X | 转引待复核 | [在线作品](https://verdant-forest.lexn8.chatgpt.site) · [视频](https://x.com/LexnLin/status/2096263046918197609) |
 | [雨夜机器人：天气、灯光与场景迭代](https://x.com/anshuc/status/2096584624432374151) | Anshu / @anshuc · X | 转引待复核 | [视频](https://x.com/anshuc/status/2096584624432374151) |
@@ -105,6 +95,7 @@
 
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
+| [鞋楦动画：用三维运动引导 FLORA](https://x.com/floraai/status/2097763728217272598) | FLORA © / @floraai · X | 转引待复核 | [视频](https://x.com/floraai/status/2097763728217272598) |
 | [巨龙短镜头：Blender Python 迭代](https://x.com/doomdave/status/2096335588727349434) | Sarang Borude / @doomdave · X | 转引待复核 | [视频](https://x.com/doomdave/status/2096335588727349434) |
 | [Tripo 角色：服装 UV 与贴图修整](https://github.com/syaripin-i8i/blender-astra-texture-guide) | syaripin-i8i · GitHub | 作者自述 | [提示词/过程](https://github.com/syaripin-i8i/blender-astra-texture-guide/tree/main/prompts) |
 | [拖拉机总成：长时间建模与动画实验](https://www.reddit.com/r/codex/comments/1wb8wgr/gpt6_astra_max_spent_7_hours_building_a_fully/) | yo_hello_123 · Reddit | 作者自述 | [视频](https://www.reddit.com/r/codex/comments/1wb8wgr/gpt6_astra_max_spent_7_hours_building_a_fully/) |
@@ -128,6 +119,21 @@
 | [Blender 甜甜圈：中文作者建模尝试](https://www.bilibili.com/video/BV16ct26KEm5/) | 歸藏的AI工具箱 · Bilibili | 作者自述 | [视频](https://www.bilibili.com/video/BV16ct26KEm5/) |
 | [照片到 LEGO 风格角色：Blender 游戏资产实验](https://x.com/_simonsmith/status/2096766465730847059) | Simon Smith / @_simonsmith · X | 转引待复核 | [视频](https://x.com/_simonsmith/status/2096766465730847059) · [提示词/过程](https://x.com/_simonsmith/status/2096766465730847059) |
 | [AURELION-07：可编辑科幻巡洋舰](https://developers.openai.com/blog/architectural-visualization-with-astra) | Thomas Ricouard · OpenAI | 官方展示 | [提示词/过程](https://developers.openai.com/blog/architectural-visualization-with-astra#design-beyond-architecture) |
+
+### 拆解与剖面
+
+| 作品 | 作者 / 来源 | 证据 | 产物与过程 |
+|---|---|---|---|
+| [日式花店：街角模型的展开与重组](https://x.com/KanaWorks_AI/status/2097153139795468365) | KANA｜東京AI映像 / @KanaWorks_AI · X | 转引待复核 | [视频](https://x.com/KanaWorks_AI/status/2097153139795468365) · [提示词/过程](https://x.com/KanaWorks_AI/status/2097153139795468365) |
+| [Model X Studio：334 个网格的交互拆解](https://x.com/ashebytes/status/2096009146248122416) | ashe / @ashebytes · X | 转引待复核 | [在线作品](https://model-x-studio.vercel.app) · [源码](https://github.com/ashemag/model-x-studio) · [视频](https://x.com/ashebytes/status/2096009146248122416) |
+| [Microduck：机器人 CAD 装配探索台](https://x.com/tspy/status/2096238855519453662) | yishan / @tspy · X | 转引待复核 | [在线作品](https://microduck-assembly-lab.yishan-lin.chatgpt.site/) · [视频](https://x.com/tspy/status/2096238855519453662) |
+| [交互涡轮增压器：旋转、拆分与隔离部件](https://x.com/Feraser8/status/2095776712579571725) | Feraser (@Feraser8) · X | 转引待复核 | [视频](https://x.com/Feraser8/status/2095776712579571725) · [提示词/过程](https://x.com/Feraser8/status/2095776712579571725) |
+| [USS Enterprise：星舰 CAD 装配展示](https://x.com/DeryaTR_/status/2095641163441254676) | Derya Unutmaz (@DeryaTR_) · X | 转引待复核 | [视频](https://x.com/DeryaTR_/status/2095641163441254676) |
+| [机械光圈对照：保留原始生成代码与失败记录](https://github.com/teshnizi2/astra-fable-3d-iris) | teshnizi2 · GitHub | 作者自述 | [源码](https://github.com/teshnizi2/astra-fable-3d-iris) · [视频](https://github.com/teshnizi2/astra-fable-3d-iris/blob/main/evidence/high/comparison-high.mp4) · [提示词/过程](https://github.com/teshnizi2/astra-fable-3d-iris/blob/main/PROMPT.md) |
+| [Hullscope：拆开船体，观察系统与部件](https://github.com/cristianexer/Hullscope) | Cristian Exer · GitHub | 作者自述 | [在线作品](https://hullscope.cristianexer.dev/Hullscope/) · [源码](https://github.com/cristianexer/Hullscope) |
+| [电脑主机拆解：逐层查看核心部件](https://x.com/icooperhero/status/2096578761877860502) | cooper / @icooperhero · X | 转引待复核 | [视频](https://x.com/icooperhero/status/2096578761877860502) |
+| [RIG / 3090：滚动拆解显卡工作站](https://github.com/alesha-pro/bench-portal/blob/main/games/rig-3090-astra/game.json) | alesha-pro · GitHub | 作者自述 | [在线作品](https://alesha-pro.github.io/bench-portal/games/rig-3090-astra/) · [源码](https://github.com/alesha-pro/bench-portal/tree/main/games/rig-3090-astra) |
+| [BelugaXL Explorer：可拆解的白鲸运输机](https://github.com/victoriadrake/belugaxl-explorer) | Victoria Drake · GitHub | 作者自述 | [在线作品](https://victoria.dev/belugaxl-explorer/) · [源码](https://github.com/victoriadrake/belugaxl-explorer) |
 
 ### 科学与教育
 

@@ -1,8 +1,8 @@
 <div align="center">
 
-# ASTRA / 3D ATLAS
+# Awesome GPT-6 Astra 3D
 
-### Explore what an idea can become in 3D.
+### Real work. Original creators. Your next starting point.
 
 Explore GPT-6 Astra in 3D: Blender, Three.js, WebGL, CAD, VRM and interactive games. Find attributed examples, editable projects, demos and complete videos.
 
@@ -13,12 +13,18 @@ Explore GPT-6 Astra in 3D: Blender, Three.js, WebGL, CAD, VRM and interactive ga
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-09-10 (Asia/Shanghai)** · **129 Astra examples** · **44 source / project links** · **55 demo links** · **58 complete videos** · **12 separate references**.
+Updated **2026-09-11 (Asia/Shanghai)** · **135 Astra examples** · **44 source / project links** · **55 demo links** · **66 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
-[![Astra 3D Atlas: featured work, resource shortcuts and the case gallery](docs/media/welcome-desktop-2026-09-10.png)](https://carpentry-liu.github.io/awesome-astra-3d/)
+## New work, at a glance
 
-Actual website capture · September 10, 2026.
+| Nine photos → a studio | Houdini · procedural architecture | Car soccer · brick weather |
+| --- | --- | --- |
+| [![Studio from Nine Photos — Roberto Nickson / @rpnickson](https://pbs.twimg.com/amplify_video_thumb/2097488345542660096/img/AMsWCLAtpDBFC6nu.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=nickson-studio-photos) | [![Procedural Modeling in Houdini — Hirokazu Yokohara / @Yokohara_h](https://pbs.twimg.com/amplify_video_thumb/2097665135863345152/img/s5w6T3ULXiUQpjOR.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=yokohara-houdini) | [![Brick Weather Car Soccer — Jan / @CreatedByJannn](https://pbs.twimg.com/amplify_video_thumb/2097340760001548288/img/uEv8cTvt3-j3Qm0R.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=jannn-brick-weather) |
+| Reference → cube city | Tallinn · scene assets | Little Flock · a farming world |
+| [![Cube City from an Image Reference — いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram / @old_pgmrs_will](https://pbs.twimg.com/amplify_video_thumb/2097505780085993472/img/6zfwunEdVDTWlZK4.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=will-cube-city) | [![Tallinn Scene and Previsualization — yachimat - AI Short Anime / @yachimat_manga](https://pbs.twimg.com/amplify_video_thumb/2097809399934849037/img/FOSfG-FzF7eDSuAL.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=yachimat-tallinn) | [![Little Flock — songkeys](https://raw.githubusercontent.com/songkeys/little-flock/main/docs/demo-poster.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=songkeys-little-flock) |
+
+Open a preview for the complete recording, workflow and original source. Images remain on creator hosts; Little Flock is credited to Songkeys (CC BY 4.0). Brick soccer includes 3DAIStudio assets. The Tallinn preview shows scene assets; 3D previs and H3 output are labeled separately in its case file.
 
 ## Choose a starting point
 
@@ -30,47 +36,37 @@ Actual website capture · September 10, 2026.
 | Follow a learning path | [Blender, web and game starting points](START_HERE.md) |
 | Reuse the index | [Catalog](CATALOG.md) · [Public JSON](https://carpentry-liu.github.io/awesome-astra-3d/cases.json) |
 
-## New work, at a glance
-
-| Little Flock · a sheep-farming world | Flower shop · exploded animation |
-| --- | --- |
-| [![Little Flock — songkeys](https://raw.githubusercontent.com/songkeys/little-flock/main/docs/demo-poster.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=songkeys-little-flock) | [![Japanese Flower Shop Exploded View — KANA｜東京AI映像 / @KanaWorks_AI](https://pbs.twimg.com/amplify_video_thumb/2097151136155553792/img/AuzVjF2Jxc14tJqt.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=kana-flower-shop) |
-| Wetland lake · scene workflow | Room Studio · offline Blender render |
-| [![Cozy Wetland Lake — Givros / @givros](https://pbs.twimg.com/amplify_video_thumb/2097343347895525376/img/7BqNRpeoZcou-Xtu.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=givros-wetland) | [![Room Studio — magicyan418](https://raw.githubusercontent.com/magicyan418/3D-ROOM-TEST/main/public/reference.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=magicyan-room-studio) |
-| Temple of Heaven · Three.js | Song-style interior · Fable left / Astra right |
-| [![Temple of Heaven in Three.js — govin.eth &#124; G哥 / @goan999999](https://pbs.twimg.com/amplify_video_thumb/2097323160601546752/img/2k2LggwN0cvh5mVI.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=goan-temple-heaven) | [![Four Interior Styles Comparison — hahaliu1029](https://raw.githubusercontent.com/hahaliu1029/house-3d/main/media/images/song-living-comparison.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=hahaliu-house-styles) |
-
-Open a preview for the case file, full video and original source. Images link to creator-hosted media. Little Flock media is credited to Songkeys (CC BY 4.0); Room Studio shows an offline render; the interior comparison labels Fable on the left and Astra on the right.
-
 ## Latest additions
 
-This update adds **26 examples** across X, GitHub, Reddit, Bilibili, Zenn and LINUX DO, plus **17 complete X recordings**. Explore sheep farming, exploded buildings, Roblox racing, interior comparisons and texture repair. The documented texture workflow is not counted as a downloadable source project. Collection dates remain separate from original publication dates.
+This update adds **6 examples and 8 complete X videos**, each with its highest-bitrate original and a smaller full-length playback version. New subjects include photo reconstruction, Houdini, brick weather, shoe-last motion, cube cities and Tallinn scenes. Mixed-tool stages retain their attribution; an unverified playable link is not counted as a demo.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [Studio from Nine Photos](https://carpentry-liu.github.io/awesome-astra-3d/#case=nickson-studio-photos) | Roberto Nickson / @rpnickson | [Original](https://x.com/rpnickson/status/2097488440489116111) |
+| [Procedural Modeling in Houdini](https://carpentry-liu.github.io/awesome-astra-3d/#case=yokohara-houdini) | Hirokazu Yokohara / @Yokohara_h | [Original](https://x.com/Yokohara_h/status/2097666997719089337) |
+| [Brick Weather Car Soccer](https://carpentry-liu.github.io/awesome-astra-3d/#case=jannn-brick-weather) | Jan / @CreatedByJannn | [Original](https://x.com/CreatedByJannn/status/2097706846056558912) |
+| [Shoe Last Motion Workflow](https://carpentry-liu.github.io/awesome-astra-3d/#case=flora-shoe-last) | FLORA © / @floraai | [Original](https://x.com/floraai/status/2097763728217272598) |
+| [Cube City from an Image Reference](https://carpentry-liu.github.io/awesome-astra-3d/#case=will-cube-city) | いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram / @old_pgmrs_will | [Original](https://x.com/old_pgmrs_will/status/2097506064078147861) |
+| [Tallinn Scene and Previsualization](https://carpentry-liu.github.io/awesome-astra-3d/#case=yachimat-tallinn) | yachimat - AI Short Anime / @yachimat_manga | [Original](https://x.com/yachimat_manga/status/2097810202762285265) |
 | [Little Flock](https://carpentry-liu.github.io/awesome-astra-3d/#case=songkeys-little-flock) | songkeys | [Demo](https://sharpherd.song.work) · [Source](https://github.com/songkeys/little-flock) · [Original](https://github.com/songkeys/little-flock) |
 | [Japanese Flower Shop Exploded View](https://carpentry-liu.github.io/awesome-astra-3d/#case=kana-flower-shop) | KANA｜東京AI映像 / @KanaWorks_AI | [Original](https://x.com/KanaWorks_AI/status/2097153139795468365) |
-| [Cozy Wetland Lake](https://carpentry-liu.github.io/awesome-astra-3d/#case=givros-wetland) | Givros / @givros | [Original](https://x.com/givros/status/2097343467026289039) |
-| [Room Studio](https://carpentry-liu.github.io/awesome-astra-3d/#case=magicyan-room-studio) | magicyan418 | [Demo](https://3-d-room-test.vercel.app) · [Source](https://github.com/magicyan418/3D-ROOM-TEST) · [Original](https://github.com/magicyan418/3D-ROOM-TEST) |
-| [Temple of Heaven in Three.js](https://carpentry-liu.github.io/awesome-astra-3d/#case=goan-temple-heaven) | govin.eth \| G哥 / @goan999999 | [Original](https://x.com/goan999999/status/2097323734504017936) |
-| [Four Interior Styles Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=hahaliu-house-styles) | hahaliu1029 | [Demo](https://www.lyx666.cn/housegpt/?style=song) · [Source](https://github.com/hahaliu1029/house-3d/tree/main/gpt6) · [Original](https://github.com/hahaliu1029/house-3d) |
-| [Chess Cubed](https://carpentry-liu.github.io/awesome-astra-3d/#case=digitalml-chess-cubed) | digitalml | [Demo](https://playchesscubed.com/) · [Original](https://www.reddit.com/r/codex/comments/1wbmthc/i_built_chess_cubed_with_gpt6_astra_in_4_days/) |
-| [Dragon Cinematic in Blender](https://carpentry-liu.github.io/awesome-astra-3d/#case=doomdave-dragon) | Sarang Borude / @doomdave | [Original](https://x.com/doomdave/status/2096335588727349434) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md)
 
 ## The gallery
 
-The welcome page features three works with original creator media. Resource totals link directly to matching cases, and cards expose source and demo links. Combine keyword, category, platform and resource filters, then share the resulting URL. Each case has a direct detail link, attribution, model evidence and available process material.
+Three featured works are visible together. Desktop navigation places categories and sources beside the image-led gallery; mobile filters scroll horizontally. Resource totals link directly to matching cases, and cards expose source and demo links. Combine keyword, category, platform and resource filters, then share the resulting URL. Each case has a direct detail link, attribution, model evidence and available process material.
 
 The interface is in Chinese; English project names, tools and creators are searchable. Keyboard navigation, a mobile layout and image failure states are supported.
 
 <details>
-<summary>Mobile welcome page</summary>
+<summary>Desktop and mobile screenshots · September 11, 2026</summary>
 
-![Mobile welcome page and resource navigation](docs/media/welcome-mobile-2026-09-10.png)
+[![Desktop: three featured works and category navigation](docs/media/welcome-desktop-2026-09-11.png)](https://carpentry-liu.github.io/awesome-astra-3d/)
+
+![Mobile welcome page and resource navigation](docs/media/welcome-mobile-2026-09-11.png)
 
 </details>
 

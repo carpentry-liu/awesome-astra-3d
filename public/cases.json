@@ -79,6 +79,364 @@
     "addedAt": "2026-09-06"
   },
   {
+    "id": "nickson-studio-photos",
+    "title": "9 张照片到工作室：空间重建与交互",
+    "titleEn": "Studio from Nine Photos",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Roberto Nickson / @rpnickson",
+    "sourceUrl": "https://x.com/rpnickson/status/2097488440489116111",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-11",
+    "addedAt": "2026-09-11",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "读取精确原帖镜像。目录指向 Studio in Bricks，但该演示请求 403，故不计入可用演示入口。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者将 9 张工作室照片交给 GPT-6 Astra，展示模型整合空间关系后得到的交互三维场景。当前核实原帖与录像；演示线索访问受限，未确认可玩，空间尺寸与重建精度未经测量。",
+    "outputType": [
+      "照片参考重建",
+      "交互三维空间"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097488345542660096/img/AMsWCLAtpDBFC6nu.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整视频及最高码率下载；各制作阶段分别标注。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/rpnickson/status/2097488440489116111",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/rpnickson/status/2097488440489116111",
+      "https://api.fxtwitter.com/status/2097488440489116111",
+      "https://github.com/magiccreator-ai/awesome-gpt-6-astra"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/nickson-studio-photos-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-11/nickson-studio-photos-1-original.mp4",
+        "durationSeconds": 17.96,
+        "bytes": 30063474,
+        "sha256": "c03fd97c72a44a3015d71c5f85550a611a6aa7801d04f9e4862f98aaa65041bb",
+        "sourceUrl": "https://x.com/rpnickson/status/2097488440489116111",
+        "label": "照片重建：工作室交互模型",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2097488345542660096/img/AMsWCLAtpDBFC6nu.jpg"
+      }
+    ]
+  },
+  {
+    "id": "yokohara-houdini",
+    "title": "Houdini：程序化建模、灯光与动画",
+    "titleEn": "Procedural Modeling in Houdini",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Hirokazu Yokohara / @Yokohara_h",
+    "sourceUrl": "https://x.com/Yokohara_h/status/2097666997719089337",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-11",
+    "addedAt": "2026-09-11",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者让 GPT-6 Astra 操作 Houdini，测试程序化建模并设置灯光和动画。原帖明确说仍要多次提出修改要求；此条记录实际输出，不把作者设想的并行建模写成已验证能力。",
+    "outputType": [
+      "Houdini 程序化建模",
+      "灯光与动画"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097665135863345152/img/s5w6T3ULXiUQpjOR.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整视频及最高码率下载；各制作阶段分别标注。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/Yokohara_h/status/2097666997719089337",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/Yokohara_h/status/2097666997719089337",
+      "https://api.fxtwitter.com/status/2097666997719089337"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/yokohara-houdini-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-11/yokohara-houdini-1-original.mp4",
+        "durationSeconds": 30.13,
+        "bytes": 12382221,
+        "sha256": "0bac09bc43e6ea42f2b8cad448f7ced0baab49c8f7bd72511800d6ab51676388",
+        "sourceUrl": "https://x.com/Yokohara_h/status/2097666997719089337",
+        "label": "Houdini 建模、灯光与动画",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2097665135863345152/img/s5w6T3ULXiUQpjOR.jpg"
+      }
+    ]
+  },
+  {
+    "id": "jannn-brick-weather",
+    "title": "积木天气：汽车球赛的风格改造",
+    "titleEn": "Brick Weather Car Soccer",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Jan / @CreatedByJannn",
+    "sourceUrl": "https://x.com/CreatedByJannn/status/2097706846056558912",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-11",
+    "addedAt": "2026-09-11",
+    "modelLabel": "Astra + 3DAIStudio MCP（作者混合工作流，未给精确模型 ID）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者为已有汽车球赛指定积木风格，连天气也变成积木表现。原帖说明使用 Astra 与 3DAIStudio MCP；基础资产有外部三维生成器参与，不能归为 Astra 从零程序化建模。",
+    "outputType": [
+      "汽车球赛原型",
+      "积木风格改造",
+      "外部资产生成"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097340760001548288/img/uEv8cTvt3-j3Qm0R.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者积木风格变体的原视频封面；不是未改造的基础游戏。 附完整视频及最高码率下载；各制作阶段分别标注。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/CreatedByJannn/status/2097706846056558912",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/CreatedByJannn/status/2097706846056558912",
+      "https://api.fxtwitter.com/status/2097706846056558912",
+      "https://x.com/CreatedByJannn/status/2097337631658987942"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/jannn-brick-weather-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-11/jannn-brick-weather-1-original.mp4",
+        "durationSeconds": 33.56,
+        "bytes": 103143370,
+        "sha256": "b051e34dfaeaafb190afcc08f25ceb2d52b9ccfd0302bd4bd5890a746dafe02f",
+        "sourceUrl": "https://x.com/CreatedByJannn/status/2097706846056558912",
+        "label": "积木风格汽车球赛：外部模型生成器参与",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2097340760001548288/img/uEv8cTvt3-j3Qm0R.jpg"
+      }
+    ]
+  },
+  {
+    "id": "flora-shoe-last",
+    "title": "鞋楦动画：用三维运动引导 FLORA",
+    "titleEn": "Shoe Last Motion Workflow",
+    "group": "astra",
+    "category": "Blender 建模",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "FLORA © / @floraai",
+    "sourceUrl": "https://x.com/floraai/status/2097763728217272598",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-11",
+    "addedAt": "2026-09-11",
+    "modelLabel": "Astra + Blender + FLORA（产品账号自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "FLORA 产品账号展示 Astra 在 Blender 中建鞋楦并先制作运动，再把动画作为 FLORA 后续视频生成的引导。结果包含不同工具阶段，不能把最终影像全部当作 Blender 直接渲染。",
+    "outputType": [
+      "Blender 鞋楦动画",
+      "视频生成运动参考"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2097763713864368141/pu/img/mpPMVg5F5JlAuvfv.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "FLORA 原帖的混合流程视频封面，最终影像包含后续视频生成。 附完整视频及最高码率下载；各制作阶段分别标注。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/floraai/status/2097763728217272598",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/floraai/status/2097763728217272598",
+      "https://api.fxtwitter.com/status/2097763728217272598"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/flora-shoe-last-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-11/flora-shoe-last-1-original.mp4",
+        "durationSeconds": 6.06,
+        "bytes": 575169,
+        "sha256": "34545362d0896763751a2c18340e6fe9c79046d4e518fc0474979500bd58387d",
+        "sourceUrl": "https://x.com/floraai/status/2097763728217272598",
+        "label": "Blender 鞋楦动画驱动 FLORA 视频",
+        "posterUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2097763713864368141/pu/img/mpPMVg5F5JlAuvfv.jpg"
+      }
+    ]
+  },
+  {
+    "id": "will-cube-city",
+    "title": "立方体城市：图像参考与 Blender 建模",
+    "titleEn": "Cube City from an Image Reference",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "いにしえ@高信頼AIニュース\"NeuralWire.org\"運営｜Will Oldgram / @old_pgmrs_will",
+    "sourceUrl": "https://x.com/old_pgmrs_will/status/2097506064078147861",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-11",
+    "addedAt": "2026-09-11",
+    "modelLabel": "Astra（建模）+ GPT Image 2.5（参考图），作者自述",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者把 GPT Image 2.5 生成的立方体城市参考图交给 Astra，在 Blender 中构建三维模型并展示观察录像。图片与三维产物属于不同阶段，原帖未公开完整工程和提示词。",
+    "outputType": [
+      "Blender 建筑模型",
+      "图像参考工作流"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097505780085993472/img/6zfwunEdVDTWlZK4.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整视频及最高码率下载；各制作阶段分别标注。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/old_pgmrs_will/status/2097506064078147861",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/old_pgmrs_will/status/2097506064078147861",
+      "https://api.fxtwitter.com/status/2097506064078147861"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/will-cube-city-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-11/will-cube-city-1-original.mp4",
+        "durationSeconds": 9.11,
+        "bytes": 3423071,
+        "sha256": "bb455270ba48d4ca0c0ccfc969bba79267e2ca30ac5050b0e5fda11c468e50e8",
+        "sourceUrl": "https://x.com/old_pgmrs_will/status/2097506064078147861",
+        "label": "参考图到 Blender 立方体城市",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2097505780085993472/img/6zfwunEdVDTWlZK4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "yachimat-tallinn",
+    "title": "塔林旧城：场景资产、三维预演与 H3 成片",
+    "titleEn": "Tallinn Scene and Previsualization",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "yachimat - AI Short Anime / @yachimat_manga",
+    "sourceUrl": "https://x.com/yachimat_manga/status/2097810202762285265",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-11",
+    "addedAt": "2026-09-11",
+    "modelLabel": "Astra + Blender（三维资产）/ H3（后续视频），作者说明",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "初始资产帖未标模型；同一作者后续明确说明 Astra × Blender，并回复原始预演。三个精确 ID 镜像均已读取，仍按转引级别标注。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者将受塔林旧城启发的场景制作成可反复使用的资产，后续明确说明由 Astra 与 Blender 制作，并公开三维预演和 H3 动画成片。三段视频分别标注制作阶段；这不是精确城市测绘，H3 成片也不是直接三维渲染。",
+    "outputType": [
+      "Blender 城市场景",
+      "三维预演",
+      "H3 视频生成"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097809399934849037/img/FOSfG-FzF7eDSuAL.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "三维旧城资产展示视频封面；H3 成片另列，不以成片替代模型效果。 附完整视频及最高码率下载；各制作阶段分别标注。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/yachimat_manga/status/2097810202762285265",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/yachimat_manga/status/2097810202762285265",
+      "https://api.fxtwitter.com/status/2097810202762285265",
+      "https://x.com/yachimat_manga/status/2098001141736825284",
+      "https://api.fxtwitter.com/status/2098001141736825284",
+      "https://x.com/yachimat_manga/status/2098001146715480408",
+      "https://api.fxtwitter.com/status/2098001146715480408"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/yachimat-tallinn-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-11/yachimat-tallinn-1-original.mp4",
+        "durationSeconds": 23.43,
+        "bytes": 32858457,
+        "sha256": "bd83d69bdeff5880c0c13b29a58199849f5abce7776dea6a5551f2710dcc3e7b",
+        "sourceUrl": "https://x.com/yachimat_manga/status/2097810202762285265",
+        "label": "第一阶段：三维旧城资产展示",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2097809399934849037/img/FOSfG-FzF7eDSuAL.jpg"
+      },
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/yachimat-tallinn-2-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-11/yachimat-tallinn-2-original.mp4",
+        "durationSeconds": 90.0,
+        "bytes": 8138302,
+        "sha256": "9fa545f7014a48546594e02bfa5d209db4c0da564812badc90bf7f6d34728262",
+        "sourceUrl": "https://x.com/yachimat_manga/status/2098001146715480408",
+        "label": "第二阶段：原始三维预演",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2098000516316033024/img/U78ER8PXuNo36ewE.jpg"
+      },
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/yachimat-tallinn-3-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-11/yachimat-tallinn-3-original.mp4",
+        "durationSeconds": 90.09,
+        "bytes": 138896905,
+        "sha256": "5210ab3f454a358e97807e0eaaf4ff43822af43496a5db549495f08eb23ee9ad",
+        "sourceUrl": "https://x.com/yachimat_manga/status/2098001141736825284",
+        "label": "第三阶段：H3 生成成片（非直接三维渲染）",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2097993045459542016/img/YSJDyrCPXWwcG7DV.jpg"
+      }
+    ]
+  },
+  {
     "id": "songkeys-little-flock",
     "title": "Little Flock：小羊慢慢的牧场世界",
     "titleEn": "Little Flock",

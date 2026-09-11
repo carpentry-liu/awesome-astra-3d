@@ -1,14 +1,19 @@
+/* Featured works are visible together; source images remain unmodified. */
 .welcome {
-  display: grid;
-  grid-template-columns: 1fr 1.14fr;
+  display: block;
+  padding: 34px 0 28px;
+}
+.welcome-intro {
+  display: flex;
+  justify-content: space-between;
   align-items: center;
-  gap: 64px;
-  padding: 38px 0 24px;
+  gap: 32px;
+  margin-bottom: 30px;
 }
 .welcome h1 {
-  font-size: clamp(38px, 4.1vw, 62px);
-  line-height: 1.23;
-  letter-spacing: -0.05em;
+  font-size: clamp(32px, 3.4vw, 52px);
+  line-height: 1.3;
+  letter-spacing: -0.045em;
   font-weight: 600;
 }
 .welcome h1 span {
@@ -16,146 +21,140 @@
 }
 .welcome-description {
   font-size: 16px;
-  line-height: 1.9;
+  line-height: 1.8;
   color: #aab6c8;
-  margin: 22px 0;
+  margin: 14px 0 0;
+  max-width: 680px;
 }
 .welcome-actions {
   display: flex;
+  flex-direction: column;
+  gap: 16px;
+  flex-shrink: 0;
   align-items: center;
-  gap: 25px;
-  margin-top: 25px;
 }
 .welcome-actions a {
   display: inline-flex;
-  gap: 24px;
+  gap: 22px;
   align-items: center;
   font-size: 14px;
 }
 .primary-link {
-  background: #94b8ff;
+  background: #a9c8ff;
   color: #0b1426;
-  padding: 12px 20px;
+  padding: 13px 22px;
   border-radius: 5px;
   font-weight: 600;
-  transition: background 0.2s;
 }
 .primary-link:hover {
-  background: #bfd3ff;
+  background: #d0e0ff;
 }
 .latest-link {
   color: #d1d9e7;
 }
-.welcome-date {
-  font:
-    12px/1.7 Consolas,
-    'Microsoft YaHei',
-    monospace;
-  color: #94a1b5;
-  margin: 25px 0 0;
+.featured-heading {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 13px;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  color: #94a4bb;
 }
-.welcome-date span {
-  padding: 0 10px;
-  color: #54627b;
+.featured-divider {
+  color: #516078;
+  margin: 0 10px;
 }
-.spotlight {
+.featured-grid {
+  display: grid;
+  grid-template-columns: 1.25fr 1fr 1fr;
+  gap: 20px;
+}
+.featured-work {
   min-width: 0;
 }
-.spotlight-art {
-  position: relative;
+.featured-art {
   display: block;
+  position: relative;
   width: 100%;
-  aspect-ratio: 1.83;
-  border: 1px solid #3b4655;
-  background: #151d29;
-  overflow: hidden;
+  height: 256px;
   padding: 0;
-  border-radius: 8px;
-  text-align: left;
-  color: white;
+  background: #17202e;
+  overflow: hidden;
+  border: 1px solid #334156;
+  border-radius: 6px;
 }
-.spotlight-art img {
+.featured-art img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  transition: transform 0.5s;
+  transition: transform 0.35s;
 }
-.spotlight-art:hover img {
+.featured-art:hover img {
   transform: scale(1.025);
 }
-.spotlight-art:after {
-  content: '';
+.featured-label {
   position: absolute;
-  inset: 0;
-  background: linear-gradient(180deg, #05102365, transparent 35%, #040b15d9);
-  pointer-events: none;
+  left: 12px;
+  top: 12px;
+  background: #091422dd;
+  border: 1px solid #ffffff30;
+  border-radius: 3px;
+  color: #eef4ff;
+  padding: 5px 9px;
+  font-size: 12px;
 }
-.spotlight-kicker {
+.featured-arrow {
   position: absolute;
-  z-index: 1;
-  top: 20px;
-  left: 22px;
-  right: 22px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  font:
-    12px Consolas,
-    monospace;
-  letter-spacing: 0.12em;
-  color: #f5f8ff;
+  right: 12px;
+  bottom: 12px;
+  background: #091422dd;
+  border-radius: 50%;
+  padding: 7px;
+  color: #fff;
 }
-.spotlight-caption {
-  position: absolute;
-  z-index: 1;
-  bottom: 23px;
-  left: 24px;
-  right: 24px;
-  display: flex;
-  flex-direction: column;
-  gap: 3px;
+.featured-caption {
+  padding: 15px 0 0;
 }
-.spotlight-caption > span {
-  font:
-    500 clamp(25px, 2.5vw, 38px)/1.2 Bahnschrift,
-    sans-serif;
-  letter-spacing: 0.035em;
+.featured-caption h2 {
+  font-size: 18px;
+  line-height: 1.5;
+  font-weight: 500;
 }
-.spotlight-caption small {
-  font-size: 14px;
-  color: #e1e6ee;
-}
-.spotlight-selector {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 15px;
-  margin-top: 14px;
-}
-.spotlight-selector button {
-  font-size: 14px;
-  color: #8997ad;
-  background: transparent;
-  border: 0;
-  padding: 3px 0;
+.featured-caption h2 button {
   text-align: left;
 }
-.spotlight-selector button span {
-  display: block;
-  height: 2px;
-  background: #2a3342;
-  margin-top: 9px;
+.featured-caption p {
+  margin: 5px 0 12px;
+  font-size: 14px;
+  color: #9facbf;
+  line-height: 1.7;
 }
-.spotlight-selector button[aria-pressed='true'] {
-  color: #e5edfb;
+.featured-caption button {
+  border: 0;
+  padding: 0;
+  background: none;
+  color: inherit;
 }
-.spotlight-selector button[aria-pressed='true'] span {
-  background: var(--primary);
-}
-.spotlight-credit {
+.featured-credit {
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+  align-items: center;
   font-size: 12px;
-  color: #8d9db4;
-  text-align: right;
-  margin: 9px 0 0;
+  color: #8f9fb7;
+}
+.featured-credit > span {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+.featured-credit a,
+.featured-credit button {
+  display: inline-flex;
+  gap: 4px;
+  align-items: center;
+  flex-shrink: 0;
+  color: #b9d1f7;
 }
 .spotlight-fallback {
   height: 100%;
@@ -169,17 +168,14 @@
 .resource-paths {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
-  border: 1px solid var(--border);
-  border-radius: 7px;
-  margin: 2px 0 34px;
-  background: #111720;
+  border-block: 1px solid var(--border);
+  margin: 0 0 32px;
 }
 .resource-paths > a {
-  padding: 19px 22px;
+  padding: 18px 20px;
   display: flex;
-  gap: 15px;
+  gap: 13px;
   align-items: center;
-  transition: background 0.2s;
 }
 .resource-paths > a + a {
   border-left: 1px solid var(--border);
@@ -188,27 +184,20 @@
   background: #192337;
 }
 .resource-paths > a > svg:first-child {
-  color: #94b8ff;
+  color: #a9c8ff;
 }
 .resource-paths > a > svg:last-child {
   margin-left: auto;
   color: #8393ab;
 }
 .resource-paths strong {
-  font-size: 27px;
-  line-height: 1.2;
+  font-size: 25px;
   font-weight: 500;
   font-variant-numeric: tabular-nums;
 }
-.resource-paths strong span {
+.resource-paths span {
   font-size: 14px;
   color: #d6dfea;
-  margin-left: 5px;
-}
-.resource-paths p {
-  font-size: 12px;
-  color: #91a0b5;
-  margin: 5px 0 0;
 }
 .collection-head h2 {
   font-size: 23px;
@@ -309,27 +298,26 @@
 .skip-link:focus {
   top: 10px;
 }
-@media (min-width: 1500px) {
-  .case-grid {
+
+@media (max-width: 1100px) {
+  .welcome-intro {
+    gap: 22px;
+  }
+  .featured-grid {
+    gap: 14px;
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
-}
-@media (max-width: 1100px) {
-  .welcome {
-    gap: 28px;
+  .featured-art {
+    height: 210px;
   }
-  .welcome h1 {
-    font-size: 43px;
-  }
-  .desktop-break {
-    display: none;
+  .featured-credit {
+    align-items: start;
+    flex-direction: column;
+    gap: 7px;
   }
   .resource-paths > a {
-    padding: 17px 14px;
-    gap: 10px;
-  }
-  .resource-paths > a > svg:first-child {
-    display: none;
+    padding: 16px 12px;
+    gap: 9px;
   }
   .collection-subtitle {
     display: none;
@@ -337,68 +325,66 @@
 }
 @media (max-width: 760px) {
   .welcome {
-    gap: 24px;
-    grid-template-columns: 1fr;
-    padding: 25px 0 20px;
+    padding: 24px 0;
+  }
+  .welcome-intro {
+    display: block;
+    margin-bottom: 24px;
   }
   .welcome h1 {
-    font-size: 40px;
+    font-size: 36px;
   }
-  .welcome h1 br {
+  .welcome h1 span {
     display: block;
   }
   .welcome .eyebrow {
-    margin-bottom: 12px;
     font-size: 12px;
-    letter-spacing: 0.07em;
+    margin-bottom: 12px;
   }
   .welcome-description {
     margin: 13px 0;
-    max-width: 100%;
-    font-size: 16px;
   }
   .welcome-actions {
-    margin-top: 17px;
+    flex-direction: row;
+    margin-top: 18px;
+    gap: 22px;
+  }
+  .welcome-actions a {
+    gap: 12px;
+  }
+  .featured-grid {
+    grid-template-columns: 1fr;
     gap: 24px;
   }
-  .welcome-date {
-    margin-top: 15px;
+  .featured-art {
+    height: auto;
+    aspect-ratio: 1.8;
   }
-  .spotlight-art {
-    aspect-ratio: 1.9;
+  .featured-caption {
+    padding-top: 11px;
   }
-  .spotlight-kicker {
-    top: 14px;
-    left: 16px;
-    right: 16px;
+  .featured-caption p {
+    margin-bottom: 7px;
   }
-  .spotlight-caption {
-    left: 16px;
-    bottom: 16px;
+  .featured-credit {
+    flex-direction: row;
+    align-items: center;
   }
-  .spotlight-caption > span {
-    font-size: 28px;
+  .featured-heading {
+    font-size: 11px;
+    letter-spacing: 0;
+    gap: 8px;
   }
-  .spotlight-caption small {
-    font-size: 14px;
-  }
-  .spotlight-credit {
-    font-size: 12px;
-  }
-  .spotlight-selector {
-    gap: 12px;
-    margin-top: 10px;
-  }
-  .spotlight-selector button {
-    font-size: 14px;
+  .featured-divider {
+    margin: 0 4px;
   }
   .resource-paths {
     grid-template-columns: repeat(2, minmax(0, 1fr));
     margin-bottom: 24px;
   }
   .resource-paths > a {
-    padding: 14px 13px;
-    gap: 10px;
+    padding: 13px 8px;
+    gap: 8px;
   }
   .resource-paths > a:nth-child(3) {
     border-left: 0;
@@ -406,14 +392,8 @@
   .resource-paths > a:nth-child(n + 3) {
     border-top: 1px solid var(--border);
   }
-  .resource-paths strong {
-    font-size: 25px;
-  }
-  .resource-paths strong span {
-    margin-left: 3px;
-  }
-  .resource-paths p {
-    font-size: 12px;
+  .resource-paths > a > svg:first-child {
+    display: none;
   }
   .masthead {
     height: 72px;
@@ -429,9 +409,6 @@
   }
   .masthead .brand-light {
     font-size: 12px;
-  }
-  .welcome-actions a {
-    gap: 15px;
   }
   .case-card:hover {
     transform: none;
@@ -449,37 +426,14 @@
     display: none;
   }
   .welcome h1 {
-    font-size: 35px;
-  }
-  .resource-paths > a > svg:last-child {
-    display: none;
-  }
-  .spotlight-selector {
-    gap: 7px;
-  }
-  .spotlight-selector button {
-    font-size: 13px;
+    font-size: 32px;
   }
 }
-
-.spotlight-links {
-  display: flex;
-  justify-content: space-between;
-  gap: 16px;
-  margin: 10px 0 0;
-}
-.spotlight-links a,
-.spotlight-links button {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  color: #b9cff3;
-  background: none;
-  border: 0;
-  padding: 0;
-  font-size: 14px;
-}
-.spotlight-links a:hover,
-.spotlight-links button:hover {
-  color: #fff;
+@media (prefers-reduced-motion: reduce) {
+  .featured-art img {
+    transition: none;
+  }
+  .featured-art:hover img {
+    transform: none;
+  }
 }

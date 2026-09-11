@@ -4,6 +4,7 @@ import './catalog.css';
 import './video.css';
 import './discovery.css';
 import './welcome.css';
+import './gallery.css';
 import cases from '@/data/cases.json';
 const count = cases.filter((c) => c.group === 'astra').length;
 export const metadata: Metadata = {

@@ -223,61 +223,34 @@ export default function Home() {
     setOrder('curated');
   }
   const grid = (
-    <>
-      <div className="material-row">
-        <div className="material-filters" aria-label="按可用材料筛选">
-          {Object.entries(resourceLabels).map(([value, label]) => (
+    <div className="catalog-layout">
+      <aside className="catalog-sidebar" aria-label="案例筛选">
+        <h3>
+          <Layers3 size={15} />
+          作品类型
+        </h3>
+        <div className="filter-row" aria-label="按类型筛选">
+          {categories.map((c) => (
             <button
-              key={value}
-              aria-pressed={resource === value}
-              className={resource === value ? 'material active' : 'material'}
-              onClick={() => setResource(value)}
+              key={c}
+              className={category === c ? 'filter active' : 'filter'}
+              onClick={() => setCategory(c)}
+              aria-pressed={category === c}
             >
-              {label}
+              {c}
+              <span>
+                {c === '全部'
+                  ? scoped.length
+                  : scoped.filter((item) => item.category === c).length}
+              </span>
             </button>
           ))}
         </div>
-        <div className="collection-tools">
-          <button
-            aria-pressed={order === 'newest'}
-            onClick={() => setOrder(order === 'newest' ? 'curated' : 'newest')}
-          >
-            {order === 'newest' ? '最新收录优先' : '按最新收录'}
-          </button>
-          <button onClick={copyCollection}>
-            <Link2 size={14} />
-            {sharedFilters === filterSignature ? shareMessage : '分享当前筛选'}
-          </button>
-        </div>
-      </div>
-      {resource === 'demo' && (
-        <p className="resource-note">
-          作者提供的演示入口；部分站点可能需要登录，未逐一独立试玩。
-        </p>
-      )}
-      <div className="filter-row" aria-label="按类型筛选">
-        {categories.map((c) => (
-          <button
-            key={c}
-            className={category === c ? 'filter active' : 'filter'}
-            onClick={() => setCategory(c)}
-            aria-pressed={category === c}
-          >
-            {c}
-            {c === '全部' && <span>{scoped.length}</span>}
-          </button>
-        ))}
-      </div>
-      <div className="result-bar">
-        <span aria-live="polite">
-          {cases.length} 个结果 <i>/</i>{' '}
-          {group === 'astra'
-            ? '模型归属按来源分级，尚未独立复现'
-            : '独立参考分组，不计入 Astra 案例'}
-        </span>
-        <div className="platforms">
-          <SlidersHorizontal size={14} />
-          <span>来源</span>
+        <h3>
+          <SlidersHorizontal size={15} />
+          原始来源
+        </h3>
+        <div className="platforms" aria-label="按来源筛选">
           {platforms.map((p) => (
             <button
               aria-pressed={platform === p}
@@ -289,103 +262,151 @@ export default function Home() {
             </button>
           ))}
         </div>
-      </div>
-      {cases.length ? (
-        <div className="case-grid">
-          {cases.map((item, i) => (
-            <article className="case-card" key={item.id}>
+        <p className="sidebar-note">
+          每件作品均附原作者与来源。完整提示词和工程，以作者公开材料为准。
+        </p>
+      </aside>
+      <div className="catalog-results">
+        <div className="material-row">
+          <div className="material-filters" aria-label="按可用材料筛选">
+            {Object.entries(resourceLabels).map(([value, label]) => (
               <button
-                className="case-image"
-                onClick={() => openCase(item)}
-                aria-label={`查看案例：${item.title}`}
+                key={value}
+                aria-pressed={resource === value}
+                className={resource === value ? 'material active' : 'material'}
+                onClick={() => setResource(value)}
               >
-                <Preview item={item} priority={i < 3} />
-                <span className="image-index">
-                  {String(scoped.indexOf(item) + 1).padStart(2, '0')} /{' '}
-                  {item.category}
-                </span>
-                <span className="image-open">
-                  <ArrowUpRight size={22} />
-                </span>
-                {item.archivedVideos?.length ? (
-                  <span className="image-kind video-badge">
-                    <Play size={12} />
-                    完整视频 ·{' '}
-                    {videoTime(item.archivedVideos[0].durationSeconds)}
-                  </span>
-                ) : (
-                  item.imageUrl && (
-                    <span className="image-kind">
-                      {imageKinds[item.imageKind] ?? '来源媒体'}
-                    </span>
-                  )
-                )}
+                {label}
               </button>
-              <div className="card-content">
-                <p className="case-meta">
-                  <span>{item.platform}</span>
-                  <span className={`evidence ${item.evidenceLevel}`}>
-                    {evidenceLabels[item.evidenceLevel]}
+            ))}
+          </div>
+          <div className="collection-tools">
+            <button
+              aria-pressed={order === 'newest'}
+              onClick={() =>
+                setOrder(order === 'newest' ? 'curated' : 'newest')
+              }
+            >
+              {order === 'newest' ? '最新收录优先' : '按最新收录'}
+            </button>
+            <button onClick={copyCollection}>
+              <Link2 size={14} />
+              {sharedFilters === filterSignature
+                ? shareMessage
+                : '分享当前筛选'}
+            </button>
+          </div>
+        </div>
+        {resource === 'demo' && (
+          <p className="resource-note">
+            作者提供的演示入口；部分站点可能需要登录，未逐一独立试玩。
+          </p>
+        )}
+        <div className="result-bar">
+          <span aria-live="polite">
+            <strong>{cases.length}</strong> 个结果 <i>/</i>{' '}
+            {group === 'astra'
+              ? '按来源分级收录 · 尚未独立复现'
+              : '独立参考分组 · 不计入 Astra 数量'}
+          </span>
+        </div>
+        {cases.length ? (
+          <div className="case-grid">
+            {cases.map((item, i) => (
+              <article className="case-card" key={item.id}>
+                <button
+                  className="case-image"
+                  onClick={() => openCase(item)}
+                  aria-label={`查看案例：${item.title}`}
+                >
+                  <Preview item={item} priority={i < 3} />
+                  <span className="image-index">
+                    {String(scoped.indexOf(item) + 1).padStart(2, '0')} /{' '}
+                    {item.category}
                   </span>
-                  {item.addedAt === latestAdded && (
-                    <span className="new-case">新收录</span>
+                  <span className="image-open">
+                    <ArrowUpRight size={22} />
+                  </span>
+                  {item.archivedVideos?.length ? (
+                    <span className="image-kind video-badge">
+                      <Play size={12} />
+                      完整视频 ·{' '}
+                      {videoTime(item.archivedVideos[0].durationSeconds)}
+                    </span>
+                  ) : (
+                    item.imageUrl && (
+                      <span className="image-kind">
+                        {imageKinds[item.imageKind] ?? '来源媒体'}
+                      </span>
+                    )
                   )}
-                  {item.outcome === 'failure' && (
-                    <span className="failure">失败样本</span>
-                  )}
-                </p>
-                <h3>
-                  <button onClick={() => openCase(item)}>{item.title}</button>
-                </h3>
-                <p className="case-summary">{item.summary}</p>
-                <div className="tags">
-                  {item.outputType.slice(0, 2).map((t) => (
-                    <span key={t}>{t}</span>
-                  ))}
+                </button>
+                <div className="card-content">
+                  <p className="case-meta">
+                    <span>{item.platform}</span>
+                    <span className={`evidence ${item.evidenceLevel}`}>
+                      {evidenceLabels[item.evidenceLevel]}
+                    </span>
+                    {item.addedAt === latestAdded && (
+                      <span className="new-case">新收录</span>
+                    )}
+                    {item.outcome === 'failure' && (
+                      <span className="failure">失败样本</span>
+                    )}
+                  </p>
+                  <h3>
+                    <button onClick={() => openCase(item)}>{item.title}</button>
+                  </h3>
+                  <p className="case-summary">{item.summary}</p>
+                  <div className="tags">
+                    {item.outputType.slice(0, 2).map((t) => (
+                      <span key={t}>{t}</span>
+                    ))}
+                  </div>
+                  <div className="card-resources">
+                    {item.repositoryUrl && (
+                      <OutLink href={item.repositoryUrl}>
+                        <Code2 size={14} />
+                        源码 / 工程
+                      </OutLink>
+                    )}
+                    {item.demoUrl && (
+                      <OutLink href={item.demoUrl}>
+                        <ArrowUpRight size={14} />
+                        打开演示
+                      </OutLink>
+                    )}
+                  </div>
+                  <div className="card-bottom">
+                    <span>{item.author ?? '作者未核实'}</span>
+                    <button onClick={() => openCase(item)}>
+                      查看档案 <ArrowRight size={15} />
+                    </button>
+                  </div>
                 </div>
-                <div className="card-resources">
-                  {item.repositoryUrl && (
-                    <OutLink href={item.repositoryUrl}>
-                      <Code2 size={14} />
-                      源码 / 工程
-                    </OutLink>
-                  )}
-                  {item.demoUrl && (
-                    <OutLink href={item.demoUrl}>
-                      <ArrowUpRight size={14} />
-                      打开演示
-                    </OutLink>
-                  )}
-                </div>
-                <div className="card-bottom">
-                  <span>{item.author ?? '作者未核实'}</span>
-                  <button onClick={() => openCase(item)}>
-                    查看档案 <ArrowRight size={15} />
-                  </button>
-                </div>
-              </div>
-            </article>
-          ))}
-        </div>
-      ) : (
-        <div className="empty">
-          <Search size={30} />
-          <h3>没有匹配的案例</h3>
-          <p>试试 Blender、Three.js 或作者名称。</p>
-          <button
-            onClick={() => {
-              setQuery('');
-              setCategory('全部');
-              setPlatform('全部');
-              setResource('all');
-            }}
-          >
-            <RotateCcw size={15} />
-            清除筛选
-          </button>
-        </div>
-      )}
-    </>
+              </article>
+            ))}
+          </div>
+        ) : (
+          <div className="empty">
+            <Search size={30} />
+            <h3>没有匹配的案例</h3>
+            <p>试试 Blender、Three.js 或作者名称。</p>
+            <button
+              onClick={() => {
+                setQuery('');
+                setCategory('全部');
+                setPlatform('全部');
+                setResource('all');
+              }}
+            >
+              <RotateCcw size={15} />
+              清除筛选
+            </button>
+          </div>
+        )}
+      </div>
+    </div>
   );
   return (
     <main id="top">
@@ -514,16 +535,9 @@ export default function Home() {
                     <span>收录作者作品、制作过程、对照及失败样本。</span>
                   </li>
                   <li>
-                    <b>小红书</b>
-                    <span>
-                      公开索引未取得可核实笔记，浏览器读取超时，专用会话未登录；当前未收录，不代表平台上没有案例。
-                    </span>
-                  </li>
-                  <li>
                     <b>Bilibili / 中文与日文媒体</b>
                     <span>
-                      新增中文作者的 Blender
-                      甜甜圈示例；转载用于发现原始作者，不重复计数。
+                      收录建模、动画与交互实践；转载用于发现原始作者，不重复计数。
                     </span>
                   </li>
                 </ul>
@@ -595,8 +609,8 @@ export default function Home() {
                     <VideoPlayer
                       key={video.playbackUrl}
                       video={video}
-                      title={selected.title}
-                      poster={selected.imageUrl}
+                      title={video.label ?? selected.title}
+                      poster={video.posterUrl ?? selected.imageUrl}
                     />
                   ))
                 ) : (

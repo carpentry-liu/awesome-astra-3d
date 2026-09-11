@@ -1,5 +1,5 @@
 {
-  "observedAt": "2026-09-10",
+  "observedAt": "2026-09-11",
   "officialSources": [
     "https://developers.openai.com/showcase/all",
     "https://developers.openai.com/api/docs/models/gpt-6-astra"
@@ -460,6 +460,45 @@
         {
           "source": "https://vagon.io/blog/reference-image-to-3d-scene-with-gpt-6-astra-blender",
           "reason": "General workflow tutorial; not counted as a separate concrete author work."
+        }
+      ]
+    },
+    {
+      "observedAt": "2026-09-11",
+      "batch": "gallery-layout-2026-09-11",
+      "addedCount": 6,
+      "caseIds": [
+        "nickson-studio-photos",
+        "yokohara-houdini",
+        "jannn-brick-weather",
+        "flora-shoe-last",
+        "will-cube-city",
+        "yachimat-tallinn"
+      ],
+      "sources": [
+        "https://x.com/rpnickson/status/2097488440489116111",
+        "https://x.com/Yokohara_h/status/2097666997719089337",
+        "https://x.com/CreatedByJannn/status/2097706846056558912",
+        "https://x.com/floraai/status/2097763728217272598",
+        "https://x.com/old_pgmrs_will/status/2097506064078147861",
+        "https://x.com/yachimat_manga/status/2097810202762285265"
+      ],
+      "method": "Fresh multi-platform web discovery, exact-ID author-post mirrors and media metadata, comparison against 141 existing records. Original publication timestamps kept distinct from repost and collection dates.",
+      "notes": [
+        "Six new works, eight complete X clips; Tallinn asset, original previs and H3 output belong to one case with explicit stage labels.",
+        "Houdini author describes iterative corrections; 3DAIStudio, FLORA, GPT Image 2.5 and H3 stages are attributed separately.",
+        "Studio in Bricks demo returned 403; retained as a research lead, not counted as a working demo.",
+        "Ten benchmark repositories sampled through GitHub API; six comparable prompt galleries, two Astra directories and two adjacent 3D libraries. Stars do not establish causality.",
+        "No Xiaohongshu visits or collection, no social posting."
+      ],
+      "excluded": [
+        {
+          "source": "https://studio-in-bricks.rpn24.chatgpt.site/",
+          "reason": "403 for candidate demo; creator project remains documented through original recording."
+        },
+        {
+          "source": "https://www.reddit.com/r/codex/comments/1wb8wgr/gpt6_astra_max_spent_7_hours_building_a_fully/",
+          "reason": "Tractor already included; a later comment date does not make a new example."
         }
       ]
     }

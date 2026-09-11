@@ -1,8 +1,8 @@
 <div align="center">
 
-# ASTRA / 3D ATLAS
+# Awesome GPT-6 Astra 3D
 
-### 从一件作品出发，探索三维创作。
+### 从作品出发，找到下一次三维创作的起点。
 
 探索 GPT-6 Astra 的 3D 作品：Blender、Three.js、WebGL、CAD、VRM 与交互游戏。按来源分级，直达工程、演示和完整视频。
 
@@ -13,12 +13,18 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-09-10（Asia/Shanghai）**：**129 条 Astra 案例** · **44 条源码 / 工程** · **55 个演示入口** · **58 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-09-11（Asia/Shanghai）**：**135 条 Astra 案例** · **44 条源码 / 工程** · **55 个演示入口** · **66 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
-[![Astra 3D Atlas 欢迎页：精选作品、源码、演示与视频入口](docs/media/welcome-desktop-2026-09-10.png)](https://carpentry-liu.github.io/awesome-astra-3d/)
+## 这次更新，先看效果
 
-网站实拍 · 2026-09-10。点击进入在线案例库。
+| 九张照片 → 一间工作室 | Houdini · 程序化建筑 | 汽车球赛 · 积木天气 |
+| --- | --- | --- |
+| [![Studio from Nine Photos — Roberto Nickson / @rpnickson](https://pbs.twimg.com/amplify_video_thumb/2097488345542660096/img/AMsWCLAtpDBFC6nu.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=nickson-studio-photos) | [![Procedural Modeling in Houdini — Hirokazu Yokohara / @Yokohara_h](https://pbs.twimg.com/amplify_video_thumb/2097665135863345152/img/s5w6T3ULXiUQpjOR.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=yokohara-houdini) | [![Brick Weather Car Soccer — Jan / @CreatedByJannn](https://pbs.twimg.com/amplify_video_thumb/2097340760001548288/img/uEv8cTvt3-j3Qm0R.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=jannn-brick-weather) |
+| 参考图 → 立方体城市 | 塔林旧城 · 场景资产 | Little Flock · 牧场游戏 |
+| [![Cube City from an Image Reference — いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram / @old_pgmrs_will](https://pbs.twimg.com/amplify_video_thumb/2097505780085993472/img/6zfwunEdVDTWlZK4.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=will-cube-city) | [![Tallinn Scene and Previsualization — yachimat - AI Short Anime / @yachimat_manga](https://pbs.twimg.com/amplify_video_thumb/2097809399934849037/img/FOSfG-FzF7eDSuAL.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=yachimat-tallinn) | [![Little Flock — songkeys](https://raw.githubusercontent.com/songkeys/little-flock/main/docs/demo-poster.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=songkeys-little-flock) |
+
+点击效果图查看完整视频、创作过程和原始来源。图片外链原作者媒体，Little Flock 署名 Songkeys（CC BY 4.0）。积木球赛含 3DAIStudio 资产；塔林预览是场景资产，三维预演与 H3 成片在详情中分段标注。
 
 ## 找到你的下一次创作
 
@@ -30,49 +36,39 @@
 | 跟着已有项目入门 | [上手路线](START_HERE.md)：模型、网页和游戏三条路径 |
 | 检索、引用或补充索引 | [全部案例](CATALOG.md) · [公开 JSON](https://carpentry-liu.github.io/awesome-astra-3d/cases.json) · [贡献指南](CONTRIBUTING.md) |
 
-## 这次更新，先看效果
-
-| Little Flock · 可探索的牧场游戏 | 日式花店 · 展开与重新组合 |
-| --- | --- |
-| [![Little Flock — songkeys](https://raw.githubusercontent.com/songkeys/little-flock/main/docs/demo-poster.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=songkeys-little-flock) | [![Japanese Flower Shop Exploded View — KANA｜東京AI映像 / @KanaWorks_AI](https://pbs.twimg.com/amplify_video_thumb/2097151136155553792/img/AuzVjF2Jxc14tJqt.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=kana-flower-shop) |
-| 湿地湖畔 · 自然场景工作流 | 书桌一角 · Blender 离线渲染 |
-| [![Cozy Wetland Lake — Givros / @givros](https://pbs.twimg.com/amplify_video_thumb/2097343347895525376/img/7BqNRpeoZcou-Xtu.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=givros-wetland) | [![Room Studio — magicyan418](https://raw.githubusercontent.com/magicyan418/3D-ROOM-TEST/main/public/reference.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=magicyan-room-studio) |
-| 祈年殿 · Three.js 建筑展示 | 宋式客厅 · 左 Fable / 右 Astra |
-| [![Temple of Heaven in Three.js — govin.eth &#124; G哥 / @goan999999](https://pbs.twimg.com/amplify_video_thumb/2097323160601546752/img/2k2LggwN0cvh5mVI.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=goan-temple-heaven) | [![Four Interior Styles Comparison — hahaliu1029](https://raw.githubusercontent.com/hahaliu1029/house-3d/main/media/images/song-living-comparison.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=hahaliu-house-styles) |
-
-点击效果图打开档案、完整视频和原始来源。图片外链作者原图；Little Flock 保留 Songkeys 的 CC BY 4.0 署名，书桌图为离线渲染，家装对照明确左侧 Fable、右侧 Astra。
-
 ## 最新收录
 
-本轮新增 **26 个案例**：16 条 X、5 条 GitHub、2 条 Reddit，以及 B 站、Zenn、LINUX DO 各 1 条；其中 **17 段 X 视频完整归档**（含 GitHub 项目的原作者预告片）。新题材包括牧场游戏、花店拆解、Roblox 赛车、家装对照和角色贴图修整。仅有过程文档的条目不计入源码 / 工程数量，收录日期与作品发布日期分开记录。
+本轮新增 **6 个案例、8 段完整 X 视频**，每段均保存最高码率原片与较小的完整播放版本。新题材包括照片重建、Houdini 建筑、积木天气、鞋楦运动、立方体城市和塔林场景。多工具工作流保留各阶段归属；未确认可玩的入口不计入演示数量。
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
+| [9 张照片到工作室：空间重建与交互](https://carpentry-liu.github.io/awesome-astra-3d/#case=nickson-studio-photos) | Roberto Nickson / @rpnickson | [原始来源](https://x.com/rpnickson/status/2097488440489116111) |
+| [Houdini：程序化建模、灯光与动画](https://carpentry-liu.github.io/awesome-astra-3d/#case=yokohara-houdini) | Hirokazu Yokohara / @Yokohara_h | [原始来源](https://x.com/Yokohara_h/status/2097666997719089337) |
+| [积木天气：汽车球赛的风格改造](https://carpentry-liu.github.io/awesome-astra-3d/#case=jannn-brick-weather) | Jan / @CreatedByJannn | [原始来源](https://x.com/CreatedByJannn/status/2097706846056558912) |
+| [鞋楦动画：用三维运动引导 FLORA](https://carpentry-liu.github.io/awesome-astra-3d/#case=flora-shoe-last) | FLORA © / @floraai | [原始来源](https://x.com/floraai/status/2097763728217272598) |
+| [立方体城市：图像参考与 Blender 建模](https://carpentry-liu.github.io/awesome-astra-3d/#case=will-cube-city) | いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram / @old_pgmrs_will | [原始来源](https://x.com/old_pgmrs_will/status/2097506064078147861) |
+| [塔林旧城：场景资产、三维预演与 H3 成片](https://carpentry-liu.github.io/awesome-astra-3d/#case=yachimat-tallinn) | yachimat - AI Short Anime / @yachimat_manga | [原始来源](https://x.com/yachimat_manga/status/2097810202762285265) |
 | [Little Flock：小羊慢慢的牧场世界](https://carpentry-liu.github.io/awesome-astra-3d/#case=songkeys-little-flock) | songkeys | [演示](https://sharpherd.song.work) · [源码](https://github.com/songkeys/little-flock) · [原始来源](https://github.com/songkeys/little-flock) |
 | [日式花店：街角模型的展开与重组](https://carpentry-liu.github.io/awesome-astra-3d/#case=kana-flower-shop) | KANA｜東京AI映像 / @KanaWorks_AI | [原始来源](https://x.com/KanaWorks_AI/status/2097153139795468365) |
-| [湿地湖畔：小屋、芦苇与野生动物](https://carpentry-liu.github.io/awesome-astra-3d/#case=givros-wetland) | Givros / @givros | [原始来源](https://x.com/givros/status/2097343467026289039) |
-| [书桌一角：Blender 工程与实时网页](https://carpentry-liu.github.io/awesome-astra-3d/#case=magicyan-room-studio) | magicyan418 | [演示](https://3-d-room-test.vercel.app) · [源码](https://github.com/magicyan418/3D-ROOM-TEST) · [原始来源](https://github.com/magicyan418/3D-ROOM-TEST) |
-| [祈年殿：Three.js 建筑展示](https://carpentry-liu.github.io/awesome-astra-3d/#case=goan-temple-heaven) | govin.eth \| G哥 / @goan999999 | [原始来源](https://x.com/goan999999/status/2097323734504017936) |
-| [同户型四种家装：Astra 与 Fable 对照](https://carpentry-liu.github.io/awesome-astra-3d/#case=hahaliu-house-styles) | hahaliu1029 | [演示](https://www.lyx666.cn/housegpt/?style=song) · [源码](https://github.com/hahaliu1029/house-3d/tree/main/gpt6) · [原始来源](https://github.com/hahaliu1029/house-3d) |
-| [Chess Cubed：六面立方体棋盘](https://carpentry-liu.github.io/awesome-astra-3d/#case=digitalml-chess-cubed) | digitalml | [演示](https://playchesscubed.com/) · [原始来源](https://www.reddit.com/r/codex/comments/1wbmthc/i_built_chess_cubed_with_gpt6_astra_in_4_days/) |
-| [巨龙短镜头：Blender Python 迭代](https://carpentry-liu.github.io/awesome-astra-3d/#case=doomdave-dragon) | Sarang Borude / @doomdave | [原始来源](https://x.com/doomdave/status/2096335588727349434) |
 <!-- atlas:latest:end -->
 
 [查看完整更新目录 →](UPDATES.md)
 
 ## 首页与浏览体验
 
-- 三组精选作品展示建筑、游戏与模型创作，直接打开作品档案。
+- 三件精选同时展示；桌面左侧分类与来源，右侧大图列表，直接打开作品档案。
 - 资源统计可以点击，快速进入源码、演示或完整视频集合。
 - 案例卡片直接提供源码与演示；关键词、分类、平台和资源筛选可以组合使用。
 - 分享链接保留筛选条件；每个案例都有独立锚点，可直接打开详情。
 - 手机布局、键盘操作与图片失败提示均保留；方法参考与 Astra 案例分别呈现。
 
 <details>
-<summary>查看手机版欢迎页</summary>
+<summary>查看新版桌面与手机实拍 · 2026-09-11</summary>
 
-![手机端欢迎页，精选作品与资源导航](docs/media/welcome-mobile-2026-09-10.png)
+[![桌面首页：三件精选与分类侧栏](docs/media/welcome-desktop-2026-09-11.png)](https://carpentry-liu.github.io/awesome-astra-3d/)
+
+![手机端欢迎页，精选作品与资源导航](docs/media/welcome-mobile-2026-09-11.png)
 
 </details>
 

@@ -8,6 +8,7 @@ export function videoTime(seconds:number){const rounded=Math.round(seconds);retu
 export function VideoPlayer({video,title,poster}:{video:ArchivedVideo;title:string;poster?:string|null}){
  const [failed,setFailed]=useState(false);
  return <section className="archived-video" aria-label={`完整视频：${title}`}>
+  {video.label && <h3 className="video-stage">{video.label}</h3>}
   <video controls playsInline preload="metadata" poster={poster??undefined} aria-label={`${title}，完整视频`} onError={()=>setFailed(true)}>
    <source src={video.playbackUrl} type="video/mp4"/>
    你的浏览器不支持视频播放，请使用下方下载链接。
