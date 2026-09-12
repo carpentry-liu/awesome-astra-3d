@@ -12,6 +12,8 @@
 
 **可带走的材料：**工程、脚本、过程记录。
 
+想练习精确修改，可以看 [Fieldnote R1 探测车](https://kingy.ai/blog/drawing-to-editable-3d-astra-blender-video-walkthrough/) 的基础工程、修改工程和 GLB。先查看作者记录的部件尺寸，再比较同一文件经过编辑后的变化；视频是后续核验回放，早期 Sol 基线与当前 Astra 续作分别保留。
+
 想练建筑摄影，可以打开 [仙林校园](https://github.com/super-xinz/nju-xianlin-campus-3d) 的 Blender 工程，比较同一场景的八组取景和 38 秒漫游。模型是近似外观展示；拍摄脚本依赖已完成的工程。
 
 想用自己的扫描资料重建空间，可以读 [Realsee × Astra × Blender](https://github.com/realsee-developer/realsee-astra-blender) 的快速提示词和教程。先检查墙、门窗与房间连接，再加家具；大文件通过 Git LFS 提供，完整原始扫描不在公开仓库中。公开脚本针对原案例，需要适配自己的资料。
@@ -28,6 +30,8 @@
 
 **可带走的材料：**`.blend`、`.glb`、前端代码、部署说明。[更多有源码案例](https://carpentry-liu.github.io/awesome-astra-3d/?resource=source#collection)
 
+想直接在浏览器检查 `.blend`，可以从 [Pluribus 彩蛋](https://simonwillison.net/2026/Sep/9/blender-viewer/) 打开作者查看器和工程。网页会近似呈现材质与文字、忽略未应用修改器；完整外观仍需回到 Blender 检查。
+
 想理解更轻的三维表现，可以看 [GENESIS AI Atlas](https://github.com/sayanpersonal123/AI-learning)：它把模型空间坐标投影到 Canvas 2D，而非使用 WebGL。适合研究旋转、深度排序与分步教学；场景是概念图，不是某个模型的真实内部结构。
 
 想研究建筑网页，可以看 [苏州博物馆](https://github.com/vsme/suzhou-museum-three) 的独立建筑几何、GLB 与 Three.js 场景。公共文件树包含网页模型；README 中提到的部分离线 `.blend` 和校对渲染没有公开，先确认能取得的材料再安排复现。
@@ -43,6 +47,8 @@
 想看原生平台开发，选择 [FACET FIGHTER](https://github.com/GOROman/gpt-6-astra-ps1-game-benchmark)。作者公开了 PS1 源码、镜像和模拟器记录，实体主机验证另有边界。
 
 **可带走的材料：**游戏代码、作者的输入要求、运行说明与已有验证证据。
+
+想研究本地同屏玩具游戏，可以读 [Toy2Game](https://github.com/asmoyou/toy2game) 的大厅、各款游戏与验证说明。当前六款游戏按一个作品集收录；代码使用非商业许可，商业用途需要作者另行授权。
 
 ## 看视频时顺手检查
 

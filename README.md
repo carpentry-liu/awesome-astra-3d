@@ -13,24 +13,24 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-09-12（Asia/Shanghai）**：**164 条 Astra 案例** · **51 条源码 / 工程** · **62 个演示入口** · **80 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-09-12（Asia/Shanghai）**：**170 条 Astra 案例** · **54 条源码 / 工程** · **64 个演示入口** · **82 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 ## 这次更新，先看效果
 
-| 蜂巢剖面 · 交互观察 | 街头小子 · 浏览器游戏 | Houdini · 参数化飞机 |
+| Blender · 森林峡谷 | Blender · Pluribus 彩蛋 | 交互 · Goblin Bottle |
 | --- | --- | --- |
-| [![Beehive Observation Lab — Higgsfield AI 🧩 / @higgsfield_ai](https://pbs.twimg.com/amplify_video_thumb/2097813680964694016/img/dH0hKm5vkcvXQCgq.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=higgsfield-beehive) | [![Urban Champion 3D — Sonic的奇思妙想 / @sonic0828](https://pbs.twimg.com/amplify_video_thumb/2097600770095132672/img/WGzY-nUYB_2keW-c.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=sonic-urban-champion) | [![Procedural Airplane in Houdini — sokun](https://us1.discourse-cdn.com/openai1/original/4X/b/c/a/bca747bbfbf0c28cbbd8aa082418e4dac3f9d61c.jpeg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=sokun-houdini-airplane) |
-| Blender · 紫顶村庄 | Rhino · 建筑参考重建 | Godot · 石墓阵 |
-| [![Purple-roof Village for Roblox — BOOTOSHI 👑 / @KingBootoshi](https://pbs.twimg.com/media/HRv6kAGbAAAtRSJ.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=bootoshi-roblox-village) | [![Reference Architecture in Rhino — AIRIlab](https://i0.hdslb.com/bfs/archive/2a149d5532231b7b9738c53077b353a87015829e.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=airilab-rhino-building) | [![Stone Tomb in Blender and Godot — 吐槽不得劲](https://i2.hdslb.com/bfs/archive/dc9cfe54e5240fb14b58326bd18b55a897529463.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=tucao-stone-tomb) |
+| [![Megascans Forest Ravine — Michiyoshi Shirota / @onihachi](https://pbs.twimg.com/amplify_video_thumb/2096776968574574592/img/VSPIKaokTcUNIx3W.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=onihachi-megascans-forest) | [![Pluribus Fabergé-style Egg — Simon Willison](https://static.simonwillison.net/static/2026/pluribus-blender-viewer.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=simonw-pluribus-egg) | [![Goblin Bottle Interactive Model — Dara A. / @daradoescode](https://pbs.twimg.com/amplify_video_thumb/2097110697029103616/img/qNBjMdxnxJ8hoqeF.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=dara-goblin-bottle) |
+| 可编辑 · 探测车前后对照 | 体素 · 湖畔地图 | Three.js · 在线玩具箱 |
+| [![Fieldnote R1 Editable Rover — Curtis Pyke / Kingy AI](https://kingy.ai/wp-content/uploads/2026/09/drawing-to-editable-3d-astra-before-after.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=kingy-fieldnote-rover) | [![Minecraft-style Lakeside Map — pcstyle / @pcstyle53](https://pbs.twimg.com/media/HRfsccZbMAAOe5Z.png?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=pcstyle-minecraft-map) | [![Toy2Game Browser Toy Box — asmoyou](https://raw.githubusercontent.com/asmoyou/toy2game/main/docs/images/toy2game-overview.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=asmoyou-toy2game) |
 
-点击图片查看作者、创作过程与完整内容。所有作品图均链接原作者媒体；Rhino 封面左侧是输入参考、右侧是模型预览，村庄的后续变体使用 Nano Banana；石墓阵部分素材来自既有游戏。蜂巢是作者展示的概念模拟，飞机工具尚未公开脚本。
+点击图片查看原作者与完整材料。森林使用既有 Megascans 资产；彩蛋展示真实模型查看器，输入参考另由 Images 2.5 生成；探测车是同一工程的修改对照。玩具箱概览图展示四款初期游戏，当前项目已扩展为六款。
 
 ## 网站实拍
 
-[![Astra 3D Atlas 正式网站首页](docs/media/homepage-2026-09-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 正式网站首页](docs/media/homepage-second-2026-09-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-本次更新实拍 · 2026-09-12。点击图片进入案例库。
+本次更新实拍 · 2026-09-12 第二轮。点击图片进入案例库。
 
 ## 找到你的下一次创作
 
@@ -44,19 +44,19 @@
 
 ## 最新收录
 
-本轮新增 **14 个案例、5 段完整 X 视频**，涵盖蜂巢交互、街头游戏、Houdini 飞机、Rhino 建筑、Godot 和机器人三视角重建。新增 **2 个源码 / 工程、3 个演示入口**。原帖完整录像、作者来源和混合工具分工一起保留；苏州博物馆和机器人项目还注明了公开文件与本地材料的区别。
+本轮在上一批基础上再增 **6 个案例、2 段完整 X 视频**：森林峡谷、Pluribus 彩蛋、交互水瓶、可编辑探测车、体素地图与在线玩具箱。新增 **3 个源码 / 工程、2 个演示入口**；同步更新精选、学习路线和本页实拍。
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
+| [森林峡谷：用 Megascans 资产搭建 Blender 场景](https://carpentry-liu.github.io/awesome-astra-3d/#case=onihachi-megascans-forest) | Michiyoshi Shirota / @onihachi | [原始来源](https://x.com/onihachi/status/2096778157999391060) |
+| [Fieldnote R1：能继续改尺寸的三维探测车](https://carpentry-liu.github.io/awesome-astra-3d/#case=kingy-fieldnote-rover) | Curtis Pyke / Kingy AI | [源码](https://kingy.ai/wp-content/uploads/2026/09/kingy-astra-drawing-to-editable-3d-starter.zip) · [原始来源](https://kingy.ai/blog/drawing-to-editable-3d-astra-blender-video-walkthrough/) |
+| [Pluribus 彩蛋：从参考图到可打开的 Blender 模型](https://carpentry-liu.github.io/awesome-astra-3d/#case=simonw-pluribus-egg) | Simon Willison | [演示](https://tools.simonwillison.net/blender-viewer?url=https%3A%2F%2Fgithub.com%2Fsimonw%2Fvibe-coded-blender-projects%2Fblob%2Fmain%2Fpluribus-faberge-egg%2Fdeliverables%2FPluribus_Jeweled_Egg_v1.blend) · [源码](https://github.com/simonw/vibe-coded-blender-projects/tree/main/pluribus-faberge-egg) · [原始来源](https://simonwillison.net/2026/Sep/9/blender-viewer/) |
+| [Goblin Bottle：把随身水瓶做成交互模型](https://carpentry-liu.github.io/awesome-astra-3d/#case=dara-goblin-bottle) | Dara A. / @daradoescode | [原始来源](https://x.com/daradoescode/status/2097111589002350688) |
+| [像素湖畔：Minecraft 风格地图效果](https://carpentry-liu.github.io/awesome-astra-3d/#case=pcstyle-minecraft-map) | pcstyle / @pcstyle53 | [原始来源](https://x.com/pcstyle53/status/2096404170022522940) |
+| [在线玩具箱：把桌面玩具变成三维网页游戏](https://carpentry-liu.github.io/awesome-astra-3d/#case=asmoyou-toy2game) | asmoyou | [演示](https://games.asmo.top/) · [源码](https://github.com/asmoyou/toy2game) · [原始来源](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/24) |
 | [蜂巢观察室：蜂后、巢房与时间控制](https://carpentry-liu.github.io/awesome-astra-3d/#case=higgsfield-beehive) | Higgsfield AI 🧩 / @higgsfield_ai | [原始来源](https://x.com/higgsfield_ai/status/2097813773830791259) |
 | [街头小子：夕阳街区的三维拳击](https://carpentry-liu.github.io/awesome-astra-3d/#case=sonic-urban-champion) | Sonic的奇思妙想 / @sonic0828 | [演示](https://iamsonic.net/2026/mini-games/urban-champion.html) · [原始来源](https://x.com/sonic0828/status/2097601232877781344) |
-| [Houdini 飞机：把模型做成可调工具](https://carpentry-liu.github.io/awesome-astra-3d/#case=sokun-houdini-airplane) | sokun | [原始来源](https://community.openai.com/t/astra-in-action-share-your-builds-breakthroughs-aha-moments/1394945/45) |
-| [卡通角色：可摆姿势的 Blender 控制器](https://carpentry-liu.github.io/awesome-astra-3d/#case=higgsfield-cartoon-rig) | Higgsfield AI 🧩 / @higgsfield_ai | [原始来源](https://x.com/higgsfield_ai/status/2097797358847430956) |
-| [紫顶村庄：Blender 到 Roblox 的关卡尝试](https://carpentry-liu.github.io/awesome-astra-3d/#case=bootoshi-roblox-village) | BOOTOSHI 👑 / @KingBootoshi | [原始来源](https://x.com/KingBootoshi/status/2097545729573368319) |
-| [零点街区：三维生存战斗](https://carpentry-liu.github.io/awesome-astra-3d/#case=sonic-shells-3d) | Sonic的奇思妙想 / @sonic0828 | [演示](https://iamsonic.net/2026/mini-games/shells-3d/play.html) · [原始来源](https://x.com/sonic0828/status/2097601232877781344) |
-| [走出画框：Dalí 绘画的 Blender 空间](https://carpentry-liu.github.io/awesome-astra-3d/#case=higgsfield-dali-world) | Higgsfield AI 🧩 / @higgsfield_ai | [原始来源](https://x.com/higgsfield_ai/status/2097830176294146264) |
-| [Rhino 建筑：参考图到分层模型](https://carpentry-liu.github.io/awesome-astra-3d/#case=airilab-rhino-building) | AIRIlab | [原始来源](https://www.bilibili.com/video/BV1owbN67E4M/) |
 <!-- atlas:latest:end -->
 
 [查看完整更新目录 →](UPDATES.md)
@@ -70,11 +70,11 @@
 - 手机布局、键盘操作与图片失败提示均保留；方法参考与 Astra 案例分别呈现。
 
 <details>
-<summary>查看案例区与手机实拍 · 2026-09-12</summary>
+<summary>查看案例区与手机实拍 · 2026-09-12 第二轮</summary>
 
-[![最新案例与分类侧栏](docs/media/collection-2026-09-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![最新案例与分类侧栏](docs/media/collection-second-2026-09-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端欢迎页，精选作品与资源导航](docs/media/mobile-2026-09-12.jpg)
+![手机端欢迎页，精选作品与资源导航](docs/media/mobile-second-2026-09-12.jpg)
 
 </details>
 

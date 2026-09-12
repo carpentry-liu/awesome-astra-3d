@@ -68,6 +68,7 @@ function Preview({
   return item.imageUrl && !failed ? (
     <img
       src={item.imageUrl}
+      data-image-kind={item.imageKind}
       alt={`${item.title}${item.titleEn ? ' / ' + item.titleEn : ''}`}
       loading={priority ? 'eager' : 'lazy'}
       referrerPolicy="no-referrer"

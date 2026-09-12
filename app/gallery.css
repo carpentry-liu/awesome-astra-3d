@@ -59,6 +59,9 @@
 .catalog-results {
   min-width: 0;
 }
+.catalog-results .case-image img[data-image-kind='comparison'] {
+  object-fit: contain;
+}
 .catalog-results .material-row {
   margin: 0 0 17px;
   gap: 9px;

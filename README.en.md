@@ -13,24 +13,24 @@ Explore GPT-6 Astra in 3D: Blender, Houdini, Three.js, WebGL, CAD, VRM and inter
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-09-12 (Asia/Shanghai)** · **164 Astra examples** · **51 source / project links** · **62 demo links** · **80 complete videos** · **12 separate references**.
+Updated **2026-09-12 (Asia/Shanghai)** · **170 Astra examples** · **54 source / project links** · **64 demo links** · **82 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 ## New work, at a glance
 
-| Beehive · interactive cutaway | Urban Champion · browser game | Houdini · procedural airplane |
+| Blender · forest ravine | Blender · Pluribus egg | Interactive · Goblin Bottle |
 | --- | --- | --- |
-| [![Beehive Observation Lab — Higgsfield AI 🧩 / @higgsfield_ai](https://pbs.twimg.com/amplify_video_thumb/2097813680964694016/img/dH0hKm5vkcvXQCgq.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=higgsfield-beehive) | [![Urban Champion 3D — Sonic的奇思妙想 / @sonic0828](https://pbs.twimg.com/amplify_video_thumb/2097600770095132672/img/WGzY-nUYB_2keW-c.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=sonic-urban-champion) | [![Procedural Airplane in Houdini — sokun](https://us1.discourse-cdn.com/openai1/original/4X/b/c/a/bca747bbfbf0c28cbbd8aa082418e4dac3f9d61c.jpeg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=sokun-houdini-airplane) |
-| Blender · purple-roof village | Rhino · reference architecture | Godot · Stone Tomb |
-| [![Purple-roof Village for Roblox — BOOTOSHI 👑 / @KingBootoshi](https://pbs.twimg.com/media/HRv6kAGbAAAtRSJ.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=bootoshi-roblox-village) | [![Reference Architecture in Rhino — AIRIlab](https://i0.hdslb.com/bfs/archive/2a149d5532231b7b9738c53077b353a87015829e.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=airilab-rhino-building) | [![Stone Tomb in Blender and Godot — 吐槽不得劲](https://i2.hdslb.com/bfs/archive/dc9cfe54e5240fb14b58326bd18b55a897529463.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=tucao-stone-tomb) |
+| [![Megascans Forest Ravine — Michiyoshi Shirota / @onihachi](https://pbs.twimg.com/amplify_video_thumb/2096776968574574592/img/VSPIKaokTcUNIx3W.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=onihachi-megascans-forest) | [![Pluribus Fabergé-style Egg — Simon Willison](https://static.simonwillison.net/static/2026/pluribus-blender-viewer.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=simonw-pluribus-egg) | [![Goblin Bottle Interactive Model — Dara A. / @daradoescode](https://pbs.twimg.com/amplify_video_thumb/2097110697029103616/img/qNBjMdxnxJ8hoqeF.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=dara-goblin-bottle) |
+| Editable · rover before and after | Voxel · lakeside map | Three.js · Toy2Game |
+| [![Fieldnote R1 Editable Rover — Curtis Pyke / Kingy AI](https://kingy.ai/wp-content/uploads/2026/09/drawing-to-editable-3d-astra-before-after.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=kingy-fieldnote-rover) | [![Minecraft-style Lakeside Map — pcstyle / @pcstyle53](https://pbs.twimg.com/media/HRfsccZbMAAOe5Z.png?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=pcstyle-minecraft-map) | [![Toy2Game Browser Toy Box — asmoyou](https://raw.githubusercontent.com/asmoyou/toy2game/main/docs/images/toy2game-overview.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=asmoyou-toy2game) |
 
-Open each image for the creator, process and complete content. Images remain on creator hosts. The Rhino cover labels its input reference and model preview; later village variants use Nano Banana, and Stone Tomb includes existing game media. The beehive is a creator concept simulation; the airplane script is not publicly downloadable.
+Open an image for the creator and available materials. The forest uses existing Megascans assets; the egg is a real model-viewer screenshot with an Images 2.5 reference input. The rover compares edits to a saved scene. Toy2Game’s overview shows its initial four games; the current project has six.
 
 ## Live website preview
 
-[![Astra 3D Atlas live homepage](docs/media/homepage-2026-09-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas live homepage](docs/media/homepage-second-2026-09-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-Captured from this update on September 12, 2026. Click to explore the gallery.
+Captured from this update on September 12, 2026 · second update. Click to explore the gallery.
 
 ## Choose a starting point
 
@@ -44,19 +44,19 @@ Captured from this update on September 12, 2026. Click to explore the gallery.
 
 ## Latest additions
 
-This update adds **14 examples, 2 source projects, 3 demo links and 5 complete X videos**: interactive beehives, street games, a procedural Houdini airplane, Rhino architecture, Godot and three-view robot reconstruction. Original media, creator attribution and mixed-tool roles remain explicit. The museum and robot records distinguish publicly available files from local-only materials.
+This second update adds **6 examples, 3 source projects, 2 demo links and 2 complete X videos**: a forest ravine, Pluribus egg, interactive bottle, editable rover, voxel map and browser toy box. Featured work, learning paths and website screenshots are refreshed together.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [Megascans Forest Ravine](https://carpentry-liu.github.io/awesome-astra-3d/#case=onihachi-megascans-forest) | Michiyoshi Shirota / @onihachi | [Original](https://x.com/onihachi/status/2096778157999391060) |
+| [Fieldnote R1 Editable Rover](https://carpentry-liu.github.io/awesome-astra-3d/#case=kingy-fieldnote-rover) | Curtis Pyke / Kingy AI | [Source](https://kingy.ai/wp-content/uploads/2026/09/kingy-astra-drawing-to-editable-3d-starter.zip) · [Original](https://kingy.ai/blog/drawing-to-editable-3d-astra-blender-video-walkthrough/) |
+| [Pluribus Fabergé-style Egg](https://carpentry-liu.github.io/awesome-astra-3d/#case=simonw-pluribus-egg) | Simon Willison | [Demo](https://tools.simonwillison.net/blender-viewer?url=https%3A%2F%2Fgithub.com%2Fsimonw%2Fvibe-coded-blender-projects%2Fblob%2Fmain%2Fpluribus-faberge-egg%2Fdeliverables%2FPluribus_Jeweled_Egg_v1.blend) · [Source](https://github.com/simonw/vibe-coded-blender-projects/tree/main/pluribus-faberge-egg) · [Original](https://simonwillison.net/2026/Sep/9/blender-viewer/) |
+| [Goblin Bottle Interactive Model](https://carpentry-liu.github.io/awesome-astra-3d/#case=dara-goblin-bottle) | Dara A. / @daradoescode | [Original](https://x.com/daradoescode/status/2097111589002350688) |
+| [Minecraft-style Lakeside Map](https://carpentry-liu.github.io/awesome-astra-3d/#case=pcstyle-minecraft-map) | pcstyle / @pcstyle53 | [Original](https://x.com/pcstyle53/status/2096404170022522940) |
+| [Toy2Game Browser Toy Box](https://carpentry-liu.github.io/awesome-astra-3d/#case=asmoyou-toy2game) | asmoyou | [Demo](https://games.asmo.top/) · [Source](https://github.com/asmoyou/toy2game) · [Original](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/24) |
 | [Beehive Observation Lab](https://carpentry-liu.github.io/awesome-astra-3d/#case=higgsfield-beehive) | Higgsfield AI 🧩 / @higgsfield_ai | [Original](https://x.com/higgsfield_ai/status/2097813773830791259) |
 | [Urban Champion 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=sonic-urban-champion) | Sonic的奇思妙想 / @sonic0828 | [Demo](https://iamsonic.net/2026/mini-games/urban-champion.html) · [Original](https://x.com/sonic0828/status/2097601232877781344) |
-| [Procedural Airplane in Houdini](https://carpentry-liu.github.io/awesome-astra-3d/#case=sokun-houdini-airplane) | sokun | [Original](https://community.openai.com/t/astra-in-action-share-your-builds-breakthroughs-aha-moments/1394945/45) |
-| [Cartoon Character Pose Controls](https://carpentry-liu.github.io/awesome-astra-3d/#case=higgsfield-cartoon-rig) | Higgsfield AI 🧩 / @higgsfield_ai | [Original](https://x.com/higgsfield_ai/status/2097797358847430956) |
-| [Purple-roof Village for Roblox](https://carpentry-liu.github.io/awesome-astra-3d/#case=bootoshi-roblox-village) | BOOTOSHI 👑 / @KingBootoshi | [Original](https://x.com/KingBootoshi/status/2097545729573368319) |
-| [Zero District — Shells 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=sonic-shells-3d) | Sonic的奇思妙想 / @sonic0828 | [Demo](https://iamsonic.net/2026/mini-games/shells-3d/play.html) · [Original](https://x.com/sonic0828/status/2097601232877781344) |
-| [Beyond a Dalí Painting](https://carpentry-liu.github.io/awesome-astra-3d/#case=higgsfield-dali-world) | Higgsfield AI 🧩 / @higgsfield_ai | [Original](https://x.com/higgsfield_ai/status/2097830176294146264) |
-| [Reference Architecture in Rhino](https://carpentry-liu.github.io/awesome-astra-3d/#case=airilab-rhino-building) | AIRIlab | [Original](https://www.bilibili.com/video/BV1owbN67E4M/) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md)
@@ -68,11 +68,11 @@ Three featured works are visible together. Desktop navigation places categories 
 The interface is in Chinese; English project names, tools and creators are searchable. Keyboard navigation, a mobile layout and image failure states are supported.
 
 <details>
-<summary>Gallery and mobile screenshots · September 12, 2026</summary>
+<summary>Gallery and mobile screenshots · September 12, 2026 · second update</summary>
 
-[![Latest examples and category sidebar](docs/media/collection-2026-09-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![Latest examples and category sidebar](docs/media/collection-second-2026-09-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![Mobile welcome page and resource navigation](docs/media/mobile-2026-09-12.jpg)
+![Mobile welcome page and resource navigation](docs/media/mobile-second-2026-09-12.jpg)
 
 </details>
 

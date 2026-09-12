@@ -710,6 +710,50 @@
       "assetId": 553951212
     },
     {
+      "caseId": "dara-goblin-bottle",
+      "sourceUrl": "https://x.com/daradoescode/status/2097111589002350688",
+      "kind": "original",
+      "filename": "dara-goblin-bottle-1-original.mp4",
+      "downloadUrl": "https://video.twimg.com/amplify_video/2097110697029103616/vid/avc1/1720x1080/BjSOrFv-cU6nlGGc.mp4?tag=29",
+      "mediaId": "2097110697029103616",
+      "durationSeconds": 16.04,
+      "expectedDurationSeconds": 16,
+      "bytes": 4981788,
+      "sha256": "6dafcdbff95264aebd55e67abb31d962dc723c8c2eaeb094790acccc3ee594fd",
+      "bitrate": 10368000,
+      "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2097110697029103616/img/qNBjMdxnxJ8hoqeF.jpg",
+      "metadataSource": "https://api.fxtwitter.com/status/2097111589002350688",
+      "downloadedAt": "2026-09-12",
+      "complete": true,
+      "transcoded": false,
+      "decodeChecked": true,
+      "label": "Goblin Bottle 交互完整演示",
+      "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-12-second/dara-goblin-bottle-1-original.mp4",
+      "assetId": 559246141
+    },
+    {
+      "caseId": "dara-goblin-bottle",
+      "sourceUrl": "https://x.com/daradoescode/status/2097111589002350688",
+      "kind": "web",
+      "filename": "dara-goblin-bottle-1-web.mp4",
+      "downloadUrl": "https://video.twimg.com/amplify_video/2097110697029103616/vid/avc1/572x360/LiteVUfOrzjrLdOw.mp4?tag=29",
+      "mediaId": "2097110697029103616",
+      "durationSeconds": 16.04,
+      "expectedDurationSeconds": 16,
+      "bytes": 395775,
+      "sha256": "97399473047bf2d2a346550f39950292858078e1da13ae65364c0ca454584a2f",
+      "bitrate": 832000,
+      "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2097110697029103616/img/qNBjMdxnxJ8hoqeF.jpg",
+      "metadataSource": "https://api.fxtwitter.com/status/2097111589002350688",
+      "downloadedAt": "2026-09-12",
+      "complete": true,
+      "transcoded": false,
+      "decodeChecked": true,
+      "label": "Goblin Bottle 交互完整演示",
+      "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-12-second/dara-goblin-bottle-1-web.mp4",
+      "assetId": 559246191
+    },
+    {
       "caseId": "derya-brandenburg-piano",
       "sourceUrl": "https://x.com/DeryaTR_/status/2096090915790069857",
       "kind": "original",
@@ -2116,6 +2160,50 @@
       "assetId": 556279061
     },
     {
+      "caseId": "onihachi-megascans-forest",
+      "sourceUrl": "https://x.com/onihachi/status/2096778157999391060",
+      "kind": "original",
+      "filename": "onihachi-megascans-forest-1-original.mp4",
+      "downloadUrl": "https://video.twimg.com/amplify_video/2096776968574574592/vid/avc1/1280x720/iaTyqu0N6y0WBQe3.mp4?tag=14",
+      "mediaId": "2096776968574574592",
+      "durationSeconds": 10.0,
+      "expectedDurationSeconds": 10,
+      "bytes": 1038838,
+      "sha256": "018bab864a9ebc5c6d64ee25a42d93d4b54bc260b4ebbf20ec1df7a9b0b59eaf",
+      "bitrate": 2176000,
+      "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2096776968574574592/img/VSPIKaokTcUNIx3W.jpg",
+      "metadataSource": "https://api.fxtwitter.com/status/2096778157999391060",
+      "downloadedAt": "2026-09-12",
+      "complete": true,
+      "transcoded": false,
+      "decodeChecked": true,
+      "label": "Megascans 森林峡谷完整演示",
+      "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-12-second/onihachi-megascans-forest-1-original.mp4",
+      "assetId": 559246145
+    },
+    {
+      "caseId": "onihachi-megascans-forest",
+      "sourceUrl": "https://x.com/onihachi/status/2096778157999391060",
+      "kind": "web",
+      "filename": "onihachi-megascans-forest-1-web.mp4",
+      "downloadUrl": "https://video.twimg.com/amplify_video/2096776968574574592/vid/avc1/640x360/WYqfN9njItela24r.mp4?tag=14",
+      "mediaId": "2096776968574574592",
+      "durationSeconds": 10.0,
+      "expectedDurationSeconds": 10,
+      "bytes": 334502,
+      "sha256": "4cd05cf558c3d30703c87c6c975f5e68915d2a025fb1c44a05af326e352ea44f",
+      "bitrate": 832000,
+      "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2096776968574574592/img/VSPIKaokTcUNIx3W.jpg",
+      "metadataSource": "https://api.fxtwitter.com/status/2096778157999391060",
+      "downloadedAt": "2026-09-12",
+      "complete": true,
+      "transcoded": false,
+      "decodeChecked": true,
+      "label": "Megascans 森林峡谷完整演示",
+      "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-12-second/onihachi-megascans-forest-1-web.mp4",
+      "assetId": 559246168
+    },
+    {
       "caseId": "op7418-moonlit-forge",
       "sourceUrl": "https://x.com/op7418/status/2096205141187956887",
       "kind": "original",
@@ -3421,6 +3509,10 @@
     {
       "tag": "media-2026-09-12",
       "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-09-12"
+    },
+    {
+      "tag": "media-2026-09-12-second",
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-09-12-second"
     }
   ]
 }

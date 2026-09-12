@@ -6,25 +6,25 @@ import { type Case } from '@/src/catalog';
 
 const spotlights = [
   {
-    id: 'higgsfield-beehive',
-    credit: '@higgsfield_ai',
-    name: '打开蜂巢，观察时间流动',
-    label: '交互剖面',
-    note: '蜂后、巢房与时间控制 · 完整演示',
+    id: 'onihachi-megascans-forest',
+    credit: '@onihachi',
+    name: '把扫描资产，搭成一片森林',
+    label: 'Blender 场景',
+    note: 'Megascans 资产整合 · 完整峡谷演示',
   },
   {
-    id: 'sonic-urban-champion',
-    credit: '@sonic0828',
-    name: '夕阳下的街头，开打一局',
-    label: '三维小游戏',
-    note: '街头小子 · 浏览器试玩与完整录像',
+    id: 'simonw-pluribus-egg',
+    credit: 'Simon Willison',
+    name: '打开彩蛋，看见里面的世界',
+    label: '可编辑模型',
+    note: 'Pluribus 彩蛋 · Blender 工程与查看器',
   },
   {
-    id: 'sokun-houdini-airplane',
-    credit: 'sokun',
-    name: '从一架飞机，到一组可调参数',
-    label: 'Houdini 建模',
-    note: '机身、机翼、起落架 · 参数化建模工具',
+    id: 'dara-goblin-bottle',
+    credit: '@daradoescode',
+    name: '随身水瓶，也能转着看',
+    label: '产品交互',
+    note: 'Goblin Bottle · 旋转、近看与开瓶演示',
   },
 ];
 export function Welcome({

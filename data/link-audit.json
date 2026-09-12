@@ -1,10 +1,10 @@
 {
   "observedAt": "2026-09-12",
-  "method": "Incremental bounded HTTP GET. 22 new image/project/demo/original-video URLs checked on September 12; earlier rows retain their actual September 11 timestamps. Public playback media checked separately after deployment. Readable HTTP is not independent reproduction; signed redirect queries omitted.",
-  "checkedUrls": 422,
+  "method": "Incremental bounded HTTP GET. September 12 first batch: 22 new URLs; second batch: 13 new image/project/demo/original-video URLs. Earlier rows retain their actual timestamps. Public playback media checked separately after deployment. Reachability is not independent reproduction; signed redirect queries omitted.",
+  "checkedUrls": 435,
   "counts": {
     "restricted": 3,
-    "reachable": 419
+    "reachable": 432
   },
   "results": [
     {
@@ -7308,6 +7308,229 @@
       "title": null,
       "contentType": "image/jpeg",
       "contentRange": "bytes 0-4095/17335",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096776968574574592/img/VSPIKaokTcUNIx3W.jpg",
+      "uses": [
+        {
+          "caseId": "onihachi-megascans-forest",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T12:41:14.963189+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2096776968574574592/img/VSPIKaokTcUNIx3W.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/125758",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-12-second/onihachi-megascans-forest-1-original.mp4",
+      "uses": [
+        {
+          "caseId": "onihachi-megascans-forest",
+          "field": "downloadUrl",
+          "bytes": 1038838
+        }
+      ],
+      "observedAt": "2026-09-12T12:41:14.963189+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1358680959/0bad9849-8bfe-4223-a484-c62a97e03971",
+      "title": null,
+      "contentType": "application/octet-stream",
+      "contentRange": "bytes 0-4095/1038838",
+      "result": "reachable"
+    },
+    {
+      "url": "https://kingy.ai/wp-content/uploads/2026/09/kingy-astra-drawing-to-editable-3d-starter.zip",
+      "uses": [
+        {
+          "caseId": "kingy-fieldnote-rover",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T12:41:14.965188+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://kingy.ai/wp-content/uploads/2026/09/kingy-astra-drawing-to-editable-3d-starter.zip",
+      "title": null,
+      "contentType": "application/zip",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://kingy.ai/wp-content/uploads/2026/09/drawing-to-editable-3d-astra-before-after.png",
+      "uses": [
+        {
+          "caseId": "kingy-fieldnote-rover",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T12:41:14.968542+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://kingy.ai/wp-content/uploads/2026/09/drawing-to-editable-3d-astra-before-after.png",
+      "title": null,
+      "contentType": "image/png",
+      "contentRange": "bytes 0-4095/459028",
+      "result": "reachable"
+    },
+    {
+      "url": "https://tools.simonwillison.net/blender-viewer?url=https%3A%2F%2Fgithub.com%2Fsimonw%2Fvibe-coded-blender-projects%2Fblob%2Fmain%2Fpluribus-faberge-egg%2Fdeliverables%2FPluribus_Jeweled_Egg_v1.blend",
+      "uses": [
+        {
+          "caseId": "simonw-pluribus-egg",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T12:41:14.969546+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://tools.simonwillison.net/blender-viewer?url=https%3A%2F%2Fgithub.com%2Fsimonw%2Fvibe-coded-blender-projects%2Fblob%2Fmain%2Fpluribus-faberge-egg%2Fdeliverables%2FPluribus_Jeweled_Egg_v1.blend",
+      "title": ".blend URL Viewer",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/simonw/vibe-coded-blender-projects/tree/main/pluribus-faberge-egg",
+      "uses": [
+        {
+          "caseId": "simonw-pluribus-egg",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T12:41:14.970541+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://github.com/simonw/vibe-coded-blender-projects/tree/main/pluribus-faberge-egg",
+      "title": "vibe-coded-blender-projects/pluribus-faberge-egg at main · simonw/vibe-coded-blender-projects · GitHub",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://static.simonwillison.net/static/2026/pluribus-blender-viewer.webp",
+      "uses": [
+        {
+          "caseId": "simonw-pluribus-egg",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T12:41:21.008735+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://static.simonwillison.net/static/2026/pluribus-blender-viewer.webp",
+      "title": null,
+      "contentType": "image/webp",
+      "contentRange": "bytes 0-4095/78424",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097110697029103616/img/qNBjMdxnxJ8hoqeF.jpg",
+      "uses": [
+        {
+          "caseId": "dara-goblin-bottle",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T12:41:21.122344+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2097110697029103616/img/qNBjMdxnxJ8hoqeF.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/37485",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-12-second/dara-goblin-bottle-1-original.mp4",
+      "uses": [
+        {
+          "caseId": "dara-goblin-bottle",
+          "field": "downloadUrl",
+          "bytes": 4981788
+        }
+      ],
+      "observedAt": "2026-09-12T12:41:21.532031+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1358680959/06254381-91b5-4241-b69c-2b6dcbd99fef",
+      "title": null,
+      "contentType": "application/octet-stream",
+      "contentRange": "bytes 0-4095/4981788",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HRfsccZbMAAOe5Z.png?name=orig",
+      "uses": [
+        {
+          "caseId": "pcstyle-minecraft-map",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T12:41:22.242404+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/media/HRfsccZbMAAOe5Z.png?name=orig",
+      "title": null,
+      "contentType": "image/png",
+      "contentRange": "bytes 0-4095/656769",
+      "result": "reachable"
+    },
+    {
+      "url": "https://games.asmo.top/",
+      "uses": [
+        {
+          "caseId": "asmoyou-toy2game",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T12:41:22.498164+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://games.asmo.top/",
+      "title": "Toy2Game 在线玩具箱 | 免费在线游戏、同屏派对与策略棋盘",
+      "contentType": "text/html",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/asmoyou/toy2game",
+      "uses": [
+        {
+          "caseId": "asmoyou-toy2game",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T12:41:26.412779+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://github.com/asmoyou/toy2game",
+      "title": "GitHub - asmoyou/toy2game: 把实物玩具变成打开即玩的 3D 网页游戏。支持单人解谜、2–4 人同屏与电脑对手，适配手机、平板和电脑。源码开放，非商业使用免费，商用须经作者授权。 · GitHub",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/asmoyou/toy2game/main/docs/images/toy2game-overview.png",
+      "uses": [
+        {
+          "caseId": "asmoyou-toy2game",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T12:41:26.650669+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://raw.githubusercontent.com/asmoyou/toy2game/main/docs/images/toy2game-overview.png",
+      "title": null,
+      "contentType": "image/png",
+      "contentRange": "bytes 0-4095/457286",
       "result": "reachable"
     }
   ],

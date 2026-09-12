@@ -79,6 +79,291 @@
     "addedAt": "2026-09-06"
   },
   {
+    "id": "onihachi-megascans-forest",
+    "title": "森林峡谷：用 Megascans 资产搭建 Blender 场景",
+    "titleEn": "Megascans Forest Ravine",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Michiyoshi Shirota / @onihachi",
+    "sourceUrl": "https://x.com/onihachi/status/2096778157999391060",
+    "sourceDate": "2026-09-07",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "modelLabel": "GPT-6 Astra + Blender + Megascans（现成资产）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Michiyoshi Shirota 让 Astra 在 Blender 中使用既有 Megascans 资产搭建森林峡谷，展示苔藓岩壁、倒木、薄雾与河床。原帖另附的 European Broadleaf Forest 图片是输入参考；此处展示结果视频，基础扫描资产并非 Astra 从零生成。",
+    "outputType": [
+      "Blender 场景搭建",
+      "既有扫描资产整合"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2096776968574574592/img/VSPIKaokTcUNIx3W.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者结果视频海报，展示森林峡谷；原帖另一张 European Broadleaf Forest 静态图是输入参考。 附完整视频及最高码率下载。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/onihachi/status/2096778157999391060",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/onihachi/status/2096778157999391060",
+      "https://api.fxtwitter.com/status/2096778157999391060"
+    ],
+    "licenseNotes": "演示归 Michiyoshi Shirota / onihachi；Megascans 资产受其原许可约束。只链接作者画面并按既有视频归档方式保存演示，不分发基础扫描资产。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/onihachi-megascans-forest-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-12-second/onihachi-megascans-forest-1-original.mp4",
+        "durationSeconds": 10.0,
+        "bytes": 1038838,
+        "sha256": "018bab864a9ebc5c6d64ee25a42d93d4b54bc260b4ebbf20ec1df7a9b0b59eaf",
+        "sourceUrl": "https://x.com/onihachi/status/2096778157999391060",
+        "label": "Megascans 森林峡谷完整演示",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2096776968574574592/img/VSPIKaokTcUNIx3W.jpg"
+      }
+    ]
+  },
+  {
+    "id": "kingy-fieldnote-rover",
+    "title": "Fieldnote R1：能继续改尺寸的三维探测车",
+    "titleEn": "Fieldnote R1 Editable Rover",
+    "group": "astra",
+    "category": "Blender 建模",
+    "platform": "作者博客",
+    "platforms": [
+      "作者博客"
+    ],
+    "author": "Curtis Pyke / Kingy AI",
+    "sourceUrl": "https://kingy.ai/blog/drawing-to-editable-3d-astra-blender-video-walkthrough/",
+    "sourceDate": "2026-09-06",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "modelLabel": "GPT-6 Astra medium（当前续作；早期基线为 Sol）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "已读取作者文章及 12,165,975 字节工程 ZIP 的目录、README 和 LICENSE；核实含两份 .blend、两份 .glb 和脚本，未本地执行。28 项通过来自作者记录，非本库复现。",
+    "sourceAccess": "原始文章与 ZIP 目录核查。视频是作者后续对保存场景的 Blender 核验回放，不是原始 Astra 会话录屏。",
+    "summary": "作者以原创三视图制作分件探测车，保留基础与修改后的 Blender、GLB 文件及制作脚本。当前 Astra continuation 明确记录 medium；早先 Sol 基线没有改标为 Astra。作者验证了重新打开同一工程后调整桅杆、样品舱与屋顶颜色；这是引导式实践，不是盲测或制造级 CAD。",
+    "outputType": [
+      "Blender 工程",
+      "GLB 模型",
+      "分件尺寸修改"
+    ],
+    "promptAvailability": "作者公开构建、编辑与核验提示词",
+    "promptExcerpt": null,
+    "promptSummary": "根据书面尺寸分件建模，保存基础场景，再重新打开同一文件调整指定部件并比较实际尺寸。",
+    "promptUrl": "https://kingy.ai/blog/drawing-to-editable-3d-astra-blender-video-walkthrough/",
+    "imageUrl": "https://kingy.ai/wp-content/uploads/2026/09/drawing-to-editable-3d-astra-before-after.png",
+    "imageKind": "comparison",
+    "imageCaption": "作者发布的 Blender 基础模型与修改结果对照：青色屋顶变为橙色，桅杆等部件同步修改；不是输入三视图。",
+    "demoUrl": null,
+    "videoUrl": "https://kingy.ai/wp-content/uploads/2026/09/drawing-to-editable-3d-blender-verification-walkthrough.mp4",
+    "repositoryUrl": "https://kingy.ai/wp-content/uploads/2026/09/kingy-astra-drawing-to-editable-3d-starter.zip",
+    "evidenceUrls": [
+      "https://kingy.ai/blog/drawing-to-editable-3d-astra-blender-video-walkthrough/"
+    ],
+    "licenseNotes": "ZIP 明确将原始参考图和渲染图标为 CC0、脚本标为 MIT；未见单独覆盖所有 .blend / GLB 模型的明确许可，因此不推定模型可任意再分发。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "simonw-pluribus-egg",
+    "title": "Pluribus 彩蛋：从参考图到可打开的 Blender 模型",
+    "titleEn": "Pluribus Fabergé-style Egg",
+    "group": "astra",
+    "category": "Blender 建模",
+    "platform": "作者博客",
+    "platforms": [
+      "作者博客"
+    ],
+    "author": "Simon Willison",
+    "sourceUrl": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "modelLabel": "GPT-6 Astra high（Blender）+ Images 2.5（输入参考）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "读取作者文章、实际模型查看器入口及 GitHub 递归文件树；仓库根 README 缺失不等于工程不存在，已确认子目录内有 .blend、渲染图、README 和制作脚本。未在本地打开 Blender 工程。",
+    "summary": "Simon Willison 先用 Images 2.5 制作彩蛋参考图，再让 GPT-6 Astra high 操作本地 Blender 建立模型。作者公开多个 .blend 文件、制作脚本和浏览器查看器。网页材质与文字是近似显示，未应用的修改器会省略，不能将网页预览等同于 Blender 最终渲染。",
+    "outputType": [
+      "Blender 工程",
+      "浏览器模型查看",
+      "图像参考建模"
+    ],
+    "promptAvailability": "作者公开建模短提示",
+    "promptExcerpt": null,
+    "promptSummary": "把已生成的彩蛋参考图交给本地 Blender Skill，要求建立可编辑三维模型。",
+    "promptUrl": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
+    "imageUrl": "https://static.simonwillison.net/static/2026/pluribus-blender-viewer.webp",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者的 .blend 浏览器查看器截图：可见打开的金色彩蛋、沙漠微缩场景和模型加载信息；不是 Images 2.5 生成的参考图。",
+    "demoUrl": "https://tools.simonwillison.net/blender-viewer?url=https%3A%2F%2Fgithub.com%2Fsimonw%2Fvibe-coded-blender-projects%2Fblob%2Fmain%2Fpluribus-faberge-egg%2Fdeliverables%2FPluribus_Jeweled_Egg_v1.blend",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/simonw/vibe-coded-blender-projects/tree/main/pluribus-faberge-egg",
+    "evidenceUrls": [
+      "https://simonwillison.net/2026/Sep/9/blender-viewer/",
+      "https://github.com/simonw/vibe-coded-blender-projects/tree/main/pluribus-faberge-egg"
+    ],
+    "licenseNotes": "作品、原始参考图和剧集相关视觉元素分别保留权利；仓库文件树未见统一 LICENSE，不将作者可下载模型视为自由授权素材。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "dara-goblin-bottle",
+    "title": "Goblin Bottle：把随身水瓶做成交互模型",
+    "titleEn": "Goblin Bottle Interactive Model",
+    "group": "astra",
+    "category": "交互与工具",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Dara A. / @daradoescode",
+    "sourceUrl": "https://x.com/daradoescode/status/2097111589002350688",
+    "sourceDate": "2026-09-07",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "modelLabel": "Astra（作者自述，未提供精确运行模型 ID）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Dara 展示 Astra 把自己收藏的水瓶做成交互三维模型，页面有旋转、材质近看、开瓶和重置视图等控制。作者没有公开建模软件、引擎、源文件或在线入口；瓶身可见 GPT-5.5 字样是物件上的文字，模型归因来自原帖的 Astra 声明。",
+    "outputType": [
+      "三维产品展示",
+      "交互控制演示"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097110697029103616/img/qNBjMdxnxJ8hoqeF.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者视频海报：白色提环水瓶及旋转、近看、开瓶和重置按钮；保留物件上的原有文字。 附完整视频及最高码率下载。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/daradoescode/status/2097111589002350688",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/daradoescode/status/2097111589002350688",
+      "https://api.fxtwitter.com/status/2097111589002350688"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/dara-goblin-bottle-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-12-second/dara-goblin-bottle-1-original.mp4",
+        "durationSeconds": 16.04,
+        "bytes": 4981788,
+        "sha256": "6dafcdbff95264aebd55e67abb31d962dc723c8c2eaeb094790acccc3ee594fd",
+        "sourceUrl": "https://x.com/daradoescode/status/2097111589002350688",
+        "label": "Goblin Bottle 交互完整演示",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2097110697029103616/img/qNBjMdxnxJ8hoqeF.jpg"
+      }
+    ]
+  },
+  {
+    "id": "pcstyle-minecraft-map",
+    "title": "像素湖畔：Minecraft 风格地图效果",
+    "titleEn": "Minecraft-style Lakeside Map",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "pcstyle / @pcstyle53",
+    "sourceUrl": "https://x.com/pcstyle53/status/2096404170022522940",
+    "sourceDate": "2026-09-06",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。",
+    "summary": "pcstyle 发布三张 Astra 地图效果图，展示瀑布、门楼、湖边村落与樱花树。原帖没有公开地图文件、源码或可玩地址，也未说明底层引擎；按作者展示的体素地图效果收录。",
+    "outputType": [
+      "体素地图效果",
+      "村落与地形"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/media/HRfsccZbMAAOe5Z.png?name=orig",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者三张附图中的湖畔村落全景；没有把效果图当作已验证可玩的地图。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/pcstyle53/status/2096404170022522940",
+      "https://api.fxtwitter.com/status/2096404170022522940"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "asmoyou-toy2game",
+    "title": "在线玩具箱：把桌面玩具变成三维网页游戏",
+    "titleEn": "Toy2Game Browser Toy Box",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "asmoyou",
+    "sourceUrl": "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/24",
+    "sourceDate": "2026-09-07",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "读取作者本人 Issue、当前 README、公开文件树及非商业许可；Astra 归因来自原始投稿，不将后续每项改动统一推定为同模型生成。",
+    "summary": "作者将企鹅敲冰、小兔闯关、平衡太空人与移车出库等玩具改编为三维网页游戏，并在原始投稿中说明 Astra 参与开发和测试。当前仓库已扩展到六款，包含青蛙与翻棋；这条按一个作品集计数。多人玩法为本地同屏，不能写成异地联机。",
+    "outputType": [
+      "Three.js 游戏",
+      "公开源码",
+      "本地同屏玩法"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://raw.githubusercontent.com/asmoyou/toy2game/main/docs/images/toy2game-overview.png",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者提供的四款初期游戏实际场景拼图；当前仓库已有六款，拼图不代表全部最新游戏。",
+    "demoUrl": "https://games.asmo.top/",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/asmoyou/toy2game",
+    "evidenceUrls": [
+      "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/24",
+      "https://github.com/asmoyou/toy2game",
+      "https://github.com/asmoyou/toy2game/blob/main/LICENSE"
+    ],
+    "licenseNotes": "Toy2Game Noncommercial License 1.0：源码可见，非商业使用按许可条件开放；商业使用须另行获得作者书面授权。第三方材料保留各自权利，不属于宽松开源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
     "id": "higgsfield-beehive",
     "title": "蜂巢观察室：蜂后、巢房与时间控制",
     "titleEn": "Beehive Observation Lab",

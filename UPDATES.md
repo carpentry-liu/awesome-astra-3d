@@ -2,10 +2,16 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
-## 2026-09-12 · 14 个案例
+## 2026-09-12 · 20 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
+| [森林峡谷：用 Megascans 资产搭建 Blender 场景 / Megascans Forest Ravine](https://carpentry-liu.github.io/awesome-astra-3d/#case=onihachi-megascans-forest) | Michiyoshi Shirota / @onihachi | 完整视频 |
+| [Fieldnote R1：能继续改尺寸的三维探测车 / Fieldnote R1 Editable Rover](https://carpentry-liu.github.io/awesome-astra-3d/#case=kingy-fieldnote-rover) | Curtis Pyke / Kingy AI | 源码 / 工程 · 提示词 / 过程 |
+| [Pluribus 彩蛋：从参考图到可打开的 Blender 模型 / Pluribus Fabergé-style Egg](https://carpentry-liu.github.io/awesome-astra-3d/#case=simonw-pluribus-egg) | Simon Willison | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [Goblin Bottle：把随身水瓶做成交互模型 / Goblin Bottle Interactive Model](https://carpentry-liu.github.io/awesome-astra-3d/#case=dara-goblin-bottle) | Dara A. / @daradoescode | 完整视频 |
+| [像素湖畔：Minecraft 风格地图效果 / Minecraft-style Lakeside Map](https://carpentry-liu.github.io/awesome-astra-3d/#case=pcstyle-minecraft-map) | pcstyle / @pcstyle53 | 作者展示 |
+| [在线玩具箱：把桌面玩具变成三维网页游戏 / Toy2Game Browser Toy Box](https://carpentry-liu.github.io/awesome-astra-3d/#case=asmoyou-toy2game) | asmoyou | 源码 / 工程 · 演示入口 |
 | [蜂巢观察室：蜂后、巢房与时间控制 / Beehive Observation Lab](https://carpentry-liu.github.io/awesome-astra-3d/#case=higgsfield-beehive) | Higgsfield AI 🧩 / @higgsfield_ai | 完整视频 |
 | [街头小子：夕阳街区的三维拳击 / Urban Champion 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=sonic-urban-champion) | Sonic的奇思妙想 / @sonic0828 | 演示入口 · 完整视频 |
 | [Houdini 飞机：把模型做成可调工具 / Procedural Airplane in Houdini](https://carpentry-liu.github.io/awesome-astra-3d/#case=sokun-houdini-airplane) | sokun | 作者展示 |
