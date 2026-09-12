@@ -13,24 +13,24 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-09-11（Asia/Shanghai）**：**150 条 Astra 案例** · **49 条源码 / 工程** · **59 个演示入口** · **75 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-09-12（Asia/Shanghai）**：**164 条 Astra 案例** · **51 条源码 / 工程** · **62 个演示入口** · **80 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 ## 这次更新，先看效果
 
-| 仙林校园 · 建筑摄影 | Houdini · OP-1 Field | こもれび市場 · 三维散步 |
+| 蜂巢剖面 · 交互观察 | 街头小子 · 浏览器游戏 | Houdini · 参数化飞机 |
 | --- | --- | --- |
-| [![NJU Xianlin Campus in Blender — super-xinz](https://raw.githubusercontent.com/super-xinz/nju-xianlin-campus-3d/main/photos/03-%E6%9D%9C%E5%8E%A6%E6%B0%B4%E5%B2%B8.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=xinz-xianlin-campus) | [![OP-1 Field in Houdini — Nick Scarcella / @_nscr](https://pbs.twimg.com/media/HRyqTjEaEAAOKhq.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=nick-op1-houdini) | [![Komorebi Market Walk — miya / @miya00907380](https://pbs.twimg.com/amplify_video_thumb/2097110659590922240/img/nRlaHBNYuWDDyaD0.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=miya-komorebi-market) |
-| 实景资料 → 可编辑空间 | 手机录像 → 机器人厨房 | Blender · 后室与 VHS |
-| [![Realsee to Editable Blender Space — realsee-developer](https://raw.githubusercontent.com/realsee-developer/realsee-astra-blender/main/docs/assets/plan.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=realsee-editable-space) | [![Interactive Robot Kitchen — Linfeng Zhao / @LinfengZhaoZLF](https://pbs.twimg.com/amplify_video_thumb/2097656955351547904/img/agwXHBaNXy814rkT.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=linfeng-robot-kitchen) | [![Backrooms in Blender — Rshhad / @aaassa120](https://pbs.twimg.com/amplify_video_thumb/2097794715576115200/img/a7CUjFL6TO4x06cy.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=rshhad-backrooms) |
+| [![Beehive Observation Lab — Higgsfield AI 🧩 / @higgsfield_ai](https://pbs.twimg.com/amplify_video_thumb/2097813680964694016/img/dH0hKm5vkcvXQCgq.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=higgsfield-beehive) | [![Urban Champion 3D — Sonic的奇思妙想 / @sonic0828](https://pbs.twimg.com/amplify_video_thumb/2097600770095132672/img/WGzY-nUYB_2keW-c.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=sonic-urban-champion) | [![Procedural Airplane in Houdini — sokun](https://us1.discourse-cdn.com/openai1/original/4X/b/c/a/bca747bbfbf0c28cbbd8aa082418e4dac3f9d61c.jpeg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=sokun-houdini-airplane) |
+| Blender · 紫顶村庄 | Rhino · 建筑参考重建 | Godot · 石墓阵 |
+| [![Purple-roof Village for Roblox — BOOTOSHI 👑 / @KingBootoshi](https://pbs.twimg.com/media/HRv6kAGbAAAtRSJ.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=bootoshi-roblox-village) | [![Reference Architecture in Rhino — AIRIlab](https://i0.hdslb.com/bfs/archive/2a149d5532231b7b9738c53077b353a87015829e.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=airilab-rhino-building) | [![Stone Tomb in Blender and Godot — 吐槽不得劲](https://i2.hdslb.com/bfs/archive/dc9cfe54e5240fb14b58326bd18b55a897529463.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=tucao-stone-tomb) |
 
-点击图片查看作品、完整录像与原始来源。图片外链原作者媒体；Realsee 使用模型俯视渲染，市场包含 imagegen 参考与既有角色，机器人厨房使用既有 mobile ALOHA。每条保留作者和工具分工。
+点击图片查看作者、创作过程与完整内容。所有作品图均链接原作者媒体；Rhino 封面左侧是输入参考、右侧是模型预览，村庄的后续变体使用 Nano Banana；石墓阵部分素材来自既有游戏。蜂巢是作者展示的概念模拟，飞机工具尚未公开脚本。
 
 ## 网站实拍
 
-[![Astra 3D Atlas 正式网站首页](docs/media/homepage-evening-2026-09-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 正式网站首页](docs/media/homepage-2026-09-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-本次更新实拍 · 2026-09-11 晚间版。点击图片进入案例库。
+本次更新实拍 · 2026-09-12。点击图片进入案例库。
 
 ## 找到你的下一次创作
 
@@ -44,19 +44,19 @@
 
 ## 最新收录
 
-本轮新增 **15 个案例、9 段完整 X 视频**：仙林校园、可编辑空间、Houdini 合成器、机器人厨房、三维街市等。新增 **5 个源码 / 工程、4 个演示入口**；完整视频保留原平台最高码率与较小播放版本。另修复 5 张迁移后的官方图片，复查旧工程、演示和媒体入口。
+本轮新增 **14 个案例、5 段完整 X 视频**，涵盖蜂巢交互、街头游戏、Houdini 飞机、Rhino 建筑、Godot 和机器人三视角重建。新增 **2 个源码 / 工程、3 个演示入口**。原帖完整录像、作者来源和混合工具分工一起保留；苏州博物馆和机器人项目还注明了公开文件与本地材料的区别。
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
-| [Realsee：实景扫描到可编辑空间](https://carpentry-liu.github.io/awesome-astra-3d/#case=realsee-editable-space) | realsee-developer | [演示](https://realsee-developer.github.io/realsee-astra-blender/) · [源码](https://github.com/realsee-developer/realsee-astra-blender) · [原始来源](https://github.com/realsee-developer/realsee-astra-blender) |
-| [仙林校园：Blender 漫游与建筑摄影](https://carpentry-liu.github.io/awesome-astra-3d/#case=xinz-xianlin-campus) | super-xinz | [源码](https://github.com/super-xinz/nju-xianlin-campus-3d) · [原始来源](https://github.com/super-xinz/nju-xianlin-campus-3d) |
-| [OP-1 Field：Houdini 产品建模练习](https://carpentry-liu.github.io/awesome-astra-3d/#case=nick-op1-houdini) | Nick Scarcella / @_nscr | [原始来源](https://x.com/_nscr/status/2097744564073218443) |
-| [机器人厨房：手机录像到 MuJoCo 场景](https://carpentry-liu.github.io/awesome-astra-3d/#case=linfeng-robot-kitchen) | Linfeng Zhao / @LinfengZhaoZLF | [原始来源](https://x.com/LinfengZhaoZLF/status/2097740382511800768) |
-| [こもれび市場：从参考图走进三维街市](https://carpentry-liu.github.io/awesome-astra-3d/#case=miya-komorebi-market) | miya / @miya00907380 | [原始来源](https://x.com/miya00907380/status/2097807257639748070) |
-| [Backrooms：Blender 后室与 VHS 效果](https://carpentry-liu.github.io/awesome-astra-3d/#case=rshhad-backrooms) | Rshhad / @aaassa120 | [原始来源](https://x.com/aaassa120/status/2097794770357866504) |
-| [神经渲染：Blender 几何与 H3 风格预览](https://carpentry-liu.github.io/awesome-astra-3d/#case=gokay-neural-rendering) | gokayfem | [源码](https://github.com/gokayfem/H3-Max-Blender) · [原始来源](https://github.com/gokayfem/H3-Max-Blender) |
-| [KiCad：独立布局后的原生三维预览](https://carpentry-liu.github.io/awesome-astra-3d/#case=cyjj-kicad-board) | cyjjjj-21 | [源码](https://github.com/cyjjjj-21/gpt6-astra-kicad-blind-routing) · [原始来源](https://github.com/cyjjjj-21/gpt6-astra-kicad-blind-routing) |
+| [蜂巢观察室：蜂后、巢房与时间控制](https://carpentry-liu.github.io/awesome-astra-3d/#case=higgsfield-beehive) | Higgsfield AI 🧩 / @higgsfield_ai | [原始来源](https://x.com/higgsfield_ai/status/2097813773830791259) |
+| [街头小子：夕阳街区的三维拳击](https://carpentry-liu.github.io/awesome-astra-3d/#case=sonic-urban-champion) | Sonic的奇思妙想 / @sonic0828 | [演示](https://iamsonic.net/2026/mini-games/urban-champion.html) · [原始来源](https://x.com/sonic0828/status/2097601232877781344) |
+| [Houdini 飞机：把模型做成可调工具](https://carpentry-liu.github.io/awesome-astra-3d/#case=sokun-houdini-airplane) | sokun | [原始来源](https://community.openai.com/t/astra-in-action-share-your-builds-breakthroughs-aha-moments/1394945/45) |
+| [卡通角色：可摆姿势的 Blender 控制器](https://carpentry-liu.github.io/awesome-astra-3d/#case=higgsfield-cartoon-rig) | Higgsfield AI 🧩 / @higgsfield_ai | [原始来源](https://x.com/higgsfield_ai/status/2097797358847430956) |
+| [紫顶村庄：Blender 到 Roblox 的关卡尝试](https://carpentry-liu.github.io/awesome-astra-3d/#case=bootoshi-roblox-village) | BOOTOSHI 👑 / @KingBootoshi | [原始来源](https://x.com/KingBootoshi/status/2097545729573368319) |
+| [零点街区：三维生存战斗](https://carpentry-liu.github.io/awesome-astra-3d/#case=sonic-shells-3d) | Sonic的奇思妙想 / @sonic0828 | [演示](https://iamsonic.net/2026/mini-games/shells-3d/play.html) · [原始来源](https://x.com/sonic0828/status/2097601232877781344) |
+| [走出画框：Dalí 绘画的 Blender 空间](https://carpentry-liu.github.io/awesome-astra-3d/#case=higgsfield-dali-world) | Higgsfield AI 🧩 / @higgsfield_ai | [原始来源](https://x.com/higgsfield_ai/status/2097830176294146264) |
+| [Rhino 建筑：参考图到分层模型](https://carpentry-liu.github.io/awesome-astra-3d/#case=airilab-rhino-building) | AIRIlab | [原始来源](https://www.bilibili.com/video/BV1owbN67E4M/) |
 <!-- atlas:latest:end -->
 
 [查看完整更新目录 →](UPDATES.md)
@@ -70,11 +70,11 @@
 - 手机布局、键盘操作与图片失败提示均保留；方法参考与 Astra 案例分别呈现。
 
 <details>
-<summary>查看案例区与手机实拍 · 2026-09-11</summary>
+<summary>查看案例区与手机实拍 · 2026-09-12</summary>
 
-[![最新案例与分类侧栏](docs/media/collection-evening-2026-09-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![最新案例与分类侧栏](docs/media/collection-2026-09-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端欢迎页，精选作品与资源导航](docs/media/mobile-evening-2026-09-11.jpg)
+![手机端欢迎页，精选作品与资源导航](docs/media/mobile-2026-09-12.jpg)
 
 </details>
 

@@ -1,5 +1,5 @@
 {
-  "observedAt": "2026-09-11",
+  "observedAt": "2026-09-12",
   "officialSources": [
     "https://developers.openai.com/showcase/all",
     "https://developers.openai.com/api/docs/models/gpt-6-astra"
@@ -561,6 +561,69 @@
         {
           "source": "https://github.com/thebuggeddev/wright-flyer",
           "reason": "Public material lacks a verified, attributable result image or live preview in this review."
+        }
+      ]
+    },
+    {
+      "observedAt": "2026-09-12",
+      "batch": "source-refresh-2026-09-12",
+      "addedCount": 14,
+      "caseIds": [
+        "higgsfield-beehive",
+        "sonic-urban-champion",
+        "sokun-houdini-airplane",
+        "higgsfield-cartoon-rig",
+        "bootoshi-roblox-village",
+        "sonic-shells-3d",
+        "higgsfield-dali-world",
+        "airilab-rhino-building",
+        "laoliu-godot-nightmare",
+        "tucao-stone-tomb",
+        "aizhuiguang-blender-previs",
+        "vsme-suzhou-museum",
+        "hku-robot-rgb-replay",
+        "codonflow-creative-worlds"
+      ],
+      "sources": [
+        "https://x.com/higgsfield_ai/status/2097813773830791259",
+        "https://x.com/sonic0828/status/2097601232877781344",
+        "https://community.openai.com/t/astra-in-action-share-your-builds-breakthroughs-aha-moments/1394945/45",
+        "https://x.com/higgsfield_ai/status/2097797358847430956",
+        "https://x.com/KingBootoshi/status/2097545729573368319",
+        "https://x.com/sonic0828/status/2097601232877781344",
+        "https://x.com/higgsfield_ai/status/2097830176294146264",
+        "https://www.bilibili.com/video/BV1owbN67E4M/",
+        "https://www.bilibili.com/video/BV1Waty6TE7h/",
+        "https://www.bilibili.com/video/BV1z5bP6nEpz/",
+        "https://www.bilibili.com/video/BV1DrYW6MEuy/",
+        "https://github.com/vsme/suzhou-museum-three",
+        "https://github.com/hku-sail/Real2Sim_GPT6_ASTRA",
+        "https://www.reddit.com/r/ChatGPT/comments/1wdw2p2/i_pushed_gpt6_astra_through_9_creative_projects/"
+      ],
+      "method": "Multi-platform searches, primary author repositories and forum posts, Bilibili public metadata, Reddit author statement with YouTube oEmbed, exact-ID X metadata and visually matched video posters.",
+      "notes": [
+        "Six X case records, four Bilibili records, two GitHub projects, one developer-community project and one Reddit/YouTube compilation.",
+        "Five full X clips are archived; Sonic video 1 is Shells3D and video 4 is Urban Champion, each assigned by its actual poster and creator reply.",
+        "X posts were published September 9 UTC; collected September 12. Unknown dates remain null.",
+        "Meshy tasks, Nano Banana references, 3D AI Studio assets, ElevenLabs voices, Seedance output and pre-existing game media are attributed separately.",
+        "Existing 162 records preserved. No Xiaohongshu access, social posting or new tracking."
+      ],
+      "excluded": [
+        {
+          "source": "https://www.bilibili.com/video/BV1hNbH6nE5y/",
+          "reason": "Title mentions Astra but author description attributes the shown game to Fable 5.1."
+        },
+        {
+          "source": "https://github.com/cagrikacmaz/gpt-6-astra-vs-gemini-3-8-flash",
+          "reason": "Already collected as cagri-civilization-lab."
+        },
+        {
+          "source": "https://github.com/Ayi1337/gpt6-astra-one-shot-games",
+          "reason": "Mosswing already collected; other disclosed game does not establish a distinct 3D output."
+        },
+        {
+          "source": "https://github.com/dracohu2025-cloud/astra-blender-demo",
+          "reason": "README request returned 404; no usable verified result in this pass."
         }
       ]
     }

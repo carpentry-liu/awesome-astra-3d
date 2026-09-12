@@ -2,6 +2,25 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-09-12 · 14 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [蜂巢观察室：蜂后、巢房与时间控制 / Beehive Observation Lab](https://carpentry-liu.github.io/awesome-astra-3d/#case=higgsfield-beehive) | Higgsfield AI 🧩 / @higgsfield_ai | 完整视频 |
+| [街头小子：夕阳街区的三维拳击 / Urban Champion 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=sonic-urban-champion) | Sonic的奇思妙想 / @sonic0828 | 演示入口 · 完整视频 |
+| [Houdini 飞机：把模型做成可调工具 / Procedural Airplane in Houdini](https://carpentry-liu.github.io/awesome-astra-3d/#case=sokun-houdini-airplane) | sokun | 作者展示 |
+| [卡通角色：可摆姿势的 Blender 控制器 / Cartoon Character Pose Controls](https://carpentry-liu.github.io/awesome-astra-3d/#case=higgsfield-cartoon-rig) | Higgsfield AI 🧩 / @higgsfield_ai | 完整视频 |
+| [紫顶村庄：Blender 到 Roblox 的关卡尝试 / Purple-roof Village for Roblox](https://carpentry-liu.github.io/awesome-astra-3d/#case=bootoshi-roblox-village) | BOOTOSHI 👑 / @KingBootoshi | 作者展示 |
+| [零点街区：三维生存战斗 / Zero District — Shells 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=sonic-shells-3d) | Sonic的奇思妙想 / @sonic0828 | 演示入口 · 完整视频 |
+| [走出画框：Dalí 绘画的 Blender 空间 / Beyond a Dalí Painting](https://carpentry-liu.github.io/awesome-astra-3d/#case=higgsfield-dali-world) | Higgsfield AI 🧩 / @higgsfield_ai | 完整视频 |
+| [Rhino 建筑：参考图到分层模型 / Reference Architecture in Rhino](https://carpentry-liu.github.io/awesome-astra-3d/#case=airilab-rhino-building) | AIRIlab | 作者展示 |
+| [Godot：小小梦魇风格的三维游戏试作 / Nightmare-inspired Godot Prototype](https://carpentry-liu.github.io/awesome-astra-3d/#case=laoliu-godot-nightmare) | 老刘用AI做游戏 | 作者展示 |
+| [石墓阵：Blender 与 Godot 场景 / Stone Tomb in Blender and Godot](https://carpentry-liu.github.io/awesome-astra-3d/#case=tucao-stone-tomb) | 吐槽不得劲 | 作者展示 |
+| [Blender 运镜：灰模预演到追车短片 / Blender Previsualization to Chase Film](https://carpentry-liu.github.io/awesome-astra-3d/#case=aizhuiguang-blender-previs) | AI追光实验室 | 作者展示 |
+| [苏州博物馆：Three.js 外观与庭院 / Suzhou Museum Architectural Walk](https://carpentry-liu.github.io/awesome-astra-3d/#case=vsme-suzhou-museum) | vsme | 源码 / 工程 · 演示入口 |
+| [Real2Sim：三视角机器人场景重放 / Three-view Robot Scene Reconstruction](https://carpentry-liu.github.io/awesome-astra-3d/#case=hku-robot-rgb-replay) | hku-sail | 源码 / 工程 · 提示词 / 过程 |
+| [九次创作实验：教堂、RTS 与三维乐器 / CodonFlow Creative 3D Experiments](https://carpentry-liu.github.io/awesome-astra-3d/#case=codonflow-creative-worlds) | jargs92 / CodonFlow | 作者展示 |
+
 ## 2026-09-11 · 21 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

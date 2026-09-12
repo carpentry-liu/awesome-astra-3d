@@ -79,6 +79,673 @@
     "addedAt": "2026-09-06"
   },
   {
+    "id": "higgsfield-beehive",
+    "title": "蜂巢观察室：蜂后、巢房与时间控制",
+    "titleEn": "Beehive Observation Lab",
+    "group": "astra",
+    "category": "科学与教育",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Higgsfield AI 🧩 / @higgsfield_ai",
+    "sourceUrl": "https://x.com/higgsfield_ai/status/2097813773830791259",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "modelLabel": "GPT-6 Astra + Higgsfield（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Higgsfield 展示 Astra 参与制作的蜂巢交互场景：观察蜂后、查看巢房内部并快进蜂群生活。视频可见剖面和时间控制；建模工具及生物规则未逐项公开，作为概念展示收录。",
+    "outputType": [
+      "蜂巢剖面",
+      "交互概念模拟"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097813680964694016/img/dH0hKm5vkcvXQCgq.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整视频及最高码率下载；各制作阶段分别标注。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/higgsfield_ai/status/2097813773830791259",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/higgsfield_ai/status/2097813773830791259",
+      "https://api.fxtwitter.com/status/2097813773830791259"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/higgsfield-beehive-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-12/higgsfield-beehive-1-original.mp4",
+        "durationSeconds": 15.59,
+        "bytes": 6701027,
+        "sha256": "b064887f13a39e61939822b78df23656242006c1c5a2b4eca93033839cda746a",
+        "sourceUrl": "https://x.com/higgsfield_ai/status/2097813773830791259",
+        "label": "Beehive inspection and time controls",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2097813680964694016/img/dH0hKm5vkcvXQCgq.jpg"
+      }
+    ]
+  },
+  {
+    "id": "sonic-urban-champion",
+    "title": "街头小子：夕阳街区的三维拳击",
+    "titleEn": "Urban Champion 3D",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Sonic的奇思妙想 / @sonic0828",
+    "sourceUrl": "https://x.com/sonic0828/status/2097601232877781344",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Sonic 用 Astra 制作的街头拳击游戏，有高低拳、防守、闪避和落下花盆等元素。作者在同一作品帖的独立回复中提供可玩的页面；此条对应原帖第四段视频，区别于第二段拳击擂台。",
+    "outputType": [
+      "浏览器游戏",
+      "三维角色与街景"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097600770095132672/img/WGzY-nUYB_2keW-c.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整视频及最高码率下载；各制作阶段分别标注。",
+    "demoUrl": "https://iamsonic.net/2026/mini-games/urban-champion.html",
+    "videoUrl": "https://x.com/sonic0828/status/2097601232877781344",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/sonic0828/status/2097601232877781344",
+      "https://api.fxtwitter.com/status/2097601232877781344",
+      "https://x.com/sonic0828/status/2097601861658587376",
+      "https://api.fxtwitter.com/status/2097601861658587376"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/sonic-urban-champion-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-12/sonic-urban-champion-1-original.mp4",
+        "durationSeconds": 31.6,
+        "bytes": 3333766,
+        "sha256": "fed19d23f6dd15e3ba55ca6917d4835289220f83bc49857f468ecb3235ddcfed",
+        "sourceUrl": "https://x.com/sonic0828/status/2097601232877781344",
+        "label": "街头小子：原帖第四段完整录像",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2097600770095132672/img/WGzY-nUYB_2keW-c.jpg"
+      }
+    ]
+  },
+  {
+    "id": "sokun-houdini-airplane",
+    "title": "Houdini 飞机：把模型做成可调工具",
+    "titleEn": "Procedural Airplane in Houdini",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "开发者社区",
+    "platforms": [
+      "开发者社区"
+    ],
+    "author": "sokun",
+    "sourceUrl": "https://community.openai.com/t/astra-in-action-share-your-builds-breakthroughs-aha-moments/1394945/45",
+    "sourceDate": "2026-09-08",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "读取公开原始页面与作者说明。",
+    "summary": "作者让 Astra 编写 Houdini Python 脚本，生成具有机身、翼展、后掠角、发动机、舷窗、小翼、起落架和颜色参数的飞机工具。帖子展示模型与参数界面；脚本和 HDA 下载尚未公开。",
+    "outputType": [
+      "Houdini 参数化模型",
+      "可调建模工具"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://us1.discourse-cdn.com/openai1/original/4X/b/c/a/bca747bbfbf0c28cbbd8aa082418e4dac3f9d61c.jpeg",
+    "imageKind": "author-screenshot",
+    "imageCaption": "sokun 在开发者社区发布的 Houdini 模型与参数界面；这是社区作者作品，不是 OpenAI 官方示例。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://community.openai.com/t/astra-in-action-share-your-builds-breakthroughs-aha-moments/1394945/45"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "higgsfield-cartoon-rig",
+    "title": "卡通角色：可摆姿势的 Blender 控制器",
+    "titleEn": "Cartoon Character Pose Controls",
+    "group": "astra",
+    "category": "Blender 建模",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Higgsfield AI 🧩 / @higgsfield_ai",
+    "sourceUrl": "https://x.com/higgsfield_ai/status/2097797358847430956",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "modelLabel": "GPT-6 Astra + Higgsfield + Blender（界面含 Meshy 7 任务）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。 本次另检查完整原片第 35 秒和第 65 秒，能看到角色网格、骨骼控制和 Meshy 任务界面；未将上半屏成片等同于 Blender 原生渲染。",
+    "summary": "Higgsfield 展示可在 Blender 中摆姿势和制作动画的卡通角色，包含手指控制。原帖将流程归于 Astra、Higgsfield 与 Blender；海报还可见 Meshy 7 图生模型任务，基础几何来源未逐项确认，不能视为纯 Astra 从零建模。",
+    "outputType": [
+      "Blender 角色控制",
+      "姿势与手指动画"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097797011479330816/img/_TJbjU3DOhPazHAz.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者视频封面是城市画面与 Blender 工作界面的拼屏，角色控制见完整视频；底部可见 Meshy 7 任务，保留混合工具归因。 附完整视频及最高码率下载；各制作阶段分别标注。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/higgsfield_ai/status/2097797358847430956",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/higgsfield_ai/status/2097797358847430956",
+      "https://api.fxtwitter.com/status/2097797358847430956"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/higgsfield-cartoon-rig-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-12/higgsfield-cartoon-rig-1-original.mp4",
+        "durationSeconds": 73.96000000000001,
+        "bytes": 50808249,
+        "sha256": "e46500c158f2317da56bb539bb4f3e163ca66fba96e8c18f0694ae3f24a90f09",
+        "sourceUrl": "https://x.com/higgsfield_ai/status/2097797358847430956",
+        "label": "Blender character posing controls",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2097797011479330816/img/_TJbjU3DOhPazHAz.jpg"
+      }
+    ]
+  },
+  {
+    "id": "bootoshi-roblox-village",
+    "title": "紫顶村庄：Blender 到 Roblox 的关卡尝试",
+    "titleEn": "Purple-roof Village for Roblox",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "BOOTOSHI 👑 / @KingBootoshi",
+    "sourceUrl": "https://x.com/KingBootoshi/status/2097545729573368319",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "modelLabel": "Astra（建模流程）+ Nano Banana（后续参考变体）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。",
+    "summary": "BOOTOSHI 展示 Blender 生成的紫顶城堡与村庄，随后说明用 Astra 制作基础地图，再以 Nano Banana 生成关卡参考变体交给 Astra 继续实现。首帖称 Roblox 资产导入仍在探索；未取得公开可玩版本，不标为导入已完成。",
+    "outputType": [
+      "Blender 村庄场景",
+      "Roblox 关卡流程"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/media/HRv6kAGbAAAtRSJ.jpg?name=orig",
+    "imageKind": "author-screenshot",
+    "imageCaption": "前帖公开的 Blender 结果图，包含两张村庄渲染；不是后帖的 Nano Banana 参考变体。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/KingBootoshi/status/2097545729573368319",
+      "https://api.fxtwitter.com/status/2097545729573368319",
+      "https://x.com/KingBootoshi/status/2097578472378073153",
+      "https://api.fxtwitter.com/status/2097578472378073153"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "sonic-shells-3d",
+    "title": "零点街区：三维生存战斗",
+    "titleEn": "Zero District — Shells 3D",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Sonic的奇思妙想 / @sonic0828",
+    "sourceUrl": "https://x.com/sonic0828/status/2097601232877781344",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Sonic 的浏览器生存游戏展示城市街景、角色移动、自动攻击与升级选择。作者在 Astra 作品帖下提供独立游戏链接；此条对应第一段视频，保留原片完整时长。",
+    "outputType": [
+      "浏览器游戏",
+      "三维城市场景"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097600704353624064/img/swadGmWgXdDyADXP.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整视频及最高码率下载；各制作阶段分别标注。",
+    "demoUrl": "https://iamsonic.net/2026/mini-games/shells-3d/play.html",
+    "videoUrl": "https://x.com/sonic0828/status/2097601232877781344",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/sonic0828/status/2097601232877781344",
+      "https://api.fxtwitter.com/status/2097601232877781344",
+      "https://x.com/sonic0828/status/2097602391122264310",
+      "https://api.fxtwitter.com/status/2097602391122264310"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/sonic-shells-3d-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-12/sonic-shells-3d-1-original.mp4",
+        "durationSeconds": 33.25,
+        "bytes": 16460186,
+        "sha256": "bf715ed2e06a26e91d201d3c6c75a33d178a0f693755ea3d51f159a341c0b382",
+        "sourceUrl": "https://x.com/sonic0828/status/2097601232877781344",
+        "label": "零点街区：原帖第一段完整录像",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2097600704353624064/img/swadGmWgXdDyADXP.jpg"
+      }
+    ]
+  },
+  {
+    "id": "higgsfield-dali-world",
+    "title": "走出画框：Dalí 绘画的 Blender 空间",
+    "titleEn": "Beyond a Dalí Painting",
+    "group": "astra",
+    "category": "Blender 建模",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Higgsfield AI 🧩 / @higgsfield_ai",
+    "sourceUrl": "https://x.com/higgsfield_ai/status/2097830176294146264",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "modelLabel": "GPT-6 Astra + Higgsfield + Blender（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Higgsfield 发布 Astra 与 Blender 将《记忆的永恒》重新想象为三维空间的短片。原帖只概述流程，未公开工程或逐项资产来源；保留绘画原作与工具署名。",
+    "outputType": [
+      "绘画空间改编",
+      "Blender 短片"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2097830058509598720/img/vpaMBj9Oxpaq7SB3.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "原视频封面为绘画参考与 Blender 工作界面拼屏，不单独作为最终建模效果证据；动态结果请看完整视频。 附完整视频及最高码率下载；各制作阶段分别标注。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/higgsfield_ai/status/2097830176294146264",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/higgsfield_ai/status/2097830176294146264",
+      "https://api.fxtwitter.com/status/2097830176294146264"
+    ],
+    "licenseNotes": "原画《记忆的永恒》署名 Salvador Dalí，演示发布者 Higgsfield。画作、改编媒体与工具分别保留相应权利，不纳入本库 MIT 许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/higgsfield-dali-world-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-12/higgsfield-dali-world-1-original.mp4",
+        "durationSeconds": 10.05,
+        "bytes": 4763452,
+        "sha256": "dbf9283bf296fc22c446bde4c8c36f892ebce665cde63f0d70f019e88f546614",
+        "sourceUrl": "https://x.com/higgsfield_ai/status/2097830176294146264",
+        "label": "Dalí painting into a Blender world",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2097830058509598720/img/vpaMBj9Oxpaq7SB3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "airilab-rhino-building",
+    "title": "Rhino 建筑：参考图到分层模型",
+    "titleEn": "Reference Architecture in Rhino",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "Bilibili",
+    "platforms": [
+      "Bilibili"
+    ],
+    "author": "AIRIlab",
+    "sourceUrl": "https://www.bilibili.com/video/BV1owbN67E4M/",
+    "sourceDate": "2026-09-07",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "读取作者公开 view API，核对作者、简介、时间与视频时长，并与搜索索引交叉核对；网页直接抓取返回 412。未逐帧观看完整视频。",
+    "summary": "AIRIlab 团队展示 Astra 根据建筑参考图操作 Rhino，建立结构、管理图层并修正细节。作者称约 40 分钟完成方案级模型；223 秒投稿为过程展示，不能写成 40 分钟未剪辑录像或测绘级重建。",
+    "outputType": [
+      "Rhino 建筑模型",
+      "参考图建模"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://i0.hdslb.com/bfs/archive/2a149d5532231b7b9738c53077b353a87015829e.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者封面为对照拼图：左侧 IMAGE REF 是输入参考，右侧 RHINO 3D PREVIEW 是 Rhino 模型线框与图层界面；左图不作为 Astra 输出。",
+    "demoUrl": null,
+    "videoUrl": "https://www.bilibili.com/video/BV1owbN67E4M/",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://www.bilibili.com/video/BV1owbN67E4M/"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "laoliu-godot-nightmare",
+    "title": "Godot：小小梦魇风格的三维游戏试作",
+    "titleEn": "Nightmare-inspired Godot Prototype",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "Bilibili",
+    "platforms": [
+      "Bilibili"
+    ],
+    "author": "老刘用AI做游戏",
+    "sourceUrl": "https://www.bilibili.com/video/BV1Waty6TE7h/",
+    "sourceDate": "2026-09-05",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "读取作者公开 view API，核对作者、简介、时间与视频时长，并与搜索索引交叉核对；网页直接抓取返回 412。未逐帧观看完整视频。",
+    "summary": "老刘用 AI 做游戏展示 ChatGPT 6 Asta／Astra 参与的 Godot 三维游戏试作，方向为《小小梦魇》式场景。耗时和费用为作者自述；当前材料未逐项公开资产来源和完整工程。",
+    "outputType": [
+      "Godot 游戏原型",
+      "三维关卡"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://i0.hdslb.com/bfs/archive/1b06293d94e65d4cf308e1ff8283154cc862a823.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者宣传封面，包含厨房、角色与标题文字；不能仅凭封面确认画面来自实际运行截图。",
+    "demoUrl": null,
+    "videoUrl": "https://www.bilibili.com/video/BV1Waty6TE7h/",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://www.bilibili.com/video/BV1Waty6TE7h/"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "tucao-stone-tomb",
+    "title": "石墓阵：Blender 与 Godot 场景",
+    "titleEn": "Stone Tomb in Blender and Godot",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "Bilibili",
+    "platforms": [
+      "Bilibili"
+    ],
+    "author": "吐槽不得劲",
+    "sourceUrl": "https://www.bilibili.com/video/BV1z5bP6nEpz/",
+    "sourceDate": "2026-09-07",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "读取作者公开 view API，核对作者、简介、时间与视频时长，并与搜索索引交叉核对；网页直接抓取返回 412。未逐帧观看完整视频。",
+    "summary": "作者展示石墓阵与霸者大厅两张地图，称建模和游戏流程使用 Astra、Blender 与 Godot。部分 UI、音效和背景音乐来自既有《传奇 3》客户端；本条不将这些素材归为 Astra 创作，也不转存其网盘游戏包。",
+    "outputType": [
+      "Blender 场景",
+      "Godot 游戏"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://i2.hdslb.com/bfs/archive/dc9cfe54e5240fb14b58326bd18b55a897529463.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者视频的地牢游戏画面，包含角色、敌人与 HUD；第三方 UI 和音效来源见作品说明。",
+    "demoUrl": null,
+    "videoUrl": "https://www.bilibili.com/video/BV1z5bP6nEpz/",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://www.bilibili.com/video/BV1z5bP6nEpz/"
+    ],
+    "licenseNotes": "作者声明部分 UI、音效与背景音乐取自《传奇 3》客户端，相关权利归原权利人。本文只链接公开视频；不转存游戏包、不推定其可自由分发。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "aizhuiguang-blender-previs",
+    "title": "Blender 运镜：灰模预演到追车短片",
+    "titleEn": "Blender Previsualization to Chase Film",
+    "group": "astra",
+    "category": "交互与工具",
+    "platform": "Bilibili",
+    "platforms": [
+      "Bilibili"
+    ],
+    "author": "AI追光实验室",
+    "sourceUrl": "https://www.bilibili.com/video/BV1DrYW6MEuy/",
+    "sourceDate": "2026-09-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "modelLabel": "GPT-6 Astra（编排与预演）+ Higgsfield / Seedance 2.5（成片）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "读取作者公开 view API，核对作者、简介、时间与视频时长，并与搜索索引交叉核对；网页直接抓取返回 412。未逐帧观看完整视频。",
+    "summary": "AI 追光实验室用 Astra 编排创作、在 Blender 制作灰模运镜，再通过 Higgsfield 的 Seedance 2.5 生成成片。教程对比灰模与视频，并记录角色位置、车向和声音的修正；最终写实画面不属于 Blender 直接渲染。",
+    "outputType": [
+      "Blender 灰模预演",
+      "镜头设计",
+      "混合视频工作流"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://i2.hdslb.com/bfs/archive/aec3031920627448d8596175da58451f36b36855.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者上传的视频封面；完整内容在 B 站原页观看。",
+    "demoUrl": null,
+    "videoUrl": "https://www.bilibili.com/video/BV1DrYW6MEuy/",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://www.bilibili.com/video/BV1DrYW6MEuy/"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "vsme-suzhou-museum",
+    "title": "苏州博物馆：Three.js 外观与庭院",
+    "titleEn": "Suzhou Museum Architectural Walk",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "vsme",
+    "sourceUrl": "https://github.com/vsme/suzhou-museum-three",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "modelLabel": "GPT-6 Astra Medium（仓库 About）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者仓库 About 明确标注 Astra Medium；已读取 README、文件树及在线页。",
+    "sourceAccess": "公开仓库 README 和文件树；演示页返回 200，未完成全流程体验。",
+    "summary": "作者以 Astra Medium 制作苏州博物馆新馆外观和庭院，公开 Three.js 源码及网页 GLB。尺寸根据公开资料估计，不是测绘级复刻。README 提及的离线 Blender 渲染和部分工程未出现在本次公开文件树，不补造下载地址。",
+    "outputType": [
+      "Three.js 建筑",
+      "GLB 模型",
+      "公开源码"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": null,
+    "imageKind": "none",
+    "imageCaption": "未取得可用的作者效果图。",
+    "demoUrl": "https://suzhou-museum.bgo.me",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/vsme/suzhou-museum-three",
+    "evidenceUrls": [
+      "https://github.com/vsme/suzhou-museum-three"
+    ],
+    "licenseNotes": "作者声明运行时环境光与石材扫描来自 Poly Haven CC0，建筑独立重建；仓库未提供覆盖全部代码和工程的统一许可，不据此推定所有素材可自由再分发。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "hku-robot-rgb-replay",
+    "title": "Real2Sim：三视角机器人场景重放",
+    "titleEn": "Three-view Robot Scene Reconstruction",
+    "group": "astra",
+    "category": "科学与教育",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "hku-sail",
+    "sourceUrl": "https://github.com/hku-sail/Real2Sim_GPT6_ASTRA",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "读取作者 README、公开文件树、流程复盘、任务提示和机器人资产来源记录；未下载大模型或本地复跑。",
+    "summary": "项目用 Astra 根据三路 RGB 图像重建房间、桌面、夹爪及可见动作，公开可编辑 replay.blend 和重建脚本。没有深度、标定与真实关节数据，属于视觉近似重放；30fps 是指定播放假设。输入帧和结果视频未纳入公共仓库，复跑需自行准备。",
+    "outputType": [
+      "Blender 工程",
+      "机器人视觉重建",
+      "逐帧对比流程"
+    ],
+    "promptAvailability": "公开任务提示词与流程复盘",
+    "promptExcerpt": null,
+    "promptSummary": "先明确三视角输入和未知参数，再重建几何与动作，保留可编辑场景和逐帧对比。",
+    "promptUrl": "https://github.com/hku-sail/Real2Sim_GPT6_ASTRA/blob/main/Droid_prompt1.md",
+    "imageUrl": null,
+    "imageKind": "none",
+    "imageCaption": "未取得可用的作者效果图。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/hku-sail/Real2Sim_GPT6_ASTRA",
+    "evidenceUrls": [
+      "https://github.com/hku-sail/Real2Sim_GPT6_ASTRA",
+      "https://github.com/hku-sail/Real2Sim_GPT6_ASTRA/blob/main/docs/efficient_astra_3d_pipeline_zh-CN.md"
+    ],
+    "licenseNotes": "夹爪复用 ian-chuang/dh_ag95_gripper_ros2 资产，仓库保留 MIT 与 Apache-2.0 来源许可。输入 RGB 与其他材料按各自来源；不将视觉重放视为真实机器人动力学验证。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "codonflow-creative-worlds",
+    "title": "九次创作实验：教堂、RTS 与三维乐器",
+    "titleEn": "CodonFlow Creative 3D Experiments",
+    "group": "astra",
+    "category": "交互与工具",
+    "platform": "Reddit",
+    "platforms": [
+      "Reddit",
+      "YouTube"
+    ],
+    "author": "jargs92 / CodonFlow",
+    "sourceUrl": "https://www.reddit.com/r/ChatGPT/comments/1wdw2p2/i_pushed_gpt6_astra_through_9_creative_projects/",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "modelLabel": "GPT-6 Astra（编排）+ 3D AI Studio / ElevenLabs / Higgsfield",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "读取作者 Reddit 正文与 YouTube 官方 oEmbed；未完整观看九项实验。页面相对时间不用于推断首次发布日期。",
+    "summary": "作者在一支视频里回顾九次创作实验，包括 Blender 教堂转 Unreal 场景、Ironwild 三维 RTS 和 Three.js 乐器。RTS 使用 3D AI Studio 模型与 ElevenLabs 配音；另有 Higgsfield 影片。作为一条混合流程合集收录，不把九个项目都计为独立 Astra 三维作品。",
+    "outputType": [
+      "Blender 到 Unreal",
+      "三维 RTS",
+      "Three.js 乐器"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://i.ytimg.com/vi/iEup5H2FxKE/hqdefault.jpg",
+    "imageKind": "editorial-cover",
+    "imageCaption": "CodonFlow 官方 YouTube 视频封面，是合集宣传图，不是某个场景的实机截图。",
+    "demoUrl": null,
+    "videoUrl": "https://www.youtube.com/watch?v=iEup5H2FxKE",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://www.reddit.com/r/ChatGPT/comments/1wdw2p2/i_pushed_gpt6_astra_through_9_creative_projects/",
+      "https://www.youtube.com/watch?v=iEup5H2FxKE"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
     "id": "realsee-editable-space",
     "title": "Realsee：实景扫描到可编辑空间",
     "titleEn": "Realsee to Editable Blender Space",

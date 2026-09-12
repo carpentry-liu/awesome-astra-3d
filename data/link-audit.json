@@ -1,10 +1,10 @@
 {
-  "observedAt": "2026-09-11",
-  "method": "Bounded HTTP GET of public images, repositories, demos and full-video URLs. Readable HTTP is not independent reproduction. Signed media query parameters omitted. Newly deployed video checks recorded separately.",
-  "checkedUrls": 400,
+  "observedAt": "2026-09-12",
+  "method": "Incremental bounded HTTP GET. 22 new image/project/demo/original-video URLs checked on September 12; earlier rows retain their actual September 11 timestamps. Public playback media checked separately after deployment. Readable HTTP is not independent reproduction; signed redirect queries omitted.",
+  "checkedUrls": 422,
   "counts": {
-    "reachable": 397,
-    "restricted": 3
+    "restricted": 3,
+    "reachable": 419
   },
   "results": [
     {
@@ -6929,6 +6929,385 @@
       "title": null,
       "contentType": "image/png",
       "contentRange": "bytes 0-4095/1730976",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097813680964694016/img/dH0hKm5vkcvXQCgq.jpg",
+      "uses": [
+        {
+          "caseId": "higgsfield-beehive",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T00:42:07.431500+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2097813680964694016/img/dH0hKm5vkcvXQCgq.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/184934",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-12/higgsfield-beehive-1-original.mp4",
+      "uses": [
+        {
+          "caseId": "higgsfield-beehive",
+          "field": "downloadUrl",
+          "bytes": 6701027
+        }
+      ],
+      "observedAt": "2026-09-12T00:42:07.432008+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1358680959/773204f6-bad5-4cc6-9af2-2b6707af88a2",
+      "title": null,
+      "contentType": "application/octet-stream",
+      "contentRange": "bytes 0-4095/6701027",
+      "result": "reachable"
+    },
+    {
+      "url": "https://iamsonic.net/2026/mini-games/urban-champion.html",
+      "uses": [
+        {
+          "caseId": "sonic-urban-champion",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T00:42:07.434017+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://iamsonic.net/2026/mini-games/urban-champion.html",
+      "title": "街头小子 · Urban Champion 3D",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097600770095132672/img/WGzY-nUYB_2keW-c.jpg",
+      "uses": [
+        {
+          "caseId": "sonic-urban-champion",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T00:42:07.434017+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2097600770095132672/img/WGzY-nUYB_2keW-c.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/134442",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-12/sonic-urban-champion-1-original.mp4",
+      "uses": [
+        {
+          "caseId": "sonic-urban-champion",
+          "field": "downloadUrl",
+          "bytes": 3333766
+        }
+      ],
+      "observedAt": "2026-09-12T00:42:07.435015+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1358680959/96f0b908-3f95-4496-a715-899504d56981",
+      "title": null,
+      "contentType": "application/octet-stream",
+      "contentRange": "bytes 0-4095/3333766",
+      "result": "reachable"
+    },
+    {
+      "url": "https://us1.discourse-cdn.com/openai1/original/4X/b/c/a/bca747bbfbf0c28cbbd8aa082418e4dac3f9d61c.jpeg",
+      "uses": [
+        {
+          "caseId": "sokun-houdini-airplane",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T00:42:07.435015+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://us1.discourse-cdn.com/openai1/original/4X/b/c/a/bca747bbfbf0c28cbbd8aa082418e4dac3f9d61c.jpeg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/174294",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097797011479330816/img/_TJbjU3DOhPazHAz.jpg",
+      "uses": [
+        {
+          "caseId": "higgsfield-cartoon-rig",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T00:42:09.475172+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2097797011479330816/img/_TJbjU3DOhPazHAz.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/144597",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-12/higgsfield-cartoon-rig-1-original.mp4",
+      "uses": [
+        {
+          "caseId": "higgsfield-cartoon-rig",
+          "field": "downloadUrl",
+          "bytes": 50808249
+        }
+      ],
+      "observedAt": "2026-09-12T00:42:13.262863+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1358680959/d6116f10-dac8-48e2-8ca2-85e1d2c80445",
+      "title": null,
+      "contentType": "application/octet-stream",
+      "contentRange": "bytes 0-4095/50808249",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HRv6kAGbAAAtRSJ.jpg?name=orig",
+      "uses": [
+        {
+          "caseId": "bootoshi-roblox-village",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T00:42:13.334146+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/media/HRv6kAGbAAAtRSJ.jpg?name=orig",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/135170",
+      "result": "reachable"
+    },
+    {
+      "url": "https://iamsonic.net/2026/mini-games/shells-3d/play.html",
+      "uses": [
+        {
+          "caseId": "sonic-shells-3d",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T00:42:13.336134+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://iamsonic.net/2026/mini-games/shells-3d/play.html",
+      "title": "零点街区 · 弹壳特攻队 3D · 离线版",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097600704353624064/img/swadGmWgXdDyADXP.jpg",
+      "uses": [
+        {
+          "caseId": "sonic-shells-3d",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T00:42:14.706355+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2097600704353624064/img/swadGmWgXdDyADXP.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/109386",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-12/sonic-shells-3d-1-original.mp4",
+      "uses": [
+        {
+          "caseId": "sonic-shells-3d",
+          "field": "downloadUrl",
+          "bytes": 16460186
+        }
+      ],
+      "observedAt": "2026-09-12T00:42:14.740685+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1358680959/6554d2b2-016d-45f2-8772-d88ea05cbf24",
+      "title": null,
+      "contentType": "application/octet-stream",
+      "contentRange": "bytes 0-4095/16460186",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097830058509598720/img/vpaMBj9Oxpaq7SB3.jpg",
+      "uses": [
+        {
+          "caseId": "higgsfield-dali-world",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T00:42:18.654656+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2097830058509598720/img/vpaMBj9Oxpaq7SB3.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/118887",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-12/higgsfield-dali-world-1-original.mp4",
+      "uses": [
+        {
+          "caseId": "higgsfield-dali-world",
+          "field": "downloadUrl",
+          "bytes": 4763452
+        }
+      ],
+      "observedAt": "2026-09-12T00:42:18.998352+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1358680959/9494fcb4-ea2c-46a5-8564-3e15e55aad87",
+      "title": null,
+      "contentType": "application/octet-stream",
+      "contentRange": "bytes 0-4095/4763452",
+      "result": "reachable"
+    },
+    {
+      "url": "https://i0.hdslb.com/bfs/archive/2a149d5532231b7b9738c53077b353a87015829e.jpg",
+      "uses": [
+        {
+          "caseId": "airilab-rhino-building",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T00:42:18.999353+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://i0.hdslb.com/bfs/archive/2a149d5532231b7b9738c53077b353a87015829e.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/296410",
+      "result": "reachable"
+    },
+    {
+      "url": "https://i0.hdslb.com/bfs/archive/1b06293d94e65d4cf308e1ff8283154cc862a823.jpg",
+      "uses": [
+        {
+          "caseId": "laoliu-godot-nightmare",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T00:42:20.666101+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://i0.hdslb.com/bfs/archive/1b06293d94e65d4cf308e1ff8283154cc862a823.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/657221",
+      "result": "reachable"
+    },
+    {
+      "url": "https://i2.hdslb.com/bfs/archive/dc9cfe54e5240fb14b58326bd18b55a897529463.jpg",
+      "uses": [
+        {
+          "caseId": "tucao-stone-tomb",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T00:42:21.737863+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://i2.hdslb.com/bfs/archive/dc9cfe54e5240fb14b58326bd18b55a897529463.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/201985",
+      "result": "reachable"
+    },
+    {
+      "url": "https://i2.hdslb.com/bfs/archive/aec3031920627448d8596175da58451f36b36855.jpg",
+      "uses": [
+        {
+          "caseId": "aizhuiguang-blender-previs",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T00:42:23.245798+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://i2.hdslb.com/bfs/archive/aec3031920627448d8596175da58451f36b36855.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/361054",
+      "result": "reachable"
+    },
+    {
+      "url": "https://suzhou-museum.bgo.me",
+      "uses": [
+        {
+          "caseId": "vsme-suzhou-museum",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T00:42:23.996568+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://suzhou-museum.bgo.me",
+      "title": "苏州博物馆 · 建筑漫游",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/vsme/suzhou-museum-three",
+      "uses": [
+        {
+          "caseId": "vsme-suzhou-museum",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T00:42:24.014936+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://github.com/vsme/suzhou-museum-three",
+      "title": "GitHub - vsme/suzhou-museum-three: 苏州博物馆 · 建筑漫游 GPT-6 Astra 试验项目，全程使用的 Medium 型号。 · GitHub",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/hku-sail/Real2Sim_GPT6_ASTRA",
+      "uses": [
+        {
+          "caseId": "hku-robot-rgb-replay",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T00:42:25.539699+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://github.com/hku-sail/Real2Sim_GPT6_ASTRA",
+      "title": "GitHub - hku-sail/Real2Sim_GPT6_ASTRA · GitHub",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/iEup5H2FxKE/hqdefault.jpg",
+      "uses": [
+        {
+          "caseId": "codonflow-creative-worlds",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-12T00:42:25.587295+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://i.ytimg.com/vi/iEup5H2FxKE/hqdefault.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/17335",
       "result": "reachable"
     }
   ],

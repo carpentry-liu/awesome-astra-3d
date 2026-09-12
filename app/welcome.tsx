@@ -6,25 +6,25 @@ import { type Case } from '@/src/catalog';
 
 const spotlights = [
   {
-    id: 'xinz-xianlin-campus',
-    credit: 'super-xinz',
-    name: '把一座校园，存进三维世界',
-    label: '建筑摄影',
-    note: '仙林校园 · Blender 工程与 38 秒漫游',
+    id: 'higgsfield-beehive',
+    credit: '@higgsfield_ai',
+    name: '打开蜂巢，观察时间流动',
+    label: '交互剖面',
+    note: '蜂后、巢房与时间控制 · 完整演示',
   },
   {
-    id: 'nick-op1-houdini',
-    credit: '@_nscr',
-    name: '从参考照片，到合成器的每个旋钮',
+    id: 'sonic-urban-champion',
+    credit: '@sonic0828',
+    name: '夕阳下的街头，开打一局',
+    label: '三维小游戏',
+    note: '街头小子 · 浏览器试玩与完整录像',
+  },
+  {
+    id: 'sokun-houdini-airplane',
+    credit: 'sokun',
+    name: '从一架飞机，到一组可调参数',
     label: 'Houdini 建模',
-    note: 'OP-1 Field · 产品建模与材质练习',
-  },
-  {
-    id: 'miya-komorebi-market',
-    credit: '@miya00907380',
-    name: '走进参考图里的那条小街',
-    label: 'Three.js 街市',
-    note: '三维街景与既有游戏角色的相遇',
+    note: '机身、机翼、起落架 · 参数化建模工具',
   },
 ];
 export function Welcome({

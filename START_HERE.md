@@ -16,6 +16,8 @@
 
 想用自己的扫描资料重建空间，可以读 [Realsee × Astra × Blender](https://github.com/realsee-developer/realsee-astra-blender) 的快速提示词和教程。先检查墙、门窗与房间连接，再加家具；大文件通过 Git LFS 提供，完整原始扫描不在公开仓库中。公开脚本针对原案例，需要适配自己的资料。
 
+想研究机器人视觉重建，可以读 [Real2Sim 三视角重放](https://github.com/hku-sail/Real2Sim_GPT6_ASTRA) 的任务提示、流程复盘和可编辑场景。复跑需要自行准备输入帧；模型中的相机、尺寸与动作来自视觉估计，30fps 是播放假设，不能当作真机运动恢复。
+
 9 月 9 日补充：[木漏日社](https://github.com/CwC-HydeX/komorebi-shrine) 提供可直接打开的神社工程与昼夜时间轴，适合练习灯光和镜头。它的 V2 工程可编辑，但制作脚本含本机路径，不能当作跨机器一键重建流程。
 
 ## 路线二：把三维模型接到网页上
@@ -27,6 +29,8 @@
 **可带走的材料：**`.blend`、`.glb`、前端代码、部署说明。[更多有源码案例](https://carpentry-liu.github.io/awesome-astra-3d/?resource=source#collection)
 
 想理解更轻的三维表现，可以看 [GENESIS AI Atlas](https://github.com/sayanpersonal123/AI-learning)：它把模型空间坐标投影到 Canvas 2D，而非使用 WebGL。适合研究旋转、深度排序与分步教学；场景是概念图，不是某个模型的真实内部结构。
+
+想研究建筑网页，可以看 [苏州博物馆](https://github.com/vsme/suzhou-museum-three) 的独立建筑几何、GLB 与 Three.js 场景。公共文件树包含网页模型；README 中提到的部分离线 `.blend` 和校对渲染没有公开，先确认能取得的材料再安排复现。
 
 9 月 9 日补充：[入画·汴京](https://github.com/Rising1234Sun/qingmingshanghetu) 保留建模、GLB 导出、中文提示词整理与网页交互；[Grand Atelier](https://github.com/Anionex/grand-atelier) 则适合研究三维钢琴与 Web Audio 的连接。两者都是经过迭代的作品，收录不等于一次输入即可复现。
 

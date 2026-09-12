@@ -13,24 +13,24 @@ Explore GPT-6 Astra in 3D: Blender, Houdini, Three.js, WebGL, CAD, VRM and inter
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-09-11 (Asia/Shanghai)** · **150 Astra examples** · **49 source / project links** · **59 demo links** · **75 complete videos** · **12 separate references**.
+Updated **2026-09-12 (Asia/Shanghai)** · **164 Astra examples** · **51 source / project links** · **62 demo links** · **80 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 ## New work, at a glance
 
-| Xianlin campus · architectural renders | Houdini · OP-1 Field | Komorebi Market · a 3D walk |
+| Beehive · interactive cutaway | Urban Champion · browser game | Houdini · procedural airplane |
 | --- | --- | --- |
-| [![NJU Xianlin Campus in Blender — super-xinz](https://raw.githubusercontent.com/super-xinz/nju-xianlin-campus-3d/main/photos/03-%E6%9D%9C%E5%8E%A6%E6%B0%B4%E5%B2%B8.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=xinz-xianlin-campus) | [![OP-1 Field in Houdini — Nick Scarcella / @_nscr](https://pbs.twimg.com/media/HRyqTjEaEAAOKhq.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=nick-op1-houdini) | [![Komorebi Market Walk — miya / @miya00907380](https://pbs.twimg.com/amplify_video_thumb/2097110659590922240/img/nRlaHBNYuWDDyaD0.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=miya-komorebi-market) |
-| Scan references → editable space | Phone video → robot kitchen | Blender · Backrooms and VHS |
-| [![Realsee to Editable Blender Space — realsee-developer](https://raw.githubusercontent.com/realsee-developer/realsee-astra-blender/main/docs/assets/plan.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=realsee-editable-space) | [![Interactive Robot Kitchen — Linfeng Zhao / @LinfengZhaoZLF](https://pbs.twimg.com/amplify_video_thumb/2097656955351547904/img/agwXHBaNXy814rkT.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=linfeng-robot-kitchen) | [![Backrooms in Blender — Rshhad / @aaassa120](https://pbs.twimg.com/amplify_video_thumb/2097794715576115200/img/a7CUjFL6TO4x06cy.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=rshhad-backrooms) |
+| [![Beehive Observation Lab — Higgsfield AI 🧩 / @higgsfield_ai](https://pbs.twimg.com/amplify_video_thumb/2097813680964694016/img/dH0hKm5vkcvXQCgq.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=higgsfield-beehive) | [![Urban Champion 3D — Sonic的奇思妙想 / @sonic0828](https://pbs.twimg.com/amplify_video_thumb/2097600770095132672/img/WGzY-nUYB_2keW-c.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=sonic-urban-champion) | [![Procedural Airplane in Houdini — sokun](https://us1.discourse-cdn.com/openai1/original/4X/b/c/a/bca747bbfbf0c28cbbd8aa082418e4dac3f9d61c.jpeg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=sokun-houdini-airplane) |
+| Blender · purple-roof village | Rhino · reference architecture | Godot · Stone Tomb |
+| [![Purple-roof Village for Roblox — BOOTOSHI 👑 / @KingBootoshi](https://pbs.twimg.com/media/HRv6kAGbAAAtRSJ.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=bootoshi-roblox-village) | [![Reference Architecture in Rhino — AIRIlab](https://i0.hdslb.com/bfs/archive/2a149d5532231b7b9738c53077b353a87015829e.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=airilab-rhino-building) | [![Stone Tomb in Blender and Godot — 吐槽不得劲](https://i2.hdslb.com/bfs/archive/dc9cfe54e5240fb14b58326bd18b55a897529463.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=tucao-stone-tomb) |
 
-Open each image for the work, full recording and original source. Images stay on creator hosts. Realsee shows the modeled floor plan; the market uses an imagegen reference and an existing character, and the robot kitchen includes mobile ALOHA. Attribution and tool roles remain explicit.
+Open each image for the creator, process and complete content. Images remain on creator hosts. The Rhino cover labels its input reference and model preview; later village variants use Nano Banana, and Stone Tomb includes existing game media. The beehive is a creator concept simulation; the airplane script is not publicly downloadable.
 
 ## Live website preview
 
-[![Astra 3D Atlas live homepage](docs/media/homepage-evening-2026-09-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas live homepage](docs/media/homepage-2026-09-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-Captured from this update on the evening of September 11, 2026. Click to explore the gallery.
+Captured from this update on September 12, 2026. Click to explore the gallery.
 
 ## Choose a starting point
 
@@ -44,19 +44,19 @@ Captured from this update on the evening of September 11, 2026. Click to explore
 
 ## Latest additions
 
-This update adds **15 examples, 5 source projects, 4 demo links and 9 complete X videos**. Explore a campus, editable spaces, a Houdini synthesizer, a robot kitchen and a walkable market. Both highest-bitrate and smaller complete video renditions are preserved. Five migrated official image URLs are repaired, with existing project, demo and media links checked again.
+This update adds **14 examples, 2 source projects, 3 demo links and 5 complete X videos**: interactive beehives, street games, a procedural Houdini airplane, Rhino architecture, Godot and three-view robot reconstruction. Original media, creator attribution and mixed-tool roles remain explicit. The museum and robot records distinguish publicly available files from local-only materials.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [Realsee to Editable Blender Space](https://carpentry-liu.github.io/awesome-astra-3d/#case=realsee-editable-space) | realsee-developer | [Demo](https://realsee-developer.github.io/realsee-astra-blender/) · [Source](https://github.com/realsee-developer/realsee-astra-blender) · [Original](https://github.com/realsee-developer/realsee-astra-blender) |
-| [NJU Xianlin Campus in Blender](https://carpentry-liu.github.io/awesome-astra-3d/#case=xinz-xianlin-campus) | super-xinz | [Source](https://github.com/super-xinz/nju-xianlin-campus-3d) · [Original](https://github.com/super-xinz/nju-xianlin-campus-3d) |
-| [OP-1 Field in Houdini](https://carpentry-liu.github.io/awesome-astra-3d/#case=nick-op1-houdini) | Nick Scarcella / @_nscr | [Original](https://x.com/_nscr/status/2097744564073218443) |
-| [Interactive Robot Kitchen](https://carpentry-liu.github.io/awesome-astra-3d/#case=linfeng-robot-kitchen) | Linfeng Zhao / @LinfengZhaoZLF | [Original](https://x.com/LinfengZhaoZLF/status/2097740382511800768) |
-| [Komorebi Market Walk](https://carpentry-liu.github.io/awesome-astra-3d/#case=miya-komorebi-market) | miya / @miya00907380 | [Original](https://x.com/miya00907380/status/2097807257639748070) |
-| [Backrooms in Blender](https://carpentry-liu.github.io/awesome-astra-3d/#case=rshhad-backrooms) | Rshhad / @aaassa120 | [Original](https://x.com/aaassa120/status/2097794770357866504) |
-| [Blender Geometry and H3 Style Previews](https://carpentry-liu.github.io/awesome-astra-3d/#case=gokay-neural-rendering) | gokayfem | [Source](https://github.com/gokayfem/H3-Max-Blender) · [Original](https://github.com/gokayfem/H3-Max-Blender) |
-| [KiCad PCB Layout and Native 3D View](https://carpentry-liu.github.io/awesome-astra-3d/#case=cyjj-kicad-board) | cyjjjj-21 | [Source](https://github.com/cyjjjj-21/gpt6-astra-kicad-blind-routing) · [Original](https://github.com/cyjjjj-21/gpt6-astra-kicad-blind-routing) |
+| [Beehive Observation Lab](https://carpentry-liu.github.io/awesome-astra-3d/#case=higgsfield-beehive) | Higgsfield AI 🧩 / @higgsfield_ai | [Original](https://x.com/higgsfield_ai/status/2097813773830791259) |
+| [Urban Champion 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=sonic-urban-champion) | Sonic的奇思妙想 / @sonic0828 | [Demo](https://iamsonic.net/2026/mini-games/urban-champion.html) · [Original](https://x.com/sonic0828/status/2097601232877781344) |
+| [Procedural Airplane in Houdini](https://carpentry-liu.github.io/awesome-astra-3d/#case=sokun-houdini-airplane) | sokun | [Original](https://community.openai.com/t/astra-in-action-share-your-builds-breakthroughs-aha-moments/1394945/45) |
+| [Cartoon Character Pose Controls](https://carpentry-liu.github.io/awesome-astra-3d/#case=higgsfield-cartoon-rig) | Higgsfield AI 🧩 / @higgsfield_ai | [Original](https://x.com/higgsfield_ai/status/2097797358847430956) |
+| [Purple-roof Village for Roblox](https://carpentry-liu.github.io/awesome-astra-3d/#case=bootoshi-roblox-village) | BOOTOSHI 👑 / @KingBootoshi | [Original](https://x.com/KingBootoshi/status/2097545729573368319) |
+| [Zero District — Shells 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=sonic-shells-3d) | Sonic的奇思妙想 / @sonic0828 | [Demo](https://iamsonic.net/2026/mini-games/shells-3d/play.html) · [Original](https://x.com/sonic0828/status/2097601232877781344) |
+| [Beyond a Dalí Painting](https://carpentry-liu.github.io/awesome-astra-3d/#case=higgsfield-dali-world) | Higgsfield AI 🧩 / @higgsfield_ai | [Original](https://x.com/higgsfield_ai/status/2097830176294146264) |
+| [Reference Architecture in Rhino](https://carpentry-liu.github.io/awesome-astra-3d/#case=airilab-rhino-building) | AIRIlab | [Original](https://www.bilibili.com/video/BV1owbN67E4M/) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md)
@@ -68,11 +68,11 @@ Three featured works are visible together. Desktop navigation places categories 
 The interface is in Chinese; English project names, tools and creators are searchable. Keyboard navigation, a mobile layout and image failure states are supported.
 
 <details>
-<summary>Gallery and mobile screenshots · September 11, 2026</summary>
+<summary>Gallery and mobile screenshots · September 12, 2026</summary>
 
-[![Latest examples and category sidebar](docs/media/collection-evening-2026-09-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![Latest examples and category sidebar](docs/media/collection-2026-09-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![Mobile welcome page and resource navigation](docs/media/mobile-evening-2026-09-11.jpg)
+![Mobile welcome page and resource navigation](docs/media/mobile-2026-09-12.jpg)
 
 </details>
 
