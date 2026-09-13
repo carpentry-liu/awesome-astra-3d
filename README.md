@@ -13,24 +13,24 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-09-12（Asia/Shanghai）**：**170 条 Astra 案例** · **54 条源码 / 工程** · **64 个演示入口** · **82 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-09-13（Asia/Shanghai）**：**178 条 Astra 案例** · **54 条源码 / 工程** · **65 个演示入口** · **86 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 ## 这次更新，先看效果
 
-| Blender · 森林峡谷 | Blender · Pluribus 彩蛋 | 交互 · Goblin Bottle |
+| 飞行游戏 · Skybound | 角色动画 · AtAt Orb | 历史重建 · 芝加哥世博会 |
 | --- | --- | --- |
-| [![Megascans Forest Ravine — Michiyoshi Shirota / @onihachi](https://pbs.twimg.com/amplify_video_thumb/2096776968574574592/img/VSPIKaokTcUNIx3W.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=onihachi-megascans-forest) | [![Pluribus Fabergé-style Egg — Simon Willison](https://static.simonwillison.net/static/2026/pluribus-blender-viewer.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=simonw-pluribus-egg) | [![Goblin Bottle Interactive Model — Dara A. / @daradoescode](https://pbs.twimg.com/amplify_video_thumb/2097110697029103616/img/qNBjMdxnxJ8hoqeF.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=dara-goblin-bottle) |
-| 可编辑 · 探测车前后对照 | 体素 · 湖畔地图 | Three.js · 在线玩具箱 |
-| [![Fieldnote R1 Editable Rover — Curtis Pyke / Kingy AI](https://kingy.ai/wp-content/uploads/2026/09/drawing-to-editable-3d-astra-before-after.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=kingy-fieldnote-rover) | [![Minecraft-style Lakeside Map — pcstyle / @pcstyle53](https://pbs.twimg.com/media/HRfsccZbMAAOe5Z.png?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=pcstyle-minecraft-map) | [![Toy2Game Browser Toy Box — asmoyou](https://raw.githubusercontent.com/asmoyou/toy2game/main/docs/images/toy2game-overview.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=asmoyou-toy2game) |
+| [![Skybound Dragon Flight — Aakash Kanojiya / @Kanojiyaaakash1](https://pbs.twimg.com/amplify_video_thumb/2098739148647800832/img/zWopw7KQJmPI7It3.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=aakash-skybound) | [![AtAt Orb — Eight Animated Expressions — Xinyao / AtAt](https://atatapp.com/blog/3d-orb/model-render.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=atat-animated-orb) | [![Chicago World’s Fair 1893 Reconstruction — Dan Elton / @moreisdifferent](https://pbs.twimg.com/amplify_video_thumb/2098774766777716743/img/xVH1xMaGe1cNhoVU.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=dan-chicago-fair) |
+| 多工具协作 · 微缩寺庙 | 3D 打印 · 接头校准件 | 进行中 · 民用货运飞船 |
+| [![Temple Miniature Diorama — Rion Wu / @rionaifantasy](https://pbs.twimg.com/amplify_video_thumb/2098403015669780480/img/48Ok5jAMHEjoZCDR.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=rion-temple-diorama) | [![Picture-frame Joint Calibration — wada / @wada](https://pbs.twimg.com/media/HSBYGS3bIAADGrc.png?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=wada-frame-joints) | [![Sol Horizon Courier Ship — Work in Progress — Jonathan Plumb — Spokane Valley / @jonathanplumb](https://pbs.twimg.com/media/HR5kKkFaIAIrcMw.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=jonathan-courier-ship) |
 
-点击图片查看原作者与完整材料。森林使用既有 Megascans 资产；彩蛋展示真实模型查看器，输入参考另由 Images 2.5 生成；探测车是同一工程的修改对照。玩具箱概览图展示四款初期游戏，当前项目已扩展为六款。
+点击图片查看作者和完整材料。飞龙由 Rodin 生成；AtAt 为实际 Blender 角色渲染；世博会后续另用 Fable，寺庙细节由 V2Fun 参与。接头图是校准件，飞船仍在制作，均不当作已交付成品。
 
 ## 网站实拍
 
-[![Astra 3D Atlas 正式网站首页](docs/media/homepage-second-2026-09-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 正式网站首页](docs/media/homepage-2026-09-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-本次更新实拍 · 2026-09-12 第二轮。点击图片进入案例库。
+本次更新实拍 · 2026-09-13。点击图片进入案例库。
 
 ## 找到你的下一次创作
 
@@ -44,19 +44,19 @@
 
 ## 最新收录
 
-本轮在上一批基础上再增 **6 个案例、2 段完整 X 视频**：森林峡谷、Pluribus 彩蛋、交互水瓶、可编辑探测车、体素地图与在线玩具箱。新增 **3 个源码 / 工程、2 个演示入口**；同步更新精选、学习路线和本页实拍。
+今天新增 **8 条收录、4 段完整 X 视频、1 个演示入口**：飞龙游戏、八动作角色、世博会漫游、微缩寺庙、打印接头、货运飞船、机械手钢琴和医院走廊。**今天收录不等于今天创作**，详情保留原始日期与完成程度。首页精选、上手路线和三张网站实拍同步更新。
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
-| [森林峡谷：用 Megascans 资产搭建 Blender 场景](https://carpentry-liu.github.io/awesome-astra-3d/#case=onihachi-megascans-forest) | Michiyoshi Shirota / @onihachi | [原始来源](https://x.com/onihachi/status/2096778157999391060) |
-| [Fieldnote R1：能继续改尺寸的三维探测车](https://carpentry-liu.github.io/awesome-astra-3d/#case=kingy-fieldnote-rover) | Curtis Pyke / Kingy AI | [源码](https://kingy.ai/wp-content/uploads/2026/09/kingy-astra-drawing-to-editable-3d-starter.zip) · [原始来源](https://kingy.ai/blog/drawing-to-editable-3d-astra-blender-video-walkthrough/) |
-| [Pluribus 彩蛋：从参考图到可打开的 Blender 模型](https://carpentry-liu.github.io/awesome-astra-3d/#case=simonw-pluribus-egg) | Simon Willison | [演示](https://tools.simonwillison.net/blender-viewer?url=https%3A%2F%2Fgithub.com%2Fsimonw%2Fvibe-coded-blender-projects%2Fblob%2Fmain%2Fpluribus-faberge-egg%2Fdeliverables%2FPluribus_Jeweled_Egg_v1.blend) · [源码](https://github.com/simonw/vibe-coded-blender-projects/tree/main/pluribus-faberge-egg) · [原始来源](https://simonwillison.net/2026/Sep/9/blender-viewer/) |
-| [Goblin Bottle：把随身水瓶做成交互模型](https://carpentry-liu.github.io/awesome-astra-3d/#case=dara-goblin-bottle) | Dara A. / @daradoescode | [原始来源](https://x.com/daradoescode/status/2097111589002350688) |
-| [像素湖畔：Minecraft 风格地图效果](https://carpentry-liu.github.io/awesome-astra-3d/#case=pcstyle-minecraft-map) | pcstyle / @pcstyle53 | [原始来源](https://x.com/pcstyle53/status/2096404170022522940) |
-| [在线玩具箱：把桌面玩具变成三维网页游戏](https://carpentry-liu.github.io/awesome-astra-3d/#case=asmoyou-toy2game) | asmoyou | [演示](https://games.asmo.top/) · [源码](https://github.com/asmoyou/toy2game) · [原始来源](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/24) |
-| [蜂巢观察室：蜂后、巢房与时间控制](https://carpentry-liu.github.io/awesome-astra-3d/#case=higgsfield-beehive) | Higgsfield AI 🧩 / @higgsfield_ai | [原始来源](https://x.com/higgsfield_ai/status/2097813773830791259) |
-| [街头小子：夕阳街区的三维拳击](https://carpentry-liu.github.io/awesome-astra-3d/#case=sonic-urban-champion) | Sonic的奇思妙想 / @sonic0828 | [演示](https://iamsonic.net/2026/mini-games/urban-champion.html) · [原始来源](https://x.com/sonic0828/status/2097601232877781344) |
+| [Skybound：骑着飞龙穿越空中群岛](https://carpentry-liu.github.io/awesome-astra-3d/#case=aakash-skybound) | Aakash Kanojiya / @Kanojiyaaakash1 | [原始来源](https://x.com/Kanojiyaaakash1/status/2098739181510164652) |
+| [AtAt Orb：从 Logo 到八种动作的产品角色](https://carpentry-liu.github.io/awesome-astra-3d/#case=atat-animated-orb) | Xinyao / AtAt | [演示](https://atatapp.com/blog/how-i-built-atats-3d-orb-with-gpt-6-astra) · [原始来源](https://atatapp.com/blog/how-i-built-atats-3d-orb-with-gpt-6-astra) |
+| [1893 芝加哥世博会：历史图像到三维漫游](https://carpentry-liu.github.io/awesome-astra-3d/#case=dan-chicago-fair) | Dan Elton / @moreisdifferent | [原始来源](https://x.com/moreisdifferent/status/2098795017955418202) |
+| [微缩寺庙：拆件、细化与重新组装](https://carpentry-liu.github.io/awesome-astra-3d/#case=rion-temple-diorama) | Rion Wu / @rionaifantasy | [原始来源](https://x.com/rionaifantasy/status/2098403061463224543) |
+| [拼装相框：先做带编号的接头校准件](https://carpentry-liu.github.io/awesome-astra-3d/#case=wada-frame-joints) | wada / @wada | [原始来源](https://x.com/wada/status/2098774359926297011) |
+| [Sol Horizon：尚在迭代的民用货运飞船](https://carpentry-liu.github.io/awesome-astra-3d/#case=jonathan-courier-ship) | Jonathan Plumb — Spokane Valley / @jonathanplumb | [原始来源](https://x.com/jonathanplumb/status/2098225609558335846) |
+| [机械手钢琴：手指、琴键与音乐的动态展示](https://carpentry-liu.github.io/awesome-astra-3d/#case=msb-robot-piano) | MSB / @KeWai386772 | [原始来源](https://x.com/KeWai386772/status/2098109252720078891) |
+| [医院走廊：从白模到重新布光的镜头](https://carpentry-liu.github.io/awesome-astra-3d/#case=timead-hospital-corridor) | Time-Ad-7720 | [原始来源](https://www.reddit.com/r/ChatGPT/comments/1wem2r1/i_had_gpt6_astra_build_a_full_hospital_corridor/) |
 <!-- atlas:latest:end -->
 
 [查看完整更新目录 →](UPDATES.md)
@@ -70,11 +70,11 @@
 - 手机布局、键盘操作与图片失败提示均保留；方法参考与 Astra 案例分别呈现。
 
 <details>
-<summary>查看案例区与手机实拍 · 2026-09-12 第二轮</summary>
+<summary>查看案例区与手机实拍 · 2026-09-13</summary>
 
-[![最新案例与分类侧栏](docs/media/collection-second-2026-09-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![最新案例与分类侧栏](docs/media/collection-2026-09-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端欢迎页，精选作品与资源导航](docs/media/mobile-second-2026-09-12.jpg)
+![手机端欢迎页，精选作品与资源导航](docs/media/mobile-2026-09-13.jpg)
 
 </details>
 

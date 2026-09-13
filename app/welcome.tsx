@@ -6,25 +6,25 @@ import { type Case } from '@/src/catalog';
 
 const spotlights = [
   {
-    id: 'onihachi-megascans-forest',
-    credit: '@onihachi',
-    name: '把扫描资产，搭成一片森林',
-    label: 'Blender 场景',
-    note: 'Megascans 资产整合 · 完整峡谷演示',
+    id: 'aakash-skybound',
+    credit: 'Aakash Kanojiya',
+    name: '骑上飞龙，穿越空中群岛',
+    label: '三维飞行游戏',
+    note: 'Skybound · Astra 编排与 Rodin 龙模型',
   },
   {
-    id: 'simonw-pluribus-egg',
-    credit: 'Simon Willison',
-    name: '打开彩蛋，看见里面的世界',
-    label: '可编辑模型',
-    note: 'Pluribus 彩蛋 · Blender 工程与查看器',
+    id: 'atat-animated-orb',
+    credit: 'Xinyao / AtAt',
+    name: '一个小角色，八种表达',
+    label: '产品角色动画',
+    note: 'AtAt Orb · Blender 到网页与 Mac 应用',
   },
   {
-    id: 'dara-goblin-bottle',
-    credit: '@daradoescode',
-    name: '随身水瓶，也能转着看',
-    label: '产品交互',
-    note: 'Goblin Bottle · 旋转、近看与开瓶演示',
+    id: 'dan-chicago-fair',
+    credit: 'Dan Elton',
+    name: '走回 1893 年的芝加哥',
+    label: '历史空间重建',
+    note: 'Astra × Fable · 近五分钟完整漫游',
   },
 ];
 export function Welcome({

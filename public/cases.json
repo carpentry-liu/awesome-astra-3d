@@ -79,6 +79,399 @@
     "addedAt": "2026-09-06"
   },
   {
+    "id": "aakash-skybound",
+    "title": "Skybound：骑着飞龙穿越空中群岛",
+    "titleEn": "Skybound Dragon Flight",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Aakash Kanojiya / @Kanojiyaaakash1",
+    "sourceUrl": "https://x.com/Kanojiyaaakash1/status/2098739181510164652",
+    "sourceDate": "2026-09-12",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-13",
+    "addedAt": "2026-09-13",
+    "modelLabel": "GPT-6 Astra + Hyper3D Rodin MCP",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Aakash Kanojiya 让 Codex 中的 Astra 制作浏览器飞行游戏，并接入 Hyper3D Rodin MCP 生成龙模型。录像展示飞行场景；原帖没有公开试玩网址或源码，因此保留为演示案例。龙的复杂几何由 Rodin 生成，不归为 Astra 从零建模。",
+    "outputType": [
+      "浏览器飞行游戏",
+      "外部三维资产生成"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2098739148647800832/img/zWopw7KQJmPI7It3.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖的 Skybound 游戏录像封面；飞龙资产来自 Rodin。 附完整视频及最高码率下载。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/Kanojiyaaakash1/status/2098739181510164652",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/Kanojiyaaakash1/status/2098739181510164652",
+      "https://api.fxtwitter.com/status/2098739181510164652"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/aakash-skybound-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-13/aakash-skybound-1-original.mp4",
+        "durationSeconds": 26.09,
+        "bytes": 5873851,
+        "sha256": "b3c6958a816ee79f51d79043dd1e5b54056147b5ad4929b752898956806e72fc",
+        "sourceUrl": "https://x.com/Kanojiyaaakash1/status/2098739181510164652",
+        "label": "Skybound 飞行游戏完整演示",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2098739148647800832/img/zWopw7KQJmPI7It3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "atat-animated-orb",
+    "title": "AtAt Orb：从 Logo 到八种动作的产品角色",
+    "titleEn": "AtAt Orb — Eight Animated Expressions",
+    "group": "astra",
+    "category": "交互与工具",
+    "platform": "作者博客",
+    "platforms": [
+      "作者博客"
+    ],
+    "author": "Xinyao / AtAt",
+    "sourceUrl": "https://atatapp.com/blog/how-i-built-atats-3d-orb-with-gpt-6-astra",
+    "sourceDate": "2026-09-06",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-13",
+    "addedAt": "2026-09-13",
+    "modelLabel": "GPT-6 Astra + Blender Python + Three.js / Metal",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "已读取作者文章、结构化发布日期与页面真实媒体链接。未下载或重建其未公开的 .blend 工程。",
+    "summary": "作者把原始 Logo 交给 Astra，经多轮截图反馈调整眼镜、灯光和道具，在 Blender 中建立可编辑角色及八种动作。网页使用 Three.js，Mac 应用使用 Metal，两端读取同一份外置动画 JSON；GLB 本身不带动画片段。文章提供流程与在线角色，未公开完整工程下载。",
+    "outputType": [
+      "Blender 角色动画",
+      "Three.js 产品集成",
+      "跨渲染器共享动作"
+    ],
+    "promptAvailability": "作者公开建模、动作与集成三阶段提示词",
+    "promptExcerpt": null,
+    "promptSummary": "先按参考建立分件角色，审核后制作可编辑动作，再从同一场景导出并接入产品。",
+    "promptUrl": "https://atatapp.com/blog/how-i-built-atats-3d-orb-with-gpt-6-astra",
+    "imageUrl": "https://atatapp.com/blog/3d-orb/model-render.webp",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者标注为实际 Blender 场景渲染的石墨色眼镜角色；不是文章中的原始 Logo 参考图。",
+    "demoUrl": "https://atatapp.com/blog/how-i-built-atats-3d-orb-with-gpt-6-astra",
+    "videoUrl": "https://atatapp.com/blog/3d-orb/eight-expressions.mp4",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://atatapp.com/blog/how-i-built-atats-3d-orb-with-gpt-6-astra"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "dan-chicago-fair",
+    "title": "1893 芝加哥世博会：历史图像到三维漫游",
+    "titleEn": "Chicago World’s Fair 1893 Reconstruction",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Dan Elton / @moreisdifferent",
+    "sourceUrl": "https://x.com/moreisdifferent/status/2098795017955418202",
+    "sourceDate": "2026-09-12",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-13",
+    "addedAt": "2026-09-13",
+    "modelLabel": "GPT-6 Astra + Blender；Fable 5.1 参与后续细化",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Dan Elton 用 Astra 与 Blender 参考历史照片和地图重建世博会，后续另用 Fable 5.1 细化建筑。作者明确说明画面粗糙、建筑仍有错误，且不确定一处建筑是否调用了现成模型。原帖仅预告未来上线网页；此处保存约五分钟完整漫游，不补造试玩入口。",
+    "outputType": [
+      "历史建筑重建",
+      "Blender 场景",
+      "混合模型协作"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2098774766777716743/img/xVH1xMaGe1cNhoVU.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者发布的世博会三维漫游视频封面；历史还原精度和全部基础资产来源未独立核验。 附完整视频及最高码率下载。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/moreisdifferent/status/2098795017955418202",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/moreisdifferent/status/2098795017955418202",
+      "https://api.fxtwitter.com/status/2098795017955418202"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/dan-chicago-fair-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-13/dan-chicago-fair-1-original.mp4",
+        "durationSeconds": 296.81,
+        "bytes": 136365934,
+        "sha256": "fa230a6360b85c774796990a3cb4235924846d3f651d4f135f4fadca1a1e0dd4",
+        "sourceUrl": "https://x.com/moreisdifferent/status/2098795017955418202",
+        "label": "1893 芝加哥世博会完整漫游",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2098774766777716743/img/xVH1xMaGe1cNhoVU.jpg"
+      }
+    ]
+  },
+  {
+    "id": "rion-temple-diorama",
+    "title": "微缩寺庙：拆件、细化与重新组装",
+    "titleEn": "Temple Miniature Diorama",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Rion Wu / @rionaifantasy",
+    "sourceUrl": "https://x.com/rionaifantasy/status/2098403061463224543",
+    "sourceDate": "2026-09-11",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-13",
+    "addedAt": "2026-09-13",
+    "modelLabel": "Astra + V2Fun（分工协作）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Rion Wu 展示寺庙微缩场景的混合制作流程：Astra 理解整体与拆件，V2Fun 生成复杂细节，随后组合并微调。按一个协作案例收录，不能将全部人物、道具与纹理归为 Astra 单独生成。",
+    "outputType": [
+      "微缩场景",
+      "多工具资产组装"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2098403015669780480/img/48Ok5jAMHEjoZCDR.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖微缩寺庙视频海报；复杂细节由 V2Fun 参与制作。 附完整视频及最高码率下载。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/rionaifantasy/status/2098403061463224543",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/rionaifantasy/status/2098403061463224543",
+      "https://api.fxtwitter.com/status/2098403061463224543"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/rion-temple-diorama-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-13/rion-temple-diorama-1-original.mp4",
+        "durationSeconds": 15.0,
+        "bytes": 8530300,
+        "sha256": "0f3c8207bc42c7c5dd2c92f27b6490d92c1af2d5d2c24aeb42571127d7924bc9",
+        "sourceUrl": "https://x.com/rionaifantasy/status/2098403061463224543",
+        "label": "微缩寺庙完整展示",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2098403015669780480/img/48Ok5jAMHEjoZCDR.jpg"
+      }
+    ]
+  },
+  {
+    "id": "wada-frame-joints",
+    "title": "拼装相框：先做带编号的接头校准件",
+    "titleEn": "Picture-frame Joint Calibration",
+    "group": "astra",
+    "category": "交互与工具",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "wada / @wada",
+    "sourceUrl": "https://x.com/wada/status/2098774359926297011",
+    "sourceDate": "2026-09-12",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-13",
+    "addedAt": "2026-09-13",
+    "modelLabel": "Astra（原帖未说明具体 CAD 软件）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。",
+    "summary": "wada 想用小型 3D 打印机分件制作相框。作者称 Astra 先给出带 ID 的接头校准 STL，用于检查打印机和耗材误差；附图展示接头方案。当前不是完整相框成品，也未确认实物打印成功或公开 STL 下载。",
+    "outputType": [
+      "接头校准模型",
+      "3D 打印前准备"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/media/HSBYGS3bIAADGrc.png?name=orig",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者原帖的带编号接头校准件图；不是已经打印完成的相框。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/wada/status/2098774359926297011",
+      "https://api.fxtwitter.com/status/2098774359926297011"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "jonathan-courier-ship",
+    "title": "Sol Horizon：尚在迭代的民用货运飞船",
+    "titleEn": "Sol Horizon Courier Ship — Work in Progress",
+    "group": "astra",
+    "category": "Blender 建模",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Jonathan Plumb — Spokane Valley / @jonathanplumb",
+    "sourceUrl": "https://x.com/jonathanplumb/status/2098225609558335846",
+    "sourceDate": "2026-09-11",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-13",
+    "addedAt": "2026-09-13",
+    "modelLabel": "Astra High + Blender（ChatGPT Work）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。",
+    "summary": "Jonathan Plumb 在 ChatGPT Work 中让 Astra High 设计民用货运飞船，展示 Blender 视口结果并明确说明尚未完成。控制面数、Unity 朝向、碰撞体和 FBX 导出都是任务要求，当前没有证据表明全部交付。",
+    "outputType": [
+      "Blender 硬表面模型",
+      "进行中的游戏资产"
+    ],
+    "promptAvailability": "作者公开初始建模任务",
+    "promptExcerpt": null,
+    "promptSummary": "建立有驾驶舱、货舱口、推进器和支撑腿的模块化民用飞船，并在导出前提交视口截图审核。",
+    "promptUrl": "https://x.com/jonathanplumb/status/2098225609558335846",
+    "imageUrl": "https://pbs.twimg.com/media/HR5kKkFaIAIrcMw.jpg?name=orig",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者第一张 Blender 视口截图；作品尚未完成，FBX 导出未核实。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/jonathanplumb/status/2098225609558335846",
+      "https://api.fxtwitter.com/status/2098225609558335846"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "进行中；作者明确尚未完成，未独立复现。"
+  },
+  {
+    "id": "msb-robot-piano",
+    "title": "机械手钢琴：手指、琴键与音乐的动态展示",
+    "titleEn": "Robotic Hand Piano Demonstration",
+    "group": "astra",
+    "category": "科学与教育",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "MSB / @KeWai386772",
+    "sourceUrl": "https://x.com/KeWai386772/status/2098109252720078891",
+    "sourceDate": "2026-09-10",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-13",
+    "addedAt": "2026-09-13",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "MSB 发布 Astra 制作的机械手弹琴录像，并称演奏《欢乐颂》。根帖未公开可运行项目；收录手部与琴键运动展示，不将附带需求中的逆运动学、接触因果或时序误差指标写成已验证成果。",
+    "outputType": [
+      "机械手动作展示",
+      "三维音乐界面"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2098024329237979136/img/wMFuarfC4XiiGwyM.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "原帖机械手与钢琴演示的视频封面；接触物理和音符时序未独立测量。 附完整视频及最高码率下载。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/KeWai386772/status/2098109252720078891",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/KeWai386772/status/2098109252720078891",
+      "https://api.fxtwitter.com/status/2098109252720078891"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/msb-robot-piano-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-13/msb-robot-piano-1-original.mp4",
+        "durationSeconds": 16.77,
+        "bytes": 9889823,
+        "sha256": "0cfbcd59817dc489fde45433717566b3bddebeab422c6beb00b8946d2c32cdbc",
+        "sourceUrl": "https://x.com/KeWai386772/status/2098109252720078891",
+        "label": "机械手钢琴完整演示",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2098024329237979136/img/wMFuarfC4XiiGwyM.jpg"
+      }
+    ]
+  },
+  {
+    "id": "timead-hospital-corridor",
+    "title": "医院走廊：从白模到重新布光的镜头",
+    "titleEn": "Hospital Corridor — Blockout to Relighting",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "Reddit",
+    "platforms": [
+      "Reddit"
+    ],
+    "author": "Time-Ad-7720",
+    "sourceUrl": "https://www.reddit.com/r/ChatGPT/comments/1wem2r1/i_had_gpt6_astra_build_a_full_hospital_corridor/",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-13",
+    "addedAt": "2026-09-13",
+    "modelLabel": "GPT-6 Astra + Blender MCP",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "通过网页检索工具读取 Reddit 原始页面正文、作者和媒体链接；本地 Reddit JSON 请求返回 403。页面仅给相对时间，未核明绝对发表时刻，sourceDate 保留空值。",
+    "summary": "作者通过 Astra 与 Blender MCP 制作医院走廊，分阶段完成建筑白模、病房道具、摄像机推进和重新布光。原帖公开阶段任务；约 45 分钟与未用外部资产均为作者自述。此条记录创作方法与展示，没有公开可下载工程。",
+    "outputType": [
+      "Blender 环境建模",
+      "分阶段场景迭代",
+      "镜头与灯光"
+    ],
+    "promptAvailability": "作者公开四阶段任务说明",
+    "promptExcerpt": null,
+    "promptSummary": "先审核建筑白模，再配置道具、移动镜头并保持几何不变重新调光。",
+    "promptUrl": "https://www.reddit.com/r/ChatGPT/comments/1wem2r1/i_had_gpt6_astra_build_a_full_hospital_corridor/",
+    "imageUrl": null,
+    "imageKind": "none",
+    "imageCaption": "原帖视频预览访问返回 403；请到 Reddit 原始页面查看，本站不提供替代效果图。",
+    "demoUrl": null,
+    "videoUrl": "https://www.reddit.com/r/ChatGPT/comments/1wem2r1/i_had_gpt6_astra_build_a_full_hospital_corridor/",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://www.reddit.com/r/ChatGPT/comments/1wem2r1/i_had_gpt6_astra_build_a_full_hospital_corridor/"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
     "id": "onihachi-megascans-forest",
     "title": "森林峡谷：用 Megascans 资产搭建 Blender 场景",
     "titleEn": "Megascans Forest Ravine",

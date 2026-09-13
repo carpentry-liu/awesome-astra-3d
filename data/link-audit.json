@@ -1,10 +1,10 @@
 {
-  "observedAt": "2026-09-12",
-  "method": "Incremental bounded HTTP GET. September 12 first batch: 22 new URLs; second batch: 13 new image/project/demo/original-video URLs. Earlier rows retain their actual timestamps. Public playback media checked separately after deployment. Reachability is not independent reproduction; signed redirect queries omitted.",
-  "checkedUrls": 435,
+  "observedAt": "2026-09-13",
+  "method": "Incremental bounded HTTP GET: 12 new image/demo/external-video/original-download URLs. Earlier rows retain actual timestamps. Reddit preview returned 403 and was omitted from the active image field. Public playback URLs checked separately after publication. Reachability is not independent reproduction; signed redirect queries omitted.",
+  "checkedUrls": 447,
   "counts": {
     "restricted": 3,
-    "reachable": 432
+    "reachable": 444
   },
   "results": [
     {
@@ -7531,6 +7531,214 @@
       "title": null,
       "contentType": "image/png",
       "contentRange": "bytes 0-4095/457286",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2098739148647800832/img/zWopw7KQJmPI7It3.jpg",
+      "uses": [
+        {
+          "caseId": "aakash-skybound",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-13T09:33:16.300011+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2098739148647800832/img/zWopw7KQJmPI7It3.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/99584",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-13/aakash-skybound-1-original.mp4",
+      "uses": [
+        {
+          "caseId": "aakash-skybound",
+          "field": "downloadUrl",
+          "bytes": 5873851
+        }
+      ],
+      "observedAt": "2026-09-13T09:33:16.302134+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1358680959/cec4aaf7-04a7-499d-ad47-2c3bf95373c5",
+      "title": null,
+      "contentType": "application/octet-stream",
+      "contentRange": "bytes 0-4095/5873851",
+      "result": "reachable"
+    },
+    {
+      "url": "https://atatapp.com/blog/how-i-built-atats-3d-orb-with-gpt-6-astra",
+      "uses": [
+        {
+          "caseId": "atat-animated-orb",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-09-13T09:33:16.303198+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://atatapp.com/blog/how-i-built-atats-3d-orb-with-gpt-6-astra",
+      "title": "How I Built AtAt’s 3D Orb with GPT-6 Astra — AtAt",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://atatapp.com/blog/3d-orb/model-render.webp",
+      "uses": [
+        {
+          "caseId": "atat-animated-orb",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-13T09:33:16.303748+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://atatapp.com/blog/3d-orb/model-render.webp",
+      "title": null,
+      "contentType": "image/webp",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2098774766777716743/img/xVH1xMaGe1cNhoVU.jpg",
+      "uses": [
+        {
+          "caseId": "dan-chicago-fair",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-13T09:33:16.304274+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2098774766777716743/img/xVH1xMaGe1cNhoVU.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/88735",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-13/dan-chicago-fair-1-original.mp4",
+      "uses": [
+        {
+          "caseId": "dan-chicago-fair",
+          "field": "downloadUrl",
+          "bytes": 136365934
+        }
+      ],
+      "observedAt": "2026-09-13T09:33:16.304797+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1358680959/b87c09ed-15ca-43a1-ae21-181272ec1ce3",
+      "title": null,
+      "contentType": "application/octet-stream",
+      "contentRange": "bytes 0-4095/136365934",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2098403015669780480/img/48Ok5jAMHEjoZCDR.jpg",
+      "uses": [
+        {
+          "caseId": "rion-temple-diorama",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-13T09:33:17.230768+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2098403015669780480/img/48Ok5jAMHEjoZCDR.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/56502",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-13/rion-temple-diorama-1-original.mp4",
+      "uses": [
+        {
+          "caseId": "rion-temple-diorama",
+          "field": "downloadUrl",
+          "bytes": 8530300
+        }
+      ],
+      "observedAt": "2026-09-13T09:33:17.238949+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1358680959/a82a9274-0f61-4c83-8abf-67368bda6fcd",
+      "title": null,
+      "contentType": "application/octet-stream",
+      "contentRange": "bytes 0-4095/8530300",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HSBYGS3bIAADGrc.png?name=orig",
+      "uses": [
+        {
+          "caseId": "wada-frame-joints",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-13T09:33:17.921418+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/media/HSBYGS3bIAADGrc.png?name=orig",
+      "title": null,
+      "contentType": "image/png",
+      "contentRange": "bytes 0-4095/126000",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HR5kKkFaIAIrcMw.jpg?name=orig",
+      "uses": [
+        {
+          "caseId": "jonathan-courier-ship",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-13T09:33:18.621502+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/media/HR5kKkFaIAIrcMw.jpg?name=orig",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/170299",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2098024329237979136/img/wMFuarfC4XiiGwyM.jpg",
+      "uses": [
+        {
+          "caseId": "msb-robot-piano",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-13T09:33:19.280970+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2098024329237979136/img/wMFuarfC4XiiGwyM.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/77395",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-13/msb-robot-piano-1-original.mp4",
+      "uses": [
+        {
+          "caseId": "msb-robot-piano",
+          "field": "downloadUrl",
+          "bytes": 9889823
+        }
+      ],
+      "observedAt": "2026-09-13T09:33:20.220193+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1358680959/ed908115-9413-4e6a-bc17-8e8a625c19a5",
+      "title": null,
+      "contentType": "application/octet-stream",
+      "contentRange": "bytes 0-4095/9889823",
       "result": "reachable"
     }
   ],

@@ -2,6 +2,19 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-09-13 · 8 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Skybound：骑着飞龙穿越空中群岛 / Skybound Dragon Flight](https://carpentry-liu.github.io/awesome-astra-3d/#case=aakash-skybound) | Aakash Kanojiya / @Kanojiyaaakash1 | 完整视频 |
+| [AtAt Orb：从 Logo 到八种动作的产品角色 / AtAt Orb — Eight Animated Expressions](https://carpentry-liu.github.io/awesome-astra-3d/#case=atat-animated-orb) | Xinyao / AtAt | 演示入口 · 提示词 / 过程 |
+| [1893 芝加哥世博会：历史图像到三维漫游 / Chicago World’s Fair 1893 Reconstruction](https://carpentry-liu.github.io/awesome-astra-3d/#case=dan-chicago-fair) | Dan Elton / @moreisdifferent | 完整视频 |
+| [微缩寺庙：拆件、细化与重新组装 / Temple Miniature Diorama](https://carpentry-liu.github.io/awesome-astra-3d/#case=rion-temple-diorama) | Rion Wu / @rionaifantasy | 完整视频 |
+| [拼装相框：先做带编号的接头校准件 / Picture-frame Joint Calibration](https://carpentry-liu.github.io/awesome-astra-3d/#case=wada-frame-joints) | wada / @wada | 作者展示 |
+| [Sol Horizon：尚在迭代的民用货运飞船 / Sol Horizon Courier Ship — Work in Progress](https://carpentry-liu.github.io/awesome-astra-3d/#case=jonathan-courier-ship) | Jonathan Plumb — Spokane Valley / @jonathanplumb | 提示词 / 过程 |
+| [机械手钢琴：手指、琴键与音乐的动态展示 / Robotic Hand Piano Demonstration](https://carpentry-liu.github.io/awesome-astra-3d/#case=msb-robot-piano) | MSB / @KeWai386772 | 完整视频 |
+| [医院走廊：从白模到重新布光的镜头 / Hospital Corridor — Blockout to Relighting](https://carpentry-liu.github.io/awesome-astra-3d/#case=timead-hospital-corridor) | Time-Ad-7720 | 提示词 / 过程 |
+
 ## 2026-09-12 · 20 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

@@ -13,24 +13,24 @@ Explore GPT-6 Astra in 3D: Blender, Houdini, Three.js, WebGL, CAD, VRM and inter
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-09-12 (Asia/Shanghai)** · **170 Astra examples** · **54 source / project links** · **64 demo links** · **82 complete videos** · **12 separate references**.
+Updated **2026-09-13 (Asia/Shanghai)** · **178 Astra examples** · **54 source / project links** · **65 demo links** · **86 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 ## New work, at a glance
 
-| Blender · forest ravine | Blender · Pluribus egg | Interactive · Goblin Bottle |
+| Flight game · Skybound | Character animation · AtAt Orb | Historical reconstruction · Chicago Fair |
 | --- | --- | --- |
-| [![Megascans Forest Ravine — Michiyoshi Shirota / @onihachi](https://pbs.twimg.com/amplify_video_thumb/2096776968574574592/img/VSPIKaokTcUNIx3W.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=onihachi-megascans-forest) | [![Pluribus Fabergé-style Egg — Simon Willison](https://static.simonwillison.net/static/2026/pluribus-blender-viewer.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=simonw-pluribus-egg) | [![Goblin Bottle Interactive Model — Dara A. / @daradoescode](https://pbs.twimg.com/amplify_video_thumb/2097110697029103616/img/qNBjMdxnxJ8hoqeF.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=dara-goblin-bottle) |
-| Editable · rover before and after | Voxel · lakeside map | Three.js · Toy2Game |
-| [![Fieldnote R1 Editable Rover — Curtis Pyke / Kingy AI](https://kingy.ai/wp-content/uploads/2026/09/drawing-to-editable-3d-astra-before-after.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=kingy-fieldnote-rover) | [![Minecraft-style Lakeside Map — pcstyle / @pcstyle53](https://pbs.twimg.com/media/HRfsccZbMAAOe5Z.png?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=pcstyle-minecraft-map) | [![Toy2Game Browser Toy Box — asmoyou](https://raw.githubusercontent.com/asmoyou/toy2game/main/docs/images/toy2game-overview.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=asmoyou-toy2game) |
+| [![Skybound Dragon Flight — Aakash Kanojiya / @Kanojiyaaakash1](https://pbs.twimg.com/amplify_video_thumb/2098739148647800832/img/zWopw7KQJmPI7It3.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=aakash-skybound) | [![AtAt Orb — Eight Animated Expressions — Xinyao / AtAt](https://atatapp.com/blog/3d-orb/model-render.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=atat-animated-orb) | [![Chicago World’s Fair 1893 Reconstruction — Dan Elton / @moreisdifferent](https://pbs.twimg.com/amplify_video_thumb/2098774766777716743/img/xVH1xMaGe1cNhoVU.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=dan-chicago-fair) |
+| Mixed workflow · Temple diorama | 3D printing · Joint calibration | Work in progress · Courier ship |
+| [![Temple Miniature Diorama — Rion Wu / @rionaifantasy](https://pbs.twimg.com/amplify_video_thumb/2098403015669780480/img/48Ok5jAMHEjoZCDR.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=rion-temple-diorama) | [![Picture-frame Joint Calibration — wada / @wada](https://pbs.twimg.com/media/HSBYGS3bIAADGrc.png?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=wada-frame-joints) | [![Sol Horizon Courier Ship — Work in Progress — Jonathan Plumb — Spokane Valley / @jonathanplumb](https://pbs.twimg.com/media/HR5kKkFaIAIrcMw.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=jonathan-courier-ship) |
 
-Open an image for the creator and available materials. The forest uses existing Megascans assets; the egg is a real model-viewer screenshot with an Images 2.5 reference input. The rover compares edits to a saved scene. Toy2Game’s overview shows its initial four games; the current project has six.
+Open an image for its creator and materials. Rodin generated the dragon; AtAt shows the actual Blender character. Fable helped refine the fair, and V2Fun supplied temple details. The joints are calibration pieces, and the courier ship remains unfinished.
 
 ## Live website preview
 
-[![Astra 3D Atlas live homepage](docs/media/homepage-second-2026-09-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas live homepage](docs/media/homepage-2026-09-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-Captured from this update on September 12, 2026 · second update. Click to explore the gallery.
+Captured from this update on September 13, 2026. Click to explore the gallery.
 
 ## Choose a starting point
 
@@ -44,19 +44,19 @@ Captured from this update on September 12, 2026 · second update. Click to explo
 
 ## Latest additions
 
-This second update adds **6 examples, 3 source projects, 2 demo links and 2 complete X videos**: a forest ravine, Pluribus egg, interactive bottle, editable rover, voxel map and browser toy box. Featured work, learning paths and website screenshots are refreshed together.
+Today adds **8 examples, 4 complete X videos and 1 demo link**: dragon flight, an eight-expression character, the Chicago fair, a temple diorama, print-calibration joints, a courier ship, a robotic piano and a hospital corridor. **Added today does not mean created today**; original dates and completion limits remain visible. Featured work, learning paths and three website screenshots are refreshed.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [Megascans Forest Ravine](https://carpentry-liu.github.io/awesome-astra-3d/#case=onihachi-megascans-forest) | Michiyoshi Shirota / @onihachi | [Original](https://x.com/onihachi/status/2096778157999391060) |
-| [Fieldnote R1 Editable Rover](https://carpentry-liu.github.io/awesome-astra-3d/#case=kingy-fieldnote-rover) | Curtis Pyke / Kingy AI | [Source](https://kingy.ai/wp-content/uploads/2026/09/kingy-astra-drawing-to-editable-3d-starter.zip) · [Original](https://kingy.ai/blog/drawing-to-editable-3d-astra-blender-video-walkthrough/) |
-| [Pluribus Fabergé-style Egg](https://carpentry-liu.github.io/awesome-astra-3d/#case=simonw-pluribus-egg) | Simon Willison | [Demo](https://tools.simonwillison.net/blender-viewer?url=https%3A%2F%2Fgithub.com%2Fsimonw%2Fvibe-coded-blender-projects%2Fblob%2Fmain%2Fpluribus-faberge-egg%2Fdeliverables%2FPluribus_Jeweled_Egg_v1.blend) · [Source](https://github.com/simonw/vibe-coded-blender-projects/tree/main/pluribus-faberge-egg) · [Original](https://simonwillison.net/2026/Sep/9/blender-viewer/) |
-| [Goblin Bottle Interactive Model](https://carpentry-liu.github.io/awesome-astra-3d/#case=dara-goblin-bottle) | Dara A. / @daradoescode | [Original](https://x.com/daradoescode/status/2097111589002350688) |
-| [Minecraft-style Lakeside Map](https://carpentry-liu.github.io/awesome-astra-3d/#case=pcstyle-minecraft-map) | pcstyle / @pcstyle53 | [Original](https://x.com/pcstyle53/status/2096404170022522940) |
-| [Toy2Game Browser Toy Box](https://carpentry-liu.github.io/awesome-astra-3d/#case=asmoyou-toy2game) | asmoyou | [Demo](https://games.asmo.top/) · [Source](https://github.com/asmoyou/toy2game) · [Original](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/24) |
-| [Beehive Observation Lab](https://carpentry-liu.github.io/awesome-astra-3d/#case=higgsfield-beehive) | Higgsfield AI 🧩 / @higgsfield_ai | [Original](https://x.com/higgsfield_ai/status/2097813773830791259) |
-| [Urban Champion 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=sonic-urban-champion) | Sonic的奇思妙想 / @sonic0828 | [Demo](https://iamsonic.net/2026/mini-games/urban-champion.html) · [Original](https://x.com/sonic0828/status/2097601232877781344) |
+| [Skybound Dragon Flight](https://carpentry-liu.github.io/awesome-astra-3d/#case=aakash-skybound) | Aakash Kanojiya / @Kanojiyaaakash1 | [Original](https://x.com/Kanojiyaaakash1/status/2098739181510164652) |
+| [AtAt Orb — Eight Animated Expressions](https://carpentry-liu.github.io/awesome-astra-3d/#case=atat-animated-orb) | Xinyao / AtAt | [Demo](https://atatapp.com/blog/how-i-built-atats-3d-orb-with-gpt-6-astra) · [Original](https://atatapp.com/blog/how-i-built-atats-3d-orb-with-gpt-6-astra) |
+| [Chicago World’s Fair 1893 Reconstruction](https://carpentry-liu.github.io/awesome-astra-3d/#case=dan-chicago-fair) | Dan Elton / @moreisdifferent | [Original](https://x.com/moreisdifferent/status/2098795017955418202) |
+| [Temple Miniature Diorama](https://carpentry-liu.github.io/awesome-astra-3d/#case=rion-temple-diorama) | Rion Wu / @rionaifantasy | [Original](https://x.com/rionaifantasy/status/2098403061463224543) |
+| [Picture-frame Joint Calibration](https://carpentry-liu.github.io/awesome-astra-3d/#case=wada-frame-joints) | wada / @wada | [Original](https://x.com/wada/status/2098774359926297011) |
+| [Sol Horizon Courier Ship — Work in Progress](https://carpentry-liu.github.io/awesome-astra-3d/#case=jonathan-courier-ship) | Jonathan Plumb — Spokane Valley / @jonathanplumb | [Original](https://x.com/jonathanplumb/status/2098225609558335846) |
+| [Robotic Hand Piano Demonstration](https://carpentry-liu.github.io/awesome-astra-3d/#case=msb-robot-piano) | MSB / @KeWai386772 | [Original](https://x.com/KeWai386772/status/2098109252720078891) |
+| [Hospital Corridor — Blockout to Relighting](https://carpentry-liu.github.io/awesome-astra-3d/#case=timead-hospital-corridor) | Time-Ad-7720 | [Original](https://www.reddit.com/r/ChatGPT/comments/1wem2r1/i_had_gpt6_astra_build_a_full_hospital_corridor/) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md)
@@ -68,11 +68,11 @@ Three featured works are visible together. Desktop navigation places categories 
 The interface is in Chinese; English project names, tools and creators are searchable. Keyboard navigation, a mobile layout and image failure states are supported.
 
 <details>
-<summary>Gallery and mobile screenshots · September 12, 2026 · second update</summary>
+<summary>Gallery and mobile screenshots · September 13, 2026</summary>
 
-[![Latest examples and category sidebar](docs/media/collection-second-2026-09-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![Latest examples and category sidebar](docs/media/collection-2026-09-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![Mobile welcome page and resource navigation](docs/media/mobile-second-2026-09-12.jpg)
+![Mobile welcome page and resource navigation](docs/media/mobile-2026-09-13.jpg)
 
 </details>
 

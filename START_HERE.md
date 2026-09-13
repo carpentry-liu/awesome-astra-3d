@@ -24,6 +24,8 @@
 
 ## 路线二：把三维模型接到网页上
 
+9 月 13 日补充：[AtAt Orb](https://atatapp.com/blog/how-i-built-atats-3d-orb-with-gpt-6-astra) 记录角色从 Blender 到 Three.js 与 Metal 的八种动作集成。适合研究分件、动作导出和真实显示尺寸下的反复修改；文章提供流程与在线角色，未公开完整工程。两端共享外置动画 JSON，GLB 本身不带动画片段。
+
 [Orbital Core Showcase](https://github.com/wangruofeng/orbital-core-showcase) 同时包含 Blender 源文件、GLB 与 Three.js 网页。可以沿着文件结构看模型如何进入网页，以及旋转、缩放和不同动画模式如何连接到界面。
 
 从一个已存在的 GLB 开始，检查材质、模型原点和动画，再改网页交互。这样每次修改都能在同一个产物上观察结果。
