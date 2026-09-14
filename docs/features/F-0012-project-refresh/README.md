@@ -42,4 +42,12 @@ X 视频保存最高码率与较小完整版本，验证时长、SHA-256 和全�
 
 3 段完整原片及对应播放版本已发布至 [2026-09-14 视频归档](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-09-14)。文件保留来源、时长和校验值；媒体版权归原作者。
 
-GitHub Pages 发布及线上检查完成后补充结果。ChatGPT 站点本次不部署，也未向 Sites 源仓库推送或创建版本。
+网站源码提交 `fe0a36272301930dedbd074dcc2c87d8909fa86f` 已推送 GitHub。中英文 README 线上内容与本地一致，GitHub 渲染包含 9 张图片；三张截图字节与本地逐一相同（`work/readme-check-sep14.py`）。About 已更新为 183 / 55 / 65 / 89，仓库保持公开，20 个 topics 保留。
+
+[GitHub Pages 运行 34795069305](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/34795069305) 第一次执行的安装、检查和构建全部通过；下载旧归档 `higgsfield-dali-world-1-web.mp4` 时 GitHub 返回 HTTP 500，导致视频步骤失败、deploy 跳过。之后同一地址返回 HTTP 206，读取 4096 字节成功；通过 API 重跑失败任务，使用同一提交且不跳过完整性校验。第二次 build、deploy 均为 success。
+
+`work/verify-published-sep14.py`：公开站 `cases.json` 的 195 条记录与本地事实源完全一致；新 6 个最高码率／播放地址均返回 HTTP 206，总字节数与前 4096 字节样本均匹配本地文件。
+
+公开页面原生播放器从头播放 City Pulse 至 `9.566621` 秒，`ended=true`、`error=null`；浏览器控制台 error / warn 为空。Escape 正常关闭详情，已交付按最新收录排序的公开站页面。
+
+ChatGPT 站点本次不部署，也未向 Sites 源仓库推送或创建版本。
