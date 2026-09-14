@@ -13,24 +13,24 @@ Explore GPT-6 Astra in 3D: Blender, Houdini, Three.js, WebGL, CAD, VRM and inter
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-09-13 (Asia/Shanghai)** · **178 Astra examples** · **54 source / project links** · **65 demo links** · **86 complete videos** · **12 separate references**.
+Updated **2026-09-14 (Asia/Shanghai)** · **183 Astra examples** · **55 source / project links** · **65 demo links** · **89 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 ## New work, at a glance
 
-| Flight game · Skybound | Character animation · AtAt Orb | Historical reconstruction · Chicago Fair |
+| Water interaction · Koi pond | Existing model · UV rebake | Data map · City Pulse |
 | --- | --- | --- |
-| [![Skybound Dragon Flight — Aakash Kanojiya / @Kanojiyaaakash1](https://pbs.twimg.com/amplify_video_thumb/2098739148647800832/img/zWopw7KQJmPI7It3.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=aakash-skybound) | [![AtAt Orb — Eight Animated Expressions — Xinyao / AtAt](https://atatapp.com/blog/3d-orb/model-render.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=atat-animated-orb) | [![Chicago World’s Fair 1893 Reconstruction — Dan Elton / @moreisdifferent](https://pbs.twimg.com/amplify_video_thumb/2098774766777716743/img/xVH1xMaGe1cNhoVU.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=dan-chicago-fair) |
-| Mixed workflow · Temple diorama | 3D printing · Joint calibration | Work in progress · Courier ship |
-| [![Temple Miniature Diorama — Rion Wu / @rionaifantasy](https://pbs.twimg.com/amplify_video_thumb/2098403015669780480/img/48Ok5jAMHEjoZCDR.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=rion-temple-diorama) | [![Picture-frame Joint Calibration — wada / @wada](https://pbs.twimg.com/media/HSBYGS3bIAADGrc.png?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=wada-frame-joints) | [![Sol Horizon Courier Ship — Work in Progress — Jonathan Plumb — Spokane Valley / @jonathanplumb](https://pbs.twimg.com/media/HR5kKkFaIAIrcMw.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=jonathan-courier-ship) |
+| [![Interactive Koi Pond — Vib3Coded / @vib3coded](https://pbs.twimg.com/amplify_video_thumb/2098492548230819840/img/Ef2C6HYFlzwwlNre.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=vib3-koi-pond) | [![Existing Tripo Model — UV Layout and Rebake — さ🥺 / @_sagyoai](https://pbs.twimg.com/media/HSEQFCuasAATdDP.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=sagyo-uv-rebake) | [![City Pulse — NYC Taxi Time Map — Seoyeon Jun 📊 / @tableau_viz](https://pbs.twimg.com/amplify_video_thumb/2098063330032435201/img/2FzQHs6t_0FG_5o7.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=seoyeon-city-pulse) |
+| Procedural life · Squid shoal | Continuing pick · AtAt Orb | Continuing pick · Skybound |
+| [![Procedural Squid Shoal — Vib3Coded / @vib3coded](https://pbs.twimg.com/amplify_video_thumb/2098042921576734720/img/8Go_80pnT47iG_p5.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=vib3-squid-shoal) | [![AtAt Orb — Eight Animated Expressions — Xinyao / AtAt](https://atatapp.com/blog/3d-orb/model-render.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=atat-animated-orb) | [![Skybound Dragon Flight — Aakash Kanojiya / @Kanojiyaaakash1](https://pbs.twimg.com/amplify_video_thumb/2098739148647800832/img/zWopw7KQJmPI7It3.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=aakash-skybound) |
 
-Open an image for its creator and materials. Rodin generated the dragon; AtAt shows the actual Blender character. Fable helped refine the fair, and V2Fun supplied temple details. The joints are calibration pieces, and the courier ship remains unfinished.
+The first four images are new additions; AtAt and Skybound remain continuing picks. The new Belt Runner project has no verified screenshot. UV rebaking starts from a Tripo model, and Rodin generated the Skybound dragon; tool contributions remain explicit.
 
 ## Live website preview
 
-[![Astra 3D Atlas live homepage](docs/media/homepage-2026-09-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas live homepage](docs/media/homepage-2026-09-14.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-Captured from this update on September 13, 2026. Click to explore the gallery.
+Captured from this update on September 14, 2026. Click to explore the gallery.
 
 ## Choose a starting point
 
@@ -44,19 +44,19 @@ Captured from this update on September 13, 2026. Click to explore the gallery.
 
 ## Latest additions
 
-Today adds **8 examples, 4 complete X videos and 1 demo link**: dragon flight, an eight-expression character, the Chicago fair, a temple diorama, print-calibration joints, a courier ship, a robotic piano and a hospital corridor. **Added today does not mean created today**; original dates and completion limits remain visible. Featured work, learning paths and three website screenshots are refreshed.
+Today adds **5 examples, 3 complete X videos and 1 source / project link**: a koi pond, City Pulse, UV rebaking, a squid shoal and the Belt Runner port. **Added today does not mean created today**; original dates and completion limits remain visible. Featured work, learning paths and three website screenshots are refreshed.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [Interactive Koi Pond](https://carpentry-liu.github.io/awesome-astra-3d/#case=vib3-koi-pond) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2098492771170722032) |
+| [City Pulse — NYC Taxi Time Map](https://carpentry-liu.github.io/awesome-astra-3d/#case=seoyeon-city-pulse) | Seoyeon Jun 📊 / @tableau_viz | [Original](https://x.com/tableau_viz/status/2098063352832610473) |
+| [Existing Tripo Model — UV Layout and Rebake](https://carpentry-liu.github.io/awesome-astra-3d/#case=sagyo-uv-rebake) | さ🥺 / @_sagyoai | [Original](https://x.com/_sagyoai/status/2098980384260456813) |
+| [Procedural Squid Shoal](https://carpentry-liu.github.io/awesome-astra-3d/#case=vib3-squid-shoal) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2098043033446912315) |
+| [Belt Runner — Astra Assets in Godot 4](https://carpentry-liu.github.io/awesome-astra-3d/#case=nrivali-belt-runner) | nrivali | [Source](https://github.com/nrivali/BeltRunnerGoDot4) · [Original](https://github.com/nrivali/BeltRunnerGoDot4) |
 | [Skybound Dragon Flight](https://carpentry-liu.github.io/awesome-astra-3d/#case=aakash-skybound) | Aakash Kanojiya / @Kanojiyaaakash1 | [Original](https://x.com/Kanojiyaaakash1/status/2098739181510164652) |
 | [AtAt Orb — Eight Animated Expressions](https://carpentry-liu.github.io/awesome-astra-3d/#case=atat-animated-orb) | Xinyao / AtAt | [Demo](https://atatapp.com/blog/how-i-built-atats-3d-orb-with-gpt-6-astra) · [Original](https://atatapp.com/blog/how-i-built-atats-3d-orb-with-gpt-6-astra) |
 | [Chicago World’s Fair 1893 Reconstruction](https://carpentry-liu.github.io/awesome-astra-3d/#case=dan-chicago-fair) | Dan Elton / @moreisdifferent | [Original](https://x.com/moreisdifferent/status/2098795017955418202) |
-| [Temple Miniature Diorama](https://carpentry-liu.github.io/awesome-astra-3d/#case=rion-temple-diorama) | Rion Wu / @rionaifantasy | [Original](https://x.com/rionaifantasy/status/2098403061463224543) |
-| [Picture-frame Joint Calibration](https://carpentry-liu.github.io/awesome-astra-3d/#case=wada-frame-joints) | wada / @wada | [Original](https://x.com/wada/status/2098774359926297011) |
-| [Sol Horizon Courier Ship — Work in Progress](https://carpentry-liu.github.io/awesome-astra-3d/#case=jonathan-courier-ship) | Jonathan Plumb — Spokane Valley / @jonathanplumb | [Original](https://x.com/jonathanplumb/status/2098225609558335846) |
-| [Robotic Hand Piano Demonstration](https://carpentry-liu.github.io/awesome-astra-3d/#case=msb-robot-piano) | MSB / @KeWai386772 | [Original](https://x.com/KeWai386772/status/2098109252720078891) |
-| [Hospital Corridor — Blockout to Relighting](https://carpentry-liu.github.io/awesome-astra-3d/#case=timead-hospital-corridor) | Time-Ad-7720 | [Original](https://www.reddit.com/r/ChatGPT/comments/1wem2r1/i_had_gpt6_astra_build_a_full_hospital_corridor/) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md)
@@ -68,11 +68,11 @@ Three featured works are visible together. Desktop navigation places categories 
 The interface is in Chinese; English project names, tools and creators are searchable. Keyboard navigation, a mobile layout and image failure states are supported.
 
 <details>
-<summary>Gallery and mobile screenshots · September 13, 2026</summary>
+<summary>Gallery and mobile screenshots · September 14, 2026</summary>
 
-[![Latest examples and category sidebar](docs/media/collection-2026-09-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![Latest examples and category sidebar](docs/media/collection-2026-09-14.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![Mobile welcome page and resource navigation](docs/media/mobile-2026-09-13.jpg)
+![Mobile welcome page and resource navigation](docs/media/mobile-2026-09-14.jpg)
 
 </details>
 

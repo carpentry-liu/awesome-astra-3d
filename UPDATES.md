@@ -2,6 +2,16 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-09-14 · 5 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [锦鲤池：鱼群、涟漪与水面交互 / Interactive Koi Pond](https://carpentry-liu.github.io/awesome-astra-3d/#case=vib3-koi-pond) | Vib3Coded / @vib3coded | 完整视频 |
+| [City Pulse：纽约出租车的三维时间地图 / City Pulse — NYC Taxi Time Map](https://carpentry-liu.github.io/awesome-astra-3d/#case=seoyeon-city-pulse) | Seoyeon Jun 📊 / @tableau_viz | 完整视频 |
+| [已有 Tripo 模型：整理 UV 并重新烘焙贴图 / Existing Tripo Model — UV Layout and Rebake](https://carpentry-liu.github.io/awesome-astra-3d/#case=sagyo-uv-rebake) | さ🥺 / @_sagyoai | 提示词 / 过程 |
+| [鱿鱼群：用方程驱动身体和触手 / Procedural Squid Shoal](https://carpentry-liu.github.io/awesome-astra-3d/#case=vib3-squid-shoal) | Vib3Coded / @vib3coded | 完整视频 |
+| [Belt Runner：把 Astra 模型接入 Godot 4 / Belt Runner — Astra Assets in Godot 4](https://carpentry-liu.github.io/awesome-astra-3d/#case=nrivali-belt-runner) | nrivali | 源码 / 工程 |
+
 ## 2026-09-13 · 8 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

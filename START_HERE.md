@@ -42,6 +42,8 @@
 
 ## 路线三：研究一个完整游戏
 
+9 月 14 日补充：[Belt Runner Godot 4 移植](https://github.com/nrivali/BeltRunnerGoDot4) 展示如何把作者归为 Astra 制作的 Blender / GLB 资产接入 Godot。先对照第四里程碑的模型清单与当前文件，再研究场景和导入设置；部分动画仍待完成，原浏览器仓库当前不可访问，归因只覆盖已说明的资产。
+
 想看单文件游戏，选择 [Mosswing](https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/mosswing)，配合仓库中的原始任务阅读。作者提供的在线演示可能有访问限制，HTML 产物另行公开。
 
 想看多人交互，选择 [Smash Karts Arena](https://github.com/amsminn/gpt-6-astra-smash-karts)。它有客户端、服务器和公开的 agent 轨迹；联网对战需要服务器，不能把静态托管当成联机后端。

@@ -1,8 +1,8 @@
 # 案例目录
 
-由 `data/cases.json` 生成。最近核查：2026-09-13。[上手路线](START_HERE.md) · [最新收录](UPDATES.md)。作品归属基于公开来源，不代表独立复现。
+由 `data/cases.json` 生成。最近核查：2026-09-14。[上手路线](START_HERE.md) · [最新收录](UPDATES.md)。作品归属基于公开来源，不代表独立复现。
 
-## GPT-6 Astra 案例（178）
+## GPT-6 Astra 案例（183）
 
 ### 建筑与室内
 
@@ -44,6 +44,7 @@
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
 | [Sunwake：波浪中的航海旅程](https://developers.openai.com/showcase/sunwake) | Thomas Ricouard, OpenAI · OpenAI | 官方展示 | [在线作品](https://sunwake-the-last-light.openai.chatgpt.site/) · [提示词/过程](https://developers.openai.com/showcase/sunwake) |
+| [Belt Runner：把 Astra 模型接入 Godot 4](https://github.com/nrivali/BeltRunnerGoDot4) | nrivali · GitHub | 作者自述 | [源码](https://github.com/nrivali/BeltRunnerGoDot4) |
 | [Skybound：骑着飞龙穿越空中群岛](https://x.com/Kanojiyaaakash1/status/2098739181510164652) | Aakash Kanojiya / @Kanojiyaaakash1 · X | 转引待复核 | [视频](https://x.com/Kanojiyaaakash1/status/2098739181510164652) |
 | [在线玩具箱：把桌面玩具变成三维网页游戏](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/24) | asmoyou · GitHub | 作者自述 | [在线作品](https://games.asmo.top/) · [源码](https://github.com/asmoyou/toy2game) |
 | [街头小子：夕阳街区的三维拳击](https://x.com/sonic0828/status/2097601232877781344) | Sonic的奇思妙想 / @sonic0828 · X | 转引待复核 | [在线作品](https://iamsonic.net/2026/mini-games/urban-champion.html) · [视频](https://x.com/sonic0828/status/2097601232877781344) |
@@ -90,6 +91,7 @@
 
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
+| [锦鲤池：鱼群、涟漪与水面交互](https://x.com/vib3coded/status/2098492771170722032) | Vib3Coded / @vib3coded · X | 转引待复核 | [视频](https://x.com/vib3coded/status/2098492771170722032) |
 | [AtAt Orb：从 Logo 到八种动作的产品角色](https://atatapp.com/blog/how-i-built-atats-3d-orb-with-gpt-6-astra) | Xinyao / AtAt · 作者博客 | 作者自述 | [在线作品](https://atatapp.com/blog/how-i-built-atats-3d-orb-with-gpt-6-astra) · [视频](https://atatapp.com/blog/3d-orb/eight-expressions.mp4) · [提示词/过程](https://atatapp.com/blog/how-i-built-atats-3d-orb-with-gpt-6-astra) |
 | [拼装相框：先做带编号的接头校准件](https://x.com/wada/status/2098774359926297011) | wada / @wada · X | 转引待复核 | 原帖展示 |
 | [Goblin Bottle：把随身水瓶做成交互模型](https://x.com/daradoescode/status/2097111589002350688) | Dara A. / @daradoescode · X | 转引待复核 | [视频](https://x.com/daradoescode/status/2097111589002350688) |
@@ -117,37 +119,35 @@
 | [Unreal 生存社会：会交谈的智能体角色](https://x.com/mattshumer_/status/2095596175705399482) | Matt Shumer · X | 转引待复核 | [视频](https://x.com/mattshumer_/status/2095596175705399482) |
 | [Softie：可以揉捏的 WebGPU 史莱姆](https://x.com/Delroy715/status/2096793432987464010) | 码农暖爸 / Delroy715 / yuanyang749 · X | 转引待复核 | [在线作品](https://softie.520ai.site) · [源码](https://github.com/yuanyang749/softie-webgpu) · [视频](https://x.com/Delroy715/status/2096793432987464010) |
 
-### 程序化场景
+### 科学与教育
 
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
-| [微缩寺庙：拆件、细化与重新组装](https://x.com/rionaifantasy/status/2098403061463224543) | Rion Wu / @rionaifantasy · X | 转引待复核 | [视频](https://x.com/rionaifantasy/status/2098403061463224543) |
-| [森林峡谷：用 Megascans 资产搭建 Blender 场景](https://x.com/onihachi/status/2096778157999391060) | Michiyoshi Shirota / @onihachi · X | 转引待复核 | [视频](https://x.com/onihachi/status/2096778157999391060) |
-| [像素湖畔：Minecraft 风格地图效果](https://x.com/pcstyle53/status/2096404170022522940) | pcstyle / @pcstyle53 · X | 转引待复核 | 原帖展示 |
-| [Houdini 飞机：把模型做成可调工具](https://community.openai.com/t/astra-in-action-share-your-builds-breakthroughs-aha-moments/1394945/45) | sokun · 开发者社区 | 作者自述 | 原帖展示 |
-| [OP-1 Field：Houdini 产品建模练习](https://x.com/_nscr/status/2097744564073218443) | Nick Scarcella / @_nscr · X | 转引待复核 | 原帖展示 |
-| [关节化头像：在手指间滚动硬币](https://x.com/yuntiandeng/status/2097805500859519088) | Yuntian Deng / @yuntiandeng · X | 转引待复核 | [视频](https://x.com/yuntiandeng/status/2097805500859519088) |
-| [Houdini：程序化建模、灯光与动画](https://x.com/Yokohara_h/status/2097666997719089337) | Hirokazu Yokohara / @Yokohara_h · X | 转引待复核 | [视频](https://x.com/Yokohara_h/status/2097666997719089337) |
-| [湿地湖畔：小屋、芦苇与野生动物](https://x.com/givros/status/2097343467026289039) | Givros / @givros · X | 转引待复核 | [视频](https://x.com/givros/status/2097343467026289039) · [提示词/过程](https://x.com/givros/status/2097343467026289039) |
-| [Verdant Forest：实时森林与自定义着色器](https://x.com/LexnLin/status/2096263046918197609) | Leon Lin / @LexnLin · X | 转引待复核 | [在线作品](https://verdant-forest.lexn8.chatgpt.site) · [视频](https://x.com/LexnLin/status/2096263046918197609) |
-| [雨夜机器人：天气、灯光与场景迭代](https://x.com/anshuc/status/2096584624432374151) | Anshu / @anshuc · X | 转引待复核 | [视频](https://x.com/anshuc/status/2096584624432374151) |
-| [Clouds in Motion：浏览器实时云层](https://x.com/shinboson/status/2096568055413231902) | 𝞍 Shin Megami Boson 𝞍 / @shinboson · X | 转引待复核 | [在线作品](https://clouds-in-motion.pages.dev) · [视频](https://x.com/shinboson/status/2096568055413231902) |
-| [SpeedTree：印度芒果树与树皮材质](https://x.com/waitin4agi_/status/2096572429066006845) | Varun Mayya / @waitin4agi_ · X | 转引待复核 | 原帖展示 |
-| [C++ / Vulkan：自定义体素引擎实验](https://www.reddit.com/r/aigamedev/comments/1w7kp5b/custom_voxel_engine_done_with_gpt_astra/) | LostRequirement4828 · Reddit | 作者自述 | 原帖展示 |
-| [入画·汴京：走进清明上河图的虹桥与市井](https://github.com/Rising1234Sun/qingmingshanghetu) | Rising1234Sun · GitHub | 作者自述 | [在线作品](https://rising1234sun.github.io/qingmingshanghetu/) · [源码](https://github.com/Rising1234Sun/qingmingshanghetu) · [提示词/过程](https://github.com/Rising1234Sun/qingmingshanghetu/blob/main/docs/%E6%8F%90%E7%A4%BA%E8%AF%8D%E4%B8%8E%E8%BF%AD%E4%BB%A3%E6%B5%81%E7%A8%8B.md) |
-| [Clockwork Observatory：机械天文台](https://developers.openai.com/showcase/impossible-kinetic-architecture) | VB Srivastav, OpenAI · OpenAI | 官方展示 | [在线作品](https://kinetic-architecture-astra-20260901.openai.chatgpt.site/) · [提示词/过程](https://developers.openai.com/showcase/impossible-kinetic-architecture) |
-| [Abyssal：生物发光的深海生态](https://developers.openai.com/showcase/abyssal-bioluminescent-ecosystem) | VB Srivastav, OpenAI · OpenAI | 官方展示 | [在线作品](https://abyssal-ecosystem-astra-20260901.openai.chatgpt.site/) · [提示词/过程](https://developers.openai.com/showcase/abyssal-bioluminescent-ecosystem) |
-| [走进梵高画作：可连续漫步的 Three.js 小镇](https://x.com/petergostev/status/2095776685807346105) | Peter Gostev (@petergostev) · X | 转引待复核 | [在线作品](https://van-goghs-town.surge.sh/) · [源码](https://github.com/petergpt/gogh-strike/blob/main/reference/van-goghs-town.original.html) · [视频](https://x.com/petergostev/status/2095776685807346105) · [提示词/过程](https://x.com/petergostev/status/2095778829738393889) |
-| [瓶中船：17 世纪体素帆船与海浪](https://x.com/DeryaTR_/status/2095699049722581065) | Derya Unutmaz (@DeryaTR_) · X | 转引待复核 | [视频](https://x.com/DeryaTR_/status/2095699049722581065) |
-| [Living Deep：海面风暴与海底生态](https://x.com/emollick/status/2095673885605630429) | Ethan Mollick · X | 转引待复核 | [在线作品](https://abyssal-living-deep.netlify.app/) · [源码](https://github.com/emollick/abyssal-living-deep) · [视频](https://x.com/emollick/status/2095673885605630429) |
-| [Cluj-Napoca 联合广场：同题体素场景对照](https://x.com/danmana/status/2096262733259837681) | Dan Manastireanu · X | 作者自述 | [在线作品](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/index.html) · [源码](https://github.com/danmana/piata-unirii/tree/main/runs/gpt-astra-xhigh-01) · [视频](https://x.com/danmana/status/2096262733259837681) · [提示词/过程](https://github.com/danmana/piata-unirii/blob/main/prompt.md) |
-| [贴附表面行走的程序化多足虫](https://x.com/leo_xiaolei/status/2096460081982304546) | leo / 小磊 (@leo_xiaolei) · X | 转引待复核 | [在线作品](https://threerocks.github.io/web-3d-pages/) · [视频](https://x.com/leo_xiaolei/status/2096460081982304546) |
-| [首尔 3D Atlas：从地图数据搭建城市微缩景观](https://x.com/synabreu/status/2096557555086725159) | synabreu / @synabreu · X | 转引待复核 | [在线作品](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [视频](https://x.com/synabreu/status/2096557555086725159) |
+| [City Pulse：纽约出租车的三维时间地图](https://x.com/tableau_viz/status/2098063352832610473) | Seoyeon Jun 📊 / @tableau_viz · X | 转引待复核 | [视频](https://x.com/tableau_viz/status/2098063352832610473) |
+| [机械手钢琴：手指、琴键与音乐的动态展示](https://x.com/KeWai386772/status/2098109252720078891) | MSB / @KeWai386772 · X | 转引待复核 | [视频](https://x.com/KeWai386772/status/2098109252720078891) |
+| [蜂巢观察室：蜂后、巢房与时间控制](https://x.com/higgsfield_ai/status/2097813773830791259) | Higgsfield AI 🧩 / @higgsfield_ai · X | 转引待复核 | [视频](https://x.com/higgsfield_ai/status/2097813773830791259) |
+| [Real2Sim：三视角机器人场景重放](https://github.com/hku-sail/Real2Sim_GPT6_ASTRA) | hku-sail · GitHub | 作者自述 | [源码](https://github.com/hku-sail/Real2Sim_GPT6_ASTRA) · [提示词/过程](https://github.com/hku-sail/Real2Sim_GPT6_ASTRA/blob/main/Droid_prompt1.md) |
+| [GENESIS：可旋转的 AI 概念图谱](https://github.com/sayanpersonal123/AI-learning) | sayanpersonal123 · GitHub | 作者自述 | [在线作品](https://atlas.sayangupta.in) · [源码](https://github.com/sayanpersonal123/AI-learning) |
+| [配体变换：Blender 分子概念动画](https://x.com/EvgenyKirilin/status/2097758340105506917) | Evgeny Kirilin / @EvgenyKirilin · X | 转引待复核 | [视频](https://x.com/EvgenyKirilin/status/2097758340105506917) |
+| [Navier–Stokes：论文概念的三维表现](https://x.com/petergostev/status/2097801248099479576) | Peter Gostev / @petergostev · X | 转引待复核 | [在线作品](https://navier-stokes-solution.petergostev.chatgpt.site/) · [视频](https://x.com/petergostev/status/2097801248099479576) |
+| [V8 发动机：交互机械运动可视化](https://x.com/DilumSanjaya/status/2096280244663775423) | Dilum Sanjaya / @DilumSanjaya · X | 转引待复核 | [视频](https://x.com/DilumSanjaya/status/2096280244663775423) |
+| [Human Atlas：人体部件的三维浏览界面](https://x.com/ashebytes/status/2096221988763173186) | ashe / @ashebytes · X | 转引待复核 | [在线作品](https://human-atlas-seven.vercel.app) · [视频](https://x.com/ashebytes/status/2096221988763173186) |
+| [波音 777：着陆场景模拟展示](https://x.com/LuminaBench/status/2096946420234207459) | Lumina / @LuminaBench · X | 转引待复核 | [视频](https://x.com/LuminaBench/status/2096946420234207459) |
+| [Earth History：地球文明时间轴](https://x.com/akshdeeps_001/status/2096776530005488028) | Aksh / @akshdeeps_001 · X | 转引待复核 | [在线作品](https://earth.ethanplus.ai/) · [视频](https://x.com/akshdeeps_001/status/2096776530005488028) |
+| [九缸星型发动机：浏览器运动展示](https://x.com/techartist_/status/2096577974242033738) | Techartist / @techartist_ · X | 转引待复核 | [视频](https://x.com/techartist_/status/2096577974242033738) |
+| [Living Cell：可检查的细胞剖面](https://developers.openai.com/showcase/living-cell-cross-section) | VB Srivastav, OpenAI · OpenAI | 官方展示 | [在线作品](https://living-cell-astra-20260901.openai.chatgpt.site/) · [提示词/过程](https://developers.openai.com/showcase/living-cell-cross-section) |
+| [Physics museum：五个可操作的物理展项](https://developers.openai.com/showcase/physics-museum) | Katia Gil Guzman, OpenAI · OpenAI | 官方展示 | [在线作品](https://astra-museum-of-motion.openai.chatgpt.site/) · [提示词/过程](https://developers.openai.com/showcase/physics-museum) |
+| [Titan：土卫六三维科普展示](https://x.com/ArdaTugsat/status/2095986941753712841) | Arda Tugsat · X | 转引待复核 | [视频](https://x.com/ArdaTugsat/status/2095986941753712841) |
+| [HELIOS：太阳与戴森球概念场景](https://developers.openai.com/blog/architectural-visualization-with-astra) | Thomas Ricouard · OpenAI | 官方展示 | [提示词/过程](https://developers.openai.com/blog/architectural-visualization-with-astra#design-beyond-architecture) |
+| [Alpine Atlas：在马特洪峰查看地形与影像证据](https://github.com/oliviameng/alpine-atlas) | oliviameng · GitHub | 作者自述 | [在线作品](https://zermatt-mountain-atlas.oliviameng.chatgpt.site/?scene=reconstruction&view=matterhorn) · [源码](https://github.com/oliviameng/alpine-atlas) · [视频](https://www.loom.com/share/2aeb49305ee84ed38d3304aa39b7d558) |
+| [Lunar Surveyor：月面漫游与航天模型展台](https://github.com/Onward0131/astra-vibe-coding-lunar-surveyor) | Onward0131 · GitHub | 作者自述 | [源码](https://github.com/Onward0131/astra-vibe-coding-lunar-surveyor) |
+| [曲柄滑块教材：CadQuery 参数化装配](https://github.com/Sawamura-Jun/Crank-Mech) | Sawamura-Jun · GitHub | 作者自述 | [源码](https://github.com/Sawamura-Jun/Crank-Mech) |
 
 ### Blender 建模
 
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
+| [已有 Tripo 模型：整理 UV 并重新烘焙贴图](https://x.com/_sagyoai/status/2098980384260456813) | さ🥺 / @_sagyoai · X | 转引待复核 | [提示词/过程](https://x.com/_sagyoai/status/2098980384260456813) |
 | [Sol Horizon：尚在迭代的民用货运飞船](https://x.com/jonathanplumb/status/2098225609558335846) | Jonathan Plumb — Spokane Valley / @jonathanplumb · X | 转引待复核 | [提示词/过程](https://x.com/jonathanplumb/status/2098225609558335846) |
 | [Fieldnote R1：能继续改尺寸的三维探测车](https://kingy.ai/blog/drawing-to-editable-3d-astra-blender-video-walkthrough/) | Curtis Pyke / Kingy AI · 作者博客 | 作者自述 | [源码](https://kingy.ai/wp-content/uploads/2026/09/kingy-astra-drawing-to-editable-3d-starter.zip) · [视频](https://kingy.ai/wp-content/uploads/2026/09/drawing-to-editable-3d-blender-verification-walkthrough.mp4) · [提示词/过程](https://kingy.ai/blog/drawing-to-editable-3d-astra-blender-video-walkthrough/) |
 | [Pluribus 彩蛋：从参考图到可打开的 Blender 模型](https://simonwillison.net/2026/Sep/9/blender-viewer/) | Simon Willison · 作者博客 | 作者自述 | [在线作品](https://tools.simonwillison.net/blender-viewer?url=https%3A%2F%2Fgithub.com%2Fsimonw%2Fvibe-coded-blender-projects%2Fblob%2Fmain%2Fpluribus-faberge-egg%2Fdeliverables%2FPluribus_Jeweled_Egg_v1.blend) · [源码](https://github.com/simonw/vibe-coded-blender-projects/tree/main/pluribus-faberge-egg) · [提示词/过程](https://simonwillison.net/2026/Sep/9/blender-viewer/) |
@@ -179,28 +179,33 @@
 | [照片到 LEGO 风格角色：Blender 游戏资产实验](https://x.com/_simonsmith/status/2096766465730847059) | Simon Smith / @_simonsmith · X | 转引待复核 | [视频](https://x.com/_simonsmith/status/2096766465730847059) · [提示词/过程](https://x.com/_simonsmith/status/2096766465730847059) |
 | [AURELION-07：可编辑科幻巡洋舰](https://developers.openai.com/blog/architectural-visualization-with-astra) | Thomas Ricouard · OpenAI | 官方展示 | [提示词/过程](https://developers.openai.com/blog/architectural-visualization-with-astra#design-beyond-architecture) |
 
-### 科学与教育
+### 程序化场景
 
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
-| [机械手钢琴：手指、琴键与音乐的动态展示](https://x.com/KeWai386772/status/2098109252720078891) | MSB / @KeWai386772 · X | 转引待复核 | [视频](https://x.com/KeWai386772/status/2098109252720078891) |
-| [蜂巢观察室：蜂后、巢房与时间控制](https://x.com/higgsfield_ai/status/2097813773830791259) | Higgsfield AI 🧩 / @higgsfield_ai · X | 转引待复核 | [视频](https://x.com/higgsfield_ai/status/2097813773830791259) |
-| [Real2Sim：三视角机器人场景重放](https://github.com/hku-sail/Real2Sim_GPT6_ASTRA) | hku-sail · GitHub | 作者自述 | [源码](https://github.com/hku-sail/Real2Sim_GPT6_ASTRA) · [提示词/过程](https://github.com/hku-sail/Real2Sim_GPT6_ASTRA/blob/main/Droid_prompt1.md) |
-| [GENESIS：可旋转的 AI 概念图谱](https://github.com/sayanpersonal123/AI-learning) | sayanpersonal123 · GitHub | 作者自述 | [在线作品](https://atlas.sayangupta.in) · [源码](https://github.com/sayanpersonal123/AI-learning) |
-| [配体变换：Blender 分子概念动画](https://x.com/EvgenyKirilin/status/2097758340105506917) | Evgeny Kirilin / @EvgenyKirilin · X | 转引待复核 | [视频](https://x.com/EvgenyKirilin/status/2097758340105506917) |
-| [Navier–Stokes：论文概念的三维表现](https://x.com/petergostev/status/2097801248099479576) | Peter Gostev / @petergostev · X | 转引待复核 | [在线作品](https://navier-stokes-solution.petergostev.chatgpt.site/) · [视频](https://x.com/petergostev/status/2097801248099479576) |
-| [V8 发动机：交互机械运动可视化](https://x.com/DilumSanjaya/status/2096280244663775423) | Dilum Sanjaya / @DilumSanjaya · X | 转引待复核 | [视频](https://x.com/DilumSanjaya/status/2096280244663775423) |
-| [Human Atlas：人体部件的三维浏览界面](https://x.com/ashebytes/status/2096221988763173186) | ashe / @ashebytes · X | 转引待复核 | [在线作品](https://human-atlas-seven.vercel.app) · [视频](https://x.com/ashebytes/status/2096221988763173186) |
-| [波音 777：着陆场景模拟展示](https://x.com/LuminaBench/status/2096946420234207459) | Lumina / @LuminaBench · X | 转引待复核 | [视频](https://x.com/LuminaBench/status/2096946420234207459) |
-| [Earth History：地球文明时间轴](https://x.com/akshdeeps_001/status/2096776530005488028) | Aksh / @akshdeeps_001 · X | 转引待复核 | [在线作品](https://earth.ethanplus.ai/) · [视频](https://x.com/akshdeeps_001/status/2096776530005488028) |
-| [九缸星型发动机：浏览器运动展示](https://x.com/techartist_/status/2096577974242033738) | Techartist / @techartist_ · X | 转引待复核 | [视频](https://x.com/techartist_/status/2096577974242033738) |
-| [Living Cell：可检查的细胞剖面](https://developers.openai.com/showcase/living-cell-cross-section) | VB Srivastav, OpenAI · OpenAI | 官方展示 | [在线作品](https://living-cell-astra-20260901.openai.chatgpt.site/) · [提示词/过程](https://developers.openai.com/showcase/living-cell-cross-section) |
-| [Physics museum：五个可操作的物理展项](https://developers.openai.com/showcase/physics-museum) | Katia Gil Guzman, OpenAI · OpenAI | 官方展示 | [在线作品](https://astra-museum-of-motion.openai.chatgpt.site/) · [提示词/过程](https://developers.openai.com/showcase/physics-museum) |
-| [Titan：土卫六三维科普展示](https://x.com/ArdaTugsat/status/2095986941753712841) | Arda Tugsat · X | 转引待复核 | [视频](https://x.com/ArdaTugsat/status/2095986941753712841) |
-| [HELIOS：太阳与戴森球概念场景](https://developers.openai.com/blog/architectural-visualization-with-astra) | Thomas Ricouard · OpenAI | 官方展示 | [提示词/过程](https://developers.openai.com/blog/architectural-visualization-with-astra#design-beyond-architecture) |
-| [Alpine Atlas：在马特洪峰查看地形与影像证据](https://github.com/oliviameng/alpine-atlas) | oliviameng · GitHub | 作者自述 | [在线作品](https://zermatt-mountain-atlas.oliviameng.chatgpt.site/?scene=reconstruction&view=matterhorn) · [源码](https://github.com/oliviameng/alpine-atlas) · [视频](https://www.loom.com/share/2aeb49305ee84ed38d3304aa39b7d558) |
-| [Lunar Surveyor：月面漫游与航天模型展台](https://github.com/Onward0131/astra-vibe-coding-lunar-surveyor) | Onward0131 · GitHub | 作者自述 | [源码](https://github.com/Onward0131/astra-vibe-coding-lunar-surveyor) |
-| [曲柄滑块教材：CadQuery 参数化装配](https://github.com/Sawamura-Jun/Crank-Mech) | Sawamura-Jun · GitHub | 作者自述 | [源码](https://github.com/Sawamura-Jun/Crank-Mech) |
+| [鱿鱼群：用方程驱动身体和触手](https://x.com/vib3coded/status/2098043033446912315) | Vib3Coded / @vib3coded · X | 转引待复核 | [视频](https://x.com/vib3coded/status/2098043033446912315) |
+| [微缩寺庙：拆件、细化与重新组装](https://x.com/rionaifantasy/status/2098403061463224543) | Rion Wu / @rionaifantasy · X | 转引待复核 | [视频](https://x.com/rionaifantasy/status/2098403061463224543) |
+| [森林峡谷：用 Megascans 资产搭建 Blender 场景](https://x.com/onihachi/status/2096778157999391060) | Michiyoshi Shirota / @onihachi · X | 转引待复核 | [视频](https://x.com/onihachi/status/2096778157999391060) |
+| [像素湖畔：Minecraft 风格地图效果](https://x.com/pcstyle53/status/2096404170022522940) | pcstyle / @pcstyle53 · X | 转引待复核 | 原帖展示 |
+| [Houdini 飞机：把模型做成可调工具](https://community.openai.com/t/astra-in-action-share-your-builds-breakthroughs-aha-moments/1394945/45) | sokun · 开发者社区 | 作者自述 | 原帖展示 |
+| [OP-1 Field：Houdini 产品建模练习](https://x.com/_nscr/status/2097744564073218443) | Nick Scarcella / @_nscr · X | 转引待复核 | 原帖展示 |
+| [关节化头像：在手指间滚动硬币](https://x.com/yuntiandeng/status/2097805500859519088) | Yuntian Deng / @yuntiandeng · X | 转引待复核 | [视频](https://x.com/yuntiandeng/status/2097805500859519088) |
+| [Houdini：程序化建模、灯光与动画](https://x.com/Yokohara_h/status/2097666997719089337) | Hirokazu Yokohara / @Yokohara_h · X | 转引待复核 | [视频](https://x.com/Yokohara_h/status/2097666997719089337) |
+| [湿地湖畔：小屋、芦苇与野生动物](https://x.com/givros/status/2097343467026289039) | Givros / @givros · X | 转引待复核 | [视频](https://x.com/givros/status/2097343467026289039) · [提示词/过程](https://x.com/givros/status/2097343467026289039) |
+| [Verdant Forest：实时森林与自定义着色器](https://x.com/LexnLin/status/2096263046918197609) | Leon Lin / @LexnLin · X | 转引待复核 | [在线作品](https://verdant-forest.lexn8.chatgpt.site) · [视频](https://x.com/LexnLin/status/2096263046918197609) |
+| [雨夜机器人：天气、灯光与场景迭代](https://x.com/anshuc/status/2096584624432374151) | Anshu / @anshuc · X | 转引待复核 | [视频](https://x.com/anshuc/status/2096584624432374151) |
+| [Clouds in Motion：浏览器实时云层](https://x.com/shinboson/status/2096568055413231902) | 𝞍 Shin Megami Boson 𝞍 / @shinboson · X | 转引待复核 | [在线作品](https://clouds-in-motion.pages.dev) · [视频](https://x.com/shinboson/status/2096568055413231902) |
+| [SpeedTree：印度芒果树与树皮材质](https://x.com/waitin4agi_/status/2096572429066006845) | Varun Mayya / @waitin4agi_ · X | 转引待复核 | 原帖展示 |
+| [C++ / Vulkan：自定义体素引擎实验](https://www.reddit.com/r/aigamedev/comments/1w7kp5b/custom_voxel_engine_done_with_gpt_astra/) | LostRequirement4828 · Reddit | 作者自述 | 原帖展示 |
+| [入画·汴京：走进清明上河图的虹桥与市井](https://github.com/Rising1234Sun/qingmingshanghetu) | Rising1234Sun · GitHub | 作者自述 | [在线作品](https://rising1234sun.github.io/qingmingshanghetu/) · [源码](https://github.com/Rising1234Sun/qingmingshanghetu) · [提示词/过程](https://github.com/Rising1234Sun/qingmingshanghetu/blob/main/docs/%E6%8F%90%E7%A4%BA%E8%AF%8D%E4%B8%8E%E8%BF%AD%E4%BB%A3%E6%B5%81%E7%A8%8B.md) |
+| [Clockwork Observatory：机械天文台](https://developers.openai.com/showcase/impossible-kinetic-architecture) | VB Srivastav, OpenAI · OpenAI | 官方展示 | [在线作品](https://kinetic-architecture-astra-20260901.openai.chatgpt.site/) · [提示词/过程](https://developers.openai.com/showcase/impossible-kinetic-architecture) |
+| [Abyssal：生物发光的深海生态](https://developers.openai.com/showcase/abyssal-bioluminescent-ecosystem) | VB Srivastav, OpenAI · OpenAI | 官方展示 | [在线作品](https://abyssal-ecosystem-astra-20260901.openai.chatgpt.site/) · [提示词/过程](https://developers.openai.com/showcase/abyssal-bioluminescent-ecosystem) |
+| [走进梵高画作：可连续漫步的 Three.js 小镇](https://x.com/petergostev/status/2095776685807346105) | Peter Gostev (@petergostev) · X | 转引待复核 | [在线作品](https://van-goghs-town.surge.sh/) · [源码](https://github.com/petergpt/gogh-strike/blob/main/reference/van-goghs-town.original.html) · [视频](https://x.com/petergostev/status/2095776685807346105) · [提示词/过程](https://x.com/petergostev/status/2095778829738393889) |
+| [瓶中船：17 世纪体素帆船与海浪](https://x.com/DeryaTR_/status/2095699049722581065) | Derya Unutmaz (@DeryaTR_) · X | 转引待复核 | [视频](https://x.com/DeryaTR_/status/2095699049722581065) |
+| [Living Deep：海面风暴与海底生态](https://x.com/emollick/status/2095673885605630429) | Ethan Mollick · X | 转引待复核 | [在线作品](https://abyssal-living-deep.netlify.app/) · [源码](https://github.com/emollick/abyssal-living-deep) · [视频](https://x.com/emollick/status/2095673885605630429) |
+| [Cluj-Napoca 联合广场：同题体素场景对照](https://x.com/danmana/status/2096262733259837681) | Dan Manastireanu · X | 作者自述 | [在线作品](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/index.html) · [源码](https://github.com/danmana/piata-unirii/tree/main/runs/gpt-astra-xhigh-01) · [视频](https://x.com/danmana/status/2096262733259837681) · [提示词/过程](https://github.com/danmana/piata-unirii/blob/main/prompt.md) |
+| [贴附表面行走的程序化多足虫](https://x.com/leo_xiaolei/status/2096460081982304546) | leo / 小磊 (@leo_xiaolei) · X | 转引待复核 | [在线作品](https://threerocks.github.io/web-3d-pages/) · [视频](https://x.com/leo_xiaolei/status/2096460081982304546) |
+| [首尔 3D Atlas：从地图数据搭建城市微缩景观](https://x.com/synabreu/status/2096557555086725159) | synabreu / @synabreu · X | 转引待复核 | [在线作品](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [视频](https://x.com/synabreu/status/2096557555086725159) |
 
 ### 拆解与剖面
 

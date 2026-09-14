@@ -1,10 +1,11 @@
 {
-  "observedAt": "2026-09-13",
-  "method": "Incremental bounded HTTP GET: 12 new image/demo/external-video/original-download URLs. Earlier rows retain actual timestamps. Reddit preview returned 403 and was omitted from the active image field. Public playback URLs checked separately after publication. Reachability is not independent reproduction; signed redirect queries omitted.",
-  "checkedUrls": 447,
+  "observedAt": "2026-09-14",
+  "method": "Incremental bounded HTTP GET: 10 candidate image/project/original-download URLs. Eight reachable; the game-prop repository and raw image returned 404 and the candidate was withdrawn before publication. Historical rows retain actual timestamps. Public playback URLs checked separately after publication. Reachability is not independent reproduction; signed redirect queries omitted.",
+  "checkedUrls": 457,
   "counts": {
+    "reachable": 452,
     "restricted": 3,
-    "reachable": 444
+    "http-error": 2
   },
   "results": [
     {
@@ -7739,6 +7740,173 @@
       "title": null,
       "contentType": "application/octet-stream",
       "contentRange": "bytes 0-4095/9889823",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2098492548230819840/img/Ef2C6HYFlzwwlNre.jpg",
+      "uses": [
+        {
+          "caseId": "vib3-koi-pond",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-14T01:05:20.435463+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2098492548230819840/img/Ef2C6HYFlzwwlNre.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/137702",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-14/vib3-koi-pond-1-original.mp4",
+      "uses": [
+        {
+          "caseId": "vib3-koi-pond",
+          "field": "downloadUrl",
+          "bytes": 84662545
+        }
+      ],
+      "observedAt": "2026-09-14T01:05:20.437978+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1358680959/e7bdafd5-d940-418f-b1f9-1205a48535be",
+      "title": null,
+      "contentType": "application/octet-stream",
+      "contentRange": "bytes 0-4095/84662545",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/surefirev2/ai-blender-workflow",
+      "uses": [
+        {
+          "caseId": "surefire-game-prop",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-09-14T01:05:20.437978+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 404,
+      "result": "http-error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/surefirev2/ai-blender-workflow/master/assets/hand-crossbow/renders/final-beauty.png",
+      "uses": [
+        {
+          "caseId": "surefire-game-prop",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-14T01:05:20.438977+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 404,
+      "result": "http-error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2098063330032435201/img/2FzQHs6t_0FG_5o7.jpg",
+      "uses": [
+        {
+          "caseId": "seoyeon-city-pulse",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-14T01:05:20.438977+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2098063330032435201/img/2FzQHs6t_0FG_5o7.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/90459",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-14/seoyeon-city-pulse-1-original.mp4",
+      "uses": [
+        {
+          "caseId": "seoyeon-city-pulse",
+          "field": "downloadUrl",
+          "bytes": 6321193
+        }
+      ],
+      "observedAt": "2026-09-14T01:05:20.438977+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1358680959/5dbf09f0-9954-4c7e-8c52-9cc7568cb30c",
+      "title": null,
+      "contentType": "application/octet-stream",
+      "contentRange": "bytes 0-4095/6321193",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HSEQFCuasAATdDP.jpg?name=orig",
+      "uses": [
+        {
+          "caseId": "sagyo-uv-rebake",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-14T01:05:21.451194+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/media/HSEQFCuasAATdDP.jpg?name=orig",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/1345876",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2098042921576734720/img/8Go_80pnT47iG_p5.jpg",
+      "uses": [
+        {
+          "caseId": "vib3-squid-shoal",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-14T01:05:26.164211+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2098042921576734720/img/8Go_80pnT47iG_p5.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/40392",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-14/vib3-squid-shoal-1-original.mp4",
+      "uses": [
+        {
+          "caseId": "vib3-squid-shoal",
+          "field": "downloadUrl",
+          "bytes": 72934983
+        }
+      ],
+      "observedAt": "2026-09-14T01:05:26.500154+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1358680959/97ada246-0b94-48e5-a956-f5298d980744",
+      "title": null,
+      "contentType": "application/octet-stream",
+      "contentRange": "bytes 0-4095/72934983",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/nrivali/BeltRunnerGoDot4",
+      "uses": [
+        {
+          "caseId": "nrivali-belt-runner",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-09-14T01:05:26.898835+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://github.com/nrivali/BeltRunnerGoDot4",
+      "title": "GitHub - nrivali/BeltRunnerGoDot4 · GitHub",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
       "result": "reachable"
     }
   ],

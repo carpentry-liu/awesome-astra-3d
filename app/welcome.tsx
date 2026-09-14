@@ -6,25 +6,25 @@ import { type Case } from '@/src/catalog';
 
 const spotlights = [
   {
-    id: 'aakash-skybound',
-    credit: 'Aakash Kanojiya',
-    name: '骑上飞龙，穿越空中群岛',
-    label: '三维飞行游戏',
-    note: 'Skybound · Astra 编排与 Rodin 龙模型',
+    id: 'vib3-koi-pond',
+    credit: 'Vib3Coded',
+    name: '一池锦鲤，拨动水面',
+    label: '程序化水面交互',
+    note: 'Three.js · 鱼群、涟漪与完整交互录像',
   },
   {
-    id: 'atat-animated-orb',
-    credit: 'Xinyao / AtAt',
-    name: '一个小角色，八种表达',
-    label: '产品角色动画',
-    note: 'AtAt Orb · Blender 到网页与 Mac 应用',
+    id: 'sagyo-uv-rebake',
+    credit: 'さ🥺 / @_sagyoai',
+    name: '给已有模型，整理一张新 UV',
+    label: '已有模型贴图流程',
+    note: 'Tripo × Blender MCP · UV 整理与烘焙',
   },
   {
-    id: 'dan-chicago-fair',
-    credit: 'Dan Elton',
-    name: '走回 1893 年的芝加哥',
-    label: '历史空间重建',
-    note: 'Astra × Fable · 近五分钟完整漫游',
+    id: 'seoyeon-city-pulse',
+    credit: 'Seoyeon Jun',
+    name: '在三维地图里，看见城市节律',
+    label: '城市数据可视化',
+    note: 'City Pulse · 纽约出租车的时间切片',
   },
 ];
 export function Welcome({

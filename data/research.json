@@ -626,6 +626,55 @@
           "reason": "README request returned 404; no usable verified result in this pass."
         }
       ]
+    },
+    {
+      "observedAt": "2026-09-14",
+      "batch": "daily-project-refresh",
+      "addedCount": 5,
+      "caseIds": [
+        "vib3-koi-pond",
+        "seoyeon-city-pulse",
+        "sagyo-uv-rebake",
+        "vib3-squid-shoal",
+        "nrivali-belt-runner"
+      ],
+      "sources": [
+        "https://x.com/vib3coded/status/2098492771170722032",
+        "https://x.com/tableau_viz/status/2098063352832610473",
+        "https://x.com/_sagyoai/status/2098980384260456813",
+        "https://x.com/vib3coded/status/2098043033446912315",
+        "https://github.com/nrivali/BeltRunnerGoDot4"
+      ],
+      "discoverySources": [
+        "https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra",
+        "https://github.com/TripoGrowthLab/awesome-astra-prompts"
+      ],
+      "method": "Public web and GitHub discovery, author README and recursive file-tree checks, validation-report reading, and four exact-ID FxTwitter mirrors. X entries retain secondary evidence; no independent project reproduction.",
+      "notes": [
+        "Five additions: four X records and one GitHub project; three complete X recordings with highest-bitrate and smaller full versions.",
+        "Added date is distinct from original publication date; unknown dates stay null.",
+        "UV rebaking starts from a Tripo asset; Belt Runner attribution applies to Blender assets, not the whole Godot port.",
+        "Xiaohongshu remains excluded under the September 9 revocation; no visits or social posts.",
+        "User requested no ChatGPT/Sites deployment: GitHub and GitHub Pages only."
+      ],
+      "excluded": [
+        {
+          "source": "https://github.com/darrinm/astrapool",
+          "reason": "Actual 3D project, but no explicit Astra creation attribution found in README or inspected recent commits; name alone insufficient."
+        },
+        {
+          "source": "https://github.com/clairefairchild/rmb-model-viewer",
+          "reason": "Generic model-use policy does not establish attribution for the actual output."
+        },
+        {
+          "source": "https://github.com/Degrading1919/adventurers-rise",
+          "reason": "Astra orchestrator requirement without sufficient public output evidence for this batch."
+        },
+        {
+          "source": "https://github.com/surefirev2/ai-blender-workflow",
+          "reason": "README, files and render were initially readable, but the repository and raw image returned 404 during the final 2026-09-14 check at 01:05 UTC. Confirmed via a separate web fetch; withdrew before publication instead of exposing a broken project or relying on cached images."
+        }
+      ]
     }
   ]
 }

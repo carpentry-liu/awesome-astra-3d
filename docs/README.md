@@ -19,3 +19,4 @@
 - [2026-09-12 新增 14 个跨平台案例、5 段完整视频与展示更新](features/F-0009-source-refresh/README.md)。
 - [2026-09-12 第二轮：6 件可检查作品、2 段完整视频与对照图修正](features/F-0010-editable-showcases/README.md)。
 - [2026-09-13：8 个新收录、4 段完整视频与首页更新](features/F-0011-daily-sep13/README.md)。
+- [2026-09-14：5 个新收录、3 段完整视频与 GitHub 更新；不部署 ChatGPT 站点](features/F-0012-project-refresh/README.md)。
