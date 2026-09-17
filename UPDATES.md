@@ -2,10 +2,20 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
-## 2026-09-17 · 7 个案例
+## 2026-09-17 · 17 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
+| [Nightborn Clash：血裔三维街机决斗 / Nightborn Clash](https://carpentry-liu.github.io/awesome-astra-3d/#case=cloak-nightborn-clash) | Cloaker Vampiror / @CloakofEcstasy | 演示入口 |
+| [Lantern Cove：猴岛风格三维冒险原型 / Lantern Cove — The Borrowed Light](https://carpentry-liu.github.io/awesome-astra-3d/#case=akartit-lantern-cove) | AK / @akartit | 演示入口 |
+| [Butterball Run：餐盘上的黄油球救援 / Butterball Run — Dinner Has Other Plans](https://carpentry-liu.github.io/awesome-astra-3d/#case=secretseoul-butterball-run) | Seolyeon / SecretSeoul | 演示入口 · 提示词 / 过程 |
+| [Sundrift：四模型对照中的 Astra 船只探索 / Sundrift — Take the Slow Way Home](https://carpentry-liu.github.io/awesome-astra-3d/#case=wesche-sundrift) | Wësche / @WescheNex1q | 演示入口 · 提示词 / 过程 |
+| [Duck Off：河道鸭子竞速 / Duck Off](https://carpentry-liu.github.io/awesome-astra-3d/#case=swarnim-duck-off) | swarnim.eth / @swarnimodi | 演示入口 |
+| [Wildwake Rally：低多边形山地拉力 / Wildwake Rally](https://carpentry-liu.github.io/awesome-astra-3d/#case=defy-wildwake-rally) | DefyEntropyV | 演示入口 |
+| [Starship Foundry：等距拼装与飞行实验室 / Starship Foundry — Isometric Flight Lab](https://carpentry-liu.github.io/awesome-astra-3d/#case=aaron-starship-foundry) | Aaron Wacker / @Aaron_Wacker | 演示入口 |
+| [Tideglass Hunt：海岸竞技场三维狩猎 / Tideglass Hunt](https://carpentry-liu.github.io/awesome-astra-3d/#case=timlb-tideglass-hunt) | Timothée Le Borgne / @Tim_LB | 演示入口 |
+| [Canteen Crashers：食堂潜行与食谱争夺 / Canteen Crashers](https://carpentry-liu.github.io/awesome-astra-3d/#case=chongdashu-canteen-crashers) | Chong-U / @chongdashu | 演示入口 |
+| [Astra Floor：纯浏览器 3D 僵尸生存 FPS / Astra Floor](https://carpentry-liu.github.io/awesome-astra-3d/#case=berochlu-astrafloor) | BEROCHLU | 源码 / 工程 · 演示入口 |
 | [Last Train to the Sea：开往海边的三维列车 / Last Train to the Sea](https://carpentry-liu.github.io/awesome-astra-3d/#case=aniket-last-train) | Aniket J / @aniketjart | 演示入口 · 完整视频 |
 | [LANTERN S-4：有源码与生成记录的深海探测器 / LANTERN S-4 — Abyssal Surveyor](https://carpentry-liu.github.io/awesome-astra-3d/#case=kiln-abyssal-surveyor) | Matthew Kissinger / Kiln | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
 | [Hot Wheeler：桌面玩具赛车与回环赛道 / Hot Wheeler](https://carpentry-liu.github.io/awesome-astra-3d/#case=varun-hot-wheeler) | Varun Arora / @varavibes | 演示入口 · 完整视频 |

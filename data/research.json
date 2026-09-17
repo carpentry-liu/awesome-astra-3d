@@ -737,6 +737,74 @@
           "reason": "Tool support is not a verified generated-asset example."
         }
       ]
+    },
+    {
+      "observedAt": "2026-09-17",
+      "batch": "martindelophy-and-github-refresh",
+      "addedCount": 10,
+      "caseIds": [
+        "berochlu-astrafloor",
+        "chongdashu-canteen-crashers",
+        "timlb-tideglass-hunt",
+        "aaron-starship-foundry",
+        "defy-wildwake-rally",
+        "swarnim-duck-off",
+        "wesche-sundrift",
+        "secretseoul-butterball-run",
+        "akartit-lantern-cove",
+        "cloak-nightborn-clash"
+      ],
+      "updatedCaseIds": [],
+      "sources": [
+        "https://github.com/BEROCHLU/astrafloor",
+        "https://x.com/chongdashu/status/2100207494375285029",
+        "https://x.com/Tim_LB/status/2100212668778828172",
+        "https://x.com/Aaron_Wacker/status/2100382539697254828",
+        "https://x.com/DefyEntropyV/status/2100226359649820721",
+        "https://x.com/swarnimodi/status/2100196454367437275",
+        "https://x.com/WescheNex1q/status/2100043868565561533",
+        "https://x.com/SecretSeoul/status/2097315757931811081",
+        "https://x.com/akartit/status/2096520784449613981",
+        "https://x.com/CloakofEcstasy/status/2098415220645564857"
+      ],
+      "discoverySources": [
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/blob/main/docs/browser-games-2026-09-15.md",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/blob/main/docs/browser-games-2026-09-16.md",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/blob/main/docs/browser-games-2026-09-17.md",
+        "https://github.com/topics/gpt-6-astra"
+      ],
+      "method": "Read MartinDelophy 9/15-9/17 browser-game batches and GitHub topic gpt-6-astra; dedupe against existing case IDs; verify author statements via raw README or exact-ID FxTwitter mirrors. X attribution remains secondary. No independent rebuild or full gameplay.",
+      "notes": [
+        "Ten additions focused on true 3D browser projects with public demos.",
+        "Multi-model works (Tideglass Hunt, Duck Off, Sundrift) keep mixed attribution; Sundrift is only the author-marked Astra arm of a four-model comparison.",
+        "Butterball Run author labels Astra Light; kept as Light, not full Astra default.",
+        "Nightborn Clash has author statement and demo but no media on the original post; imageUrl left null.",
+        "Glider (Reddit) and GTA VI PS1 demake deferred: primary source fetch incomplete or platform-gated this pass.",
+        "Excluded 2D-only items: POCKET_01 retro minigames, Mario+Duck Hunt ports, Komorebi Nut Gathering, Anime Rift, Race Jimothy (canvas drawing race)."
+      ],
+      "excluded": [
+        {
+          "source": "https://devoshub.com/",
+          "reason": "POCKET_01 is a monochrome 2D handheld collection; not a 3D Astra geometry case for this atlas."
+        },
+        {
+          "source": "https://mario-duck-hunt-mobile.astral-bead-6514.chatgpt.site/",
+          "reason": "2D browser ports; original Nintendo assets not created by Astra."
+        },
+        {
+          "source": "https://komorebi-kinomi-0916.inu03550.chatgpt.site/",
+          "reason": "2D character-image collection game; no verified 3D geometry output for this atlas."
+        },
+        {
+          "source": "https://anime-rift-cade.theyounganimation.chatgpt.site/",
+          "reason": "Explicitly 2D fighting game; prior batch exclusion still applies."
+        },
+        {
+          "source": "https://glider.game/",
+          "reason": "Strong 3D candidate; Reddit primary JSON fetch failed this pass. Keep for next refresh."
+        }
+      ]
     }
   ]
 }

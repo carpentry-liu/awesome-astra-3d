@@ -13,7 +13,7 @@ Explore GPT-6 Astra in 3D: Blender, Houdini, Three.js, WebGL, CAD, VRM and inter
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-09-17 (Asia/Shanghai)** · **190 Astra examples** · **56 source / project links** · **71 demo links** · **94 complete videos** · **12 separate references**.
+Updated **2026-09-17 (Asia/Shanghai)** · **200 Astra examples** · **57 source / project links** · **81 demo links** · **94 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 ## New work, at a glance
@@ -44,21 +44,19 @@ Captured from this update on September 17, 2026. Click to explore the gallery.
 
 ## Latest additions
 
-This refresh adds **7 examples, 5 complete X videos, 1 source project and 6 demo links**: Last Train, LANTERN S-4, Hot Wheeler, Vesper, DEAD END, Samurai Forest and VeilFall. **Newly collected does not mean newly created**; original dates and completion limits remain visible. Featured work and three website screenshots are refreshed.
-
-**Project progress:** [Belt Runner](https://carpentry-liu.github.io/awesome-astra-3d/#case=nrivali-belt-runner) now documents LOD 0, hull collision, radar and music milestones. Its existing record is updated without adding a duplicate.
+This refresh adds **10 examples, 1 source project and 10 demo links**: Astra Floor, Canteen Crashers, Tideglass Hunt, Starship Foundry, Wildwake Rally, Duck Off, Sundrift, Butterball Run, Lantern Cove and Nightborn Clash. **Newly collected does not mean newly created**; original dates and completion limits remain visible. Multi-model works keep mixed attribution; Sundrift is only the author-marked Astra arm of a four-model comparison.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [Last Train to the Sea](https://carpentry-liu.github.io/awesome-astra-3d/#case=aniket-last-train) | Aniket J / @aniketjart | [Demo](https://app.usecrayon.ai/play/bda1b910-b840-48cb-bb4c-28d0cde29107) · [Original](https://x.com/aniketjart/status/2099652076829909064) |
-| [LANTERN S-4 — Abyssal Surveyor](https://carpentry-liu.github.io/awesome-astra-3d/#case=kiln-abyssal-surveyor) | Matthew Kissinger / Kiln | [Demo](https://kilnstudio.tools/#/abyssal-surveyor) · [Source](https://github.com/matthew-kissinger/kiln) · [Original](https://github.com/matthew-kissinger/kiln/blob/main/examples/abyssal-surveyor.provenance.json) |
-| [Hot Wheeler](https://carpentry-liu.github.io/awesome-astra-3d/#case=varun-hot-wheeler) | Varun Arora / @varavibes | [Demo](https://hot-wheeler.vercel.app/) · [Original](https://x.com/varavibes/status/2099269587401580886) |
-| [Vesper — The Last Light](https://carpentry-liu.github.io/awesome-astra-3d/#case=kvickan-vesper) | kvickan / MansGullberg | [Demo](https://vesper.mansgullberg.chatgpt.site/) · [Original](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/82) |
-| [DEAD END — Oakridge 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=msd-dead-end) | Minsang Daniel Kim / @msdkim0424 | [Demo](https://dead-end.replit.app/) · [Original](https://x.com/msdkim0424/status/2099852357660262425) |
-| [Samurai Forest — Astra and Rodin](https://carpentry-liu.github.io/awesome-astra-3d/#case=jaynit-samurai-forest) | Jaynit Makwana / @JaynitMakwana | [Original](https://x.com/JaynitMakwana/status/2099450933067612421) |
-| [VeilFall — God’s Heart](https://carpentry-liu.github.io/awesome-astra-3d/#case=noni-veilfall) | Shehnoor Ansari (Noni) / @Noni_Shehnoor | [Demo](https://veilfall.replit.app/play) · [Original](https://x.com/Noni_Shehnoor/status/2099641097030959469) |
-| [Interactive Koi Pond](https://carpentry-liu.github.io/awesome-astra-3d/#case=vib3-koi-pond) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2098492771170722032) |
+| [Nightborn Clash](https://carpentry-liu.github.io/awesome-astra-3d/#case=cloak-nightborn-clash) | Cloaker Vampiror / @CloakofEcstasy | [Demo](https://nightborn-clash.dixonefg5.chatgpt.site) · [Original](https://x.com/CloakofEcstasy/status/2098415220645564857) |
+| [Lantern Cove — The Borrowed Light](https://carpentry-liu.github.io/awesome-astra-3d/#case=akartit-lantern-cove) | AK / @akartit | [Demo](https://lantern-cove.akartit.chatgpt.site/) · [Original](https://x.com/akartit/status/2096520784449613981) |
+| [Butterball Run — Dinner Has Other Plans](https://carpentry-liu.github.io/awesome-astra-3d/#case=secretseoul-butterball-run) | Seolyeon / SecretSeoul | [Demo](https://butterball-run.jeraldine-t.chatgpt.site) · [Original](https://x.com/SecretSeoul/status/2097315757931811081) |
+| [Sundrift — Take the Slow Way Home](https://carpentry-liu.github.io/awesome-astra-3d/#case=wesche-sundrift) | Wësche / @WescheNex1q | [Demo](https://wesche.com/lab/astra/boat-explorer/) · [Original](https://x.com/WescheNex1q/status/2100043868565561533) |
+| [Duck Off](https://carpentry-liu.github.io/awesome-astra-3d/#case=swarnim-duck-off) | swarnim.eth / @swarnimodi | [Demo](https://duckoff.fun/) · [Original](https://x.com/swarnimodi/status/2100196454367437275) |
+| [Wildwake Rally](https://carpentry-liu.github.io/awesome-astra-3d/#case=defy-wildwake-rally) | DefyEntropyV | [Demo](https://wildwake-rally.vercel.app/) · [Original](https://x.com/DefyEntropyV/status/2100226359649820721) |
+| [Starship Foundry — Isometric Flight Lab](https://carpentry-liu.github.io/awesome-astra-3d/#case=aaron-starship-foundry) | Aaron Wacker / @Aaron_Wacker | [Demo](https://allaiinc.org/Starship-Foundry-Isometric-Flight-Lab.html) · [Original](https://x.com/Aaron_Wacker/status/2100382539697254828) |
+| [Tideglass Hunt](https://carpentry-liu.github.io/awesome-astra-3d/#case=timlb-tideglass-hunt) | Timothée Le Borgne / @Tim_LB | [Demo](https://tideglass-hunt.timothee-leborgne.ohmyunicorn.com/) · [Original](https://x.com/Tim_LB/status/2100212668778828172) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md)

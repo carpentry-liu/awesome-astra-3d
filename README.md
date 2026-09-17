@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-09-17（Asia/Shanghai）**：**190 条 Astra 案例** · **56 条源码 / 工程** · **71 个演示入口** · **94 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-09-17（Asia/Shanghai）**：**200 条 Astra 案例** · **57 条源码 / 工程** · **81 个演示入口** · **94 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 ## 这次更新，先看效果
@@ -44,21 +44,19 @@
 
 ## 最新收录
 
-本轮新增 **7 条收录、5 段完整 X 视频、1 份源码 / 工程、6 个演示入口**：海边列车、深海探测器、玩具赛车、Vesper、DEAD END、武士森林和 VeilFall。**本轮收录不等于近日创作**，详情保留原始日期与完成程度。首页精选与三张网站实拍同步更新。
-
-**已有项目进展：** [Belt Runner](https://carpentry-liu.github.io/awesome-astra-3d/#case=nrivali-belt-runner) 补充近景 LOD 0、船体碰撞、雷达及配乐等后续里程碑；更新原记录，不重复计数。
+本轮新增 **10 条收录、1 份源码 / 工程、10 个演示入口**：Astra Floor、Canteen Crashers、Tideglass Hunt、Starship Foundry、Wildwake Rally、Duck Off、Sundrift、Butterball Run、Lantern Cove 和 Nightborn Clash。**本轮收录不等于近日创作**，详情保留原始日期与完成程度。多模型作品保留分工说明；Sundrift 仅收录作者标注的 Astra 对照版本。
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
-| [Last Train to the Sea：开往海边的三维列车](https://carpentry-liu.github.io/awesome-astra-3d/#case=aniket-last-train) | Aniket J / @aniketjart | [演示](https://app.usecrayon.ai/play/bda1b910-b840-48cb-bb4c-28d0cde29107) · [原始来源](https://x.com/aniketjart/status/2099652076829909064) |
-| [LANTERN S-4：有源码与生成记录的深海探测器](https://carpentry-liu.github.io/awesome-astra-3d/#case=kiln-abyssal-surveyor) | Matthew Kissinger / Kiln | [演示](https://kilnstudio.tools/#/abyssal-surveyor) · [源码](https://github.com/matthew-kissinger/kiln) · [原始来源](https://github.com/matthew-kissinger/kiln/blob/main/examples/abyssal-surveyor.provenance.json) |
-| [Hot Wheeler：桌面玩具赛车与回环赛道](https://carpentry-liu.github.io/awesome-astra-3d/#case=varun-hot-wheeler) | Varun Arora / @varavibes | [演示](https://hot-wheeler.vercel.app/) · [原始来源](https://x.com/varavibes/status/2099269587401580886) |
-| [Vesper：在沉没花园寻找最后的光](https://carpentry-liu.github.io/awesome-astra-3d/#case=kvickan-vesper) | kvickan / MansGullberg | [演示](https://vesper.mansgullberg.chatgpt.site/) · [原始来源](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/82) |
-| [DEAD END：把 Oakridge 关卡改成三维](https://carpentry-liu.github.io/awesome-astra-3d/#case=msd-dead-end) | Minsang Daniel Kim / @msdkim0424 | [演示](https://dead-end.replit.app/) · [原始来源](https://x.com/msdkim0424/status/2099852357660262425) |
-| [武士森林：Astra 编排与 Rodin 角色](https://carpentry-liu.github.io/awesome-astra-3d/#case=jaynit-samurai-forest) | Jaynit Makwana / @JaynitMakwana | [原始来源](https://x.com/JaynitMakwana/status/2099450933067612421) |
-| [VeilFall：仍在开发的三维战斗试炼](https://carpentry-liu.github.io/awesome-astra-3d/#case=noni-veilfall) | Shehnoor Ansari (Noni) / @Noni_Shehnoor | [演示](https://veilfall.replit.app/play) · [原始来源](https://x.com/Noni_Shehnoor/status/2099641097030959469) |
-| [锦鲤池：鱼群、涟漪与水面交互](https://carpentry-liu.github.io/awesome-astra-3d/#case=vib3-koi-pond) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2098492771170722032) |
+| [Nightborn Clash：血裔三维街机决斗](https://carpentry-liu.github.io/awesome-astra-3d/#case=cloak-nightborn-clash) | Cloaker Vampiror / @CloakofEcstasy | [演示](https://nightborn-clash.dixonefg5.chatgpt.site) · [原始来源](https://x.com/CloakofEcstasy/status/2098415220645564857) |
+| [Lantern Cove：猴岛风格三维冒险原型](https://carpentry-liu.github.io/awesome-astra-3d/#case=akartit-lantern-cove) | AK / @akartit | [演示](https://lantern-cove.akartit.chatgpt.site/) · [原始来源](https://x.com/akartit/status/2096520784449613981) |
+| [Butterball Run：餐盘上的黄油球救援](https://carpentry-liu.github.io/awesome-astra-3d/#case=secretseoul-butterball-run) | Seolyeon / SecretSeoul | [演示](https://butterball-run.jeraldine-t.chatgpt.site) · [原始来源](https://x.com/SecretSeoul/status/2097315757931811081) |
+| [Sundrift：四模型对照中的 Astra 船只探索](https://carpentry-liu.github.io/awesome-astra-3d/#case=wesche-sundrift) | Wësche / @WescheNex1q | [演示](https://wesche.com/lab/astra/boat-explorer/) · [原始来源](https://x.com/WescheNex1q/status/2100043868565561533) |
+| [Duck Off：河道鸭子竞速](https://carpentry-liu.github.io/awesome-astra-3d/#case=swarnim-duck-off) | swarnim.eth / @swarnimodi | [演示](https://duckoff.fun/) · [原始来源](https://x.com/swarnimodi/status/2100196454367437275) |
+| [Wildwake Rally：低多边形山地拉力](https://carpentry-liu.github.io/awesome-astra-3d/#case=defy-wildwake-rally) | DefyEntropyV | [演示](https://wildwake-rally.vercel.app/) · [原始来源](https://x.com/DefyEntropyV/status/2100226359649820721) |
+| [Starship Foundry：等距拼装与飞行实验室](https://carpentry-liu.github.io/awesome-astra-3d/#case=aaron-starship-foundry) | Aaron Wacker / @Aaron_Wacker | [演示](https://allaiinc.org/Starship-Foundry-Isometric-Flight-Lab.html) · [原始来源](https://x.com/Aaron_Wacker/status/2100382539697254828) |
+| [Tideglass Hunt：海岸竞技场三维狩猎](https://carpentry-liu.github.io/awesome-astra-3d/#case=timlb-tideglass-hunt) | Timothée Le Borgne / @Tim_LB | [演示](https://tideglass-hunt.timothee-leborgne.ohmyunicorn.com/) · [原始来源](https://x.com/Tim_LB/status/2100212668778828172) |
 <!-- atlas:latest:end -->
 
 [查看完整更新目录 →](UPDATES.md)
