@@ -6,6 +6,8 @@
 
 ## 路线一：打开一个 Blender 工程
 
+9 月 17 日补充另一种模型制作路线：[Kiln / LANTERN S-4](https://github.com/matthew-kissinger/kiln/blob/main/examples/abyssal-surveyor.kiln.js) 用 JavaScript 建立深海探测器，可对照源码、GLB 与单件 `provenance.json` 研究曲面和装配。仅该作品明确归于 Astra；仓库其他作品使用不同模型。先读来源记录中的人工反馈与机械验证限制。
+
 从 [Simon Willison 的鹈鹕骑车](https://github.com/simonw/gpt-6-astra-blender-pelican-bicycle) 入手。作者保留了三轮 `.blend`、Python 脚本与对话记录，适合对照“提出什么要求 → 哪些内容发生变化”。
 
 建议第一次只做一个小改动，例如换材质或改镜头。先检查模型结构、外部素材依赖与作者环境，再尝试扩展场景。不要把渲染图当作已经拿到模型文件。
@@ -42,7 +44,7 @@
 
 ## 路线三：研究一个完整游戏
 
-9 月 14 日补充：[Belt Runner Godot 4 移植](https://github.com/nrivali/BeltRunnerGoDot4) 展示如何把作者归为 Astra 制作的 Blender / GLB 资产接入 Godot。先对照第四里程碑的模型清单与当前文件，再研究场景和导入设置；部分动画仍待完成，原浏览器仓库当前不可访问，归因只覆盖已说明的资产。
+9 月 14 日补充：[Belt Runner Godot 4 移植](https://github.com/nrivali/BeltRunnerGoDot4) 展示如何把作者归为 Astra 制作的 Blender / GLB 资产接入 Godot。9 月 17 日复查已推进至后续里程碑，包含近景 LOD 0、船体碰撞、雷达和配乐；先对照最新 README 与模型文件，机翼选择和船体配色仍待移植，原浏览器仓库当前不可访问，归因只覆盖已说明的资产。
 
 想看单文件游戏，选择 [Mosswing](https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/mosswing)，配合仓库中的原始任务阅读。作者提供的在线演示可能有访问限制，HTML 产物另行公开。
 

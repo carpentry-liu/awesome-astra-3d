@@ -13,24 +13,24 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-09-14（Asia/Shanghai）**：**183 条 Astra 案例** · **55 条源码 / 工程** · **65 个演示入口** · **89 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-09-17（Asia/Shanghai）**：**190 条 Astra 案例** · **56 条源码 / 工程** · **71 个演示入口** · **94 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 ## 这次更新，先看效果
 
-| 水面交互 · 锦鲤池 | 已有模型 · UV 重整 | 数据地图 · City Pulse |
+| 海边列车 · Last Train | 可编辑模型 · LANTERN S-4 | 解谜冒险 · Vesper |
 | --- | --- | --- |
-| [![Interactive Koi Pond — Vib3Coded / @vib3coded](https://pbs.twimg.com/amplify_video_thumb/2098492548230819840/img/Ef2C6HYFlzwwlNre.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=vib3-koi-pond) | [![Existing Tripo Model — UV Layout and Rebake — さ🥺 / @_sagyoai](https://pbs.twimg.com/media/HSEQFCuasAATdDP.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=sagyo-uv-rebake) | [![City Pulse — NYC Taxi Time Map — Seoyeon Jun 📊 / @tableau_viz](https://pbs.twimg.com/amplify_video_thumb/2098063330032435201/img/2FzQHs6t_0FG_5o7.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=seoyeon-city-pulse) |
-| 程序化生物 · 鱿鱼群 | 延续精选 · AtAt Orb | 延续精选 · Skybound |
-| [![Procedural Squid Shoal — Vib3Coded / @vib3coded](https://pbs.twimg.com/amplify_video_thumb/2098042921576734720/img/8Go_80pnT47iG_p5.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=vib3-squid-shoal) | [![AtAt Orb — Eight Animated Expressions — Xinyao / AtAt](https://atatapp.com/blog/3d-orb/model-render.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=atat-animated-orb) | [![Skybound Dragon Flight — Aakash Kanojiya / @Kanojiyaaakash1](https://pbs.twimg.com/amplify_video_thumb/2098739148647800832/img/zWopw7KQJmPI7It3.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=aakash-skybound) |
+| [![Last Train to the Sea — Aniket J / @aniketjart](https://pbs.twimg.com/amplify_video_thumb/2099651681910992896/img/DF5BMddGcBWIhYbV.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=aniket-last-train) | [![LANTERN S-4 — Abyssal Surveyor — Matthew Kissinger / Kiln](https://assets.kilnstudio.tools/renders/abyssal-surveyor.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=kiln-abyssal-surveyor) | [![Vesper — The Last Light — kvickan / MansGullberg](https://i.imgur.com/yGwD5gf.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=kvickan-vesper) |
+| 玩具赛车 · Hot Wheeler | 三维关卡 · DEAD END | 混合工具 · 武士森林 |
+| [![Hot Wheeler — Varun Arora / @varavibes](https://pbs.twimg.com/amplify_video_thumb/2099269396233658368/img/J4Xg_RGG6zDTXI7h.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=varun-hot-wheeler) | [![DEAD END — Oakridge 3D — Minsang Daniel Kim / @msdkim0424](https://pbs.twimg.com/amplify_video_thumb/2099851484175466496/img/J4g8YkopypoCM-rv.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=msd-dead-end) | [![Samurai Forest — Astra and Rodin — Jaynit Makwana / @JaynitMakwana](https://pbs.twimg.com/amplify_video_thumb/2099450912301584384/img/U6MEEycgCqcxgO1-.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=jaynit-samurai-forest) |
 
-点击图片查看作者与材料。前四张是本次新收录，AtAt 与 Skybound 为延续精选；Belt Runner 新增工程入口，暂缺作品截图。UV 案例处理已有 Tripo 模型，Skybound 的龙由 Rodin 生成，保留各工具分工。
+点击图片查看作者、完整录像与材料。六张均为本轮新收录：LANTERN S-4 提供源码和单件生成记录；武士角色由 Rodin 生成，DEAD END 混合了导入素材。保留工具分工与实际完成程度。
 
 ## 网站实拍
 
-[![Astra 3D Atlas 正式网站首页](docs/media/homepage-2026-09-14.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 正式网站首页](docs/media/homepage-2026-09-17.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-本次更新实拍 · 2026-09-14。点击图片进入案例库。
+本次更新实拍 · 2026-09-17。点击图片进入案例库。
 
 ## 找到你的下一次创作
 
@@ -44,19 +44,21 @@
 
 ## 最新收录
 
-今天新增 **5 条收录、3 段完整 X 视频、1 份源码 / 工程**：锦鲤池、City Pulse 数据地图、已有模型 UV 重整、程序化鱿鱼群和 Belt Runner 移植。**今天收录不等于今天创作**，详情保留原始日期与完成程度。首页精选、上手路线和三张网站实拍同步更新。
+本轮新增 **7 条收录、5 段完整 X 视频、1 份源码 / 工程、6 个演示入口**：海边列车、深海探测器、玩具赛车、Vesper、DEAD END、武士森林和 VeilFall。**本轮收录不等于近日创作**，详情保留原始日期与完成程度。首页精选与三张网站实拍同步更新。
+
+**已有项目进展：** [Belt Runner](https://carpentry-liu.github.io/awesome-astra-3d/#case=nrivali-belt-runner) 补充近景 LOD 0、船体碰撞、雷达及配乐等后续里程碑；更新原记录，不重复计数。
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
+| [Last Train to the Sea：开往海边的三维列车](https://carpentry-liu.github.io/awesome-astra-3d/#case=aniket-last-train) | Aniket J / @aniketjart | [演示](https://app.usecrayon.ai/play/bda1b910-b840-48cb-bb4c-28d0cde29107) · [原始来源](https://x.com/aniketjart/status/2099652076829909064) |
+| [LANTERN S-4：有源码与生成记录的深海探测器](https://carpentry-liu.github.io/awesome-astra-3d/#case=kiln-abyssal-surveyor) | Matthew Kissinger / Kiln | [演示](https://kilnstudio.tools/#/abyssal-surveyor) · [源码](https://github.com/matthew-kissinger/kiln) · [原始来源](https://github.com/matthew-kissinger/kiln/blob/main/examples/abyssal-surveyor.provenance.json) |
+| [Hot Wheeler：桌面玩具赛车与回环赛道](https://carpentry-liu.github.io/awesome-astra-3d/#case=varun-hot-wheeler) | Varun Arora / @varavibes | [演示](https://hot-wheeler.vercel.app/) · [原始来源](https://x.com/varavibes/status/2099269587401580886) |
+| [Vesper：在沉没花园寻找最后的光](https://carpentry-liu.github.io/awesome-astra-3d/#case=kvickan-vesper) | kvickan / MansGullberg | [演示](https://vesper.mansgullberg.chatgpt.site/) · [原始来源](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/82) |
+| [DEAD END：把 Oakridge 关卡改成三维](https://carpentry-liu.github.io/awesome-astra-3d/#case=msd-dead-end) | Minsang Daniel Kim / @msdkim0424 | [演示](https://dead-end.replit.app/) · [原始来源](https://x.com/msdkim0424/status/2099852357660262425) |
+| [武士森林：Astra 编排与 Rodin 角色](https://carpentry-liu.github.io/awesome-astra-3d/#case=jaynit-samurai-forest) | Jaynit Makwana / @JaynitMakwana | [原始来源](https://x.com/JaynitMakwana/status/2099450933067612421) |
+| [VeilFall：仍在开发的三维战斗试炼](https://carpentry-liu.github.io/awesome-astra-3d/#case=noni-veilfall) | Shehnoor Ansari (Noni) / @Noni_Shehnoor | [演示](https://veilfall.replit.app/play) · [原始来源](https://x.com/Noni_Shehnoor/status/2099641097030959469) |
 | [锦鲤池：鱼群、涟漪与水面交互](https://carpentry-liu.github.io/awesome-astra-3d/#case=vib3-koi-pond) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2098492771170722032) |
-| [City Pulse：纽约出租车的三维时间地图](https://carpentry-liu.github.io/awesome-astra-3d/#case=seoyeon-city-pulse) | Seoyeon Jun 📊 / @tableau_viz | [原始来源](https://x.com/tableau_viz/status/2098063352832610473) |
-| [已有 Tripo 模型：整理 UV 并重新烘焙贴图](https://carpentry-liu.github.io/awesome-astra-3d/#case=sagyo-uv-rebake) | さ🥺 / @_sagyoai | [原始来源](https://x.com/_sagyoai/status/2098980384260456813) |
-| [鱿鱼群：用方程驱动身体和触手](https://carpentry-liu.github.io/awesome-astra-3d/#case=vib3-squid-shoal) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2098043033446912315) |
-| [Belt Runner：把 Astra 模型接入 Godot 4](https://carpentry-liu.github.io/awesome-astra-3d/#case=nrivali-belt-runner) | nrivali | [源码](https://github.com/nrivali/BeltRunnerGoDot4) · [原始来源](https://github.com/nrivali/BeltRunnerGoDot4) |
-| [Skybound：骑着飞龙穿越空中群岛](https://carpentry-liu.github.io/awesome-astra-3d/#case=aakash-skybound) | Aakash Kanojiya / @Kanojiyaaakash1 | [原始来源](https://x.com/Kanojiyaaakash1/status/2098739181510164652) |
-| [AtAt Orb：从 Logo 到八种动作的产品角色](https://carpentry-liu.github.io/awesome-astra-3d/#case=atat-animated-orb) | Xinyao / AtAt | [演示](https://atatapp.com/blog/how-i-built-atats-3d-orb-with-gpt-6-astra) · [原始来源](https://atatapp.com/blog/how-i-built-atats-3d-orb-with-gpt-6-astra) |
-| [1893 芝加哥世博会：历史图像到三维漫游](https://carpentry-liu.github.io/awesome-astra-3d/#case=dan-chicago-fair) | Dan Elton / @moreisdifferent | [原始来源](https://x.com/moreisdifferent/status/2098795017955418202) |
 <!-- atlas:latest:end -->
 
 [查看完整更新目录 →](UPDATES.md)
@@ -70,11 +72,11 @@
 - 手机布局、键盘操作与图片失败提示均保留；方法参考与 Astra 案例分别呈现。
 
 <details>
-<summary>查看案例区与手机实拍 · 2026-09-14</summary>
+<summary>查看案例区与手机实拍 · 2026-09-17</summary>
 
-[![最新案例与分类侧栏](docs/media/collection-2026-09-14.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![最新案例与分类侧栏](docs/media/collection-2026-09-17.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端欢迎页，精选作品与资源导航](docs/media/mobile-2026-09-14.jpg)
+![手机端欢迎页，精选作品与资源导航](docs/media/mobile-2026-09-17.jpg)
 
 </details>
 

@@ -13,24 +13,24 @@ Explore GPT-6 Astra in 3D: Blender, Houdini, Three.js, WebGL, CAD, VRM and inter
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-09-14 (Asia/Shanghai)** · **183 Astra examples** · **55 source / project links** · **65 demo links** · **89 complete videos** · **12 separate references**.
+Updated **2026-09-17 (Asia/Shanghai)** · **190 Astra examples** · **56 source / project links** · **71 demo links** · **94 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 ## New work, at a glance
 
-| Water interaction · Koi pond | Existing model · UV rebake | Data map · City Pulse |
+| Coastal train · Last Train | Editable model · LANTERN S-4 | Adventure · Vesper |
 | --- | --- | --- |
-| [![Interactive Koi Pond — Vib3Coded / @vib3coded](https://pbs.twimg.com/amplify_video_thumb/2098492548230819840/img/Ef2C6HYFlzwwlNre.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=vib3-koi-pond) | [![Existing Tripo Model — UV Layout and Rebake — さ🥺 / @_sagyoai](https://pbs.twimg.com/media/HSEQFCuasAATdDP.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=sagyo-uv-rebake) | [![City Pulse — NYC Taxi Time Map — Seoyeon Jun 📊 / @tableau_viz](https://pbs.twimg.com/amplify_video_thumb/2098063330032435201/img/2FzQHs6t_0FG_5o7.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=seoyeon-city-pulse) |
-| Procedural life · Squid shoal | Continuing pick · AtAt Orb | Continuing pick · Skybound |
-| [![Procedural Squid Shoal — Vib3Coded / @vib3coded](https://pbs.twimg.com/amplify_video_thumb/2098042921576734720/img/8Go_80pnT47iG_p5.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=vib3-squid-shoal) | [![AtAt Orb — Eight Animated Expressions — Xinyao / AtAt](https://atatapp.com/blog/3d-orb/model-render.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=atat-animated-orb) | [![Skybound Dragon Flight — Aakash Kanojiya / @Kanojiyaaakash1](https://pbs.twimg.com/amplify_video_thumb/2098739148647800832/img/zWopw7KQJmPI7It3.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=aakash-skybound) |
+| [![Last Train to the Sea — Aniket J / @aniketjart](https://pbs.twimg.com/amplify_video_thumb/2099651681910992896/img/DF5BMddGcBWIhYbV.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=aniket-last-train) | [![LANTERN S-4 — Abyssal Surveyor — Matthew Kissinger / Kiln](https://assets.kilnstudio.tools/renders/abyssal-surveyor.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=kiln-abyssal-surveyor) | [![Vesper — The Last Light — kvickan / MansGullberg](https://i.imgur.com/yGwD5gf.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=kvickan-vesper) |
+| Toy racing · Hot Wheeler | 3D level · DEAD END | Mixed tools · Samurai Forest |
+| [![Hot Wheeler — Varun Arora / @varavibes](https://pbs.twimg.com/amplify_video_thumb/2099269396233658368/img/J4Xg_RGG6zDTXI7h.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=varun-hot-wheeler) | [![DEAD END — Oakridge 3D — Minsang Daniel Kim / @msdkim0424](https://pbs.twimg.com/amplify_video_thumb/2099851484175466496/img/J4g8YkopypoCM-rv.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=msd-dead-end) | [![Samurai Forest — Astra and Rodin — Jaynit Makwana / @JaynitMakwana](https://pbs.twimg.com/amplify_video_thumb/2099450912301584384/img/U6MEEycgCqcxgO1-.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=jaynit-samurai-forest) |
 
-The first four images are new additions; AtAt and Skybound remain continuing picks. The new Belt Runner project has no verified screenshot. UV rebaking starts from a Tripo model, and Rodin generated the Skybound dragon; tool contributions remain explicit.
+Six new additions, linked to creator credits and materials. LANTERN S-4 includes source and asset-specific provenance. The samurai character comes from Rodin; DEAD END mixes generated and imported assets. Tool roles and completion limits remain explicit.
 
 ## Live website preview
 
-[![Astra 3D Atlas live homepage](docs/media/homepage-2026-09-14.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas live homepage](docs/media/homepage-2026-09-17.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-Captured from this update on September 14, 2026. Click to explore the gallery.
+Captured from this update on September 17, 2026. Click to explore the gallery.
 
 ## Choose a starting point
 
@@ -44,19 +44,21 @@ Captured from this update on September 14, 2026. Click to explore the gallery.
 
 ## Latest additions
 
-Today adds **5 examples, 3 complete X videos and 1 source / project link**: a koi pond, City Pulse, UV rebaking, a squid shoal and the Belt Runner port. **Added today does not mean created today**; original dates and completion limits remain visible. Featured work, learning paths and three website screenshots are refreshed.
+This refresh adds **7 examples, 5 complete X videos, 1 source project and 6 demo links**: Last Train, LANTERN S-4, Hot Wheeler, Vesper, DEAD END, Samurai Forest and VeilFall. **Newly collected does not mean newly created**; original dates and completion limits remain visible. Featured work and three website screenshots are refreshed.
+
+**Project progress:** [Belt Runner](https://carpentry-liu.github.io/awesome-astra-3d/#case=nrivali-belt-runner) now documents LOD 0, hull collision, radar and music milestones. Its existing record is updated without adding a duplicate.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [Last Train to the Sea](https://carpentry-liu.github.io/awesome-astra-3d/#case=aniket-last-train) | Aniket J / @aniketjart | [Demo](https://app.usecrayon.ai/play/bda1b910-b840-48cb-bb4c-28d0cde29107) · [Original](https://x.com/aniketjart/status/2099652076829909064) |
+| [LANTERN S-4 — Abyssal Surveyor](https://carpentry-liu.github.io/awesome-astra-3d/#case=kiln-abyssal-surveyor) | Matthew Kissinger / Kiln | [Demo](https://kilnstudio.tools/#/abyssal-surveyor) · [Source](https://github.com/matthew-kissinger/kiln) · [Original](https://github.com/matthew-kissinger/kiln/blob/main/examples/abyssal-surveyor.provenance.json) |
+| [Hot Wheeler](https://carpentry-liu.github.io/awesome-astra-3d/#case=varun-hot-wheeler) | Varun Arora / @varavibes | [Demo](https://hot-wheeler.vercel.app/) · [Original](https://x.com/varavibes/status/2099269587401580886) |
+| [Vesper — The Last Light](https://carpentry-liu.github.io/awesome-astra-3d/#case=kvickan-vesper) | kvickan / MansGullberg | [Demo](https://vesper.mansgullberg.chatgpt.site/) · [Original](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/82) |
+| [DEAD END — Oakridge 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=msd-dead-end) | Minsang Daniel Kim / @msdkim0424 | [Demo](https://dead-end.replit.app/) · [Original](https://x.com/msdkim0424/status/2099852357660262425) |
+| [Samurai Forest — Astra and Rodin](https://carpentry-liu.github.io/awesome-astra-3d/#case=jaynit-samurai-forest) | Jaynit Makwana / @JaynitMakwana | [Original](https://x.com/JaynitMakwana/status/2099450933067612421) |
+| [VeilFall — God’s Heart](https://carpentry-liu.github.io/awesome-astra-3d/#case=noni-veilfall) | Shehnoor Ansari (Noni) / @Noni_Shehnoor | [Demo](https://veilfall.replit.app/play) · [Original](https://x.com/Noni_Shehnoor/status/2099641097030959469) |
 | [Interactive Koi Pond](https://carpentry-liu.github.io/awesome-astra-3d/#case=vib3-koi-pond) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2098492771170722032) |
-| [City Pulse — NYC Taxi Time Map](https://carpentry-liu.github.io/awesome-astra-3d/#case=seoyeon-city-pulse) | Seoyeon Jun 📊 / @tableau_viz | [Original](https://x.com/tableau_viz/status/2098063352832610473) |
-| [Existing Tripo Model — UV Layout and Rebake](https://carpentry-liu.github.io/awesome-astra-3d/#case=sagyo-uv-rebake) | さ🥺 / @_sagyoai | [Original](https://x.com/_sagyoai/status/2098980384260456813) |
-| [Procedural Squid Shoal](https://carpentry-liu.github.io/awesome-astra-3d/#case=vib3-squid-shoal) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2098043033446912315) |
-| [Belt Runner — Astra Assets in Godot 4](https://carpentry-liu.github.io/awesome-astra-3d/#case=nrivali-belt-runner) | nrivali | [Source](https://github.com/nrivali/BeltRunnerGoDot4) · [Original](https://github.com/nrivali/BeltRunnerGoDot4) |
-| [Skybound Dragon Flight](https://carpentry-liu.github.io/awesome-astra-3d/#case=aakash-skybound) | Aakash Kanojiya / @Kanojiyaaakash1 | [Original](https://x.com/Kanojiyaaakash1/status/2098739181510164652) |
-| [AtAt Orb — Eight Animated Expressions](https://carpentry-liu.github.io/awesome-astra-3d/#case=atat-animated-orb) | Xinyao / AtAt | [Demo](https://atatapp.com/blog/how-i-built-atats-3d-orb-with-gpt-6-astra) · [Original](https://atatapp.com/blog/how-i-built-atats-3d-orb-with-gpt-6-astra) |
-| [Chicago World’s Fair 1893 Reconstruction](https://carpentry-liu.github.io/awesome-astra-3d/#case=dan-chicago-fair) | Dan Elton / @moreisdifferent | [Original](https://x.com/moreisdifferent/status/2098795017955418202) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md)
@@ -68,11 +70,11 @@ Three featured works are visible together. Desktop navigation places categories 
 The interface is in Chinese; English project names, tools and creators are searchable. Keyboard navigation, a mobile layout and image failure states are supported.
 
 <details>
-<summary>Gallery and mobile screenshots · September 14, 2026</summary>
+<summary>Gallery and mobile screenshots · September 17, 2026</summary>
 
-[![Latest examples and category sidebar](docs/media/collection-2026-09-14.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![Latest examples and category sidebar](docs/media/collection-2026-09-17.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![Mobile welcome page and resource navigation](docs/media/mobile-2026-09-14.jpg)
+![Mobile welcome page and resource navigation](docs/media/mobile-2026-09-17.jpg)
 
 </details>
 

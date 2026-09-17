@@ -79,6 +79,372 @@
     "addedAt": "2026-09-06"
   },
   {
+    "id": "aniket-last-train",
+    "title": "Last Train to the Sea：开往海边的三维列车",
+    "titleEn": "Last Train to the Sea",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Aniket J / @aniketjart",
+    "sourceUrl": "https://x.com/aniketjart/status/2099652076829909064",
+    "sourceDate": "2026-09-15",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-17",
+    "addedAt": "2026-09-17",
+    "modelLabel": "GPT-6 Astra + Crayon + Three.js",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Aniket J 展示温暖动画风格的三维列车模拟：操作列车、沿海岸行驶，并公开浏览器入口。作者明确说明 GPT-6 Astra 参与实现、Crayon 用于界面、Three.js 用于三维表现；原帖说制作经历了一段时间并计划继续更新，不属于已核验的一次提示成品。",
+    "outputType": [
+      "Three.js 列车场景",
+      "浏览器游戏",
+      "完整运行录像"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2099651681910992896/img/DF5BMddGcBWIhYbV.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者 Last Train to the Sea 原帖运行录像封面。 附完整视频及最高码率下载。",
+    "demoUrl": "https://app.usecrayon.ai/play/bda1b910-b840-48cb-bb4c-28d0cde29107",
+    "videoUrl": "https://x.com/aniketjart/status/2099652076829909064",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/aniketjart/status/2099652076829909064",
+      "https://api.fxtwitter.com/status/2099652076829909064"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/aniket-last-train-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-17/aniket-last-train-1-original.mp4",
+        "durationSeconds": 58.21,
+        "bytes": 76483771,
+        "sha256": "4b9e1907c5e0bff1e75b8e5d98229bc19274e033706edb876d6dc40ce2658596",
+        "sourceUrl": "https://x.com/aniketjart/status/2099652076829909064",
+        "label": "Last Train to the Sea 完整演示",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2099651681910992896/img/DF5BMddGcBWIhYbV.jpg"
+      }
+    ]
+  },
+  {
+    "id": "kiln-abyssal-surveyor",
+    "title": "LANTERN S-4：有源码与生成记录的深海探测器",
+    "titleEn": "LANTERN S-4 — Abyssal Surveyor",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "Matthew Kissinger / Kiln",
+    "sourceUrl": "https://github.com/matthew-kissinger/kiln/blob/main/examples/abyssal-surveyor.provenance.json",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-17",
+    "addedAt": "2026-09-17",
+    "modelLabel": "GPT-6 Astra / Codex（单件作品记录）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "该作品 provenance.json 明确标注 GPT-6 Astra / Codex，并区分作者提供的模型配置与服务商内部证明；不采用首页其他作品的冲突标签。",
+    "sourceAccess": "直接读取仓库、该作品源码与 provenance.json，核实模型标签和作者记录的限制；未在本库重建。authoredDate 为创作日期，未作为原始发表日期填入。",
+    "summary": "Kiln 的深海探测器以 JavaScript 构造曲面艇体、推进器与采样臂，提供源码、GLB 和交互查看。单件作品记录明确标注 Codex / GPT-6 Astra、2026-09-05 的创作及维护者反馈；修正了机械臂连接和支架，但未验证内部间隙或工程功能。作为一个具体程序化资产收录，不把整个多模型图库归于 Astra。",
+    "outputType": [
+      "JavaScript 程序化建模",
+      "GLB 模型",
+      "作品来源记录"
+    ],
+    "promptAvailability": "作者公开创作条件与修订说明，未取得逐字完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": "按艺术指导建立探测器，用 GPU 视图检查整体和采样臂，再根据反馈修正连接与后方支架。",
+    "promptUrl": "https://github.com/matthew-kissinger/kiln/blob/main/examples/abyssal-surveyor.provenance.json",
+    "imageUrl": "https://assets.kilnstudio.tools/renders/abyssal-surveyor.png",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者从可下载 GLB 渲染的深海探测器图；对应单件作品的来源与渲染校验记录。",
+    "demoUrl": "https://kilnstudio.tools/#/abyssal-surveyor",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/matthew-kissinger/kiln",
+    "evidenceUrls": [
+      "https://github.com/matthew-kissinger/kiln/blob/main/examples/abyssal-surveyor.provenance.json",
+      "https://github.com/matthew-kissinger/kiln/blob/main/examples/abyssal-surveyor.kiln.js",
+      "https://github.com/matthew-kissinger/kiln/blob/main/docs/example-provenance.md"
+    ],
+    "licenseNotes": "仓库标注 MIT；使用代码和模型时保留相应版权与许可说明，另行核对第三方素材条款。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "varun-hot-wheeler",
+    "title": "Hot Wheeler：桌面玩具赛车与回环赛道",
+    "titleEn": "Hot Wheeler",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Varun Arora / @varavibes",
+    "sourceUrl": "https://x.com/varavibes/status/2099269587401580886",
+    "sourceDate": "2026-09-13",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-17",
+    "addedAt": "2026-09-17",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Varun Arora 用 GPT-6 Astra 制作浏览器玩具赛车，展示回环、氮气加速和喷火龙，并允许在场景中放置车辆。原帖明确说明利用周末迭代；本条保留在线入口和完整视频，没有把未公开的开发过程描述为一次完成。",
+    "outputType": [
+      "浏览器赛车",
+      "三维回环赛道",
+      "车辆放置"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2099269396233658368/img/J4Xg_RGG6zDTXI7h.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者 Hot Wheeler 原帖的赛车录像封面。 附完整视频及最高码率下载。",
+    "demoUrl": "https://hot-wheeler.vercel.app/",
+    "videoUrl": "https://x.com/varavibes/status/2099269587401580886",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/varavibes/status/2099269587401580886",
+      "https://api.fxtwitter.com/status/2099269587401580886"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/varun-hot-wheeler-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-17/varun-hot-wheeler-1-original.mp4",
+        "durationSeconds": 26.05,
+        "bytes": 15542072,
+        "sha256": "fd7b95e2ddf76c4bef6a6ab4b200731a94a535533046ef6600c7e03112f056a4",
+        "sourceUrl": "https://x.com/varavibes/status/2099269587401580886",
+        "label": "Hot Wheeler 完整演示",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2099269396233658368/img/J4Xg_RGG6zDTXI7h.jpg"
+      }
+    ]
+  },
+  {
+    "id": "kvickan-vesper",
+    "title": "Vesper：在沉没花园寻找最后的光",
+    "titleEn": "Vesper — The Last Light",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "kvickan / MansGullberg",
+    "sourceUrl": "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/82",
+    "sourceDate": "2026-09-14",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-17",
+    "addedAt": "2026-09-17",
+    "modelLabel": "GPT-6 Astra / Codex（medium、high、extra high，作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "投稿账号 MansGullberg 以 kvickan 署名，明确说明 Astra 的使用档位、持续迭代与人类指导。",
+    "sourceAccess": "直接读取 GitHub 作者投稿、发布时刻、截图与游戏链接；作者建议桌面键鼠，手机尚未充分测试。",
+    "summary": "作者投稿的第三人称冒险，围绕发光核心、光束和沉没花园中的机关展开，提供可直接打开的浏览器游戏。作者说明用 Codex 中的 Astra 多个推理档位持续制作约 40—50 小时，并有人类指导；耗时和三关完成度为作者自述，未独立验证完整流程。",
+    "outputType": [
+      "三维解谜冒险",
+      "浏览器交互"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://i.imgur.com/yGwD5gf.png",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者在项目投稿中提供的 Vesper 实机截图，标注日期 2026-09-14。",
+    "demoUrl": "https://vesper.mansgullberg.chatgpt.site/",
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/82"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "msd-dead-end",
+    "title": "DEAD END：把 Oakridge 关卡改成三维",
+    "titleEn": "DEAD END — Oakridge 3D",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Minsang Daniel Kim / @msdkim0424",
+    "sourceUrl": "https://x.com/msdkim0424/status/2099852357660262425",
+    "sourceDate": "2026-09-15",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-17",
+    "addedAt": "2026-09-17",
+    "modelLabel": "Astra + Replit + Three.js Assets（混合资产）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Minsang Daniel Kim 把已有游戏中的一个关卡用 Astra 改成三维，运行于 Replit，并引入 Three.js Assets 场景素材。作者特别区分了 Astra 输出的枪械和敌人与导入的其他资产，也指出质量仍有不足。本条对应 Oakridge 3D，不把同站的二维玩法和其他模型版本统一归于 Astra。",
+    "outputType": [
+      "三维关卡改编",
+      "既有素材整合",
+      "浏览器游戏"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2099851484175466496/img/J4g8YkopypoCM-rv.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者 Oakridge 三维关卡录像封面；场景包含导入的 Three.js Assets 素材。 附完整视频及最高码率下载。",
+    "demoUrl": "https://dead-end.replit.app/",
+    "videoUrl": "https://x.com/msdkim0424/status/2099852357660262425",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/msdkim0424/status/2099852357660262425",
+      "https://api.fxtwitter.com/status/2099852357660262425"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/msd-dead-end-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-17/msd-dead-end-1-original.mp4",
+        "durationSeconds": 73.86,
+        "bytes": 24031111,
+        "sha256": "4ae369640070d8dd97f78a38858c644f1381a9212b3412f95f67e74a35df4892",
+        "sourceUrl": "https://x.com/msdkim0424/status/2099852357660262425",
+        "label": "DEAD END Oakridge 3D 完整演示",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2099851484175466496/img/J4g8YkopypoCM-rv.jpg"
+      }
+    ]
+  },
+  {
+    "id": "jaynit-samurai-forest",
+    "title": "武士森林：Astra 编排与 Rodin 角色",
+    "titleEn": "Samurai Forest — Astra and Rodin",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Jaynit Makwana / @JaynitMakwana",
+    "sourceUrl": "https://x.com/JaynitMakwana/status/2099450933067612421",
+    "sourceDate": "2026-09-14",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-17",
+    "addedAt": "2026-09-17",
+    "modelLabel": "GPT-6 Astra + Hyper3D Rodin MCP",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Jaynit Makwana 展示浏览器中的武士森林场景。Astra 负责代码与关卡编排，通过 Hyper3D Rodin MCP 生成武士模型后接入场景；基础角色几何由 Rodin 制作。原帖宣称单次提示，未公开完整轨迹或独立试玩地址，本库仅保存完整展示录像。",
+    "outputType": [
+      "三维森林场景",
+      "外部角色资产生成",
+      "浏览器交互演示"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2099450912301584384/img/U6MEEycgCqcxgO1-.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者武士森林原帖视频封面；武士模型来自 Rodin，非 Astra 从零建模。 附完整视频及最高码率下载。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/JaynitMakwana/status/2099450933067612421",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/JaynitMakwana/status/2099450933067612421",
+      "https://api.fxtwitter.com/status/2099450933067612421"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/jaynit-samurai-forest-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-17/jaynit-samurai-forest-1-original.mp4",
+        "durationSeconds": 24.63,
+        "bytes": 3589089,
+        "sha256": "5b2b7ec21dffec0e1a3355ede2cfbbd782d1b33d63b145c1a618b2329530dbc4",
+        "sourceUrl": "https://x.com/JaynitMakwana/status/2099450933067612421",
+        "label": "武士森林完整场景演示",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2099450912301584384/img/U6MEEycgCqcxgO1-.jpg"
+      }
+    ]
+  },
+  {
+    "id": "noni-veilfall",
+    "title": "VeilFall：仍在开发的三维战斗试炼",
+    "titleEn": "VeilFall — God’s Heart",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Shehnoor Ansari (Noni) / @Noni_Shehnoor",
+    "sourceUrl": "https://x.com/Noni_Shehnoor/status/2099641097030959469",
+    "sourceDate": "2026-09-14",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-17",
+    "addedAt": "2026-09-17",
+    "modelLabel": "GPT-6 / Astra（作者标签）+ Replit",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Shehnoor Ansari 展示 Replit 上的 MOBA 风格游戏试作，原帖标注 GPT-6 / Astra 并明确说明仍在开发，建议桌面访问。作者提供开发中的试玩入口；不将这段演示等同于已经完成的多人竞技系统，资产来源和全量工程未公开。",
+    "outputType": [
+      "浏览器三维战斗",
+      "进行中的游戏原型"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2099641039220826112/img/_nd0WW348dlv4gSR.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者 VeilFall 开发中原型的完整录像封面。 附完整视频及最高码率下载。",
+    "demoUrl": "https://veilfall.replit.app/play",
+    "videoUrl": "https://x.com/Noni_Shehnoor/status/2099641097030959469",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/Noni_Shehnoor/status/2099641097030959469",
+      "https://api.fxtwitter.com/status/2099641097030959469"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "进行中的原型；未独立验证完整 MOBA 或多人对局。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/noni-veilfall-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-17/noni-veilfall-1-original.mp4",
+        "durationSeconds": 28.65,
+        "bytes": 18168035,
+        "sha256": "a8e95c1bb0b7c714ca655eda8b5f33fa506ee7ababd577f4231448cf9b6fc618",
+        "sourceUrl": "https://x.com/Noni_Shehnoor/status/2099641097030959469",
+        "label": "VeilFall 完整演示",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2099641039220826112/img/_nd0WW348dlv4gSR.jpg"
+      }
+    ]
+  },
+  {
     "id": "vib3-koi-pond",
     "title": "锦鲤池：鱼群、涟漪与水面交互",
     "titleEn": "Interactive Koi Pond",
@@ -304,14 +670,14 @@
     "sourceUrl": "https://github.com/nrivali/BeltRunnerGoDot4",
     "sourceDate": null,
     "secondaryPublishedAt": null,
-    "observedAt": "2026-09-14",
+    "observedAt": "2026-09-17",
     "addedAt": "2026-09-14",
     "modelLabel": "Astra 的 Blender 模型 + Godot 4 移植",
     "evidenceLevel": "author",
     "evidenceStatus": "已读取作者公开说明",
     "evidenceNote": "作者 README 明确将第四里程碑标为 Astra 的 Blender 模型；整套移植工具与精确模型版本未核明。",
-    "sourceAccess": "已读取公开 README 与递归目录，确认项目与 GLB 文件；README 所指原浏览器仓库当前返回 404，不提供为可用入口。",
-    "summary": "Godot 4 移植工程公开飞船、货运舰、行星和殖民地等 GLB。README 的第四里程碑明确把这些资产归为 Astra 的 Blender 模型，并说明它们复制自原浏览器项目；本条记录资产接入与移植，不把整个 Godot 游戏归为 Astra 从零制作。近景 LOD、部分舰船变化与动画仍列为待完成。",
+    "sourceAccess": "9 月 17 日重新读取 README 与文件目录，核对第 13—17 里程碑及新增 asteroids_lod0.glb；更新原记录，不重复计数。",
+    "summary": "Godot 4 移植工程公开 Astra 制作的 Blender / GLB 资产。9 月 17 日复查，README 已记录近景 LOD 0、船体碰撞、雷达脉冲、采矿热效应和程序化配乐等后续里程碑；机翼选择与船体配色仍未移植。归因只覆盖作者明确说明的 Astra 资产，整套 Godot 移植及作者测试记录未由本库独立复现。",
     "outputType": [
       "Godot 4 工程",
       "GLB 资产接入",
@@ -331,7 +697,7 @@
       "https://github.com/nrivali/BeltRunnerGoDot4"
     ],
     "licenseNotes": "当前仓库未发现明确 LICENSE；模型、代码与其他游戏内容的复用许可需要向作者核实。",
-    "outcome": "作者公开的移植工程；部分功能待完成，未独立运行游戏。"
+    "outcome": "持续开发的移植工程；作者新增多项功能记录，本库未独立运行。"
   },
   {
     "id": "aakash-skybound",

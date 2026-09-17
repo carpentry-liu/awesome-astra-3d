@@ -675,6 +675,68 @@
           "reason": "README, files and render were initially readable, but the repository and raw image returned 404 during the final 2026-09-14 check at 01:05 UTC. Confirmed via a separate web fetch; withdrew before publication instead of exposing a broken project or relying on cached images."
         }
       ]
+    },
+    {
+      "observedAt": "2026-09-17",
+      "batch": "recent-showcases",
+      "addedCount": 7,
+      "caseIds": [
+        "aniket-last-train",
+        "kiln-abyssal-surveyor",
+        "varun-hot-wheeler",
+        "kvickan-vesper",
+        "msd-dead-end",
+        "jaynit-samurai-forest",
+        "noni-veilfall"
+      ],
+      "updatedCaseIds": [
+        "nrivali-belt-runner"
+      ],
+      "sources": [
+        "https://x.com/aniketjart/status/2099652076829909064",
+        "https://github.com/matthew-kissinger/kiln/blob/main/examples/abyssal-surveyor.provenance.json",
+        "https://x.com/varavibes/status/2099269587401580886",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/82",
+        "https://x.com/msdkim0424/status/2099852357660262425",
+        "https://x.com/JaynitMakwana/status/2099450933067612421",
+        "https://x.com/Noni_Shehnoor/status/2099641097030959469",
+        "https://github.com/nrivali/BeltRunnerGoDot4"
+      ],
+      "discoverySources": [
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra",
+        "https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra"
+      ],
+      "method": "Public web, GitHub and Reddit discovery; exact-post FxTwitter mirrors; author issue, source, file-tree and per-asset provenance checks. X attribution remains secondary. No independent rebuild or full gameplay.",
+      "notes": [
+        "Seven additions and one existing-project update; five complete recordings with highest-bitrate and smaller full versions.",
+        "Added dates do not replace publication dates; Kiln authoredDate is a creation date and sourceDate remains null.",
+        "Kiln attribution applies to Abyssal Surveyor only; samurai geometry is Rodin-generated; DEAD END mixes imported assets.",
+        "Vesper duration and completion are author reports; VeilFall is work in progress.",
+        "Xiaohongshu remains excluded under the September 9 revocation. No social publishing.",
+        "GitHub and Pages only; no ChatGPT/Sites deployment or version save."
+      ],
+      "excluded": [
+        {
+          "source": "https://x.com/i/status/2099718119287668901",
+          "reason": "Anime Rift is explicitly a 2D fighting game."
+        },
+        {
+          "source": "Race Jimothy",
+          "reason": "README describes a Canvas game; no supported 3D output."
+        },
+        {
+          "source": "https://github.com/matthew-kissinger/kiln",
+          "reason": "Unfolding dragonfly actual provenance says Gemini 3.8 Flash; clockwork dragonfly says Muse Spark 1.3. Excluded despite broad homepage labels."
+        },
+        {
+          "source": "https://github.com/DanielKinsner/slingmods-three-wheel-tour-rebuild",
+          "reason": "Astra approval reference does not establish model production attribution."
+        },
+        {
+          "source": "https://github.com/zzamjak-cloud/3dmodelmaker-blender",
+          "reason": "Tool support is not a verified generated-asset example."
+        }
+      ]
     }
   ]
 }

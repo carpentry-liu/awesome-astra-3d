@@ -2,6 +2,18 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-09-17 · 7 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Last Train to the Sea：开往海边的三维列车 / Last Train to the Sea](https://carpentry-liu.github.io/awesome-astra-3d/#case=aniket-last-train) | Aniket J / @aniketjart | 演示入口 · 完整视频 |
+| [LANTERN S-4：有源码与生成记录的深海探测器 / LANTERN S-4 — Abyssal Surveyor](https://carpentry-liu.github.io/awesome-astra-3d/#case=kiln-abyssal-surveyor) | Matthew Kissinger / Kiln | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [Hot Wheeler：桌面玩具赛车与回环赛道 / Hot Wheeler](https://carpentry-liu.github.io/awesome-astra-3d/#case=varun-hot-wheeler) | Varun Arora / @varavibes | 演示入口 · 完整视频 |
+| [Vesper：在沉没花园寻找最后的光 / Vesper — The Last Light](https://carpentry-liu.github.io/awesome-astra-3d/#case=kvickan-vesper) | kvickan / MansGullberg | 演示入口 |
+| [DEAD END：把 Oakridge 关卡改成三维 / DEAD END — Oakridge 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=msd-dead-end) | Minsang Daniel Kim / @msdkim0424 | 演示入口 · 完整视频 |
+| [武士森林：Astra 编排与 Rodin 角色 / Samurai Forest — Astra and Rodin](https://carpentry-liu.github.io/awesome-astra-3d/#case=jaynit-samurai-forest) | Jaynit Makwana / @JaynitMakwana | 完整视频 |
+| [VeilFall：仍在开发的三维战斗试炼 / VeilFall — God’s Heart](https://carpentry-liu.github.io/awesome-astra-3d/#case=noni-veilfall) | Shehnoor Ansari (Noni) / @Noni_Shehnoor | 演示入口 · 完整视频 |
+
 ## 2026-09-14 · 5 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

@@ -6,25 +6,25 @@ import { type Case } from '@/src/catalog';
 
 const spotlights = [
   {
-    id: 'vib3-koi-pond',
-    credit: 'Vib3Coded',
-    name: '一池锦鲤，拨动水面',
-    label: '程序化水面交互',
-    note: 'Three.js · 鱼群、涟漪与完整交互录像',
+    id: 'aniket-last-train',
+    credit: 'Aniket J',
+    name: '搭一班开往海边的列车',
+    label: '三维列车模拟',
+    note: 'Astra × Crayon × Three.js · 完整运行录像',
   },
   {
-    id: 'sagyo-uv-rebake',
-    credit: 'さ🥺 / @_sagyoai',
-    name: '给已有模型，整理一张新 UV',
-    label: '已有模型贴图流程',
-    note: 'Tripo × Blender MCP · UV 整理与烘焙',
+    id: 'kiln-abyssal-surveyor',
+    credit: 'Matthew Kissinger / Kiln',
+    name: '一台可以拆开研究的探测器',
+    label: '程序化模型与源码',
+    note: 'LANTERN S-4 · GLB、代码与单件创作记录',
   },
   {
-    id: 'seoyeon-city-pulse',
-    credit: 'Seoyeon Jun',
-    name: '在三维地图里，看见城市节律',
-    label: '城市数据可视化',
-    note: 'City Pulse · 纽约出租车的时间切片',
+    id: 'varun-hot-wheeler',
+    credit: 'Varun Arora',
+    name: '让玩具赛车，冲上回环',
+    label: '浏览器赛车游戏',
+    note: 'Hot Wheeler · 氮气、回环与桌面赛道',
   },
 ];
 export function Welcome({

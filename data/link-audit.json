@@ -1,11 +1,11 @@
 {
-  "observedAt": "2026-09-14",
-  "method": "Incremental bounded HTTP GET: 10 candidate image/project/original-download URLs. Eight reachable; the game-prop repository and raw image returned 404 and the candidate was withdrawn before publication. Historical rows retain actual timestamps. Public playback URLs checked separately after publication. Reachability is not independent reproduction; signed redirect queries omitted.",
-  "checkedUrls": 457,
+  "observedAt": "2026-09-17",
+  "method": "Incremental bounded HTTP GET: 19 new image, project, demo and original-download URLs, all reachable. Historical rows retain actual timestamps. Playback URLs checked separately after publication. Reachability is not independent reproduction; signed redirect queries omitted.",
+  "checkedUrls": 476,
   "counts": {
-    "reachable": 452,
+    "http-error": 2,
     "restricted": 3,
-    "http-error": 2
+    "reachable": 471
   },
   "results": [
     {
@@ -7907,6 +7907,334 @@
       "title": "GitHub - nrivali/BeltRunnerGoDot4 · GitHub",
       "contentType": "text/html; charset=utf-8",
       "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://app.usecrayon.ai/play/bda1b910-b840-48cb-bb4c-28d0cde29107",
+      "uses": [
+        {
+          "caseId": "aniket-last-train",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-09-17T01:16:16.074291+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://app.usecrayon.ai/play/bda1b910-b840-48cb-bb4c-28d0cde29107",
+      "title": "Last Train to the Sea — Crayon",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2099651681910992896/img/DF5BMddGcBWIhYbV.jpg",
+      "uses": [
+        {
+          "caseId": "aniket-last-train",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-17T01:16:16.075291+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2099651681910992896/img/DF5BMddGcBWIhYbV.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/166192",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-17/aniket-last-train-1-original.mp4",
+      "uses": [
+        {
+          "caseId": "aniket-last-train",
+          "field": "downloadUrl",
+          "bytes": 76483771
+        }
+      ],
+      "observedAt": "2026-09-17T01:16:16.075291+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1358680959/ca2a121c-2c48-4633-a527-106cb69d84b4",
+      "title": null,
+      "contentType": "application/octet-stream",
+      "contentRange": "bytes 0-4095/76483771",
+      "result": "reachable"
+    },
+    {
+      "url": "https://kilnstudio.tools/#/abyssal-surveyor",
+      "uses": [
+        {
+          "caseId": "kiln-abyssal-surveyor",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-09-17T01:16:16.076292+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://kilnstudio.tools/#/abyssal-surveyor",
+      "title": "Kiln | Procedural 3D engine and agent toolchain",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/matthew-kissinger/kiln",
+      "uses": [
+        {
+          "caseId": "kiln-abyssal-surveyor",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-09-17T01:16:16.076292+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://github.com/matthew-kissinger/kiln",
+      "title": "GitHub - matthew-kissinger/kiln: Text-to-3D as code: language models write JavaScript programs that build game-ready GLBs, look at their own renders, and revise. Ships as an MCP server plus skills for any harness. · GitHub",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://assets.kilnstudio.tools/renders/abyssal-surveyor.png",
+      "uses": [
+        {
+          "caseId": "kiln-abyssal-surveyor",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-17T01:16:16.077292+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://assets.kilnstudio.tools/renders/abyssal-surveyor.png",
+      "title": null,
+      "contentType": "image/png",
+      "contentRange": "bytes 0-4095/1337920",
+      "result": "reachable"
+    },
+    {
+      "url": "https://hot-wheeler.vercel.app/",
+      "uses": [
+        {
+          "caseId": "varun-hot-wheeler",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-09-17T01:16:18.771992+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://hot-wheeler.vercel.app/",
+      "title": "Hot Wheeler — Live ur childhood dreams",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2099269396233658368/img/J4Xg_RGG6zDTXI7h.jpg",
+      "uses": [
+        {
+          "caseId": "varun-hot-wheeler",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-17T01:16:19.878910+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2099269396233658368/img/J4Xg_RGG6zDTXI7h.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/65485",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-17/varun-hot-wheeler-1-original.mp4",
+      "uses": [
+        {
+          "caseId": "varun-hot-wheeler",
+          "field": "downloadUrl",
+          "bytes": 15542072
+        }
+      ],
+      "observedAt": "2026-09-17T01:16:23.241755+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1358680959/21a67cac-48b3-471b-a374-0eb969f403e4",
+      "title": null,
+      "contentType": "application/octet-stream",
+      "contentRange": "bytes 0-4095/15542072",
+      "result": "reachable"
+    },
+    {
+      "url": "https://vesper.mansgullberg.chatgpt.site/",
+      "uses": [
+        {
+          "caseId": "kvickan-vesper",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-09-17T01:16:23.665199+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://vesper.mansgullberg.chatgpt.site/",
+      "title": "VESPER — The Last Light",
+      "contentType": "text/html",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://i.imgur.com/yGwD5gf.png",
+      "uses": [
+        {
+          "caseId": "kvickan-vesper",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-17T01:16:24.080907+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://i.imgur.com/yGwD5gf.png",
+      "title": null,
+      "contentType": "image/png",
+      "contentRange": "bytes 0-4095/1716655",
+      "result": "reachable"
+    },
+    {
+      "url": "https://dead-end.replit.app/",
+      "uses": [
+        {
+          "caseId": "msd-dead-end",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-09-17T01:16:24.098699+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://dead-end.replit.app/",
+      "title": "DEAD END — Last night in the neighborhood",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2099851484175466496/img/J4g8YkopypoCM-rv.jpg",
+      "uses": [
+        {
+          "caseId": "msd-dead-end",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-17T01:16:24.308178+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2099851484175466496/img/J4g8YkopypoCM-rv.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/100710",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-17/msd-dead-end-1-original.mp4",
+      "uses": [
+        {
+          "caseId": "msd-dead-end",
+          "field": "downloadUrl",
+          "bytes": 24031111
+        }
+      ],
+      "observedAt": "2026-09-17T01:16:26.596035+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1358680959/bfaac4ec-b5ca-4641-b909-57456ac6cfb2",
+      "title": null,
+      "contentType": "application/octet-stream",
+      "contentRange": "bytes 0-4095/24031111",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2099450912301584384/img/U6MEEycgCqcxgO1-.jpg",
+      "uses": [
+        {
+          "caseId": "jaynit-samurai-forest",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-17T01:16:28.359853+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2099450912301584384/img/U6MEEycgCqcxgO1-.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/89703",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-17/jaynit-samurai-forest-1-original.mp4",
+      "uses": [
+        {
+          "caseId": "jaynit-samurai-forest",
+          "field": "downloadUrl",
+          "bytes": 3589089
+        }
+      ],
+      "observedAt": "2026-09-17T01:16:29.610054+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1358680959/ad7191e9-d036-4773-99d9-3bc16836b94f",
+      "title": null,
+      "contentType": "application/octet-stream",
+      "contentRange": "bytes 0-4095/3589089",
+      "result": "reachable"
+    },
+    {
+      "url": "https://veilfall.replit.app/play",
+      "uses": [
+        {
+          "caseId": "noni-veilfall",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-09-17T01:16:29.844074+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://veilfall.replit.app/play",
+      "title": "VeilFall",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2099641039220826112/img/_nd0WW348dlv4gSR.jpg",
+      "uses": [
+        {
+          "caseId": "noni-veilfall",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-17T01:16:30.362030+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2099641039220826112/img/_nd0WW348dlv4gSR.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/83620",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-17/noni-veilfall-1-original.mp4",
+      "uses": [
+        {
+          "caseId": "noni-veilfall",
+          "field": "downloadUrl",
+          "bytes": 18168035
+        }
+      ],
+      "observedAt": "2026-09-17T01:16:30.707239+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1358680959/2622154d-c81b-4247-b102-82833e850e62",
+      "title": null,
+      "contentType": "application/octet-stream",
+      "contentRange": "bytes 0-4095/18168035",
       "result": "reachable"
     }
   ],
