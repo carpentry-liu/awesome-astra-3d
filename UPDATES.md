@@ -2,6 +2,19 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-09-20 · 8 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [The Road to Kufa：阿拉伯半岛电影感探索 / The Road to Kufa](https://carpentry-liu.github.io/awesome-astra-3d/#case=zenpher-road-to-kufa) | Zenpher | 演示入口 |
+| [Realm of Seratari：一周做出的开放世界雏形 / Realm of Seratari](https://carpentry-liu.github.io/awesome-astra-3d/#case=nightstar-realm-of-seratari) | Nightstar31415 | 演示入口 |
+| [Glider：纸飞机三维自由飞行 / Glider — One Throw. Endless Sky.](https://carpentry-liu.github.io/awesome-astra-3d/#case=mrtwizzles-glider) | mrtwizzles | 演示入口 |
+| [Monopoly City：可步行的三维大富翁 / Monopoly City — A Board Worth Exploring](https://carpentry-liu.github.io/awesome-astra-3d/#case=thomas-monopoly-city) | Thomas Unise / @thomasunise | 演示入口 · 提示词 / 过程 |
+| [旧城区 · 放学路：双主角章节冒险 / Dual Realms — Old Town After School](https://carpentry-liu.github.io/awesome-astra-3d/#case=serein-dual-realms) | serein / @you1873118 | 源码 / 工程 · 演示入口 |
+| [Thornwake：丝之歌风格三维动作试炼 / Thornwake](https://carpentry-liu.github.io/awesome-astra-3d/#case=liam-thornwake) | Lehiem / LiamTodd98 | 演示入口 |
+| [Mystery Town：微缩世界三维环境解谜 / Mystery Town](https://carpentry-liu.github.io/awesome-astra-3d/#case=playableworld-mystery-town) | PlayableWorld | 演示入口 |
+| [NULLSPACE：Astra 驱动的生存恐怖 FPS / NULLSPACE](https://carpentry-liu.github.io/awesome-astra-3d/#case=marius4lui-nullspace) | marius4lui | 源码 / 工程 · 演示入口 |
+
 ## 2026-09-17 · 17 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

@@ -1,13 +1,21 @@
 # 案例目录
 
-由 `data/cases.json` 生成。最近核查：2026-09-17。[上手路线](START_HERE.md) · [最新收录](UPDATES.md)。作品归属基于公开来源，不代表独立复现。
+由 `data/cases.json` 生成。最近核查：2026-09-20。[上手路线](START_HERE.md) · [最新收录](UPDATES.md)。作品归属基于公开来源，不代表独立复现。
 
-## GPT-6 Astra 案例（200）
+## GPT-6 Astra 案例（208）
 
 ### 3D 游戏
 
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
+| [The Road to Kufa：阿拉伯半岛电影感探索](https://www.reddit.com/r/aigamedev/comments/1wc4713/working_on_a_cinematic_game_set_in_arabia/) | Zenpher · Reddit | 转引待复核 | [在线作品](https://road-to-kufa.vercel.app/) |
+| [Realm of Seratari：一周做出的开放世界雏形](https://www.reddit.com/r/aigamedev/comments/1wh6npd/from_idea_to_game_dev_in_a_week/) | Nightstar31415 · Reddit | 转引待复核 | [在线作品](https://dragonwild.seranotte.chatgpt.site/) |
+| [Glider：纸飞机三维自由飞行](https://www.reddit.com/r/ChatGPT/comments/1we6ws0/glidergame_gpt6_astra_xhigh_with_34_hours_of_my/) | mrtwizzles · Reddit | 转引待复核 | [在线作品](https://glider.game/) |
+| [Monopoly City：可步行的三维大富翁](https://x.com/thomasunise/status/2097121832159609145) | Thomas Unise / @thomasunise · X | 转引待复核 | [在线作品](https://monopoly-city.eekosystems.chatgpt.site) · [视频](https://x.com/thomasunise/status/2097121832159609145) · [提示词/过程](https://x.com/thomasunise/status/2097121832159609145) |
+| [旧城区 · 放学路：双主角章节冒险](https://x.com/you1873118/status/2098421955296931931) | serein / @you1873118 · X | 转引待复核 | [在线作品](https://sgyno09-source.github.io/dual-realms/) · [源码](https://github.com/sgyno09-source/dual-realms) · [视频](https://x.com/you1873118/status/2098421955296931931) |
+| [Thornwake：丝之歌风格三维动作试炼](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/92) | Lehiem / LiamTodd98 · GitHub | 作者自述 | [在线作品](https://thornwake-moth-descent.ltodd.chatgpt.site) |
+| [Mystery Town：微缩世界三维环境解谜](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/80) | PlayableWorld · GitHub | 作者自述 | [在线作品](https://playableworld.itch.io/mystery-town) |
+| [NULLSPACE：Astra 驱动的生存恐怖 FPS](https://github.com/marius4lui/NULLSPACE) | marius4lui · GitHub | 作者自述 | [在线作品](https://github.marius4lui.dev/NULLSPACE/) · [源码](https://github.com/marius4lui/NULLSPACE) |
 | [Nightborn Clash：血裔三维街机决斗](https://x.com/CloakofEcstasy/status/2098415220645564857) | Cloaker Vampiror / @CloakofEcstasy · X | 转引待复核 | [在线作品](https://nightborn-clash.dixonefg5.chatgpt.site) |
 | [Lantern Cove：猴岛风格三维冒险原型](https://x.com/akartit/status/2096520784449613981) | AK / @akartit · X | 转引待复核 | [在线作品](https://lantern-cove.akartit.chatgpt.site/) · [视频](https://x.com/akartit/status/2096520784449613981) |
 | [Butterball Run：餐盘上的黄油球救援](https://x.com/SecretSeoul/status/2097315757931811081) | Seolyeon / SecretSeoul · X | 转引待复核 | [在线作品](https://butterball-run.jeraldine-t.chatgpt.site) · [视频](https://x.com/SecretSeoul/status/2097315757931811081) · [提示词/过程](https://x.com/SecretSeoul/status/2097315757931811081) |

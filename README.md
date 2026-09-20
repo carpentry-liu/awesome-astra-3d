@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-09-17（Asia/Shanghai）**：**200 条 Astra 案例** · **57 条源码 / 工程** · **81 个演示入口** · **94 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-09-20（Asia/Shanghai）**：**208 条 Astra 案例** · **59 条源码 / 工程** · **89 个演示入口** · **94 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 ## 这次更新，先看效果
@@ -44,19 +44,19 @@
 
 ## 最新收录
 
-本轮新增 **10 条收录、1 份源码 / 工程、10 个演示入口**：Astra Floor、Canteen Crashers、Tideglass Hunt、Starship Foundry、Wildwake Rally、Duck Off、Sundrift、Butterball Run、Lantern Cove 和 Nightborn Clash。**本轮收录不等于近日创作**，详情保留原始日期与完成程度。多模型作品保留分工说明；Sundrift 仅收录作者标注的 Astra 对照版本。
+本轮新增 **8 条收录、3 份源码 / 工程、8 个演示入口**：NULLSPACE、Mystery Town、Thornwake、旧城区 · 放学路、Monopoly City、Glider、Realm of Seratari 和 The Road to Kufa。**本轮收录不等于近日创作**，详情保留原始日期与完成程度。Dual Realms 保留 Astra 玩法与 Grok Bot 迁移的分工；Reddit 线索以二次核验级别收录。
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
-| [Nightborn Clash：血裔三维街机决斗](https://carpentry-liu.github.io/awesome-astra-3d/#case=cloak-nightborn-clash) | Cloaker Vampiror / @CloakofEcstasy | [演示](https://nightborn-clash.dixonefg5.chatgpt.site) · [原始来源](https://x.com/CloakofEcstasy/status/2098415220645564857) |
-| [Lantern Cove：猴岛风格三维冒险原型](https://carpentry-liu.github.io/awesome-astra-3d/#case=akartit-lantern-cove) | AK / @akartit | [演示](https://lantern-cove.akartit.chatgpt.site/) · [原始来源](https://x.com/akartit/status/2096520784449613981) |
-| [Butterball Run：餐盘上的黄油球救援](https://carpentry-liu.github.io/awesome-astra-3d/#case=secretseoul-butterball-run) | Seolyeon / SecretSeoul | [演示](https://butterball-run.jeraldine-t.chatgpt.site) · [原始来源](https://x.com/SecretSeoul/status/2097315757931811081) |
-| [Sundrift：四模型对照中的 Astra 船只探索](https://carpentry-liu.github.io/awesome-astra-3d/#case=wesche-sundrift) | Wësche / @WescheNex1q | [演示](https://wesche.com/lab/astra/boat-explorer/) · [原始来源](https://x.com/WescheNex1q/status/2100043868565561533) |
-| [Duck Off：河道鸭子竞速](https://carpentry-liu.github.io/awesome-astra-3d/#case=swarnim-duck-off) | swarnim.eth / @swarnimodi | [演示](https://duckoff.fun/) · [原始来源](https://x.com/swarnimodi/status/2100196454367437275) |
-| [Wildwake Rally：低多边形山地拉力](https://carpentry-liu.github.io/awesome-astra-3d/#case=defy-wildwake-rally) | DefyEntropyV | [演示](https://wildwake-rally.vercel.app/) · [原始来源](https://x.com/DefyEntropyV/status/2100226359649820721) |
-| [Starship Foundry：等距拼装与飞行实验室](https://carpentry-liu.github.io/awesome-astra-3d/#case=aaron-starship-foundry) | Aaron Wacker / @Aaron_Wacker | [演示](https://allaiinc.org/Starship-Foundry-Isometric-Flight-Lab.html) · [原始来源](https://x.com/Aaron_Wacker/status/2100382539697254828) |
-| [Tideglass Hunt：海岸竞技场三维狩猎](https://carpentry-liu.github.io/awesome-astra-3d/#case=timlb-tideglass-hunt) | Timothée Le Borgne / @Tim_LB | [演示](https://tideglass-hunt.timothee-leborgne.ohmyunicorn.com/) · [原始来源](https://x.com/Tim_LB/status/2100212668778828172) |
+| [The Road to Kufa：阿拉伯半岛电影感探索](https://carpentry-liu.github.io/awesome-astra-3d/#case=zenpher-road-to-kufa) | Zenpher | [演示](https://road-to-kufa.vercel.app/) · [原始来源](https://www.reddit.com/r/aigamedev/comments/1wc4713/working_on_a_cinematic_game_set_in_arabia/) |
+| [Realm of Seratari：一周做出的开放世界雏形](https://carpentry-liu.github.io/awesome-astra-3d/#case=nightstar-realm-of-seratari) | Nightstar31415 | [演示](https://dragonwild.seranotte.chatgpt.site/) · [原始来源](https://www.reddit.com/r/aigamedev/comments/1wh6npd/from_idea_to_game_dev_in_a_week/) |
+| [Glider：纸飞机三维自由飞行](https://carpentry-liu.github.io/awesome-astra-3d/#case=mrtwizzles-glider) | mrtwizzles | [演示](https://glider.game/) · [原始来源](https://www.reddit.com/r/ChatGPT/comments/1we6ws0/glidergame_gpt6_astra_xhigh_with_34_hours_of_my/) |
+| [Monopoly City：可步行的三维大富翁](https://carpentry-liu.github.io/awesome-astra-3d/#case=thomas-monopoly-city) | Thomas Unise / @thomasunise | [演示](https://monopoly-city.eekosystems.chatgpt.site) · [原始来源](https://x.com/thomasunise/status/2097121832159609145) |
+| [旧城区 · 放学路：双主角章节冒险](https://carpentry-liu.github.io/awesome-astra-3d/#case=serein-dual-realms) | serein / @you1873118 | [演示](https://sgyno09-source.github.io/dual-realms/) · [源码](https://github.com/sgyno09-source/dual-realms) · [原始来源](https://x.com/you1873118/status/2098421955296931931) |
+| [Thornwake：丝之歌风格三维动作试炼](https://carpentry-liu.github.io/awesome-astra-3d/#case=liam-thornwake) | Lehiem / LiamTodd98 | [演示](https://thornwake-moth-descent.ltodd.chatgpt.site) · [原始来源](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/92) |
+| [Mystery Town：微缩世界三维环境解谜](https://carpentry-liu.github.io/awesome-astra-3d/#case=playableworld-mystery-town) | PlayableWorld | [演示](https://playableworld.itch.io/mystery-town) · [原始来源](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/80) |
+| [NULLSPACE：Astra 驱动的生存恐怖 FPS](https://carpentry-liu.github.io/awesome-astra-3d/#case=marius4lui-nullspace) | marius4lui | [演示](https://github.marius4lui.dev/NULLSPACE/) · [源码](https://github.com/marius4lui/NULLSPACE) · [原始来源](https://github.com/marius4lui/NULLSPACE) |
 <!-- atlas:latest:end -->
 
 [查看完整更新目录 →](UPDATES.md)

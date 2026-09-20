@@ -805,6 +805,57 @@
           "reason": "Strong 3D candidate; Reddit primary JSON fetch failed this pass. Keep for next refresh."
         }
       ]
+    },
+    {
+      "observedAt": "2026-09-20",
+      "batch": "github-topic-and-community-backfill",
+      "addedCount": 8,
+      "caseIds": [
+        "marius4lui-nullspace",
+        "playableworld-mystery-town",
+        "liam-thornwake",
+        "serein-dual-realms",
+        "thomas-monopoly-city",
+        "mrtwizzles-glider",
+        "nightstar-realm-of-seratari",
+        "zenpher-road-to-kufa"
+      ],
+      "updatedCaseIds": [],
+      "sources": [
+        "https://github.com/marius4lui/NULLSPACE",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/80",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/92",
+        "https://x.com/you1873118/status/2098421955296931931",
+        "https://x.com/thomasunise/status/2097121832159609145",
+        "https://www.reddit.com/r/ChatGPT/comments/1we6ws0/glidergame_gpt6_astra_xhigh_with_34_hours_of_my/",
+        "https://www.reddit.com/r/aigamedev/comments/1wh6npd/from_idea_to_game_dev_in_a_week/",
+        "https://www.reddit.com/r/aigamedev/comments/1wc4713/working_on_a_cinematic_game_set_in_arabia/"
+      ],
+      "discoverySources": [
+        "https://github.com/topics/gpt-6-astra",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/blob/main/docs/browser-games-2026-09-15.md",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/blob/main/docs/browser-games-2026-09-16.md",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/blob/main/docs/browser-games-2026-09-17.md"
+      ],
+      "method": "GitHub topic search, MartinDelophy issues and 9/15-9/17 batches, FxTwitter exact-post mirrors. Author README/issues used when available; Reddit-linked titles kept secondary when primary JSON was unreachable. No independent rebuild.",
+      "notes": [
+        "Eight additions; NULLSPACE is a full Godot source project with author README.",
+        "Dual Realms keeps Astra vs Grok Bot split for GitHub migration.",
+        "Glider / Realm of Seratari / Road to Kufa are secondary community-backed records; URLs and titles cite author posts.",
+        "Race Jimothy remains excluded as canvas drawing-race; Anime Rift remains 2D.",
+        "Dust Horizon / DUSTLINE still blocked or paused."
+      ],
+      "excluded": [
+        {
+          "source": "https://tayttm.github.io/race-jimothy/",
+          "reason": "Prior atlas exclusion: canvas drawing race; not treated as verified 3D geometry output."
+        },
+        {
+          "source": "https://devoshub.com/",
+          "reason": "POCKET_01 2D handheld collection remains out of 3D atlas scope."
+        }
+      ]
     }
   ]
 }

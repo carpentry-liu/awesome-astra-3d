@@ -13,7 +13,7 @@ Explore GPT-6 Astra in 3D: Blender, Houdini, Three.js, WebGL, CAD, VRM and inter
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-09-17 (Asia/Shanghai)** · **200 Astra examples** · **57 source / project links** · **81 demo links** · **94 complete videos** · **12 separate references**.
+Updated **2026-09-20 (Asia/Shanghai)** · **208 Astra examples** · **59 source / project links** · **89 demo links** · **94 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 ## New work, at a glance
@@ -44,19 +44,19 @@ Captured from this update on September 17, 2026. Click to explore the gallery.
 
 ## Latest additions
 
-This refresh adds **10 examples, 1 source project and 10 demo links**: Astra Floor, Canteen Crashers, Tideglass Hunt, Starship Foundry, Wildwake Rally, Duck Off, Sundrift, Butterball Run, Lantern Cove and Nightborn Clash. **Newly collected does not mean newly created**; original dates and completion limits remain visible. Multi-model works keep mixed attribution; Sundrift is only the author-marked Astra arm of a four-model comparison.
+This refresh adds **8 examples, 3 source projects and 8 demo links**: NULLSPACE, Mystery Town, Thornwake, Dual Realms, Monopoly City, Glider, Realm of Seratari and The Road to Kufa. **Newly collected does not mean newly created**; original dates and completion limits remain visible. Dual Realms keeps Astra gameplay vs Grok Bot GitHub migration as separate credits; Reddit-linked cases remain secondary evidence.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [Nightborn Clash](https://carpentry-liu.github.io/awesome-astra-3d/#case=cloak-nightborn-clash) | Cloaker Vampiror / @CloakofEcstasy | [Demo](https://nightborn-clash.dixonefg5.chatgpt.site) · [Original](https://x.com/CloakofEcstasy/status/2098415220645564857) |
-| [Lantern Cove — The Borrowed Light](https://carpentry-liu.github.io/awesome-astra-3d/#case=akartit-lantern-cove) | AK / @akartit | [Demo](https://lantern-cove.akartit.chatgpt.site/) · [Original](https://x.com/akartit/status/2096520784449613981) |
-| [Butterball Run — Dinner Has Other Plans](https://carpentry-liu.github.io/awesome-astra-3d/#case=secretseoul-butterball-run) | Seolyeon / SecretSeoul | [Demo](https://butterball-run.jeraldine-t.chatgpt.site) · [Original](https://x.com/SecretSeoul/status/2097315757931811081) |
-| [Sundrift — Take the Slow Way Home](https://carpentry-liu.github.io/awesome-astra-3d/#case=wesche-sundrift) | Wësche / @WescheNex1q | [Demo](https://wesche.com/lab/astra/boat-explorer/) · [Original](https://x.com/WescheNex1q/status/2100043868565561533) |
-| [Duck Off](https://carpentry-liu.github.io/awesome-astra-3d/#case=swarnim-duck-off) | swarnim.eth / @swarnimodi | [Demo](https://duckoff.fun/) · [Original](https://x.com/swarnimodi/status/2100196454367437275) |
-| [Wildwake Rally](https://carpentry-liu.github.io/awesome-astra-3d/#case=defy-wildwake-rally) | DefyEntropyV | [Demo](https://wildwake-rally.vercel.app/) · [Original](https://x.com/DefyEntropyV/status/2100226359649820721) |
-| [Starship Foundry — Isometric Flight Lab](https://carpentry-liu.github.io/awesome-astra-3d/#case=aaron-starship-foundry) | Aaron Wacker / @Aaron_Wacker | [Demo](https://allaiinc.org/Starship-Foundry-Isometric-Flight-Lab.html) · [Original](https://x.com/Aaron_Wacker/status/2100382539697254828) |
-| [Tideglass Hunt](https://carpentry-liu.github.io/awesome-astra-3d/#case=timlb-tideglass-hunt) | Timothée Le Borgne / @Tim_LB | [Demo](https://tideglass-hunt.timothee-leborgne.ohmyunicorn.com/) · [Original](https://x.com/Tim_LB/status/2100212668778828172) |
+| [The Road to Kufa](https://carpentry-liu.github.io/awesome-astra-3d/#case=zenpher-road-to-kufa) | Zenpher | [Demo](https://road-to-kufa.vercel.app/) · [Original](https://www.reddit.com/r/aigamedev/comments/1wc4713/working_on_a_cinematic_game_set_in_arabia/) |
+| [Realm of Seratari](https://carpentry-liu.github.io/awesome-astra-3d/#case=nightstar-realm-of-seratari) | Nightstar31415 | [Demo](https://dragonwild.seranotte.chatgpt.site/) · [Original](https://www.reddit.com/r/aigamedev/comments/1wh6npd/from_idea_to_game_dev_in_a_week/) |
+| [Glider — One Throw. Endless Sky.](https://carpentry-liu.github.io/awesome-astra-3d/#case=mrtwizzles-glider) | mrtwizzles | [Demo](https://glider.game/) · [Original](https://www.reddit.com/r/ChatGPT/comments/1we6ws0/glidergame_gpt6_astra_xhigh_with_34_hours_of_my/) |
+| [Monopoly City — A Board Worth Exploring](https://carpentry-liu.github.io/awesome-astra-3d/#case=thomas-monopoly-city) | Thomas Unise / @thomasunise | [Demo](https://monopoly-city.eekosystems.chatgpt.site) · [Original](https://x.com/thomasunise/status/2097121832159609145) |
+| [Dual Realms — Old Town After School](https://carpentry-liu.github.io/awesome-astra-3d/#case=serein-dual-realms) | serein / @you1873118 | [Demo](https://sgyno09-source.github.io/dual-realms/) · [Source](https://github.com/sgyno09-source/dual-realms) · [Original](https://x.com/you1873118/status/2098421955296931931) |
+| [Thornwake](https://carpentry-liu.github.io/awesome-astra-3d/#case=liam-thornwake) | Lehiem / LiamTodd98 | [Demo](https://thornwake-moth-descent.ltodd.chatgpt.site) · [Original](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/92) |
+| [Mystery Town](https://carpentry-liu.github.io/awesome-astra-3d/#case=playableworld-mystery-town) | PlayableWorld | [Demo](https://playableworld.itch.io/mystery-town) · [Original](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/80) |
+| [NULLSPACE](https://carpentry-liu.github.io/awesome-astra-3d/#case=marius4lui-nullspace) | marius4lui | [Demo](https://github.marius4lui.dev/NULLSPACE/) · [Source](https://github.com/marius4lui/NULLSPACE) · [Original](https://github.com/marius4lui/NULLSPACE) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md)
