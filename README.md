@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-09-20（Asia/Shanghai）**：**208 条 Astra 案例** · **59 条源码 / 工程** · **89 个演示入口** · **94 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-09-21（Asia/Shanghai）**：**213 条 Astra 案例** · **64 条源码 / 工程** · **94 个演示入口** · **94 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 ## 这次更新，先看效果
@@ -44,19 +44,19 @@
 
 ## 最新收录
 
-本轮新增 **8 条收录、3 份源码 / 工程、8 个演示入口**：NULLSPACE、Mystery Town、Thornwake、旧城区 · 放学路、Monopoly City、Glider、Realm of Seratari 和 The Road to Kufa。**本轮收录不等于近日创作**，详情保留原始日期与完成程度。Dual Realms 保留 Astra 玩法与 Grok Bot 迁移的分工；Reddit 线索以二次核验级别收录。
+本轮新增 **5 条收录、5 份源码 / 工程、5 个演示入口**：北大三维校园 PKU-3D、PaperRoute、三个可编辑三维项目、OpenEngineering 和 Object Lab。全部来自 GitHub 开源仓库，作者 README 或仓库标签明确标注 GPT-6 Astra。**本轮收录不等于近日创作**，详情保留原始日期与完成程度。
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
+| [北大三维校园：建筑搜索与四季光景](https://carpentry-liu.github.io/awesome-astra-3d/#case=sldyns-pku-3d) | sldyns | [演示](https://sldyns.github.io/PKU-3D/) · [源码](https://github.com/sldyns/PKU-3D) · [原始来源](https://github.com/sldyns/PKU-3D) |
+| [PaperRoute：报纸小子风格三维浏览器游戏](https://carpentry-liu.github.io/awesome-astra-3d/#case=emmtee-paperroute) | Emm Tee | [演示](https://www.paperroute.lol/) · [源码](https://github.com/hammadshakeelai/web-game-link) · [原始来源](https://github.com/hammadshakeelai/web-game-link) |
+| [三个可编辑三维项目：别墅建筑、递归电影与涡轮 CAD](https://carpentry-liu.github.io/awesome-astra-3d/#case=az9713-three-3d-projects) | az9713 | [演示](https://az9713.github.io/gpt-6-3d-projects/) · [源码](https://github.com/az9713/gpt-6-3d-projects) · [原始来源](https://github.com/az9713/gpt-6-3d-projects) |
+| [OpenEngineering：机械原理三维交互讲解](https://carpentry-liu.github.io/awesome-astra-3d/#case=gulnoor-openengineering) | gulnoorCheema | [演示](https://gulnoorcheema.github.io/OpenEngineering/) · [源码](https://github.com/gulnoorCheema/OpenEngineering) · [原始来源](https://github.com/gulnoorCheema/OpenEngineering) |
+| [Object Lab：十五个滚动驱动三维故事](https://carpentry-liu.github.io/awesome-astra-3d/#case=safaelmali-object-lab) | SafaElmali | [演示](https://object-lab-3d.netlify.app) · [源码](https://github.com/SafaElmali/interactive-3d-lab) · [原始来源](https://github.com/SafaElmali/interactive-3d-lab) |
 | [The Road to Kufa：阿拉伯半岛电影感探索](https://carpentry-liu.github.io/awesome-astra-3d/#case=zenpher-road-to-kufa) | Zenpher | [演示](https://road-to-kufa.vercel.app/) · [原始来源](https://www.reddit.com/r/aigamedev/comments/1wc4713/working_on_a_cinematic_game_set_in_arabia/) |
 | [Realm of Seratari：一周做出的开放世界雏形](https://carpentry-liu.github.io/awesome-astra-3d/#case=nightstar-realm-of-seratari) | Nightstar31415 | [演示](https://dragonwild.seranotte.chatgpt.site/) · [原始来源](https://www.reddit.com/r/aigamedev/comments/1wh6npd/from_idea_to_game_dev_in_a_week/) |
 | [Glider：纸飞机三维自由飞行](https://carpentry-liu.github.io/awesome-astra-3d/#case=mrtwizzles-glider) | mrtwizzles | [演示](https://glider.game/) · [原始来源](https://www.reddit.com/r/ChatGPT/comments/1we6ws0/glidergame_gpt6_astra_xhigh_with_34_hours_of_my/) |
-| [Monopoly City：可步行的三维大富翁](https://carpentry-liu.github.io/awesome-astra-3d/#case=thomas-monopoly-city) | Thomas Unise / @thomasunise | [演示](https://monopoly-city.eekosystems.chatgpt.site) · [原始来源](https://x.com/thomasunise/status/2097121832159609145) |
-| [旧城区 · 放学路：双主角章节冒险](https://carpentry-liu.github.io/awesome-astra-3d/#case=serein-dual-realms) | serein / @you1873118 | [演示](https://sgyno09-source.github.io/dual-realms/) · [源码](https://github.com/sgyno09-source/dual-realms) · [原始来源](https://x.com/you1873118/status/2098421955296931931) |
-| [Thornwake：丝之歌风格三维动作试炼](https://carpentry-liu.github.io/awesome-astra-3d/#case=liam-thornwake) | Lehiem / LiamTodd98 | [演示](https://thornwake-moth-descent.ltodd.chatgpt.site) · [原始来源](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/92) |
-| [Mystery Town：微缩世界三维环境解谜](https://carpentry-liu.github.io/awesome-astra-3d/#case=playableworld-mystery-town) | PlayableWorld | [演示](https://playableworld.itch.io/mystery-town) · [原始来源](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/80) |
-| [NULLSPACE：Astra 驱动的生存恐怖 FPS](https://carpentry-liu.github.io/awesome-astra-3d/#case=marius4lui-nullspace) | marius4lui | [演示](https://github.marius4lui.dev/NULLSPACE/) · [源码](https://github.com/marius4lui/NULLSPACE) · [原始来源](https://github.com/marius4lui/NULLSPACE) |
 <!-- atlas:latest:end -->
 
 [查看完整更新目录 →](UPDATES.md)

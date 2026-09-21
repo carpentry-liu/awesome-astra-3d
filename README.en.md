@@ -13,7 +13,7 @@ Explore GPT-6 Astra in 3D: Blender, Houdini, Three.js, WebGL, CAD, VRM and inter
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-09-20 (Asia/Shanghai)** · **208 Astra examples** · **59 source / project links** · **89 demo links** · **94 complete videos** · **12 separate references**.
+Updated **2026-09-21 (Asia/Shanghai)** · **213 Astra examples** · **64 source / project links** · **94 demo links** · **94 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 ## New work, at a glance
@@ -49,14 +49,14 @@ This refresh adds **8 examples, 3 source projects and 8 demo links**: NULLSPACE,
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [PKU-3D — Interactive Campus of Peking University](https://carpentry-liu.github.io/awesome-astra-3d/#case=sldyns-pku-3d) | sldyns | [Demo](https://sldyns.github.io/PKU-3D/) · [Source](https://github.com/sldyns/PKU-3D) · [Original](https://github.com/sldyns/PKU-3D) |
+| [PaperRoute — A Paperboy-style 3D Browser Game](https://carpentry-liu.github.io/awesome-astra-3d/#case=emmtee-paperroute) | Emm Tee | [Demo](https://www.paperroute.lol/) · [Source](https://github.com/hammadshakeelai/web-game-link) · [Original](https://github.com/hammadshakeelai/web-game-link) |
+| [Three Editable GPT-6 Astra 3D Projects](https://carpentry-liu.github.io/awesome-astra-3d/#case=az9713-three-3d-projects) | az9713 | [Demo](https://az9713.github.io/gpt-6-3d-projects/) · [Source](https://github.com/az9713/gpt-6-3d-projects) · [Original](https://github.com/az9713/gpt-6-3d-projects) |
+| [OpenEngineering — Interactive 3D Engineering Stories](https://carpentry-liu.github.io/awesome-astra-3d/#case=gulnoor-openengineering) | gulnoorCheema | [Demo](https://gulnoorcheema.github.io/OpenEngineering/) · [Source](https://github.com/gulnoorCheema/OpenEngineering) · [Original](https://github.com/gulnoorCheema/OpenEngineering) |
+| [Object Lab — Fifteen Scroll-driven 3D Stories](https://carpentry-liu.github.io/awesome-astra-3d/#case=safaelmali-object-lab) | SafaElmali | [Demo](https://object-lab-3d.netlify.app) · [Source](https://github.com/SafaElmali/interactive-3d-lab) · [Original](https://github.com/SafaElmali/interactive-3d-lab) |
 | [The Road to Kufa](https://carpentry-liu.github.io/awesome-astra-3d/#case=zenpher-road-to-kufa) | Zenpher | [Demo](https://road-to-kufa.vercel.app/) · [Original](https://www.reddit.com/r/aigamedev/comments/1wc4713/working_on_a_cinematic_game_set_in_arabia/) |
 | [Realm of Seratari](https://carpentry-liu.github.io/awesome-astra-3d/#case=nightstar-realm-of-seratari) | Nightstar31415 | [Demo](https://dragonwild.seranotte.chatgpt.site/) · [Original](https://www.reddit.com/r/aigamedev/comments/1wh6npd/from_idea_to_game_dev_in_a_week/) |
 | [Glider — One Throw. Endless Sky.](https://carpentry-liu.github.io/awesome-astra-3d/#case=mrtwizzles-glider) | mrtwizzles | [Demo](https://glider.game/) · [Original](https://www.reddit.com/r/ChatGPT/comments/1we6ws0/glidergame_gpt6_astra_xhigh_with_34_hours_of_my/) |
-| [Monopoly City — A Board Worth Exploring](https://carpentry-liu.github.io/awesome-astra-3d/#case=thomas-monopoly-city) | Thomas Unise / @thomasunise | [Demo](https://monopoly-city.eekosystems.chatgpt.site) · [Original](https://x.com/thomasunise/status/2097121832159609145) |
-| [Dual Realms — Old Town After School](https://carpentry-liu.github.io/awesome-astra-3d/#case=serein-dual-realms) | serein / @you1873118 | [Demo](https://sgyno09-source.github.io/dual-realms/) · [Source](https://github.com/sgyno09-source/dual-realms) · [Original](https://x.com/you1873118/status/2098421955296931931) |
-| [Thornwake](https://carpentry-liu.github.io/awesome-astra-3d/#case=liam-thornwake) | Lehiem / LiamTodd98 | [Demo](https://thornwake-moth-descent.ltodd.chatgpt.site) · [Original](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/92) |
-| [Mystery Town](https://carpentry-liu.github.io/awesome-astra-3d/#case=playableworld-mystery-town) | PlayableWorld | [Demo](https://playableworld.itch.io/mystery-town) · [Original](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/80) |
-| [NULLSPACE](https://carpentry-liu.github.io/awesome-astra-3d/#case=marius4lui-nullspace) | marius4lui | [Demo](https://github.marius4lui.dev/NULLSPACE/) · [Source](https://github.com/marius4lui/NULLSPACE) · [Original](https://github.com/marius4lui/NULLSPACE) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md)

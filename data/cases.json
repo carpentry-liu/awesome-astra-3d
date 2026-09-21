@@ -1,5 +1,215 @@
 [
   {
+    "id": "sldyns-pku-3d",
+    "title": "北大三维校园：建筑搜索与四季光景",
+    "titleEn": "PKU-3D — Interactive Campus of Peking University",
+    "category": "建筑可视化",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "sldyns",
+    "sourceUrl": "https://github.com/sldyns/PKU-3D",
+    "sourceDate": "2026-09-13",
+    "modelLabel": "GPT-6 Astra（README 明确标注）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "作者 README 明确声明使用 GPT-6 Astra 构建",
+    "evidenceNote": "基于 OpenStreetMap、Esri 影像与公开校园资料构建；数据来源与建模参考均公开可查。",
+    "sourceAccess": "GitHub 仓库 README 与源码完整可读",
+    "summary": "北京大学燕园校区的交互式三维模型：单体建筑、庭院、道路与湖泊。支持建筑搜索、地图叠加、昼夜与天气变化、行人沿校园路径行走。",
+    "outputType": [
+      "交互式三维场景",
+      "建筑可视化"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "imageUrl": null,
+    "imageKind": null,
+    "imageCaption": null,
+    "demoUrl": "https://sldyns.github.io/PKU-3D/",
+    "licenseNotes": "软件与文档 MIT；OSM 地理数据 ODbL 1.0。",
+    "outcome": "开源可运行的浏览器三维校园；模型仍在细化中。",
+    "group": "astra",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "repositoryUrl": "https://github.com/sldyns/PKU-3D",
+    "videoUrl": null,
+    "observedAt": "2026-09-21",
+    "addedAt": "2026-09-21",
+    "evidenceUrls": [
+      "https://github.com/sldyns/PKU-3D"
+    ]
+  },
+  {
+    "id": "emmtee-paperroute",
+    "title": "PaperRoute：报纸小子风格三维浏览器游戏",
+    "titleEn": "PaperRoute — A Paperboy-style 3D Browser Game",
+    "category": "3D 游戏",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "Emm Tee",
+    "sourceUrl": "https://github.com/hammadshakeelai/web-game-link",
+    "sourceDate": "2026-09-20",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "GitHub 仓库说明标注 GPT-6 Astra 制作",
+    "evidenceNote": "作者称使用 GPT-6 Astra 与约 16 亿 token、39 小时完成；游戏为经典报纸投递玩法的三维重制。",
+    "sourceAccess": "GitHub 仓库 README 可读；游戏入口为独立域名",
+    "summary": "经典 Paperboy 玩法的三维浏览器版：骑行投递报纸，躲避障碍与居民反应。支持桌面浏览器直接试玩。",
+    "outputType": [
+      "浏览器游戏"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "imageUrl": null,
+    "imageKind": null,
+    "imageCaption": null,
+    "demoUrl": "https://www.paperroute.lol/",
+    "licenseNotes": "作品权利归原作者。",
+    "outcome": "作者展示的可玩版本；未独立复现。",
+    "group": "astra",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "repositoryUrl": "https://github.com/hammadshakeelai/web-game-link",
+    "videoUrl": null,
+    "observedAt": "2026-09-21",
+    "addedAt": "2026-09-21",
+    "evidenceUrls": [
+      "https://github.com/hammadshakeelai/web-game-link"
+    ]
+  },
+  {
+    "id": "az9713-three-3d-projects",
+    "title": "三个可编辑三维项目：别墅建筑、递归电影与涡轮 CAD",
+    "titleEn": "Three Editable GPT-6 Astra 3D Projects",
+    "category": "CAD / Blender",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "az9713",
+    "sourceUrl": "https://github.com/az9713/gpt-6-3d-projects",
+    "sourceDate": null,
+    "modelLabel": "GPT-6 Astra（README 明确标注）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "README 声明基于 YouTube 工作流用 GPT-6 Astra 重建",
+    "evidenceNote": "三个独立项目：别墅建筑（Blender + GLB，2258 网格对象）、递归电影房间（Blender 场景 + 720p 短片）、涡轮喷气 CAD（FreeCAD，41 个实体零件）。尺寸与不可见部分以推断方式明确标注。",
+    "sourceAccess": "GitHub Pages 展示 + Blender/GLB/FreeCAD/STEP 源文件可下载",
+    "summary": "基于 YouTube 演示工作流的三套可编辑重建：建筑别墅、递归电影房间、涡轮喷气 CAD 装配。每项含交互展示与可下载工程文件。",
+    "outputType": [
+      "可编辑工程",
+      "交互式三维场景",
+      "CAD 模型"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "imageUrl": null,
+    "imageKind": null,
+    "imageCaption": null,
+    "demoUrl": "https://az9713.github.io/gpt-6-3d-projects/",
+    "licenseNotes": "项目说明与源文件以仓库内声明为准。",
+    "outcome": "开源可下载的工程文件 + 在线展示；未独立复现原始视频效果。",
+    "group": "astra",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "repositoryUrl": "https://github.com/az9713/gpt-6-3d-projects",
+    "videoUrl": null,
+    "observedAt": "2026-09-21",
+    "addedAt": "2026-09-21",
+    "evidenceUrls": [
+      "https://github.com/az9713/gpt-6-3d-projects"
+    ]
+  },
+  {
+    "id": "gulnoor-openengineering",
+    "title": "OpenEngineering：机械原理三维交互讲解",
+    "titleEn": "OpenEngineering — Interactive 3D Engineering Stories",
+    "category": "3D 教育",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "gulnoorCheema",
+    "sourceUrl": "https://github.com/gulnoorCheema/OpenEngineering",
+    "sourceDate": null,
+    "modelLabel": "GPT-6 Astra（README 明确标注）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "README 与仓库主题标签均标注 GPT-6 Astra",
+    "evidenceNote": "六个交互展品：缝纫机、涡扇发动机、机械表、四冲程发动机、齿轮比、差速器。使用 Astro + React Three Fiber，Blender 源文件与导出命令开源。",
+    "sourceAccess": "GitHub Pages 在线展品 + 仓库源码完整",
+    "summary": "免费开源的机械原理三维交互合集：通过剖面视角观察缝纫机线迹、涡扇气流、四冲程循环、差速器等机构运动。",
+    "outputType": [
+      "交互式三维场景",
+      "3D 教育"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "imageUrl": null,
+    "imageKind": null,
+    "imageCaption": null,
+    "demoUrl": "https://gulnoorcheema.github.io/OpenEngineering/",
+    "licenseNotes": "代码 MIT；展品文案、Blender 源文件与插图 CC BY 4.0。",
+    "outcome": "开源可运行的教育展品；简化教学模型，非制造图纸。",
+    "group": "astra",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "repositoryUrl": "https://github.com/gulnoorCheema/OpenEngineering",
+    "videoUrl": null,
+    "observedAt": "2026-09-21",
+    "addedAt": "2026-09-21",
+    "evidenceUrls": [
+      "https://github.com/gulnoorCheema/OpenEngineering"
+    ]
+  },
+  {
+    "id": "safaelmali-object-lab",
+    "title": "Object Lab：十五个滚动驱动三维故事",
+    "titleEn": "Object Lab — Fifteen Scroll-driven 3D Stories",
+    "category": "3D 网页",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "SafaElmali",
+    "sourceUrl": "https://github.com/SafaElmali/interactive-3d-lab",
+    "sourceDate": null,
+    "modelLabel": "GPT-6 Astra（仓库主题标签）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "GitHub Topics 标注 gpt-6-astra；仓库含 .openai 配置目录",
+    "evidenceNote": "十五个 Three.js 滚动叙事项目 + 共享 3D 画廊：罐头、球鞋、键盘、香水、黑胶、手表、微缩城市、汽车、咖啡、相机、玻璃花园、火箭、街机、纸鹤、水母。本地资产，无外部请求。",
+    "sourceAccess": "Netlify 在线画廊 + GitHub 源码完整",
+    "summary": "十五个滚动驱动的 Three.js 三维故事，每个独立文件夹 + 共享画廊首页。支持正向/反向滚动、减弱动效模式。",
+    "outputType": [
+      "交互式三维场景",
+      "3D 网页"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "imageUrl": null,
+    "imageKind": null,
+    "imageCaption": null,
+    "demoUrl": "https://object-lab-3d.netlify.app",
+    "licenseNotes": "资产来源与许可证见 CREDITS.md。",
+    "outcome": "开源可运行的滚动叙事合集；含自动化检查与移动端适配。",
+    "group": "astra",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "repositoryUrl": "https://github.com/SafaElmali/interactive-3d-lab",
+    "videoUrl": null,
+    "observedAt": "2026-09-21",
+    "addedAt": "2026-09-21",
+    "evidenceUrls": [
+      "https://github.com/SafaElmali/interactive-3d-lab"
+    ]
+  },
+  {
     "id": "zenpher-road-to-kufa",
     "title": "The Road to Kufa：阿拉伯半岛电影感探索",
     "titleEn": "The Road to Kufa",

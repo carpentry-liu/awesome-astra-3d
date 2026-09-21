@@ -2,6 +2,16 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-09-21 · 5 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [北大三维校园：建筑搜索与四季光景 / PKU-3D — Interactive Campus of Peking University](https://carpentry-liu.github.io/awesome-astra-3d/#case=sldyns-pku-3d) | sldyns | 源码 / 工程 · 演示入口 |
+| [PaperRoute：报纸小子风格三维浏览器游戏 / PaperRoute — A Paperboy-style 3D Browser Game](https://carpentry-liu.github.io/awesome-astra-3d/#case=emmtee-paperroute) | Emm Tee | 源码 / 工程 · 演示入口 |
+| [三个可编辑三维项目：别墅建筑、递归电影与涡轮 CAD / Three Editable GPT-6 Astra 3D Projects](https://carpentry-liu.github.io/awesome-astra-3d/#case=az9713-three-3d-projects) | az9713 | 源码 / 工程 · 演示入口 |
+| [OpenEngineering：机械原理三维交互讲解 / OpenEngineering — Interactive 3D Engineering Stories](https://carpentry-liu.github.io/awesome-astra-3d/#case=gulnoor-openengineering) | gulnoorCheema | 源码 / 工程 · 演示入口 |
+| [Object Lab：十五个滚动驱动三维故事 / Object Lab — Fifteen Scroll-driven 3D Stories](https://carpentry-liu.github.io/awesome-astra-3d/#case=safaelmali-object-lab) | SafaElmali | 源码 / 工程 · 演示入口 |
+
 ## 2026-09-20 · 8 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
