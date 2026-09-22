@@ -44,7 +44,7 @@ Captured from this update on September 22, 2026. Click to explore the gallery.
 
 ## Latest additions
 
-This refresh adds **7 new examples, 3 complete X videos, 1 new source project and 6 new demo links**: Stillwater, Cabsolutely, DRONE.IO, Saint Orison, The Crownless, AstraFloor, Hezo and an Unreal environment. **Newly collected does not mean newly created**; original dates and mixed-tool roles remain explicit.
+This refresh adds **7 new examples, 3 complete X videos, 1 new source project and 6 new demo links**: Stillwater, Cabsolutely, DRONE.IO, Saint Orison, The Crownless, Hezo and an Unreal environment. **Newly collected does not mean newly created**; original dates and mixed-tool roles remain explicit.
 
 **Recent updates combined:** The 23 previously published additions are retained. AstraFloor is updated in place; this batch contributes 7 further unique examples.
 

@@ -8479,7 +8479,7 @@
       "url": "https://astrafloor.berochlu.workers.dev/",
       "uses": [
         {
-          "caseId": "berochlu-astra-floor",
+          "caseId": "berochlu-astrafloor",
           "field": "demoUrl"
         }
       ],
@@ -8496,7 +8496,7 @@
       "url": "https://github.com/BEROCHLU/astrafloor",
       "uses": [
         {
-          "caseId": "berochlu-astra-floor",
+          "caseId": "berochlu-astrafloor",
           "field": "repositoryUrl"
         }
       ],
@@ -8513,7 +8513,7 @@
       "url": "https://raw.githubusercontent.com/BEROCHLU/astrafloor/main/.github/image1.png",
       "uses": [
         {
-          "caseId": "berochlu-astra-floor",
+          "caseId": "berochlu-astrafloor",
           "field": "imageUrl"
         }
       ],
