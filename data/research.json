@@ -739,21 +739,140 @@
       ]
     },
     {
+      "observedAt": "2026-09-17",
+      "batch": "martindelophy-and-github-refresh",
+      "addedCount": 10,
+      "caseIds": [
+        "berochlu-astrafloor",
+        "chongdashu-canteen-crashers",
+        "timlb-tideglass-hunt",
+        "aaron-starship-foundry",
+        "defy-wildwake-rally",
+        "swarnim-duck-off",
+        "wesche-sundrift",
+        "secretseoul-butterball-run",
+        "akartit-lantern-cove",
+        "cloak-nightborn-clash"
+      ],
+      "updatedCaseIds": [],
+      "sources": [
+        "https://github.com/BEROCHLU/astrafloor",
+        "https://x.com/chongdashu/status/2100207494375285029",
+        "https://x.com/Tim_LB/status/2100212668778828172",
+        "https://x.com/Aaron_Wacker/status/2100382539697254828",
+        "https://x.com/DefyEntropyV/status/2100226359649820721",
+        "https://x.com/swarnimodi/status/2100196454367437275",
+        "https://x.com/WescheNex1q/status/2100043868565561533",
+        "https://x.com/SecretSeoul/status/2097315757931811081",
+        "https://x.com/akartit/status/2096520784449613981",
+        "https://x.com/CloakofEcstasy/status/2098415220645564857"
+      ],
+      "discoverySources": [
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/blob/main/docs/browser-games-2026-09-15.md",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/blob/main/docs/browser-games-2026-09-16.md",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/blob/main/docs/browser-games-2026-09-17.md",
+        "https://github.com/topics/gpt-6-astra"
+      ],
+      "method": "Read MartinDelophy 9/15-9/17 browser-game batches and GitHub topic gpt-6-astra; dedupe against existing case IDs; verify author statements via raw README or exact-ID FxTwitter mirrors. X attribution remains secondary. No independent rebuild or full gameplay.",
+      "notes": [
+        "Ten additions focused on true 3D browser projects with public demos.",
+        "Multi-model works (Tideglass Hunt, Duck Off, Sundrift) keep mixed attribution; Sundrift is only the author-marked Astra arm of a four-model comparison.",
+        "Butterball Run author labels Astra Light; kept as Light, not full Astra default.",
+        "Nightborn Clash has author statement and demo but no media on the original post; imageUrl left null.",
+        "Glider (Reddit) and GTA VI PS1 demake deferred: primary source fetch incomplete or platform-gated this pass.",
+        "Excluded 2D-only items: POCKET_01 retro minigames, Mario+Duck Hunt ports, Komorebi Nut Gathering, Anime Rift, Race Jimothy (canvas drawing race)."
+      ],
+      "excluded": [
+        {
+          "source": "https://devoshub.com/",
+          "reason": "POCKET_01 is a monochrome 2D handheld collection; not a 3D Astra geometry case for this atlas."
+        },
+        {
+          "source": "https://mario-duck-hunt-mobile.astral-bead-6514.chatgpt.site/",
+          "reason": "2D browser ports; original Nintendo assets not created by Astra."
+        },
+        {
+          "source": "https://komorebi-kinomi-0916.inu03550.chatgpt.site/",
+          "reason": "2D character-image collection game; no verified 3D geometry output for this atlas."
+        },
+        {
+          "source": "https://anime-rift-cade.theyounganimation.chatgpt.site/",
+          "reason": "Explicitly 2D fighting game; prior batch exclusion still applies."
+        },
+        {
+          "source": "https://glider.game/",
+          "reason": "Strong 3D candidate; Reddit primary JSON fetch failed this pass. Keep for next refresh."
+        }
+      ]
+    },
+    {
+      "observedAt": "2026-09-20",
+      "batch": "github-topic-and-community-backfill",
+      "addedCount": 8,
+      "caseIds": [
+        "marius4lui-nullspace",
+        "playableworld-mystery-town",
+        "liam-thornwake",
+        "serein-dual-realms",
+        "thomas-monopoly-city",
+        "mrtwizzles-glider",
+        "nightstar-realm-of-seratari",
+        "zenpher-road-to-kufa"
+      ],
+      "updatedCaseIds": [],
+      "sources": [
+        "https://github.com/marius4lui/NULLSPACE",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/80",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/92",
+        "https://x.com/you1873118/status/2098421955296931931",
+        "https://x.com/thomasunise/status/2097121832159609145",
+        "https://www.reddit.com/r/ChatGPT/comments/1we6ws0/glidergame_gpt6_astra_xhigh_with_34_hours_of_my/",
+        "https://www.reddit.com/r/aigamedev/comments/1wh6npd/from_idea_to_game_dev_in_a_week/",
+        "https://www.reddit.com/r/aigamedev/comments/1wc4713/working_on_a_cinematic_game_set_in_arabia/"
+      ],
+      "discoverySources": [
+        "https://github.com/topics/gpt-6-astra",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/blob/main/docs/browser-games-2026-09-15.md",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/blob/main/docs/browser-games-2026-09-16.md",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/blob/main/docs/browser-games-2026-09-17.md"
+      ],
+      "method": "GitHub topic search, MartinDelophy issues and 9/15-9/17 batches, FxTwitter exact-post mirrors. Author README/issues used when available; Reddit-linked titles kept secondary when primary JSON was unreachable. No independent rebuild.",
+      "notes": [
+        "Eight additions; NULLSPACE is a full Godot source project with author README.",
+        "Dual Realms keeps Astra vs Grok Bot split for GitHub migration.",
+        "Glider / Realm of Seratari / Road to Kufa are secondary community-backed records; URLs and titles cite author posts.",
+        "Race Jimothy remains excluded as canvas drawing-race; Anime Rift remains 2D.",
+        "Dust Horizon / DUSTLINE still blocked or paused."
+      ],
+      "excluded": [
+        {
+          "source": "https://tayttm.github.io/race-jimothy/",
+          "reason": "Prior atlas exclusion: canvas drawing race; not treated as verified 3D geometry output."
+        },
+        {
+          "source": "https://devoshub.com/",
+          "reason": "POCKET_01 2D handheld collection remains out of 3D atlas scope."
+        }
+      ]
+    },
+    {
       "observedAt": "2026-09-22",
       "batch": "late-september",
-      "addedCount": 8,
+      "addedCount": 7,
       "caseIds": [
         "kenny-stillwater",
         "ilker-cabsolutely",
         "angello-drone-io",
         "blendi-saint-orison",
         "izkimar-crownless",
-        "berochlu-astra-floor",
         "hiddentao-hezo-temple",
         "delicious-unreal-environment"
       ],
       "updatedCaseIds": [
-        "aniket-last-train"
+        "aniket-last-train",
+        "berochlu-astrafloor"
       ],
       "sources": [
         "https://x.com/KennyJohnsonATX/status/2101744240095076416",
@@ -775,7 +894,8 @@
         "Eight additions and one existing-record clarification; three complete X clips in source and full playback renditions.",
         "Keep original publication dates; unresolved Reddit publication date stays null.",
         "Hezo is a Higgsfield/Fable/Astra/Opus workflow; Unreal includes Tripo, Blender and human edits.",
-        "Xiaohongshu remains excluded. GitHub and Pages only; no ChatGPT/Sites deployment."
+        "Xiaohongshu remains excluded. GitHub and Pages only; no ChatGPT/Sites deployment.",
+        "Merged remote commits through 704ee6a: retain 23 prior additions, enrich existing AstraFloor instead of duplicating it. Seven genuinely new cases relative to current remote."
       ],
       "excluded": [
         {

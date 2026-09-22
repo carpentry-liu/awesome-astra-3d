@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-09-22（Asia/Shanghai）**：**198 条 Astra 案例** · **58 条源码 / 工程** · **78 个演示入口** · **97 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-09-22（Asia/Shanghai）**：**220 条 Astra 案例** · **65 条源码 / 工程** · **100 个演示入口** · **97 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 ## 这次更新，先看效果
@@ -22,7 +22,7 @@
 | --- | --- | --- |
 | [![Stillwater Aquarium — Kenny Johnson / @KennyJohnsonATX](https://pbs.twimg.com/media/HSrlP1rXMAAgMWW.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=kenny-stillwater) | [![Cabsolutely — ilker / @ailker](https://pbs.twimg.com/amplify_video_thumb/2100703084661903360/img/5gq9HvHaSTqlyCTx.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=ilker-cabsolutely) | [![DRONE.IO — Proving Grounds — Angello🎰 / @OMASMohamad](https://pbs.twimg.com/media/HSszxY4WMAEn773.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=angello-drone-io) |
 | 惊悚探索 · Saint Orison | 动作游戏 · The Crownless | 开源游戏 · AstraFloor |
-| [![Don’t Look Away — Saint Orison — Blendi / @BlendiByl](https://pbs.twimg.com/amplify_video_thumb/2100441933349113856/img/-zcl_oknjJHeAKF8.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=blendi-saint-orison) | [![The Crownless — Izkimar / @Izkimar](https://pbs.twimg.com/amplify_video_thumb/2100753501940809729/img/f53bBSn0KO5xt3yA.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=izkimar-crownless) | [![Astra Floor — BEROCHLU](https://raw.githubusercontent.com/BEROCHLU/astrafloor/main/.github/image1.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=berochlu-astra-floor) |
+| [![Don’t Look Away — Saint Orison — Blendi / @BlendiByl](https://pbs.twimg.com/amplify_video_thumb/2100441933349113856/img/-zcl_oknjJHeAKF8.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=blendi-saint-orison) | [![The Crownless — Izkimar / @Izkimar](https://pbs.twimg.com/amplify_video_thumb/2100753501940809729/img/f53bBSn0KO5xt3yA.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=izkimar-crownless) | [![Astra Floor — BEROCHLU](https://raw.githubusercontent.com/BEROCHLU/astrafloor/main/.github/image1.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=berochlu-astrafloor) |
 
 点击图片查看作者、来源和材料。Cabsolutely、Saint Orison 使用 Astra 与 fal；AstraFloor 还经过 Antigravity 2.0 调整，预览为作者提供的标题画面。三段新录像均保留完整时长。
 
@@ -44,7 +44,9 @@
 
 ## 最新收录
 
-本轮新增 **8 条收录、3 段完整 X 视频、2 份源码 / 工程、7 个演示入口**：水族箱、出租车、无人机、Saint Orison、The Crownless、AstraFloor、Hezo 寺庙与 Unreal 环境。**新收录不等于近日创作**，原始日期与混合工具分工均保留。
+本轮新增 **7 条新收录、3 段完整 X 视频、1 份新增源码 / 工程、6 个新增演示入口**：水族箱、出租车、无人机、Saint Orison、The Crownless、AstraFloor、Hezo 寺庙与 Unreal 环境。**新收录不等于近日创作**，原始日期与混合工具分工均保留。
+
+**同步这几天的内容：** 保留远端此前新增的 23 条记录，AstraFloor 合并为原档案的补充更新；本轮另增 7 条，避免重复计数。
 
 **已有项目进展：** [Last Train](https://carpentry-liu.github.io/awesome-astra-3d/#case=aniket-last-train) 补充作者的新说明：三维场景搭配部分二维角色，并经过多轮迭代；更新原记录，不重复计数。
 
@@ -56,9 +58,9 @@
 | [DRONE.IO：无人机竞技场生存原型](https://carpentry-liu.github.io/awesome-astra-3d/#case=angello-drone-io) | Angello🎰 / @OMASMohamad | [演示](https://drone-io.vercel.app/) · [原始来源](https://x.com/OMASMohamad/status/2101830659358478516) |
 | [Saint Orison：视线之外移动的天使](https://carpentry-liu.github.io/awesome-astra-3d/#case=blendi-saint-orison) | Blendi / @BlendiByl | [演示](https://weeping-angels.vercel.app/) · [原始来源](https://x.com/BlendiByl/status/2100442177159729336) |
 | [The Crownless：在城堡里边玩边迭代](https://carpentry-liu.github.io/awesome-astra-3d/#case=izkimar-crownless) | Izkimar / @Izkimar | [演示](https://www.spawn.co/@izkimar/the-crownless/play) · [原始来源](https://x.com/Izkimar/status/2100753871903855095) |
-| [Astra Floor：程序化三维生存射击](https://carpentry-liu.github.io/awesome-astra-3d/#case=berochlu-astra-floor) | BEROCHLU | [演示](https://astrafloor.berochlu.workers.dev/) · [源码](https://github.com/BEROCHLU/astrafloor) · [原始来源](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/96) |
 | [Hezo：滚动穿过山间寺庙的 WebGPU 网页](https://carpentry-liu.github.io/awesome-astra-3d/#case=hiddentao-hezo-temple) | Hiddentao | [演示](https://hezo.ai/) · [原始来源](https://hiddentao.com/archives/2026/09/16/building-a-high-fidelity-3d-realtime-rendered-background-scene-using-fable-and-astra/) |
 | [Unreal 环境：生成、清理与人工布光](https://carpentry-liu.github.io/awesome-astra-3d/#case=delicious-unreal-environment) | Delicious-Shower8401 | [原始来源](https://www.reddit.com/r/ChatGPT/comments/1wljrn8/gpt6_astra_unreal_blender_faster_game_development/) |
+| [北大三维校园：建筑搜索与四季光景](https://carpentry-liu.github.io/awesome-astra-3d/#case=sldyns-pku-3d) | sldyns | [演示](https://sldyns.github.io/PKU-3D/) · [源码](https://github.com/sldyns/PKU-3D) · [原始来源](https://github.com/sldyns/PKU-3D) |
 <!-- atlas:latest:end -->
 
 [查看完整更新目录 →](UPDATES.md)

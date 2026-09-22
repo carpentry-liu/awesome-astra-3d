@@ -13,7 +13,7 @@ Explore GPT-6 Astra in 3D: Blender, Houdini, Three.js, WebGL, CAD, VRM and inter
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-09-22 (Asia/Shanghai)** · **198 Astra examples** · **58 source / project links** · **78 demo links** · **97 complete videos** · **12 separate references**.
+Updated **2026-09-22 (Asia/Shanghai)** · **220 Astra examples** · **65 source / project links** · **100 demo links** · **97 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 ## New work, at a glance
@@ -22,7 +22,7 @@ Updated **2026-09-22 (Asia/Shanghai)** · **198 Astra examples** · **58 source 
 | --- | --- | --- |
 | [![Stillwater Aquarium — Kenny Johnson / @KennyJohnsonATX](https://pbs.twimg.com/media/HSrlP1rXMAAgMWW.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=kenny-stillwater) | [![Cabsolutely — ilker / @ailker](https://pbs.twimg.com/amplify_video_thumb/2100703084661903360/img/5gq9HvHaSTqlyCTx.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=ilker-cabsolutely) | [![DRONE.IO — Proving Grounds — Angello🎰 / @OMASMohamad](https://pbs.twimg.com/media/HSszxY4WMAEn773.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=angello-drone-io) |
 | Horror · Saint Orison | Action · The Crownless | Open source · AstraFloor |
-| [![Don’t Look Away — Saint Orison — Blendi / @BlendiByl](https://pbs.twimg.com/amplify_video_thumb/2100441933349113856/img/-zcl_oknjJHeAKF8.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=blendi-saint-orison) | [![The Crownless — Izkimar / @Izkimar](https://pbs.twimg.com/amplify_video_thumb/2100753501940809729/img/f53bBSn0KO5xt3yA.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=izkimar-crownless) | [![Astra Floor — BEROCHLU](https://raw.githubusercontent.com/BEROCHLU/astrafloor/main/.github/image1.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=berochlu-astra-floor) |
+| [![Don’t Look Away — Saint Orison — Blendi / @BlendiByl](https://pbs.twimg.com/amplify_video_thumb/2100441933349113856/img/-zcl_oknjJHeAKF8.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=blendi-saint-orison) | [![The Crownless — Izkimar / @Izkimar](https://pbs.twimg.com/amplify_video_thumb/2100753501940809729/img/f53bBSn0KO5xt3yA.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=izkimar-crownless) | [![Astra Floor — BEROCHLU](https://raw.githubusercontent.com/BEROCHLU/astrafloor/main/.github/image1.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=berochlu-astrafloor) |
 
 Open each image for creator credits and evidence. Cabsolutely and Saint Orison use Astra with fal; AstraFloor also uses Antigravity 2.0 refinements, and its preview is the author’s title screen. Three new recordings retain their full duration.
 
@@ -44,7 +44,9 @@ Captured from this update on September 22, 2026. Click to explore the gallery.
 
 ## Latest additions
 
-This refresh adds **8 examples, 3 complete X videos, 2 source projects and 7 demo links**: Stillwater, Cabsolutely, DRONE.IO, Saint Orison, The Crownless, AstraFloor, Hezo and an Unreal environment. **Newly collected does not mean newly created**; original dates and mixed-tool roles remain explicit.
+This refresh adds **7 new examples, 3 complete X videos, 1 new source project and 6 new demo links**: Stillwater, Cabsolutely, DRONE.IO, Saint Orison, The Crownless, AstraFloor, Hezo and an Unreal environment. **Newly collected does not mean newly created**; original dates and mixed-tool roles remain explicit.
+
+**Recent updates combined:** The 23 previously published additions are retained. AstraFloor is updated in place; this batch contributes 7 further unique examples.
 
 **Project progress:** [Last Train](https://carpentry-liu.github.io/awesome-astra-3d/#case=aniket-last-train) now includes the creator’s explanation of its 3D world, partly 2D characters and multiple iterations. The existing record is updated without duplication.
 
@@ -56,9 +58,9 @@ This refresh adds **8 examples, 3 complete X videos, 2 source projects and 7 dem
 | [DRONE.IO — Proving Grounds](https://carpentry-liu.github.io/awesome-astra-3d/#case=angello-drone-io) | Angello🎰 / @OMASMohamad | [Demo](https://drone-io.vercel.app/) · [Original](https://x.com/OMASMohamad/status/2101830659358478516) |
 | [Don’t Look Away — Saint Orison](https://carpentry-liu.github.io/awesome-astra-3d/#case=blendi-saint-orison) | Blendi / @BlendiByl | [Demo](https://weeping-angels.vercel.app/) · [Original](https://x.com/BlendiByl/status/2100442177159729336) |
 | [The Crownless](https://carpentry-liu.github.io/awesome-astra-3d/#case=izkimar-crownless) | Izkimar / @Izkimar | [Demo](https://www.spawn.co/@izkimar/the-crownless/play) · [Original](https://x.com/Izkimar/status/2100753871903855095) |
-| [Astra Floor](https://carpentry-liu.github.io/awesome-astra-3d/#case=berochlu-astra-floor) | BEROCHLU | [Demo](https://astrafloor.berochlu.workers.dev/) · [Source](https://github.com/BEROCHLU/astrafloor) · [Original](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/96) |
 | [Hezo Procedural Temple Journey](https://carpentry-liu.github.io/awesome-astra-3d/#case=hiddentao-hezo-temple) | Hiddentao | [Demo](https://hezo.ai/) · [Original](https://hiddentao.com/archives/2026/09/16/building-a-high-fidelity-3d-realtime-rendered-background-scene-using-fable-and-astra/) |
 | [Unreal Environment — Mixed Asset Workflow](https://carpentry-liu.github.io/awesome-astra-3d/#case=delicious-unreal-environment) | Delicious-Shower8401 | [Original](https://www.reddit.com/r/ChatGPT/comments/1wljrn8/gpt6_astra_unreal_blender_faster_game_development/) |
+| [PKU-3D — Interactive Campus of Peking University](https://carpentry-liu.github.io/awesome-astra-3d/#case=sldyns-pku-3d) | sldyns | [Demo](https://sldyns.github.io/PKU-3D/) · [Source](https://github.com/sldyns/PKU-3D) · [Original](https://github.com/sldyns/PKU-3D) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md)

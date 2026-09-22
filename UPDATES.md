@@ -2,7 +2,7 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
-## 2026-09-22 · 8 个案例
+## 2026-09-22 · 7 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
@@ -11,14 +11,46 @@
 | [DRONE.IO：无人机竞技场生存原型 / DRONE.IO — Proving Grounds](https://carpentry-liu.github.io/awesome-astra-3d/#case=angello-drone-io) | Angello🎰 / @OMASMohamad | 演示入口 |
 | [Saint Orison：视线之外移动的天使 / Don’t Look Away — Saint Orison](https://carpentry-liu.github.io/awesome-astra-3d/#case=blendi-saint-orison) | Blendi / @BlendiByl | 演示入口 · 完整视频 |
 | [The Crownless：在城堡里边玩边迭代 / The Crownless](https://carpentry-liu.github.io/awesome-astra-3d/#case=izkimar-crownless) | Izkimar / @Izkimar | 演示入口 · 完整视频 |
-| [Astra Floor：程序化三维生存射击 / Astra Floor](https://carpentry-liu.github.io/awesome-astra-3d/#case=berochlu-astra-floor) | BEROCHLU | 源码 / 工程 · 演示入口 |
 | [Hezo：滚动穿过山间寺庙的 WebGPU 网页 / Hezo Procedural Temple Journey](https://carpentry-liu.github.io/awesome-astra-3d/#case=hiddentao-hezo-temple) | Hiddentao | 演示入口 · 提示词 / 过程 |
 | [Unreal 环境：生成、清理与人工布光 / Unreal Environment — Mixed Asset Workflow](https://carpentry-liu.github.io/awesome-astra-3d/#case=delicious-unreal-environment) | Delicious-Shower8401 | 作者展示 |
 
-## 2026-09-17 · 7 个案例
+## 2026-09-21 · 5 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
+| [北大三维校园：建筑搜索与四季光景 / PKU-3D — Interactive Campus of Peking University](https://carpentry-liu.github.io/awesome-astra-3d/#case=sldyns-pku-3d) | sldyns | 源码 / 工程 · 演示入口 |
+| [PaperRoute：报纸小子风格三维浏览器游戏 / PaperRoute — A Paperboy-style 3D Browser Game](https://carpentry-liu.github.io/awesome-astra-3d/#case=emmtee-paperroute) | Emm Tee | 源码 / 工程 · 演示入口 |
+| [三个可编辑三维项目：别墅建筑、递归电影与涡轮 CAD / Three Editable GPT-6 Astra 3D Projects](https://carpentry-liu.github.io/awesome-astra-3d/#case=az9713-three-3d-projects) | az9713 | 源码 / 工程 · 演示入口 |
+| [OpenEngineering：机械原理三维交互讲解 / OpenEngineering — Interactive 3D Engineering Stories](https://carpentry-liu.github.io/awesome-astra-3d/#case=gulnoor-openengineering) | gulnoorCheema | 源码 / 工程 · 演示入口 |
+| [Object Lab：十五个滚动驱动三维故事 / Object Lab — Fifteen Scroll-driven 3D Stories](https://carpentry-liu.github.io/awesome-astra-3d/#case=safaelmali-object-lab) | SafaElmali | 源码 / 工程 · 演示入口 |
+
+## 2026-09-20 · 8 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [The Road to Kufa：阿拉伯半岛电影感探索 / The Road to Kufa](https://carpentry-liu.github.io/awesome-astra-3d/#case=zenpher-road-to-kufa) | Zenpher | 演示入口 |
+| [Realm of Seratari：一周做出的开放世界雏形 / Realm of Seratari](https://carpentry-liu.github.io/awesome-astra-3d/#case=nightstar-realm-of-seratari) | Nightstar31415 | 演示入口 |
+| [Glider：纸飞机三维自由飞行 / Glider — One Throw. Endless Sky.](https://carpentry-liu.github.io/awesome-astra-3d/#case=mrtwizzles-glider) | mrtwizzles | 演示入口 |
+| [Monopoly City：可步行的三维大富翁 / Monopoly City — A Board Worth Exploring](https://carpentry-liu.github.io/awesome-astra-3d/#case=thomas-monopoly-city) | Thomas Unise / @thomasunise | 演示入口 · 提示词 / 过程 |
+| [旧城区 · 放学路：双主角章节冒险 / Dual Realms — Old Town After School](https://carpentry-liu.github.io/awesome-astra-3d/#case=serein-dual-realms) | serein / @you1873118 | 源码 / 工程 · 演示入口 |
+| [Thornwake：丝之歌风格三维动作试炼 / Thornwake](https://carpentry-liu.github.io/awesome-astra-3d/#case=liam-thornwake) | Lehiem / LiamTodd98 | 演示入口 |
+| [Mystery Town：微缩世界三维环境解谜 / Mystery Town](https://carpentry-liu.github.io/awesome-astra-3d/#case=playableworld-mystery-town) | PlayableWorld | 演示入口 |
+| [NULLSPACE：Astra 驱动的生存恐怖 FPS / NULLSPACE](https://carpentry-liu.github.io/awesome-astra-3d/#case=marius4lui-nullspace) | marius4lui | 源码 / 工程 · 演示入口 |
+
+## 2026-09-17 · 17 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Nightborn Clash：血裔三维街机决斗 / Nightborn Clash](https://carpentry-liu.github.io/awesome-astra-3d/#case=cloak-nightborn-clash) | Cloaker Vampiror / @CloakofEcstasy | 演示入口 |
+| [Lantern Cove：猴岛风格三维冒险原型 / Lantern Cove — The Borrowed Light](https://carpentry-liu.github.io/awesome-astra-3d/#case=akartit-lantern-cove) | AK / @akartit | 演示入口 |
+| [Butterball Run：餐盘上的黄油球救援 / Butterball Run — Dinner Has Other Plans](https://carpentry-liu.github.io/awesome-astra-3d/#case=secretseoul-butterball-run) | Seolyeon / SecretSeoul | 演示入口 · 提示词 / 过程 |
+| [Sundrift：四模型对照中的 Astra 船只探索 / Sundrift — Take the Slow Way Home](https://carpentry-liu.github.io/awesome-astra-3d/#case=wesche-sundrift) | Wësche / @WescheNex1q | 演示入口 · 提示词 / 过程 |
+| [Duck Off：河道鸭子竞速 / Duck Off](https://carpentry-liu.github.io/awesome-astra-3d/#case=swarnim-duck-off) | swarnim.eth / @swarnimodi | 演示入口 |
+| [Wildwake Rally：低多边形山地拉力 / Wildwake Rally](https://carpentry-liu.github.io/awesome-astra-3d/#case=defy-wildwake-rally) | DefyEntropyV | 演示入口 |
+| [Starship Foundry：等距拼装与飞行实验室 / Starship Foundry — Isometric Flight Lab](https://carpentry-liu.github.io/awesome-astra-3d/#case=aaron-starship-foundry) | Aaron Wacker / @Aaron_Wacker | 演示入口 |
+| [Tideglass Hunt：海岸竞技场三维狩猎 / Tideglass Hunt](https://carpentry-liu.github.io/awesome-astra-3d/#case=timlb-tideglass-hunt) | Timothée Le Borgne / @Tim_LB | 演示入口 |
+| [Canteen Crashers：食堂潜行与食谱争夺 / Canteen Crashers](https://carpentry-liu.github.io/awesome-astra-3d/#case=chongdashu-canteen-crashers) | Chong-U / @chongdashu | 演示入口 |
+| [Astra Floor：程序化三维生存射击 / Astra Floor](https://carpentry-liu.github.io/awesome-astra-3d/#case=berochlu-astrafloor) | BEROCHLU | 源码 / 工程 · 演示入口 |
 | [Last Train to the Sea：开往海边的三维列车 / Last Train to the Sea](https://carpentry-liu.github.io/awesome-astra-3d/#case=aniket-last-train) | Aniket J / @aniketjart | 演示入口 · 完整视频 |
 | [LANTERN S-4：有源码与生成记录的深海探测器 / LANTERN S-4 — Abyssal Surveyor](https://carpentry-liu.github.io/awesome-astra-3d/#case=kiln-abyssal-surveyor) | Matthew Kissinger / Kiln | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
 | [Hot Wheeler：桌面玩具赛车与回环赛道 / Hot Wheeler](https://carpentry-liu.github.io/awesome-astra-3d/#case=varun-hot-wheeler) | Varun Arora / @varavibes | 演示入口 · 完整视频 |
