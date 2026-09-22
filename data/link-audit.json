@@ -1,11 +1,11 @@
 {
-  "observedAt": "2026-09-17",
-  "method": "Incremental bounded HTTP GET: 19 new image, project, demo and original-download URLs, all reachable. Historical rows retain actual timestamps. Playback URLs checked separately after publication. Reachability is not independent reproduction; signed redirect queries omitted.",
-  "checkedUrls": 476,
+  "observedAt": "2026-09-22",
+  "method": "Incremental bounded HTTP GET: 19 new image, source, demo and download URLs. 17 reachable; Cabsolutely demo returns 402 (noted in record); Reddit image returns 403 (removed from display). Historical timestamps preserved. Playback checked separately after publication; reachability is not reproduction.",
+  "checkedUrls": 495,
   "counts": {
-    "http-error": 2,
-    "restricted": 3,
-    "reachable": 471
+    "restricted": 4,
+    "reachable": 488,
+    "http-error": 3
   },
   "results": [
     {
@@ -8236,6 +8236,326 @@
       "contentType": "application/octet-stream",
       "contentRange": "bytes 0-4095/18168035",
       "result": "reachable"
+    },
+    {
+      "url": "https://fish.kennyatx.com/",
+      "uses": [
+        {
+          "caseId": "kenny-stillwater",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-09-22T03:21:45.844707+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://fish.kennyatx.com/",
+      "title": "Stillwater · Aquarium",
+      "contentType": "text/html",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HSrlP1rXMAAgMWW.jpg?name=orig",
+      "uses": [
+        {
+          "caseId": "kenny-stillwater",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-22T03:21:45.845705+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/media/HSrlP1rXMAAgMWW.jpg?name=orig",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/224901",
+      "result": "reachable"
+    },
+    {
+      "url": "https://cabsolutely.vercel.app/",
+      "uses": [
+        {
+          "caseId": "ilker-cabsolutely",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-09-22T03:21:45.845705+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 402,
+      "result": "http-error",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "url": "https://github.com/ilkerzg/cabsolutely",
+      "uses": [
+        {
+          "caseId": "ilker-cabsolutely",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-09-22T03:21:45.846707+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://github.com/ilkerzg/cabsolutely",
+      "title": "GitHub - ilkerzg/cabsolutely: A browser taxi game set in San Francisco. Built with Three.js and generated media from fal. · GitHub",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2100703084661903360/img/5gq9HvHaSTqlyCTx.jpg",
+      "uses": [
+        {
+          "caseId": "ilker-cabsolutely",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-22T03:21:45.846707+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2100703084661903360/img/5gq9HvHaSTqlyCTx.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/137027",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-22/ilker-cabsolutely-1-original.mp4",
+      "uses": [
+        {
+          "caseId": "ilker-cabsolutely",
+          "field": "downloadUrl",
+          "bytes": 65843926
+        }
+      ],
+      "observedAt": "2026-09-22T03:21:45.846707+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1358680959/01d982b5-9cb2-44b6-8fff-96fb3554672f",
+      "title": null,
+      "contentType": "application/octet-stream",
+      "contentRange": "bytes 0-4095/65843926",
+      "result": "reachable"
+    },
+    {
+      "url": "https://drone-io.vercel.app/",
+      "uses": [
+        {
+          "caseId": "angello-drone-io",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-09-22T03:21:51.406550+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://drone-io.vercel.app/",
+      "title": "DRONE.IO — Proving Grounds",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HSszxY4WMAEn773.jpg?name=orig",
+      "uses": [
+        {
+          "caseId": "angello-drone-io",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-22T03:21:52.368594+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/media/HSszxY4WMAEn773.jpg?name=orig",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/159427",
+      "result": "reachable"
+    },
+    {
+      "url": "https://weeping-angels.vercel.app/",
+      "uses": [
+        {
+          "caseId": "blendi-saint-orison",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-09-22T03:21:53.513792+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://weeping-angels.vercel.app/",
+      "title": "Don't Look Away · Saint Orison",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2100441933349113856/img/-zcl_oknjJHeAKF8.jpg",
+      "uses": [
+        {
+          "caseId": "blendi-saint-orison",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-22T03:21:53.753761+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2100441933349113856/img/-zcl_oknjJHeAKF8.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/77287",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-22/blendi-saint-orison-1-original.mp4",
+      "uses": [
+        {
+          "caseId": "blendi-saint-orison",
+          "field": "downloadUrl",
+          "bytes": 24202476
+        }
+      ],
+      "observedAt": "2026-09-22T03:21:54.142961+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1358680959/6dcc9c60-b5cd-4191-832a-92ac6ebf1e6e",
+      "title": null,
+      "contentType": "application/octet-stream",
+      "contentRange": "bytes 0-4095/24202476",
+      "result": "reachable"
+    },
+    {
+      "url": "https://www.spawn.co/@izkimar/the-crownless/play",
+      "uses": [
+        {
+          "caseId": "izkimar-crownless",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-09-22T03:21:54.557626+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://www.spawn.co/@izkimar/the-crownless/play",
+      "title": "The Crownless | Spawn",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2100753501940809729/img/f53bBSn0KO5xt3yA.jpg",
+      "uses": [
+        {
+          "caseId": "izkimar-crownless",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-22T03:21:55.725276+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2100753501940809729/img/f53bBSn0KO5xt3yA.jpg",
+      "title": null,
+      "contentType": "image/jpeg",
+      "contentRange": "bytes 0-4095/102562",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-22/izkimar-crownless-1-original.mp4",
+      "uses": [
+        {
+          "caseId": "izkimar-crownless",
+          "field": "downloadUrl",
+          "bytes": 136495778
+        }
+      ],
+      "observedAt": "2026-09-22T03:21:56.517854+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1358680959/b649c995-e654-466f-a5cb-94d86ef76998",
+      "title": null,
+      "contentType": "application/octet-stream",
+      "contentRange": "bytes 0-4095/136495778",
+      "result": "reachable"
+    },
+    {
+      "url": "https://astrafloor.berochlu.workers.dev/",
+      "uses": [
+        {
+          "caseId": "berochlu-astra-floor",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-09-22T03:21:57.607889+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://astrafloor.berochlu.workers.dev/",
+      "title": "Astra Floor — Quarantine Zone",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/BEROCHLU/astrafloor",
+      "uses": [
+        {
+          "caseId": "berochlu-astra-floor",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-09-22T03:21:57.724723+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://github.com/BEROCHLU/astrafloor",
+      "title": "GitHub - BEROCHLU/astrafloor: A browser-based 3D zombie survival FPS created with ChatGPT Plus (GPT-6 Astra) and Antigravity 2.0. Features wave combat, an upgradable arsenal, and a supply shop. Powered by Three.js, React, and Cloudflare Workers. · GitHub",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BEROCHLU/astrafloor/main/.github/image1.png",
+      "uses": [
+        {
+          "caseId": "berochlu-astra-floor",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-22T03:21:58.266103+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 206,
+      "finalUrl": "https://raw.githubusercontent.com/BEROCHLU/astrafloor/main/.github/image1.png",
+      "title": null,
+      "contentType": "image/png",
+      "contentRange": "bytes 0-4095/1468011",
+      "result": "reachable"
+    },
+    {
+      "url": "https://hezo.ai/",
+      "uses": [
+        {
+          "caseId": "hiddentao-hezo-temple",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-09-22T03:21:59.352255+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://hezo.ai/",
+      "title": null,
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://external-preview.redd.it/gpt-6-astra-unreal-blender-faster-game-development-v0-NXA5azhudmx6b3FoMW93XjSvHmcj4Q_FCGhtgQRLlXsm4fquXn8kBPsCyLQE.png?auto=webp&crop=smart&format=pjpg&s=4c1fba39caef548aea1cbf93a2a250520fcbdf27&width=640",
+      "uses": [
+        {
+          "caseId": "delicious-unreal-environment",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-09-22T03:22:00.578768+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 403,
+      "result": "restricted",
+      "error": "HTTP Error 403: Forbidden"
     }
   ],
   "previousImageUrls": [

@@ -79,6 +79,389 @@
     "addedAt": "2026-09-06"
   },
   {
+    "id": "kenny-stillwater",
+    "title": "Stillwater：可以喂鱼的三维水族箱",
+    "titleEn": "Stillwater Aquarium",
+    "group": "astra",
+    "category": "交互与工具",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Kenny Johnson / @KennyJohnsonATX",
+    "sourceUrl": "https://x.com/KennyJohnsonATX/status/2101744240095076416",
+    "sourceDate": "2026-09-20",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-22",
+    "addedAt": "2026-09-22",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。",
+    "summary": "Kenny Johnson 展示舒缓的水族箱模拟，公开浏览器入口，并明确将制作归于 Astra。可观察鱼群和水草、照料鱼缸；当前保留作者附图与演示地址，不将平台中的成长目标或长期生态平衡描述为独立验证的模拟。",
+    "outputType": [
+      "三维水族箱",
+      "浏览器照料互动"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/media/HSrlP1rXMAAgMWW.jpg?name=orig",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者原帖附图；模型文件未独立检查。",
+    "demoUrl": "https://fish.kennyatx.com/",
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/KennyJohnsonATX/status/2101744240095076416",
+      "https://api.fxtwitter.com/status/2101744240095076416"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "ilker-cabsolutely",
+    "title": "Cabsolutely：在城市街区开出租车",
+    "titleEn": "Cabsolutely",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "ilker / @ailker",
+    "sourceUrl": "https://x.com/ailker/status/2100705949468000655",
+    "sourceDate": "2026-09-17",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-22",
+    "addedAt": "2026-09-22",
+    "modelLabel": "GPT-6 Astra + fal（混合制作）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。 演示站 HTTP 402，未验证可玩。",
+    "summary": "ilker 使用 GPT-6 Astra 与 fal 制作三维出租车游戏，公开完整项目和浏览器试玩。源码包含街区、车辆与人物 GLB，以及驾驶、接客和任务界面；模型、纹理和声音属于混合制作，不能将全部基础资产归于 Astra。作者录像完整保留。 2026-09-22 检查时演示站返回 HTTP 402；源码与录像仍可查看。",
+    "outputType": [
+      "三维驾驶游戏",
+      "公开源码与 GLB",
+      "混合素材流程"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2100703084661903360/img/5gq9HvHaSTqlyCTx.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整视频及最高码率下载。",
+    "demoUrl": "https://cabsolutely.vercel.app/",
+    "videoUrl": "https://x.com/ailker/status/2100705949468000655",
+    "repositoryUrl": "https://github.com/ilkerzg/cabsolutely",
+    "evidenceUrls": [
+      "https://x.com/ailker/status/2100705949468000655",
+      "https://api.fxtwitter.com/status/2100705949468000655",
+      "https://github.com/ilkerzg/cabsolutely"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/ilker-cabsolutely-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-22/ilker-cabsolutely-1-original.mp4",
+        "durationSeconds": 26.22,
+        "bytes": 65843926,
+        "sha256": "5d8a0d7db72939aa7027aca08f12b655e0023b1ae5442e4baa351786164907bf",
+        "sourceUrl": "https://x.com/ailker/status/2100705949468000655",
+        "label": "Cabsolutely — complete recording",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2100703084661903360/img/5gq9HvHaSTqlyCTx.jpg"
+      }
+    ]
+  },
+  {
+    "id": "angello-drone-io",
+    "title": "DRONE.IO：无人机竞技场生存原型",
+    "titleEn": "DRONE.IO — Proving Grounds",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Angello🎰 / @OMASMohamad",
+    "sourceUrl": "https://x.com/OMASMohamad/status/2101830659358478516",
+    "sourceDate": "2026-09-21",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-22",
+    "addedAt": "2026-09-22",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。",
+    "summary": "Angello 用 Astra、Three.js 与 HTML5 制作无人机／喷气机竞技场，公开四张场景图和浏览器试玩。作者明确说明仍需完善；本条保留本地电脑对手玩法线索，不依据 .io 名称推断已有在线多人系统。",
+    "outputType": [
+      "Three.js 飞行竞技场",
+      "浏览器游戏原型"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/media/HSszxY4WMAEn773.jpg?name=orig",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者原帖附图；模型文件未独立检查。",
+    "demoUrl": "https://drone-io.vercel.app/",
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/OMASMohamad/status/2101830659358478516",
+      "https://api.fxtwitter.com/status/2101830659358478516"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "开发中的原型；未独立验证多人或完整升级流程。"
+  },
+  {
+    "id": "blendi-saint-orison",
+    "title": "Saint Orison：视线之外移动的天使",
+    "titleEn": "Don’t Look Away — Saint Orison",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Blendi / @BlendiByl",
+    "sourceUrl": "https://x.com/BlendiByl/status/2100442177159729336",
+    "sourceDate": "2026-09-17",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-22",
+    "addedAt": "2026-09-22",
+    "modelLabel": "GPT-6 Astra + fal（混合制作）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Blendi 用 GPT-6 Astra 与 fal 制作教堂恐怖游戏，围绕视线、眨眼和手电展开；作者推荐桌面和耳机。完整录像与试玩入口可查看效果，人物、场景与声音的逐项资产来源未公开，不写成纯 Astra 建模。",
+    "outputType": [
+      "浏览器三维场景",
+      "视线驱动玩法"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2100441933349113856/img/-zcl_oknjJHeAKF8.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整视频及最高码率下载。",
+    "demoUrl": "https://weeping-angels.vercel.app/",
+    "videoUrl": "https://x.com/BlendiByl/status/2100442177159729336",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/BlendiByl/status/2100442177159729336",
+      "https://api.fxtwitter.com/status/2100442177159729336"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/blendi-saint-orison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-22/blendi-saint-orison-1-original.mp4",
+        "durationSeconds": 57.28,
+        "bytes": 24202476,
+        "sha256": "4655c898abb8de89d02c2fc757398c6a9532edcd96cf044b6b6b3f158045fe57",
+        "sourceUrl": "https://x.com/BlendiByl/status/2100442177159729336",
+        "label": "Don’t Look Away — Saint Orison — complete recording",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2100441933349113856/img/-zcl_oknjJHeAKF8.jpg"
+      }
+    ]
+  },
+  {
+    "id": "izkimar-crownless",
+    "title": "The Crownless：在城堡里边玩边迭代",
+    "titleEn": "The Crownless",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Izkimar / @Izkimar",
+    "sourceUrl": "https://x.com/Izkimar/status/2100753871903855095",
+    "sourceDate": "2026-09-18",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-22",
+    "addedAt": "2026-09-22",
+    "modelLabel": "Astra / Spawn（作者自述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖镜像已核对，原站待复核",
+    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
+    "sourceAccess": "FxTwitter 精确根帖镜像；试玩入口另由社区索引及对应作品名核对。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Izkimar 展示在 Spawn 中用 Astra 制作的动作 roguelike，公开城堡战斗录像。作者称用一天多完成当前版本，并在游玩时持续提出改动；耗时为作者自述。公开试玩需要支持 WebGPU 的浏览器和在线服务，未独立验证通关。",
+    "outputType": [
+      "三维动作游戏",
+      "持续交互迭代"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2100753501940809729/img/f53bBSn0KO5xt3yA.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "作者原帖视频封面。 附完整视频及最高码率下载。",
+    "demoUrl": "https://www.spawn.co/@izkimar/the-crownless/play",
+    "videoUrl": "https://x.com/Izkimar/status/2100753871903855095",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/Izkimar/status/2100753871903855095",
+      "https://api.fxtwitter.com/status/2100753871903855095"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/izkimar-crownless-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-22/izkimar-crownless-1-original.mp4",
+        "durationSeconds": 159.99,
+        "bytes": 136495778,
+        "sha256": "503270be89847bd95303243e6e15ad1cd0c576b92dff73c5b0f211f705477dad",
+        "sourceUrl": "https://x.com/Izkimar/status/2100753871903855095",
+        "label": "The Crownless — complete recording",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2100753501940809729/img/f53bBSn0KO5xt3yA.jpg"
+      }
+    ]
+  },
+  {
+    "id": "berochlu-astra-floor",
+    "title": "Astra Floor：程序化三维生存射击",
+    "titleEn": "Astra Floor",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "BEROCHLU",
+    "sourceUrl": "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/96",
+    "sourceDate": "2026-09-17",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-22",
+    "addedAt": "2026-09-22",
+    "modelLabel": "GPT-6 Astra + Antigravity 2.0（作者明确分工）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "直接读取作者投稿、README 和公开文件树；未运行第三方工程。",
+    "summary": "作者公开单人三维生存射击工程，包含武器后坐、体力、近战和敌人波次。作者明确区分 Astra 参与的架构、程序化几何与 Web Audio，以及 Antigravity 2.0 的其余实现和完善。仓库含贴图文件，不将宣传中的“无外部资产下载”扩大为没有任何贴图或全部素材由 Astra 生成。",
+    "outputType": [
+      "Three.js 游戏源码",
+      "程序化模型",
+      "Web Audio"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://raw.githubusercontent.com/BEROCHLU/astrafloor/main/.github/image1.png",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者仓库 README 使用的 Astra Floor 标题界面截图。",
+    "demoUrl": "https://astrafloor.berochlu.workers.dev/",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/BEROCHLU/astrafloor",
+    "evidenceUrls": [
+      "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/96",
+      "https://github.com/BEROCHLU/astrafloor"
+    ],
+    "licenseNotes": "仓库标注 MIT；第三方素材及商标权利另行核对。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "hiddentao-hezo-temple",
+    "title": "Hezo：滚动穿过山间寺庙的 WebGPU 网页",
+    "titleEn": "Hezo Procedural Temple Journey",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "作者博客",
+    "platforms": [
+      "作者博客"
+    ],
+    "author": "Hiddentao",
+    "sourceUrl": "https://hiddentao.com/archives/2026/09/16/building-a-high-fidelity-3d-realtime-rendered-background-scene-using-fable-and-astra/",
+    "sourceDate": "2026-09-16",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-22",
+    "addedAt": "2026-09-22",
+    "modelLabel": "Higgsfield → Fable → GPT-6 Astra → Opus（分阶段）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "直接读取作者原文、工具分工与性能限制；未将参考视频当作实际三维输出截图。",
+    "summary": "作者将寺门、湖上石道与山顶寺庙做成随滚动推进的 Three.js / WebGPU 首页，并提供日夜模式。参考视频由 Higgsfield 生成，Fable 负责布局原型，Astra 实现精细场景，Opus 继续优化加载和移动端层级。文章公开多轮过程；性能数字为作者测量，非本库测试。",
+    "outputType": [
+      "程序化场景",
+      "Three.js / WebGPU",
+      "滚动叙事网页"
+    ],
+    "promptAvailability": "作者公开多个阶段的提示词与迭代说明",
+    "promptExcerpt": null,
+    "promptSummary": "先分别确定镜头参考与内容布局，再实现程序化场景；随后测量加载瓶颈并对移动设备降低场景复杂度。",
+    "promptUrl": "https://hiddentao.com/archives/2026/09/16/building-a-high-fidelity-3d-realtime-rendered-background-scene-using-fable-and-astra/",
+    "imageUrl": null,
+    "imageKind": "none",
+    "imageCaption": "未取得可用的作者效果图。",
+    "demoUrl": "https://hezo.ai/",
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://hiddentao.com/archives/2026/09/16/building-a-high-fidelity-3d-realtime-rendered-background-scene-using-fable-and-astra/"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "delicious-unreal-environment",
+    "title": "Unreal 环境：生成、清理与人工布光",
+    "titleEn": "Unreal Environment — Mixed Asset Workflow",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "Reddit",
+    "platforms": [
+      "Reddit"
+    ],
+    "author": "Delicious-Shower8401",
+    "sourceUrl": "https://www.reddit.com/r/ChatGPT/comments/1wljrn8/gpt6_astra_unreal_blender_faster_game_development/",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-22",
+    "addedAt": "2026-09-22",
+    "modelLabel": "GPT-6 Astra + Tripo P2 + Blender + Unreal",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "直接读取 Reddit 原帖正文和作者署名；相对时间与搜索日期不足以独立锁定首次发表日，保留 null。",
+    "summary": "作者用 Astra 编排环境重建和重复设置，通过 Tripo P2 制作部分资产，在 Blender 清理后导入 Unreal，并使用 Dream-loop 工作流。树木、灯光和部分环境细节又由作者手工调整；原帖承认仍然粗糙。按一个混合制作案例收录，不把跨社区重复帖算成多个作品。",
+    "outputType": [
+      "Unreal 场景",
+      "Blender 资产整理",
+      "人工修订"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": null,
+    "imageKind": "none",
+    "imageCaption": "原帖预览图访问受限，效果请查看作者原帖。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://www.reddit.com/r/ChatGPT/comments/1wljrn8/gpt6_astra_unreal_blender_faster_game_development/"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
     "id": "aniket-last-train",
     "title": "Last Train to the Sea：开往海边的三维列车",
     "titleEn": "Last Train to the Sea",
@@ -92,14 +475,14 @@
     "sourceUrl": "https://x.com/aniketjart/status/2099652076829909064",
     "sourceDate": "2026-09-15",
     "secondaryPublishedAt": null,
-    "observedAt": "2026-09-17",
+    "observedAt": "2026-09-22",
     "addedAt": "2026-09-17",
     "modelLabel": "GPT-6 Astra + Crayon + Three.js",
     "evidenceLevel": "secondary",
     "evidenceStatus": "原帖镜像已核对，原站待复核",
     "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
-    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
-    "summary": "Aniket J 展示温暖动画风格的三维列车模拟：操作列车、沿海岸行驶，并公开浏览器入口。作者明确说明 GPT-6 Astra 参与实现、Crayon 用于界面、Three.js 用于三维表现；原帖说制作经历了一段时间并计划继续更新，不属于已核验的一次提示成品。",
+    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。 另直接读取作者 aniketjatav 的 Reddit 正文和回复，并核对相同 Crayon 作品地址。",
+    "summary": "Aniket J 展示温暖动画风格的三维列车模拟：操作列车、沿海岸行驶，并公开浏览器入口。作者明确说明 GPT-6 Astra 参与实现、Crayon 用于界面、Three.js 用于三维表现；原帖说制作经历了一段时间并计划继续更新，不属于已核验的一次提示成品。 9 月 22 日补读作者 Reddit 帖及相同试玩链接：世界为三维，角色和部分组件为二维；属于 2.5D 混合表现，经历多轮迭代。",
     "outputType": [
       "Three.js 列车场景",
       "浏览器游戏",
@@ -117,7 +500,8 @@
     "repositoryUrl": null,
     "evidenceUrls": [
       "https://x.com/aniketjart/status/2099652076829909064",
-      "https://api.fxtwitter.com/status/2099652076829909064"
+      "https://api.fxtwitter.com/status/2099652076829909064",
+      "https://www.reddit.com/r/aigamedev/comments/1wl2huy/i_built_a_ghibli_style_train_sim_world_using_astra/"
     ],
     "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
     "outcome": "作者展示；未独立复现。",

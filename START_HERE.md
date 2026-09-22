@@ -84,3 +84,8 @@
 ```
 
 这份模板只用于记录自己的实验，不是上述作者的原始提示词。有了真实结果后，可以通过 [案例投稿](https://github.com/carpentry-liu/awesome-astra-3d/issues/new?template=case.yml) 补充到索引。
+
+## 9 月 22 日补充：驾驶游戏与混合工作流
+
+- [Cabsolutely 源码](https://github.com/ilkerzg/cabsolutely)：对照城市、车辆、角色 GLB 与驾驶逻辑研究浏览器游戏；作者使用 Astra 与 fal，不能把全部资产归于单个模型。
+- [Hezo 制作过程](https://hiddentao.com/archives/2026/09/16/building-a-high-fidelity-3d-realtime-rendered-background-scene-using-fable-and-astra/)：参考视频 → Fable 布局 → Astra 场景代码 → Opus 优化，适合研究滚动驱动的 Three.js / WebGPU 场景；这是作者的制作记录，性能未由本库独立复现。

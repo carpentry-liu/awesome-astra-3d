@@ -13,24 +13,24 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-09-17（Asia/Shanghai）**：**190 条 Astra 案例** · **56 条源码 / 工程** · **71 个演示入口** · **94 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-09-22（Asia/Shanghai）**：**198 条 Astra 案例** · **58 条源码 / 工程** · **78 个演示入口** · **97 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 ## 这次更新，先看效果
 
-| 海边列车 · Last Train | 可编辑模型 · LANTERN S-4 | 解谜冒险 · Vesper |
+| 水族箱 · Stillwater | 出租车 · Cabsolutely | 无人机 · DRONE.IO |
 | --- | --- | --- |
-| [![Last Train to the Sea — Aniket J / @aniketjart](https://pbs.twimg.com/amplify_video_thumb/2099651681910992896/img/DF5BMddGcBWIhYbV.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=aniket-last-train) | [![LANTERN S-4 — Abyssal Surveyor — Matthew Kissinger / Kiln](https://assets.kilnstudio.tools/renders/abyssal-surveyor.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=kiln-abyssal-surveyor) | [![Vesper — The Last Light — kvickan / MansGullberg](https://i.imgur.com/yGwD5gf.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=kvickan-vesper) |
-| 玩具赛车 · Hot Wheeler | 三维关卡 · DEAD END | 混合工具 · 武士森林 |
-| [![Hot Wheeler — Varun Arora / @varavibes](https://pbs.twimg.com/amplify_video_thumb/2099269396233658368/img/J4Xg_RGG6zDTXI7h.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=varun-hot-wheeler) | [![DEAD END — Oakridge 3D — Minsang Daniel Kim / @msdkim0424](https://pbs.twimg.com/amplify_video_thumb/2099851484175466496/img/J4g8YkopypoCM-rv.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=msd-dead-end) | [![Samurai Forest — Astra and Rodin — Jaynit Makwana / @JaynitMakwana](https://pbs.twimg.com/amplify_video_thumb/2099450912301584384/img/U6MEEycgCqcxgO1-.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=jaynit-samurai-forest) |
+| [![Stillwater Aquarium — Kenny Johnson / @KennyJohnsonATX](https://pbs.twimg.com/media/HSrlP1rXMAAgMWW.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=kenny-stillwater) | [![Cabsolutely — ilker / @ailker](https://pbs.twimg.com/amplify_video_thumb/2100703084661903360/img/5gq9HvHaSTqlyCTx.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=ilker-cabsolutely) | [![DRONE.IO — Proving Grounds — Angello🎰 / @OMASMohamad](https://pbs.twimg.com/media/HSszxY4WMAEn773.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=angello-drone-io) |
+| 惊悚探索 · Saint Orison | 动作游戏 · The Crownless | 开源游戏 · AstraFloor |
+| [![Don’t Look Away — Saint Orison — Blendi / @BlendiByl](https://pbs.twimg.com/amplify_video_thumb/2100441933349113856/img/-zcl_oknjJHeAKF8.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=blendi-saint-orison) | [![The Crownless — Izkimar / @Izkimar](https://pbs.twimg.com/amplify_video_thumb/2100753501940809729/img/f53bBSn0KO5xt3yA.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=izkimar-crownless) | [![Astra Floor — BEROCHLU](https://raw.githubusercontent.com/BEROCHLU/astrafloor/main/.github/image1.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=berochlu-astra-floor) |
 
-点击图片查看作者、完整录像与材料。六张均为本轮新收录：LANTERN S-4 提供源码和单件生成记录；武士角色由 Rodin 生成，DEAD END 混合了导入素材。保留工具分工与实际完成程度。
+点击图片查看作者、来源和材料。Cabsolutely、Saint Orison 使用 Astra 与 fal；AstraFloor 还经过 Antigravity 2.0 调整，预览为作者提供的标题画面。三段新录像均保留完整时长。
 
 ## 网站实拍
 
-[![Astra 3D Atlas 正式网站首页](docs/media/homepage-2026-09-17.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 正式网站首页](docs/media/homepage-2026-09-22.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-本次更新实拍 · 2026-09-17。点击图片进入案例库。
+本次更新实拍 · 2026-09-22。点击图片进入案例库。
 
 ## 找到你的下一次创作
 
@@ -44,21 +44,21 @@
 
 ## 最新收录
 
-本轮新增 **7 条收录、5 段完整 X 视频、1 份源码 / 工程、6 个演示入口**：海边列车、深海探测器、玩具赛车、Vesper、DEAD END、武士森林和 VeilFall。**本轮收录不等于近日创作**，详情保留原始日期与完成程度。首页精选与三张网站实拍同步更新。
+本轮新增 **8 条收录、3 段完整 X 视频、2 份源码 / 工程、7 个演示入口**：水族箱、出租车、无人机、Saint Orison、The Crownless、AstraFloor、Hezo 寺庙与 Unreal 环境。**新收录不等于近日创作**，原始日期与混合工具分工均保留。
 
-**已有项目进展：** [Belt Runner](https://carpentry-liu.github.io/awesome-astra-3d/#case=nrivali-belt-runner) 补充近景 LOD 0、船体碰撞、雷达及配乐等后续里程碑；更新原记录，不重复计数。
+**已有项目进展：** [Last Train](https://carpentry-liu.github.io/awesome-astra-3d/#case=aniket-last-train) 补充作者的新说明：三维场景搭配部分二维角色，并经过多轮迭代；更新原记录，不重复计数。
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
-| [Last Train to the Sea：开往海边的三维列车](https://carpentry-liu.github.io/awesome-astra-3d/#case=aniket-last-train) | Aniket J / @aniketjart | [演示](https://app.usecrayon.ai/play/bda1b910-b840-48cb-bb4c-28d0cde29107) · [原始来源](https://x.com/aniketjart/status/2099652076829909064) |
-| [LANTERN S-4：有源码与生成记录的深海探测器](https://carpentry-liu.github.io/awesome-astra-3d/#case=kiln-abyssal-surveyor) | Matthew Kissinger / Kiln | [演示](https://kilnstudio.tools/#/abyssal-surveyor) · [源码](https://github.com/matthew-kissinger/kiln) · [原始来源](https://github.com/matthew-kissinger/kiln/blob/main/examples/abyssal-surveyor.provenance.json) |
-| [Hot Wheeler：桌面玩具赛车与回环赛道](https://carpentry-liu.github.io/awesome-astra-3d/#case=varun-hot-wheeler) | Varun Arora / @varavibes | [演示](https://hot-wheeler.vercel.app/) · [原始来源](https://x.com/varavibes/status/2099269587401580886) |
-| [Vesper：在沉没花园寻找最后的光](https://carpentry-liu.github.io/awesome-astra-3d/#case=kvickan-vesper) | kvickan / MansGullberg | [演示](https://vesper.mansgullberg.chatgpt.site/) · [原始来源](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/82) |
-| [DEAD END：把 Oakridge 关卡改成三维](https://carpentry-liu.github.io/awesome-astra-3d/#case=msd-dead-end) | Minsang Daniel Kim / @msdkim0424 | [演示](https://dead-end.replit.app/) · [原始来源](https://x.com/msdkim0424/status/2099852357660262425) |
-| [武士森林：Astra 编排与 Rodin 角色](https://carpentry-liu.github.io/awesome-astra-3d/#case=jaynit-samurai-forest) | Jaynit Makwana / @JaynitMakwana | [原始来源](https://x.com/JaynitMakwana/status/2099450933067612421) |
-| [VeilFall：仍在开发的三维战斗试炼](https://carpentry-liu.github.io/awesome-astra-3d/#case=noni-veilfall) | Shehnoor Ansari (Noni) / @Noni_Shehnoor | [演示](https://veilfall.replit.app/play) · [原始来源](https://x.com/Noni_Shehnoor/status/2099641097030959469) |
-| [锦鲤池：鱼群、涟漪与水面交互](https://carpentry-liu.github.io/awesome-astra-3d/#case=vib3-koi-pond) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2098492771170722032) |
+| [Stillwater：可以喂鱼的三维水族箱](https://carpentry-liu.github.io/awesome-astra-3d/#case=kenny-stillwater) | Kenny Johnson / @KennyJohnsonATX | [演示](https://fish.kennyatx.com/) · [原始来源](https://x.com/KennyJohnsonATX/status/2101744240095076416) |
+| [Cabsolutely：在城市街区开出租车](https://carpentry-liu.github.io/awesome-astra-3d/#case=ilker-cabsolutely) | ilker / @ailker | [演示](https://cabsolutely.vercel.app/) · [源码](https://github.com/ilkerzg/cabsolutely) · [原始来源](https://x.com/ailker/status/2100705949468000655) |
+| [DRONE.IO：无人机竞技场生存原型](https://carpentry-liu.github.io/awesome-astra-3d/#case=angello-drone-io) | Angello🎰 / @OMASMohamad | [演示](https://drone-io.vercel.app/) · [原始来源](https://x.com/OMASMohamad/status/2101830659358478516) |
+| [Saint Orison：视线之外移动的天使](https://carpentry-liu.github.io/awesome-astra-3d/#case=blendi-saint-orison) | Blendi / @BlendiByl | [演示](https://weeping-angels.vercel.app/) · [原始来源](https://x.com/BlendiByl/status/2100442177159729336) |
+| [The Crownless：在城堡里边玩边迭代](https://carpentry-liu.github.io/awesome-astra-3d/#case=izkimar-crownless) | Izkimar / @Izkimar | [演示](https://www.spawn.co/@izkimar/the-crownless/play) · [原始来源](https://x.com/Izkimar/status/2100753871903855095) |
+| [Astra Floor：程序化三维生存射击](https://carpentry-liu.github.io/awesome-astra-3d/#case=berochlu-astra-floor) | BEROCHLU | [演示](https://astrafloor.berochlu.workers.dev/) · [源码](https://github.com/BEROCHLU/astrafloor) · [原始来源](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/96) |
+| [Hezo：滚动穿过山间寺庙的 WebGPU 网页](https://carpentry-liu.github.io/awesome-astra-3d/#case=hiddentao-hezo-temple) | Hiddentao | [演示](https://hezo.ai/) · [原始来源](https://hiddentao.com/archives/2026/09/16/building-a-high-fidelity-3d-realtime-rendered-background-scene-using-fable-and-astra/) |
+| [Unreal 环境：生成、清理与人工布光](https://carpentry-liu.github.io/awesome-astra-3d/#case=delicious-unreal-environment) | Delicious-Shower8401 | [原始来源](https://www.reddit.com/r/ChatGPT/comments/1wljrn8/gpt6_astra_unreal_blender_faster_game_development/) |
 <!-- atlas:latest:end -->
 
 [查看完整更新目录 →](UPDATES.md)
@@ -72,11 +72,11 @@
 - 手机布局、键盘操作与图片失败提示均保留；方法参考与 Astra 案例分别呈现。
 
 <details>
-<summary>查看案例区与手机实拍 · 2026-09-17</summary>
+<summary>查看案例区与手机实拍 · 2026-09-22</summary>
 
-[![最新案例与分类侧栏](docs/media/collection-2026-09-17.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![最新案例与分类侧栏](docs/media/collection-2026-09-22.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端欢迎页，精选作品与资源导航](docs/media/mobile-2026-09-17.jpg)
+![手机端欢迎页，精选作品与资源导航](docs/media/mobile-2026-09-22.jpg)
 
 </details>
 

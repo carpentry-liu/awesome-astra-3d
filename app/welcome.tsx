@@ -5,27 +5,9 @@ import { ArrowRight, ArrowUpRight, Code2, Play, Layers3 } from 'lucide-react';
 import { type Case } from '@/src/catalog';
 
 const spotlights = [
-  {
-    id: 'aniket-last-train',
-    credit: 'Aniket J',
-    name: '搭一班开往海边的列车',
-    label: '三维列车模拟',
-    note: 'Astra × Crayon × Three.js · 完整运行录像',
-  },
-  {
-    id: 'kiln-abyssal-surveyor',
-    credit: 'Matthew Kissinger / Kiln',
-    name: '一台可以拆开研究的探测器',
-    label: '程序化模型与源码',
-    note: 'LANTERN S-4 · GLB、代码与单件创作记录',
-  },
-  {
-    id: 'varun-hot-wheeler',
-    credit: 'Varun Arora',
-    name: '让玩具赛车，冲上回环',
-    label: '浏览器赛车游戏',
-    note: 'Hot Wheeler · 氮气、回环与桌面赛道',
-  },
+  { id: 'kenny-stillwater', credit: 'Kenny Johnson', name: '把一座水族箱，放进浏览器', label: '交互水族箱', note: 'Stillwater · 鱼群、水草与水下光影' },
+  { id: 'ilker-cabsolutely', credit: 'ilker', name: '开着出租车，穿过一座小城', label: '开源驾驶游戏', note: 'Cabsolutely · Astra × fal · 源码与完整录像' },
+  { id: 'angello-drone-io', credit: 'Angello', name: '驾驶无人机，进入空中战场', label: '三维对战原型', note: 'DRONE.IO · Astra × Three.js · 持续开发中' },
 ];
 export function Welcome({
   cases,

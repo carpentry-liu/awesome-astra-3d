@@ -737,6 +737,60 @@
           "reason": "Tool support is not a verified generated-asset example."
         }
       ]
+    },
+    {
+      "observedAt": "2026-09-22",
+      "batch": "late-september",
+      "addedCount": 8,
+      "caseIds": [
+        "kenny-stillwater",
+        "ilker-cabsolutely",
+        "angello-drone-io",
+        "blendi-saint-orison",
+        "izkimar-crownless",
+        "berochlu-astra-floor",
+        "hiddentao-hezo-temple",
+        "delicious-unreal-environment"
+      ],
+      "updatedCaseIds": [
+        "aniket-last-train"
+      ],
+      "sources": [
+        "https://x.com/KennyJohnsonATX/status/2101744240095076416",
+        "https://x.com/ailker/status/2100705949468000655",
+        "https://x.com/OMASMohamad/status/2101830659358478516",
+        "https://x.com/BlendiByl/status/2100442177159729336",
+        "https://x.com/Izkimar/status/2100753871903855095",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/96",
+        "https://hiddentao.com/archives/2026/09/16/building-a-high-fidelity-3d-realtime-rendered-background-scene-using-fable-and-astra/",
+        "https://www.reddit.com/r/ChatGPT/comments/1wljrn8/gpt6_astra_unreal_blender_faster_game_development/",
+        "https://www.reddit.com/r/aigamedev/comments/1wl2huy/i_built_a_ghibli_style_train_sim_world_using_astra/"
+      ],
+      "discoverySources": [
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra",
+        "https://github.com/TripoGrowthLab/awesome-astra-prompts"
+      ],
+      "method": "Public web, author articles, GitHub and Reddit; exact-post FxTwitter mirrors retain secondary attribution. No independent game completion or rebuild.",
+      "notes": [
+        "Eight additions and one existing-record clarification; three complete X clips in source and full playback renditions.",
+        "Keep original publication dates; unresolved Reddit publication date stays null.",
+        "Hezo is a Higgsfield/Fable/Astra/Opus workflow; Unreal includes Tripo, Blender and human edits.",
+        "Xiaohongshu remains excluded. GitHub and Pages only; no ChatGPT/Sites deployment."
+      ],
+      "excluded": [
+        {
+          "source": "https://github.com/murderszn/aegis-flora",
+          "reason": "No work-specific Astra attribution in README; original X unavailable."
+        },
+        {
+          "source": "Moonlit Swamp / Sculpted Tower Reddit posts",
+          "reason": "Unclear original authorship or model provenance; held for verification."
+        },
+        {
+          "source": "ASTRA AI-DJ and everscending/astra",
+          "reason": "Project names do not establish GPT-6 Astra model attribution."
+        }
+      ]
     }
   ]
 }

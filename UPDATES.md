@@ -2,6 +2,19 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-09-22 · 8 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Stillwater：可以喂鱼的三维水族箱 / Stillwater Aquarium](https://carpentry-liu.github.io/awesome-astra-3d/#case=kenny-stillwater) | Kenny Johnson / @KennyJohnsonATX | 演示入口 |
+| [Cabsolutely：在城市街区开出租车 / Cabsolutely](https://carpentry-liu.github.io/awesome-astra-3d/#case=ilker-cabsolutely) | ilker / @ailker | 源码 / 工程 · 演示入口 · 完整视频 |
+| [DRONE.IO：无人机竞技场生存原型 / DRONE.IO — Proving Grounds](https://carpentry-liu.github.io/awesome-astra-3d/#case=angello-drone-io) | Angello🎰 / @OMASMohamad | 演示入口 |
+| [Saint Orison：视线之外移动的天使 / Don’t Look Away — Saint Orison](https://carpentry-liu.github.io/awesome-astra-3d/#case=blendi-saint-orison) | Blendi / @BlendiByl | 演示入口 · 完整视频 |
+| [The Crownless：在城堡里边玩边迭代 / The Crownless](https://carpentry-liu.github.io/awesome-astra-3d/#case=izkimar-crownless) | Izkimar / @Izkimar | 演示入口 · 完整视频 |
+| [Astra Floor：程序化三维生存射击 / Astra Floor](https://carpentry-liu.github.io/awesome-astra-3d/#case=berochlu-astra-floor) | BEROCHLU | 源码 / 工程 · 演示入口 |
+| [Hezo：滚动穿过山间寺庙的 WebGPU 网页 / Hezo Procedural Temple Journey](https://carpentry-liu.github.io/awesome-astra-3d/#case=hiddentao-hezo-temple) | Hiddentao | 演示入口 · 提示词 / 过程 |
+| [Unreal 环境：生成、清理与人工布光 / Unreal Environment — Mixed Asset Workflow](https://carpentry-liu.github.io/awesome-astra-3d/#case=delicious-unreal-environment) | Delicious-Shower8401 | 作者展示 |
+
 ## 2026-09-17 · 7 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

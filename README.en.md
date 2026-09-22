@@ -13,24 +13,24 @@ Explore GPT-6 Astra in 3D: Blender, Houdini, Three.js, WebGL, CAD, VRM and inter
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-09-17 (Asia/Shanghai)** · **190 Astra examples** · **56 source / project links** · **71 demo links** · **94 complete videos** · **12 separate references**.
+Updated **2026-09-22 (Asia/Shanghai)** · **198 Astra examples** · **58 source / project links** · **78 demo links** · **97 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 ## New work, at a glance
 
-| Coastal train · Last Train | Editable model · LANTERN S-4 | Adventure · Vesper |
+| Aquarium · Stillwater | Taxi · Cabsolutely | Drone · DRONE.IO |
 | --- | --- | --- |
-| [![Last Train to the Sea — Aniket J / @aniketjart](https://pbs.twimg.com/amplify_video_thumb/2099651681910992896/img/DF5BMddGcBWIhYbV.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=aniket-last-train) | [![LANTERN S-4 — Abyssal Surveyor — Matthew Kissinger / Kiln](https://assets.kilnstudio.tools/renders/abyssal-surveyor.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=kiln-abyssal-surveyor) | [![Vesper — The Last Light — kvickan / MansGullberg](https://i.imgur.com/yGwD5gf.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=kvickan-vesper) |
-| Toy racing · Hot Wheeler | 3D level · DEAD END | Mixed tools · Samurai Forest |
-| [![Hot Wheeler — Varun Arora / @varavibes](https://pbs.twimg.com/amplify_video_thumb/2099269396233658368/img/J4Xg_RGG6zDTXI7h.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=varun-hot-wheeler) | [![DEAD END — Oakridge 3D — Minsang Daniel Kim / @msdkim0424](https://pbs.twimg.com/amplify_video_thumb/2099851484175466496/img/J4g8YkopypoCM-rv.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=msd-dead-end) | [![Samurai Forest — Astra and Rodin — Jaynit Makwana / @JaynitMakwana](https://pbs.twimg.com/amplify_video_thumb/2099450912301584384/img/U6MEEycgCqcxgO1-.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=jaynit-samurai-forest) |
+| [![Stillwater Aquarium — Kenny Johnson / @KennyJohnsonATX](https://pbs.twimg.com/media/HSrlP1rXMAAgMWW.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=kenny-stillwater) | [![Cabsolutely — ilker / @ailker](https://pbs.twimg.com/amplify_video_thumb/2100703084661903360/img/5gq9HvHaSTqlyCTx.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=ilker-cabsolutely) | [![DRONE.IO — Proving Grounds — Angello🎰 / @OMASMohamad](https://pbs.twimg.com/media/HSszxY4WMAEn773.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=angello-drone-io) |
+| Horror · Saint Orison | Action · The Crownless | Open source · AstraFloor |
+| [![Don’t Look Away — Saint Orison — Blendi / @BlendiByl](https://pbs.twimg.com/amplify_video_thumb/2100441933349113856/img/-zcl_oknjJHeAKF8.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=blendi-saint-orison) | [![The Crownless — Izkimar / @Izkimar](https://pbs.twimg.com/amplify_video_thumb/2100753501940809729/img/f53bBSn0KO5xt3yA.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=izkimar-crownless) | [![Astra Floor — BEROCHLU](https://raw.githubusercontent.com/BEROCHLU/astrafloor/main/.github/image1.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=berochlu-astra-floor) |
 
-Six new additions, linked to creator credits and materials. LANTERN S-4 includes source and asset-specific provenance. The samurai character comes from Rodin; DEAD END mixes generated and imported assets. Tool roles and completion limits remain explicit.
+Open each image for creator credits and evidence. Cabsolutely and Saint Orison use Astra with fal; AstraFloor also uses Antigravity 2.0 refinements, and its preview is the author’s title screen. Three new recordings retain their full duration.
 
 ## Live website preview
 
-[![Astra 3D Atlas live homepage](docs/media/homepage-2026-09-17.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas live homepage](docs/media/homepage-2026-09-22.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-Captured from this update on September 17, 2026. Click to explore the gallery.
+Captured from this update on September 22, 2026. Click to explore the gallery.
 
 ## Choose a starting point
 
@@ -44,21 +44,21 @@ Captured from this update on September 17, 2026. Click to explore the gallery.
 
 ## Latest additions
 
-This refresh adds **7 examples, 5 complete X videos, 1 source project and 6 demo links**: Last Train, LANTERN S-4, Hot Wheeler, Vesper, DEAD END, Samurai Forest and VeilFall. **Newly collected does not mean newly created**; original dates and completion limits remain visible. Featured work and three website screenshots are refreshed.
+This refresh adds **8 examples, 3 complete X videos, 2 source projects and 7 demo links**: Stillwater, Cabsolutely, DRONE.IO, Saint Orison, The Crownless, AstraFloor, Hezo and an Unreal environment. **Newly collected does not mean newly created**; original dates and mixed-tool roles remain explicit.
 
-**Project progress:** [Belt Runner](https://carpentry-liu.github.io/awesome-astra-3d/#case=nrivali-belt-runner) now documents LOD 0, hull collision, radar and music milestones. Its existing record is updated without adding a duplicate.
+**Project progress:** [Last Train](https://carpentry-liu.github.io/awesome-astra-3d/#case=aniket-last-train) now includes the creator’s explanation of its 3D world, partly 2D characters and multiple iterations. The existing record is updated without duplication.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [Last Train to the Sea](https://carpentry-liu.github.io/awesome-astra-3d/#case=aniket-last-train) | Aniket J / @aniketjart | [Demo](https://app.usecrayon.ai/play/bda1b910-b840-48cb-bb4c-28d0cde29107) · [Original](https://x.com/aniketjart/status/2099652076829909064) |
-| [LANTERN S-4 — Abyssal Surveyor](https://carpentry-liu.github.io/awesome-astra-3d/#case=kiln-abyssal-surveyor) | Matthew Kissinger / Kiln | [Demo](https://kilnstudio.tools/#/abyssal-surveyor) · [Source](https://github.com/matthew-kissinger/kiln) · [Original](https://github.com/matthew-kissinger/kiln/blob/main/examples/abyssal-surveyor.provenance.json) |
-| [Hot Wheeler](https://carpentry-liu.github.io/awesome-astra-3d/#case=varun-hot-wheeler) | Varun Arora / @varavibes | [Demo](https://hot-wheeler.vercel.app/) · [Original](https://x.com/varavibes/status/2099269587401580886) |
-| [Vesper — The Last Light](https://carpentry-liu.github.io/awesome-astra-3d/#case=kvickan-vesper) | kvickan / MansGullberg | [Demo](https://vesper.mansgullberg.chatgpt.site/) · [Original](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/82) |
-| [DEAD END — Oakridge 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=msd-dead-end) | Minsang Daniel Kim / @msdkim0424 | [Demo](https://dead-end.replit.app/) · [Original](https://x.com/msdkim0424/status/2099852357660262425) |
-| [Samurai Forest — Astra and Rodin](https://carpentry-liu.github.io/awesome-astra-3d/#case=jaynit-samurai-forest) | Jaynit Makwana / @JaynitMakwana | [Original](https://x.com/JaynitMakwana/status/2099450933067612421) |
-| [VeilFall — God’s Heart](https://carpentry-liu.github.io/awesome-astra-3d/#case=noni-veilfall) | Shehnoor Ansari (Noni) / @Noni_Shehnoor | [Demo](https://veilfall.replit.app/play) · [Original](https://x.com/Noni_Shehnoor/status/2099641097030959469) |
-| [Interactive Koi Pond](https://carpentry-liu.github.io/awesome-astra-3d/#case=vib3-koi-pond) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2098492771170722032) |
+| [Stillwater Aquarium](https://carpentry-liu.github.io/awesome-astra-3d/#case=kenny-stillwater) | Kenny Johnson / @KennyJohnsonATX | [Demo](https://fish.kennyatx.com/) · [Original](https://x.com/KennyJohnsonATX/status/2101744240095076416) |
+| [Cabsolutely](https://carpentry-liu.github.io/awesome-astra-3d/#case=ilker-cabsolutely) | ilker / @ailker | [Demo](https://cabsolutely.vercel.app/) · [Source](https://github.com/ilkerzg/cabsolutely) · [Original](https://x.com/ailker/status/2100705949468000655) |
+| [DRONE.IO — Proving Grounds](https://carpentry-liu.github.io/awesome-astra-3d/#case=angello-drone-io) | Angello🎰 / @OMASMohamad | [Demo](https://drone-io.vercel.app/) · [Original](https://x.com/OMASMohamad/status/2101830659358478516) |
+| [Don’t Look Away — Saint Orison](https://carpentry-liu.github.io/awesome-astra-3d/#case=blendi-saint-orison) | Blendi / @BlendiByl | [Demo](https://weeping-angels.vercel.app/) · [Original](https://x.com/BlendiByl/status/2100442177159729336) |
+| [The Crownless](https://carpentry-liu.github.io/awesome-astra-3d/#case=izkimar-crownless) | Izkimar / @Izkimar | [Demo](https://www.spawn.co/@izkimar/the-crownless/play) · [Original](https://x.com/Izkimar/status/2100753871903855095) |
+| [Astra Floor](https://carpentry-liu.github.io/awesome-astra-3d/#case=berochlu-astra-floor) | BEROCHLU | [Demo](https://astrafloor.berochlu.workers.dev/) · [Source](https://github.com/BEROCHLU/astrafloor) · [Original](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/96) |
+| [Hezo Procedural Temple Journey](https://carpentry-liu.github.io/awesome-astra-3d/#case=hiddentao-hezo-temple) | Hiddentao | [Demo](https://hezo.ai/) · [Original](https://hiddentao.com/archives/2026/09/16/building-a-high-fidelity-3d-realtime-rendered-background-scene-using-fable-and-astra/) |
+| [Unreal Environment — Mixed Asset Workflow](https://carpentry-liu.github.io/awesome-astra-3d/#case=delicious-unreal-environment) | Delicious-Shower8401 | [Original](https://www.reddit.com/r/ChatGPT/comments/1wljrn8/gpt6_astra_unreal_blender_faster_game_development/) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md)
@@ -70,11 +70,11 @@ Three featured works are visible together. Desktop navigation places categories 
 The interface is in Chinese; English project names, tools and creators are searchable. Keyboard navigation, a mobile layout and image failure states are supported.
 
 <details>
-<summary>Gallery and mobile screenshots · September 17, 2026</summary>
+<summary>Gallery and mobile screenshots · September 22, 2026</summary>
 
-[![Latest examples and category sidebar](docs/media/collection-2026-09-17.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![Latest examples and category sidebar](docs/media/collection-2026-09-22.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![Mobile welcome page and resource navigation](docs/media/mobile-2026-09-17.jpg)
+![Mobile welcome page and resource navigation](docs/media/mobile-2026-09-22.jpg)
 
 </details>
 
