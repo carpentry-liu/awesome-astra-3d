@@ -27,3 +27,14 @@ GitHub Pages 上线与 About、远程 README、媒体 Range 检查结果随后�
 普通 push 遇到 TLS reset / timeout；随后 fetch 成功，发现远端已推进到 704ee6a，新增 23 条记录和五张预览。保留全部远端提交，通过普通 merge 合并。AstraFloor 与本批重复，保留远端 `berochlu-astrafloor` ID、首次收录时间及来源 URL，补入本次验证的工具分工、标题预览与作者 issue。Last Train 保留本次补充，其余远端案例原样保留。故本轮相对当前远端实际新增 **7 条**，更新 **2 条**，合并后为 **232 条（220 Astra + 12 参考）、65 工程、100 演示链接、97 视频**。上面的 210 条是合并前本地验证基线；合并后重新运行生成、check、build，并重拍统计截图。
 
 远端此前新增的 X 记录与其媒体状态保持原样；本轮归档的是已核实的三段新录像。API 推送回退在检查远端 SHA 时主动停止，未覆盖远端引用。
+
+## 发布结果
+
+- 内容提交 85a3cfa；保留远端历史的合并提交 b754b07 已普通 push 到 main，无 force push。
+- 合并后 `npm run check`（232 条、11 项测试及 TypeScript）、`npm run build` 再次通过；宽屏/手机截图重拍，检查时控制台无 warning/error。
+- [GitHub Actions 35683725923](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/35683725923)：build 与 deploy 均 success，对应源码 b754b070d715c558f07fd1950eaef3cf75637395。
+- About 已核验为 220 案例、65 工程、100 演示、97 完整视频；20 个 topics 和公开属性保留。
+- `work/readme-check-sep22.py`：GitHub 渲染包含 9 张图片；中英文 README 与远端一致，三张 JPEG 与本地逐字节一致。
+- `work/verify-published-sep22.py`：Pages cases.json 与本地 232 条完全相同，新增 6 个原画/播放地址均返回 HTTP 206；总长度与开头 4096 字节匹配下载文件。
+- 正式站 IAB 复查超时，因此不声称正式站浏览器端完整播放验证；媒体结论来自完整文件解码与线上 HTTP 检查。
+- 本地预览进程经 PID 与项目命令行核对后停止；未部署或保存 ChatGPT / Sites 版本。
