@@ -17,3 +17,10 @@
 - 浏览器：检查桌面首页、最新收录和手机首页；真实截图为 1425×1089、1425×1089、375×812，控制台 warning/error 为空。导航首次超时后页面已正常加载，继续验证通过。
 - `work/document-sep23.py`：确认全部旧案例及视频记录保持不变，更新媒体说明和增量链接审计。
 - 无新增可核验 X 完整录像；参考输入和生成预告片没有作为实机媒体归档。ChatGPT / Sites 未部署。
+
+## 发布核对
+
+- 内容提交 `584f8bef8c7fc34c0cc80c42e13a10cdef595519`：普通 Git push 遇到 TLS connection reset，通过 GitHub Git Database API 校验 blob、tree、commit SHA 完全一致后非强制快进 main。
+- `work/about-sep23.py`：公开仓库 About 已更新为 223 案例、65 工程、102 演示和 97 视频，网站入口和 20 个 topics 保留。
+- `work/readme-check-sep23.py`：远端中英文 README 与本地一致（换行归一化），GitHub 渲染含 9 张图片；3 张新截图与本地字节完全一致。
+- [Pages 发布流程](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/35804919212)的构建和部署均成功；公开 `cases.json` 已返回 235 条，与本地 JSON 完全一致。完整播放媒体未变化，本轮没有重新宣称全量媒体检查。
