@@ -911,6 +911,41 @@
           "reason": "Project names do not establish GPT-6 Astra model attribution."
         }
       ]
+    },
+    {
+      "observedAt": "2026-09-23",
+      "batch": "daily-sep23",
+      "addedCount": 3,
+      "caseIds": [
+        "nsrgn-snow-street",
+        "mrray87-godot-rpg",
+        "hyp3rclaw-threejs-25d"
+      ],
+      "updatedCaseIds": [],
+      "sources": [
+        "https://www.reddit.com/r/aigamedev/comments/1wngm0f/what_astra_can_do_with_just_a_couple_of_prompts/",
+        "https://www.reddit.com/r/aigamedev/comments/1wnmfoh/building_an_oldschool_might_magicstyle_rpg_in/",
+        "https://www.reddit.com/r/aigamedev/comments/1wlp7sk/25d_game_with_threejs_and_astra/"
+      ],
+      "discoverySources": [
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra"
+      ],
+      "method": "Web search across X, Reddit, GitHub and Blender coverage; read creator posts and replies. No gameplay reproduction.",
+      "notes": [
+        "Two September 22 indexed posts and one September 20 backfill; exact source dates unresolved and kept null.",
+        "Snow Street attachment is input reference, not output. Godot trailer is generated, not verified gameplay.",
+        "No new verified X clip; existing 97 archives unchanged. No Sites deployment or Xiaohongshu access."
+      ],
+      "excluded": [
+        {
+          "source": "GPT-6 Sol / Luna launch coverage",
+          "reason": "Other models and announcements are not Astra 3D examples."
+        },
+        {
+          "source": "THUNDERFALL",
+          "reason": "Creator index specifies Canvas 2D; excluded from 3D collection."
+        }
+      ]
     }
   ]
 }

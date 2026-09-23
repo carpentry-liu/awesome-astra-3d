@@ -1,5 +1,131 @@
 [
   {
+    "id": "nsrgn-snow-street",
+    "title": "雪夜街景：参考视频到混合资产三维场景",
+    "titleEn": "Snow Street — Reference to 3D",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "Reddit",
+    "platforms": [
+      "Reddit"
+    ],
+    "author": "Interesting-Bill4028",
+    "sourceUrl": "https://www.reddit.com/r/aigamedev/comments/1wngm0f/what_astra_can_do_with_just_a_couple_of_prompts/",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-23",
+    "addedAt": "2026-09-23",
+    "modelLabel": "Astra / Codex（作者回复确认）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "已读取原帖及作者关于模型来源的回复；搜索索引标注 9 月 22 日，但原页仅显示相对时间，精确发表日保留 null。",
+    "summary": "作者让 Codex 中的 Astra 根据参考视频制作雪夜街景，并公开网页。作者说明部分模型由工具找到、部分生成；原帖附带的视频是风格参考，不作为生成结果收录。网页提供角色与行走控制，多人功能未独立验证。",
+    "outputType": [
+      "三维网页",
+      "混合资产场景"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": null,
+    "imageKind": "none",
+    "imageCaption": "原帖视频为输入参考，不能作为三维成果预览。",
+    "demoUrl": "https://snow-street-multiplayer.nsrgn.chatgpt.site/",
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://www.reddit.com/r/aigamedev/comments/1wngm0f/what_astra_can_do_with_just_a_couple_of_prompts/"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "mrray87-godot-rpg",
+    "title": "复古 Godot RPG：多轮几何建模与迭代",
+    "titleEn": "Old-school Godot RPG Prototype",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "Reddit",
+    "platforms": [
+      "Reddit"
+    ],
+    "author": "mrray87",
+    "sourceUrl": "https://www.reddit.com/r/aigamedev/comments/1wnmfoh/building_an_oldschool_might_magicstyle_rpg_in/",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-23",
+    "addedAt": "2026-09-23",
+    "modelLabel": "Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "已直接读取作者原帖；搜索索引标注 9 月 22 日，原页仅显示相对时间，精确发表日保留 null。",
+    "summary": "作者正在 Godot 制作 Might & Magic 风格 RPG，称 Astra 参与代码、原型、资产和迭代，也指出几何需要多轮调整。原帖说明预告片同样经过生成处理，因此不把预告片当作纯游戏实机；暂未找到公开工程或试玩入口。",
+    "outputType": [
+      "Godot 游戏原型",
+      "多轮建模"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": null,
+    "imageKind": "none",
+    "imageCaption": "作者说明预告片也经过生成处理，保留原帖而不混作实机截图。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://www.reddit.com/r/aigamedev/comments/1wnmfoh/building_an_oldschool_might_magicstyle_rpg_in/"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "进行中的作者原型；预告片性质与完整玩法未独立复现。"
+  },
+  {
+    "id": "hyp3rclaw-threejs-25d",
+    "title": "Three.js 2.5D：精灵与三维场景的混合实验",
+    "titleEn": "Three.js 2.5D Visual Experiment",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "Reddit",
+    "platforms": [
+      "Reddit"
+    ],
+    "author": "hyp3rclaw",
+    "sourceUrl": "https://www.reddit.com/r/aigamedev/comments/1wlp7sk/25d_game_with_threejs_and_astra/",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-23",
+    "addedAt": "2026-09-23",
+    "modelLabel": "GPT-6 Astra + GPT Images（混合工作流）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "直接读取原帖与公开索引中的作者回复；搜索记录为 9 月 20 日，作为今日补收而非今日首发，精确发表日保留 null。",
+    "summary": "作者以 Astra high / medium 与 GPT Images 制作 Three.js 混合视觉实验，将二维角色、精灵及环境图像用于三维场景。作者在回复中将其定位为视觉演示，并说明经过多轮迭代；不是完整三维角色建模或已完成的 RPG。",
+    "outputType": [
+      "Three.js 混合场景",
+      "二维精灵与三维空间"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": null,
+    "imageKind": "none",
+    "imageCaption": "未取得可用的作者效果图。",
+    "demoUrl": "https://app.usecrayon.ai/play/a9a3c165-74b3-4ff6-9588-ad97f829ddb5",
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://www.reddit.com/r/aigamedev/comments/1wlp7sk/25d_game_with_threejs_and_astra/"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "视觉实验；未独立复现完整游玩。"
+  },
+  {
     "id": "kenny-stillwater",
     "title": "Stillwater：可以喂鱼的三维水族箱",
     "titleEn": "Stillwater Aquarium",

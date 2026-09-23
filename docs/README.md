@@ -22,3 +22,4 @@
 - [2026-09-14：5 个新收录、3 段完整视频与 GitHub 更新；不部署 ChatGPT 站点](features/F-0012-project-refresh/README.md)。
 - [2026-09-17：7 个新收录、5 段完整视频与 Belt Runner 进展；不部署 ChatGPT 站点](features/F-0013-recent-showcases/README.md)。
 - [2026-09-22：7 个新收录、3 段完整视频与两项已有案例更新](features/F-0014-late-september/README.md)。
+- [2026-09-23：三条混合工作流案例与来源边界](features/F-0015-daily-sep23/README.md)。

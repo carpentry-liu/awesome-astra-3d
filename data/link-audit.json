@@ -1,11 +1,11 @@
 {
-  "observedAt": "2026-09-22",
-  "method": "Incremental bounded HTTP GET: 19 new image, source, demo and download URLs. 17 reachable; Cabsolutely demo returns 402 (noted in record); Reddit image returns 403 (removed from display). Historical timestamps preserved. Playback checked separately after publication; reachability is not reproduction.",
-  "checkedUrls": 495,
+  "observedAt": "2026-09-23",
+  "method": "Incremental bounded HTTP GET: 2 newly added demo URLs reachable. Historical observations preserved; reachability is not independent gameplay.",
+  "checkedUrls": 497,
   "counts": {
+    "http-error": 3,
     "restricted": 4,
-    "reachable": 488,
-    "http-error": 3
+    "reachable": 490
   },
   "results": [
     {
@@ -8556,6 +8556,40 @@
       "status": 403,
       "result": "restricted",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://snow-street-multiplayer.nsrgn.chatgpt.site/",
+      "uses": [
+        {
+          "caseId": "nsrgn-snow-street",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-09-23T01:01:52.743981+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://snow-street-multiplayer.nsrgn.chatgpt.site/",
+      "title": "Winter Street — Slop World",
+      "contentType": "text/html",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://app.usecrayon.ai/play/a9a3c165-74b3-4ff6-9588-ad97f829ddb5",
+      "uses": [
+        {
+          "caseId": "hyp3rclaw-threejs-25d",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-09-23T01:01:52.744978+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://app.usecrayon.ai/play/a9a3c165-74b3-4ff6-9588-ad97f829ddb5",
+      "title": "Where the Wind Wanders — Crayon",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
     }
   ],
   "previousImageUrls": [

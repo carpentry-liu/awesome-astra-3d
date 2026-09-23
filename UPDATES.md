@@ -2,6 +2,14 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-09-23 · 3 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [雪夜街景：参考视频到混合资产三维场景 / Snow Street — Reference to 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=nsrgn-snow-street) | Interesting-Bill4028 | 演示入口 |
+| [复古 Godot RPG：多轮几何建模与迭代 / Old-school Godot RPG Prototype](https://carpentry-liu.github.io/awesome-astra-3d/#case=mrray87-godot-rpg) | mrray87 | 作者展示 |
+| [Three.js 2.5D：精灵与三维场景的混合实验 / Three.js 2.5D Visual Experiment](https://carpentry-liu.github.io/awesome-astra-3d/#case=hyp3rclaw-threejs-25d) | hyp3rclaw | 演示入口 |
+
 ## 2026-09-22 · 7 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
