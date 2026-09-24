@@ -20,3 +20,11 @@
 - 浏览器检查首页、最新列表和手机布局，控制台 warning/error 为空；真实截图 1425×1089、1425×1089、375×812。首次导航等待超时后页面已正常显示，随后核对通过。
 - `work/document-sep24.py`：核对 235 条历史记录完全不变，增量链接审计保留历史时间。
 - 无新增 X 完整视频；不部署 ChatGPT / Sites。
+
+## 发布核对
+
+- 内容提交 `929a546b3972400151c13af74fdc6099aedb8cd3` 已通过 `git push origin main` 同步。
+- `work/about-sep24.py`：公开仓库 About 为 226 案例、65 工程、103 演示、97 视频，保留网站入口与 20 个 topics。
+- `work/readme-check-sep24.py`：中英文远端 README 与本地一致，渲染包含 9 张图片；3 张新截图均与本地字节一致。
+- [Pages 流程](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/35940821586)的 build / deploy 均为 success。
+- 公开 `cases.json` 返回 238 条，解析后与本地公开 JSON 完全一致；仅验证本轮变化，未重新宣称历史全部录像检查。
