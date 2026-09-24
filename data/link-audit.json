@@ -1,11 +1,11 @@
 {
-  "observedAt": "2026-09-23",
-  "method": "Incremental bounded HTTP GET: 2 newly added demo URLs reachable. Historical observations preserved; reachability is not independent gameplay.",
-  "checkedUrls": 497,
+  "observedAt": "2026-09-24",
+  "method": "Incremental bounded HTTP GET: new Tripo model page returns 200 and matching model title; no independent mesh or print verification. Historical timestamps preserved.",
+  "checkedUrls": 498,
   "counts": {
-    "http-error": 3,
     "restricted": 4,
-    "reachable": 490
+    "http-error": 3,
+    "reachable": 491
   },
   "results": [
     {
@@ -8588,6 +8588,23 @@
       "finalUrl": "https://app.usecrayon.ai/play/a9a3c165-74b3-4ff6-9588-ad97f829ddb5",
       "title": "Where the Wind Wanders — Crayon",
       "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://studio.tripo3d.ai/3d-model/e964fcbc-8cfc-4261-a2d8-ea2ec447a29a",
+      "uses": [
+        {
+          "caseId": "paulyy18-tripo-dragon",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-09-24T00:55:35.829191+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://studio.tripo3d.ai/3d-model/e964fcbc-8cfc-4261-a2d8-ea2ec447a29a",
+      "title": "Dragon Skeleton 3d Model: A 3D Printed Articulated Chinese Dragon Skeleton Model, Made Of White PLA Filame | Tripo AI",
+      "contentType": "text/html;charset=utf-8",
       "contentRange": null,
       "result": "reachable"
     }

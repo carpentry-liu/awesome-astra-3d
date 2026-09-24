@@ -1,5 +1,132 @@
 [
   {
+    "id": "feisty-room-comparison",
+    "title": "同图房间重建：Astra、Sol 与 Luna 对照",
+    "titleEn": "Same-image Room Reconstruction Comparison",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "Reddit",
+    "platforms": [
+      "Reddit"
+    ],
+    "author": "Feisty-Scheme-8356",
+    "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wo77o7/i_gave_gpt6_luna_sol_and_astra_the_same_image_and/",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-24",
+    "addedAt": "2026-09-24",
+    "modelLabel": "GPT-6 Astra（与 Sol / Luna 对照）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "直接读取原帖、作者回复和工具仓库；原页只有相对时间，精确发表日期保持 null。公开仓库为工具，不是本次房间的完整工程。",
+    "summary": "作者给 Astra、Sol、Luna 相同房间参考图与指令，用 img2threejs 并排展示结果。作者说明环境插件仍在开发，Python 脚本承担部分生成与渲染工作；时间和额度消耗仅为作者单次观察，不能当作通用性能排名。",
+    "outputType": [
+      "Three.js 房间重建",
+      "多模型对照"
+    ],
+    "promptAvailability": "公开短指令；参考图链接未在正文展开",
+    "promptExcerpt": "Use the img2-environment skill to recreate the room from this reference image: [link]",
+    "promptSummary": null,
+    "promptUrl": "https://www.reddit.com/r/vibecoding/comments/1wo77o7/i_gave_gpt6_luna_sol_and_astra_the_same_image_and/",
+    "imageUrl": null,
+    "imageKind": "none",
+    "imageCaption": "并排展示含不同模型结果，预览见原帖；不把所有结果归于 Astra。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://www.reddit.com/r/vibecoding/comments/1wo77o7/i_gave_gpt6_luna_sol_and_astra_the_same_image_and/",
+      "https://github.com/img2threejs/img2threejs"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者展示；未独立复现。"
+  },
+  {
+    "id": "paulyy18-tripo-dragon",
+    "title": "Tripo 龙骨模型：打印目标与关节局限",
+    "titleEn": "Tripo Dragon Skeleton — Printability Limits",
+    "group": "astra",
+    "category": "CAD / Blender",
+    "platform": "Reddit",
+    "platforms": [
+      "Reddit"
+    ],
+    "author": "paulyy18",
+    "sourceUrl": "https://www.reddit.com/r/TopologyAI/comments/1wnvnzt/i_used_a_single_prompt_and_the_tripo_plugin_in/",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-24",
+    "addedAt": "2026-09-24",
+    "modelLabel": "GPT-6 Astra + Tripo（混合工作流）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "直接读取作者原帖；原页仅有相对时间，sourceDate 保持 null。模型页为作者公开入口，未独立下载、切片或打印。",
+    "summary": "作者在 ChatGPT 的 Astra 设置下使用 Tripo 插件制作龙骨模型，并提供模型页面。作者发现盘绕底部没有自由活动关节，且明确不能确定能否顺利打印；收录为混合建模实验，不标记为已验证的可打印成品。",
+    "outputType": [
+      "Tripo 模型",
+      "打印前检查"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": null,
+    "imageKind": "none",
+    "imageCaption": "未取得可用的作者效果图。",
+    "demoUrl": "https://studio.tripo3d.ai/3d-model/e964fcbc-8cfc-4261-a2d8-ea2ec447a29a",
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://www.reddit.com/r/TopologyAI/comments/1wnvnzt/i_used_a_single_prompt_and_the_tripo_plugin_in/"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者明确保留打印可行性疑问；不能视为关节结构或打印质量验证。"
+  },
+  {
+    "id": "clean-rebel-godot-arpg",
+    "title": "Godot ARPG：战斗原型与资产整理流程",
+    "titleEn": "Godot ARPG — Asset and Code Workflows",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "Reddit",
+    "platforms": [
+      "Reddit"
+    ],
+    "author": "clean_rebel29",
+    "sourceUrl": "https://www.reddit.com/r/aigamedev/comments/1wnk08x/progress_learning/",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-24",
+    "addedAt": "2026-09-24",
+    "modelLabel": "Astra Codex + Godot / Blender + Mixamo",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "直接读取作者工具清单与开发说明；搜索索引标注 9 月 22 日，原页仅显示相对时间，精确日期未确认。本条是今日补收，不是今日首发。",
+    "summary": "作者以 Astra Codex、Godot / Blender MCP、网上免费资产和 Mixamo 制作奇幻 ARPG 原型，目标包含俯视与越肩视角。作者分享代码检索、资产检查与小步迭代方法，并强调作品仍很粗糙；外部模型及动作不归作 Astra 原生生成。",
+    "outputType": [
+      "Godot 三维原型",
+      "资产与代码流程"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": null,
+    "imageKind": "none",
+    "imageCaption": "未取得可用的作者效果图。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://www.reddit.com/r/aigamedev/comments/1wnk08x/progress_learning/"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "个人学习原型；未找到公开源码或试玩，未独立复现。"
+  },
+  {
     "id": "nsrgn-snow-street",
     "title": "雪夜街景：参考视频到混合资产三维场景",
     "titleEn": "Snow Street — Reference to 3D",

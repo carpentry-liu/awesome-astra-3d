@@ -2,6 +2,14 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-09-24 · 3 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [同图房间重建：Astra、Sol 与 Luna 对照 / Same-image Room Reconstruction Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=feisty-room-comparison) | Feisty-Scheme-8356 | 提示词 / 过程 |
+| [Tripo 龙骨模型：打印目标与关节局限 / Tripo Dragon Skeleton — Printability Limits](https://carpentry-liu.github.io/awesome-astra-3d/#case=paulyy18-tripo-dragon) | paulyy18 | 演示入口 |
+| [Godot ARPG：战斗原型与资产整理流程 / Godot ARPG — Asset and Code Workflows](https://carpentry-liu.github.io/awesome-astra-3d/#case=clean-rebel-godot-arpg) | clean_rebel29 | 作者展示 |
+
 ## 2026-09-23 · 3 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

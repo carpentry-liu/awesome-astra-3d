@@ -946,6 +946,43 @@
           "reason": "Creator index specifies Canvas 2D; excluded from 3D collection."
         }
       ]
+    },
+    {
+      "observedAt": "2026-09-24",
+      "batch": "daily-sep24",
+      "addedCount": 3,
+      "caseIds": [
+        "feisty-room-comparison",
+        "paulyy18-tripo-dragon",
+        "clean-rebel-godot-arpg"
+      ],
+      "updatedCaseIds": [],
+      "sources": [
+        "https://www.reddit.com/r/vibecoding/comments/1wo77o7/i_gave_gpt6_luna_sol_and_astra_the_same_image_and/",
+        "https://www.reddit.com/r/TopologyAI/comments/1wnvnzt/i_used_a_single_prompt_and_the_tripo_plugin_in/",
+        "https://www.reddit.com/r/aigamedev/comments/1wnk08x/progress_learning/"
+      ],
+      "discoverySources": [
+        "https://github.com/BeatAPI/awesome-3d-prompts",
+        "https://github.com/TripoGrowthLab/awesome-astra-prompts",
+        "https://arxiv.org/abs/2609.26793"
+      ],
+      "method": "Search X, Reddit, GitHub and creator websites; inspect creator posts and replies. Preserve null dates where primary pages expose only relative time.",
+      "notes": [
+        "HARMONY (arXiv 2609.26793, submitted 2026-09-22) includes qualitative Astra comparison; research lead only, not mislabeled as an Astra-generated project.",
+        "No verified new X clip; video archives unchanged. No Sites or Xiaohongshu publishing.",
+        "img2threejs repository is tooling, not the demonstrated room source, so it does not increase source-project count."
+      ],
+      "excluded": [
+        {
+          "source": "GPT-6 Sol pelican and Opus 5.5 city demos",
+          "reason": "Other-model outputs are not Astra examples."
+        },
+        {
+          "source": "irshadtriton Godot migration post",
+          "reason": "Creator confirms Astra, but this review did not establish 3D output from accessible media; kept as a lead."
+        }
+      ]
     }
   ]
 }

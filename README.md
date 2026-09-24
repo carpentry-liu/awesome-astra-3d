@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-09-23（Asia/Shanghai）**：**223 条 Astra 案例** · **65 条源码 / 工程** · **102 个演示入口** · **97 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-09-24（Asia/Shanghai）**：**226 条 Astra 案例** · **65 条源码 / 工程** · **103 个演示入口** · **97 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 ## 近期精选，先看效果
@@ -24,13 +24,13 @@
 | 惊悚探索 · Saint Orison | 动作游戏 · The Crownless | 开源游戏 · AstraFloor |
 | [![Don’t Look Away — Saint Orison — Blendi / @BlendiByl](https://pbs.twimg.com/amplify_video_thumb/2100441933349113856/img/-zcl_oknjJHeAKF8.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=blendi-saint-orison) | [![The Crownless — Izkimar / @Izkimar](https://pbs.twimg.com/amplify_video_thumb/2100753501940809729/img/f53bBSn0KO5xt3yA.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=izkimar-crownless) | [![Astra Floor — BEROCHLU](https://raw.githubusercontent.com/BEROCHLU/astrafloor/main/.github/image1.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=berochlu-astrafloor) |
 
-点击图片查看作者、来源和材料。Cabsolutely、Saint Orison 使用 Astra 与 fal；AstraFloor 还经过 Antigravity 2.0 调整，预览为作者提供的标题画面。三段新录像均保留完整时长。
+点击图片查看作者、来源和材料。Cabsolutely、Saint Orison 使用 Astra 与 fal；AstraFloor 还经过 Antigravity 2.0 调整，预览为作者提供的标题画面。此前三段录像均保留完整时长。
 
 ## 网站实拍
 
-[![Astra 3D Atlas 正式网站首页](docs/media/homepage-2026-09-23.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 正式网站首页](docs/media/homepage-2026-09-24.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-本次更新实拍 · 2026-09-23。点击图片进入案例库。
+本次更新实拍 · 2026-09-24。点击图片进入案例库。
 
 ## 找到你的下一次创作
 
@@ -44,23 +44,23 @@
 
 ## 最新收录
 
-9 月 23 日补入 **3 条案例、2 个演示入口**：雪夜街景、复古 Godot RPG、Three.js 2.5D 实验。原帖参考视频、生成预告片与真实三维成果分别注明；本轮没有新增 X 视频或工程。今日收录不代表今日首发。
+9 月 24 日补入 **3 条案例、1 个模型展示入口**：同图房间重建对照、Tripo 龙骨模型、Godot ARPG 原型。今日收录不代表今日首发；本轮没有新增 X 完整视频或案例工程。
 
-**资料核验：** 雪夜街景使用找到的模型与生成模型；2.5D 实验使用二维精灵。缺少可信成果图的记录保留原帖入口，前面的六张精选来自此前收录。
+**资料核验：** 房间对照包含其他模型；龙模型由 Astra 配合 Tripo 制作，打印可行性尚未验证；ARPG 使用外部资产与 Mixamo。六张精选仍为此前收录作品。
 
 **已有项目进展：** [Last Train](https://carpentry-liu.github.io/awesome-astra-3d/#case=aniket-last-train) 补充作者的新说明：三维场景搭配部分二维角色，并经过多轮迭代；更新原记录，不重复计数。
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
+| [同图房间重建：Astra、Sol 与 Luna 对照](https://carpentry-liu.github.io/awesome-astra-3d/#case=feisty-room-comparison) | Feisty-Scheme-8356 | [原始来源](https://www.reddit.com/r/vibecoding/comments/1wo77o7/i_gave_gpt6_luna_sol_and_astra_the_same_image_and/) |
+| [Tripo 龙骨模型：打印目标与关节局限](https://carpentry-liu.github.io/awesome-astra-3d/#case=paulyy18-tripo-dragon) | paulyy18 | [演示](https://studio.tripo3d.ai/3d-model/e964fcbc-8cfc-4261-a2d8-ea2ec447a29a) · [原始来源](https://www.reddit.com/r/TopologyAI/comments/1wnvnzt/i_used_a_single_prompt_and_the_tripo_plugin_in/) |
+| [Godot ARPG：战斗原型与资产整理流程](https://carpentry-liu.github.io/awesome-astra-3d/#case=clean-rebel-godot-arpg) | clean_rebel29 | [原始来源](https://www.reddit.com/r/aigamedev/comments/1wnk08x/progress_learning/) |
 | [雪夜街景：参考视频到混合资产三维场景](https://carpentry-liu.github.io/awesome-astra-3d/#case=nsrgn-snow-street) | Interesting-Bill4028 | [演示](https://snow-street-multiplayer.nsrgn.chatgpt.site/) · [原始来源](https://www.reddit.com/r/aigamedev/comments/1wngm0f/what_astra_can_do_with_just_a_couple_of_prompts/) |
 | [复古 Godot RPG：多轮几何建模与迭代](https://carpentry-liu.github.io/awesome-astra-3d/#case=mrray87-godot-rpg) | mrray87 | [原始来源](https://www.reddit.com/r/aigamedev/comments/1wnmfoh/building_an_oldschool_might_magicstyle_rpg_in/) |
 | [Three.js 2.5D：精灵与三维场景的混合实验](https://carpentry-liu.github.io/awesome-astra-3d/#case=hyp3rclaw-threejs-25d) | hyp3rclaw | [演示](https://app.usecrayon.ai/play/a9a3c165-74b3-4ff6-9588-ad97f829ddb5) · [原始来源](https://www.reddit.com/r/aigamedev/comments/1wlp7sk/25d_game_with_threejs_and_astra/) |
 | [Stillwater：可以喂鱼的三维水族箱](https://carpentry-liu.github.io/awesome-astra-3d/#case=kenny-stillwater) | Kenny Johnson / @KennyJohnsonATX | [演示](https://fish.kennyatx.com/) · [原始来源](https://x.com/KennyJohnsonATX/status/2101744240095076416) |
 | [Cabsolutely：在城市街区开出租车](https://carpentry-liu.github.io/awesome-astra-3d/#case=ilker-cabsolutely) | ilker / @ailker | [演示](https://cabsolutely.vercel.app/) · [源码](https://github.com/ilkerzg/cabsolutely) · [原始来源](https://x.com/ailker/status/2100705949468000655) |
-| [DRONE.IO：无人机竞技场生存原型](https://carpentry-liu.github.io/awesome-astra-3d/#case=angello-drone-io) | Angello🎰 / @OMASMohamad | [演示](https://drone-io.vercel.app/) · [原始来源](https://x.com/OMASMohamad/status/2101830659358478516) |
-| [Saint Orison：视线之外移动的天使](https://carpentry-liu.github.io/awesome-astra-3d/#case=blendi-saint-orison) | Blendi / @BlendiByl | [演示](https://weeping-angels.vercel.app/) · [原始来源](https://x.com/BlendiByl/status/2100442177159729336) |
-| [The Crownless：在城堡里边玩边迭代](https://carpentry-liu.github.io/awesome-astra-3d/#case=izkimar-crownless) | Izkimar / @Izkimar | [演示](https://www.spawn.co/@izkimar/the-crownless/play) · [原始来源](https://x.com/Izkimar/status/2100753871903855095) |
 <!-- atlas:latest:end -->
 
 [查看完整更新目录 →](UPDATES.md)
@@ -74,11 +74,11 @@
 - 手机布局、键盘操作与图片失败提示均保留；方法参考与 Astra 案例分别呈现。
 
 <details>
-<summary>查看案例区与手机实拍 · 2026-09-23</summary>
+<summary>查看案例区与手机实拍 · 2026-09-24</summary>
 
-[![最新案例与分类侧栏](docs/media/collection-2026-09-23.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![最新案例与分类侧栏](docs/media/collection-2026-09-24.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端欢迎页，精选作品与资源导航](docs/media/mobile-2026-09-23.jpg)
+![手机端欢迎页，精选作品与资源导航](docs/media/mobile-2026-09-24.jpg)
 
 </details>
 
