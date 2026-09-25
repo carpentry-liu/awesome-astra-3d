@@ -983,6 +983,48 @@
           "reason": "Creator confirms Astra, but this review did not establish 3D output from accessible media; kept as a lead."
         }
       ]
+    },
+    {
+      "observedAt": "2026-09-25",
+      "batch": "daily-sep25",
+      "addedCount": 3,
+      "caseIds": [
+        "bursin-threejs-horse",
+        "drzewkoslaw-head-limit",
+        "delicious-tripo-vrm-dance"
+      ],
+      "updatedCaseIds": [],
+      "sources": [
+        "https://www.reddit.com/r/OpenAI/comments/1wp91aj/tested_astra_6_vs_opus_55_on_the_same_3d_task_and/",
+        "https://www.reddit.com/r/ChatGPT/comments/1woodot/astra_helped_me_make_a_model/",
+        "https://www.reddit.com/r/TopologyAI/comments/1wnhrnx/a_full_3d_character_workflow_with_tripo_ai/"
+      ],
+      "discoverySources": [
+        "https://astra.directory/",
+        "https://3d-prompt.com/",
+        "https://developers.openai.com/showcase/games",
+        "https://en.yasue.org/report/image-and-video-generation-ai-news-2026-09-24"
+      ],
+      "method": "Search recent X, Reddit, official showcases and community directories; follow primary sources and deduplicate cross-posts.",
+      "notes": [
+        "Horse comparison host reachable through bounded HTTP despite web-tool open failure.",
+        "No new verified X clip selected; no Sites deployment or Xiaohongshu access.",
+        "Dates remain null where primary posts provide only relative time."
+      ],
+      "excluded": [
+        {
+          "source": "Paper Glider / London Dream Railway / Golden Gate Experience",
+          "reason": "Directory listing alone does not establish Astra attribution; older model context requires verification, so not imported."
+        },
+        {
+          "source": "JavaScript video about time",
+          "reason": "p5.js / p5.brush sequence does not establish 3D output."
+        },
+        {
+          "source": "Ballball",
+          "reason": "Primary article HTTP 403; this pass did not establish 3D rendering, retained as lead."
+        }
+      ]
     }
   ]
 }

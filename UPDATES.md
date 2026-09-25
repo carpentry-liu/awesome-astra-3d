@@ -2,6 +2,14 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-09-25 · 3 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Three.js 跑马：同题动画与多档位对照 / Three.js Running Horse Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=bursin-threejs-horse) | Mike Bursin / bursinru | 演示入口 · 提示词 / 过程 |
+| [角色头部重建：参考图与未达预期结果 / Character Head Reconstruction — Reported Failure](https://carpentry-liu.github.io/awesome-astra-3d/#case=drzewkoslaw-head-limit) | Drzewkoslaw | 作者展示 |
+| [角色舞蹈流程：Tripo 网格与 Astra 卡通材质 / Tripo Character and Astra Toon Shading](https://carpentry-liu.github.io/awesome-astra-3d/#case=delicious-tripo-vrm-dance) | Delicious-Shower8401 | 作者展示 |
+
 ## 2026-09-24 · 3 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

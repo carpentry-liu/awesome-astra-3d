@@ -1,5 +1,134 @@
 [
   {
+    "id": "bursin-threejs-horse",
+    "title": "Three.js 跑马：同题动画与多档位对照",
+    "titleEn": "Three.js Running Horse Comparison",
+    "group": "astra",
+    "category": "交互与工具",
+    "platform": "Reddit",
+    "platforms": [
+      "Reddit"
+    ],
+    "author": "Mike Bursin / bursinru",
+    "sourceUrl": "https://www.reddit.com/r/OpenAI/comments/1wp91aj/tested_astra_6_vs_opus_55_on_the_same_3d_task_and/",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-25",
+    "addedAt": "2026-09-25",
+    "modelLabel": "GPT-6 Astra（作者标注多档位；含其他模型对照）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "直接读取作者原帖与回复；通过 HTTP 读取作者对照页并确认 Astra 独立 iframe。搜索标注 9 月 24 日，原帖仅相对时间，精确日期保留 null。",
+    "summary": "作者用同一低多边形跑马任务比较 Astra 的不同设置及其他模型，并公开包含独立 HTML 三维预览的对照页。可比较身体结构与循环动作；配置名称、耗时与结果均为作者记录，不是本库的标准化性能测试。",
+    "outputType": [
+      "Three.js 程序化动画",
+      "多模型对照"
+    ],
+    "promptAvailability": "作者公开完整指令，见原帖",
+    "promptExcerpt": "Create a low-poly 3D horse running in a seamless loop using Three.js.",
+    "promptSummary": "以基础几何建立低多边形马，分别为腿、身体、头和尾巴编写循环动作，交付自包含 HTML。",
+    "promptUrl": "https://www.reddit.com/r/OpenAI/comments/1wp91aj/tested_astra_6_vs_opus_55_on_the_same_3d_task_and/",
+    "imageUrl": null,
+    "imageKind": "none",
+    "imageCaption": "未取得可用的作者效果图。",
+    "demoUrl": "https://aijoshu.com/en/ai-3d-tests",
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://www.reddit.com/r/OpenAI/comments/1wp91aj/tested_astra_6_vs_opus_55_on_the_same_3d_task_and/",
+      "https://aijoshu.com/en/ai-3d-tests"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者对照；未独立复现不同模型运行条件或性能排名。"
+  },
+  {
+    "id": "drzewkoslaw-head-limit",
+    "title": "角色头部重建：参考图与未达预期结果",
+    "titleEn": "Character Head Reconstruction — Reported Failure",
+    "group": "astra",
+    "category": "Blender 建模",
+    "platform": "Reddit",
+    "platforms": [
+      "Reddit"
+    ],
+    "author": "Drzewkoslaw",
+    "sourceUrl": "https://www.reddit.com/r/ChatGPT/comments/1woodot/astra_helped_me_make_a_model/",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-25",
+    "addedAt": "2026-09-25",
+    "modelLabel": "Astra Extra High（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "直接读取原帖，核对左侧为概念图、右侧为模型结果；搜索标注 9 月 24 日，精确日期保持 null。",
+    "summary": "作者以多视角角色概念图，通过 Astra Extra High、Blender MCP 和 skills.sh 尝试重建头部，并展示输入与输出对照。作者以反讽描述未达预期的结果；本条记录人物结构与参考一致性的局限，不包装为成功建模或普遍失败结论。",
+    "outputType": [
+      "多视角人物建模",
+      "失败案例对照"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": null,
+    "imageKind": "none",
+    "imageCaption": "原帖左图为输入、右图为输出；保留原帖对照而不单独展示输入图。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://www.reddit.com/r/ChatGPT/comments/1woodot/astra_helped_me_make_a_model/"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者报告未达到预期；本库未取得工程文件或独立复现。"
+  },
+  {
+    "id": "delicious-tripo-vrm-dance",
+    "title": "角色舞蹈流程：Tripo 网格与 Astra 卡通材质",
+    "titleEn": "Tripo Character and Astra Toon Shading",
+    "group": "astra",
+    "category": "Blender 建模",
+    "platform": "Reddit",
+    "platforms": [
+      "Reddit"
+    ],
+    "author": "Delicious-Shower8401",
+    "sourceUrl": "https://www.reddit.com/r/TopologyAI/comments/1wnhrnx/a_full_3d_character_workflow_with_tripo_ai/",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-25",
+    "addedAt": "2026-09-25",
+    "modelLabel": "GPT-6 Astra + Tripo P2 + Blender（混合工作流）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者公开说明",
+    "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+    "sourceAccess": "直接读取同作者两篇同内容帖子，合并为一条；索引分别标注 9 月 22 日和 24 日，原页仅显示相对时间，sourceDate 保持 null。",
+    "summary": "作者将角色头发、头部与身体拆分，用 Tripo P2 生成几何，再在 Blender 清理合并、使用 VRM 1.0 绑定。作者称 Astra 协助节点式卡通材质、部分绑定和动画设置；动作来源及工程未完整公开，不能称为 Astra 从零完成全部角色动画。",
+    "outputType": [
+      "混合角色工作流",
+      "Blender 卡通材质",
+      "VRM 绑定"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": null,
+    "imageKind": "none",
+    "imageCaption": "未取得可用的作者效果图。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://www.reddit.com/r/TopologyAI/comments/1wnhrnx/a_full_3d_character_workflow_with_tripo_ai/",
+      "https://www.reddit.com/r/ChatGPT/comments/1womj2v/chatgpt_astra_6_blender_3d_ai_makes_3d_workflows/"
+    ],
+    "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+    "outcome": "作者演示；动画制作细节未完全披露，未独立核验绑定与网格。"
+  },
+  {
     "id": "feisty-room-comparison",
     "title": "同图房间重建：Astra、Sol 与 Luna 对照",
     "titleEn": "Same-image Room Reconstruction Comparison",

@@ -1,11 +1,11 @@
 {
-  "observedAt": "2026-09-24",
-  "method": "Incremental bounded HTTP GET: new Tripo model page returns 200 and matching model title; no independent mesh or print verification. Historical timestamps preserved.",
-  "checkedUrls": 498,
+  "observedAt": "2026-09-25",
+  "method": "Incremental bounded HTTP GET: horse comparison page reachable; historical timestamps preserved. Does not validate benchmark fairness or every embedded animation.",
+  "checkedUrls": 499,
   "counts": {
-    "restricted": 4,
     "http-error": 3,
-    "reachable": 491
+    "restricted": 4,
+    "reachable": 492
   },
   "results": [
     {
@@ -8605,6 +8605,23 @@
       "finalUrl": "https://studio.tripo3d.ai/3d-model/e964fcbc-8cfc-4261-a2d8-ea2ec447a29a",
       "title": "Dragon Skeleton 3d Model: A 3D Printed Articulated Chinese Dragon Skeleton Model, Made Of White PLA Filame | Tripo AI",
       "contentType": "text/html;charset=utf-8",
+      "contentRange": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://aijoshu.com/en/ai-3d-tests",
+      "uses": [
+        {
+          "caseId": "bursin-threejs-horse",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-09-25T02:24:13.071054+00:00",
+      "method": "bounded HTTP GET; no independent gameplay",
+      "status": 200,
+      "finalUrl": "https://aijoshu.com/en/ai-3d-tests",
+      "title": "Claude Opus 5.5 vs GPT-6 Astra: 3D Horse Test",
+      "contentType": "text/html; charset=utf-8",
       "contentRange": null,
       "result": "reachable"
     }

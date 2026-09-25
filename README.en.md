@@ -13,7 +13,7 @@ Explore GPT-6 Astra in 3D: Blender, Houdini, Three.js, WebGL, CAD, VRM and inter
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-09-24 (Asia/Shanghai)** · **226 Astra examples** · **65 source / project links** · **103 demo links** · **97 complete videos** · **12 separate references**.
+Updated **2026-09-25 (Asia/Shanghai)** · **229 Astra examples** · **65 source / project links** · **104 demo links** · **97 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 ## Recent highlights
@@ -28,9 +28,9 @@ Open each image for creator credits and evidence. Cabsolutely and Saint Orison u
 
 ## Live website preview
 
-[![Astra 3D Atlas live homepage](docs/media/homepage-2026-09-24.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas live homepage](docs/media/homepage-2026-09-25.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-Captured from this update on September 24, 2026. Click to explore the gallery.
+Captured from this update on September 25, 2026. Click to explore the gallery.
 
 ## Choose a starting point
 
@@ -44,23 +44,23 @@ Captured from this update on September 24, 2026. Click to explore the gallery.
 
 ## Latest additions
 
-September 24 adds **3 examples and 1 model-viewer link**: a same-image room comparison, a Tripo dragon skeleton and a Godot ARPG prototype. Collection date is not publication date. No new X archives or case-specific source projects in this batch.
+September 25 adds **3 examples and 1 interactive comparison link**: Three.js running horses, an unsuccessful character-head reconstruction, and a Tripo / Blender character workflow. Duplicate cross-posts count once; collection date is not publication date.
 
-**Evidence notes:** The room comparison includes other models. Tripo generates the dragon geometry and printability is unverified. The ARPG uses external assets and Mixamo. The six highlighted images remain earlier selections.
+**Evidence notes:** The horse comparison includes other models and is not a controlled ranking. The head reconstruction preserves a reported failure. Tripo supplies the character geometry in the dance workflow. Earlier featured images remain; no new X video archives this round.
 
 **Project progress:** [Last Train](https://carpentry-liu.github.io/awesome-astra-3d/#case=aniket-last-train) now includes the creator’s explanation of its 3D world, partly 2D characters and multiple iterations. The existing record is updated without duplication.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [Three.js Running Horse Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=bursin-threejs-horse) | Mike Bursin / bursinru | [Demo](https://aijoshu.com/en/ai-3d-tests) · [Original](https://www.reddit.com/r/OpenAI/comments/1wp91aj/tested_astra_6_vs_opus_55_on_the_same_3d_task_and/) |
+| [Character Head Reconstruction — Reported Failure](https://carpentry-liu.github.io/awesome-astra-3d/#case=drzewkoslaw-head-limit) | Drzewkoslaw | [Original](https://www.reddit.com/r/ChatGPT/comments/1woodot/astra_helped_me_make_a_model/) |
+| [Tripo Character and Astra Toon Shading](https://carpentry-liu.github.io/awesome-astra-3d/#case=delicious-tripo-vrm-dance) | Delicious-Shower8401 | [Original](https://www.reddit.com/r/TopologyAI/comments/1wnhrnx/a_full_3d_character_workflow_with_tripo_ai/) |
 | [Same-image Room Reconstruction Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=feisty-room-comparison) | Feisty-Scheme-8356 | [Original](https://www.reddit.com/r/vibecoding/comments/1wo77o7/i_gave_gpt6_luna_sol_and_astra_the_same_image_and/) |
 | [Tripo Dragon Skeleton — Printability Limits](https://carpentry-liu.github.io/awesome-astra-3d/#case=paulyy18-tripo-dragon) | paulyy18 | [Demo](https://studio.tripo3d.ai/3d-model/e964fcbc-8cfc-4261-a2d8-ea2ec447a29a) · [Original](https://www.reddit.com/r/TopologyAI/comments/1wnvnzt/i_used_a_single_prompt_and_the_tripo_plugin_in/) |
 | [Godot ARPG — Asset and Code Workflows](https://carpentry-liu.github.io/awesome-astra-3d/#case=clean-rebel-godot-arpg) | clean_rebel29 | [Original](https://www.reddit.com/r/aigamedev/comments/1wnk08x/progress_learning/) |
 | [Snow Street — Reference to 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=nsrgn-snow-street) | Interesting-Bill4028 | [Demo](https://snow-street-multiplayer.nsrgn.chatgpt.site/) · [Original](https://www.reddit.com/r/aigamedev/comments/1wngm0f/what_astra_can_do_with_just_a_couple_of_prompts/) |
 | [Old-school Godot RPG Prototype](https://carpentry-liu.github.io/awesome-astra-3d/#case=mrray87-godot-rpg) | mrray87 | [Original](https://www.reddit.com/r/aigamedev/comments/1wnmfoh/building_an_oldschool_might_magicstyle_rpg_in/) |
-| [Three.js 2.5D Visual Experiment](https://carpentry-liu.github.io/awesome-astra-3d/#case=hyp3rclaw-threejs-25d) | hyp3rclaw | [Demo](https://app.usecrayon.ai/play/a9a3c165-74b3-4ff6-9588-ad97f829ddb5) · [Original](https://www.reddit.com/r/aigamedev/comments/1wlp7sk/25d_game_with_threejs_and_astra/) |
-| [Stillwater Aquarium](https://carpentry-liu.github.io/awesome-astra-3d/#case=kenny-stillwater) | Kenny Johnson / @KennyJohnsonATX | [Demo](https://fish.kennyatx.com/) · [Original](https://x.com/KennyJohnsonATX/status/2101744240095076416) |
-| [Cabsolutely](https://carpentry-liu.github.io/awesome-astra-3d/#case=ilker-cabsolutely) | ilker / @ailker | [Demo](https://cabsolutely.vercel.app/) · [Source](https://github.com/ilkerzg/cabsolutely) · [Original](https://x.com/ailker/status/2100705949468000655) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md)
@@ -72,11 +72,11 @@ Three featured works are visible together. Desktop navigation places categories 
 The interface is in Chinese; English project names, tools and creators are searchable. Keyboard navigation, a mobile layout and image failure states are supported.
 
 <details>
-<summary>Gallery and mobile screenshots · September 24, 2026</summary>
+<summary>Gallery and mobile screenshots · September 25, 2026</summary>
 
-[![Latest examples and category sidebar](docs/media/collection-2026-09-24.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![Latest examples and category sidebar](docs/media/collection-2026-09-25.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![Mobile welcome page and resource navigation](docs/media/mobile-2026-09-24.jpg)
+![Mobile welcome page and resource navigation](docs/media/mobile-2026-09-25.jpg)
 
 </details>
 
