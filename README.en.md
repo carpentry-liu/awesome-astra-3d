@@ -28,7 +28,7 @@ Open each image for creator credits and evidence. Cabsolutely and Saint Orison u
 
 ## Live website preview
 
-[![Astra 3D Atlas live homepage](docs/media/homepage-visible-2026-09-25.png)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas live homepage](docs/media/homepage-visible-2026-09-25.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
 Captured from this update on September 25, 2026. Click to explore the gallery.
 
@@ -70,9 +70,9 @@ The interface is in Chinese; English project names, tools and creators are searc
 <details>
 <summary>Gallery and mobile screenshots · September 25, 2026</summary>
 
-[![Latest examples and category sidebar](docs/media/collection-visible-2026-09-25.png)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![Latest examples and category sidebar](docs/media/collection-visible-2026-09-25.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![Mobile welcome page and resource navigation](docs/media/mobile-visible-2026-09-25.png)
+![Mobile welcome page and resource navigation](docs/media/mobile-visible-2026-09-25.jpg)
 
 </details>
 
