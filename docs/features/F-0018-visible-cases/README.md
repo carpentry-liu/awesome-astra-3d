@@ -20,5 +20,10 @@
 - `npm run check`：204 条数据、11 项测试与 TypeScript 通过；清理前新规则已拒绝无预览案例。
 - `npm run build`：204 条目录、README 统计与静态导出通过，9 项首页资源引用通过。既有大包与 DEP0190 警告保留。
 - 本地播放器加载 Cabsolutely：readyState 4、640 px、26.218667 秒，无媒体错误；站点控制台 warning/error 为空。桌面列表 0 空预览、0 已完成加载的坏图。
+- 最终保留 204 条（192 Astra + 12 参考）、51 源码入口、82 演示入口、97 段录像；原有 `data/videos.json` 不变。桌面实拍 1425×1089、手机实拍 375×812，手机无横向溢出。
+- 内容提交 `12f08f9`，截图文件扩展名在 `239fcca` 对齐实际 JPEG 格式；新 README 使用三张 `*-visible-2026-09-25.jpg`。
+- GitHub About 已同步 192 / 51 / 82 / 97；`work/readme-check-visible.py` 核对远端中英文 README 与本地一致、渲染页 9 张图片、3 张新截图字节一致。
+- [Pages 发布工作流 36087505728](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/36087505728) success；线上 `cases.json` 204 条与本地完全一致。线上新播放器直接使用 video.src，Cabsolutely readyState 4、26.218667 秒，控制台无 warning/error。
+- 线上完整视频筛选为 95 个案例、97 段录像，筛选处于选中状态。ChatGPT Sites 未部署。
 
 验证覆盖全库媒体响应、视频容器、既有测试、类型检查、构建、桌面/手机浏览器与控制台。HTTP 媒体探测不等于所有网络永远可达，浏览器播放需要另外验证。Git 可回滚，ChatGPT Sites 不部署。
