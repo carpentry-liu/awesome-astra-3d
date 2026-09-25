@@ -1,0 +1,5062 @@
+{
+  "checkedAt": "2026-09-25",
+  "scope": "Every catalog preview image and archived playback URL; image/container byte signature, browser first playback and seek near end. Not full-frame decoding or independent demo gameplay verification.",
+  "checkedEndpoints": [
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/media/HSrlP1rXMAAgMWW.jpg?name=orig",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/224901",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2100703084661903360/img/5gq9HvHaSTqlyCTx.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/137027",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/ilker-cabsolutely-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/1564543",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/media/HSszxY4WMAEn773.jpg?name=orig",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/159427",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2100441933349113856/img/-zcl_oknjJHeAKF8.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/77287",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/blendi-saint-orison-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/1687524",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2100753501940809729/img/f53bBSn0KO5xt3yA.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/102562",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/izkimar-crownless-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/10488638",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/sldyns/PKU-3D/main/docs/media/campus.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/424733",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://www.paperroute.lol/art/og.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/819059",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://opengraph.githubassets.com/1/az9713/gpt-6-3d-projects",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/114920",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://gulnoorcheema.github.io/OpenEngineering/social/home.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/673844",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/SafaElmali/interactive-3d-lab/main/docs/images/object-lab-cover-15-worlds.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/1679358",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/assets/screenshots/road-to-kufa/gameplay.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/145141",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/assets/screenshots/realm-of-seratari/gameplay.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/147692",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/assets/screenshots/glider-game/gameplay.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/100881",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097121658750578688/img/mhqTm-uIT4p0ITcm.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/69647",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2098421570503077888/img/pYShAop_a0_-__bl.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/76406",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/marius4lui/NULLSPACE/main/docs/images/environment-preview.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/1778577",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096520419826171905/img/CVEMco_7vn0_hUZJ.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-62723/62724",
+      "bytes": 62724
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097315709227597824/img/Q-MvF2J-iFPkbIQ5.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/94878",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2100041486440058881/img/WCNMhHZQVxK-9bna.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/133396",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2100195153252323328/img/8U5-d0z27NlV2hs5.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/83849",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2100196373874311168/img/sHjCjcbz9ij8jPPA.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/106060",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2100381636613275648/img/TMc6B_ZNs0S85RjC.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/88080",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2100212170671673345/img/1ejhIEp0kM7VVJ1E.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/99427",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2100206148838387713/img/sdl9vMXOUDJU5_sf.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-50178/50179",
+      "bytes": 50179
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/BEROCHLU/astrafloor/main/.github/image1.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/1380251",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.openai.com/devhub/blog/architectural-visualization/garden-house-exterior-822ca33fb418.webp",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/webp",
+      "range": "bytes 0-65535/169862",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.openai.com/devhub/blog/how-to-build-games/sunwake-water-f1c48b3f7fe8.webp",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/webp",
+      "range": "bytes 0-65535/143058",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2099651681910992896/img/DF5BMddGcBWIhYbV.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/166192",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/aniket-last-train-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/2535447",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://assets.kilnstudio.tools/renders/abyssal-surveyor.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/1337920",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2099269396233658368/img/J4Xg_RGG6zDTXI7h.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65484/65485",
+      "bytes": 65485
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/varun-hot-wheeler-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/1379575",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://i.imgur.com/yGwD5gf.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/1716655",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2099851484175466496/img/J4g8YkopypoCM-rv.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/100710",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/msd-dead-end-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/2837054",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2099450912301584384/img/U6MEEycgCqcxgO1-.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/89703",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/jaynit-samurai-forest-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/1078140",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2099641039220826112/img/_nd0WW348dlv4gSR.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/83620",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/noni-veilfall-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/2290892",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2098492548230819840/img/Ef2C6HYFlzwwlNre.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/137702",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3-koi-pond-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/7752147",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2098063330032435201/img/2FzQHs6t_0FG_5o7.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/90459",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/seoyeon-city-pulse-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/411523",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/media/HSEQFCuasAATdDP.jpg?name=orig",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/1345876",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2098042921576734720/img/8Go_80pnT47iG_p5.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-40391/40392",
+      "bytes": 40392
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3-squid-shoal-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/3351690",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2098739148647800832/img/zWopw7KQJmPI7It3.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/99584",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/aakash-skybound-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/1172774",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://atatapp.com/blog/3d-orb/model-render.webp",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/webp",
+      "range": null,
+      "bytes": 13926
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2098774766777716743/img/xVH1xMaGe1cNhoVU.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/88735",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/dan-chicago-fair-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/11801100",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2098403015669780480/img/48Ok5jAMHEjoZCDR.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-56501/56502",
+      "bytes": 56502
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/rion-temple-diorama-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/427374",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/media/HSBYGS3bIAADGrc.png?name=orig",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/126000",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/media/HR5kKkFaIAIrcMw.jpg?name=orig",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/170299",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2098024329237979136/img/wMFuarfC4XiiGwyM.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/77395",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/msb-robot-piano-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/536735",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096776968574574592/img/VSPIKaokTcUNIx3W.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/125758",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/onihachi-megascans-forest-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/334502",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://kingy.ai/wp-content/uploads/2026/09/drawing-to-editable-3d-astra-before-after.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/459028",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://static.simonwillison.net/static/2026/pluribus-blender-viewer.webp",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/webp",
+      "range": "bytes 0-65535/78424",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097110697029103616/img/qNBjMdxnxJ8hoqeF.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-37484/37485",
+      "bytes": 37485
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/dara-goblin-bottle-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/395775",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/media/HRfsccZbMAAOe5Z.png?name=orig",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/656769",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/asmoyou/toy2game/main/docs/images/toy2game-overview.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/457286",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097813680964694016/img/dH0hKm5vkcvXQCgq.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/184934",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/higgsfield-beehive-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/723551",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097600770095132672/img/WGzY-nUYB_2keW-c.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/134442",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/sonic-urban-champion-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/466723",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://us1.discourse-cdn.com/openai1/original/4X/b/c/a/bca747bbfbf0c28cbbd8aa082418e4dac3f9d61c.jpeg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/174294",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097797011479330816/img/_TJbjU3DOhPazHAz.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/144597",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/higgsfield-cartoon-rig-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/2862748",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/media/HRv6kAGbAAAtRSJ.jpg?name=orig",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/135170",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097600704353624064/img/swadGmWgXdDyADXP.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/109386",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/sonic-shells-3d-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/1990517",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097830058509598720/img/vpaMBj9Oxpaq7SB3.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/118887",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/higgsfield-dali-world-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/707521",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://i0.hdslb.com/bfs/archive/2a149d5532231b7b9738c53077b353a87015829e.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/296410",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://i0.hdslb.com/bfs/archive/1b06293d94e65d4cf308e1ff8283154cc862a823.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/657221",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://i2.hdslb.com/bfs/archive/dc9cfe54e5240fb14b58326bd18b55a897529463.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/201985",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://i2.hdslb.com/bfs/archive/aec3031920627448d8596175da58451f36b36855.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/361054",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://i.ytimg.com/vi/iEup5H2FxKE/hqdefault.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-17334/17335",
+      "bytes": 17335
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/realsee-developer/realsee-astra-blender/main/docs/assets/plan.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/1730976",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/super-xinz/nju-xianlin-campus-3d/main/photos/03-%E6%9D%9C%E5%8E%A6%E6%B0%B4%E5%B2%B8.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/3705987",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/media/HRyqTjEaEAAOKhq.jpg?name=orig",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/240804",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097656955351547904/img/agwXHBaNXy814rkT.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/75745",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/linfeng-robot-kitchen-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/1778257",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097110659590922240/img/nRlaHBNYuWDDyaD0.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/147731",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/miya-komorebi-market-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/2913795",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097794715576115200/img/a7CUjFL6TO4x06cy.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-63157/63158",
+      "bytes": 63158
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/rshhad-backrooms-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/870165",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/gokayfem/H3-Max-Blender/main/demo/cover.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/470772",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/cyjjjj-21/gpt6-astra-kicad-blind-routing/main/astra/pic_programmer-blind-routed-3d.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/177566",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/sayanpersonal123/AI-learning/main/og.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/67124",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097761165216567304/img/IIO5hvay8G9UtGmq.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-64497/64498",
+      "bytes": 64498
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/yuntian-coin-avatar-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/317660",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097720885188984832/img/KsBY2CjcX5gVbk6_.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/160237",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/luijait-vayne-hacker-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/3465778",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097777088233439232/img/PlAlh9AKk8hWrOg_.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/266466",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/enactra-madison-park-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/2521973",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097757277398921216/img/G27oZoTTDSpQa3Ny.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/95833",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/evgeny-ligand-animation-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/2388933",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097798486322188293/img/DlcWctBMX7CFNZGl.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/69208",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/gostev-fluid-concepts-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/4253859",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097742247358005249/img/gER_aSRNmErqLxhP.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-47932/47933",
+      "bytes": 47933
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/spenser-panthera-splat-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/3188615",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097488345542660096/img/AMsWCLAtpDBFC6nu.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/129498",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/nickson-studio-photos-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/973013",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097665135863345152/img/s5w6T3ULXiUQpjOR.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/213052",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/yokohara-houdini-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/1666258",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097340760001548288/img/uEv8cTvt3-j3Qm0R.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/164153",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/jannn-brick-weather-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/2801740",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/ext_tw_video_thumb/2097763713864368141/pu/img/mpPMVg5F5JlAuvfv.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-37567/37568",
+      "bytes": 37568
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/flora-shoe-last-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/287214",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097505780085993472/img/6zfwunEdVDTWlZK4.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/97264",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/will-cube-city-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/291769",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097809399934849037/img/FOSfG-FzF7eDSuAL.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/129347",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/yachimat-tallinn-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/902749",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/yachimat-tallinn-2-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/3748868",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/yachimat-tallinn-3-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/4343833",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/songkeys/little-flock/main/docs/demo-poster.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/326221",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/songkeys-little-flock-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/2802837",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097151136155553792/img/AuzVjF2Jxc14tJqt.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/81483",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/kana-flower-shop-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/499936",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097343347895525376/img/7BqNRpeoZcou-Xtu.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/194707",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/givros-wetland-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/5477604",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/magicyan418/3D-ROOM-TEST/main/public/reference.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/1542238",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097323160601546752/img/2k2LggwN0cvh5mVI.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-61021/61022",
+      "bytes": 61022
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/goan-temple-heaven-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/724020",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/hahaliu1029/house-3d/main/media/images/song-living-comparison.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/727049",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096330178276601856/img/JU9wNEWrSNfh5CAK.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-59313/59314",
+      "bytes": 59314
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/doomdave-dragon-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/199208",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097166730498113536/img/7GvqTsPqYabmN0A8.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/142238",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/taro-skyrim-village-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/893769",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096219608550461440/img/VmSvyEIrRRdukfjg.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/105220",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/givros-roblox-kart-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/3936885",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/ext_tw_video_thumb/2095982524044541952/pu/img/NojpJgktJm7E-l-F.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/103851",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/badx-photo-building-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/6507535",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096619986119016448/img/DnxNHOzY0HSwEHqW.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/224080",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/yokohara-street-breakdown-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/1135932",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096262956774490112/img/9UcY8pI6LuZ8v2c_.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/206473",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/lexn-verdant-forest-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/844277",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096278610743304192/img/jZDskFFb29_SDdCk.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/133482",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/dilum-v8-engine-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/2779401",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096981099964772352/img/V5In6125jJkkEGp0.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/104288",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/jake-rink-life-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/1484701",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096580463288803328/img/_S5-VDnQ9RJh9URY.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/148875",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/anshuc-afterlight-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/1801344",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095652923917361152/img/HLx68_TTVmLK5LJa.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/114850",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/sharif-palace-fine-arts-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/999764",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096142969032351744/img/lZvQ1GZMdqznrSqb.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/125735",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/chen-hangzhou-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/5727002",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/media/HRcLFN8bcAAFP4k.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/220663",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/birdabo-singapore-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/559970",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096248939876126720/img/s3bAAUu8zYiJXskz.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/167969",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/danmana-piata-unirii-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/1214885",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/syaripin-i8i/blender-astra-texture-guide/main/images/skirt_before_after.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/298613",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://i0.hdslb.com/bfs/archive/cc3828cd8882b05f76af5d455e20fa9a78a8e5ab.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/147049",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://static.zenn.studio/user-upload/deployed-images/04d136be9d670d9d328e48fe.png?sha=1dfc17af4dcd9827bf353749de3cdab73002002e",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/2055788",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/LBEILC/RhineLabUI/main/docs/media/archive.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/209431",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096008340329627648/img/f7Gt3ww30PLWmsKK.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-58409/58410",
+      "bytes": 58410
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/ashe-model-x-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/822327",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096233778113118208/img/9HOvR6k_Z10CchxV.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-55469/55470",
+      "bytes": 55470
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/tspy-microduck-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/1401992",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/CwC-HydeX/donut-studio/main/docs/images/frame-0170.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/797019",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096941837160509440/img/M7XW_FFqqtoslpUW.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-44841/44842",
+      "bytes": 44842
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/wengsiong-asteria-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/1775639",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://i0.hdslb.com/bfs/archive/d0dc78c2b41bc103f1637e567f016f902da1d019.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/202916",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://i0.hdslb.com/bfs/archive/cd2bc26ff686695ed2336c7d953a7487737a178c.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/198424",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://static.zenn.studio/user-upload/4344310250d6-20260906.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/931689",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096204966549663744/img/Uzdz8t2v75PQhifx.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-64066/64067",
+      "bytes": 64067
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/op7418-moonlit-forge-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/941870",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096765283948187648/img/iCVFvP_KllH3WckA.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/123092",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/everett-holo-card-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/768979",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096218474930405376/img/3zH8etf7LevKQRr2.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-45484/45485",
+      "bytes": 45485
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/ashe-human-atlas-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/1649335",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096568034442027008/img/Qc9iu7MCzMMEK5tl.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-40380/40381",
+      "bytes": 40381
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/shinboson-clouds-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/68361",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096943524281286656/img/5zywNFWnlxigq4FG.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65177/65178",
+      "bytes": 65178
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/lumina-777-landing-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/1019270",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096032513387110400/img/bh7ztfq-14SAT0sQ.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/174482",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/mollick-zork-3d-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/2857347",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096743123301117952/img/W_anzk30lopccNnJ.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/150137",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/rohan-elderwood-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/1090337",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096090005085077511/img/36OGv0ZYv9Ap7Xgc.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/95499",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/derya-brandenburg-piano-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/2810027",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096776491011072000/img/3zm_Z5HY1pAZDQUB.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/69602",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/akshdeep-earth-history-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/2015834",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096543002055618560/img/WIZxhaya614q-1u1.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/90833",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/senthil-taj-mahal-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/1062773",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096576241038188545/img/OzGNyaFGGhg5OfrD.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/97914",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/techartist-radial-engine-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/1000661",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/media/HRiFMgzaoAA_i9s.jpg?name=orig",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/1887988",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/media/HRcobclb0AAh4Tg.jpg?name=orig",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/542253",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/mizchi/modeling-playground/main/human/models/traveler/output/traveler-walk.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/1737299",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://i1.hdslb.com/bfs/archive/2f493762a5bd56565e550a4046d223d4a8467bb0.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/221610",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://i1.hdslb.com/bfs/archive/b8aaadf0163ffd16f4e4758c2b61a44f797ef735.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/193893",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://static.zenn.studio/user-upload/deployed-images/1b84b3f627a40aa4359836f5.jpg?sha=11ed12f1fb403709700ad6910d67ef9349c38fb2",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/221527",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://static.zenn.studio/user-upload/c1aefe8b4a20-20260907.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/692108",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://www.ipentec.com/document/images/3d-model-generation-using-gpt-6-astra-13?width=480",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/webp",
+      "range": null,
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/CwC-HydeX/komorebi-shrine/main/docs/images/sunset.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/949833",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/Anionex/grand-atelier/main/docs/demo.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/102065",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/Rising1234Sun/qingmingshanghetu/main/docs/images/%E7%BD%91%E9%A1%B5%E5%85%A8%E8%B2%8C.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/442194",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://static.simonwillison.net/static/2026/astra-blender-pelican.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/188558",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/PhiloLabs/fable51-worlds/main/union-square-sf-gpt-astra/media/preview.gif",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/gif",
+      "range": "bytes 0-65535/5064672",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.openai.com/devhub/showcase/living-cell-cross-section/initial-46501ec49984.webp",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/webp",
+      "range": "bytes 0-65535/134896",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096082301176164361/img/457wlveeD7lEExH4.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/75844",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/astra-orbital-dashboard-ai-kai-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/2656784",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://developers.openai.com/showcase/courtyard-house/cover-generated-sep4.webp",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/webp",
+      "range": "bytes 0-51857/51858",
+      "bytes": 51858
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.openai.com/devhub/showcase/stop-motion-desk/final-c3c0f3218983.webp",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/webp",
+      "range": "bytes 0-65535/160086",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.openai.com/devhub/blog/how-to-build-games/orbital-flight-579e20d663e3.webp",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/webp",
+      "range": "bytes 0-65535/131138",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://developers.openai.com/showcase/impossible-kinetic-architecture/cover-generated-sep4.webp",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/webp",
+      "range": "bytes 0-65535/131452",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.openai.com/devhub/showcase/physics-museum/final-50909eb800bd.webp",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/webp",
+      "range": "bytes 0-65535/80388",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://developers.openai.com/showcase/architecture-studio/cover.webp",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/webp",
+      "range": "bytes 0-65535/143208",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.openai.com/devhub/showcase/abyssal-bioluminescent-ecosystem/initial-1f2e3f541332.webp",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/webp",
+      "range": "bytes 0-65535/79370",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://developers.openai.com/showcase/little-ritual/cover-generated-sep4.webp",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/webp",
+      "range": "bytes 0-65535/110742",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.openai.com/devhub/showcase/velocity-loop/menu-concept-1e513c497d96.webp",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/webp",
+      "range": "bytes 0-65535/202526",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095776416302280708/img/IzfZe03VWW3gBzC6.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/124143",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/peter-van-gogh-town-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/18586472",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096012866734501888/img/5Q86-WBXYVk1d-NJ.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/80451",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/peter-gogh-strike-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/28020432",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095754646069354497/img/Pz6DsxqZ529t3QdE.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/149189",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/tom-steam-train-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/4200836",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095698775075622912/img/X2vJ3HmhZXcG8lNC.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-21688/21689",
+      "bytes": 21689
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/derya-ship-bottle-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/12632770",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095769948190801920/img/mGHcR0ny6WoaITEz.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-44330/44331",
+      "bytes": 44331
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/feraser-turbocharger-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/3238785",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095611898968547328/img/EKCYWcJTBrAMT4e6.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-36554/36555",
+      "bytes": 36555
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/yunfan-zillow-house-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/12407343",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095600428587298816/img/GM52giA7HpU8xx0h.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/128911",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/ben-ship-render-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/1231062",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096004824751890434/img/fW0IV1fAgJ3b7i-D.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/175025",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/anshu-concept-to-game-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/2880210",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://external-preview.redd.it/gpt-6-astra-turned-my-portfolio-into-a-playable-game-boy-v0-dmwzMG90c3R2a25oMYZ0zLoKk-vEwJeeqyMbwUrFyFpsWN_c-rx1lh-xA5Aq.jpeg?auto=webp&crop=smart&format=pjpg&s=2e9c3b10cc1c13c7bc1d6ced481525dbe68711b5&width=640",
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "kind": "image",
+      "url": "https://www.chatprd.ai/_next/image?q=75&url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fng65ow1q%2Fproduction%2Ff05d9bcbf963a162b0bfd509cd13bf66baf543fe-854x480.jpg%3Fw%3D854%26auto%3Dformat&w=3840",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/webp",
+      "range": "bytes 0-10311/10312",
+      "bytes": 10312
+    },
+    {
+      "kind": "image",
+      "url": "https://www.chatprd.ai/_next/image?q=75&url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fng65ow1q%2Fproduction%2F28e76b9de1bb58b8e431e45a40ed3a53b512e5c3-854x480.jpg%3Fw%3D854%26auto%3Dformat&w=3840",
+      "ok": true,
+      "status": 200,
+      "contentType": "image/webp",
+      "range": "bytes 0-19827/19828",
+      "bytes": 19828
+    },
+    {
+      "kind": "image",
+      "url": "https://preview.redd.it/fable-5-1-vs-gpt-6-astra-3d-blender-mind-blowing-difference-v0-hc9tslyxgmnh1.png?auto=webp&crop=smart&s=0572827a5e9dc816c41a5ab6d997fdd96fe64d19&width=640",
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "kind": "image",
+      "url": "https://external-preview.redd.it/gpt-6-astra-is-definitely-not-agi-v0-cHcxbW9kZmNtbG5oMfvXuABrJ6SaitdVttNIH6-S9rLz45oEbKkbyl7sc9_n.png?auto=webp&crop=smart&format=pjpg&s=9c86c403ab596d28926700dd3dedbb26b75d08dd&width=640",
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095992908448944130/img/v8BSAp4Xt5knPeV0.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/156398",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/aibattle-sonic-godot-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/8289737",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case333.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/1502801",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case361.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/246715",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case378.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/110927",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case390.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/370616",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case438.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/151866",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case439.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/103338",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case444.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/156977",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case489.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/125137",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/wuyoscar/GPT-Image2-Skill/main/docs/isometric/isometric-cafe.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/1559853",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/wuyoscar/GPT-Image2-Skill/main/docs/isometric/isometric-fantasy-village.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/2500831",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/wuyoscar/GPT-Image2-Skill/main/docs/product-food/product-dieline-box.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/2094235",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/wuyoscar/GPT-Image2-Skill/main/docs/cinematic-animation/pixar-kitchen.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/2339366",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095673008803241987/img/rkGOb6E0-oOUi5ka.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/91509",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/mollick-living-ocean-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/3020251",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095988588534272001/img/LbeL-FX3FW9Ngqwm.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/97723",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/alesha-voidbound-slasher-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/18137376",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095966450385289216/img/u4EnBwNxU0h3lQgI.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/88128",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/alesha-antigravity-racer-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/4328451",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096549512995368961/img/kyuKVBrCE5i7fHA8.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-61204/61205",
+      "bytes": 61205
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/ruofeng-orbital-core-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/1736510",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/danmana-cluj-voxel-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/1214885",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095589100539531264/img/Tlsi7uZFwLrLR-51.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/200523",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/shumer-unreal-society-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/46679096",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096251295594135556/img/mkKNAllU4LTzJGME.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/159311",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/majid-kaiju-city-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/10738950",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096524256012316672/img/IDGr9lItOL1yZ3ZR.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/140332",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/nano-character-expressions-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/1159713",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095640960680243200/img/XHJ2aX--CTheLjgN.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-6841/6842",
+      "bytes": 6842
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/derya-enterprise-cad-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/775983",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095986724040290305/img/7G--77xdhynAlqtB.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-53674/53675",
+      "bytes": 53675
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/arda-titan-exhibit-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/6117083",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096091625915301888/img/hwJYJ-JHXwUfDM3-.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/223815",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/bilawal-scan-living-room-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/901614",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096457635352698880/img/l8ISZUQdh7BnxxRJ.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/79665",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/leo-surface-insect-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/2218751",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/amsminn/gpt-6-astra-smash-karts/main/docs/media/gameplay.gif",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/gif",
+      "range": "bytes 0-65535/2397545",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/Ayi1337/gpt6-astra-one-shot-games/main/mosswing/src/design/desktop-final.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-49621/49622",
+      "bytes": 49622
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/GOROman/gpt-6-astra-ps1-game-benchmark/main/docs/screenshots/015-arcade-champion.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-60184/60185",
+      "bytes": 60185
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/IanOliverU/web-3d-game/main/public/gameplay-movement-fixed.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/1326356",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/cagrikacmaz/gpt-6-astra-vs-gemini-3-8-flash/main/media/astra/astra-main-world.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/2676084",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://i0.hdslb.com/bfs/archive/6901444a47ab3e89cd6124fb35db51114888c4b9.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/127962",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.openai.com/devhub/blog/architectural-visualization/helios-stellar-collector-8f89b625bd2f.webp",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/webp",
+      "range": "bytes 0-65535/134656",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/teshnizi2/astra-fable-3d-iris/main/evidence/high/comparison-high.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/1569296",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096364109210202112/img/_-nTPLScjLl70avL.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/111405",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/scottstts-jelly-baby-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/2497092",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096557441312034816/img/v3Iur3rDygYBuOdR.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/88871",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/synabreu-seoul-atlas-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/13686132",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096766389113556999/img/hN9hsB2OZfAAoSY5.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-19829/19830",
+      "bytes": 19830
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/simonsmith-lego-minifig-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/657217",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096578527097421824/img/URU9i3UmgYiA-oul.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/96521",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/icooper-desktop-exploded-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/250947",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096578530561966080/img/h00AqoyEsyqlQzgD.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-65535/70221",
+      "bytes": 65536
+    },
+    {
+      "kind": "video",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/dqlh-room-planner-1-web.mp4",
+      "ok": true,
+      "status": 206,
+      "contentType": "video/mp4",
+      "range": "bytes 0-65535/2601218",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.openai.com/devhub/blog/architectural-visualization/aurelion-far-meridian-6f95d4a76080.webp",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/webp",
+      "range": "bytes 0-65535/68480",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.openai.com/devhub/blog/architectural-visualization/giverny-water-garden-cec7107eed5b.webp",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/webp",
+      "range": "bytes 0-65535/238934",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096792079976554496/img/3POcd351G7kC4jze.jpg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/jpeg",
+      "range": "bytes 0-61134/61135",
+      "bytes": 61135
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/cristianexer/Lloyds-of-London-3D-building/main/docs/banner.svg",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/svg+xml",
+      "range": "bytes 0-65535/904482",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/Sawamura-Jun/Crank-Mech/main/output/assembly_preview.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/147077",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/xindomusic/pulsebreak/main/docs/images/title.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/467237",
+      "bytes": 65536
+    },
+    {
+      "kind": "image",
+      "url": "https://raw.githubusercontent.com/az9713/gpt-6-astra-tennis-game/main/docs/media/v2/main-menu.png",
+      "ok": true,
+      "status": 206,
+      "contentType": "image/png",
+      "range": "bytes 0-65535/594330",
+      "bytes": 65536
+    }
+  ],
+  "browserPlayback": [
+    {
+      "id": "aniket-last-train",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/aniket-last-train-1-web.mp4",
+      "ok": true,
+      "duration": 58.212426,
+      "width": 522,
+      "startTime": 0.135269,
+      "endTime": 57.712426
+    },
+    {
+      "id": "ilker-cabsolutely",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/ilker-cabsolutely-1-web.mp4",
+      "ok": true,
+      "duration": 26.218667,
+      "width": 640,
+      "startTime": 0.19068,
+      "endTime": 25.718667
+    },
+    {
+      "id": "blendi-saint-orison",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/blendi-saint-orison-1-web.mp4",
+      "ok": true,
+      "duration": 57.283628,
+      "width": 640,
+      "startTime": 0.084849,
+      "endTime": 56.783628
+    },
+    {
+      "id": "izkimar-crownless",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/izkimar-crownless-1-web.mp4",
+      "ok": true,
+      "duration": 159.985488,
+      "width": 640,
+      "startTime": 0.175297,
+      "endTime": 159.485488
+    },
+    {
+      "id": "varun-hot-wheeler",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/varun-hot-wheeler-1-web.mp4",
+      "ok": true,
+      "duration": 26.048,
+      "width": 640,
+      "startTime": 0.180911,
+      "endTime": 25.548
+    },
+    {
+      "id": "jaynit-samurai-forest",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/jaynit-samurai-forest-1-web.mp4",
+      "ok": true,
+      "duration": 24.633333,
+      "width": 636,
+      "startTime": 0.239623,
+      "endTime": 24.133333
+    },
+    {
+      "id": "msd-dead-end",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/msd-dead-end-1-web.mp4",
+      "ok": true,
+      "duration": 73.856,
+      "width": 472,
+      "startTime": 0.196496,
+      "endTime": 73.356
+    },
+    {
+      "id": "noni-veilfall",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/noni-veilfall-1-web.mp4",
+      "ok": true,
+      "duration": 28.653424,
+      "width": 480,
+      "startTime": 0.177108,
+      "endTime": 28.153424
+    },
+    {
+      "id": "seoyeon-city-pulse",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/seoyeon-city-pulse-1-web.mp4",
+      "ok": true,
+      "duration": 9.566621,
+      "width": 640,
+      "startTime": 0.186603,
+      "endTime": 9.066621
+    },
+    {
+      "id": "vib3-koi-pond",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3-koi-pond-1-web.mp4",
+      "ok": true,
+      "duration": 68.586667,
+      "width": 640,
+      "startTime": 0.180851,
+      "endTime": 68.086667
+    },
+    {
+      "id": "vib3-squid-shoal",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3-squid-shoal-1-web.mp4",
+      "ok": true,
+      "duration": 57.066667,
+      "width": 640,
+      "startTime": 0.180308,
+      "endTime": 56.566667
+    },
+    {
+      "id": "aakash-skybound",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/aakash-skybound-1-web.mp4",
+      "ok": true,
+      "duration": 26.090667,
+      "width": 576,
+      "startTime": 0.191903,
+      "endTime": 25.590667
+    },
+    {
+      "id": "rion-temple-diorama",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/rion-temple-diorama-1-web.mp4",
+      "ok": true,
+      "duration": 15,
+      "width": 640,
+      "startTime": 0.247268,
+      "endTime": 14.5
+    },
+    {
+      "id": "msb-robot-piano",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/msb-robot-piano-1-web.mp4",
+      "ok": true,
+      "duration": 16.768,
+      "width": 640,
+      "startTime": 0.171569,
+      "endTime": 16.268
+    },
+    {
+      "id": "dan-chicago-fair",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/dan-chicago-fair-1-web.mp4",
+      "ok": true,
+      "duration": 296.810667,
+      "width": 640,
+      "startTime": 0.177175,
+      "endTime": 296.310667
+    },
+    {
+      "id": "onihachi-megascans-forest",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/onihachi-megascans-forest-1-web.mp4",
+      "ok": true,
+      "duration": 10,
+      "width": 640,
+      "startTime": 0.247718,
+      "endTime": 9.5
+    },
+    {
+      "id": "sonic-urban-champion",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/sonic-urban-champion-1-web.mp4",
+      "ok": true,
+      "duration": 31.6,
+      "width": 426,
+      "startTime": 0.254794,
+      "endTime": 31.1
+    },
+    {
+      "id": "dara-goblin-bottle",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/dara-goblin-bottle-1-web.mp4",
+      "ok": true,
+      "duration": 16.042667,
+      "width": 572,
+      "startTime": 0.131888,
+      "endTime": 15.542667
+    },
+    {
+      "id": "higgsfield-beehive",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/higgsfield-beehive-1-web.mp4",
+      "ok": true,
+      "duration": 15.594667,
+      "width": 480,
+      "startTime": 0.028842,
+      "endTime": 15.094667
+    },
+    {
+      "id": "higgsfield-cartoon-rig",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/higgsfield-cartoon-rig-1-web.mp4",
+      "ok": true,
+      "duration": 73.962667,
+      "width": 480,
+      "startTime": 0.18031,
+      "endTime": 73.462667
+    },
+    {
+      "id": "sonic-shells-3d",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/sonic-shells-3d-1-web.mp4",
+      "ok": true,
+      "duration": 33.250975,
+      "width": 480,
+      "startTime": 0.192777,
+      "endTime": 32.750974
+    },
+    {
+      "id": "higgsfield-dali-world",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/higgsfield-dali-world-1-web.mp4",
+      "ok": true,
+      "duration": 10.048,
+      "width": 480,
+      "startTime": 0.176623,
+      "endTime": 9.548
+    },
+    {
+      "id": "linfeng-robot-kitchen",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/linfeng-robot-kitchen-1-web.mp4",
+      "ok": true,
+      "duration": 80.566667,
+      "width": 640,
+      "startTime": 0.25023,
+      "endTime": 80.066667
+    },
+    {
+      "id": "miya-komorebi-market",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/miya-komorebi-market-1-web.mp4",
+      "ok": true,
+      "duration": 60.117333,
+      "width": 640,
+      "startTime": 0.196515,
+      "endTime": 59.617333
+    },
+    {
+      "id": "yuntian-coin-avatar",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/yuntian-coin-avatar-1-web.mp4",
+      "ok": true,
+      "duration": 16.833333,
+      "width": 540,
+      "startTime": 0.231754,
+      "endTime": 16.333333
+    },
+    {
+      "id": "rshhad-backrooms",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/rshhad-backrooms-1-web.mp4",
+      "ok": true,
+      "duration": 20.096,
+      "width": 640,
+      "startTime": 0.198074,
+      "endTime": 19.596
+    },
+    {
+      "id": "luijait-vayne-hacker",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/luijait-vayne-hacker-1-web.mp4",
+      "ok": true,
+      "duration": 63.744,
+      "width": 640,
+      "startTime": 0.189268,
+      "endTime": 63.244
+    },
+    {
+      "id": "enactra-madison-park",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/enactra-madison-park-1-web.mp4",
+      "ok": true,
+      "duration": 35,
+      "width": 666,
+      "startTime": 0.258963,
+      "endTime": 34.5
+    },
+    {
+      "id": "evgeny-ligand-animation",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/evgeny-ligand-animation-1-web.mp4",
+      "ok": true,
+      "duration": 38.521905,
+      "width": 640,
+      "startTime": 0.180357,
+      "endTime": 38.021905
+    },
+    {
+      "id": "spenser-panthera-splat",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/spenser-panthera-splat-1-web.mp4",
+      "ok": true,
+      "duration": 69.077333,
+      "width": 640,
+      "startTime": 0.181388,
+      "endTime": 68.577333
+    },
+    {
+      "id": "gostev-fluid-concepts",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/gostev-fluid-concepts-1-web.mp4",
+      "ok": true,
+      "duration": 42.048,
+      "width": 640,
+      "startTime": 0.181525,
+      "endTime": 41.548
+    },
+    {
+      "id": "nickson-studio-photos",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/nickson-studio-photos-1-web.mp4",
+      "ok": true,
+      "duration": 17.962667,
+      "width": 420,
+      "startTime": 0.147633,
+      "endTime": 17.462667
+    },
+    {
+      "id": "jannn-brick-weather",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/jannn-brick-weather-1-web.mp4",
+      "ok": true,
+      "duration": 33.557333,
+      "width": 640,
+      "startTime": 0.177418,
+      "endTime": 33.057333
+    },
+    {
+      "id": "yokohara-houdini",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/yokohara-houdini-1-web.mp4",
+      "ok": true,
+      "duration": 30.125,
+      "width": 540,
+      "startTime": 0.252416,
+      "endTime": 29.625
+    },
+    {
+      "id": "flora-shoe-last",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/flora-shoe-last-1-web.mp4",
+      "ok": true,
+      "duration": 6.058667,
+      "width": 480,
+      "startTime": 0.161557,
+      "endTime": 5.558667
+    },
+    {
+      "id": "will-cube-city",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/will-cube-city-1-web.mp4",
+      "ok": true,
+      "duration": 9.106667,
+      "width": 654,
+      "startTime": 0.249961,
+      "endTime": 8.606667
+    },
+    {
+      "id": "yachimat-tallinn",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/yachimat-tallinn-1-web.mp4",
+      "ok": true,
+      "duration": 23.428934,
+      "width": 640,
+      "startTime": 0.095824,
+      "endTime": 22.928934
+    },
+    {
+      "id": "yachimat-tallinn",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/yachimat-tallinn-2-web.mp4",
+      "ok": true,
+      "duration": 90,
+      "width": 640,
+      "startTime": 0.234153,
+      "endTime": 89.5
+    },
+    {
+      "id": "yachimat-tallinn",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/yachimat-tallinn-3-web.mp4",
+      "ok": true,
+      "duration": 90.093424,
+      "width": 628,
+      "startTime": 0.132852,
+      "endTime": 89.593424
+    },
+    {
+      "id": "songkeys-little-flock",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/songkeys-little-flock-1-web.mp4",
+      "ok": true,
+      "duration": 64.042667,
+      "width": 640,
+      "startTime": 0.184934,
+      "endTime": 63.542666
+    },
+    {
+      "id": "kana-flower-shop",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/kana-flower-shop-1-web.mp4",
+      "ok": true,
+      "duration": 10.866939,
+      "width": 540,
+      "startTime": 0.178431,
+      "endTime": 10.366939
+    },
+    {
+      "id": "givros-wetland",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/givros-wetland-1-web.mp4",
+      "ok": true,
+      "duration": 62.933333,
+      "width": 640,
+      "startTime": 0.195129,
+      "endTime": 62.433333
+    },
+    {
+      "id": "doomdave-dragon",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/doomdave-dragon-1-web.mp4",
+      "ok": true,
+      "duration": 10,
+      "width": 640,
+      "startTime": 0.228397,
+      "endTime": 9.5
+    },
+    {
+      "id": "goan-temple-heaven",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/goan-temple-heaven-1-web.mp4",
+      "ok": true,
+      "duration": 18.715283,
+      "width": 640,
+      "startTime": 0.187543,
+      "endTime": 18.215283
+    },
+    {
+      "id": "taro-skyrim-village",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/taro-skyrim-village-1-web.mp4",
+      "ok": true,
+      "duration": 21.269333,
+      "width": 422,
+      "startTime": 0.175631,
+      "endTime": 20.769333
+    },
+    {
+      "id": "givros-roblox-kart",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/givros-roblox-kart-1-web.mp4",
+      "ok": true,
+      "duration": 55.082667,
+      "width": 708,
+      "startTime": 0.145044,
+      "endTime": 54.582667
+    },
+    {
+      "id": "yokohara-street-breakdown",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/yokohara-street-breakdown-1-web.mp4",
+      "ok": true,
+      "duration": 21.588233,
+      "width": 640,
+      "startTime": 0.240375,
+      "endTime": 21.088233
+    },
+    {
+      "id": "badx-photo-building",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/badx-photo-building-1-web.mp4",
+      "ok": true,
+      "duration": 57.748027,
+      "width": 480,
+      "startTime": 0.18121,
+      "endTime": 57.248027
+    },
+    {
+      "id": "lexn-verdant-forest",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/lexn-verdant-forest-1-web.mp4",
+      "ok": true,
+      "duration": 14.958333,
+      "width": 576,
+      "startTime": 0.249973,
+      "endTime": 14.458333
+    },
+    {
+      "id": "dilum-v8-engine",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/dilum-v8-engine-1-web.mp4",
+      "ok": true,
+      "duration": 52.116667,
+      "width": 624,
+      "startTime": 0.060106,
+      "endTime": 51.616667
+    },
+    {
+      "id": "jake-rink-life",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/jake-rink-life-1-web.mp4",
+      "ok": true,
+      "duration": 28.053333,
+      "width": 480,
+      "startTime": 0.145388,
+      "endTime": 27.553333
+    },
+    {
+      "id": "anshuc-afterlight",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/anshuc-afterlight-1-web.mp4",
+      "ok": true,
+      "duration": 29.616667,
+      "width": 614,
+      "startTime": 0.233667,
+      "endTime": 29.116667
+    },
+    {
+      "id": "sharif-palace-fine-arts",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/sharif-palace-fine-arts-1-web.mp4",
+      "ok": true,
+      "duration": 30.058667,
+      "width": 640,
+      "startTime": 0.160859,
+      "endTime": 29.558667
+    },
+    {
+      "id": "chen-hangzhou",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/chen-hangzhou-1-web.mp4",
+      "ok": true,
+      "duration": 105.7,
+      "width": 642,
+      "startTime": 0.232054,
+      "endTime": 105.2
+    },
+    {
+      "id": "birdabo-singapore",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/birdabo-singapore-1-web.mp4",
+      "ok": true,
+      "duration": 8.103764,
+      "width": 640,
+      "startTime": 0.173443,
+      "endTime": 7.603764
+    },
+    {
+      "id": "danmana-piata-unirii",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/danmana-piata-unirii-1-web.mp4",
+      "ok": true,
+      "duration": 24,
+      "width": 640,
+      "startTime": 0.22983,
+      "endTime": 23.5
+    },
+    {
+      "id": "ashe-model-x",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/ashe-model-x-1-web.mp4",
+      "ok": true,
+      "duration": 19.166667,
+      "width": 658,
+      "startTime": 0.237934,
+      "endTime": 18.666667
+    },
+    {
+      "id": "op7418-moonlit-forge",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/op7418-moonlit-forge-1-web.mp4",
+      "ok": true,
+      "duration": 31.114739,
+      "width": 598,
+      "startTime": 0.133055,
+      "endTime": 30.614739
+    },
+    {
+      "id": "wengsiong-asteria",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/wengsiong-asteria-1-web.mp4",
+      "ok": true,
+      "duration": 55.061333,
+      "width": 640,
+      "startTime": 0.180349,
+      "endTime": 54.561333
+    },
+    {
+      "id": "tspy-microduck",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/tspy-microduck-1-web.mp4",
+      "ok": true,
+      "duration": 70.954667,
+      "width": 640,
+      "startTime": 0.149792,
+      "endTime": 70.454667
+    },
+    {
+      "id": "shinboson-clouds",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/shinboson-clouds-1-web.mp4",
+      "ok": true,
+      "duration": 5,
+      "width": 640,
+      "startTime": 0.249363,
+      "endTime": 4.5
+    },
+    {
+      "id": "everett-holo-card",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/everett-holo-card-1-web.mp4",
+      "ok": true,
+      "duration": 17.647166,
+      "width": 480,
+      "startTime": 0.166412,
+      "endTime": 17.147166
+    },
+    {
+      "id": "ashe-human-atlas",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/ashe-human-atlas-1-web.mp4",
+      "ok": true,
+      "duration": 38.614785,
+      "width": 658,
+      "startTime": 0.067376,
+      "endTime": 38.114785
+    },
+    {
+      "id": "lumina-777-landing",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/lumina-777-landing-1-web.mp4",
+      "ok": true,
+      "duration": 39.988756,
+      "width": 506,
+      "startTime": 0.226781,
+      "endTime": 39.488756
+    },
+    {
+      "id": "mollick-zork-3d",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/mollick-zork-3d-1-web.mp4",
+      "ok": true,
+      "duration": 53.057596,
+      "width": 554,
+      "startTime": 0.180363,
+      "endTime": 52.557596
+    },
+    {
+      "id": "rohan-elderwood",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/rohan-elderwood-1-web.mp4",
+      "ok": true,
+      "duration": 45.056,
+      "width": 470,
+      "startTime": 0.183392,
+      "endTime": 44.556
+    },
+    {
+      "id": "derya-brandenburg-piano",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/derya-brandenburg-piano-1-web.mp4",
+      "ok": true,
+      "duration": 120.042667,
+      "width": 640,
+      "startTime": 0.176466,
+      "endTime": 119.542667
+    },
+    {
+      "id": "akshdeep-earth-history",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/akshdeep-earth-history-1-web.mp4",
+      "ok": true,
+      "duration": 79.5,
+      "width": 568,
+      "startTime": 0.251188,
+      "endTime": 79
+    },
+    {
+      "id": "techartist-radial-engine",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/techartist-radial-engine-1-web.mp4",
+      "ok": true,
+      "duration": 22.333333,
+      "width": 550,
+      "startTime": 0.256972,
+      "endTime": 21.833333
+    },
+    {
+      "id": "senthil-taj-mahal",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/senthil-taj-mahal-1-web.mp4",
+      "ok": true,
+      "duration": 30,
+      "width": 640,
+      "startTime": 0.004547,
+      "endTime": 29.5
+    },
+    {
+      "id": "astra-orbital-dashboard-ai-kai",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/astra-orbital-dashboard-ai-kai-1-web.mp4",
+      "ok": true,
+      "duration": 39.552,
+      "width": 988,
+      "startTime": 0.163178,
+      "endTime": 39.052
+    },
+    {
+      "id": "peter-van-gogh-town",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/peter-van-gogh-town-1-web.mp4",
+      "ok": true,
+      "duration": 76.116667,
+      "width": 1442,
+      "startTime": 0.224528,
+      "endTime": 75.616667
+    },
+    {
+      "id": "peter-gogh-strike",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/peter-gogh-strike-1-web.mp4",
+      "ok": true,
+      "duration": 110.058667,
+      "width": 1442,
+      "startTime": 0.1965,
+      "endTime": 109.558667
+    },
+    {
+      "id": "tom-steam-train",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/tom-steam-train-1-web.mp4",
+      "ok": true,
+      "duration": 34.166667,
+      "width": 1108,
+      "startTime": 0.238988,
+      "endTime": 33.666667
+    },
+    {
+      "id": "feraser-turbocharger",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/feraser-turbocharger-1-web.mp4",
+      "ok": true,
+      "duration": 39.659683,
+      "width": 1280,
+      "startTime": 0.187429,
+      "endTime": 39.159683
+    },
+    {
+      "id": "derya-ship-bottle",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/derya-ship-bottle-1-web.mp4",
+      "ok": true,
+      "duration": 120.042667,
+      "width": 1280,
+      "startTime": 0.182373,
+      "endTime": 119.542667
+    },
+    {
+      "id": "yunfan-zillow-house",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/yunfan-zillow-house-1-web.mp4",
+      "ok": true,
+      "duration": 78.088707,
+      "width": 1280,
+      "startTime": 0.172902,
+      "endTime": 77.588707
+    },
+    {
+      "id": "ben-ship-render",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/ben-ship-render-1-web.mp4",
+      "ok": true,
+      "duration": 7,
+      "width": 1280,
+      "startTime": 0.227479,
+      "endTime": 6.5
+    },
+    {
+      "id": "anshu-concept-to-game",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/anshu-concept-to-game-1-web.mp4",
+      "ok": true,
+      "duration": 18.55,
+      "width": 1230,
+      "startTime": 0.235894,
+      "endTime": 18.05
+    },
+    {
+      "id": "aibattle-sonic-godot",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/aibattle-sonic-godot-1-web.mp4",
+      "ok": true,
+      "duration": 41.21542,
+      "width": 720,
+      "startTime": 0.187789,
+      "endTime": 40.71542
+    },
+    {
+      "id": "mollick-living-ocean",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/mollick-living-ocean-1-web.mp4",
+      "ok": true,
+      "duration": 64.087075,
+      "width": 892,
+      "startTime": 0.160198,
+      "endTime": 63.587075
+    },
+    {
+      "id": "alesha-antigravity-racer",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/alesha-antigravity-racer-1-web.mp4",
+      "ok": true,
+      "duration": 60.586667,
+      "width": 718,
+      "startTime": 0.180206,
+      "endTime": 60.086667
+    },
+    {
+      "id": "alesha-voidbound-slasher",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/alesha-voidbound-slasher-1-web.mp4",
+      "ok": true,
+      "duration": 203.989333,
+      "width": 722,
+      "startTime": 0.16549,
+      "endTime": 203.489333
+    },
+    {
+      "id": "ruofeng-orbital-core",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/ruofeng-orbital-core-1-web.mp4",
+      "ok": true,
+      "duration": 54.682993,
+      "width": 638,
+      "startTime": 0.167676,
+      "endTime": 54.182993
+    },
+    {
+      "id": "danmana-cluj-voxel",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/danmana-cluj-voxel-1-web.mp4",
+      "ok": true,
+      "duration": 24,
+      "width": 640,
+      "startTime": 0.257128,
+      "endTime": 23.5
+    },
+    {
+      "id": "majid-kaiju-city",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/majid-kaiju-city-1-web.mp4",
+      "ok": true,
+      "duration": 127.253333,
+      "width": 554,
+      "startTime": 0.156454,
+      "endTime": 126.753333
+    },
+    {
+      "id": "nano-character-expressions",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/nano-character-expressions-1-web.mp4",
+      "ok": true,
+      "duration": 29.195833,
+      "width": 640,
+      "startTime": 0.233795,
+      "endTime": 28.695833
+    },
+    {
+      "id": "shumer-unreal-society",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/shumer-unreal-society-1-web.mp4",
+      "ok": true,
+      "duration": 592.341333,
+      "width": 640,
+      "startTime": 0.170126,
+      "endTime": 591.841333
+    },
+    {
+      "id": "derya-enterprise-cad",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/derya-enterprise-cad-1-web.mp4",
+      "ok": true,
+      "duration": 30.058667,
+      "width": 640,
+      "startTime": 0.183053,
+      "endTime": 29.558667
+    },
+    {
+      "id": "arda-titan-exhibit",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/arda-titan-exhibit-1-web.mp4",
+      "ok": true,
+      "duration": 331.349333,
+      "width": 640,
+      "startTime": 0.191064,
+      "endTime": 330.849333
+    },
+    {
+      "id": "leo-surface-insect",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/leo-surface-insect-1-web.mp4",
+      "ok": true,
+      "duration": 54.058667,
+      "width": 480,
+      "startTime": 0.181203,
+      "endTime": 53.558667
+    },
+    {
+      "id": "bilawal-scan-living-room",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/bilawal-scan-living-room-1-web.mp4",
+      "ok": true,
+      "duration": 30,
+      "width": 480,
+      "startTime": 0.258656,
+      "endTime": 29.5
+    },
+    {
+      "id": "scottstts-jelly-baby",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/scottstts-jelly-baby-1-web.mp4",
+      "ok": true,
+      "duration": 47.36,
+      "width": 572,
+      "startTime": 0.154345,
+      "endTime": 46.86
+    },
+    {
+      "id": "icooper-desktop-exploded",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/icooper-desktop-exploded-1-web.mp4",
+      "ok": true,
+      "duration": 12.5,
+      "width": 618,
+      "startTime": 0.252122,
+      "endTime": 12
+    },
+    {
+      "id": "synabreu-seoul-atlas",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/synabreu-seoul-atlas-1-web.mp4",
+      "ok": true,
+      "duration": 224.375,
+      "width": 640,
+      "startTime": 0.242532,
+      "endTime": 223.875
+    },
+    {
+      "id": "simonsmith-lego-minifig",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/simonsmith-lego-minifig-1-web.mp4",
+      "ok": true,
+      "duration": 26.048,
+      "width": 640,
+      "startTime": 0.148802,
+      "endTime": 25.548
+    },
+    {
+      "id": "dqlh-room-planner",
+      "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/dqlh-room-planner-1-web.mp4",
+      "ok": true,
+      "duration": 44.303673,
+      "width": 480,
+      "startTime": 0.180478,
+      "endTime": 43.803673
+    }
+  ],
+  "removedCaseCount": 37,
+  "disabledDemoLinks": [
+    {
+      "id": "lbeilc-rhine-lab",
+      "url": "https://rhine-lab-ui.vercel.app",
+      "ok": false,
+      "reason": "HTTP Error 402: Payment Required"
+    },
+    {
+      "id": "ashe-model-x",
+      "url": "https://model-x-studio.vercel.app",
+      "ok": false,
+      "reason": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "id": "ashe-human-atlas",
+      "url": "https://human-atlas-seven.vercel.app",
+      "ok": false,
+      "reason": "HTTP Error 503: Service Unavailable"
+    }
+  ],
+  "browserImages": [
+    {
+      "id": "az9713-three-3d-projects",
+      "url": "https://opengraph.githubassets.com/1/az9713/gpt-6-3d-projects",
+      "ok": true,
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "id": "kenny-stillwater",
+      "url": "https://pbs.twimg.com/media/HSrlP1rXMAAgMWW.jpg?name=orig",
+      "ok": true,
+      "width": 2048,
+      "height": 945
+    },
+    {
+      "id": "angello-drone-io",
+      "url": "https://pbs.twimg.com/media/HSszxY4WMAEn773.jpg?name=orig",
+      "ok": true,
+      "width": 1886,
+      "height": 906
+    },
+    {
+      "id": "izkimar-crownless",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2100753501940809729/img/f53bBSn0KO5xt3yA.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "ilker-cabsolutely",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2100703084661903360/img/5gq9HvHaSTqlyCTx.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "sldyns-pku-3d",
+      "url": "https://raw.githubusercontent.com/sldyns/PKU-3D/main/docs/media/campus.jpg",
+      "ok": true,
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "id": "emmtee-paperroute",
+      "url": "https://www.paperroute.lol/art/og.png",
+      "ok": true,
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "id": "blendi-saint-orison",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2100441933349113856/img/-zcl_oknjJHeAKF8.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "thomas-monopoly-city",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097121658750578688/img/mhqTm-uIT4p0ITcm.jpg",
+      "ok": true,
+      "width": 552,
+      "height": 1199
+    },
+    {
+      "id": "serein-dual-realms",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2098421570503077888/img/pYShAop_a0_-__bl.jpg",
+      "ok": true,
+      "width": 709,
+      "height": 1200
+    },
+    {
+      "id": "safaelmali-object-lab",
+      "url": "https://raw.githubusercontent.com/SafaElmali/interactive-3d-lab/main/docs/images/object-lab-cover-15-worlds.png",
+      "ok": true,
+      "width": 1774,
+      "height": 887
+    },
+    {
+      "id": "zenpher-road-to-kufa",
+      "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/assets/screenshots/road-to-kufa/gameplay.jpg",
+      "ok": true,
+      "width": 1470,
+      "height": 745
+    },
+    {
+      "id": "mrtwizzles-glider",
+      "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/assets/screenshots/glider-game/gameplay.jpg",
+      "ok": true,
+      "width": 1470,
+      "height": 801
+    },
+    {
+      "id": "nightstar-realm-of-seratari",
+      "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/assets/screenshots/realm-of-seratari/gameplay.jpg",
+      "ok": true,
+      "width": 1470,
+      "height": 801
+    },
+    {
+      "id": "wesche-sundrift",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2100041486440058881/img/WCNMhHZQVxK-9bna.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "id": "akartit-lantern-cove",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096520419826171905/img/CVEMco_7vn0_hUZJ.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 704
+    },
+    {
+      "id": "secretseoul-butterball-run",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097315709227597824/img/Q-MvF2J-iFPkbIQ5.jpg",
+      "ok": true,
+      "width": 682,
+      "height": 1199
+    },
+    {
+      "id": "swarnim-duck-off",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2100195153252323328/img/8U5-d0z27NlV2hs5.jpg",
+      "ok": true,
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "marius4lui-nullspace",
+      "url": "https://raw.githubusercontent.com/marius4lui/NULLSPACE/main/docs/images/environment-preview.png",
+      "ok": true,
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "defy-wildwake-rally",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2100196373874311168/img/sHjCjcbz9ij8jPPA.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "aaron-starship-foundry",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2100381636613275648/img/TMc6B_ZNs0S85RjC.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 645
+    },
+    {
+      "id": "timlb-tideglass-hunt",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2100212170671673345/img/1ejhIEp0kM7VVJ1E.jpg",
+      "ok": true,
+      "width": 1199,
+      "height": 633
+    },
+    {
+      "id": "chongdashu-canteen-crashers",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2100206148838387713/img/sdl9vMXOUDJU5_sf.jpg",
+      "ok": true,
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "aniket-last-train",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2099651681910992896/img/DF5BMddGcBWIhYbV.jpg",
+      "ok": true,
+      "width": 1199,
+      "height": 825
+    },
+    {
+      "id": "varun-hot-wheeler",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2099269396233658368/img/J4Xg_RGG6zDTXI7h.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "berochlu-astrafloor",
+      "url": "https://raw.githubusercontent.com/BEROCHLU/astrafloor/main/.github/image1.png",
+      "ok": true,
+      "width": 1918,
+      "height": 863
+    },
+    {
+      "id": "gulnoor-openengineering",
+      "url": "https://gulnoorcheema.github.io/OpenEngineering/social/home.png",
+      "ok": true,
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "id": "msd-dead-end",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2099851484175466496/img/J4g8YkopypoCM-rv.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 913
+    },
+    {
+      "id": "jaynit-samurai-forest",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2099450912301584384/img/U6MEEycgCqcxgO1-.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 679
+    },
+    {
+      "id": "vib3-koi-pond",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2098492548230819840/img/Ef2C6HYFlzwwlNre.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "noni-veilfall",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2099641039220826112/img/_nd0WW348dlv4gSR.jpg",
+      "ok": true,
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "seoyeon-city-pulse",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2098063330032435201/img/2FzQHs6t_0FG_5o7.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "sagyo-uv-rebake",
+      "url": "https://pbs.twimg.com/media/HSEQFCuasAATdDP.jpg?name=orig",
+      "ok": true,
+      "width": 3844,
+      "height": 2160
+    },
+    {
+      "id": "vib3-squid-shoal",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2098042921576734720/img/8Go_80pnT47iG_p5.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "aakash-skybound",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2098739148647800832/img/zWopw7KQJmPI7It3.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 750
+    },
+    {
+      "id": "wada-frame-joints",
+      "url": "https://pbs.twimg.com/media/HSBYGS3bIAADGrc.png?name=orig",
+      "ok": true,
+      "width": 712,
+      "height": 678
+    },
+    {
+      "id": "dan-chicago-fair",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2098774766777716743/img/xVH1xMaGe1cNhoVU.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "rion-temple-diorama",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2098403015669780480/img/48Ok5jAMHEjoZCDR.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "jonathan-courier-ship",
+      "url": "https://pbs.twimg.com/media/HR5kKkFaIAIrcMw.jpg?name=orig",
+      "ok": true,
+      "width": 1917,
+      "height": 1031
+    },
+    {
+      "id": "msb-robot-piano",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2098024329237979136/img/wMFuarfC4XiiGwyM.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 674
+    },
+    {
+      "id": "onihachi-megascans-forest",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096776968574574592/img/VSPIKaokTcUNIx3W.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "dara-goblin-bottle",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097110697029103616/img/qNBjMdxnxJ8hoqeF.jpg",
+      "ok": true,
+      "width": 1199,
+      "height": 753
+    },
+    {
+      "id": "atat-animated-orb",
+      "url": "https://atatapp.com/blog/3d-orb/model-render.webp",
+      "ok": true,
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": "openai-sunwake",
+      "url": "https://cdn.openai.com/devhub/blog/how-to-build-games/sunwake-water-f1c48b3f7fe8.webp",
+      "ok": true,
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "id": "pcstyle-minecraft-map",
+      "url": "https://pbs.twimg.com/media/HRfsccZbMAAOe5Z.png?name=orig",
+      "ok": true,
+      "width": 768,
+      "height": 480
+    },
+    {
+      "id": "asmoyou-toy2game",
+      "url": "https://raw.githubusercontent.com/asmoyou/toy2game/main/docs/images/toy2game-overview.png",
+      "ok": true,
+      "width": 1600,
+      "height": 1280
+    },
+    {
+      "id": "higgsfield-beehive",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097813680964694016/img/dH0hKm5vkcvXQCgq.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": "sonic-urban-champion",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097600770095132672/img/WGzY-nUYB_2keW-c.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 1014
+    },
+    {
+      "id": "kiln-abyssal-surveyor",
+      "url": "https://assets.kilnstudio.tools/renders/abyssal-surveyor.png",
+      "ok": true,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "higgsfield-cartoon-rig",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097797011479330816/img/_TJbjU3DOhPazHAz.jpg",
+      "ok": true,
+      "width": 1067,
+      "height": 1200
+    },
+    {
+      "id": "bootoshi-roblox-village",
+      "url": "https://pbs.twimg.com/media/HRv6kAGbAAAtRSJ.jpg?name=orig",
+      "ok": true,
+      "width": 1614,
+      "height": 1152
+    },
+    {
+      "id": "sonic-shells-3d",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097600704353624064/img/swadGmWgXdDyADXP.jpg",
+      "ok": true,
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "higgsfield-dali-world",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097830058509598720/img/vpaMBj9Oxpaq7SB3.jpg",
+      "ok": true,
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "id": "openai-solace-garden-house",
+      "url": "https://cdn.openai.com/devhub/blog/architectural-visualization/garden-house-exterior-822ca33fb418.webp",
+      "ok": true,
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "kingy-fieldnote-rover",
+      "url": "https://kingy.ai/wp-content/uploads/2026/09/drawing-to-editable-3d-astra-before-after.png",
+      "ok": true,
+      "width": 1400,
+      "height": 624
+    },
+    {
+      "id": "kvickan-vesper",
+      "url": "https://i.imgur.com/yGwD5gf.png",
+      "ok": true,
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "laoliu-godot-nightmare",
+      "url": "https://i0.hdslb.com/bfs/archive/1b06293d94e65d4cf308e1ff8283154cc862a823.jpg",
+      "ok": true,
+      "width": 1175,
+      "height": 664
+    },
+    {
+      "id": "simonw-pluribus-egg",
+      "url": "https://static.simonwillison.net/static/2026/pluribus-blender-viewer.webp",
+      "ok": true,
+      "width": 1327,
+      "height": 934
+    },
+    {
+      "id": "airilab-rhino-building",
+      "url": "https://i0.hdslb.com/bfs/archive/2a149d5532231b7b9738c53077b353a87015829e.jpg",
+      "ok": true,
+      "width": 1440,
+      "height": 810
+    },
+    {
+      "id": "tucao-stone-tomb",
+      "url": "https://i2.hdslb.com/bfs/archive/dc9cfe54e5240fb14b58326bd18b55a897529463.jpg",
+      "ok": true,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "realsee-editable-space",
+      "url": "https://raw.githubusercontent.com/realsee-developer/realsee-astra-blender/main/docs/assets/plan.png",
+      "ok": true,
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": "nick-op1-houdini",
+      "url": "https://pbs.twimg.com/media/HRyqTjEaEAAOKhq.jpg?name=orig",
+      "ok": true,
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "linfeng-robot-kitchen",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097656955351547904/img/agwXHBaNXy814rkT.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "aizhuiguang-blender-previs",
+      "url": "https://i2.hdslb.com/bfs/archive/aec3031920627448d8596175da58451f36b36855.jpg",
+      "ok": true,
+      "width": 1672,
+      "height": 940
+    },
+    {
+      "id": "miya-komorebi-market",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097110659590922240/img/nRlaHBNYuWDDyaD0.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "rshhad-backrooms",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097794715576115200/img/a7CUjFL6TO4x06cy.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "yuntian-coin-avatar",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097761165216567304/img/IIO5hvay8G9UtGmq.jpg",
+      "ok": true,
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": "luijait-vayne-hacker",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097720885188984832/img/KsBY2CjcX5gVbk6_.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "xinz-xianlin-campus",
+      "url": "https://raw.githubusercontent.com/super-xinz/nju-xianlin-campus-3d/main/photos/03-%E6%9D%9C%E5%8E%A6%E6%B0%B4%E5%B2%B8.jpg",
+      "ok": true,
+      "width": 3840,
+      "height": 2560
+    },
+    {
+      "id": "gokay-neural-rendering",
+      "url": "https://raw.githubusercontent.com/gokayfem/H3-Max-Blender/main/demo/cover.png",
+      "ok": true,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "codonflow-creative-worlds",
+      "url": "https://i.ytimg.com/vi/iEup5H2FxKE/hqdefault.jpg",
+      "ok": true,
+      "width": 480,
+      "height": 360
+    },
+    {
+      "id": "cyjj-kicad-board",
+      "url": "https://raw.githubusercontent.com/cyjjjj-21/gpt6-astra-kicad-blind-routing/main/astra/pic_programmer-blind-routed-3d.png",
+      "ok": true,
+      "width": 2162,
+      "height": 1256
+    },
+    {
+      "id": "sayan-genesis-atlas",
+      "url": "https://raw.githubusercontent.com/sayanpersonal123/AI-learning/main/og.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "id": "sokun-houdini-airplane",
+      "url": "https://us1.discourse-cdn.com/openai1/original/4X/b/c/a/bca747bbfbf0c28cbbd8aa082418e4dac3f9d61c.jpeg",
+      "ok": true,
+      "width": 1920,
+      "height": 871
+    },
+    {
+      "id": "enactra-madison-park",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097777088233439232/img/PlAlh9AKk8hWrOg_.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 648
+    },
+    {
+      "id": "spenser-panthera-splat",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097742247358005249/img/gER_aSRNmErqLxhP.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "yokohara-houdini",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097665135863345152/img/s5w6T3ULXiUQpjOR.jpg",
+      "ok": true,
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": "gostev-fluid-concepts",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097798486322188293/img/DlcWctBMX7CFNZGl.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "nickson-studio-photos",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097488345542660096/img/AMsWCLAtpDBFC6nu.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 1027
+    },
+    {
+      "id": "jannn-brick-weather",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097340760001548288/img/uEv8cTvt3-j3Qm0R.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "flora-shoe-last",
+      "url": "https://pbs.twimg.com/ext_tw_video_thumb/2097763713864368141/pu/img/mpPMVg5F5JlAuvfv.jpg",
+      "ok": true,
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "evgeny-ligand-animation",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097757277398921216/img/G27oZoTTDSpQa3Ny.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "will-cube-city",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097505780085993472/img/6zfwunEdVDTWlZK4.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 660
+    },
+    {
+      "id": "yachimat-tallinn",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097809399934849037/img/FOSfG-FzF7eDSuAL.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "kana-flower-shop",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097151136155553792/img/AuzVjF2Jxc14tJqt.jpg",
+      "ok": true,
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": "givros-wetland",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097343347895525376/img/7BqNRpeoZcou-Xtu.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "goan-temple-heaven",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097323160601546752/img/2k2LggwN0cvh5mVI.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "songkeys-little-flock",
+      "url": "https://raw.githubusercontent.com/songkeys/little-flock/main/docs/demo-poster.jpg",
+      "ok": true,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "doomdave-dragon",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096330178276601856/img/JU9wNEWrSNfh5CAK.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "taro-skyrim-village",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097166730498113536/img/7GvqTsPqYabmN0A8.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 1022
+    },
+    {
+      "id": "givros-roblox-kart",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096219608550461440/img/VmSvyEIrRRdukfjg.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 610
+    },
+    {
+      "id": "magicyan-room-studio",
+      "url": "https://raw.githubusercontent.com/magicyan418/3D-ROOM-TEST/main/public/reference.png",
+      "ok": true,
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": "badx-photo-building",
+      "url": "https://pbs.twimg.com/ext_tw_video_thumb/2095982524044541952/pu/img/NojpJgktJm7E-l-F.jpg",
+      "ok": true,
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "yokohara-street-breakdown",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096619986119016448/img/DnxNHOzY0HSwEHqW.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "hahaliu-house-styles",
+      "url": "https://raw.githubusercontent.com/hahaliu1029/house-3d/main/media/images/song-living-comparison.png",
+      "ok": true,
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "lexn-verdant-forest",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096262956774490112/img/9UcY8pI6LuZ8v2c_.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 750
+    },
+    {
+      "id": "dilum-v8-engine",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096278610743304192/img/jZDskFFb29_SDdCk.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 691
+    },
+    {
+      "id": "jake-rink-life",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096981099964772352/img/V5In6125jJkkEGp0.jpg",
+      "ok": true,
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "anshuc-afterlight",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096580463288803328/img/_S5-VDnQ9RJh9URY.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 703
+    },
+    {
+      "id": "sharif-palace-fine-arts",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095652923917361152/img/HLx68_TTVmLK5LJa.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "ehuilanse-hard-surface",
+      "url": "https://i0.hdslb.com/bfs/archive/cc3828cd8882b05f76af5d455e20fa9a78a8e5ab.jpg",
+      "ok": true,
+      "width": 1530,
+      "height": 861
+    },
+    {
+      "id": "chen-hangzhou",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096142969032351744/img/lZvQ1GZMdqznrSqb.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 673
+    },
+    {
+      "id": "danmana-piata-unirii",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096248939876126720/img/s3bAAUu8zYiJXskz.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "birdabo-singapore",
+      "url": "https://pbs.twimg.com/media/HRcLFN8bcAAFP4k.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "ashe-model-x",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096008340329627648/img/f7Gt3ww30PLWmsKK.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 655
+    },
+    {
+      "id": "hooosberg-gundam",
+      "url": "https://i0.hdslb.com/bfs/archive/d0dc78c2b41bc103f1637e567f016f902da1d019.jpg",
+      "ok": true,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "tspy-microduck",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096233778113118208/img/9HOvR6k_Z10CchxV.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "wengsiong-asteria",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096941837160509440/img/M7XW_FFqqtoslpUW.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "mang-aerial-repair",
+      "url": "https://i0.hdslb.com/bfs/archive/cd2bc26ff686695ed2336c7d953a7487737a178c.jpg",
+      "ok": true,
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "lbeilc-rhine-lab",
+      "url": "https://raw.githubusercontent.com/LBEILC/RhineLabUI/main/docs/media/archive.jpg",
+      "ok": true,
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "syaripin-tripo-texture",
+      "url": "https://raw.githubusercontent.com/syaripin-i8i/blender-astra-texture-guide/main/images/skirt_before_after.jpg",
+      "ok": true,
+      "width": 1300,
+      "height": 1168
+    },
+    {
+      "id": "cwc-sugarfall",
+      "url": "https://raw.githubusercontent.com/CwC-HydeX/donut-studio/main/docs/images/frame-0170.png",
+      "ok": true,
+      "width": 960,
+      "height": 800
+    },
+    {
+      "id": "op7418-moonlit-forge",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096204966549663744/img/Uzdz8t2v75PQhifx.jpg",
+      "ok": true,
+      "width": 1199,
+      "height": 722
+    },
+    {
+      "id": "everett-holo-card",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096765283948187648/img/iCVFvP_KllH3WckA.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": "ashe-human-atlas",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096218474930405376/img/3zH8etf7LevKQRr2.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 655
+    },
+    {
+      "id": "shinboson-clouds",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096568034442027008/img/Qc9iu7MCzMMEK5tl.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "lumina-777-landing",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096943524281286656/img/5zywNFWnlxigq4FG.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 851
+    },
+    {
+      "id": "rohan-elderwood",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096743123301117952/img/W_anzk30lopccNnJ.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 918
+    },
+    {
+      "id": "mollick-zork-3d",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096032513387110400/img/bh7ztfq-14SAT0sQ.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 780
+    },
+    {
+      "id": "derya-brandenburg-piano",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096090005085077511/img/36OGv0ZYv9Ap7Xgc.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "akshdeep-earth-history",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096776491011072000/img/3zm_Z5HY1pAZDQUB.jpg",
+      "ok": true,
+      "width": 1136,
+      "height": 720
+    },
+    {
+      "id": "hooosberg-three-view",
+      "url": "https://i1.hdslb.com/bfs/archive/2f493762a5bd56565e550a4046d223d4a8467bb0.jpg",
+      "ok": true,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "deepwhite-seedance",
+      "url": "https://i1.hdslb.com/bfs/archive/b8aaadf0163ffd16f4e4758c2b61a44f797ef735.jpg",
+      "ok": true,
+      "width": 1672,
+      "height": 940
+    },
+    {
+      "id": "techartist-radial-engine",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096576241038188545/img/OzGNyaFGGhg5OfrD.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 784
+    },
+    {
+      "id": "mojon-cinema4d",
+      "url": "https://pbs.twimg.com/media/HRcobclb0AAh4Tg.jpg?name=orig",
+      "ok": true,
+      "width": 3034,
+      "height": 2098
+    },
+    {
+      "id": "senthil-taj-mahal",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096543002055618560/img/WIZxhaya614q-1u1.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "waitin4agi-speedtree",
+      "url": "https://pbs.twimg.com/media/HRiFMgzaoAA_i9s.jpg?name=orig",
+      "ok": true,
+      "width": 4096,
+      "height": 2359
+    },
+    {
+      "id": "mizchi-traveler-walk",
+      "url": "https://raw.githubusercontent.com/mizchi/modeling-playground/main/human/models/traveler/output/traveler-walk.png",
+      "ok": true,
+      "width": 1200,
+      "height": 1400
+    },
+    {
+      "id": "cwc-komorebi-shrine",
+      "url": "https://raw.githubusercontent.com/CwC-HydeX/komorebi-shrine/main/docs/images/sunset.png",
+      "ok": true,
+      "width": 900,
+      "height": 900
+    },
+    {
+      "id": "anionex-grand-atelier",
+      "url": "https://raw.githubusercontent.com/Anionex/grand-atelier/main/docs/demo.jpg",
+      "ok": true,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "rising-bianjing-scroll",
+      "url": "https://raw.githubusercontent.com/Rising1234Sun/qingmingshanghetu/main/docs/images/%E7%BD%91%E9%A1%B5%E5%85%A8%E8%B2%8C.jpg",
+      "ok": true,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "simonw-pelican-bicycle",
+      "url": "https://static.simonwillison.net/static/2026/astra-blender-pelican.jpg",
+      "ok": true,
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "astra-union-square-philolabs",
+      "url": "https://raw.githubusercontent.com/PhiloLabs/fable51-worlds/main/union-square-sf-gpt-astra/media/preview.gif",
+      "ok": true,
+      "width": 800,
+      "height": 252
+    },
+    {
+      "id": "chimerast-vrm",
+      "url": "https://static.zenn.studio/user-upload/4344310250d6-20260906.png",
+      "ok": true,
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "id": "openai-living-cell",
+      "url": "https://cdn.openai.com/devhub/showcase/living-cell-cross-section/initial-46501ec49984.webp",
+      "ok": true,
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "id": "astra-orbital-dashboard-ai-kai",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096082301176164361/img/457wlveeD7lEExH4.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 873
+    },
+    {
+      "id": "ipentec-spaceship",
+      "url": "https://www.ipentec.com/document/images/3d-model-generation-using-gpt-6-astra-13?width=480",
+      "ok": true,
+      "width": 480,
+      "height": 300
+    },
+    {
+      "id": "koher-realitizer",
+      "url": "https://static.zenn.studio/user-upload/deployed-images/1b84b3f627a40aa4359836f5.jpg?sha=11ed12f1fb403709700ad6910d67ef9349c38fb2",
+      "ok": true,
+      "width": 2556,
+      "height": 1179
+    },
+    {
+      "id": "teardownlab-wooden-crate",
+      "url": "https://static.zenn.studio/user-upload/deployed-images/04d136be9d670d9d328e48fe.png?sha=1dfc17af4dcd9827bf353749de3cdab73002002e",
+      "ok": true,
+      "width": 1400,
+      "height": 1400
+    },
+    {
+      "id": "jin-stylized-bust",
+      "url": "https://static.zenn.studio/user-upload/c1aefe8b4a20-20260907.png",
+      "ok": true,
+      "width": 880,
+      "height": 1100
+    },
+    {
+      "id": "openai-void-explorer",
+      "url": "https://cdn.openai.com/devhub/blog/how-to-build-games/orbital-flight-579e20d663e3.webp",
+      "ok": true,
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "id": "openai-stop-motion-desk",
+      "url": "https://cdn.openai.com/devhub/showcase/stop-motion-desk/final-c3c0f3218983.webp",
+      "ok": true,
+      "width": 1512,
+      "height": 772
+    },
+    {
+      "id": "openai-physics-museum",
+      "url": "https://cdn.openai.com/devhub/showcase/physics-museum/final-50909eb800bd.webp",
+      "ok": true,
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "id": "peter-van-gogh-town",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095776416302280708/img/IzfZe03VWW3gBzC6.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 599
+    },
+    {
+      "id": "openai-clockwork-observatory",
+      "url": "https://developers.openai.com/showcase/impossible-kinetic-architecture/cover-generated-sep4.webp",
+      "ok": true,
+      "width": 1586,
+      "height": 992
+    },
+    {
+      "id": "openai-abyssal",
+      "url": "https://cdn.openai.com/devhub/showcase/abyssal-bioluminescent-ecosystem/initial-1f2e3f541332.webp",
+      "ok": true,
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "id": "openai-courtyard-house",
+      "url": "https://developers.openai.com/showcase/courtyard-house/cover-generated-sep4.webp",
+      "ok": true,
+      "width": 1586,
+      "height": 992
+    },
+    {
+      "id": "peter-gogh-strike",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096012866734501888/img/5Q86-WBXYVk1d-NJ.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 599
+    },
+    {
+      "id": "tom-steam-train",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095754646069354497/img/Pz6DsxqZ529t3QdE.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 780
+    },
+    {
+      "id": "openai-little-ritual",
+      "url": "https://developers.openai.com/showcase/little-ritual/cover-generated-sep4.webp",
+      "ok": true,
+      "width": 1586,
+      "height": 992
+    },
+    {
+      "id": "feraser-turbocharger",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095769948190801920/img/mGHcR0ny6WoaITEz.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "yunfan-zillow-house",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095611898968547328/img/EKCYWcJTBrAMT4e6.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "derya-ship-bottle",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095698775075622912/img/X2vJ3HmhZXcG8lNC.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "openai-architecture-studio",
+      "url": "https://developers.openai.com/showcase/architecture-studio/cover.webp",
+      "ok": true,
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "ben-ship-render",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095600428587298816/img/GM52giA7HpU8xx0h.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "anshu-concept-to-game",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096004824751890434/img/fW0IV1fAgJ3b7i-D.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 702
+    },
+    {
+      "id": "openai-velocity-loop",
+      "url": "https://cdn.openai.com/devhub/showcase/velocity-loop/menu-concept-1e513c497d96.webp",
+      "ok": true,
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "aibattle-sonic-godot",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095992908448944130/img/v8BSAp4Xt5knPeV0.jpg",
+      "ok": true,
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "id": "reference-freestyle-378",
+      "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case378.jpg",
+      "ok": true,
+      "width": 1320,
+      "height": 1650
+    },
+    {
+      "id": "reference-freestyle-361",
+      "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case361.jpg",
+      "ok": true,
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "id": "reference-freestyle-333",
+      "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case333.png",
+      "ok": true,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": "reference-freestyle-390",
+      "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case390.jpg",
+      "ok": true,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "reference-freestyle-438",
+      "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case438.jpg",
+      "ok": true,
+      "width": 768,
+      "height": 1376
+    },
+    {
+      "id": "reference-freestyle-439",
+      "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case439.jpg",
+      "ok": true,
+      "width": 1080,
+      "height": 720
+    },
+    {
+      "id": "reference-freestyle-444",
+      "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case444.jpg",
+      "ok": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "reference-freestyle-489",
+      "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case489.jpg",
+      "ok": true,
+      "width": 720,
+      "height": 720
+    },
+    {
+      "id": "mollick-living-ocean",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095673008803241987/img/rkGOb6E0-oOUi5ka.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 484
+    },
+    {
+      "id": "alesha-voidbound-slasher",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095988588534272001/img/LbeL-FX3FW9Ngqwm.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 598
+    },
+    {
+      "id": "reference-wuyoscar-isometric-cafe",
+      "url": "https://raw.githubusercontent.com/wuyoscar/GPT-Image2-Skill/main/docs/isometric/isometric-cafe.png",
+      "ok": true,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "danmana-cluj-voxel",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096248939876126720/img/s3bAAUu8zYiJXskz.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "claire-family-journey",
+      "url": "https://www.chatprd.ai/_next/image?q=75&url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fng65ow1q%2Fproduction%2F28e76b9de1bb58b8e431e45a40ed3a53b512e5c3-854x480.jpg%3Fw%3D854%26auto%3Dformat&w=3840",
+      "ok": true,
+      "width": 854,
+      "height": 480
+    },
+    {
+      "id": "alesha-antigravity-racer",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095966450385289216/img/u4EnBwNxU0h3lQgI.jpg",
+      "ok": true,
+      "width": 1199,
+      "height": 601
+    },
+    {
+      "id": "reference-wuyoscar-isometric-village",
+      "url": "https://raw.githubusercontent.com/wuyoscar/GPT-Image2-Skill/main/docs/isometric/isometric-fantasy-village.png",
+      "ok": true,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "claire-fashion-game",
+      "url": "https://www.chatprd.ai/_next/image?q=75&url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fng65ow1q%2Fproduction%2Ff05d9bcbf963a162b0bfd509cd13bf66baf543fe-854x480.jpg%3Fw%3D854%26auto%3Dformat&w=3840",
+      "ok": true,
+      "width": 854,
+      "height": 480
+    },
+    {
+      "id": "ruofeng-orbital-core",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096549512995368961/img/kyuKVBrCE5i7fHA8.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "nano-character-expressions",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096524256012316672/img/IDGr9lItOL1yZ3ZR.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "majid-kaiju-city",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096251295594135556/img/mkKNAllU4LTzJGME.jpg",
+      "ok": true,
+      "width": 1199,
+      "height": 779
+    },
+    {
+      "id": "shumer-unreal-society",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095589100539531264/img/Tlsi7uZFwLrLR-51.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "derya-enterprise-cad",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095640960680243200/img/XHJ2aX--CTheLjgN.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "arda-titan-exhibit",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2095986724040290305/img/7G--77xdhynAlqtB.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "bilawal-scan-living-room",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096091625915301888/img/hwJYJ-JHXwUfDM3-.jpg",
+      "ok": true,
+      "width": 1067,
+      "height": 1200
+    },
+    {
+      "id": "leo-surface-insect",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096457635352698880/img/l8ISZUQdh7BnxxRJ.jpg",
+      "ok": true,
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "id": "reference-wuyoscar-dieline-box",
+      "url": "https://raw.githubusercontent.com/wuyoscar/GPT-Image2-Skill/main/docs/product-food/product-dieline-box.png",
+      "ok": true,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "reference-wuyoscar-kitten-cg",
+      "url": "https://raw.githubusercontent.com/wuyoscar/GPT-Image2-Skill/main/docs/cinematic-animation/pixar-kitchen.png",
+      "ok": true,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": "amsminn-smash-karts",
+      "url": "https://raw.githubusercontent.com/amsminn/gpt-6-astra-smash-karts/main/docs/media/gameplay.gif",
+      "ok": true,
+      "width": 720,
+      "height": 348
+    },
+    {
+      "id": "ayi-mosswing",
+      "url": "https://raw.githubusercontent.com/Ayi1337/gpt6-astra-one-shot-games/main/mosswing/src/design/desktop-final.png",
+      "ok": true,
+      "width": 908,
+      "height": 932
+    },
+    {
+      "id": "goroman-facet-fighter",
+      "url": "https://raw.githubusercontent.com/GOROman/gpt-6-astra-ps1-game-benchmark/main/docs/screenshots/015-arcade-champion.png",
+      "ok": true,
+      "width": 882,
+      "height": 486
+    },
+    {
+      "id": "guizang-blender-donut",
+      "url": "https://i0.hdslb.com/bfs/archive/6901444a47ab3e89cd6124fb35db51114888c4b9.jpg",
+      "ok": true,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "ian-rain-court",
+      "url": "https://raw.githubusercontent.com/IanOliverU/web-3d-game/main/public/gameplay-movement-fixed.png",
+      "ok": true,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "scottstts-jelly-baby",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096364109210202112/img/_-nTPLScjLl70avL.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 753
+    },
+    {
+      "id": "synabreu-seoul-atlas",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096557441312034816/img/v3Iur3rDygYBuOdR.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "simonsmith-lego-minifig",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096766389113556999/img/hN9hsB2OZfAAoSY5.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "icooper-desktop-exploded",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096578527097421824/img/URU9i3UmgYiA-oul.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 697
+    },
+    {
+      "id": "openai-helios-collector",
+      "url": "https://cdn.openai.com/devhub/blog/architectural-visualization/helios-stellar-collector-8f89b625bd2f.webp",
+      "ok": true,
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "dqlh-room-planner",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096578530561966080/img/h00AqoyEsyqlQzgD.jpg",
+      "ok": true,
+      "width": 652,
+      "height": 1200
+    },
+    {
+      "id": "openai-aurelion-shipyard",
+      "url": "https://cdn.openai.com/devhub/blog/architectural-visualization/aurelion-far-meridian-6f95d4a76080.webp",
+      "ok": true,
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "yuanyang-softie-webgpu",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096792079976554496/img/3POcd351G7kC4jze.jpg",
+      "ok": true,
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "id": "teshnizi-mechanical-iris",
+      "url": "https://raw.githubusercontent.com/teshnizi2/astra-fable-3d-iris/main/evidence/high/comparison-high.png",
+      "ok": true,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "cagri-civilization-lab",
+      "url": "https://raw.githubusercontent.com/cagrikacmaz/gpt-6-astra-vs-gemini-3-8-flash/main/media/astra/astra-main-world.png",
+      "ok": true,
+      "width": 2048,
+      "height": 1301
+    },
+    {
+      "id": "cristian-inside-lloyds",
+      "url": "https://raw.githubusercontent.com/cristianexer/Lloyds-of-London-3D-building/main/docs/banner.svg",
+      "ok": true,
+      "width": 1200,
+      "height": 500
+    },
+    {
+      "id": "sawamura-slider-crank",
+      "url": "https://raw.githubusercontent.com/Sawamura-Jun/Crank-Mech/main/output/assembly_preview.png",
+      "ok": true,
+      "width": 1400,
+      "height": 900
+    },
+    {
+      "id": "az9713-robo-open",
+      "url": "https://raw.githubusercontent.com/az9713/gpt-6-astra-tennis-game/main/docs/media/v2/main-menu.png",
+      "ok": true,
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "xindomusic-pulsebreak",
+      "url": "https://raw.githubusercontent.com/xindomusic/pulsebreak/main/docs/images/title.png",
+      "ok": true,
+      "width": 1280,
+      "height": 800
+    },
+    {
+      "id": "openai-giverny-garden",
+      "url": "https://cdn.openai.com/devhub/blog/architectural-visualization/giverny-water-garden-cec7107eed5b.webp",
+      "ok": true,
+      "width": 1600,
+      "height": 670
+    }
+  ],
+  "correctedVideoLabels": [
+    "thomas-monopoly-city",
+    "serein-dual-realms",
+    "akartit-lantern-cove",
+    "secretseoul-butterball-run",
+    "wesche-sundrift",
+    "swarnim-duck-off",
+    "defy-wildwake-rally",
+    "aaron-starship-foundry",
+    "timlb-tideglass-hunt",
+    "chongdashu-canteen-crashers"
+  ]
+}

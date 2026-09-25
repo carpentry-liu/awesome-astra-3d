@@ -1,0 +1,1727 @@
+[
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "bursin-threejs-horse",
+      "title": "Three.js 跑马：同题动画与多档位对照",
+      "titleEn": "Three.js Running Horse Comparison",
+      "group": "astra",
+      "category": "交互与工具",
+      "platform": "Reddit",
+      "platforms": [
+        "Reddit"
+      ],
+      "author": "Mike Bursin / bursinru",
+      "sourceUrl": "https://www.reddit.com/r/OpenAI/comments/1wp91aj/tested_astra_6_vs_opus_55_on_the_same_3d_task_and/",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-25",
+      "addedAt": "2026-09-25",
+      "modelLabel": "GPT-6 Astra（作者标注多档位；含其他模型对照）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "已读取作者公开说明",
+      "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+      "sourceAccess": "直接读取作者原帖与回复；通过 HTTP 读取作者对照页并确认 Astra 独立 iframe。搜索标注 9 月 24 日，原帖仅相对时间，精确日期保留 null。",
+      "summary": "作者用同一低多边形跑马任务比较 Astra 的不同设置及其他模型，并公开包含独立 HTML 三维预览的对照页。可比较身体结构与循环动作；配置名称、耗时与结果均为作者记录，不是本库的标准化性能测试。",
+      "outputType": [
+        "Three.js 程序化动画",
+        "多模型对照"
+      ],
+      "promptAvailability": "作者公开完整指令，见原帖",
+      "promptExcerpt": "Create a low-poly 3D horse running in a seamless loop using Three.js.",
+      "promptSummary": "以基础几何建立低多边形马，分别为腿、身体、头和尾巴编写循环动作，交付自包含 HTML。",
+      "promptUrl": "https://www.reddit.com/r/OpenAI/comments/1wp91aj/tested_astra_6_vs_opus_55_on_the_same_3d_task_and/",
+      "imageUrl": null,
+      "imageKind": "none",
+      "imageCaption": "未取得可用的作者效果图。",
+      "demoUrl": "https://aijoshu.com/en/ai-3d-tests",
+      "videoUrl": null,
+      "repositoryUrl": null,
+      "evidenceUrls": [
+        "https://www.reddit.com/r/OpenAI/comments/1wp91aj/tested_astra_6_vs_opus_55_on_the_same_3d_task_and/",
+        "https://aijoshu.com/en/ai-3d-tests"
+      ],
+      "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+      "outcome": "作者对照；未独立复现不同模型运行条件或性能排名。"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "drzewkoslaw-head-limit",
+      "title": "角色头部重建：参考图与未达预期结果",
+      "titleEn": "Character Head Reconstruction — Reported Failure",
+      "group": "astra",
+      "category": "Blender 建模",
+      "platform": "Reddit",
+      "platforms": [
+        "Reddit"
+      ],
+      "author": "Drzewkoslaw",
+      "sourceUrl": "https://www.reddit.com/r/ChatGPT/comments/1woodot/astra_helped_me_make_a_model/",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-25",
+      "addedAt": "2026-09-25",
+      "modelLabel": "Astra Extra High（作者自述）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "已读取作者公开说明",
+      "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+      "sourceAccess": "直接读取原帖，核对左侧为概念图、右侧为模型结果；搜索标注 9 月 24 日，精确日期保持 null。",
+      "summary": "作者以多视角角色概念图，通过 Astra Extra High、Blender MCP 和 skills.sh 尝试重建头部，并展示输入与输出对照。作者以反讽描述未达预期的结果；本条记录人物结构与参考一致性的局限，不包装为成功建模或普遍失败结论。",
+      "outputType": [
+        "多视角人物建模",
+        "失败案例对照"
+      ],
+      "promptAvailability": "未公开完整提示词",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "none",
+      "imageCaption": "原帖左图为输入、右图为输出；保留原帖对照而不单独展示输入图。",
+      "demoUrl": null,
+      "videoUrl": null,
+      "repositoryUrl": null,
+      "evidenceUrls": [
+        "https://www.reddit.com/r/ChatGPT/comments/1woodot/astra_helped_me_make_a_model/"
+      ],
+      "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+      "outcome": "作者报告未达到预期；本库未取得工程文件或独立复现。"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "delicious-tripo-vrm-dance",
+      "title": "角色舞蹈流程：Tripo 网格与 Astra 卡通材质",
+      "titleEn": "Tripo Character and Astra Toon Shading",
+      "group": "astra",
+      "category": "Blender 建模",
+      "platform": "Reddit",
+      "platforms": [
+        "Reddit"
+      ],
+      "author": "Delicious-Shower8401",
+      "sourceUrl": "https://www.reddit.com/r/TopologyAI/comments/1wnhrnx/a_full_3d_character_workflow_with_tripo_ai/",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-25",
+      "addedAt": "2026-09-25",
+      "modelLabel": "GPT-6 Astra + Tripo P2 + Blender（混合工作流）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "已读取作者公开说明",
+      "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+      "sourceAccess": "直接读取同作者两篇同内容帖子，合并为一条；索引分别标注 9 月 22 日和 24 日，原页仅显示相对时间，sourceDate 保持 null。",
+      "summary": "作者将角色头发、头部与身体拆分，用 Tripo P2 生成几何，再在 Blender 清理合并、使用 VRM 1.0 绑定。作者称 Astra 协助节点式卡通材质、部分绑定和动画设置；动作来源及工程未完整公开，不能称为 Astra 从零完成全部角色动画。",
+      "outputType": [
+        "混合角色工作流",
+        "Blender 卡通材质",
+        "VRM 绑定"
+      ],
+      "promptAvailability": "未公开完整提示词",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "none",
+      "imageCaption": "未取得可用的作者效果图。",
+      "demoUrl": null,
+      "videoUrl": null,
+      "repositoryUrl": null,
+      "evidenceUrls": [
+        "https://www.reddit.com/r/TopologyAI/comments/1wnhrnx/a_full_3d_character_workflow_with_tripo_ai/",
+        "https://www.reddit.com/r/ChatGPT/comments/1womj2v/chatgpt_astra_6_blender_3d_ai_makes_3d_workflows/"
+      ],
+      "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+      "outcome": "作者演示；动画制作细节未完全披露，未独立核验绑定与网格。"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "feisty-room-comparison",
+      "title": "同图房间重建：Astra、Sol 与 Luna 对照",
+      "titleEn": "Same-image Room Reconstruction Comparison",
+      "group": "astra",
+      "category": "建筑与室内",
+      "platform": "Reddit",
+      "platforms": [
+        "Reddit"
+      ],
+      "author": "Feisty-Scheme-8356",
+      "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1wo77o7/i_gave_gpt6_luna_sol_and_astra_the_same_image_and/",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-24",
+      "addedAt": "2026-09-24",
+      "modelLabel": "GPT-6 Astra（与 Sol / Luna 对照）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "已读取作者公开说明",
+      "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+      "sourceAccess": "直接读取原帖、作者回复和工具仓库；原页只有相对时间，精确发表日期保持 null。公开仓库为工具，不是本次房间的完整工程。",
+      "summary": "作者给 Astra、Sol、Luna 相同房间参考图与指令，用 img2threejs 并排展示结果。作者说明环境插件仍在开发，Python 脚本承担部分生成与渲染工作；时间和额度消耗仅为作者单次观察，不能当作通用性能排名。",
+      "outputType": [
+        "Three.js 房间重建",
+        "多模型对照"
+      ],
+      "promptAvailability": "公开短指令；参考图链接未在正文展开",
+      "promptExcerpt": "Use the img2-environment skill to recreate the room from this reference image: [link]",
+      "promptSummary": null,
+      "promptUrl": "https://www.reddit.com/r/vibecoding/comments/1wo77o7/i_gave_gpt6_luna_sol_and_astra_the_same_image_and/",
+      "imageUrl": null,
+      "imageKind": "none",
+      "imageCaption": "并排展示含不同模型结果，预览见原帖；不把所有结果归于 Astra。",
+      "demoUrl": null,
+      "videoUrl": null,
+      "repositoryUrl": null,
+      "evidenceUrls": [
+        "https://www.reddit.com/r/vibecoding/comments/1wo77o7/i_gave_gpt6_luna_sol_and_astra_the_same_image_and/",
+        "https://github.com/img2threejs/img2threejs"
+      ],
+      "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+      "outcome": "作者展示；未独立复现。"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "paulyy18-tripo-dragon",
+      "title": "Tripo 龙骨模型：打印目标与关节局限",
+      "titleEn": "Tripo Dragon Skeleton — Printability Limits",
+      "group": "astra",
+      "category": "CAD / Blender",
+      "platform": "Reddit",
+      "platforms": [
+        "Reddit"
+      ],
+      "author": "paulyy18",
+      "sourceUrl": "https://www.reddit.com/r/TopologyAI/comments/1wnvnzt/i_used_a_single_prompt_and_the_tripo_plugin_in/",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-24",
+      "addedAt": "2026-09-24",
+      "modelLabel": "GPT-6 Astra + Tripo（混合工作流）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "已读取作者公开说明",
+      "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+      "sourceAccess": "直接读取作者原帖；原页仅有相对时间，sourceDate 保持 null。模型页为作者公开入口，未独立下载、切片或打印。",
+      "summary": "作者在 ChatGPT 的 Astra 设置下使用 Tripo 插件制作龙骨模型，并提供模型页面。作者发现盘绕底部没有自由活动关节，且明确不能确定能否顺利打印；收录为混合建模实验，不标记为已验证的可打印成品。",
+      "outputType": [
+        "Tripo 模型",
+        "打印前检查"
+      ],
+      "promptAvailability": "未公开完整提示词",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "none",
+      "imageCaption": "未取得可用的作者效果图。",
+      "demoUrl": "https://studio.tripo3d.ai/3d-model/e964fcbc-8cfc-4261-a2d8-ea2ec447a29a",
+      "videoUrl": null,
+      "repositoryUrl": null,
+      "evidenceUrls": [
+        "https://www.reddit.com/r/TopologyAI/comments/1wnvnzt/i_used_a_single_prompt_and_the_tripo_plugin_in/"
+      ],
+      "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+      "outcome": "作者明确保留打印可行性疑问；不能视为关节结构或打印质量验证。"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "clean-rebel-godot-arpg",
+      "title": "Godot ARPG：战斗原型与资产整理流程",
+      "titleEn": "Godot ARPG — Asset and Code Workflows",
+      "group": "astra",
+      "category": "3D 游戏",
+      "platform": "Reddit",
+      "platforms": [
+        "Reddit"
+      ],
+      "author": "clean_rebel29",
+      "sourceUrl": "https://www.reddit.com/r/aigamedev/comments/1wnk08x/progress_learning/",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-24",
+      "addedAt": "2026-09-24",
+      "modelLabel": "Astra Codex + Godot / Blender + Mixamo",
+      "evidenceLevel": "author",
+      "evidenceStatus": "已读取作者公开说明",
+      "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+      "sourceAccess": "直接读取作者工具清单与开发说明；搜索索引标注 9 月 22 日，原页仅显示相对时间，精确日期未确认。本条是今日补收，不是今日首发。",
+      "summary": "作者以 Astra Codex、Godot / Blender MCP、网上免费资产和 Mixamo 制作奇幻 ARPG 原型，目标包含俯视与越肩视角。作者分享代码检索、资产检查与小步迭代方法，并强调作品仍很粗糙；外部模型及动作不归作 Astra 原生生成。",
+      "outputType": [
+        "Godot 三维原型",
+        "资产与代码流程"
+      ],
+      "promptAvailability": "未公开完整提示词",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "none",
+      "imageCaption": "未取得可用的作者效果图。",
+      "demoUrl": null,
+      "videoUrl": null,
+      "repositoryUrl": null,
+      "evidenceUrls": [
+        "https://www.reddit.com/r/aigamedev/comments/1wnk08x/progress_learning/"
+      ],
+      "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+      "outcome": "个人学习原型；未找到公开源码或试玩，未独立复现。"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "nsrgn-snow-street",
+      "title": "雪夜街景：参考视频到混合资产三维场景",
+      "titleEn": "Snow Street — Reference to 3D",
+      "group": "astra",
+      "category": "程序化场景",
+      "platform": "Reddit",
+      "platforms": [
+        "Reddit"
+      ],
+      "author": "Interesting-Bill4028",
+      "sourceUrl": "https://www.reddit.com/r/aigamedev/comments/1wngm0f/what_astra_can_do_with_just_a_couple_of_prompts/",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-23",
+      "addedAt": "2026-09-23",
+      "modelLabel": "Astra / Codex（作者回复确认）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "已读取作者公开说明",
+      "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+      "sourceAccess": "已读取原帖及作者关于模型来源的回复；搜索索引标注 9 月 22 日，但原页仅显示相对时间，精确发表日保留 null。",
+      "summary": "作者让 Codex 中的 Astra 根据参考视频制作雪夜街景，并公开网页。作者说明部分模型由工具找到、部分生成；原帖附带的视频是风格参考，不作为生成结果收录。网页提供角色与行走控制，多人功能未独立验证。",
+      "outputType": [
+        "三维网页",
+        "混合资产场景"
+      ],
+      "promptAvailability": "未公开完整提示词",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "none",
+      "imageCaption": "原帖视频为输入参考，不能作为三维成果预览。",
+      "demoUrl": "https://snow-street-multiplayer.nsrgn.chatgpt.site/",
+      "videoUrl": null,
+      "repositoryUrl": null,
+      "evidenceUrls": [
+        "https://www.reddit.com/r/aigamedev/comments/1wngm0f/what_astra_can_do_with_just_a_couple_of_prompts/"
+      ],
+      "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+      "outcome": "作者展示；未独立复现。"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "mrray87-godot-rpg",
+      "title": "复古 Godot RPG：多轮几何建模与迭代",
+      "titleEn": "Old-school Godot RPG Prototype",
+      "group": "astra",
+      "category": "3D 游戏",
+      "platform": "Reddit",
+      "platforms": [
+        "Reddit"
+      ],
+      "author": "mrray87",
+      "sourceUrl": "https://www.reddit.com/r/aigamedev/comments/1wnmfoh/building_an_oldschool_might_magicstyle_rpg_in/",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-23",
+      "addedAt": "2026-09-23",
+      "modelLabel": "Astra（作者自述）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "已读取作者公开说明",
+      "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+      "sourceAccess": "已直接读取作者原帖；搜索索引标注 9 月 22 日，原页仅显示相对时间，精确发表日保留 null。",
+      "summary": "作者正在 Godot 制作 Might & Magic 风格 RPG，称 Astra 参与代码、原型、资产和迭代，也指出几何需要多轮调整。原帖说明预告片同样经过生成处理，因此不把预告片当作纯游戏实机；暂未找到公开工程或试玩入口。",
+      "outputType": [
+        "Godot 游戏原型",
+        "多轮建模"
+      ],
+      "promptAvailability": "未公开完整提示词",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "none",
+      "imageCaption": "作者说明预告片也经过生成处理，保留原帖而不混作实机截图。",
+      "demoUrl": null,
+      "videoUrl": null,
+      "repositoryUrl": null,
+      "evidenceUrls": [
+        "https://www.reddit.com/r/aigamedev/comments/1wnmfoh/building_an_oldschool_might_magicstyle_rpg_in/"
+      ],
+      "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+      "outcome": "进行中的作者原型；预告片性质与完整玩法未独立复现。"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "hyp3rclaw-threejs-25d",
+      "title": "Three.js 2.5D：精灵与三维场景的混合实验",
+      "titleEn": "Three.js 2.5D Visual Experiment",
+      "group": "astra",
+      "category": "3D 游戏",
+      "platform": "Reddit",
+      "platforms": [
+        "Reddit"
+      ],
+      "author": "hyp3rclaw",
+      "sourceUrl": "https://www.reddit.com/r/aigamedev/comments/1wlp7sk/25d_game_with_threejs_and_astra/",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-23",
+      "addedAt": "2026-09-23",
+      "modelLabel": "GPT-6 Astra + GPT Images（混合工作流）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "已读取作者公开说明",
+      "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+      "sourceAccess": "直接读取原帖与公开索引中的作者回复；搜索记录为 9 月 20 日，作为今日补收而非今日首发，精确发表日保留 null。",
+      "summary": "作者以 Astra high / medium 与 GPT Images 制作 Three.js 混合视觉实验，将二维角色、精灵及环境图像用于三维场景。作者在回复中将其定位为视觉演示，并说明经过多轮迭代；不是完整三维角色建模或已完成的 RPG。",
+      "outputType": [
+        "Three.js 混合场景",
+        "二维精灵与三维空间"
+      ],
+      "promptAvailability": "未公开完整提示词",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "none",
+      "imageCaption": "未取得可用的作者效果图。",
+      "demoUrl": "https://app.usecrayon.ai/play/a9a3c165-74b3-4ff6-9588-ad97f829ddb5",
+      "videoUrl": null,
+      "repositoryUrl": null,
+      "evidenceUrls": [
+        "https://www.reddit.com/r/aigamedev/comments/1wlp7sk/25d_game_with_threejs_and_astra/"
+      ],
+      "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+      "outcome": "视觉实验；未独立复现完整游玩。"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "hiddentao-hezo-temple",
+      "title": "Hezo：滚动穿过山间寺庙的 WebGPU 网页",
+      "titleEn": "Hezo Procedural Temple Journey",
+      "group": "astra",
+      "category": "程序化场景",
+      "platform": "作者博客",
+      "platforms": [
+        "作者博客"
+      ],
+      "author": "Hiddentao",
+      "sourceUrl": "https://hiddentao.com/archives/2026/09/16/building-a-high-fidelity-3d-realtime-rendered-background-scene-using-fable-and-astra/",
+      "sourceDate": "2026-09-16",
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-22",
+      "addedAt": "2026-09-22",
+      "modelLabel": "Higgsfield → Fable → GPT-6 Astra → Opus（分阶段）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "已读取作者公开说明",
+      "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+      "sourceAccess": "直接读取作者原文、工具分工与性能限制；未将参考视频当作实际三维输出截图。",
+      "summary": "作者将寺门、湖上石道与山顶寺庙做成随滚动推进的 Three.js / WebGPU 首页，并提供日夜模式。参考视频由 Higgsfield 生成，Fable 负责布局原型，Astra 实现精细场景，Opus 继续优化加载和移动端层级。文章公开多轮过程；性能数字为作者测量，非本库测试。",
+      "outputType": [
+        "程序化场景",
+        "Three.js / WebGPU",
+        "滚动叙事网页"
+      ],
+      "promptAvailability": "作者公开多个阶段的提示词与迭代说明",
+      "promptExcerpt": null,
+      "promptSummary": "先分别确定镜头参考与内容布局，再实现程序化场景；随后测量加载瓶颈并对移动设备降低场景复杂度。",
+      "promptUrl": "https://hiddentao.com/archives/2026/09/16/building-a-high-fidelity-3d-realtime-rendered-background-scene-using-fable-and-astra/",
+      "imageUrl": null,
+      "imageKind": "none",
+      "imageCaption": "未取得可用的作者效果图。",
+      "demoUrl": "https://hezo.ai/",
+      "videoUrl": null,
+      "repositoryUrl": null,
+      "evidenceUrls": [
+        "https://hiddentao.com/archives/2026/09/16/building-a-high-fidelity-3d-realtime-rendered-background-scene-using-fable-and-astra/"
+      ],
+      "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+      "outcome": "作者展示；未独立复现。"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "delicious-unreal-environment",
+      "title": "Unreal 环境：生成、清理与人工布光",
+      "titleEn": "Unreal Environment — Mixed Asset Workflow",
+      "group": "astra",
+      "category": "程序化场景",
+      "platform": "Reddit",
+      "platforms": [
+        "Reddit"
+      ],
+      "author": "Delicious-Shower8401",
+      "sourceUrl": "https://www.reddit.com/r/ChatGPT/comments/1wljrn8/gpt6_astra_unreal_blender_faster_game_development/",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-22",
+      "addedAt": "2026-09-22",
+      "modelLabel": "GPT-6 Astra + Tripo P2 + Blender + Unreal",
+      "evidenceLevel": "author",
+      "evidenceStatus": "已读取作者公开说明",
+      "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+      "sourceAccess": "直接读取 Reddit 原帖正文和作者署名；相对时间与搜索日期不足以独立锁定首次发表日，保留 null。",
+      "summary": "作者用 Astra 编排环境重建和重复设置，通过 Tripo P2 制作部分资产，在 Blender 清理后导入 Unreal，并使用 Dream-loop 工作流。树木、灯光和部分环境细节又由作者手工调整；原帖承认仍然粗糙。按一个混合制作案例收录，不把跨社区重复帖算成多个作品。",
+      "outputType": [
+        "Unreal 场景",
+        "Blender 资产整理",
+        "人工修订"
+      ],
+      "promptAvailability": "未公开完整提示词",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "none",
+      "imageCaption": "原帖预览图访问受限，效果请查看作者原帖。",
+      "demoUrl": null,
+      "videoUrl": null,
+      "repositoryUrl": null,
+      "evidenceUrls": [
+        "https://www.reddit.com/r/ChatGPT/comments/1wljrn8/gpt6_astra_unreal_blender_faster_game_development/"
+      ],
+      "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+      "outcome": "作者展示；未独立复现。"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "liam-thornwake",
+      "title": "Thornwake：丝之歌风格三维动作试炼",
+      "titleEn": "Thornwake",
+      "category": "3D 游戏",
+      "platform": "GitHub",
+      "platforms": [
+        "GitHub",
+        "X"
+      ],
+      "author": "Lehiem / LiamTodd98",
+      "sourceUrl": "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/92",
+      "sourceDate": "2026-09-15",
+      "modelLabel": "GPT-6 Astra",
+      "evidenceLevel": "author",
+      "evidenceStatus": "author-issue-submission",
+      "evidenceNote": "作者投稿：先让 Astra 做 Silksong 克隆，再用两轮提示细化玩法。桌面浏览器可玩。作者定位为 roguelite。",
+      "sourceAccess": "已读取作者 GitHub Issue #92 投稿；未独立通关",
+      "summary": "昆虫动作 roguelite：用针攻击，在根系充斥的房间中跳跃冲刺，收集丝与余烬种子，支持重复下潜。",
+      "outputType": [
+        "浏览器游戏",
+        "3D 动作"
+      ],
+      "promptAvailability": "作者概述多轮提示，未公开逐字全文",
+      "imageUrl": null,
+      "demoUrl": "https://thornwake-moth-descent.ltodd.chatgpt.site",
+      "evidenceUrls": [
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/92"
+      ],
+      "licenseNotes": "作品归原作者；公开可见不等于自由再分发。",
+      "outcome": "作者展示；未独立复现。",
+      "group": "astra",
+      "secondaryPublishedAt": null,
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "repositoryUrl": null,
+      "videoUrl": null,
+      "observedAt": "2026-09-20",
+      "addedAt": "2026-09-20",
+      "imageKind": null,
+      "imageCaption": null
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "playableworld-mystery-town",
+      "title": "Mystery Town：微缩世界三维环境解谜",
+      "titleEn": "Mystery Town",
+      "category": "3D 游戏",
+      "platform": "GitHub",
+      "platforms": [
+        "GitHub",
+        "itch.io"
+      ],
+      "author": "PlayableWorld",
+      "sourceUrl": "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/80",
+      "sourceDate": "2026-09-13",
+      "modelLabel": "GPT-6 Astra（主要 AI 开发代理）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "author-issue-submission",
+      "evidenceNote": "作者投稿明确：Astra 为主要 AI 开发代理，覆盖玩法实现、Three.js 场景、3D 资产与 Blender 辅助、自动 QA 与关卡迭代；人类指导与最终决策。源码未公开。",
+      "sourceAccess": "已读取作者 GitHub Issue #80 投稿；未独立通关",
+      "summary": "观察微缩 3D 世界、理解可见机关并按因果顺序操作物体。TypeScript + Vite + Three.js + Blender；浏览器免费可玩，需 WebGL。",
+      "outputType": [
+        "三维解谜冒险",
+        "浏览器交互"
+      ],
+      "promptAvailability": "未公开完整提示词",
+      "imageUrl": null,
+      "demoUrl": "https://playableworld.itch.io/mystery-town",
+      "evidenceUrls": [
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/80"
+      ],
+      "licenseNotes": "作品归原作者；公开演示不等于自由再分发。源码私有。",
+      "outcome": "作者展示；未独立复现完整流程。",
+      "group": "astra",
+      "secondaryPublishedAt": null,
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "repositoryUrl": null,
+      "videoUrl": null,
+      "observedAt": "2026-09-20",
+      "addedAt": "2026-09-20",
+      "imageKind": null,
+      "imageCaption": null
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "cloak-nightborn-clash",
+      "title": "Nightborn Clash：血裔三维街机决斗",
+      "titleEn": "Nightborn Clash",
+      "group": "astra",
+      "category": "3D 游戏",
+      "platform": "X",
+      "platforms": [
+        "X"
+      ],
+      "author": "Cloaker Vampiror / @CloakofEcstasy",
+      "sourceUrl": "https://x.com/CloakofEcstasy/status/2098415220645564857",
+      "sourceDate": "2026-09-11",
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-17",
+      "modelLabel": "GPT-6 Astra",
+      "evidenceLevel": "secondary",
+      "evidenceStatus": "原帖镜像已核对，原站待复核",
+      "evidenceNote": "作者明确写 Tried to make a vampire arcade game using GPT 6 Astra，并说明可能继续补充细节。四名吸血鬼角色、能量技与 99 秒人机决斗。",
+      "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。原帖未附截图，封面待后续补充。",
+      "summary": "选择四名吸血鬼之一，组合普通攻击与能量技，在练习场或 99 秒 AI 决斗中对战。",
+      "outputType": [
+        "浏览器游戏"
+      ],
+      "promptAvailability": "未公开完整提示词",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": null,
+      "imageCaption": null,
+      "demoUrl": "https://nightborn-clash.dixonefg5.chatgpt.site",
+      "videoUrl": null,
+      "repositoryUrl": null,
+      "evidenceUrls": [
+        "https://x.com/CloakofEcstasy/status/2098415220645564857",
+        "https://api.fxtwitter.com/status/2098415220645564857"
+      ],
+      "licenseNotes": "作品归原作者；公开可见不等于自由再分发。",
+      "outcome": "作者展示；未独立复现。",
+      "addedAt": "2026-09-17"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "nrivali-belt-runner",
+      "title": "Belt Runner：把 Astra 模型接入 Godot 4",
+      "titleEn": "Belt Runner — Astra Assets in Godot 4",
+      "group": "astra",
+      "category": "3D 游戏",
+      "platform": "GitHub",
+      "platforms": [
+        "GitHub"
+      ],
+      "author": "nrivali",
+      "sourceUrl": "https://github.com/nrivali/BeltRunnerGoDot4",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-17",
+      "addedAt": "2026-09-14",
+      "modelLabel": "Astra 的 Blender 模型 + Godot 4 移植",
+      "evidenceLevel": "author",
+      "evidenceStatus": "已读取作者公开说明",
+      "evidenceNote": "作者 README 明确将第四里程碑标为 Astra 的 Blender 模型；整套移植工具与精确模型版本未核明。",
+      "sourceAccess": "9 月 17 日重新读取 README 与文件目录，核对第 13—17 里程碑及新增 asteroids_lod0.glb；更新原记录，不重复计数。",
+      "summary": "Godot 4 移植工程公开 Astra 制作的 Blender / GLB 资产。9 月 17 日复查，README 已记录近景 LOD 0、船体碰撞、雷达脉冲、采矿热效应和程序化配乐等后续里程碑；机翼选择与船体配色仍未移植。归因只覆盖作者明确说明的 Astra 资产，整套 Godot 移植及作者测试记录未由本库独立复现。",
+      "outputType": [
+        "Godot 4 工程",
+        "GLB 资产接入",
+        "游戏移植"
+      ],
+      "promptAvailability": "未公开完整提示词",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "none",
+      "imageCaption": "当前仓库未取得对应游戏截图；保留工程入口。",
+      "demoUrl": null,
+      "videoUrl": null,
+      "repositoryUrl": "https://github.com/nrivali/BeltRunnerGoDot4",
+      "evidenceUrls": [
+        "https://github.com/nrivali/BeltRunnerGoDot4"
+      ],
+      "licenseNotes": "当前仓库未发现明确 LICENSE；模型、代码与其他游戏内容的复用许可需要向作者核实。",
+      "outcome": "持续开发的移植工程；作者新增多项功能记录，本库未独立运行。"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "timead-hospital-corridor",
+      "title": "医院走廊：从白模到重新布光的镜头",
+      "titleEn": "Hospital Corridor — Blockout to Relighting",
+      "group": "astra",
+      "category": "建筑与室内",
+      "platform": "Reddit",
+      "platforms": [
+        "Reddit"
+      ],
+      "author": "Time-Ad-7720",
+      "sourceUrl": "https://www.reddit.com/r/ChatGPT/comments/1wem2r1/i_had_gpt6_astra_build_a_full_hospital_corridor/",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-13",
+      "addedAt": "2026-09-13",
+      "modelLabel": "GPT-6 Astra + Blender MCP",
+      "evidenceLevel": "author",
+      "evidenceStatus": "已读取作者公开说明",
+      "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+      "sourceAccess": "通过网页检索工具读取 Reddit 原始页面正文、作者和媒体链接；本地 Reddit JSON 请求返回 403。页面仅给相对时间，未核明绝对发表时刻，sourceDate 保留空值。",
+      "summary": "作者通过 Astra 与 Blender MCP 制作医院走廊，分阶段完成建筑白模、病房道具、摄像机推进和重新布光。原帖公开阶段任务；约 45 分钟与未用外部资产均为作者自述。此条记录创作方法与展示，没有公开可下载工程。",
+      "outputType": [
+        "Blender 环境建模",
+        "分阶段场景迭代",
+        "镜头与灯光"
+      ],
+      "promptAvailability": "作者公开四阶段任务说明",
+      "promptExcerpt": null,
+      "promptSummary": "先审核建筑白模，再配置道具、移动镜头并保持几何不变重新调光。",
+      "promptUrl": "https://www.reddit.com/r/ChatGPT/comments/1wem2r1/i_had_gpt6_astra_build_a_full_hospital_corridor/",
+      "imageUrl": null,
+      "imageKind": "none",
+      "imageCaption": "原帖视频预览访问返回 403；请到 Reddit 原始页面查看，本站不提供替代效果图。",
+      "demoUrl": null,
+      "videoUrl": "https://www.reddit.com/r/ChatGPT/comments/1wem2r1/i_had_gpt6_astra_build_a_full_hospital_corridor/",
+      "repositoryUrl": null,
+      "evidenceUrls": [
+        "https://www.reddit.com/r/ChatGPT/comments/1wem2r1/i_had_gpt6_astra_build_a_full_hospital_corridor/"
+      ],
+      "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+      "outcome": "作者展示；未独立复现。"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "vsme-suzhou-museum",
+      "title": "苏州博物馆：Three.js 外观与庭院",
+      "titleEn": "Suzhou Museum Architectural Walk",
+      "group": "astra",
+      "category": "建筑与室内",
+      "platform": "GitHub",
+      "platforms": [
+        "GitHub"
+      ],
+      "author": "vsme",
+      "sourceUrl": "https://github.com/vsme/suzhou-museum-three",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-12",
+      "addedAt": "2026-09-12",
+      "modelLabel": "GPT-6 Astra Medium（仓库 About）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "已读取作者公开说明",
+      "evidenceNote": "作者仓库 About 明确标注 Astra Medium；已读取 README、文件树及在线页。",
+      "sourceAccess": "公开仓库 README 和文件树；演示页返回 200，未完成全流程体验。",
+      "summary": "作者以 Astra Medium 制作苏州博物馆新馆外观和庭院，公开 Three.js 源码及网页 GLB。尺寸根据公开资料估计，不是测绘级复刻。README 提及的离线 Blender 渲染和部分工程未出现在本次公开文件树，不补造下载地址。",
+      "outputType": [
+        "Three.js 建筑",
+        "GLB 模型",
+        "公开源码"
+      ],
+      "promptAvailability": "未公开完整提示词",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "none",
+      "imageCaption": "未取得可用的作者效果图。",
+      "demoUrl": "https://suzhou-museum.bgo.me",
+      "videoUrl": null,
+      "repositoryUrl": "https://github.com/vsme/suzhou-museum-three",
+      "evidenceUrls": [
+        "https://github.com/vsme/suzhou-museum-three"
+      ],
+      "licenseNotes": "作者声明运行时环境光与石材扫描来自 Poly Haven CC0，建筑独立重建；仓库未提供覆盖全部代码和工程的统一许可，不据此推定所有素材可自由再分发。",
+      "outcome": "作者展示；未独立复现。"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "hku-robot-rgb-replay",
+      "title": "Real2Sim：三视角机器人场景重放",
+      "titleEn": "Three-view Robot Scene Reconstruction",
+      "group": "astra",
+      "category": "科学与教育",
+      "platform": "GitHub",
+      "platforms": [
+        "GitHub"
+      ],
+      "author": "hku-sail",
+      "sourceUrl": "https://github.com/hku-sail/Real2Sim_GPT6_ASTRA",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-12",
+      "addedAt": "2026-09-12",
+      "modelLabel": "GPT-6 Astra（作者自述）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "已读取作者公开说明",
+      "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+      "sourceAccess": "读取作者 README、公开文件树、流程复盘、任务提示和机器人资产来源记录；未下载大模型或本地复跑。",
+      "summary": "项目用 Astra 根据三路 RGB 图像重建房间、桌面、夹爪及可见动作，公开可编辑 replay.blend 和重建脚本。没有深度、标定与真实关节数据，属于视觉近似重放；30fps 是指定播放假设。输入帧和结果视频未纳入公共仓库，复跑需自行准备。",
+      "outputType": [
+        "Blender 工程",
+        "机器人视觉重建",
+        "逐帧对比流程"
+      ],
+      "promptAvailability": "公开任务提示词与流程复盘",
+      "promptExcerpt": null,
+      "promptSummary": "先明确三视角输入和未知参数，再重建几何与动作，保留可编辑场景和逐帧对比。",
+      "promptUrl": "https://github.com/hku-sail/Real2Sim_GPT6_ASTRA/blob/main/Droid_prompt1.md",
+      "imageUrl": null,
+      "imageKind": "none",
+      "imageCaption": "未取得可用的作者效果图。",
+      "demoUrl": null,
+      "videoUrl": null,
+      "repositoryUrl": "https://github.com/hku-sail/Real2Sim_GPT6_ASTRA",
+      "evidenceUrls": [
+        "https://github.com/hku-sail/Real2Sim_GPT6_ASTRA",
+        "https://github.com/hku-sail/Real2Sim_GPT6_ASTRA/blob/main/docs/efficient_astra_3d_pipeline_zh-CN.md"
+      ],
+      "licenseNotes": "夹爪复用 ian-chuang/dh_ag95_gripper_ros2 资产，仓库保留 MIT 与 Apache-2.0 来源许可。输入 RGB 与其他材料按各自来源；不将视觉重放视为真实机器人动力学验证。",
+      "outcome": "作者展示；未独立复现。"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "digitalml-chess-cubed",
+      "title": "Chess Cubed：六面立方体棋盘",
+      "titleEn": "Chess Cubed",
+      "group": "astra",
+      "category": "3D 游戏",
+      "platform": "Reddit",
+      "platforms": [
+        "Reddit"
+      ],
+      "author": "digitalml",
+      "sourceUrl": "https://www.reddit.com/r/codex/comments/1wbmthc/i_built_chess_cubed_with_gpt6_astra_in_4_days/",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-10",
+      "addedAt": "2026-09-10",
+      "modelLabel": "GPT-6 Astra + GPT Image 2 / Seedance 2 天空素材（作者说明）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "已读取作者公开说明",
+      "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+      "sourceAccess": "读取公开 Reddit 原帖及作者回复；未从相对时间推算发布日期。",
+      "summary": "作者展示在立方体六面棋盘上进行的国际象棋变体，说明 Astra 参与 Blender 资产与 Babylon.js 网页制作。天空素材另用了 GPT Image 2 与 Seedance 2；移动端移植为作者说明，未核实应用商店发行。",
+      "outputType": [
+        "Babylon.js 棋类游戏",
+        "Blender 资产"
+      ],
+      "promptAvailability": "未公开完整提示词",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "none",
+      "imageCaption": "作者 Reddit 预览图请求返回 403；保留原帖视频链接。",
+      "demoUrl": "https://playchesscubed.com/",
+      "videoUrl": "https://www.reddit.com/r/codex/comments/1wbmthc/i_built_chess_cubed_with_gpt6_astra_in_4_days/",
+      "repositoryUrl": null,
+      "evidenceUrls": [
+        "https://www.reddit.com/r/codex/comments/1wbmthc/i_built_chess_cubed_with_gpt6_astra_in_4_days/"
+      ],
+      "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+      "outcome": "作者展示；未独立复现。"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "threapchills-magic-carpet",
+      "title": "A Thousand Skies：在小星球上骑飞毯",
+      "titleEn": "A Thousand Skies",
+      "group": "astra",
+      "category": "3D 游戏",
+      "platform": "GitHub",
+      "platforms": [
+        "GitHub"
+      ],
+      "author": "threapchills",
+      "sourceUrl": "https://github.com/threapchills/MagicCarpetWizard",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-10",
+      "addedAt": "2026-09-10",
+      "modelLabel": "GPT-6 Astra（作者自述）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "已读取作者公开说明",
+      "evidenceNote": "作者仓库 description 明确声明游戏由 GPT 6 Astra 制作；README 和文件目录提供玩法与代码，未独立完成游戏验证。",
+      "sourceAccess": "读取 GitHub 作者 README、仓库描述与文件目录；未在本地重建工程。",
+      "summary": "作者仓库描述明确将这个游戏标为 GPT 6 Astra 制作，README 介绍小型球面世界中的飞毯飞行、穿环、法术与竞速玩法。代码公开，玩法完成度仍以作者说明为依据。",
+      "outputType": [
+        "浏览器 3D 游戏",
+        "公开源码"
+      ],
+      "promptAvailability": "未公开完整提示词",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "none",
+      "imageCaption": "当前未取得作者发布的作品截图。",
+      "demoUrl": "https://threapchills.github.io/MagicCarpetWizard/",
+      "videoUrl": null,
+      "repositoryUrl": "https://github.com/threapchills/MagicCarpetWizard",
+      "evidenceUrls": [
+        "https://github.com/threapchills/MagicCarpetWizard"
+      ],
+      "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+      "outcome": "作者展示；未独立复现。"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "yo-tractor-animation",
+      "title": "拖拉机总成：长时间建模与动画实验",
+      "titleEn": "Tractor Modeling and Animation",
+      "group": "astra",
+      "category": "Blender 建模",
+      "platform": "Reddit",
+      "platforms": [
+        "Reddit"
+      ],
+      "author": "yo_hello_123",
+      "sourceUrl": "https://www.reddit.com/r/codex/comments/1wb8wgr/gpt6_astra_max_spent_7_hours_building_a_fully/",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-10",
+      "addedAt": "2026-09-10",
+      "modelLabel": "GPT-6 Astra（作者自述）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "已读取作者公开说明",
+      "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
+      "sourceAccess": "读取公开 Reddit 原帖与作者回复；原帖含动图与模型对照，暂不使用未辨明归属的单帧做封面。",
+      "summary": "作者记录 Astra Max 经多小时迭代制作拖拉机及构件动画，参考公开图片并使用图像生成辅助材质。部件与动画数量为作者自述，作者也说明自己不是拖拉机专家；不把结果作为机械工程认证。",
+      "outputType": [
+        "Blender 模型",
+        "机械构件动画"
+      ],
+      "promptAvailability": "未公开完整提示词",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "none",
+      "imageCaption": "未取得可用的作者效果图。",
+      "demoUrl": null,
+      "videoUrl": "https://www.reddit.com/r/codex/comments/1wb8wgr/gpt6_astra_max_spent_7_hours_building_a_fully/",
+      "repositoryUrl": null,
+      "evidenceUrls": [
+        "https://www.reddit.com/r/codex/comments/1wb8wgr/gpt6_astra_max_spent_7_hours_building_a_fully/"
+      ],
+      "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+      "outcome": "作者展示；未独立复现。"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "cxuan-lunar-base",
+      "title": "月面小屋到采矿基地：场景方向迭代",
+      "titleEn": "Lunar Mining Base Iteration",
+      "group": "astra",
+      "category": "Blender 建模",
+      "platform": "LINUX DO",
+      "platforms": [
+        "LINUX DO"
+      ],
+      "author": "cxuanAI / cxuan",
+      "sourceUrl": "https://linux.do/t/topic/2881369",
+      "sourceDate": "2026-09-09",
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-10",
+      "addedAt": "2026-09-10",
+      "modelLabel": "GPT-6 Astra（作者自述）",
+      "evidenceLevel": "secondary",
+      "evidenceStatus": "原文索引已读取，直连页面受限",
+      "evidenceNote": "搜索返回的原文索引包含作者、绝对日期和制作过程；直接打开页面失败，保留转引级别。",
+      "sourceAccess": "读取公开搜索中的原文内容；未通过登录访问 LINUX DO。",
+      "summary": "作者记录 Astra 安装并调用 Blender 脚本制作月面场景，从初版小屋继续要求更硬核的采矿基地。文章展示请求、反馈和结果，适合观察场景方向的迭代；当前未取得公开工程。",
+      "outputType": [
+        "Blender 月面场景",
+        "提示反馈过程"
+      ],
+      "promptAvailability": "未公开完整提示词",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "none",
+      "imageCaption": "未取得可用的作者效果图。",
+      "demoUrl": null,
+      "videoUrl": null,
+      "repositoryUrl": null,
+      "evidenceUrls": [
+        "https://linux.do/t/topic/2881369"
+      ],
+      "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+      "outcome": "作者展示；未独立复现。"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "orgxsm-azura",
+      "title": "Azura：Astra 与 Claude Code 共建岛屿",
+      "titleEn": "Azura Island",
+      "group": "astra",
+      "category": "3D 游戏",
+      "platform": "GitHub",
+      "platforms": [
+        "GitHub"
+      ],
+      "author": "Orgxsm",
+      "sourceUrl": "https://github.com/Orgxsm/azura",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-09",
+      "addedAt": "2026-09-09",
+      "modelLabel": "GPT-6 Astra + Claude Code（作者明确分工）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "已读取作者公开说明",
+      "evidenceNote": "README 明确区分 Astra 岛屿设计与 Claude Code 的引擎、渲染和任务实现；已读取该原始说明。",
+      "sourceAccess": "已读取 GitHub 仓库 README 与递归文件目录；未在本地重建工程。",
+      "summary": "单 HTML 的 WebGL2 岛屿探索项目。README 明确分工：Astra 设计岛屿，Claude Code 完成引擎、渲染和任务；因此作为混合协作案例收录，不把整个游戏归于 Astra。",
+      "outputType": [
+        "WebGL2 游戏",
+        "程序化岛屿",
+        "公开源码"
+      ],
+      "promptAvailability": "未公开完整提示词",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "none",
+      "imageCaption": "当前未取得与该版本对应的作品截图。",
+      "demoUrl": null,
+      "videoUrl": null,
+      "repositoryUrl": "https://github.com/Orgxsm/azura",
+      "evidenceUrls": [
+        "https://github.com/Orgxsm/azura"
+      ],
+      "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+      "outcome": "作者展示；未独立复现。"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "benikigai-worldkinetics",
+      "title": "WorldKinetics：弧形柜门拉手的 CAD 迭代",
+      "titleEn": "WorldKinetics CAD Handle",
+      "group": "astra",
+      "category": "交互与工具",
+      "platform": "GitHub",
+      "platforms": [
+        "GitHub"
+      ],
+      "author": "benikigai",
+      "sourceUrl": "https://github.com/benikigai/worldkinetic",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-09",
+      "addedAt": "2026-09-09",
+      "modelLabel": "GPT-6 Astra（作者自述）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "已读取作者公开说明",
+      "evidenceNote": "README 说明公开演示为保存好的 Astra 创建轨迹、约束检查及最终 CAD 文件；未独立进行制造或物理验证。",
+      "sourceAccess": "已读取 GitHub 仓库 README 与递归文件目录；未在本地重建工程。",
+      "summary": "作者公开一段保存好的 Astra CAD 制作过程：通过 build123d 生成弧形柜门拉手，检查尺寸约束后输出 STEP、STL 与 Python。公共页面展示预存轨迹，实时生成未向访客开放；几何检查不等于制造认证。",
+      "outputType": [
+        "build123d CAD",
+        "STEP / STL",
+        "Python 工程"
+      ],
+      "promptAvailability": "未公开完整提示词",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "none",
+      "imageCaption": "当前未取得与该版本对应的作品截图。",
+      "demoUrl": "https://worldkinetics.app/workspace/?mode=handle-demo",
+      "videoUrl": "https://worldkinetics.app/demo/",
+      "repositoryUrl": "https://github.com/benikigai/worldkinetic",
+      "evidenceUrls": [
+        "https://github.com/benikigai/worldkinetic"
+      ],
+      "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+      "outcome": "作者展示；未独立复现。"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "lostreq-voxel-engine",
+      "title": "C++ / Vulkan：自定义体素引擎实验",
+      "titleEn": "Custom Voxel Engine",
+      "group": "astra",
+      "category": "程序化场景",
+      "platform": "Reddit",
+      "platforms": [
+        "Reddit"
+      ],
+      "author": "LostRequirement4828",
+      "sourceUrl": "https://www.reddit.com/r/aigamedev/comments/1w7kp5b/custom_voxel_engine_done_with_gpt_astra/",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-09",
+      "addedAt": "2026-09-09",
+      "modelLabel": "GPT Astra（原帖与作者回复）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "已读取作者公开说明",
+      "evidenceNote": "原帖标题与同一作者回复明确说明 Astra、C++ / Vulkan 及已有相关经验；页面相对时间不能可靠换算首次发布日期，保留为空。",
+      "sourceAccess": "读取公开 Reddit 页面正文和作者回复；直接 API 请求受限，未重复绕过。",
+      "summary": "作者展示自定义体素引擎画面，在评论中确认使用 Astra 提示创建 C++ / Vulkan 实现，并说明自己已有体素引擎经验。当前仍在开发，未找到公开源码或可运行演示；不把截图当作已验证的性能测试。",
+      "outputType": [
+        "体素场景",
+        "C++ / Vulkan 引擎实验"
+      ],
+      "promptAvailability": "未公开完整提示词",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "none",
+      "imageCaption": "未取得可用的作者效果图。",
+      "demoUrl": null,
+      "videoUrl": null,
+      "repositoryUrl": null,
+      "evidenceUrls": [
+        "https://www.reddit.com/r/aigamedev/comments/1w7kp5b/custom_voxel_engine_done_with_gpt_astra/"
+      ],
+      "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。",
+      "outcome": "作者展示；未独立复现。"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "Preview returned HTTP 403",
+    "case": {
+      "id": "manu-gbasp-portfolio",
+      "title": "Game Boy Advance SP 作品集：翻盖与可用按钮",
+      "titleEn": null,
+      "group": "astra",
+      "category": "交互与工具",
+      "platform": "Reddit",
+      "platforms": [
+        "Reddit",
+        "个人网站"
+      ],
+      "author": "ManuVision (@ManuVision)",
+      "sourceUrl": "https://www.reddit.com/r/ChatGPT/comments/1w7iqu9/gpt_6_astra_turned_my_portfolio_into_a_playable/",
+      "sourceDate": "2026-09-04",
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-06",
+      "modelLabel": "GPT 6 Astra",
+      "evidenceLevel": "author",
+      "evidenceStatus": "explicit-astra",
+      "evidenceNote": "原作者标题明确模型并描述从零模型和交互；试玩链接抓取未成功，不能声称已试玩。",
+      "sourceAccess": "Reddit 原帖可读；个人演示抓取未成功",
+      "summary": "作者把作品集改造成能开合、可按键操作的三维掌机界面。",
+      "outputType": [
+        "3D 网页",
+        "交互产品模型"
+      ],
+      "promptAvailability": "partial",
+      "promptExcerpt": null,
+      "promptSummary": "作者评论表示未用额外 skills，只要求把网站做成带翻盖动画的交互 GBASP 体验。",
+      "promptUrl": "https://www.reddit.com/r/ChatGPT/comments/1w7iqu9/gpt_6_astra_turned_my_portfolio_into_a_playable/",
+      "imageUrl": "https://external-preview.redd.it/gpt-6-astra-turned-my-portfolio-into-a-playable-game-boy-v0-dmwzMG90c3R2a25oMYZ0zLoKk-vEwJeeqyMbwUrFyFpsWN_c-rx1lh-xA5Aq.jpeg?auto=webp&crop=smart&format=pjpg&s=2e9c3b10cc1c13c7bc1d6ced481525dbe68711b5&width=640",
+      "imageKind": "source-media",
+      "imageCaption": "原作者发布的作品媒体；归属与限制见来源。",
+      "demoUrl": "https://manu.vision/gb",
+      "videoUrl": null,
+      "repositoryUrl": null,
+      "evidenceUrls": [],
+      "licenseNotes": "作品与媒体版权归原权利人；本库仅记录来源并外链展示，未取得再分发许可。",
+      "outcome": "showcase",
+      "addedAt": "2026-09-06"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "Preview returned HTTP 403",
+    "case": {
+      "id": "reddit-blender-car-comparison",
+      "title": "Blender 游戏资产对比：Astra 与 Fable 5.1",
+      "titleEn": null,
+      "group": "astra",
+      "category": "Blender 建模",
+      "platform": "Reddit",
+      "platforms": [
+        "Reddit"
+      ],
+      "author": "curious_capsuleer",
+      "sourceUrl": "https://www.reddit.com/r/OpenAI/comments/1w7ppcj/fable_51_vs_gpt_6_astra_3d_blender_mind_blowing/",
+      "sourceDate": "2026-09-05",
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-06",
+      "modelLabel": "GPT 6 Astra / Fable 5.1（并列对照）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "explicit-astra",
+      "evidenceNote": "作者回复确认 Blender MCP；没有相同参数、完整提示词与网格文件，不能据此认定受控基准优劣。",
+      "sourceAccess": "Reddit 原帖与作者回复可读",
+      "summary": "原作者发布两模型游戏资产对照，说明通过 Blender MCP 按需求建模。",
+      "outputType": [
+        "Blender 游戏资产",
+        "模型对比图"
+      ],
+      "promptAvailability": "not-found",
+      "promptExcerpt": null,
+      "promptSummary": "公开了连接方式，未读到完整对照提示词。",
+      "promptUrl": null,
+      "imageUrl": "https://preview.redd.it/fable-5-1-vs-gpt-6-astra-3d-blender-mind-blowing-difference-v0-hc9tslyxgmnh1.png?auto=webp&crop=smart&s=0572827a5e9dc816c41a5ab6d997fdd96fe64d19&width=640",
+      "imageKind": "source-media",
+      "imageCaption": "原作者发布的作品媒体；归属与限制见来源。",
+      "demoUrl": null,
+      "videoUrl": null,
+      "repositoryUrl": null,
+      "evidenceUrls": [],
+      "licenseNotes": "作品与媒体版权归原权利人；本库仅记录来源并外链展示，未取得再分发许可。",
+      "outcome": "comparison",
+      "addedAt": "2026-09-06"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "Preview returned HTTP 403",
+    "case": {
+      "id": "reddit-cheetah-rig-failure",
+      "title": "失败样本：猎豹绑定与奔跑动画",
+      "titleEn": null,
+      "group": "astra",
+      "category": "Blender 建模",
+      "platform": "Reddit",
+      "platforms": [
+        "Reddit"
+      ],
+      "author": "Legitimate-Room-1905",
+      "sourceUrl": "https://www.reddit.com/r/aigamedev/comments/1w7m5fn/gpt6_astra_is_definitely_not_agi/",
+      "sourceDate": "2026-09-05",
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-06",
+      "modelLabel": "GPT-6 Astra (Ultra，作者评论)",
+      "evidenceLevel": "author",
+      "evidenceStatus": "explicit-astra",
+      "evidenceNote": "原帖公开完整提示词；作者评论说明 Ultra。已有 FBX 是输入，不是 Astra 从零建模。",
+      "sourceAccess": "原帖和作者回复可读；未独立运行工程",
+      "summary": "作者给现有猎豹模型加骨骼与奔跑动画，发布未达期望的结果。",
+      "outputType": [
+        "Blender",
+        "骨骼绑定",
+        "角色动画"
+      ],
+      "promptAvailability": "full",
+      "promptExcerpt": null,
+      "promptSummary": "提示词要求给本地 FBX 猎豹绑定并制作逼真的奔跑动画，目标为高质量游戏或电影效果。",
+      "promptUrl": "https://www.reddit.com/r/aigamedev/comments/1w7m5fn/gpt6_astra_is_definitely_not_agi/",
+      "imageUrl": "https://external-preview.redd.it/gpt-6-astra-is-definitely-not-agi-v0-cHcxbW9kZmNtbG5oMfvXuABrJ6SaitdVttNIH6-S9rLz45oEbKkbyl7sc9_n.png?auto=webp&crop=smart&format=pjpg&s=9c86c403ab596d28926700dd3dedbb26b75d08dd&width=640",
+      "imageKind": "source-media",
+      "imageCaption": "原作者发布的作品媒体；归属与限制见来源。",
+      "demoUrl": null,
+      "videoUrl": null,
+      "repositoryUrl": null,
+      "evidenceUrls": [],
+      "licenseNotes": "作品与媒体版权归原权利人；本库仅记录来源并外链展示，未取得再分发许可。",
+      "outcome": "failure",
+      "addedAt": "2026-09-06"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "reddit-godot-wasteland",
+      "title": "Godot 末世场景：既有素材与 Blender MCP",
+      "titleEn": "Post-Apocalyptic Godot Scene",
+      "group": "astra",
+      "category": "3D 游戏",
+      "platform": "Reddit",
+      "platforms": [
+        "Reddit"
+      ],
+      "author": "DarthOrganism",
+      "sourceUrl": "https://www.reddit.com/r/aigamedev/comments/1w9bkiw/gpt6_astra_built_this_postapocalyptic_game_scene/",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-07",
+      "addedAt": "2026-09-07",
+      "modelLabel": "GPT-6 Astra",
+      "evidenceLevel": "author",
+      "evidenceStatus": "explicit-astra",
+      "evidenceNote": "原帖正文可读并明确模型与工具；已有模型和纹理是输入，不能全部归为从零生成。未取得源码与完整任务。",
+      "sourceAccess": "作者公开页面已读取；未在本机独立复现作品。",
+      "summary": "作者用 Astra、Godot 与 Blender MCP 搭建末世场景，输入包含现有纹理与模型链接。",
+      "outputType": [
+        "Godot",
+        "Blender MCP",
+        "场景展示"
+      ],
+      "promptAvailability": "not-found",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "source-media",
+      "imageCaption": "作者发布的预览；未独立复现。",
+      "demoUrl": null,
+      "videoUrl": "https://www.reddit.com/r/aigamedev/comments/1w9bkiw/gpt6_astra_built_this_postapocalyptic_game_scene/",
+      "repositoryUrl": null,
+      "evidenceUrls": [],
+      "licenseNotes": "作品和媒体归原作者；引用原站素材与链接，不纳入本库 MIT 许可。",
+      "outcome": "showcase"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "group": "astra",
+      "platform": "GitHub",
+      "platforms": [
+        "GitHub"
+      ],
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-09",
+      "addedAt": "2026-09-09",
+      "modelLabel": "GPT-6 Astra（作者声明）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "explicit-astra",
+      "sourceAccess": "已读取原作者 README 与公开文件目录；未在本库独立运行或复现工程。",
+      "promptAvailability": "not-found",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "source-media",
+      "imageCaption": "作者未提供可确认的实机效果图，保留工程来源。",
+      "demoUrl": "https://hullscope.cristianexer.dev/Hullscope/",
+      "videoUrl": null,
+      "evidenceUrls": [
+        "https://raw.githubusercontent.com/cristianexer/Hullscope/main/README.md"
+      ],
+      "licenseNotes": "第三方代码、图片与资产保留原有权利，具体使用范围以原仓库许可为准，不受本库 MIT 许可覆盖。",
+      "outcome": "showcase",
+      "id": "cristian-hullscope",
+      "title": "Hullscope：拆开船体，观察系统与部件",
+      "titleEn": "Hullscope",
+      "category": "拆解与剖面",
+      "author": "Cristian Exer",
+      "sourceUrl": "https://github.com/cristianexer/Hullscope",
+      "repositoryUrl": "https://github.com/cristianexer/Hullscope",
+      "summary": "从船型目录进入可旋转、透视和逐层拆解的三维模型，查看部件说明与系统联系；仓库提供语义 GLB、TypeScript 建模定义及 Blender 场景。",
+      "evidenceNote": "作者 README 明确为探索 GPT-6 Astra 的个人项目。船舶属于教育性重建，公开参数不等于精确内部舱室与设备布局；驾驶和海况为近似展示。Black Pearl 是独立虚构演绎。",
+      "outputType": [
+        "Three.js",
+        "React Three Fiber",
+        "GLB",
+        "Blender",
+        "交互 3D 网页"
+      ]
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "group": "astra",
+      "platform": "GitHub",
+      "platforms": [
+        "GitHub"
+      ],
+      "sourceDate": "2026-09-08",
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-09",
+      "addedAt": "2026-09-09",
+      "modelLabel": "GPT-6 Astra（作者声明）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "explicit-astra",
+      "sourceAccess": "已读取原作者 README 与公开文件目录；未在本库独立运行或复现工程。",
+      "promptAvailability": "not-found",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "source-media",
+      "imageCaption": "作者未提供可确认的实机效果图，保留工程来源。",
+      "demoUrl": "https://zermatt-mountain-atlas.oliviameng.chatgpt.site/?scene=reconstruction&view=matterhorn",
+      "videoUrl": "https://www.loom.com/share/2aeb49305ee84ed38d3304aa39b7d558",
+      "evidenceUrls": [
+        "https://raw.githubusercontent.com/oliviameng/alpine-atlas/main/README.md"
+      ],
+      "licenseNotes": "第三方代码、图片与资产保留原有权利，具体使用范围以原仓库许可为准，不受本库 MIT 许可覆盖。",
+      "outcome": "showcase",
+      "id": "olivia-alpine-atlas",
+      "title": "Alpine Atlas：在马特洪峰查看地形与影像证据",
+      "titleEn": "Alpine Atlas",
+      "category": "科学与教育",
+      "author": "oliviameng",
+      "sourceUrl": "https://github.com/oliviameng/alpine-atlas",
+      "repositoryUrl": "https://github.com/oliviameng/alpine-atlas",
+      "summary": "以瑞士地形与历史航片构建 Three.js 山地场景，支持马特洪峰环绕、日照展示和带日期的相机影像对照；公开网格、着色与交互代码。",
+      "evidenceNote": "作者明确说明 Astra 经 Codex 参与地形管线、网格与着色器、交互和证据 UI 开发。基础高程与航片来自 swisstopo，不是模型凭空生成；20 m 是应用采样间隔，非测绘精度。实时 Astra 探索另需模型访问权限。",
+      "outputType": [
+        "Three.js",
+        "地理网格",
+        "着色器",
+        "交互 3D 网页"
+      ]
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "group": "astra",
+      "platform": "GitHub",
+      "platforms": [
+        "GitHub"
+      ],
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-09",
+      "addedAt": "2026-09-09",
+      "modelLabel": "Astra（作者声明，未列模型 ID）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "explicit-astra",
+      "sourceAccess": "已读取原作者 README 与公开文件目录；未在本库独立运行或复现工程。",
+      "promptAvailability": "not-found",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "source-media",
+      "imageCaption": "作者未提供可确认的实机效果图，保留工程来源。",
+      "demoUrl": null,
+      "videoUrl": null,
+      "evidenceUrls": [
+        "https://raw.githubusercontent.com/Onward0131/astra-vibe-coding-lunar-surveyor/main/README.md"
+      ],
+      "licenseNotes": "项目自有源码尚未单独指定开源许可证；NASA 模型、Poly Haven 纹理、Three.js 与 Draco 保留各自使用条件，详见作者 NOTICE.md。",
+      "outcome": "showcase",
+      "id": "onward-lunar-surveyor",
+      "title": "Lunar Surveyor：月面漫游与航天模型展台",
+      "titleEn": "Lunar Surveyor",
+      "category": "科学与教育",
+      "author": "Onward0131",
+      "sourceUrl": "https://github.com/Onward0131/astra-vibe-coding-lunar-surveyor",
+      "repositoryUrl": "https://github.com/Onward0131/astra-vibe-coding-lunar-surveyor",
+      "summary": "在程序化月面切换探测车与航天器，观察车轮、机械臂和旋翼动画。提供 Three.js 工程、模型来源清单及单 HTML 离线发布包。",
+      "evidenceNote": "作者声明使用 Astra 构建场景。17 个选项包括 16 套 NASA 已有模型与原创 L-03 概念车，不能称为 Astra 从零生成 17 个航天器。月面为统一展示环境，部分悬浮和缩放并非实际任务仿真。",
+      "outputType": [
+        "Three.js",
+        "NASA GLB 资产整合",
+        "程序化地形",
+        "离线 HTML"
+      ]
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "alesha-breach-blacksite",
+      "title": "BREACH：三维第一人称生存射击",
+      "titleEn": "BREACH — Blacksite",
+      "group": "astra",
+      "category": "3D 游戏",
+      "platform": "GitHub",
+      "platforms": [
+        "GitHub"
+      ],
+      "author": "alesha-pro",
+      "sourceUrl": "https://github.com/alesha-pro/bench-portal/blob/main/games/breach-blacksite-astra/game.json",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-07",
+      "addedAt": "2026-09-07",
+      "modelLabel": "ASTRA（作者游戏清单）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "explicit-astra",
+      "evidenceNote": "直接读取作者游戏清单，版本标记为 ASTRA；同仓库其他模型目录未纳入，功能描述尚未独立试玩核验。",
+      "sourceAccess": "作者公开页面已读取；未在本机独立复现作品。",
+      "summary": "Three.js 第一人称射击，作者清单描述武器后坐、角色动画、滑铲与程序化音频。",
+      "outputType": [
+        "Three.js",
+        "FPS",
+        "源码"
+      ],
+      "promptAvailability": "not-found",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "source-media",
+      "imageCaption": "作者发布的预览；未独立复现。",
+      "demoUrl": "https://alesha-pro.github.io/bench-portal/games/breach-blacksite-astra/",
+      "videoUrl": null,
+      "repositoryUrl": "https://github.com/alesha-pro/bench-portal/tree/main/games/breach-blacksite-astra",
+      "evidenceUrls": [],
+      "licenseNotes": "作品和媒体归原作者；引用原站素材与链接，不纳入本库 MIT 许可。",
+      "outcome": "showcase"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "id": "alesha-rig-3090",
+      "title": "RIG / 3090：滚动拆解显卡工作站",
+      "titleEn": "RIG / 3090 — Anatomy of a Rig",
+      "group": "astra",
+      "category": "拆解与剖面",
+      "platform": "GitHub",
+      "platforms": [
+        "GitHub"
+      ],
+      "author": "alesha-pro",
+      "sourceUrl": "https://github.com/alesha-pro/bench-portal/blob/main/games/rig-3090-astra/game.json",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-07",
+      "addedAt": "2026-09-07",
+      "modelLabel": "ASTRA（作者游戏清单）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "explicit-astra",
+      "evidenceNote": "直接读取作者游戏清单，版本标记为 ASTRA；同仓库其他模型目录未纳入，功能描述尚未独立试玩核验。",
+      "sourceAccess": "作者公开页面已读取；未在本机独立复现作品。",
+      "summary": "将工作站照片重建为 Blender 模型，再以滚动驱动部件展开与复原。",
+      "outputType": [
+        "Blender",
+        "GLB",
+        "滚动拆解"
+      ],
+      "promptAvailability": "not-found",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "source-media",
+      "imageCaption": "作者发布的预览；未独立复现。",
+      "demoUrl": "https://alesha-pro.github.io/bench-portal/games/rig-3090-astra/",
+      "videoUrl": null,
+      "repositoryUrl": "https://github.com/alesha-pro/bench-portal/tree/main/games/rig-3090-astra",
+      "evidenceUrls": [],
+      "licenseNotes": "作品和媒体归原作者；引用原站素材与链接，不纳入本库 MIT 许可。",
+      "outcome": "showcase"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "group": "astra",
+      "platform": "GitHub",
+      "platforms": [
+        "GitHub"
+      ],
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-08",
+      "addedAt": "2026-09-08",
+      "modelLabel": "GPT-6 Astra（作者声明）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "explicit-astra",
+      "sourceAccess": "原作者 README 与源码入口已读取；2026-09-08 在线演示返回 HTTP 200，标题为 BelugaXL · Aircraft Explorer。未独立验证交互或航空内容。",
+      "promptAvailability": "not-found",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "source-media",
+      "imageCaption": "未找到作者公开的实机截图，保留来源链接。",
+      "demoUrl": "https://victoria.dev/belugaxl-explorer/",
+      "videoUrl": null,
+      "evidenceUrls": [
+        "https://raw.githubusercontent.com/victoriadrake/belugaxl-explorer/main/README.md"
+      ],
+      "licenseNotes": "仓库未提供项目总许可；单 HTML 内包含第三方库许可通知。外链收录不代表获得代码或媒体的再分发授权。",
+      "outcome": "showcase",
+      "id": "victoria-belugaxl-explorer",
+      "title": "BelugaXL Explorer：可拆解的白鲸运输机",
+      "titleEn": "BelugaXL Explorer",
+      "category": "拆解与剖面",
+      "author": "Victoria Drake",
+      "sourceUrl": "https://github.com/victoriadrake/belugaxl-explorer",
+      "evidenceNote": "README 明确说明使用 GPT-6 Astra。模型由代码生成，包含 21 个主要装配组，并支持继续拆开发动机和起落架；没有独立飞机模型文件。航空结构是学习用可视化，未验证工程精度。",
+      "summary": "在浏览器中旋转白鲸运输机、打开货舱、透视外壳并拆分装配组，点击发动机和起落架继续查看内部部件及说明。",
+      "outputType": [
+        "Three.js",
+        "交互 3D 网页",
+        "单 HTML"
+      ],
+      "repositoryUrl": "https://github.com/victoriadrake/belugaxl-explorer"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "group": "astra",
+      "platform": "GitHub",
+      "platforms": [
+        "GitHub"
+      ],
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-08",
+      "addedAt": "2026-09-08",
+      "modelLabel": "GPT-6 Astra Extra High（作者声明）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "explicit-astra",
+      "sourceAccess": "原作者 README 和文件清单已读取；2026-09-08 在线演示返回 HTTP 200，标题为 Splashline — Catch the current。未独立完成比赛或验证移动端性能。",
+      "promptAvailability": "not-found",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "source-media",
+      "imageCaption": "未找到作者公开的实机截图，保留来源链接。",
+      "demoUrl": "https://kjlkurt.github.io/waterslide-game-astra/",
+      "videoUrl": null,
+      "evidenceUrls": [
+        "https://raw.githubusercontent.com/KJLKurt/waterslide-game-astra/main/README.md"
+      ],
+      "licenseNotes": "仓库未发现项目总许可；作者说明素材本地提供或代码生成，依赖保留各自许可。仅记录外链，不推断再分发授权。",
+      "outcome": "showcase",
+      "id": "kjlkurt-splashline",
+      "title": "Splashline：热带水滑道竞速",
+      "titleEn": "Splashline",
+      "category": "3D 游戏",
+      "author": "KJLKurt",
+      "sourceUrl": "https://github.com/KJLKurt/waterslide-game-astra",
+      "evidenceNote": "README 的 Codex Usage 明确 GPT-6 Astra 和 Extra High。作者公开程序化赛道、角色、测试与离线 PWA；物理基于轨道约束及射线检测，并非通用刚体仿真。耗时与额度为作者记录，未复现。",
+      "summary": "十三名程序化泳者沿热带水滑道竞速，包含坡道起跳、可跳捷径、练习检查点和手机双指控制；公开游戏代码与离线安装方案。",
+      "outputType": [
+        "Three.js",
+        "3D 竞速",
+        "移动端",
+        "PWA"
+      ],
+      "repositoryUrl": "https://github.com/KJLKurt/waterslide-game-astra"
+    }
+  },
+  {
+    "removedAt": "2026-09-25",
+    "reason": "No inline image or archived video; source/demo links alone are not a visible preview",
+    "case": {
+      "group": "astra",
+      "platform": "GitHub",
+      "platforms": [
+        "GitHub"
+      ],
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-08",
+      "addedAt": "2026-09-08",
+      "modelLabel": "GPT-6 Astra（作者声明）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "explicit-astra",
+      "sourceAccess": "原作者 README 与公开仓库文件已读取；未独立构建或运行作品。",
+      "promptAvailability": "not-found",
+      "promptExcerpt": null,
+      "promptSummary": null,
+      "promptUrl": null,
+      "imageUrl": null,
+      "imageKind": "source-media",
+      "imageCaption": "未找到作者公开的实机截图，保留来源链接。",
+      "demoUrl": null,
+      "videoUrl": null,
+      "evidenceUrls": [
+        "https://raw.githubusercontent.com/anisayari/minecrack/codex/public-release/README.md",
+        "https://github.com/anisayari/minecrack/releases/latest",
+        "https://github.com/anisayari/minecrack/blob/codex/public-release/docs/ASSET-SOURCES.md",
+        "https://github.com/anisayari/minecrack/blob/codex/public-release/docs/BANNER.md"
+      ],
+      "licenseNotes": "仓库明确第三方图像和标识保留原权利；公开仓库不将这些内容置于自由许可。代码及媒体使用应分别检查对应许可。",
+      "outcome": "showcase",
+      "id": "anisayari-minecrack",
+      "title": "Minecrack：六边形群岛中的生存建造",
+      "titleEn": "Minecrack",
+      "category": "3D 游戏",
+      "author": "Anis Ayari",
+      "sourceUrl": "https://github.com/anisayari/minecrack",
+      "evidenceNote": "README 明确 Developed by GPT-6 Astra。公开 Three.js 源码与 Windows 便携发行版，世界有限且单人；未发现公开在线游戏。README 横幅是生成宣传插画，不是真实游戏截图，因此不作为本条作品画面。",
+      "summary": "在六边形方块群岛中探索、采集与建造，提供生存及创作模式、幸运方块和本地存档；可从源码运行或下载 Windows 便携包。",
+      "outputType": [
+        "Three.js",
+        "生存建造",
+        "Windows 便携包",
+        "源码"
+      ],
+      "repositoryUrl": "https://github.com/anisayari/minecrack"
+    }
+  }
+]

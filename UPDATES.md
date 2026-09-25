@@ -2,31 +2,7 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
-## 2026-09-25 · 3 个案例
-
-| 作品 / Example | 作者 | 可用材料 |
-| --- | --- | --- |
-| [Three.js 跑马：同题动画与多档位对照 / Three.js Running Horse Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=bursin-threejs-horse) | Mike Bursin / bursinru | 演示入口 · 提示词 / 过程 |
-| [角色头部重建：参考图与未达预期结果 / Character Head Reconstruction — Reported Failure](https://carpentry-liu.github.io/awesome-astra-3d/#case=drzewkoslaw-head-limit) | Drzewkoslaw | 作者展示 |
-| [角色舞蹈流程：Tripo 网格与 Astra 卡通材质 / Tripo Character and Astra Toon Shading](https://carpentry-liu.github.io/awesome-astra-3d/#case=delicious-tripo-vrm-dance) | Delicious-Shower8401 | 作者展示 |
-
-## 2026-09-24 · 3 个案例
-
-| 作品 / Example | 作者 | 可用材料 |
-| --- | --- | --- |
-| [同图房间重建：Astra、Sol 与 Luna 对照 / Same-image Room Reconstruction Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=feisty-room-comparison) | Feisty-Scheme-8356 | 提示词 / 过程 |
-| [Tripo 龙骨模型：打印目标与关节局限 / Tripo Dragon Skeleton — Printability Limits](https://carpentry-liu.github.io/awesome-astra-3d/#case=paulyy18-tripo-dragon) | paulyy18 | 演示入口 |
-| [Godot ARPG：战斗原型与资产整理流程 / Godot ARPG — Asset and Code Workflows](https://carpentry-liu.github.io/awesome-astra-3d/#case=clean-rebel-godot-arpg) | clean_rebel29 | 作者展示 |
-
-## 2026-09-23 · 3 个案例
-
-| 作品 / Example | 作者 | 可用材料 |
-| --- | --- | --- |
-| [雪夜街景：参考视频到混合资产三维场景 / Snow Street — Reference to 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=nsrgn-snow-street) | Interesting-Bill4028 | 演示入口 |
-| [复古 Godot RPG：多轮几何建模与迭代 / Old-school Godot RPG Prototype](https://carpentry-liu.github.io/awesome-astra-3d/#case=mrray87-godot-rpg) | mrray87 | 作者展示 |
-| [Three.js 2.5D：精灵与三维场景的混合实验 / Three.js 2.5D Visual Experiment](https://carpentry-liu.github.io/awesome-astra-3d/#case=hyp3rclaw-threejs-25d) | hyp3rclaw | 演示入口 |
-
-## 2026-09-22 · 7 个案例
+## 2026-09-22 · 5 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
@@ -35,8 +11,6 @@
 | [DRONE.IO：无人机竞技场生存原型 / DRONE.IO — Proving Grounds](https://carpentry-liu.github.io/awesome-astra-3d/#case=angello-drone-io) | Angello🎰 / @OMASMohamad | 演示入口 |
 | [Saint Orison：视线之外移动的天使 / Don’t Look Away — Saint Orison](https://carpentry-liu.github.io/awesome-astra-3d/#case=blendi-saint-orison) | Blendi / @BlendiByl | 演示入口 · 完整视频 |
 | [The Crownless：在城堡里边玩边迭代 / The Crownless](https://carpentry-liu.github.io/awesome-astra-3d/#case=izkimar-crownless) | Izkimar / @Izkimar | 演示入口 · 完整视频 |
-| [Hezo：滚动穿过山间寺庙的 WebGPU 网页 / Hezo Procedural Temple Journey](https://carpentry-liu.github.io/awesome-astra-3d/#case=hiddentao-hezo-temple) | Hiddentao | 演示入口 · 提示词 / 过程 |
-| [Unreal 环境：生成、清理与人工布光 / Unreal Environment — Mixed Asset Workflow](https://carpentry-liu.github.io/awesome-astra-3d/#case=delicious-unreal-environment) | Delicious-Shower8401 | 作者展示 |
 
 ## 2026-09-21 · 5 个案例
 
@@ -48,7 +22,7 @@
 | [OpenEngineering：机械原理三维交互讲解 / OpenEngineering — Interactive 3D Engineering Stories](https://carpentry-liu.github.io/awesome-astra-3d/#case=gulnoor-openengineering) | gulnoorCheema | 源码 / 工程 · 演示入口 |
 | [Object Lab：十五个滚动驱动三维故事 / Object Lab — Fifteen Scroll-driven 3D Stories](https://carpentry-liu.github.io/awesome-astra-3d/#case=safaelmali-object-lab) | SafaElmali | 源码 / 工程 · 演示入口 |
 
-## 2026-09-20 · 8 个案例
+## 2026-09-20 · 6 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
@@ -57,15 +31,12 @@
 | [Glider：纸飞机三维自由飞行 / Glider — One Throw. Endless Sky.](https://carpentry-liu.github.io/awesome-astra-3d/#case=mrtwizzles-glider) | mrtwizzles | 演示入口 |
 | [Monopoly City：可步行的三维大富翁 / Monopoly City — A Board Worth Exploring](https://carpentry-liu.github.io/awesome-astra-3d/#case=thomas-monopoly-city) | Thomas Unise / @thomasunise | 演示入口 · 提示词 / 过程 |
 | [旧城区 · 放学路：双主角章节冒险 / Dual Realms — Old Town After School](https://carpentry-liu.github.io/awesome-astra-3d/#case=serein-dual-realms) | serein / @you1873118 | 源码 / 工程 · 演示入口 |
-| [Thornwake：丝之歌风格三维动作试炼 / Thornwake](https://carpentry-liu.github.io/awesome-astra-3d/#case=liam-thornwake) | Lehiem / LiamTodd98 | 演示入口 |
-| [Mystery Town：微缩世界三维环境解谜 / Mystery Town](https://carpentry-liu.github.io/awesome-astra-3d/#case=playableworld-mystery-town) | PlayableWorld | 演示入口 |
 | [NULLSPACE：Astra 驱动的生存恐怖 FPS / NULLSPACE](https://carpentry-liu.github.io/awesome-astra-3d/#case=marius4lui-nullspace) | marius4lui | 源码 / 工程 · 演示入口 |
 
-## 2026-09-17 · 17 个案例
+## 2026-09-17 · 16 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
-| [Nightborn Clash：血裔三维街机决斗 / Nightborn Clash](https://carpentry-liu.github.io/awesome-astra-3d/#case=cloak-nightborn-clash) | Cloaker Vampiror / @CloakofEcstasy | 演示入口 |
 | [Lantern Cove：猴岛风格三维冒险原型 / Lantern Cove — The Borrowed Light](https://carpentry-liu.github.io/awesome-astra-3d/#case=akartit-lantern-cove) | AK / @akartit | 演示入口 |
 | [Butterball Run：餐盘上的黄油球救援 / Butterball Run — Dinner Has Other Plans](https://carpentry-liu.github.io/awesome-astra-3d/#case=secretseoul-butterball-run) | Seolyeon / SecretSeoul | 演示入口 · 提示词 / 过程 |
 | [Sundrift：四模型对照中的 Astra 船只探索 / Sundrift — Take the Slow Way Home](https://carpentry-liu.github.io/awesome-astra-3d/#case=wesche-sundrift) | Wësche / @WescheNex1q | 演示入口 · 提示词 / 过程 |
@@ -83,7 +54,7 @@
 | [武士森林：Astra 编排与 Rodin 角色 / Samurai Forest — Astra and Rodin](https://carpentry-liu.github.io/awesome-astra-3d/#case=jaynit-samurai-forest) | Jaynit Makwana / @JaynitMakwana | 完整视频 |
 | [VeilFall：仍在开发的三维战斗试炼 / VeilFall — God’s Heart](https://carpentry-liu.github.io/awesome-astra-3d/#case=noni-veilfall) | Shehnoor Ansari (Noni) / @Noni_Shehnoor | 演示入口 · 完整视频 |
 
-## 2026-09-14 · 5 个案例
+## 2026-09-14 · 4 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
@@ -91,9 +62,8 @@
 | [City Pulse：纽约出租车的三维时间地图 / City Pulse — NYC Taxi Time Map](https://carpentry-liu.github.io/awesome-astra-3d/#case=seoyeon-city-pulse) | Seoyeon Jun 📊 / @tableau_viz | 完整视频 |
 | [已有 Tripo 模型：整理 UV 并重新烘焙贴图 / Existing Tripo Model — UV Layout and Rebake](https://carpentry-liu.github.io/awesome-astra-3d/#case=sagyo-uv-rebake) | さ🥺 / @_sagyoai | 提示词 / 过程 |
 | [鱿鱼群：用方程驱动身体和触手 / Procedural Squid Shoal](https://carpentry-liu.github.io/awesome-astra-3d/#case=vib3-squid-shoal) | Vib3Coded / @vib3coded | 完整视频 |
-| [Belt Runner：把 Astra 模型接入 Godot 4 / Belt Runner — Astra Assets in Godot 4](https://carpentry-liu.github.io/awesome-astra-3d/#case=nrivali-belt-runner) | nrivali | 源码 / 工程 |
 
-## 2026-09-13 · 8 个案例
+## 2026-09-13 · 7 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
@@ -104,9 +74,8 @@
 | [拼装相框：先做带编号的接头校准件 / Picture-frame Joint Calibration](https://carpentry-liu.github.io/awesome-astra-3d/#case=wada-frame-joints) | wada / @wada | 作者展示 |
 | [Sol Horizon：尚在迭代的民用货运飞船 / Sol Horizon Courier Ship — Work in Progress](https://carpentry-liu.github.io/awesome-astra-3d/#case=jonathan-courier-ship) | Jonathan Plumb — Spokane Valley / @jonathanplumb | 提示词 / 过程 |
 | [机械手钢琴：手指、琴键与音乐的动态展示 / Robotic Hand Piano Demonstration](https://carpentry-liu.github.io/awesome-astra-3d/#case=msb-robot-piano) | MSB / @KeWai386772 | 完整视频 |
-| [医院走廊：从白模到重新布光的镜头 / Hospital Corridor — Blockout to Relighting](https://carpentry-liu.github.io/awesome-astra-3d/#case=timead-hospital-corridor) | Time-Ad-7720 | 提示词 / 过程 |
 
-## 2026-09-12 · 20 个案例
+## 2026-09-12 · 18 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
@@ -127,8 +96,6 @@
 | [Godot：小小梦魇风格的三维游戏试作 / Nightmare-inspired Godot Prototype](https://carpentry-liu.github.io/awesome-astra-3d/#case=laoliu-godot-nightmare) | 老刘用AI做游戏 | 作者展示 |
 | [石墓阵：Blender 与 Godot 场景 / Stone Tomb in Blender and Godot](https://carpentry-liu.github.io/awesome-astra-3d/#case=tucao-stone-tomb) | 吐槽不得劲 | 作者展示 |
 | [Blender 运镜：灰模预演到追车短片 / Blender Previsualization to Chase Film](https://carpentry-liu.github.io/awesome-astra-3d/#case=aizhuiguang-blender-previs) | AI追光实验室 | 作者展示 |
-| [苏州博物馆：Three.js 外观与庭院 / Suzhou Museum Architectural Walk](https://carpentry-liu.github.io/awesome-astra-3d/#case=vsme-suzhou-museum) | vsme | 源码 / 工程 · 演示入口 |
-| [Real2Sim：三视角机器人场景重放 / Three-view Robot Scene Reconstruction](https://carpentry-liu.github.io/awesome-astra-3d/#case=hku-robot-rgb-replay) | hku-sail | 源码 / 工程 · 提示词 / 过程 |
 | [九次创作实验：教堂、RTS 与三维乐器 / CodonFlow Creative 3D Experiments](https://carpentry-liu.github.io/awesome-astra-3d/#case=codonflow-creative-worlds) | jargs92 / CodonFlow | 作者展示 |
 
 ## 2026-09-11 · 21 个案例
@@ -157,7 +124,7 @@
 | [立方体城市：图像参考与 Blender 建模 / Cube City from an Image Reference](https://carpentry-liu.github.io/awesome-astra-3d/#case=will-cube-city) | いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram / @old_pgmrs_will | 完整视频 |
 | [塔林旧城：场景资产、三维预演与 H3 成片 / Tallinn Scene and Previsualization](https://carpentry-liu.github.io/awesome-astra-3d/#case=yachimat-tallinn) | yachimat - AI Short Anime / @yachimat_manga | 完整视频 |
 
-## 2026-09-10 · 26 个案例
+## 2026-09-10 · 22 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
@@ -167,7 +134,6 @@
 | [书桌一角：Blender 工程与实时网页 / Room Studio](https://carpentry-liu.github.io/awesome-astra-3d/#case=magicyan-room-studio) | magicyan418 | 源码 / 工程 · 演示入口 |
 | [祈年殿：Three.js 建筑展示 / Temple of Heaven in Three.js](https://carpentry-liu.github.io/awesome-astra-3d/#case=goan-temple-heaven) | govin.eth \| G哥 / @goan999999 | 完整视频 |
 | [同户型四种家装：Astra 与 Fable 对照 / Four Interior Styles Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=hahaliu-house-styles) | hahaliu1029 | 源码 / 工程 · 演示入口 |
-| [Chess Cubed：六面立方体棋盘 / Chess Cubed](https://carpentry-liu.github.io/awesome-astra-3d/#case=digitalml-chess-cubed) | digitalml | 演示入口 |
 | [巨龙短镜头：Blender Python 迭代 / Dragon Cinematic in Blender](https://carpentry-liu.github.io/awesome-astra-3d/#case=doomdave-dragon) | Sarang Borude / @doomdave | 完整视频 |
 | [山间村落：参考图与地形场景联动 / Skyrim-inspired Village](https://carpentry-liu.github.io/awesome-astra-3d/#case=taro-skyrim-village) | Kichitaro (Kichi Shotaro) / @TaroKichijo | 完整视频 · 提示词 / 过程 |
 | [Roblox 卡丁车：漂移、加速与 AI 对手 / Roblox Kart Racer](https://carpentry-liu.github.io/awesome-astra-3d/#case=givros-roblox-kart) | Givros / @givros | 完整视频 |
@@ -182,18 +148,15 @@
 | [新加坡街头：手机视角的浏览器场景 / Singapore Street Scene](https://carpentry-liu.github.io/awesome-astra-3d/#case=birdabo-singapore) | sui / @birdabo | 完整视频 |
 | [Piața Unirii：同一简报的体素广场对照 / Piata Unirii Voxel Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=danmana-piata-unirii) | Dan Manastireanu / @danmana | 源码 / 工程 · 演示入口 · 完整视频 · 提示词 / 过程 |
 | [Tripo 角色：服装 UV 与贴图修整 / Tripo Character Texture Repair](https://carpentry-liu.github.io/awesome-astra-3d/#case=syaripin-tripo-texture) | syaripin-i8i | 提示词 / 过程 |
-| [A Thousand Skies：在小星球上骑飞毯 / A Thousand Skies](https://carpentry-liu.github.io/awesome-astra-3d/#case=threapchills-magic-carpet) | threapchills | 源码 / 工程 · 演示入口 |
-| [拖拉机总成：长时间建模与动画实验 / Tractor Modeling and Animation](https://carpentry-liu.github.io/awesome-astra-3d/#case=yo-tractor-animation) | yo_hello_123 | 作者展示 |
 | [硬表面与曲面：多类 Blender 建模实测 / Hard Surface and Curved Modeling Tests](https://carpentry-liu.github.io/awesome-astra-3d/#case=ehuilanse-hard-surface) | E灰蓝色 | 作者展示 |
 | [木箱到 Unity：建模、烘焙与导入 / Wooden Crate to Unity](https://carpentry-liu.github.io/awesome-astra-3d/#case=teardownlab-wooden-crate) | teardownlab | 提示词 / 过程 |
-| [月面小屋到采矿基地：场景方向迭代 / Lunar Mining Base Iteration](https://carpentry-liu.github.io/awesome-astra-3d/#case=cxuan-lunar-base) | cxuanAI / cxuan | 作者展示 |
 
-## 2026-09-09 · 42 个案例
+## 2026-09-09 · 36 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
-| [Rhine Lab：可抽取和拆解的三维档案 / Rhine Lab Analysis OS](https://carpentry-liu.github.io/awesome-astra-3d/#case=lbeilc-rhine-lab) | LBEILC | 源码 / 工程 · 演示入口 |
-| [Model X Studio：334 个网格的交互拆解 / Model X Studio](https://carpentry-liu.github.io/awesome-astra-3d/#case=ashe-model-x) | ashe / @ashebytes | 源码 / 工程 · 演示入口 · 完整视频 |
+| [Rhine Lab：可抽取和拆解的三维档案 / Rhine Lab Analysis OS](https://carpentry-liu.github.io/awesome-astra-3d/#case=lbeilc-rhine-lab) | LBEILC | 源码 / 工程 |
+| [Model X Studio：334 个网格的交互拆解 / Model X Studio](https://carpentry-liu.github.io/awesome-astra-3d/#case=ashe-model-x) | ashe / @ashebytes | 源码 / 工程 · 完整视频 |
 | [Microduck：机器人 CAD 装配探索台 / Microduck Assembly Lab](https://carpentry-liu.github.io/awesome-astra-3d/#case=tspy-microduck) | yishan / @tspy | 演示入口 · 完整视频 |
 | [Sugarfall：糖粒落下的草莓甜甜圈 / Sugarfall Donut Studio](https://carpentry-liu.github.io/awesome-astra-3d/#case=cwc-sugarfall) | CwC-HydeX | 源码 / 工程 |
 | [Asteria：在宇宙飞船里探索太阳系 / Asteria Spaceship Explorer](https://carpentry-liu.github.io/awesome-astra-3d/#case=wengsiong-asteria) | Weng Siong / @wengsiong22 | 演示入口 · 完整视频 |
@@ -202,7 +165,7 @@
 | [VRM 角色：Astra 补贴图、绑定与表情 / VRM Texturing and Rigging Workflow](https://carpentry-liu.github.io/awesome-astra-3d/#case=chimerast-vrm) | たけうちさん / chimerast | 提示词 / 过程 |
 | [Moonlit Forge：从 Blender 模型到交互展台 / Moonlit Forge Studio](https://carpentry-liu.github.io/awesome-astra-3d/#case=op7418-moonlit-forge) | 歸藏(guizang.ai) / @op7418 | 演示入口 · 完整视频 |
 | [Holo Card Studio：可编辑的全息闪卡 / Holo Card Studio](https://carpentry-liu.github.io/awesome-astra-3d/#case=everett-holo-card) | EverettFish / @everettfish0408 | 源码 / 工程 · 完整视频 |
-| [Human Atlas：人体部件的三维浏览界面 / Human Atlas](https://carpentry-liu.github.io/awesome-astra-3d/#case=ashe-human-atlas) | ashe / @ashebytes | 演示入口 · 完整视频 |
+| [Human Atlas：人体部件的三维浏览界面 / Human Atlas](https://carpentry-liu.github.io/awesome-astra-3d/#case=ashe-human-atlas) | ashe / @ashebytes | 完整视频 |
 | [Clouds in Motion：浏览器实时云层 / Clouds in Motion](https://carpentry-liu.github.io/awesome-astra-3d/#case=shinboson-clouds) | 𝞍 Shin Megami Boson 𝞍 / @shinboson | 演示入口 · 完整视频 |
 | [波音 777：着陆场景模拟展示 / Boeing 777 Landing Simulation](https://carpentry-liu.github.io/awesome-astra-3d/#case=lumina-777-landing) | Lumina / @LuminaBench | 完整视频 |
 | [Zork 3D：文字冒险变成地下城 / Zork 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=mollick-zork-3d) | Ethan Mollick / @emollick | 演示入口 · 完整视频 |
@@ -213,42 +176,33 @@
 | [九缸星型发动机：浏览器运动展示 / Nine-cylinder Radial Engine](https://carpentry-liu.github.io/awesome-astra-3d/#case=techartist-radial-engine) | Techartist / @techartist_ | 完整视频 |
 | [SpeedTree：印度芒果树与树皮材质 / Indian Mango in SpeedTree](https://carpentry-liu.github.io/awesome-astra-3d/#case=waitin4agi-speedtree) | Varun Mayya / @waitin4agi_ | 作者展示 |
 | [Cinema 4D：细分曲面与扫描对象建模 / Cinema 4D Subdivision and Sweep](https://carpentry-liu.github.io/awesome-astra-3d/#case=mojon-cinema4d) | モジョン / @mojon1 | 作者展示 |
-| [Azura：Astra 与 Claude Code 共建岛屿 / Azura Island](https://carpentry-liu.github.io/awesome-astra-3d/#case=orgxsm-azura) | Orgxsm | 源码 / 工程 |
-| [WorldKinetics：弧形柜门拉手的 CAD 迭代 / WorldKinetics CAD Handle](https://carpentry-liu.github.io/awesome-astra-3d/#case=benikigai-worldkinetics) | benikigai | 源码 / 工程 · 演示入口 |
 | [旅人步行：低多边形建模、绑定与 IK / Traveler Walk Modeling Playground](https://carpentry-liu.github.io/awesome-astra-3d/#case=mizchi-traveler-walk) | mizchi | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
 | [三视图到 Blender：硬表面外观模型实测 / Three-view to Editable Blender Model](https://carpentry-liu.github.io/awesome-astra-3d/#case=hooosberg-three-view) | 湖森堡AI_hooosberg | 作者展示 |
 | [Blender 白模到 Seedance：三维预演视频工作流 / Blender Blocking to Seedance Video](https://carpentry-liu.github.io/awesome-astra-3d/#case=deepwhite-seedance) | DeepWhite深白色 | 作者展示 |
 | [Realitizer：用 Swift 写蝠鲼和房屋 / Realitizer Swift Procedural Modeling](https://carpentry-liu.github.io/awesome-astra-3d/#case=koher-realitizer) | Yuta Koshizawa / koher | 源码 / 工程 · 提示词 / 过程 |
 | [照片到风格化半身像：逐轮修正比例 / Stylized Portrait Bust in Blender](https://carpentry-liu.github.io/awesome-astra-3d/#case=jin-stylized-bust) | Hiromitsu Jin | 提示词 / 过程 |
 | [参考图到飞船：Blender 与 3ds Max 实作 / Spaceship Modeling in Blender and 3ds Max](https://carpentry-liu.github.io/awesome-astra-3d/#case=ipentec-spaceship) | トリーニョ / iPentec | 提示词 / 过程 |
-| [C++ / Vulkan：自定义体素引擎实验 / Custom Voxel Engine](https://carpentry-liu.github.io/awesome-astra-3d/#case=lostreq-voxel-engine) | LostRequirement4828 | 作者展示 |
 | [木漏日社：可编辑的山林神社与昼夜动画 / KOMOREBI Shrine](https://carpentry-liu.github.io/awesome-astra-3d/#case=cwc-komorebi-shrine) | CwC / CwC-HydeX | 源码 / 工程 |
 | [Grand Atelier：可以弹奏的三维三角钢琴 / Grand Atelier](https://carpentry-liu.github.io/awesome-astra-3d/#case=anionex-grand-atelier) | anionex | 源码 / 工程 · 演示入口 |
 | [入画·汴京：走进清明上河图的虹桥与市井 / Bianjing Scroll Explorer](https://carpentry-liu.github.io/awesome-astra-3d/#case=rising-bianjing-scroll) | Rising1234Sun | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
 | [机械光圈对照：保留原始生成代码与失败记录 / Mechanical Iris Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=teshnizi-mechanical-iris) | teshnizi2 | 源码 / 工程 · 提示词 / 过程 |
 | [Jelly Baby：可以拉伸、抛掷和游玩的果冻角色 / Jelly Baby](https://carpentry-liu.github.io/awesome-astra-3d/#case=scottstts-jelly-baby) | Scott / @scottstts | 源码 / 工程 · 演示入口 · 完整视频 |
 | [首尔 3D Atlas：从地图数据搭建城市微缩景观 / Seoul 3D Atlas](https://carpentry-liu.github.io/awesome-astra-3d/#case=synabreu-seoul-atlas) | synabreu / @synabreu | 演示入口 · 完整视频 |
-| [Hullscope：拆开船体，观察系统与部件 / Hullscope](https://carpentry-liu.github.io/awesome-astra-3d/#case=cristian-hullscope) | Cristian Exer | 源码 / 工程 · 演示入口 |
 | [照片到 LEGO 风格角色：Blender 游戏资产实验 / Photo to LEGO-style Minifigure](https://carpentry-liu.github.io/awesome-astra-3d/#case=simonsmith-lego-minifig) | Simon Smith / @_simonsmith | 完整视频 · 提示词 / 过程 |
-| [Alpine Atlas：在马特洪峰查看地形与影像证据 / Alpine Atlas](https://carpentry-liu.github.io/awesome-astra-3d/#case=olivia-alpine-atlas) | oliviameng | 源码 / 工程 · 演示入口 |
-| [Lunar Surveyor：月面漫游与航天模型展台 / Lunar Surveyor](https://carpentry-liu.github.io/awesome-astra-3d/#case=onward-lunar-surveyor) | Onward0131 | 源码 / 工程 |
 | [电脑主机拆解：逐层查看核心部件 / Exploded Desktop Computer](https://carpentry-liu.github.io/awesome-astra-3d/#case=icooper-desktop-exploded) | cooper / @icooperhero | 完整视频 |
 | [儿童房兼工作区：用照片比较家具布局 / Room Layout Planner](https://carpentry-liu.github.io/awesome-astra-3d/#case=dqlh-room-planner) | かのこ🌼AI×子育て×探究 / @dqlh47m | 完整视频 |
 
-## 2026-09-08 · 8 个案例
+## 2026-09-08 · 5 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
-| [BelugaXL Explorer：可拆解的白鲸运输机 / BelugaXL Explorer](https://carpentry-liu.github.io/awesome-astra-3d/#case=victoria-belugaxl-explorer) | Victoria Drake | 源码 / 工程 · 演示入口 |
 | [Softie：可以揉捏的 WebGPU 史莱姆 / Softie](https://carpentry-liu.github.io/awesome-astra-3d/#case=yuanyang-softie-webgpu) | 码农暖爸 / Delroy715 / yuanyang749 | 源码 / 工程 · 演示入口 |
 | [Inside Lloyd’s：拆开伦敦劳合社建筑 / Inside Lloyd’s](https://carpentry-liu.github.io/awesome-astra-3d/#case=cristian-inside-lloyds) | Cristian Exer | 源码 / 工程 · 演示入口 |
-| [Splashline：热带水滑道竞速 / Splashline](https://carpentry-liu.github.io/awesome-astra-3d/#case=kjlkurt-splashline) | KJLKurt | 源码 / 工程 · 演示入口 |
 | [曲柄滑块教材：CadQuery 参数化装配 / Educational Slider–Crank Mechanism](https://carpentry-liu.github.io/awesome-astra-3d/#case=sawamura-slider-crank) | Sawamura-Jun | 源码 / 工程 |
 | [Pulsebreak：Godot 原生三维竞技场实验 / Pulsebreak](https://carpentry-liu.github.io/awesome-astra-3d/#case=xindomusic-pulsebreak) | xindomusic | 源码 / 工程 · 提示词 / 过程 |
 | [Robo Open：Unity 机器人网球与绑定迭代 / Robo Open](https://carpentry-liu.github.io/awesome-astra-3d/#case=az9713-robo-open) | az9713 | 源码 / 工程 · 提示词 / 过程 |
-| [Minecrack：六边形群岛中的生存建造 / Minecrack](https://carpentry-liu.github.io/awesome-astra-3d/#case=anisayari-minecrack) | Anis Ayari | 源码 / 工程 |
 
-## 2026-09-07 · 24 个案例
+## 2026-09-07 · 21 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
@@ -270,14 +224,11 @@
 | [Rain Court：Blender 角色驱动的生存射击 / Rain Court // Survivor](https://carpentry-liu.github.io/awesome-astra-3d/#case=ian-rain-court) | IanOliverU | 源码 / 工程 |
 | [Civilization Lab：同题三维文明模拟对照 / WHAT IF? Civilization Lab](https://carpentry-liu.github.io/awesome-astra-3d/#case=cagri-civilization-lab) | Cagri Kacmaz | 提示词 / 过程 |
 | [Blender 甜甜圈：中文作者建模尝试 / Blender Donut Experiment](https://carpentry-liu.github.io/awesome-astra-3d/#case=guizang-blender-donut) | 歸藏的AI工具箱 | 作者展示 |
-| [Godot 末世场景：既有素材与 Blender MCP / Post-Apocalyptic Godot Scene](https://carpentry-liu.github.io/awesome-astra-3d/#case=reddit-godot-wasteland) | DarthOrganism | 作者展示 |
 | [HELIOS：太阳与戴森球概念场景 / HELIOS Stellar Collector](https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-helios-collector) | Thomas Ricouard | 提示词 / 过程 |
 | [AURELION-07：可编辑科幻巡洋舰 / AURELION-07 Shipyard](https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-aurelion-shipyard) | Thomas Ricouard | 提示词 / 过程 |
 | [Giverny：莫奈花园灵感的三维场景 / Giverny Water Garden](https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-giverny-garden) | Thomas Ricouard | 提示词 / 过程 |
-| [BREACH：三维第一人称生存射击 / BREACH — Blacksite](https://carpentry-liu.github.io/awesome-astra-3d/#case=alesha-breach-blacksite) | alesha-pro | 源码 / 工程 · 演示入口 |
-| [RIG / 3090：滚动拆解显卡工作站 / RIG / 3090 — Anatomy of a Rig](https://carpentry-liu.github.io/awesome-astra-3d/#case=alesha-rig-3090) | alesha-pro | 源码 / 工程 · 演示入口 |
 
-## 2026-09-06 · 29 个案例
+## 2026-09-06 · 26 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
@@ -304,9 +255,6 @@
 | [房源照片转三维住宅与宣传视频](https://carpentry-liu.github.io/awesome-astra-3d/#case=yunfan-zillow-house) | Yunfan Ye (@realYunfanYe) | 完整视频 |
 | [从 Blender 船模到 4K 海上场景](https://carpentry-liu.github.io/awesome-astra-3d/#case=ben-ship-render) | Ben Davis (@davis7) | 完整视频 |
 | [概念图引导 3D 游戏：截图迭代工作流](https://carpentry-liu.github.io/awesome-astra-3d/#case=anshu-concept-to-game) | Anshu (@anshuc)；Reddit 转引者 stealthispost | 完整视频 · 提示词 / 过程 |
-| [Game Boy Advance SP 作品集：翻盖与可用按钮](https://carpentry-liu.github.io/awesome-astra-3d/#case=manu-gbasp-portfolio) | ManuVision (@ManuVision) | 演示入口 · 提示词 / 过程 |
 | [3D 时装设计游戏：换装、发型与走秀](https://carpentry-liu.github.io/awesome-astra-3d/#case=claire-fashion-game) | Claire Vo / How I AI | 提示词 / 过程 |
 | [家庭任务世界：把家务清单变成 3D 探索](https://carpentry-liu.github.io/awesome-astra-3d/#case=claire-family-journey) | Claire Vo / How I AI | 提示词 / 过程 |
-| [Blender 游戏资产对比：Astra 与 Fable 5.1](https://carpentry-liu.github.io/awesome-astra-3d/#case=reddit-blender-car-comparison) | curious_capsuleer | 作者展示 |
-| [失败样本：猎豹绑定与奔跑动画](https://carpentry-liu.github.io/awesome-astra-3d/#case=reddit-cheetah-rig-failure) | Legitimate-Room-1905 | 提示词 / 过程 |
 | [Godot 3D Sonic：Medium 与 Max 对照](https://carpentry-liu.github.io/awesome-astra-3d/#case=aibattle-sonic-godot) | AiBattle (@AiBattle_)；Reddit 转引者 stealthispost | 完整视频 · 提示词 / 过程 |

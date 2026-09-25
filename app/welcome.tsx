@@ -21,7 +21,7 @@ export function Welcome({
   const [failedImages, setFailedImages] = useState<string[]>([]);
   const astra = cases.filter((c) => c.group === 'astra');
   const latest = astra
-    .map((c) => c.addedAt)
+    .map((c) => c.observedAt)
     .sort()
     .at(-1)!;
   const resources = [

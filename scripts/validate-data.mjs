@@ -17,6 +17,8 @@ for(const c of cases){
  if(c.demoUrl)assert(!/youtube\.com|youtu\.be|\.(mp4|webm)(\?|$)/i.test(c.demoUrl),`${c.id}: video is not a live demo`);
  assert(c.outputType.length>0);if(c.promptExcerpt)assert(c.promptExcerpt.trim().split(/\s+/).length<=25,`${c.id}: excerpt exceeds 25 words`);
  if(c.imageUrl)assert(c.imageCaption&&c.imageKind);
+ assert(c.imageUrl || c.archivedVideos?.length,`${c.id}: a visible image or archived video is required; source/demo links alone are not a preview`);
+ if(!c.archivedVideos?.length)assert(!c.outputType.includes('完整运行录像'),`${c.id}: no archive for the complete recording label`);
  for(const video of c.archivedVideos??[]){
   for(const key of ['playbackUrl','downloadUrl','sourceUrl'])validUrl(video[key]);
   if(video.posterUrl)validUrl(video.posterUrl);

@@ -340,7 +340,7 @@ export default function Home() {
                   ) : (
                     item.imageUrl && (
                       <span className="image-kind">
-                        {imageKinds[item.imageKind] ?? '来源媒体'}
+                        {item.imageKind === 'video-poster' ? '效果图（静态）' : (imageKinds[item.imageKind] ?? '来源媒体')}
                       </span>
                     )
                   )}
@@ -636,11 +636,6 @@ export default function Home() {
                 {selected.repositoryUrl && (
                   <OutLink href={selected.repositoryUrl}>
                     源码 <Code2 size={16} />
-                  </OutLink>
-                )}
-                {selected.videoUrl && (
-                  <OutLink href={selected.videoUrl}>
-                    观看视频 <Play size={16} />
                   </OutLink>
                 )}
                 <button onClick={copyCase}>

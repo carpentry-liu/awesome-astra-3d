@@ -25,3 +25,4 @@
 - [2026-09-23：三条混合工作流案例与来源边界](features/F-0015-daily-sep23/README.md)。
 - [2026-09-24：房间对照、Tripo 龙骨模型与 Godot ARPG](features/F-0016-daily-sep24/README.md)。
 - [2026-09-25：动画对照、人物建模局限与混合角色流程](features/F-0017-daily-sep25/README.md)。
+- [移除不可查看的案例、媒体全库核验与播放修复](features/F-0018-visible-cases/README.md)。
