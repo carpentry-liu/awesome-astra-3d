@@ -17,3 +17,12 @@
 - `work/audit-sep25.py`：新增对照页可达，含作者标注的 Astra iframe；未独立复现全部动画或模型排名。
 - 浏览器检查桌面首页、最新列表与手机版，控制台 warning/error 为空。实际截图 1425×1089、1425×1089、375×812；首次导航超时后页面正常显示并通过检查。
 - `work/document-sep25.py`：旧数据不变核对、增量链接审计、截图说明更新完成。
+
+## 发布验证
+
+- 内容提交 `4d50ca8b5cb5b53112fdab48515346a898ab5a94` 已推送 main。
+- `work/about-sep25.py`：公开仓库 About 更新为 229 条 Astra 案例、65 工程、104 演示入口与 97 完整录像；主页链接和 20 个主题保留。
+- `work/readme-check-sep25.py`：远端中英文 README 与本地一致；渲染页 9 张图片引用正常，3 张新截图字节一致。
+- `work/ci-sep25.py`：[Pages 工作流 36086270963](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/36086270963) 的 build、deploy 均 success。
+- 使用 Python urllib 请求线上 `cases.json` 并与本地解析结果比较：241 条，完全一致；证据存于忽略目录 `work/refresh-2026-09-25/pages-check.json`。
+- ChatGPT / Sites 未部署。
