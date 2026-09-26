@@ -16,3 +16,11 @@
 - 浏览器页面真实加载：静默子午线 1440 × 900，How to Suck 794 × 446；控制台 warn/error 为空。演示站首页可见，未声称通关或验证完整玩法。
 - 首页、最新列表和手机截图已实拍并检查；手机无横向溢出。截图见 docs/media，README 中英文均使用本次图片。
 - 当前 194 条 Astra、12 条参考、53 条源码、83 个演示入口、97 段归档视频。原媒体全量检查仍标记 9 月 25 日，今日只追加两图的增量证据。
+
+## 发布结果
+
+- 内容提交 `8a0bb08` 已推送 main；[GitHub Actions 36214199020](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/36214199020) 的 build / deploy 均成功。
+- `python work/published-sep26.py`：正式站 cases.json 与本地 206 条逐对象一致，两件新增作品位于最新列表开头。
+- `python work/readme-check-sep26.py`：GitHub 渲染 README 包含 9 张图；中英文 README 与本地一致，三张实拍截图远端字节一致。
+- `python work/about-sep26.py`：公开仓库 About 已同步 194 / 53 / 83 / 97 与 GitHub Pages 入口。
+- 临时预览页和本次本地开发服务已关闭；未部署 ChatGPT Sites。
