@@ -26,3 +26,4 @@
 - [2026-09-24：房间对照、Tripo 龙骨模型与 Godot ARPG](features/F-0016-daily-sep24/README.md)。
 - [2026-09-25：动画对照、人物建模局限与混合角色流程](features/F-0017-daily-sep25/README.md)。
 - [移除不可查看的案例、媒体全库核验与播放修复](features/F-0018-visible-cases/README.md)。
+- [9 月 26 日：两件有实际预览的开源游戏](features/F-0019-daily-sep26/README.md)。

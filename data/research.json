@@ -1025,6 +1025,35 @@
           "reason": "Primary article HTTP 403; this pass did not establish 3D rendering, retained as lead."
         }
       ]
+    },
+    {
+      "observedAt": "2026-09-26",
+      "batch": "daily-sep26-visible",
+      "addedCount": 2,
+      "caseIds": [
+        "stackloom-silent-meridian",
+        "breineng-how-to-suck"
+      ],
+      "sources": [
+        "https://github.com/stackloomdev/silent-meridian",
+        "https://github.com/breineng/how-to-suck"
+      ],
+      "method": "Search GitHub, X, Reddit, creator blogs and EvolveLAB; inspect primary attribution and actual output images.",
+      "excluded": [
+        {
+          "source": "https://drleeworks.com/en/computing/astra-blender/",
+          "reason": "Result image returned HTTP 403."
+        },
+        {
+          "source": "https://forum.evolvelab.io/t/veras-5-2-agentic-modeling-with-astra-opus/11479",
+          "reason": "Inspected gallery image does not establish which model generated the particular output; keep as a lead."
+        }
+      ],
+      "notes": [
+        "No newly verified X recording selected.",
+        "No ChatGPT Sites deployment.",
+        "Existing 204 cases and 97 clips unchanged."
+      ]
     }
   ]
 }

@@ -1,5 +1,94 @@
 [
   {
+    "id": "stackloom-silent-meridian",
+    "title": "静默子午线：插画场景与程序化三维机关",
+    "titleEn": "Silent Meridian — Illustrated Puzzles with Procedural 3D",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "stackloomdev",
+    "sourceUrl": "https://github.com/stackloomdev/silent-meridian",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-26",
+    "addedAt": "2026-09-26",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者仓库与创作说明",
+    "evidenceNote": "作者明确声明 Astra 参与；未独立复现制作过程。",
+    "sourceAccess": "读取 README 与 CREATION.md；其中 2026-09-09 是版本记录日期，不据此推断作品首发日。",
+    "summary": "作者与 Astra 多轮协作制作场景解谜游戏，公开源码及在线入口。图像生成工具制作背景插画，代码生成青铜环、水晶、粒子与景深效果；Astra 参与逻辑、界面和 WebGL 实现。四章十三道谜题及测试结果为作者记录。它采用场景点击操作，不是可自由走动的全三维世界；本次核对截图与入口，未独立验证全部谜题。",
+    "outputType": [
+      "程序化 WebGL 视效",
+      "插画与三维混合场景",
+      "开源网页解谜"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://raw.githubusercontent.com/stackloomdev/silent-meridian/main/docs/screenshots/depth-observatory.png",
+    "imageKind": "gameplay-screenshot",
+    "imageCaption": "作者仓库的观测站实机截图；背景为独立生成插画，青铜机关与粒子为程序化三维效果。",
+    "demoUrl": "https://silent-meridian.stackloom.org/",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/stackloomdev/silent-meridian",
+    "evidenceUrls": [
+      "https://github.com/stackloomdev/silent-meridian",
+      "https://github.com/stackloomdev/silent-meridian/blob/main/docs/CREATION.md"
+    ],
+    "licenseNotes": "作品与媒体归原作者，媒体不纳入本库 MIT 许可；源码复用遵循作者仓库许可。",
+    "outcome": "未独立通关；保留作者关于插画背景、3D 叠加及非自由漫游的说明。"
+  },
+  {
+    "id": "breineng-how-to-suck",
+    "title": "How to Suck：吸尘器驱动的三维合作游戏",
+    "titleEn": "How to Suck — Vacuum-powered Unity Co-op",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub",
+      "itch.io"
+    ],
+    "author": "breineng",
+    "sourceUrl": "https://github.com/breineng/how-to-suck",
+    "sourceDate": "2026-09-14",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-26",
+    "addedAt": "2026-09-26",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者仓库与创作说明",
+    "evidenceNote": "作者明确声明 Astra 参与；未独立复现制作过程。",
+    "sourceAccess": "读取作者 README、itch.io 页面和实机截图；itch.io 明确标注 2026-09-14 发布。下载版不是浏览器试玩，不计入 demoUrl。",
+    "summary": "作者公开 Unity 第一人称合作游戏：用吸尘器收集物品、把战利品作为弹药，并在限时合同中完成搬运。README 将代码、Blender 模型和动画归于 Astra；音效另用 ElevenLabs。全自动开发、39 小时首轮耗时为作者自述。Windows 下载版与源码可查，联机仍在测试，本站提供实机截图，未独立运行或验证多人玩法。",
+    "outputType": [
+      "Unity 三维游戏",
+      "Blender 模型与动画",
+      "Windows 下载版"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://img.itch.zone/aW1hZ2UvNDk5Mzc4MS8yOTg5NzkxOC5qcGc=/794x1000/0rb4Ox.jpg",
+    "imageKind": "gameplay-screenshot",
+    "imageCaption": "作者发布的实际游戏截图；静态预览，不标为本站完整录像。",
+    "demoUrl": null,
+    "videoUrl": "https://www.youtube.com/watch?v=tvfLzNi_Xsw",
+    "repositoryUrl": "https://github.com/breineng/how-to-suck",
+    "evidenceUrls": [
+      "https://github.com/breineng/how-to-suck",
+      "https://breineng.itch.io/how-to-suck"
+    ],
+    "licenseNotes": "作品与媒体归原作者，媒体不纳入本库 MIT 许可；源码复用遵循作者仓库许可。",
+    "outcome": "作者展示；本库未安装运行 Unity 工程或独立验证完整游戏流程。"
+  },
+  {
     "id": "kenny-stillwater",
     "title": "Stillwater：可以喂鱼的三维水族箱",
     "titleEn": "Stillwater Aquarium",

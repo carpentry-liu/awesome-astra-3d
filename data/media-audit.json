@@ -5058,5 +5058,33 @@
     "aaron-starship-foundry",
     "timlb-tideglass-hunt",
     "chongdashu-canteen-crashers"
+  ],
+  "incrementalChecks": [
+    {
+      "checkedAt": "2026-09-26",
+      "scope": "Two newly added preview images only; HTTP image bytes and actual gallery browser natural dimensions. Previous 204 entries and all archived video records unchanged. Full Sep25 audit timestamp retained.",
+      "results": [
+        {
+          "caseId": "stackloom-silent-meridian",
+          "url": "https://raw.githubusercontent.com/stackloomdev/silent-meridian/main/docs/screenshots/depth-observatory.png",
+          "status": 200,
+          "contentType": "image/png",
+          "bytes": 1458991,
+          "browserLoaded": true,
+          "naturalWidth": 1440,
+          "naturalHeight": 900
+        },
+        {
+          "caseId": "breineng-how-to-suck",
+          "url": "https://img.itch.zone/aW1hZ2UvNDk5Mzc4MS8yOTg5NzkxOC5qcGc=/794x1000/0rb4Ox.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 99415,
+          "browserLoaded": true,
+          "naturalWidth": 794,
+          "naturalHeight": 446
+        }
+      ]
+    }
   ]
 }

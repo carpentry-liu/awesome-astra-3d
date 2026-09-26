@@ -2,6 +2,13 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-09-26 · 2 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [静默子午线：插画场景与程序化三维机关 / Silent Meridian — Illustrated Puzzles with Procedural 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=stackloom-silent-meridian) | stackloomdev | 源码 / 工程 · 演示入口 |
+| [How to Suck：吸尘器驱动的三维合作游戏 / How to Suck — Vacuum-powered Unity Co-op](https://carpentry-liu.github.io/awesome-astra-3d/#case=breineng-how-to-suck) | breineng | 源码 / 工程 |
+
 ## 2026-09-22 · 5 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
