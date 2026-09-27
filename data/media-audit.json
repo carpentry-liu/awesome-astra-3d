@@ -5085,6 +5085,24 @@
           "naturalHeight": 446
         }
       ]
+    },
+    {
+      "checkedAt": "2026-09-27",
+      "scope": "Only two new result images, browser-loaded at native dimensions. Existing 206 records and all 97 archived clips unchanged; previous full audit date retained.",
+      "results": [
+        {
+          "height": 705,
+          "loaded": true,
+          "url": "https://arxiv.org/html/2609.28061v1/fig_benchmark_models_04_1_render.png",
+          "width": 940
+        },
+        {
+          "height": 900,
+          "loaded": true,
+          "url": "https://canada1.discourse-cdn.com/flex035/uploads/threejs/original/3X/9/e/9ea420c0428450136648e842ad208b0fdab46f80.jpeg",
+          "width": 1440
+        }
+      ]
     }
   ]
 }

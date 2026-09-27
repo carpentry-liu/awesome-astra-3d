@@ -2,6 +2,13 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-09-27 · 2 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [AstraLOD3：从多视图证据重建建筑 / AstraLOD3 — Evidence-driven Building Reconstruction](https://carpentry-liu.github.io/awesome-astra-3d/#case=pantoja-astralod3) | Bryan G. Pantoja-Rosero | 提示词 / 过程 |
+| [Old Circle：暗黑动作游戏的迭代与建模局限 / Old Circle — Iterative Action RPG Prototype](https://carpentry-liu.github.io/awesome-astra-3d/#case=usnul-old-circle) | Usnul | 源码 / 工程 |
+
 ## 2026-09-26 · 2 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

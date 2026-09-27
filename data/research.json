@@ -1054,6 +1054,26 @@
         "No ChatGPT Sites deployment.",
         "Existing 204 cases and 97 clips unchanged."
       ]
+    },
+    {
+      "observedAt": "2026-09-27",
+      "batch": "daily-sep27-visible",
+      "addedCount": 2,
+      "caseIds": [
+        "pantoja-astralod3",
+        "usnul-old-circle"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2609.28061",
+        "https://discourse.threejs.org/t/come-piggies-i-got-slop/94232"
+      ],
+      "method": "Search GitHub, X, Reddit, creator blogs, three.js forum and arXiv; inspect primary attribution and actual result images.",
+      "notes": [
+        "No verified new X recording selected.",
+        "AstraLOD3 repository 404; no repository or demo link counted.",
+        "Existing 206 cases and 97 clips unchanged.",
+        "No ChatGPT Sites deployment."
+      ]
     }
   ]
 }

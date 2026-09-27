@@ -1,13 +1,48 @@
 # 案例目录
 
-由 `data/cases.json` 生成。最近核查：2026-09-26。[上手路线](START_HERE.md) · [最新收录](UPDATES.md)。作品归属基于公开来源，不代表独立复现。
+由 `data/cases.json` 生成。最近核查：2026-09-27。[上手路线](START_HERE.md) · [最新收录](UPDATES.md)。作品归属基于公开来源，不代表独立复现。
 
-## GPT-6 Astra 案例（194）
+## GPT-6 Astra 案例（196）
+
+### 建筑与室内
+
+| 作品 | 作者 / 来源 | 证据 | 产物与过程 |
+|---|---|---|---|
+| [AstraLOD3：从多视图证据重建建筑](https://arxiv.org/abs/2609.28061) | Bryan G. Pantoja-Rosero · arXiv | 作者自述 | [提示词/过程](https://arxiv.org/html/2609.28061v1#A1) |
+| [Solace：从建筑概念到 Blender 与 UE5 漫游](https://developers.openai.com/blog/architectural-visualization-with-astra) | Thomas Ricouard · OpenAI | 官方展示 | [视频](https://cdn.openai.com/devhub/blog/architectural-visualization/atelier-house-tour-30s-1080p-ddb8f2c81368.webm) · [提示词/过程](https://developers.openai.com/blog/architectural-visualization-with-astra) |
+| [1893 芝加哥世博会：历史图像到三维漫游](https://x.com/moreisdifferent/status/2098795017955418202) | Dan Elton / @moreisdifferent · X | 转引待复核 | [视频](https://x.com/moreisdifferent/status/2098795017955418202) |
+| [Rhino 建筑：参考图到分层模型](https://www.bilibili.com/video/BV1owbN67E4M/) | AIRIlab · Bilibili | 作者自述 | [视频](https://www.bilibili.com/video/BV1owbN67E4M/) |
+| [Realsee：实景扫描到可编辑空间](https://github.com/realsee-developer/realsee-astra-blender) | realsee-developer · GitHub | 作者自述 | [在线作品](https://realsee-developer.github.io/realsee-astra-blender/) · [源码](https://github.com/realsee-developer/realsee-astra-blender) · [视频](https://github.com/realsee-developer/realsee-astra-blender/blob/main/artifacts/reconstruction_roaming.mp4) · [提示词/过程](https://github.com/realsee-developer/realsee-astra-blender/blob/main/prompts/quickstart.en.md) |
+| [仙林校园：Blender 漫游与建筑摄影](https://github.com/super-xinz/nju-xianlin-campus-3d) | super-xinz · GitHub | 作者自述 | [源码](https://github.com/super-xinz/nju-xianlin-campus-3d) · [视频](https://github.com/super-xinz/nju-xianlin-campus-3d/releases/download/v5.2/xianlin-campus-film-v5.2.mp4) |
+| [Madison Square Park：Unreal 场景对照](https://x.com/EnactraAI/status/2097777259382018088) | Enactra AI / @EnactraAI · X | 转引待复核 | [视频](https://x.com/EnactraAI/status/2097777259382018088) |
+| [9 张照片到工作室：空间重建与交互](https://x.com/rpnickson/status/2097488440489116111) | Roberto Nickson / @rpnickson · X | 转引待复核 | [视频](https://x.com/rpnickson/status/2097488440489116111) |
+| [立方体城市：图像参考与 Blender 建模](https://x.com/old_pgmrs_will/status/2097506064078147861) | いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram / @old_pgmrs_will · X | 转引待复核 | [视频](https://x.com/old_pgmrs_will/status/2097506064078147861) |
+| [塔林旧城：场景资产、三维预演与 H3 成片](https://x.com/yachimat_manga/status/2097810202762285265) | yachimat - AI Short Anime / @yachimat_manga · X | 转引待复核 | [视频](https://x.com/yachimat_manga/status/2097810202762285265) |
+| [书桌一角：Blender 工程与实时网页](https://github.com/magicyan418/3D-ROOM-TEST) | magicyan418 · GitHub | 作者自述 | [在线作品](https://3-d-room-test.vercel.app) · [源码](https://github.com/magicyan418/3D-ROOM-TEST) |
+| [祈年殿：Three.js 建筑展示](https://x.com/goan999999/status/2097323734504017936) | govin.eth \| G哥 / @goan999999 · X | 转引待复核 | [视频](https://x.com/goan999999/status/2097323734504017936) |
+| [同户型四种家装：Astra 与 Fable 对照](https://github.com/hahaliu1029/house-3d) | hahaliu1029 · GitHub | 作者自述 | [在线作品](https://www.lyx666.cn/housegpt/?style=song) · [源码](https://github.com/hahaliu1029/house-3d/tree/main/gpt6) · [视频](https://github.com/hahaliu1029/house-3d/blob/main/media/videos/house-realistic-comparison-plan-music.mp4) |
+| [山间村落：参考图与地形场景联动](https://x.com/TaroKichijo/status/2097167383576383502) | Kichitaro (Kichi Shotaro) / @TaroKichijo · X | 转引待复核 | [视频](https://x.com/TaroKichijo/status/2097167383576383502) · [提示词/过程](https://x.com/TaroKichijo/status/2097167383576383502) |
+| [手机照片到建筑：Blender 重建实验](https://x.com/badxstudio/status/2095982983379653113) | Bad Decisions Studio / @badxstudio · X | 转引待复核 | [视频](https://x.com/badxstudio/status/2095982983379653113) |
+| [街景生成与拆解：保留不完善结果](https://x.com/Yokohara_h/status/2096622171011666003) | Hirokazu Yokohara / @Yokohara_h · X | 转引待复核 | [视频](https://x.com/Yokohara_h/status/2096622171011666003) |
+| [艺术宫：Blender 建筑场景](https://x.com/sharifshameem/status/2095653641164329143) | Sharif Shameem / @sharifshameem · X | 转引待复核 | [视频](https://x.com/sharifshameem/status/2095653641164329143) |
+| [杭州微缩城：地标与昼夜切换](https://x.com/NFT_Chen/status/2096143589151756638) | SuSu_酥酥👅 / @NFT_Chen · X | 转引待复核 | [视频](https://x.com/NFT_Chen/status/2096143589151756638) |
+| [新加坡街头：手机视角的浏览器场景](https://x.com/birdabo/status/2096156461365960837) | sui / @birdabo · X | 转引待复核 | [视频](https://x.com/birdabo/status/2096156461365960837) |
+| [Piața Unirii：同一简报的体素广场对照](https://x.com/danmana/status/2096262733259837681) | Dan Manastireanu / @danmana · X | 转引待复核 | [在线作品](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [源码](https://github.com/danmana/piata-unirii) · [视频](https://x.com/danmana/status/2096262733259837681) · [提示词/过程](https://github.com/danmana/piata-unirii/blob/main/prompt.md) |
+| [航拍废模修复：从单栋建筑到园区](https://www.bilibili.com/video/BV1U9bW6sEw4/) | 莽小石 · Bilibili | 作者自述 | [视频](https://www.bilibili.com/video/BV1U9bW6sEw4/) |
+| [泰姬陵：Blender 建筑渲染](https://x.com/senthilnayagam/status/2096543077917986823) | Senthil Nayagam / @senthilnayagam · X | 转引待复核 | [视频](https://x.com/senthilnayagam/status/2096543077917986823) |
+| [旧金山联合广场：可漫游的 Three.js 城市场景](https://github.com/PhiloLabs/fable51-worlds/tree/main/union-square-sf-gpt-astra) | PhiloLabs / VerizonCao · GitHub | 作者自述 | [源码](https://github.com/PhiloLabs/fable51-worlds/tree/main/union-square-sf-gpt-astra) · [视频](https://github.com/PhiloLabs/fable51-worlds/blob/main/union-square-sf-gpt-astra/media/fable51-vs-gpt6-astra-union-square.mp4) · [提示词/过程](https://github.com/PhiloLabs/fable51-worlds/tree/main/union-square-sf-gpt-astra) |
+| [Courtyard House：可剖切的庭院住宅](https://developers.openai.com/showcase/courtyard-house) | Katia Gil Guzman, OpenAI · OpenAI | 官方展示 | [在线作品](https://alder-courtyard-house.openai.chatgpt.site/) · [提示词/过程](https://developers.openai.com/showcase/courtyard-house) |
+| [房源照片转三维住宅与宣传视频](https://x.com/realYunfanYe/status/2095612137582526615) | Yunfan Ye (@realYunfanYe) · X | 转引待复核 | [视频](https://x.com/realYunfanYe/status/2095612137582526615) |
+| [摄影测量扫描重建可编辑客厅](https://x.com/bilawalsidhu/status/2096092080397246707) | Bilawal Sidhu · X | 转引待复核 | [视频](https://x.com/bilawalsidhu/status/2096092080397246707) |
+| [儿童房兼工作区：用照片比较家具布局](https://x.com/dqlh47m/status/2096578684010508736) | かのこ🌼AI×子育て×探究 / @dqlh47m · X | 转引待复核 | [视频](https://x.com/dqlh47m/status/2096578684010508736) |
+| [Giverny：莫奈花园灵感的三维场景](https://developers.openai.com/blog/architectural-visualization-with-astra) | Thomas Ricouard · OpenAI | 官方展示 | [提示词/过程](https://developers.openai.com/blog/architectural-visualization-with-astra#design-beyond-architecture) |
+| [Inside Lloyd’s：拆开伦敦劳合社建筑](https://github.com/cristianexer/Lloyds-of-London-3D-building) | Cristian Exer · GitHub | 作者自述 | [在线作品](https://lloyds.cristianexer.dev/) · [源码](https://github.com/cristianexer/Lloyds-of-London-3D-building) |
 
 ### 3D 游戏
 
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
+| [Old Circle：暗黑动作游戏的迭代与建模局限](https://discourse.threejs.org/t/come-piggies-i-got-slop/94232) | Usnul · 开发者社区 | 作者自述 | [源码](https://github.com/Usnul/old-circle) |
 | [静默子午线：插画场景与程序化三维机关](https://github.com/stackloomdev/silent-meridian) | stackloomdev · GitHub | 作者自述 | [在线作品](https://silent-meridian.stackloom.org/) · [源码](https://github.com/stackloomdev/silent-meridian) |
 | [How to Suck：吸尘器驱动的三维合作游戏](https://github.com/breineng/how-to-suck) | breineng · GitHub | 作者自述 | [源码](https://github.com/breineng/how-to-suck) · [视频](https://www.youtube.com/watch?v=tvfLzNi_Xsw) |
 | [Cabsolutely：在城市街区开出租车](https://x.com/ailker/status/2100705949468000655) | ilker / @ailker · X | 转引待复核 | [在线作品](https://cabsolutely.vercel.app/) · [源码](https://github.com/ilkerzg/cabsolutely) · [视频](https://x.com/ailker/status/2100705949468000655) |
@@ -126,39 +161,6 @@
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
 | [Object Lab：十五个滚动驱动三维故事](https://github.com/SafaElmali/interactive-3d-lab) | SafaElmali · GitHub | 作者自述 | [在线作品](https://object-lab-3d.netlify.app) · [源码](https://github.com/SafaElmali/interactive-3d-lab) |
-
-### 建筑与室内
-
-| 作品 | 作者 / 来源 | 证据 | 产物与过程 |
-|---|---|---|---|
-| [Solace：从建筑概念到 Blender 与 UE5 漫游](https://developers.openai.com/blog/architectural-visualization-with-astra) | Thomas Ricouard · OpenAI | 官方展示 | [视频](https://cdn.openai.com/devhub/blog/architectural-visualization/atelier-house-tour-30s-1080p-ddb8f2c81368.webm) · [提示词/过程](https://developers.openai.com/blog/architectural-visualization-with-astra) |
-| [1893 芝加哥世博会：历史图像到三维漫游](https://x.com/moreisdifferent/status/2098795017955418202) | Dan Elton / @moreisdifferent · X | 转引待复核 | [视频](https://x.com/moreisdifferent/status/2098795017955418202) |
-| [Rhino 建筑：参考图到分层模型](https://www.bilibili.com/video/BV1owbN67E4M/) | AIRIlab · Bilibili | 作者自述 | [视频](https://www.bilibili.com/video/BV1owbN67E4M/) |
-| [Realsee：实景扫描到可编辑空间](https://github.com/realsee-developer/realsee-astra-blender) | realsee-developer · GitHub | 作者自述 | [在线作品](https://realsee-developer.github.io/realsee-astra-blender/) · [源码](https://github.com/realsee-developer/realsee-astra-blender) · [视频](https://github.com/realsee-developer/realsee-astra-blender/blob/main/artifacts/reconstruction_roaming.mp4) · [提示词/过程](https://github.com/realsee-developer/realsee-astra-blender/blob/main/prompts/quickstart.en.md) |
-| [仙林校园：Blender 漫游与建筑摄影](https://github.com/super-xinz/nju-xianlin-campus-3d) | super-xinz · GitHub | 作者自述 | [源码](https://github.com/super-xinz/nju-xianlin-campus-3d) · [视频](https://github.com/super-xinz/nju-xianlin-campus-3d/releases/download/v5.2/xianlin-campus-film-v5.2.mp4) |
-| [Madison Square Park：Unreal 场景对照](https://x.com/EnactraAI/status/2097777259382018088) | Enactra AI / @EnactraAI · X | 转引待复核 | [视频](https://x.com/EnactraAI/status/2097777259382018088) |
-| [9 张照片到工作室：空间重建与交互](https://x.com/rpnickson/status/2097488440489116111) | Roberto Nickson / @rpnickson · X | 转引待复核 | [视频](https://x.com/rpnickson/status/2097488440489116111) |
-| [立方体城市：图像参考与 Blender 建模](https://x.com/old_pgmrs_will/status/2097506064078147861) | いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram / @old_pgmrs_will · X | 转引待复核 | [视频](https://x.com/old_pgmrs_will/status/2097506064078147861) |
-| [塔林旧城：场景资产、三维预演与 H3 成片](https://x.com/yachimat_manga/status/2097810202762285265) | yachimat - AI Short Anime / @yachimat_manga · X | 转引待复核 | [视频](https://x.com/yachimat_manga/status/2097810202762285265) |
-| [书桌一角：Blender 工程与实时网页](https://github.com/magicyan418/3D-ROOM-TEST) | magicyan418 · GitHub | 作者自述 | [在线作品](https://3-d-room-test.vercel.app) · [源码](https://github.com/magicyan418/3D-ROOM-TEST) |
-| [祈年殿：Three.js 建筑展示](https://x.com/goan999999/status/2097323734504017936) | govin.eth \| G哥 / @goan999999 · X | 转引待复核 | [视频](https://x.com/goan999999/status/2097323734504017936) |
-| [同户型四种家装：Astra 与 Fable 对照](https://github.com/hahaliu1029/house-3d) | hahaliu1029 · GitHub | 作者自述 | [在线作品](https://www.lyx666.cn/housegpt/?style=song) · [源码](https://github.com/hahaliu1029/house-3d/tree/main/gpt6) · [视频](https://github.com/hahaliu1029/house-3d/blob/main/media/videos/house-realistic-comparison-plan-music.mp4) |
-| [山间村落：参考图与地形场景联动](https://x.com/TaroKichijo/status/2097167383576383502) | Kichitaro (Kichi Shotaro) / @TaroKichijo · X | 转引待复核 | [视频](https://x.com/TaroKichijo/status/2097167383576383502) · [提示词/过程](https://x.com/TaroKichijo/status/2097167383576383502) |
-| [手机照片到建筑：Blender 重建实验](https://x.com/badxstudio/status/2095982983379653113) | Bad Decisions Studio / @badxstudio · X | 转引待复核 | [视频](https://x.com/badxstudio/status/2095982983379653113) |
-| [街景生成与拆解：保留不完善结果](https://x.com/Yokohara_h/status/2096622171011666003) | Hirokazu Yokohara / @Yokohara_h · X | 转引待复核 | [视频](https://x.com/Yokohara_h/status/2096622171011666003) |
-| [艺术宫：Blender 建筑场景](https://x.com/sharifshameem/status/2095653641164329143) | Sharif Shameem / @sharifshameem · X | 转引待复核 | [视频](https://x.com/sharifshameem/status/2095653641164329143) |
-| [杭州微缩城：地标与昼夜切换](https://x.com/NFT_Chen/status/2096143589151756638) | SuSu_酥酥👅 / @NFT_Chen · X | 转引待复核 | [视频](https://x.com/NFT_Chen/status/2096143589151756638) |
-| [新加坡街头：手机视角的浏览器场景](https://x.com/birdabo/status/2096156461365960837) | sui / @birdabo · X | 转引待复核 | [视频](https://x.com/birdabo/status/2096156461365960837) |
-| [Piața Unirii：同一简报的体素广场对照](https://x.com/danmana/status/2096262733259837681) | Dan Manastireanu / @danmana · X | 转引待复核 | [在线作品](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [源码](https://github.com/danmana/piata-unirii) · [视频](https://x.com/danmana/status/2096262733259837681) · [提示词/过程](https://github.com/danmana/piata-unirii/blob/main/prompt.md) |
-| [航拍废模修复：从单栋建筑到园区](https://www.bilibili.com/video/BV1U9bW6sEw4/) | 莽小石 · Bilibili | 作者自述 | [视频](https://www.bilibili.com/video/BV1U9bW6sEw4/) |
-| [泰姬陵：Blender 建筑渲染](https://x.com/senthilnayagam/status/2096543077917986823) | Senthil Nayagam / @senthilnayagam · X | 转引待复核 | [视频](https://x.com/senthilnayagam/status/2096543077917986823) |
-| [旧金山联合广场：可漫游的 Three.js 城市场景](https://github.com/PhiloLabs/fable51-worlds/tree/main/union-square-sf-gpt-astra) | PhiloLabs / VerizonCao · GitHub | 作者自述 | [源码](https://github.com/PhiloLabs/fable51-worlds/tree/main/union-square-sf-gpt-astra) · [视频](https://github.com/PhiloLabs/fable51-worlds/blob/main/union-square-sf-gpt-astra/media/fable51-vs-gpt6-astra-union-square.mp4) · [提示词/过程](https://github.com/PhiloLabs/fable51-worlds/tree/main/union-square-sf-gpt-astra) |
-| [Courtyard House：可剖切的庭院住宅](https://developers.openai.com/showcase/courtyard-house) | Katia Gil Guzman, OpenAI · OpenAI | 官方展示 | [在线作品](https://alder-courtyard-house.openai.chatgpt.site/) · [提示词/过程](https://developers.openai.com/showcase/courtyard-house) |
-| [房源照片转三维住宅与宣传视频](https://x.com/realYunfanYe/status/2095612137582526615) | Yunfan Ye (@realYunfanYe) · X | 转引待复核 | [视频](https://x.com/realYunfanYe/status/2095612137582526615) |
-| [摄影测量扫描重建可编辑客厅](https://x.com/bilawalsidhu/status/2096092080397246707) | Bilawal Sidhu · X | 转引待复核 | [视频](https://x.com/bilawalsidhu/status/2096092080397246707) |
-| [儿童房兼工作区：用照片比较家具布局](https://x.com/dqlh47m/status/2096578684010508736) | かのこ🌼AI×子育て×探究 / @dqlh47m · X | 转引待复核 | [视频](https://x.com/dqlh47m/status/2096578684010508736) |
-| [Giverny：莫奈花园灵感的三维场景](https://developers.openai.com/blog/architectural-visualization-with-astra) | Thomas Ricouard · OpenAI | 官方展示 | [提示词/过程](https://developers.openai.com/blog/architectural-visualization-with-astra#design-beyond-architecture) |
-| [Inside Lloyd’s：拆开伦敦劳合社建筑](https://github.com/cristianexer/Lloyds-of-London-3D-building) | Cristian Exer · GitHub | 作者自述 | [在线作品](https://lloyds.cristianexer.dev/) · [源码](https://github.com/cristianexer/Lloyds-of-London-3D-building) |
 
 ### 程序化场景
 

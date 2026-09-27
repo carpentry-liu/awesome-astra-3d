@@ -5,9 +5,9 @@ import { ArrowRight, ArrowUpRight, Code2, Play, Layers3 } from 'lucide-react';
 import { type Case } from '@/src/catalog';
 
 const spotlights = [
+  { id: 'pantoja-astralod3', credit: 'B. G. Pantoja-Rosero', name: '让照片与点云，成为建筑模型', label: '建筑重建研究', note: 'AstraLOD3 · 多视图证据与 Blender 构件' },
+  { id: 'usnul-old-circle', credit: 'Usnul', name: '走进原型，也看见它的问题', label: '游戏开发复盘', note: 'Old Circle · 实机图、源码与迭代局限' },
   { id: 'stackloom-silent-meridian', credit: 'stackloomdev', name: '在静止的时间里，解开三维机关', label: '插画 × 三维视效', note: 'Silent Meridian · 程序化机关与场景解谜' },
-  { id: 'breineng-how-to-suck', credit: 'breineng', name: '用吸尘器，把家具变成弹药', label: 'Unity 合作游戏', note: 'How to Suck · 实机截图与 Windows 工程' },
-  { id: 'kenny-stillwater', credit: 'Kenny Johnson', name: '把一座水族箱，放进浏览器', label: '交互水族箱', note: 'Stillwater · 鱼群、水草与水下光影' },
 ];
 export function Welcome({
   cases,

@@ -1,5 +1,94 @@
 [
   {
+    "id": "pantoja-astralod3",
+    "title": "AstraLOD3：从多视图证据重建建筑",
+    "titleEn": "AstraLOD3 — Evidence-driven Building Reconstruction",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "arXiv",
+    "platforms": [
+      "arXiv"
+    ],
+    "author": "Bryan G. Pantoja-Rosero",
+    "sourceUrl": "https://arxiv.org/abs/2609.28061",
+    "sourceDate": "2026-09-23",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-27",
+    "addedAt": "2026-09-27",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者原始说明与效果图",
+    "evidenceNote": "按作者声明收录，未独立复现。",
+    "sourceAccess": "读取 arXiv v1 全文与图 2 模型图。论文预告的 GitHub 仓库返回 404，不计入源码或演示入口。",
+    "summary": "研究将多视图照片、标定相机与稀疏 SfM 点云交给 Astra，通过 Python 和 Blender 重建带门窗、屋顶等构件的 LOD3 建筑。论文展示模型图、对照实验及完整任务规范；评估结果来自作者实验，本库未复现。它依赖摄影测量证据和明确约束，不等于从一句话生成测绘级建筑。",
+    "outputType": [
+      "LOD3 建筑重建",
+      "Blender 程序化几何",
+      "多视图与点云约束"
+    ],
+    "promptAvailability": "论文附录公开重建规范",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": "https://arxiv.org/html/2609.28061v1#A1",
+    "imageUrl": "https://arxiv.org/html/2609.28061v1/fig_benchmark_models_04_1_render.png",
+    "imageKind": "creator-output",
+    "imageCaption": "论文图 2 中第 04 项建筑重建渲染；为实际生成模型，非输入照片。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://arxiv.org/abs/2609.28061",
+      "https://arxiv.org/html/2609.28061v1"
+    ],
+    "licenseNotes": "论文标注 CC BY-NC-ND 4.0；图像链接回原站，作者为 Bryan G. Pantoja-Rosero，不纳入本库 MIT 许可。",
+    "outcome": "预印本作者实验；未独立复现或验证测绘精度。"
+  },
+  {
+    "id": "usnul-old-circle",
+    "title": "Old Circle：暗黑动作游戏的迭代与建模局限",
+    "titleEn": "Old Circle — Iterative Action RPG Prototype",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "开发者社区",
+    "platforms": [
+      "开发者社区",
+      "GitHub"
+    ],
+    "author": "Usnul",
+    "sourceUrl": "https://discourse.threejs.org/t/come-piggies-i-got-slop/94232",
+    "sourceDate": "2026-09-10",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-27",
+    "addedAt": "2026-09-27",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者原始说明与效果图",
+    "evidenceNote": "按作者声明收录，未独立复现。",
+    "sourceAccess": "读取作者 three.js 论坛原帖、跟帖与 GitHub README，选用 +20 分钟阶段的实机截图而非概念画。",
+    "summary": "Usnul 用 Astra、Blender 与自有 Meep 引擎制作暗黑动作 RPG 原型，公开源码和多轮实机记录。作者展示移动、战斗与地形，同时记录素材错位、破碎几何和动画问题；后续有修复，但仍需内容与美术工作。本站展示原帖实机图，不把开放世界和持久联机目标描述为已验证的成品。",
+    "outputType": [
+      "Meep / WebGPU 游戏",
+      "Blender 内容流程",
+      "开发复盘与限制"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://canada1.discourse-cdn.com/flex035/uploads/threejs/original/3X/9/e/9ea420c0428450136648e842ad208b0fdab46f80.jpeg",
+    "imageKind": "creator-output",
+    "imageCaption": "作者发布的实际作品图；静态预览，不是本站归档录像。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/Usnul/old-circle",
+    "evidenceUrls": [
+      "https://discourse.threejs.org/t/come-piggies-i-got-slop/94232",
+      "https://github.com/Usnul/old-circle"
+    ],
+    "licenseNotes": "作品与媒体归原作者，媒体不纳入本库 MIT 许可；源码复用遵循作者仓库许可。",
+    "outcome": "开发中的原型；未安装运行源码，未验证完整战斗或多人流程。"
+  },
+  {
     "id": "stackloom-silent-meridian",
     "title": "静默子午线：插画场景与程序化三维机关",
     "titleEn": "Silent Meridian — Illustrated Puzzles with Procedural 3D",
