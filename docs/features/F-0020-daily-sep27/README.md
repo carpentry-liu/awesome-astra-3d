@@ -14,3 +14,12 @@
 - 浏览器实际加载建筑图 940 × 705、游戏图 1440 × 900，均检查图像内容；控制台 warn/error 为空。
 - 首页、最新列表、390 × 844 手机视口实拍检查通过，手机无横向溢出。
 - 媒体审计仅追加今天两图，未冒充重新全检历史 97 段录像。
+
+## 发布
+
+- 内容提交 `8908c33` 已推送 main，昨日 `b350371` 验证记录也已同步。
+- [GitHub Actions 36286649013](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/36286649013)：build / deploy 均成功。
+- `python work/published-sep27.py`：正式站 208 条数据逐对象匹配本地，首两项为今日新增案例。
+- `python work/readme-check-sep27.py`：远端中英文 README 一致，9 张图片标签可渲染，三张新截图字节一致。
+- `python work/about-sep27.py`：About 已同步 196 / 54 / 83 / 97，仓库保持公开。
+- 本次临时浏览器页和预览服务已关闭，未部署 ChatGPT Sites。
