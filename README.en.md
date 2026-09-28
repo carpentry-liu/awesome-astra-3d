@@ -13,24 +13,24 @@ Explore GPT-6 Astra in 3D: Blender, Houdini, Three.js, WebGL, CAD, VRM and inter
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-09-27 (Asia/Shanghai)** · **196 Astra examples** · **54 source / project links** · **83 demo links** · **97 complete videos** · **12 separate references**.
+Updated **2026-09-28 (Asia/Shanghai)** · **198 Astra examples** · **54 source / project links** · **83 demo links** · **97 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 ## Recent highlights
 
-| AstraLOD3 | Old Circle | Silent Meridian |
+| Kyoto | Okehazama | AstraLOD3 |
 | --- | --- | --- |
-| [![AstraLOD3 — Bryan G. Pantoja-Rosero](https://arxiv.org/html/2609.28061v1/fig_benchmark_models_04_1_render.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=pantoja-astralod3) | [![Old Circle — Usnul](https://canada1.discourse-cdn.com/flex035/uploads/threejs/original/3X/9/e/9ea420c0428450136648e842ad208b0fdab46f80.jpeg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=usnul-old-circle) | [![Silent Meridian — stackloomdev](https://raw.githubusercontent.com/stackloomdev/silent-meridian/main/docs/screenshots/depth-observatory.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=stackloom-silent-meridian) |
+| [![Kyoto — せなお / Routine labo](https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-simulator-images2.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-kyoto) | [![Okehazama — せなお / Routine labo](https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-simulator-images4.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-okehazama) | [![AstraLOD3 — Bryan G. Pantoja-Rosero](https://arxiv.org/html/2609.28061v1/fig_benchmark_models_04_1_render.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=pantoja-astralod3) |
 | Horror · Saint Orison | Action · The Crownless | Open source · AstraFloor |
 | [![Don’t Look Away — Saint Orison — Blendi / @BlendiByl](https://pbs.twimg.com/amplify_video_thumb/2100441933349113856/img/-zcl_oknjJHeAKF8.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=blendi-saint-orison) | [![The Crownless — Izkimar / @Izkimar](https://pbs.twimg.com/amplify_video_thumb/2100753501940809729/img/f53bBSn0KO5xt3yA.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=izkimar-crownless) | [![Astra Floor — BEROCHLU](https://raw.githubusercontent.com/BEROCHLU/astrafloor/main/.github/image1.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=berochlu-astrafloor) |
 
-Open images for attribution. AstraLOD3 is an author-reported research result; Old Circle is an unfinished game with documented modeling limitations. Screenshots are not archived videos.
+Open images for creator credits. Kyoto and Okehazama combine Astra, Three.js, Tripo and Mixamo; screenshots do not imply independently verified simulation accuracy.
 
 ## Live website preview
 
-[![Astra 3D Atlas live homepage](docs/media/homepage-2026-09-27.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas live homepage](docs/media/homepage-2026-09-28.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-Captured from this update on September 27, 2026. Click to explore the gallery.
+Captured from this update on September 28, 2026. Click to explore the gallery.
 
 ## Choose a starting point
 
@@ -44,19 +44,19 @@ Captured from this update on September 27, 2026. Click to explore the gallery.
 
 ## Latest additions
 
-September 27 adds **2 visible examples**: AstraLOD3 building reconstruction and the Old Circle development retrospective. These are newly curated, not newly released today. Original publication dates and limitations are retained; all 97 archived clips remain unchanged.
+September 28 adds **2 visible scenes** from Routine labo’s September 27 report: Kyoto street exploration and the Okehazama timeline. Original dates and asset attribution are retained. The existing 97 archived clips are unchanged.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [Kyoto — Map-based Street Explorer](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-kyoto) | せなお / Routine labo | [Original](https://rutinelabo.com/gpt6-astra-3d-simulator/) |
+| [Okehazama — Terrain and Timeline](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-okehazama) | せなお / Routine labo | [Original](https://rutinelabo.com/gpt6-astra-3d-simulator/) |
 | [AstraLOD3 — Evidence-driven Building Reconstruction](https://carpentry-liu.github.io/awesome-astra-3d/#case=pantoja-astralod3) | Bryan G. Pantoja-Rosero | [Original](https://arxiv.org/abs/2609.28061) |
 | [Old Circle — Iterative Action RPG Prototype](https://carpentry-liu.github.io/awesome-astra-3d/#case=usnul-old-circle) | Usnul | [Source](https://github.com/Usnul/old-circle) · [Original](https://discourse.threejs.org/t/come-piggies-i-got-slop/94232) |
 | [Silent Meridian — Illustrated Puzzles with Procedural 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=stackloom-silent-meridian) | stackloomdev | [Demo](https://silent-meridian.stackloom.org/) · [Source](https://github.com/stackloomdev/silent-meridian) · [Original](https://github.com/stackloomdev/silent-meridian) |
 | [How to Suck — Vacuum-powered Unity Co-op](https://carpentry-liu.github.io/awesome-astra-3d/#case=breineng-how-to-suck) | breineng | [Source](https://github.com/breineng/how-to-suck) · [Original](https://github.com/breineng/how-to-suck) |
 | [Stillwater Aquarium](https://carpentry-liu.github.io/awesome-astra-3d/#case=kenny-stillwater) | Kenny Johnson / @KennyJohnsonATX | [Demo](https://fish.kennyatx.com/) · [Original](https://x.com/KennyJohnsonATX/status/2101744240095076416) |
 | [Cabsolutely](https://carpentry-liu.github.io/awesome-astra-3d/#case=ilker-cabsolutely) | ilker / @ailker | [Demo](https://cabsolutely.vercel.app/) · [Source](https://github.com/ilkerzg/cabsolutely) · [Original](https://x.com/ailker/status/2100705949468000655) |
-| [DRONE.IO — Proving Grounds](https://carpentry-liu.github.io/awesome-astra-3d/#case=angello-drone-io) | Angello🎰 / @OMASMohamad | [Demo](https://drone-io.vercel.app/) · [Original](https://x.com/OMASMohamad/status/2101830659358478516) |
-| [Don’t Look Away — Saint Orison](https://carpentry-liu.github.io/awesome-astra-3d/#case=blendi-saint-orison) | Blendi / @BlendiByl | [Demo](https://weeping-angels.vercel.app/) · [Original](https://x.com/BlendiByl/status/2100442177159729336) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md)
@@ -68,11 +68,11 @@ Three featured works are visible together. Desktop navigation places categories 
 The interface is in Chinese; English project names, tools and creators are searchable. Keyboard navigation, a mobile layout and image failure states are supported.
 
 <details>
-<summary>Gallery and mobile screenshots · September 27, 2026</summary>
+<summary>Gallery and mobile screenshots · September 28, 2026</summary>
 
-[![Latest examples and category sidebar](docs/media/collection-2026-09-27.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![Latest examples and category sidebar](docs/media/collection-2026-09-28.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![Mobile welcome page and resource navigation](docs/media/mobile-2026-09-27.jpg)
+![Mobile welcome page and resource navigation](docs/media/mobile-2026-09-28.jpg)
 
 </details>
 

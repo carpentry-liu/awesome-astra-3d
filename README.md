@@ -13,24 +13,24 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-09-27（Asia/Shanghai）**：**196 条 Astra 案例** · **54 条源码 / 工程** · **83 个演示入口** · **97 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-09-28（Asia/Shanghai）**：**198 条 Astra 案例** · **54 条源码 / 工程** · **83 个演示入口** · **97 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 ## 近期精选，先看效果
 
-| AstraLOD3 | Old Circle | Silent Meridian |
+| Kyoto | Okehazama | AstraLOD3 |
 | --- | --- | --- |
-| [![AstraLOD3 — Bryan G. Pantoja-Rosero](https://arxiv.org/html/2609.28061v1/fig_benchmark_models_04_1_render.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=pantoja-astralod3) | [![Old Circle — Usnul](https://canada1.discourse-cdn.com/flex035/uploads/threejs/original/3X/9/e/9ea420c0428450136648e842ad208b0fdab46f80.jpeg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=usnul-old-circle) | [![Silent Meridian — stackloomdev](https://raw.githubusercontent.com/stackloomdev/silent-meridian/main/docs/screenshots/depth-observatory.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=stackloom-silent-meridian) |
+| [![Kyoto — せなお / Routine labo](https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-simulator-images2.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-kyoto) | [![Okehazama — せなお / Routine labo](https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-simulator-images4.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-okehazama) | [![AstraLOD3 — Bryan G. Pantoja-Rosero](https://arxiv.org/html/2609.28061v1/fig_benchmark_models_04_1_render.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=pantoja-astralod3) |
 | 惊悚探索 · Saint Orison | 动作游戏 · The Crownless | 开源游戏 · AstraFloor |
 | [![Don’t Look Away — Saint Orison — Blendi / @BlendiByl](https://pbs.twimg.com/amplify_video_thumb/2100441933349113856/img/-zcl_oknjJHeAKF8.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=blendi-saint-orison) | [![The Crownless — Izkimar / @Izkimar](https://pbs.twimg.com/amplify_video_thumb/2100753501940809729/img/f53bBSn0KO5xt3yA.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=izkimar-crownless) | [![Astra Floor — BEROCHLU](https://raw.githubusercontent.com/BEROCHLU/astrafloor/main/.github/image1.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=berochlu-astrafloor) |
 
-点击图片查看作者、来源和材料。AstraLOD3 为作者报告的研究结果，Old Circle 为仍有建模问题的游戏原型；静态图不冒充完整录像。
+点击图片查看作者与流程。京都和桶狭间采用 Astra、Three.js、Tripo 与 Mixamo 混合制作，截图展示不等于模拟精度已验证。
 
 ## 网站实拍
 
-[![Astra 3D Atlas 正式网站首页](docs/media/homepage-2026-09-27.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 正式网站首页](docs/media/homepage-2026-09-28.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-本次更新实拍 · 2026-09-27。点击图片进入案例库。
+本次更新实拍 · 2026-09-28。点击图片进入案例库。
 
 ## 找到你的下一次创作
 
@@ -44,19 +44,19 @@
 
 ## 最新收录
 
-9 月 27 日补入 **2 件有真实效果图的案例**：AstraLOD3 建筑重建研究、Old Circle 游戏开发复盘。保留原始发布日期与完成程度，不把今日收录写成今日首发；原有 97 段录像不变。论文预告的仓库尚不可访问，暂不标为可下载源码。
+9 月 28 日补入 **2 件真实场景案例**：京都街景、桶狭间战役演示，来自作者 9 月 27 日的制作实测。保留原始日期及人物资产分工，实际截图均已核对；原有 97 段录像不变。
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
+| [京都街景：地图驱动的步行与飞行视角](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-kyoto) | せなお / Routine labo | [原始来源](https://rutinelabo.com/gpt6-astra-3d-simulator/) |
+| [桶狭间：地形与时间轴上的战役演示](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-okehazama) | せなお / Routine labo | [原始来源](https://rutinelabo.com/gpt6-astra-3d-simulator/) |
 | [AstraLOD3：从多视图证据重建建筑](https://carpentry-liu.github.io/awesome-astra-3d/#case=pantoja-astralod3) | Bryan G. Pantoja-Rosero | [原始来源](https://arxiv.org/abs/2609.28061) |
 | [Old Circle：暗黑动作游戏的迭代与建模局限](https://carpentry-liu.github.io/awesome-astra-3d/#case=usnul-old-circle) | Usnul | [源码](https://github.com/Usnul/old-circle) · [原始来源](https://discourse.threejs.org/t/come-piggies-i-got-slop/94232) |
 | [静默子午线：插画场景与程序化三维机关](https://carpentry-liu.github.io/awesome-astra-3d/#case=stackloom-silent-meridian) | stackloomdev | [演示](https://silent-meridian.stackloom.org/) · [源码](https://github.com/stackloomdev/silent-meridian) · [原始来源](https://github.com/stackloomdev/silent-meridian) |
 | [How to Suck：吸尘器驱动的三维合作游戏](https://carpentry-liu.github.io/awesome-astra-3d/#case=breineng-how-to-suck) | breineng | [源码](https://github.com/breineng/how-to-suck) · [原始来源](https://github.com/breineng/how-to-suck) |
 | [Stillwater：可以喂鱼的三维水族箱](https://carpentry-liu.github.io/awesome-astra-3d/#case=kenny-stillwater) | Kenny Johnson / @KennyJohnsonATX | [演示](https://fish.kennyatx.com/) · [原始来源](https://x.com/KennyJohnsonATX/status/2101744240095076416) |
 | [Cabsolutely：在城市街区开出租车](https://carpentry-liu.github.io/awesome-astra-3d/#case=ilker-cabsolutely) | ilker / @ailker | [演示](https://cabsolutely.vercel.app/) · [源码](https://github.com/ilkerzg/cabsolutely) · [原始来源](https://x.com/ailker/status/2100705949468000655) |
-| [DRONE.IO：无人机竞技场生存原型](https://carpentry-liu.github.io/awesome-astra-3d/#case=angello-drone-io) | Angello🎰 / @OMASMohamad | [演示](https://drone-io.vercel.app/) · [原始来源](https://x.com/OMASMohamad/status/2101830659358478516) |
-| [Saint Orison：视线之外移动的天使](https://carpentry-liu.github.io/awesome-astra-3d/#case=blendi-saint-orison) | Blendi / @BlendiByl | [演示](https://weeping-angels.vercel.app/) · [原始来源](https://x.com/BlendiByl/status/2100442177159729336) |
 <!-- atlas:latest:end -->
 
 [查看完整更新目录 →](UPDATES.md)
@@ -70,11 +70,11 @@
 - 手机布局、键盘操作与图片失败提示均保留；方法参考与 Astra 案例分别呈现。
 
 <details>
-<summary>查看案例区与手机实拍 · 2026-09-27</summary>
+<summary>查看案例区与手机实拍 · 2026-09-28</summary>
 
-[![最新案例与分类侧栏](docs/media/collection-2026-09-27.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![最新案例与分类侧栏](docs/media/collection-2026-09-28.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端欢迎页，精选作品与资源导航](docs/media/mobile-2026-09-27.jpg)
+![手机端欢迎页，精选作品与资源导航](docs/media/mobile-2026-09-28.jpg)
 
 </details>
 

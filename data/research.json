@@ -1074,6 +1074,26 @@
         "Existing 206 cases and 97 clips unchanged.",
         "No ChatGPT Sites deployment."
       ]
+    },
+    {
+      "observedAt": "2026-09-28",
+      "batch": "daily-sep28-visible",
+      "addedCount": 2,
+      "caseIds": [
+        "routine-kyoto",
+        "routine-okehazama"
+      ],
+      "sources": [
+        "https://rutinelabo.com/gpt6-astra-3d-simulator/"
+      ],
+      "method": "Search recent websites, X, Reddit and creator reports; inspect primary article and output images.",
+      "notes": [
+        "No verified new X recording selected.",
+        "Falcon 9 comparison not added without confirmed Astra result media.",
+        "Shibuya preview had repeated network timeouts; held for later verification.",
+        "Existing 208 records and 97 archives unchanged.",
+        "No ChatGPT Sites deployment."
+      ]
     }
   ]
 }

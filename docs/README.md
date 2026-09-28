@@ -29,3 +29,5 @@
 - [9 月 26 日：两件有实际预览的开源游戏](features/F-0019-daily-sep26/README.md)。
 
 - [9 月 27 日：建筑重建与游戏迭代](features/F-0020-daily-sep27/README.md)。
+
+- [9 月 28 日：城市与历史场景](features/F-0021-daily-sep28/README.md)。

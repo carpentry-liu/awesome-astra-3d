@@ -1,5 +1,89 @@
 [
   {
+    "id": "routine-kyoto",
+    "title": "京都街景：地图驱动的步行与飞行视角",
+    "titleEn": "Kyoto — Map-based Street Explorer",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "作者博客",
+    "platforms": [
+      "作者博客"
+    ],
+    "author": "せなお / Routine labo",
+    "sourceUrl": "https://rutinelabo.com/gpt6-astra-3d-simulator/",
+    "sourceDate": "2026-09-27",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-28",
+    "addedAt": "2026-09-28",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者实测文章与场景截图",
+    "evidenceNote": "作者自述，未独立复现。",
+    "sourceAccess": "读取作者文章及实际场景图，保留模型与人物工具分工。未发现公开可直接试玩或下载的工程链接。",
+    "summary": "作者用 Astra 与 Three.js 制作京都漫游，加入地图数据后改善街道布局，支持地面与空中视角。人物资产采用 Tripo 与 Mixamo；建筑外观为重建表现，本库未验证地理精度。",
+    "outputType": [
+      "Three.js 场景",
+      "Tripo / Mixamo 混合资产"
+    ],
+    "promptAvailability": "文章公开部分任务与流程，完整提示词需作者渠道获取",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": "https://rutinelabo.com/gpt6-astra-3d-simulator/",
+    "imageUrl": "https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-simulator-images2.webp",
+    "imageKind": "gameplay-screenshot",
+    "imageCaption": "作者文章的实际场景截图；静态预览，非本站归档录像。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://rutinelabo.com/gpt6-astra-3d-simulator/"
+    ],
+    "licenseNotes": "作品与媒体归 Routine labo 及相关资产权利人，外链作者原图，不纳入本库 MIT 许可。",
+    "outcome": "作者演示；未独立运行或验证模拟与地理、历史准确性。"
+  },
+  {
+    "id": "routine-okehazama",
+    "title": "桶狭间：地形与时间轴上的战役演示",
+    "titleEn": "Okehazama — Terrain and Timeline",
+    "group": "astra",
+    "category": "科学与教育",
+    "platform": "作者博客",
+    "platforms": [
+      "作者博客"
+    ],
+    "author": "せなお / Routine labo",
+    "sourceUrl": "https://rutinelabo.com/gpt6-astra-3d-simulator/",
+    "sourceDate": "2026-09-27",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-28",
+    "addedAt": "2026-09-28",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者实测文章与场景截图",
+    "evidenceNote": "作者自述，未独立复现。",
+    "sourceAccess": "读取作者文章及实际场景图，保留模型与人物工具分工。未发现公开可直接试玩或下载的工程链接。",
+    "summary": "作者用 Astra 制作带时间轴、旁白与雨天切换的战役场景，展示丘陵与行军路线。兵士资产使用 Tripo／Mixamo；属于历史解释的可视化原型，不代表考证结论或战术仿真。",
+    "outputType": [
+      "Three.js 场景",
+      "Tripo / Mixamo 混合资产"
+    ],
+    "promptAvailability": "文章公开部分任务与流程，完整提示词需作者渠道获取",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": "https://rutinelabo.com/gpt6-astra-3d-simulator/",
+    "imageUrl": "https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-simulator-images4.webp",
+    "imageKind": "gameplay-screenshot",
+    "imageCaption": "作者文章的实际场景截图；静态预览，非本站归档录像。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://rutinelabo.com/gpt6-astra-3d-simulator/"
+    ],
+    "licenseNotes": "作品与媒体归 Routine labo 及相关资产权利人，外链作者原图，不纳入本库 MIT 许可。",
+    "outcome": "作者演示；未独立运行或验证模拟与地理、历史准确性。"
+  },
+  {
     "id": "pantoja-astralod3",
     "title": "AstraLOD3：从多视图证据重建建筑",
     "titleEn": "AstraLOD3 — Evidence-driven Building Reconstruction",

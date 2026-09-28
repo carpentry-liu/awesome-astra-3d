@@ -5,9 +5,9 @@ import { ArrowRight, ArrowUpRight, Code2, Play, Layers3 } from 'lucide-react';
 import { type Case } from '@/src/catalog';
 
 const spotlights = [
+  { id: 'routine-kyoto', credit: 'Routine labo', name: '沿着京都街道，走向八坂之塔', label: '地图与三维街景', note: 'Kyoto · 地面漫游与空中视角' },
+  { id: 'routine-okehazama', credit: 'Routine labo', name: '把战役，放回地形与时间里', label: '历史场景演示', note: 'Okehazama · 丘陵、路线与时间轴' },
   { id: 'pantoja-astralod3', credit: 'B. G. Pantoja-Rosero', name: '让照片与点云，成为建筑模型', label: '建筑重建研究', note: 'AstraLOD3 · 多视图证据与 Blender 构件' },
-  { id: 'usnul-old-circle', credit: 'Usnul', name: '走进原型，也看见它的问题', label: '游戏开发复盘', note: 'Old Circle · 实机图、源码与迭代局限' },
-  { id: 'stackloom-silent-meridian', credit: 'stackloomdev', name: '在静止的时间里，解开三维机关', label: '插画 × 三维视效', note: 'Silent Meridian · 程序化机关与场景解谜' },
 ];
 export function Welcome({
   cases,

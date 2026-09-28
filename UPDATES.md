@@ -2,6 +2,13 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-09-28 · 2 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [京都街景：地图驱动的步行与飞行视角 / Kyoto — Map-based Street Explorer](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-kyoto) | せなお / Routine labo | 提示词 / 过程 |
+| [桶狭间：地形与时间轴上的战役演示 / Okehazama — Terrain and Timeline](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-okehazama) | せなお / Routine labo | 提示词 / 过程 |
+
 ## 2026-09-27 · 2 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
