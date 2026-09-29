@@ -1094,6 +1094,28 @@
         "Existing 208 records and 97 archives unchanged.",
         "No ChatGPT Sites deployment."
       ]
+    },
+    {
+      "observedAt": "2026-09-29",
+      "batch": "daily-sep29-visible",
+      "addedCount": 2,
+      "caseIds": [
+        "routine-shibuya",
+        "topology-roman-legionary"
+      ],
+      "sources": [
+        "https://rutinelabo.com/gpt6-astra-3d-simulator/",
+        "https://www.reddit.com/r/TopologyAI/comments/1ws861x/opus_55_vs_gpt6_sol_vs_astra_in_3d_modeling/"
+      ],
+      "method": "Search recent web, X, GitHub and Reddit; inspect source text and actual result media.",
+      "notes": [
+        "Shibuya image loaded successfully today after September 28 timeouts.",
+        "Roman legionary attribution remains secondary; original date unknown.",
+        "BEYOND THE BLITTER held: source text available but result media not confirmed.",
+        "Render Arena site unavailable; not added.",
+        "No new verified X archive; original 210 records and 97 videos unchanged.",
+        "No ChatGPT Sites deployment."
+      ]
     }
   ]
 }

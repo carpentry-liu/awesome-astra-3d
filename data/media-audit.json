@@ -5121,6 +5121,24 @@
           "width": 1920
         }
       ]
+    },
+    {
+      "checkedAt": "2026-09-29",
+      "scope": "Two new images decoded and visually checked, then loaded inside the gallery. Previous 210 cases and 97 videos unchanged; not a full historical re-audit.",
+      "results": [
+        {
+          "height": 1080,
+          "loaded": true,
+          "url": "https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-simulator-images6.webp",
+          "width": 1920
+        },
+        {
+          "height": 1091,
+          "loaded": true,
+          "url": "https://i.redd.it/g95irt9is7sh1.jpeg",
+          "width": 1280
+        }
+      ]
     }
   ]
 }

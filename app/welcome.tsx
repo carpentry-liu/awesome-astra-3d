@@ -5,9 +5,9 @@ import { ArrowRight, ArrowUpRight, Code2, Play, Layers3 } from 'lucide-react';
 import { type Case } from '@/src/catalog';
 
 const spotlights = [
+  { id: 'routine-shibuya', credit: 'Routine labo', name: '从人流中，看见路口的密度', label: '三维人流可视化', note: 'Crossing Lab · 流量、信号与热力图' },
+  { id: 'topology-roman-legionary', credit: 'r/TopologyAI · 社区转述', name: '同一个士兵，三种建模结果', label: '建模对照 · Astra 在右列', note: 'Roman Legionary · 盔甲、盾牌与比例' },
   { id: 'routine-kyoto', credit: 'Routine labo', name: '沿着京都街道，走向八坂之塔', label: '地图与三维街景', note: 'Kyoto · 地面漫游与空中视角' },
-  { id: 'routine-okehazama', credit: 'Routine labo', name: '把战役，放回地形与时间里', label: '历史场景演示', note: 'Okehazama · 丘陵、路线与时间轴' },
-  { id: 'pantoja-astralod3', credit: 'B. G. Pantoja-Rosero', name: '让照片与点云，成为建筑模型', label: '建筑重建研究', note: 'AstraLOD3 · 多视图证据与 Blender 构件' },
 ];
 export function Welcome({
   cases,

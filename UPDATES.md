@@ -2,6 +2,13 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-09-29 · 2 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Crossing Lab：涩谷路口的人流密度可视化 / Crossing Lab — Shibuya Pedestrian Density](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-shibuya) | せなお / Routine labo | 提示词 / 过程 |
+| [罗马军团士兵：Astra、Sol 与 Opus 建模对照 / Roman Legionary — Astra, Sol and Opus Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=topology-roman-legionary) | 原作者未确认；转述：u/SuspiciousHunter1359 | 作者展示 |
+
 ## 2026-09-28 · 2 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

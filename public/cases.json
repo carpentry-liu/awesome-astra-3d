@@ -1,5 +1,89 @@
 [
   {
+    "id": "routine-shibuya",
+    "title": "Crossing Lab：涩谷路口的人流密度可视化",
+    "titleEn": "Crossing Lab — Shibuya Pedestrian Density",
+    "group": "astra",
+    "category": "科学与教育",
+    "platform": "作者博客",
+    "platforms": [
+      "作者博客"
+    ],
+    "author": "せなお / Routine labo",
+    "sourceUrl": "https://rutinelabo.com/gpt6-astra-3d-simulator/",
+    "sourceDate": "2026-09-27",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-29",
+    "addedAt": "2026-09-29",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者实测文章与场景截图",
+    "evidenceNote": "作者自述，未独立复现。",
+    "sourceAccess": "读取作者文章及实际场景图，保留模型与人物工具分工。未发现公开可直接试玩或下载的工程链接。",
+    "summary": "作者用 Astra 实现路口人流可视化，以密度热力图观察不同流量与信号周期下的拥挤变化。画面包含俯瞰和行人视角；属于演示原型，未独立验证其交通预测或安全判断。",
+    "outputType": [
+      "三维人流可视化",
+      "密度热力图"
+    ],
+    "promptAvailability": "文章公开部分任务与流程，完整提示词需作者渠道获取",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": "https://rutinelabo.com/gpt6-astra-3d-simulator/",
+    "imageUrl": "https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-simulator-images6.webp",
+    "imageKind": "gameplay-screenshot",
+    "imageCaption": "作者文章的 Crossing Lab 实际画面；今日复查原图已恢复可加载。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://rutinelabo.com/gpt6-astra-3d-simulator/"
+    ],
+    "licenseNotes": "作品与媒体归 Routine labo 及相关资产权利人，外链作者原图，不纳入本库 MIT 许可。",
+    "outcome": "作者演示；未独立验证交通或安全准确性。"
+  },
+  {
+    "id": "topology-roman-legionary",
+    "title": "罗马军团士兵：Astra、Sol 与 Opus 建模对照",
+    "titleEn": "Roman Legionary — Astra, Sol and Opus Comparison",
+    "group": "astra",
+    "category": "Blender 建模",
+    "platform": "Reddit",
+    "platforms": [
+      "Reddit"
+    ],
+    "author": "原作者未确认；转述：u/SuspiciousHunter1359",
+    "sourceUrl": "https://www.reddit.com/r/TopologyAI/comments/1ws861x/opus_55_vs_gpt6_sol_vs_astra_in_3d_modeling/",
+    "sourceDate": null,
+    "secondaryPublishedAt": "2026-09-29",
+    "observedAt": "2026-09-29",
+    "addedAt": "2026-09-29",
+    "modelLabel": "GPT-6 Astra（社区转述）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "已读取转述帖子与模型标注对照图",
+    "evidenceNote": "二手转述；未确认原作者、相同生成条件或完整制作过程。",
+    "sourceAccess": "读取 Reddit 正文与原尺寸附图。Astra 为右侧一列，其他两列为对照模型。",
+    "summary": "社区帖子展示同一罗马军团士兵题材的三组 Blender 结果，Astra 位于右列，可比较盔甲、盾牌和人物比例。缺少完整提示词与工程，不据此推断模型总体排名。",
+    "outputType": [
+      "Blender 人物渲染",
+      "三模型对照图"
+    ],
+    "promptAvailability": "未公开完整提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://i.redd.it/g95irt9is7sh1.jpeg",
+    "imageKind": "author-screenshot",
+    "imageCaption": "转述帖对照图：左 Opus 5.5、中 GPT-6 Sol、右 Astra；仅右列计为 Astra 案例。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://www.reddit.com/r/TopologyAI/comments/1ws861x/opus_55_vs_gpt6_sol_vs_astra_in_3d_modeling/"
+    ],
+    "licenseNotes": "对照图归原权利人，保留原站外链；不纳入本库 MIT 许可。",
+    "outcome": "社区转述，未独立复现；单张对照图不代表标准化评测。"
+  },
+  {
     "id": "routine-kyoto",
     "title": "京都街景：地图驱动的步行与飞行视角",
     "titleEn": "Kyoto — Map-based Street Explorer",
