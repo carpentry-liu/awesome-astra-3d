@@ -13,22 +13,22 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-09-30（Asia/Shanghai）**：**203 条 Astra 案例** · **54 条源码 / 工程** · **83 个演示入口** · **97 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-09-30（Asia/Shanghai）**：**209 条 Astra 案例** · **55 条源码 / 工程** · **84 个演示入口** · **101 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 ## 近期精选，先看效果
 
-| Yohaku | PULSE | Desk Objects |
+| GLB · Furnished Home | Clairval · Astra Light | Windfield · Terrain Editor |
 | --- | --- | --- |
-| [![Yohaku — Routine labo](https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-website-images1.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-yohaku) | [![PULSE — Routine labo](https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-website-images3.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-pulse) | [![Desk Objects — Routine labo](https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-website-images4.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-desk) |
-| 惊悚探索 · Saint Orison | 动作游戏 · The Crownless | 开源游戏 · AstraFloor |
-| [![Don’t Look Away — Saint Orison — Blendi / @BlendiByl](https://pbs.twimg.com/amplify_video_thumb/2100441933349113856/img/-zcl_oknjJHeAKF8.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=blendi-saint-orison) | [![The Crownless — Izkimar / @Izkimar](https://pbs.twimg.com/amplify_video_thumb/2100753501940809729/img/f53bBSn0KO5xt3yA.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=izkimar-crownless) | [![Astra Floor — BEROCHLU](https://raw.githubusercontent.com/BEROCHLU/astrafloor/main/.github/image1.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=berochlu-astrafloor) |
+| [![GLB · Furnished Home — GPTBlender / qduoduo-hwh](https://raw.githubusercontent.com/qduoduo-hwh/gptblender_demo/main/preview.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=gptblender-floor-plan-house) | [![Clairval · Astra Light — Givros / @givros](https://pbs.twimg.com/amplify_video_thumb/2103860397027500032/img/MWh231Th4GLRWRJi.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=givros-forest-village) | [![Windfield · Terrain Editor — ふぐあい(ふぐおん) / @fuguai1](https://raw.githubusercontent.com/TripoGrowthLab/awesome-3d-prompts/main/assets/previews/2c3e380b8ff93c61c74421f3217becf171ac346c55ffff41efac5fafb3be3a77.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=fuguai-windfield-editor) |
+| Blender · Booster Catch | OpenSCAD · J-hook | WebGPU · Melon Jelly |
+| [![Blender · Booster Catch — Vortlyn / @Vortlyn](https://pbs.twimg.com/amplify_video_thumb/2103966892637536256/img/fDFZ2Ru7xcs1TCxB.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=vortlyn-booster-catch) | [![OpenSCAD · J-hook — Wësche / @WescheNex1q](https://pbs.twimg.com/amplify_video_thumb/2104590246398537728/img/R7CFttVwzpqmPhSo.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=wesche-j-hook) | [![WebGPU · Melon Jelly — 基恩-Keane 🌊 / @esrhengwu](https://pbs.twimg.com/amplify_video_thumb/2104504130563899392/img/de4kRQ4IXZs7Osqh.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=keane-melon-jelly) |
 
-点击图片查看作者与流程。三件网页均为 Tripo 资产与 Astra / Three.js 交互的混合制作，展示实际截图。
+点击效果图查看作者、工具分工与完整材料。火箭和果冻为模型对照；房屋含 BlenderKit 家具；挂钩实物承重仍待测试。
 
 ## 网站实拍
 
-[![Astra 3D Atlas 正式网站首页](docs/media/homepage-2026-09-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 正式网站首页](docs/media/homepage-second-2026-09-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
 本次更新实拍 · 2026-09-30。点击图片进入案例库。
 
@@ -44,19 +44,19 @@
 
 ## 最新收录
 
-9 月 30 日新增 **3 件三维网页案例**：余白旅馆、PULSE 健身器材与桌面物件，来自作者 9 月 29 日的制作记录。明确区分 Tripo 模型与 Astra 网页交互，三张实际截图均已检查；97 段归档录像不变。
+9 月 30 日两轮共新增 **9 条案例**。本轮补入 **6 件作品、4 段完整 X 录像**：可下载房屋模型、森林村庄、地形编辑器、火箭捕获、打印挂钩与软体果冻对照。同步已有 H3 Max Blender 档案的新实验说明，保留原始日期、模型位置与素材分工。
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
+| [GPTBlender：平面图到可下载房屋模型](https://carpentry-liu.github.io/awesome-astra-3d/#case=gptblender-floor-plan-house) | GPTBlender / qduoduo-hwh | [演示](https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/#interactive-demo) · [源码](https://github.com/qduoduo-hwh/gptblender_demo) · [原始来源](https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/) |
+| [Clairval：森林湖泊与法式村庄](https://carpentry-liu.github.io/awesome-astra-3d/#case=givros-forest-village) | Givros / @givros | [原始来源](https://x.com/givros/status/2103860776419111285) |
+| [Windfield：三维冒险与地形编辑器](https://carpentry-liu.github.io/awesome-astra-3d/#case=fuguai-windfield-editor) | ふぐあい(ふぐおん) / @fuguai1 | [原始来源](https://x.com/fuguai1/status/2104531704740512143) |
+| [Super Heavy：Blender 火箭捕获对照](https://carpentry-liu.github.io/awesome-astra-3d/#case=vortlyn-booster-catch) | Vortlyn / @Vortlyn | [原始来源](https://x.com/Vortlyn/status/2103966922127630820) |
+| [J 型挂钩：OpenSCAD 打印设计对照](https://carpentry-liu.github.io/awesome-astra-3d/#case=wesche-j-hook) | Wësche / @WescheNex1q | [原始来源](https://x.com/WescheNex1q/status/2104590493191479337) |
+| [Melon Jelly：软体果冻的模型对照](https://carpentry-liu.github.io/awesome-astra-3d/#case=keane-melon-jelly) | 基恩-Keane 🌊 / @esrhengwu | [原始来源](https://x.com/esrhengwu/status/2104504957173153951) |
 | [余白旅馆：滚动驱动的三维行灯](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-yohaku) | せなお / Routine labo | [原始来源](https://rutinelabo.com/gpt6-astra-3d-website/) |
 | [PULSE：健身器材的三维网页展示](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-pulse) | せなお / Routine labo | [原始来源](https://rutinelabo.com/gpt6-astra-3d-website/) |
-| [Routine labo：桌面物件的三维叙事](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-desk) | せなお / Routine labo | [原始来源](https://rutinelabo.com/gpt6-astra-3d-website/) |
-| [Crossing Lab：涩谷路口的人流密度可视化](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-shibuya) | せなお / Routine labo | [原始来源](https://rutinelabo.com/gpt6-astra-3d-simulator/) |
-| [罗马军团士兵：Astra、Sol 与 Opus 建模对照](https://carpentry-liu.github.io/awesome-astra-3d/#case=topology-roman-legionary) | 原作者未确认；转述：u/SuspiciousHunter1359 | [原始来源](https://www.reddit.com/r/TopologyAI/comments/1ws861x/opus_55_vs_gpt6_sol_vs_astra_in_3d_modeling/) |
-| [京都街景：地图驱动的步行与飞行视角](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-kyoto) | せなお / Routine labo | [原始来源](https://rutinelabo.com/gpt6-astra-3d-simulator/) |
-| [桶狭间：地形与时间轴上的战役演示](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-okehazama) | せなお / Routine labo | [原始来源](https://rutinelabo.com/gpt6-astra-3d-simulator/) |
-| [AstraLOD3：从多视图证据重建建筑](https://carpentry-liu.github.io/awesome-astra-3d/#case=pantoja-astralod3) | Bryan G. Pantoja-Rosero | [原始来源](https://arxiv.org/abs/2609.28061) |
 <!-- atlas:latest:end -->
 
 [查看完整更新目录 →](UPDATES.md)
@@ -72,9 +72,9 @@
 <details>
 <summary>查看案例区与手机实拍 · 2026-09-30</summary>
 
-[![最新案例与分类侧栏](docs/media/collection-2026-09-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![最新案例与分类侧栏](docs/media/collection-second-2026-09-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端欢迎页，精选作品与资源导航](docs/media/mobile-2026-09-30.jpg)
+![手机端欢迎页，精选作品与资源导航](docs/media/mobile-second-2026-09-30.jpg)
 
 </details>
 

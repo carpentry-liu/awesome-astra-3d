@@ -532,6 +532,15 @@
       "finalUrl": "https://kjlkurt.github.io/waterslide-game-astra/",
       "observedAt": "2026-09-11T11:50:43.976150+00:00",
       "result": "reachable"
+    },
+    {
+      "id": "gptblender-floor-plan-house",
+      "url": "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/#interactive-demo",
+      "status": 200,
+      "title": "GPTBlender floor plan to furnished home",
+      "finalUrl": "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/#interactive-demo",
+      "observedAt": "2026-09-30",
+      "result": "Browser model loaded and Top view switched; not a full modeling reproduction."
     }
   ]
 }

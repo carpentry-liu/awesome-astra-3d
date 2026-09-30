@@ -2,10 +2,16 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
-## 2026-09-30 · 3 个案例
+## 2026-09-30 · 9 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
+| [GPTBlender：平面图到可下载房屋模型 / GPTBlender — Floor Plan to Furnished Home](https://carpentry-liu.github.io/awesome-astra-3d/#case=gptblender-floor-plan-house) | GPTBlender / qduoduo-hwh | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [Clairval：森林湖泊与法式村庄 / Clairval — Forest Lake Village](https://carpentry-liu.github.io/awesome-astra-3d/#case=givros-forest-village) | Givros / @givros | 完整视频 · 提示词 / 过程 |
+| [Windfield：三维冒险与地形编辑器 / Windfield — Adventure and Terrain Editor](https://carpentry-liu.github.io/awesome-astra-3d/#case=fuguai-windfield-editor) | ふぐあい(ふぐおん) / @fuguai1 | 提示词 / 过程 |
+| [Super Heavy：Blender 火箭捕获对照 / Super Heavy — Blender Catch Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=vortlyn-booster-catch) | Vortlyn / @Vortlyn | 完整视频 · 提示词 / 过程 |
+| [J 型挂钩：OpenSCAD 打印设计对照 / J-hook — OpenSCAD Print Design Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=wesche-j-hook) | Wësche / @WescheNex1q | 完整视频 · 提示词 / 过程 |
+| [Melon Jelly：软体果冻的模型对照 / Melon Jelly — Soft-body Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=keane-melon-jelly) | 基恩-Keane 🌊 / @esrhengwu | 完整视频 · 提示词 / 过程 |
 | [余白旅馆：滚动驱动的三维行灯 / Yohaku — Ryokan with Scroll-driven 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-yohaku) | せなお / Routine labo | 提示词 / 过程 |
 | [PULSE：健身器材的三维网页展示 / PULSE — Fitness Equipment in 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-pulse) | せなお / Routine labo | 提示词 / 过程 |
 | [Routine labo：桌面物件的三维叙事 / Routine labo — A Desk Object Story](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-desk) | せなお / Routine labo | 提示词 / 过程 |

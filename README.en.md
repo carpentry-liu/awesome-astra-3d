@@ -13,22 +13,22 @@ Explore GPT-6 Astra in 3D: Blender, Houdini, Three.js, WebGL, CAD, VRM and inter
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-09-30 (Asia/Shanghai)** · **203 Astra examples** · **54 source / project links** · **83 demo links** · **97 complete videos** · **12 separate references**.
+Updated **2026-09-30 (Asia/Shanghai)** · **209 Astra examples** · **55 source / project links** · **84 demo links** · **101 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 ## Recent highlights
 
-| Yohaku | PULSE | Desk Objects |
+| GLB · Furnished Home | Clairval · Astra Light | Windfield · Terrain Editor |
 | --- | --- | --- |
-| [![Yohaku — Routine labo](https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-website-images1.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-yohaku) | [![PULSE — Routine labo](https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-website-images3.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-pulse) | [![Desk Objects — Routine labo](https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-website-images4.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-desk) |
-| Horror · Saint Orison | Action · The Crownless | Open source · AstraFloor |
-| [![Don’t Look Away — Saint Orison — Blendi / @BlendiByl](https://pbs.twimg.com/amplify_video_thumb/2100441933349113856/img/-zcl_oknjJHeAKF8.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=blendi-saint-orison) | [![The Crownless — Izkimar / @Izkimar](https://pbs.twimg.com/amplify_video_thumb/2100753501940809729/img/f53bBSn0KO5xt3yA.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=izkimar-crownless) | [![Astra Floor — BEROCHLU](https://raw.githubusercontent.com/BEROCHLU/astrafloor/main/.github/image1.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=berochlu-astrafloor) |
+| [![GLB · Furnished Home — GPTBlender / qduoduo-hwh](https://raw.githubusercontent.com/qduoduo-hwh/gptblender_demo/main/preview.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=gptblender-floor-plan-house) | [![Clairval · Astra Light — Givros / @givros](https://pbs.twimg.com/amplify_video_thumb/2103860397027500032/img/MWh231Th4GLRWRJi.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=givros-forest-village) | [![Windfield · Terrain Editor — ふぐあい(ふぐおん) / @fuguai1](https://raw.githubusercontent.com/TripoGrowthLab/awesome-3d-prompts/main/assets/previews/2c3e380b8ff93c61c74421f3217becf171ac346c55ffff41efac5fafb3be3a77.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=fuguai-windfield-editor) |
+| Blender · Booster Catch | OpenSCAD · J-hook | WebGPU · Melon Jelly |
+| [![Blender · Booster Catch — Vortlyn / @Vortlyn](https://pbs.twimg.com/amplify_video_thumb/2103966892637536256/img/fDFZ2Ru7xcs1TCxB.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=vortlyn-booster-catch) | [![OpenSCAD · J-hook — Wësche / @WescheNex1q](https://pbs.twimg.com/amplify_video_thumb/2104590246398537728/img/R7CFttVwzpqmPhSo.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=wesche-j-hook) | [![WebGPU · Melon Jelly — 基恩-Keane 🌊 / @esrhengwu](https://pbs.twimg.com/amplify_video_thumb/2104504130563899392/img/de4kRQ4IXZs7Osqh.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=keane-melon-jelly) |
 
-Open images for creator credits. These three websites combine Tripo assets with Astra-written Three.js interactions; the previews are actual screenshots, not archived videos.
+Open images for creator credits and available materials. The booster and jelly previews are model comparisons; the house includes BlenderKit furniture. J-hook strength testing is still pending.
 
 ## Live website preview
 
-[![Astra 3D Atlas live homepage](docs/media/homepage-2026-09-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas live homepage](docs/media/homepage-second-2026-09-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
 Captured from this update on September 30, 2026. Click to explore the gallery.
 
@@ -44,19 +44,19 @@ Captured from this update on September 30, 2026. Click to explore the gallery.
 
 ## Latest additions
 
-September 30 adds **3 visible websites** from Routine labo’s September 29 report: a ryokan, fitness equipment and desk objects. Tripo creates the models; Astra implements the pages and scroll interactions. The 97 archived videos are unchanged.
+September 30 adds **9 examples across two batches**. This second batch adds **6 works and 4 complete X recordings**: a downloadable furnished home, forest village, terrain editor, booster catch, printable J-hook and soft-body jelly comparison. The existing H3 Max Blender entry now includes the author’s newer experiments. Original dates and tool boundaries remain visible.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [GPTBlender — Floor Plan to Furnished Home](https://carpentry-liu.github.io/awesome-astra-3d/#case=gptblender-floor-plan-house) | GPTBlender / qduoduo-hwh | [Demo](https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/#interactive-demo) · [Source](https://github.com/qduoduo-hwh/gptblender_demo) · [Original](https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/) |
+| [Clairval — Forest Lake Village](https://carpentry-liu.github.io/awesome-astra-3d/#case=givros-forest-village) | Givros / @givros | [Original](https://x.com/givros/status/2103860776419111285) |
+| [Windfield — Adventure and Terrain Editor](https://carpentry-liu.github.io/awesome-astra-3d/#case=fuguai-windfield-editor) | ふぐあい(ふぐおん) / @fuguai1 | [Original](https://x.com/fuguai1/status/2104531704740512143) |
+| [Super Heavy — Blender Catch Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=vortlyn-booster-catch) | Vortlyn / @Vortlyn | [Original](https://x.com/Vortlyn/status/2103966922127630820) |
+| [J-hook — OpenSCAD Print Design Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=wesche-j-hook) | Wësche / @WescheNex1q | [Original](https://x.com/WescheNex1q/status/2104590493191479337) |
+| [Melon Jelly — Soft-body Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=keane-melon-jelly) | 基恩-Keane 🌊 / @esrhengwu | [Original](https://x.com/esrhengwu/status/2104504957173153951) |
 | [Yohaku — Ryokan with Scroll-driven 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-yohaku) | せなお / Routine labo | [Original](https://rutinelabo.com/gpt6-astra-3d-website/) |
 | [PULSE — Fitness Equipment in 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-pulse) | せなお / Routine labo | [Original](https://rutinelabo.com/gpt6-astra-3d-website/) |
-| [Routine labo — A Desk Object Story](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-desk) | せなお / Routine labo | [Original](https://rutinelabo.com/gpt6-astra-3d-website/) |
-| [Crossing Lab — Shibuya Pedestrian Density](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-shibuya) | せなお / Routine labo | [Original](https://rutinelabo.com/gpt6-astra-3d-simulator/) |
-| [Roman Legionary — Astra, Sol and Opus Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=topology-roman-legionary) | 原作者未确认；转述：u/SuspiciousHunter1359 | [Original](https://www.reddit.com/r/TopologyAI/comments/1ws861x/opus_55_vs_gpt6_sol_vs_astra_in_3d_modeling/) |
-| [Kyoto — Map-based Street Explorer](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-kyoto) | せなお / Routine labo | [Original](https://rutinelabo.com/gpt6-astra-3d-simulator/) |
-| [Okehazama — Terrain and Timeline](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-okehazama) | せなお / Routine labo | [Original](https://rutinelabo.com/gpt6-astra-3d-simulator/) |
-| [AstraLOD3 — Evidence-driven Building Reconstruction](https://carpentry-liu.github.io/awesome-astra-3d/#case=pantoja-astralod3) | Bryan G. Pantoja-Rosero | [Original](https://arxiv.org/abs/2609.28061) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md)
@@ -70,9 +70,9 @@ The interface is in Chinese; English project names, tools and creators are searc
 <details>
 <summary>Gallery and mobile screenshots · September 30, 2026</summary>
 
-[![Latest examples and category sidebar](docs/media/collection-2026-09-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![Latest examples and category sidebar](docs/media/collection-second-2026-09-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![Mobile welcome page and resource navigation](docs/media/mobile-2026-09-30.jpg)
+![Mobile welcome page and resource navigation](docs/media/mobile-second-2026-09-30.jpg)
 
 </details>
 

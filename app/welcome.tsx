@@ -5,9 +5,9 @@ import { ArrowRight, ArrowUpRight, Code2, Play, Layers3 } from 'lucide-react';
 import { type Case } from '@/src/catalog';
 
 const spotlights = [
-  { id: 'routine-yohaku', credit: 'Routine labo', name: '让一盏行灯，引你走进旅馆', label: '旅馆网页 · 混合三维流程', note: 'Yohaku · Tripo 资产 × Astra 交互' },
-  { id: 'routine-pulse', credit: 'Routine labo', name: '随滚动，把器材带到眼前', label: '健身品牌三维展示', note: 'PULSE · 哑铃、壶铃与滚动动画' },
-  { id: 'routine-desk', credit: 'Routine labo', name: '从键盘开始，讲述桌面故事', label: '桌面物件三维叙事', note: 'Routine labo · 键盘、耳机与台灯' },
+  { id: 'gptblender-floor-plan-house', credit: 'GPTBlender', name: '从一张平面图，走进完整房屋', label: 'Blender 场景 · GLB 工程', note: '四卧室住宅 · 模型下载与阶段回放' },
+  { id: 'givros-forest-village', credit: 'Givros', name: '沿森林小径，寻找湖心村庄', label: 'Astra Light · 三维环境', note: 'Clairval · 42 秒完整场景录像' },
+  { id: 'fuguai-windfield-editor', credit: 'ふぐあい', name: '让冒险世界，拥有编辑入口', label: '三维游戏 · 地形编辑原型', note: 'Windfield · 风车、塔楼与人物' },
 ];
 export function Welcome({
   cases,

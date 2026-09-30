@@ -1,5 +1,322 @@
 [
   {
+    "id": "gptblender-floor-plan-house",
+    "title": "GPTBlender：平面图到可下载房屋模型",
+    "titleEn": "GPTBlender — Floor Plan to Furnished Home",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "作者博客",
+    "platforms": [
+      "作者博客",
+      "GitHub"
+    ],
+    "author": "GPTBlender / qduoduo-hwh",
+    "sourceUrl": "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-30",
+    "addedAt": "2026-09-30",
+    "modelLabel": "GPT-6 Astra（Blender 场景）+ BlenderKit（部分家具）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者教程、仓库与模型溯源",
+    "evidenceNote": "作者明确声明 Astra 通过 Blender 脚本生成并组装场景；家具含第三方 BlenderKit 资产，未独立复现建模过程。",
+    "sourceAccess": "已读取教程与仓库；实际加载模型并切换俯视，下载轻量 GLB 并核对 provenance SHA-256。原始创作日期未知，9 月 7 日为仓库注明的渲染更新日期。",
+    "summary": "由平面图搭建四卧室住宅，教程对照白模、材质版及 BlenderKit 家具版。公开全分辨率和轻量 GLB，并提供八阶段模型回放与渲染图；已检查模型加载及俯视切换。家具包含第三方资产，作者估算耗时不等于完整回放时长。",
+    "outputType": [
+      "Blender 房屋场景",
+      "可下载 GLB 模型",
+      "八阶段交互回放"
+    ],
+    "promptAvailability": "作者教程公开任务提示词",
+    "promptExcerpt": null,
+    "promptSummary": "将平面图转为暖色现代住宅，使用 Blender CLI、BlenderKit 家具与 Cycles 渲染，并逐步核对布局。",
+    "promptUrl": "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/",
+    "imageUrl": "https://raw.githubusercontent.com/qduoduo-hwh/gptblender_demo/main/preview.webp",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者仓库实际 Cycles 全屋渲染；部分家具来自 BlenderKit。",
+    "demoUrl": "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/#interactive-demo",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/qduoduo-hwh/gptblender_demo",
+    "evidenceUrls": [
+      "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/",
+      "https://github.com/qduoduo-hwh/gptblender_demo",
+      "https://github.com/qduoduo-hwh/gptblender_demo/blob/main/provenance.json"
+    ],
+    "licenseNotes": "项目原创部分 MIT；GLB 内嵌 BlenderKit 第三方资产保留原许可，完整模型为混合许可证。请核对仓库 THIRD_PARTY_NOTICES.md 与 asset-manifest.json。图片与媒体不适用本库 MIT。",
+    "outcome": "作者工程与演示可检查；核对 GLB 文件和模型查看器，未独立复现建模过程。"
+  },
+  {
+    "id": "givros-forest-village",
+    "title": "Clairval：森林湖泊与法式村庄",
+    "titleEn": "Clairval — Forest Lake Village",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Givros / @givros",
+    "sourceUrl": "https://x.com/givros/status/2103860776419111285",
+    "sourceDate": "2026-09-26",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-30",
+    "addedAt": "2026-09-30",
+    "modelLabel": "GPT-6 Astra Light（作者声明，经镜像转引）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖直读受限；已核对镜像正文与实际媒体",
+    "evidenceNote": "模型归属依据作者公开声明，正文经 FxTwitter 镜像读取，保留原帖与整理页证据；未独立复现。",
+    "sourceAccess": "原始 X 页面读取受限；FxTwitter 返回原帖正文、作者、发布日期及对应媒体 ID，已核对实际效果。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者以同一环境任务比较 Luna、Sol 和 Astra Light：湖心废屋、花卉村庄、森林与路径。这里展示原帖第三份媒体对应的 Astra 场景，归档该段完整录像；不将第二段 Sol 录像计入 Astra。",
+    "outputType": [
+      "三维环境",
+      "浏览器场景",
+      "完整运行录像"
+    ],
+    "promptAvailability": "原帖公开任务要求，完整内容请回源",
+    "promptExcerpt": null,
+    "promptSummary": "用湖泊、湖心废屋、法式村庄和路径组织一片森林环境。",
+    "promptUrl": "https://x.com/givros/status/2103860776419111285",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2103860397027500032/img/MWh231Th4GLRWRJi.jpg",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者原帖第三份媒体：Astra Light 的森林村庄；封面与录像绑定同一媒体 ID。 附完整视频及最高码率下载。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/givros/status/2103860776419111285",
+      "https://api.fxtwitter.com/status/2103860776419111285"
+    ],
+    "licenseNotes": "作品与媒体权利归原作者及原有资产权利人；图片外链展示，不纳入本库 MIT 许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示，经镜像转引，未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/givros-forest-village-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-30/givros-forest-village-1-original.mp4",
+        "durationSeconds": 42.79,
+        "bytes": 57660308,
+        "sha256": "a2186b80c0a2ad77dc6678f75107fccfdf1e5c9c71d80aebf11643045efd694d",
+        "sourceUrl": "https://x.com/givros/status/2103860776419111285",
+        "label": "Forest lake village — Astra Light recording",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2103860397027500032/img/MWh231Th4GLRWRJi.jpg"
+      }
+    ]
+  },
+  {
+    "id": "fuguai-windfield-editor",
+    "title": "Windfield：三维冒险与地形编辑器",
+    "titleEn": "Windfield — Adventure and Terrain Editor",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "ふぐあい(ふぐおん) / @fuguai1",
+    "sourceUrl": "https://x.com/fuguai1/status/2104531704740512143",
+    "sourceDate": "2026-09-28",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-30",
+    "addedAt": "2026-09-30",
+    "modelLabel": "GPT-6 Astra（作者声明，经镜像转引）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖直读受限；已核对镜像正文与实际媒体",
+    "evidenceNote": "模型归属依据作者公开声明，正文经 FxTwitter 镜像读取，保留原帖与整理页证据；未独立复现。",
+    "sourceAccess": "原帖经 FxTwitter 读取；实际效果图通过 Tripo 整理仓库外链解码、目视检查。原始图片链接本轮返回 403，保留二手证据标记。",
+    "summary": "作者要求 Astra 制作类原神游戏及地形编辑工具。实际截图可见风车、塔楼、人物、动作与地形编辑模式入口；本轮收录经过检查的游戏画面，尚未获得公开工程或可独立操作的演示，不将截图视为完整玩法验证。",
+    "outputType": [
+      "三维冒险原型",
+      "地形编辑工具截图"
+    ],
+    "promptAvailability": "原帖公开任务要求，完整内容请回源",
+    "promptExcerpt": null,
+    "promptSummary": "制作一款类原神游戏，并提供编辑其地形的工具。",
+    "promptUrl": "https://x.com/fuguai1/status/2104531704740512143",
+    "imageUrl": "https://raw.githubusercontent.com/TripoGrowthLab/awesome-3d-prompts/main/assets/previews/2c3e380b8ff93c61c74421f3217becf171ac346c55ffff41efac5fafb3be3a77.webp",
+    "imageKind": "author-screenshot",
+    "imageCaption": "Tripo 整理页保留的作者实际游戏截图；可见地形编辑入口。原帖照片直链下载返回 403，使用整理仓库的同一效果图外链。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/fuguai1/status/2104531704740512143",
+      "https://api.fxtwitter.com/status/2104531704740512143",
+      "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2104531704740512143",
+      "https://github.com/TripoGrowthLab/awesome-3d-prompts"
+    ],
+    "licenseNotes": "作品与媒体权利归原作者及原有资产权利人；图片外链展示，不纳入本库 MIT 许可。",
+    "outcome": "作者展示，经镜像转引，未独立复现。"
+  },
+  {
+    "id": "vortlyn-booster-catch",
+    "title": "Super Heavy：Blender 火箭捕获对照",
+    "titleEn": "Super Heavy — Blender Catch Comparison",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Vortlyn / @Vortlyn",
+    "sourceUrl": "https://x.com/Vortlyn/status/2103966922127630820",
+    "sourceDate": "2026-09-26",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-30",
+    "addedAt": "2026-09-30",
+    "modelLabel": "GPT-6 Astra + Opus 5.5（作者并排对照）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖直读受限；已核对镜像正文与实际媒体",
+    "evidenceNote": "模型归属依据作者公开声明，正文经 FxTwitter 镜像读取，保留原帖与整理页证据；未独立复现。",
+    "sourceAccess": "原始 X 页面读取受限；FxTwitter 返回原帖正文、作者、发布日期及对应媒体 ID，已核对实际效果。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "同一 Blender Python 任务、镜头和渲染设置的火箭捕获对照：左侧 Opus 5.5，右侧 Astra。作者称不下载模型、贴图或 HDRI；归档整段并排录像，未公开工程，耗时为作者自报。",
+    "outputType": [
+      "Blender Python",
+      "捕获动画对照",
+      "完整运行录像"
+    ],
+    "promptAvailability": "原帖公开任务要求，完整内容请回源",
+    "promptExcerpt": null,
+    "promptSummary": "通过 Blender Python 创建 Super Heavy 助推器捕获动画，保持统一镜头与渲染设置。",
+    "promptUrl": "https://x.com/Vortlyn/status/2103966922127630820",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2103966892637536256/img/fDFZ2Ru7xcs1TCxB.jpg",
+    "imageKind": "author-screenshot",
+    "imageCaption": "实际并排录像封面：Opus 在左，Astra 在右；不能把整个对照归为 Astra 单独生成。 附完整视频及最高码率下载。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/Vortlyn/status/2103966922127630820",
+      "https://api.fxtwitter.com/status/2103966922127630820"
+    ],
+    "licenseNotes": "作品与媒体权利归原作者及原有资产权利人；图片外链展示，不纳入本库 MIT 许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示，经镜像转引，未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vortlyn-booster-catch-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-30/vortlyn-booster-catch-1-original.mp4",
+        "durationSeconds": 11.5,
+        "bytes": 1800675,
+        "sha256": "0d043e75aa9b454d77f956c7d2cc53a83f2e18e316ef949e9ebedcc486942020",
+        "sourceUrl": "https://x.com/Vortlyn/status/2103966922127630820",
+        "label": "Super Heavy catch — Opus left / Astra right",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2103966892637536256/img/fDFZ2Ru7xcs1TCxB.jpg"
+      }
+    ]
+  },
+  {
+    "id": "wesche-j-hook",
+    "title": "J 型挂钩：OpenSCAD 打印设计对照",
+    "titleEn": "J-hook — OpenSCAD Print Design Comparison",
+    "group": "astra",
+    "category": "CAD / Blender",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Wësche / @WescheNex1q",
+    "sourceUrl": "https://x.com/WescheNex1q/status/2104590493191479337",
+    "sourceDate": "2026-09-28",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-30",
+    "addedAt": "2026-09-30",
+    "modelLabel": "GPT-6 Astra + Opus 5.5 + Grok 4.7（作者对照）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖直读受限；已核对镜像正文与实际媒体",
+    "evidenceNote": "模型归属依据作者公开声明，正文经 FxTwitter 镜像读取，保留原帖与整理页证据；未独立复现。",
+    "sourceAccess": "原始 X 页面读取受限；FxTwitter 返回原帖正文、作者、发布日期及对应媒体 ID，已核对实际效果。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者展示三种模型设计的 J 型挂钩，说明 Astra 作品位于下方；计划打印后比较承重。记录 OpenSCAD 到 STL 的制作目标与整段 CAD 预览，尚未公布实物强度结果或可下载源码，不把计划测试写成结论。",
+    "outputType": [
+      "OpenSCAD 设计",
+      "STL 打印预览",
+      "完整运行录像"
+    ],
+    "promptAvailability": "原帖公开任务要求，完整内容请回源",
+    "promptExcerpt": null,
+    "promptSummary": "设计可手动卡入钢杆与销钉的单体 PLA 挂钩，输出可编译 OpenSCAD 文件；强度仍待实物测试。",
+    "promptUrl": "https://x.com/WescheNex1q/status/2104590493191479337",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2104590246398537728/img/R7CFttVwzpqmPhSo.jpg",
+    "imageKind": "author-screenshot",
+    "imageCaption": "原帖 CAD 预览；模型位置依据作者说明，Astra 设计位于下方。 附完整视频及最高码率下载。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/WescheNex1q/status/2104590493191479337",
+      "https://api.fxtwitter.com/status/2104590493191479337"
+    ],
+    "licenseNotes": "作品与媒体权利归原作者及原有资产权利人；图片外链展示，不纳入本库 MIT 许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示，经镜像转引，未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/wesche-j-hook-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-30/wesche-j-hook-1-original.mp4",
+        "durationSeconds": 43.33,
+        "bytes": 23449362,
+        "sha256": "2e1365ad6a1ebd753bcc87555a023f638ee8c86ff5c2757121078f12159670c8",
+        "sourceUrl": "https://x.com/WescheNex1q/status/2104590493191479337",
+        "label": "J-hook CAD comparison — Astra at bottom",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2104590246398537728/img/R7CFttVwzpqmPhSo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "keane-melon-jelly",
+    "title": "Melon Jelly：软体果冻的模型对照",
+    "titleEn": "Melon Jelly — Soft-body Comparison",
+    "group": "astra",
+    "category": "交互与工具",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "基恩-Keane 🌊 / @esrhengwu",
+    "sourceUrl": "https://x.com/esrhengwu/status/2104504957173153951",
+    "sourceDate": "2026-09-28",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-30",
+    "addedAt": "2026-09-30",
+    "modelLabel": "GPT-6 Astra + Opus 5.5（作者并排对照）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖直读受限；已核对镜像正文与实际媒体",
+    "evidenceNote": "模型归属依据作者公开声明，正文经 FxTwitter 镜像读取，保留原帖与整理页证据；未独立复现。",
+    "sourceAccess": "原始 X 页面读取受限；FxTwitter 返回原帖正文、作者、发布日期及对应媒体 ID，已核对实际效果。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "公开提示词要求 WebGPU / WGSL 果冻西瓜，可抓取、拉伸与回弹。实际录像上方为 Opus，下方为 Astra，可对照形变、材质与操作反馈；作者认为 Opus 效果较好，本库未独立评分。作者分享的 Claude 演示未确认是 Astra 版本，因此不计入本案例演示入口。",
+    "outputType": [
+      "WebGPU 软体任务",
+      "交互效果对照",
+      "完整运行录像"
+    ],
+    "promptAvailability": "原帖公开任务要求，完整内容请回源",
+    "promptExcerpt": null,
+    "promptSummary": "制作可抓取、扭转、拉伸并回弹的果冻西瓜；物理与材质要求属于任务目标，未独立验证。",
+    "promptUrl": "https://x.com/esrhengwu/status/2104505413857415515",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2104504130563899392/img/de4kRQ4IXZs7Osqh.jpg",
+    "imageKind": "author-screenshot",
+    "imageCaption": "整段对照录像封面：上方 Opus，下方 Astra；展示实际操作，不代表本库已验证全部物理与材质要求。 附完整视频及最高码率下载。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/esrhengwu/status/2104504957173153951",
+      "https://api.fxtwitter.com/status/2104504957173153951",
+      "https://x.com/esrhengwu/status/2104505413857415515",
+      "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2104504957173153951"
+    ],
+    "licenseNotes": "作品与媒体权利归原作者及原有资产权利人；图片外链展示，不纳入本库 MIT 许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示，经镜像转引，未独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/keane-melon-jelly-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-30/keane-melon-jelly-1-original.mp4",
+        "durationSeconds": 18.58,
+        "bytes": 8642778,
+        "sha256": "2eaed877c319aa8856b0b9163f6a204a8c677829f5c2a615fa380bdbc74f2ec1",
+        "sourceUrl": "https://x.com/esrhengwu/status/2104504957173153951",
+        "label": "Melon Jelly — Opus 5.5 / GPT-6 Astra comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2104504130563899392/img/de4kRQ4IXZs7Osqh.jpg"
+      }
+    ]
+  },
+  {
     "id": "routine-yohaku",
     "title": "余白旅馆：滚动驱动的三维行灯",
     "titleEn": "Yohaku — Ryokan with Scroll-driven 3D",
@@ -3759,20 +4076,20 @@
     "sourceUrl": "https://github.com/gokayfem/H3-Max-Blender",
     "sourceDate": null,
     "secondaryPublishedAt": null,
-    "observedAt": "2026-09-25",
+    "observedAt": "2026-09-30",
     "addedAt": "2026-09-11",
     "modelLabel": "GPT-6 Astra（脚本）+ H3 Max（视频生成）",
     "evidenceLevel": "author",
     "evidenceStatus": "已读取作者公开说明",
     "evidenceNote": "作者明确说明 Astra 参与制作；未由本库独立复现。",
-    "sourceAccess": "读取作者 README、文件树与相关材料说明；未在本地重新运行工程。",
-    "summary": "公开项目把灰模船的 Blender 几何和多种风格影像并列展示。README 明确区分 Astra 编写演示脚本、H3 Max 生成视频；生成画面可重解释几何。作者录屏跳过首次等待并循环短段，属于流程演示，不是未剪辑的完整生成记录。",
+    "sourceAccess": "读取最新作者 README 与实验命令，补充已有档案；未运行付费生成，也未确认新增实验产物已公开。原有船舶封面和视频保留。",
+    "summary": "Astra 编写 Blender 演示脚本，H3 Max 生成风格影像。作者 README 新增九风格车站、十六风格温室市场、三个观测站与多镜头实验说明；神经影像仍可能重新解释几何。公开船舶演示跳过首次等待并循环短段，不能当作全部新实验的完整录像。",
     "outputType": [
       "Blender 扩展源码",
       "神经渲染流程",
       "多风格视频预览"
     ],
-    "promptAvailability": "未公开完整提示词",
+    "promptAvailability": "仓库提供实验脚本与运行方式；完整生成提示以对应脚本为准",
     "promptExcerpt": null,
     "promptSummary": null,
     "promptUrl": null,

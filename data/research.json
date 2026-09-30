@@ -1136,6 +1136,49 @@
         "No new verified X archive selected; 97 archived videos unchanged.",
         "No ChatGPT Sites deployment."
       ]
+    },
+    {
+      "observedAt": "2026-09-30",
+      "batch": "sep30-projects-second",
+      "addedCount": 6,
+      "caseIds": [
+        "gptblender-floor-plan-house",
+        "givros-forest-village",
+        "fuguai-windfield-editor",
+        "vortlyn-booster-catch",
+        "wesche-j-hook",
+        "keane-melon-jelly"
+      ],
+      "updatedCaseIds": [
+        "gokay-neural-rendering"
+      ],
+      "sources": [
+        "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/",
+        "https://x.com/givros/status/2103860776419111285",
+        "https://x.com/fuguai1/status/2104531704740512143",
+        "https://x.com/Vortlyn/status/2103966922127630820",
+        "https://x.com/WescheNex1q/status/2104590493191479337",
+        "https://x.com/esrhengwu/status/2104504957173153951",
+        "https://github.com/TripoGrowthLab/awesome-3d-prompts",
+        "https://github.com/gokayfem/H3-Max-Blender"
+      ],
+      "method": "Search recent X, GitHub, creator sites and communities. Inspect source statements, actual images and full video frames; download/decode complete selected X clips.",
+      "excluded": [
+        {
+          "source": "https://x.com/haonv2/status/2104077535315144878",
+          "reason": "Original MP4 downloads failed byte-length checks / TLS; hold without a complete archive."
+        }
+      ],
+      "notes": [
+        "X text through FxTwitter remains secondary, not direct access.",
+        "Forest archive is the third source medium, Astra Light; Sol video not added.",
+        "Booster right / jelly bottom are Astra in visible comparisons.",
+        "J-hook physical load test is planned, no strength result claimed.",
+        "Windfield original image returned 403; actual preview from Tripo discovery repository checked.",
+        "House original creation date unknown; September 7 render update is not substituted.",
+        "House lightweight GLB matches author SHA-256 and viewer loads.",
+        "No ChatGPT Sites deployment."
+      ]
     }
   ]
 }

@@ -5163,6 +5163,60 @@
           "width": 1920
         }
       ]
+    },
+    {
+      "checkedAt": "2026-09-30",
+      "scope": "Second batch: six new images loaded in the actual gallery, four complete X source clips (original + full smaller rendition) downloaded and fully decoded; old 215 cases retained with one intentional H3 README update, all previous 97 video archives unchanged. Not a full historical re-audit.",
+      "results": [
+        {
+          "height": 2000,
+          "loaded": true,
+          "url": "https://raw.githubusercontent.com/qduoduo-hwh/gptblender_demo/main/preview.webp",
+          "width": 2800
+        },
+        {
+          "height": 675,
+          "loaded": true,
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2103860397027500032/img/MWh231Th4GLRWRJi.jpg",
+          "width": 1200
+        },
+        {
+          "height": 584,
+          "loaded": true,
+          "url": "https://raw.githubusercontent.com/TripoGrowthLab/awesome-3d-prompts/main/assets/previews/2c3e380b8ff93c61c74421f3217becf171ac346c55ffff41efac5fafb3be3a77.webp",
+          "width": 1040
+        },
+        {
+          "height": 675,
+          "loaded": true,
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2103966892637536256/img/fDFZ2Ru7xcs1TCxB.jpg",
+          "width": 1200
+        },
+        {
+          "height": 729,
+          "loaded": true,
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2104590246398537728/img/R7CFttVwzpqmPhSo.jpg",
+          "width": 1199
+        },
+        {
+          "height": 1200,
+          "loaded": true,
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2104504130563899392/img/de4kRQ4IXZs7Osqh.jpg",
+          "width": 1067
+        }
+      ],
+      "newVideoMediaIds": [
+        "2103860397027500032",
+        "2103966892637536256",
+        "2104504130563899392",
+        "2104590246398537728"
+      ],
+      "glbProvenance": {
+        "bytes": 15274196,
+        "version": 2,
+        "matchesProvenance": true,
+        "sha256": "030add1dd942bce4756bdb8f44b83d1c41ebb363a1fce6f1d6816b5e9d244072"
+      }
     }
   ]
 }

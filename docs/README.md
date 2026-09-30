@@ -35,3 +35,5 @@
 - [9 月 29 日：人流可视化与人物建模对照](features/F-0022-daily-sep29/README.md)。
 
 - [9 月 30 日：三组三维网页与资产分工](features/F-0023-daily-sep30/README.md)。
+
+- [9 月 30 日第二轮：六件作品、四段录像与工程](features/F-0024-sep30-projects/README.md)。
