@@ -25,4 +25,23 @@ Windfield 原帖照片本轮返回 403，采用发现仓库中已检查的实际
 - `npm run build`：修订果冻说明后重新生成目录与静态页面，首页 9 个资源引用检查通过；保留已有大包体积和 Node shell 弃用提示。
 - `git fetch origin main`、`git rev-list --left-right --count HEAD...origin/main`：提交前远端与本地基线一致（0 / 0），未覆盖其他更新。`git diff --check` 通过。
 
-部署与线上播放结果将在实际完成后追加。
+## 线上确认
+
+内容提交 `df616f6cf7bb9a060cd90a60614c1b4b2cc1a8a7` 已推送到 main。[GitHub Actions 36688098631](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/36688098631) 的 build、deploy 均为 success；仅部署 GitHub Pages，没有部署 ChatGPT 站点。
+
+- `python work/ci-sep30-second.py`：上述提交对应的构建与部署完成。
+- `python work/published-sep30-second.py`：公开 `cases.json` 的 221 条记录与本地完全一致，六条新增 ID 均存在。
+- `python work/verify-release-sep30-second.py`：公开 Release 的 8 个文件大小、digest、下载地址均匹配。
+- `python work/readme-check-sep30-second.py`：中英文 README 与三张新截图均已同步；GitHub 渲染 README 包含 9 张图片。
+- `python work/about-sep30-second.py`：About 已更新为 209 Astra 案例、55 工程、84 演示、101 完整录像，保留公开状态、站点链接与 20 个 topics。
+
+使用真实浏览器访问已发布 Pages，逐一打开四个详情播放器并按空格播放。四段均到达 `ended=true`、`currentTime=duration`、`readyState=4`，解码宽高非零，未出现 `video.error`：
+
+| 案例 | 完整时长（秒） | 实际解码尺寸 |
+| --- | ---: | --- |
+| Super Heavy 捕获对照 | 11.5 | 640 × 360 |
+| Clairval 森林村庄 | 42.794667 | 640 × 360 |
+| J 型挂钩对照 | 43.333333 | 592 × 360 |
+| Melon Jelly 对照 | 18.581333 | 480 × 540 |
+
+浏览器 `dev.logs({levels:['warn','error'],limit:30})` 返回空数组。播放状态与控制台结果保存在忽略目录 `work/refresh-2026-09-30-second/`；首页、案例列表及手机截图位于 `docs/media/*-second-2026-09-30.jpg`。测试标签已关闭，临时本地预览服务收尾时停止。
