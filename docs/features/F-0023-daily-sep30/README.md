@@ -11,3 +11,10 @@
 - `python work/finish-sep30.py`：原 212 条逐对象不变、97 段视频清单不变；三张新增图在实际页面均加载为 1920 × 1080。
 - 首页、最新列表、手机实拍已检查；手机无横向溢出，控制台 warn/error 为空。
 - 增量媒体审计仅记录今日新增图片，不覆盖历史全库审计日期。
+
+## 发布核验
+
+- 内容提交 `4cadd93` 已推送；[Actions 36655894447](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/36655894447) 的 build、deploy 均成功。
+- `python work/published-sep30.py`：部署中首次仍为 212 条；部署完成后线上 215 条与本地逐对象一致。
+- `python work/readme-check-sep30.py`：GitHub 渲染 README 含 9 张图；中英文 README 与三张新截图核对一致。
+- `python work/about-sep30.py`：About 为 203 案例 / 54 工程 / 83 演示 / 97 录像，public，保留 20 个 topics。
