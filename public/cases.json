@@ -1,5 +1,131 @@
 [
   {
+    "id": "routine-yohaku",
+    "title": "余白旅馆：滚动驱动的三维行灯",
+    "titleEn": "Yohaku — Ryokan with Scroll-driven 3D",
+    "group": "astra",
+    "category": "交互与工具",
+    "platform": "作者博客",
+    "platforms": [
+      "作者博客"
+    ],
+    "author": "せなお / Routine labo",
+    "sourceUrl": "https://rutinelabo.com/gpt6-astra-3d-website/",
+    "sourceDate": "2026-09-29",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-30",
+    "addedAt": "2026-09-30",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者文章与网页效果图",
+    "evidenceNote": "作者自述，未独立复现。",
+    "sourceAccess": "读取作者 9 月 29 日文章，核对工具分工及实际网页截图；未发现公开项目或直接演示链接。",
+    "summary": "以行灯、木桶和铁瓶串联温泉旅馆页面。作者用 Tripo 制作模型，Astra 编写 Three.js 页面与滚动动画；料理素材改用图片，未将所有画面归于三维生成。",
+    "outputType": [
+      "Three.js 滚动交互",
+      "Tripo 三维资产"
+    ],
+    "promptAvailability": "文章展示任务约束和提示词截图；完整材料以作者渠道为准",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": "https://rutinelabo.com/gpt6-astra-3d-website/",
+    "imageUrl": "https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-website-images1.webp",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者文章中的实际网页截图；三维资产由 Tripo 提供，网页交互由 Astra 实现。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://rutinelabo.com/gpt6-astra-3d-website/"
+    ],
+    "licenseNotes": "作品与媒体归 Routine labo 及相关资产权利人，外链作者原图，不纳入本库 MIT 许可。",
+    "outcome": "作者展示，未独立复现；仅提供实际截图，不标为完整录像。"
+  },
+  {
+    "id": "routine-pulse",
+    "title": "PULSE：健身器材的三维网页展示",
+    "titleEn": "PULSE — Fitness Equipment in 3D",
+    "group": "astra",
+    "category": "交互与工具",
+    "platform": "作者博客",
+    "platforms": [
+      "作者博客"
+    ],
+    "author": "せなお / Routine labo",
+    "sourceUrl": "https://rutinelabo.com/gpt6-astra-3d-website/",
+    "sourceDate": "2026-09-29",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-30",
+    "addedAt": "2026-09-30",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者文章与网页效果图",
+    "evidenceNote": "作者自述，未独立复现。",
+    "sourceAccess": "读取作者 9 月 29 日文章，核对工具分工及实际网页截图；未发现公开项目或直接演示链接。",
+    "summary": "哑铃、壶铃和跑鞋随滚动依次展示。Tripo 提供器材模型，Astra 实现网页及动画；作者展示制作结果，本库尚未获得公开工程或可独立操作的演示。",
+    "outputType": [
+      "Three.js 滚动交互",
+      "Tripo 三维资产"
+    ],
+    "promptAvailability": "文章展示任务约束和提示词截图；完整材料以作者渠道为准",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": "https://rutinelabo.com/gpt6-astra-3d-website/",
+    "imageUrl": "https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-website-images3.webp",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者文章中的实际网页截图；三维资产由 Tripo 提供，网页交互由 Astra 实现。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://rutinelabo.com/gpt6-astra-3d-website/"
+    ],
+    "licenseNotes": "作品与媒体归 Routine labo 及相关资产权利人，外链作者原图，不纳入本库 MIT 许可。",
+    "outcome": "作者展示，未独立复现；仅提供实际截图，不标为完整录像。"
+  },
+  {
+    "id": "routine-desk",
+    "title": "Routine labo：桌面物件的三维叙事",
+    "titleEn": "Routine labo — A Desk Object Story",
+    "group": "astra",
+    "category": "交互与工具",
+    "platform": "作者博客",
+    "platforms": [
+      "作者博客"
+    ],
+    "author": "せなお / Routine labo",
+    "sourceUrl": "https://rutinelabo.com/gpt6-astra-3d-website/",
+    "sourceDate": "2026-09-29",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-09-30",
+    "addedAt": "2026-09-30",
+    "modelLabel": "GPT-6 Astra（作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "已读取作者文章与网页效果图",
+    "evidenceNote": "作者自述，未独立复现。",
+    "sourceAccess": "读取作者 9 月 29 日文章，核对工具分工及实际网页截图；未发现公开项目或直接演示链接。",
+    "summary": "键盘、耳机和台灯组成桌面主题网页，滚动位置与物件运动关联。作者用 Tripo 模型配合 Astra 生成的 Three.js 页面；当前收录原文实际截图，未独立复现。",
+    "outputType": [
+      "Three.js 滚动交互",
+      "Tripo 三维资产"
+    ],
+    "promptAvailability": "文章展示任务约束和提示词截图；完整材料以作者渠道为准",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": "https://rutinelabo.com/gpt6-astra-3d-website/",
+    "imageUrl": "https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-website-images4.webp",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者文章中的实际网页截图；三维资产由 Tripo 提供，网页交互由 Astra 实现。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://rutinelabo.com/gpt6-astra-3d-website/"
+    ],
+    "licenseNotes": "作品与媒体归 Routine labo 及相关资产权利人，外链作者原图，不纳入本库 MIT 许可。",
+    "outcome": "作者展示，未独立复现；仅提供实际截图，不标为完整录像。"
+  },
+  {
     "id": "routine-shibuya",
     "title": "Crossing Lab：涩谷路口的人流密度可视化",
     "titleEn": "Crossing Lab — Shibuya Pedestrian Density",

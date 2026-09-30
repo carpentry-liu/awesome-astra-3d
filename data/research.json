@@ -1116,6 +1116,26 @@
         "No new verified X archive; original 210 records and 97 videos unchanged.",
         "No ChatGPT Sites deployment."
       ]
+    },
+    {
+      "observedAt": "2026-09-30",
+      "batch": "daily-sep30-visible",
+      "addedCount": 3,
+      "caseIds": [
+        "routine-yohaku",
+        "routine-pulse",
+        "routine-desk"
+      ],
+      "sources": [
+        "https://rutinelabo.com/gpt6-astra-3d-website/"
+      ],
+      "method": "Search recent web, X and GitHub; inspect primary creator article and three actual website images.",
+      "notes": [
+        "Original publication date September 29 retained.",
+        "Model assets are Tripo outputs; Astra implements Three.js pages and scroll interactions.",
+        "No new verified X archive selected; 97 archived videos unchanged.",
+        "No ChatGPT Sites deployment."
+      ]
     }
   ]
 }

@@ -13,24 +13,24 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-09-29（Asia/Shanghai）**：**200 条 Astra 案例** · **54 条源码 / 工程** · **83 个演示入口** · **97 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-09-30（Asia/Shanghai）**：**203 条 Astra 案例** · **54 条源码 / 工程** · **83 个演示入口** · **97 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 ## 近期精选，先看效果
 
-| Crossing Lab | Roman Legionary · Astra: right | Kyoto |
+| Yohaku | PULSE | Desk Objects |
 | --- | --- | --- |
-| [![Crossing Lab — せなお / Routine labo](https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-simulator-images6.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-shibuya) | [![Roman Legionary · Astra: right — 原作者未确认；转述：u/SuspiciousHunter1359](https://i.redd.it/g95irt9is7sh1.jpeg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=topology-roman-legionary) | [![Kyoto — せなお / Routine labo](https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-simulator-images2.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-kyoto) |
+| [![Yohaku — Routine labo](https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-website-images1.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-yohaku) | [![PULSE — Routine labo](https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-website-images3.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-pulse) | [![Desk Objects — Routine labo](https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-website-images4.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-desk) |
 | 惊悚探索 · Saint Orison | 动作游戏 · The Crownless | 开源游戏 · AstraFloor |
 | [![Don’t Look Away — Saint Orison — Blendi / @BlendiByl](https://pbs.twimg.com/amplify_video_thumb/2100441933349113856/img/-zcl_oknjJHeAKF8.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=blendi-saint-orison) | [![The Crownless — Izkimar / @Izkimar](https://pbs.twimg.com/amplify_video_thumb/2100753501940809729/img/f53bBSn0KO5xt3yA.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=izkimar-crownless) | [![Astra Floor — BEROCHLU](https://raw.githubusercontent.com/BEROCHLU/astrafloor/main/.github/image1.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=berochlu-astrafloor) |
 
-点击图片查看作者与流程。京都和桶狭间采用 Astra、Three.js、Tripo 与 Mixamo 混合制作，截图展示不等于模拟精度已验证。
+点击图片查看作者与流程。三件网页均为 Tripo 资产与 Astra / Three.js 交互的混合制作，展示实际截图。
 
 ## 网站实拍
 
-[![Astra 3D Atlas 正式网站首页](docs/media/homepage-2026-09-29.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 正式网站首页](docs/media/homepage-2026-09-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-本次更新实拍 · 2026-09-29。点击图片进入案例库。
+本次更新实拍 · 2026-09-30。点击图片进入案例库。
 
 ## 找到你的下一次创作
 
@@ -44,19 +44,19 @@
 
 ## 最新收录
 
-9 月 29 日新增 **2 条可查看案例**：涩谷路口密度可视化、罗马军团士兵建模对照（Astra 为右列）。前者原图今日复查恢复，后者明确标记为社区转述。保留原始发布日期，97 段归档录像不变。
+9 月 30 日新增 **3 件三维网页案例**：余白旅馆、PULSE 健身器材与桌面物件，来自作者 9 月 29 日的制作记录。明确区分 Tripo 模型与 Astra 网页交互，三张实际截图均已检查；97 段归档录像不变。
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
+| [余白旅馆：滚动驱动的三维行灯](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-yohaku) | せなお / Routine labo | [原始来源](https://rutinelabo.com/gpt6-astra-3d-website/) |
+| [PULSE：健身器材的三维网页展示](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-pulse) | せなお / Routine labo | [原始来源](https://rutinelabo.com/gpt6-astra-3d-website/) |
+| [Routine labo：桌面物件的三维叙事](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-desk) | せなお / Routine labo | [原始来源](https://rutinelabo.com/gpt6-astra-3d-website/) |
 | [Crossing Lab：涩谷路口的人流密度可视化](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-shibuya) | せなお / Routine labo | [原始来源](https://rutinelabo.com/gpt6-astra-3d-simulator/) |
 | [罗马军团士兵：Astra、Sol 与 Opus 建模对照](https://carpentry-liu.github.io/awesome-astra-3d/#case=topology-roman-legionary) | 原作者未确认；转述：u/SuspiciousHunter1359 | [原始来源](https://www.reddit.com/r/TopologyAI/comments/1ws861x/opus_55_vs_gpt6_sol_vs_astra_in_3d_modeling/) |
 | [京都街景：地图驱动的步行与飞行视角](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-kyoto) | せなお / Routine labo | [原始来源](https://rutinelabo.com/gpt6-astra-3d-simulator/) |
 | [桶狭间：地形与时间轴上的战役演示](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-okehazama) | せなお / Routine labo | [原始来源](https://rutinelabo.com/gpt6-astra-3d-simulator/) |
 | [AstraLOD3：从多视图证据重建建筑](https://carpentry-liu.github.io/awesome-astra-3d/#case=pantoja-astralod3) | Bryan G. Pantoja-Rosero | [原始来源](https://arxiv.org/abs/2609.28061) |
-| [Old Circle：暗黑动作游戏的迭代与建模局限](https://carpentry-liu.github.io/awesome-astra-3d/#case=usnul-old-circle) | Usnul | [源码](https://github.com/Usnul/old-circle) · [原始来源](https://discourse.threejs.org/t/come-piggies-i-got-slop/94232) |
-| [静默子午线：插画场景与程序化三维机关](https://carpentry-liu.github.io/awesome-astra-3d/#case=stackloom-silent-meridian) | stackloomdev | [演示](https://silent-meridian.stackloom.org/) · [源码](https://github.com/stackloomdev/silent-meridian) · [原始来源](https://github.com/stackloomdev/silent-meridian) |
-| [How to Suck：吸尘器驱动的三维合作游戏](https://carpentry-liu.github.io/awesome-astra-3d/#case=breineng-how-to-suck) | breineng | [源码](https://github.com/breineng/how-to-suck) · [原始来源](https://github.com/breineng/how-to-suck) |
 <!-- atlas:latest:end -->
 
 [查看完整更新目录 →](UPDATES.md)
@@ -70,11 +70,11 @@
 - 手机布局、键盘操作与图片失败提示均保留；方法参考与 Astra 案例分别呈现。
 
 <details>
-<summary>查看案例区与手机实拍 · 2026-09-29</summary>
+<summary>查看案例区与手机实拍 · 2026-09-30</summary>
 
-[![最新案例与分类侧栏](docs/media/collection-2026-09-29.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![最新案例与分类侧栏](docs/media/collection-2026-09-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端欢迎页，精选作品与资源导航](docs/media/mobile-2026-09-29.jpg)
+![手机端欢迎页，精选作品与资源导航](docs/media/mobile-2026-09-30.jpg)
 
 </details>
 

@@ -13,24 +13,24 @@ Explore GPT-6 Astra in 3D: Blender, Houdini, Three.js, WebGL, CAD, VRM and inter
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-09-29 (Asia/Shanghai)** · **200 Astra examples** · **54 source / project links** · **83 demo links** · **97 complete videos** · **12 separate references**.
+Updated **2026-09-30 (Asia/Shanghai)** · **203 Astra examples** · **54 source / project links** · **83 demo links** · **97 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 ## Recent highlights
 
-| Crossing Lab | Roman Legionary · Astra: right | Kyoto |
+| Yohaku | PULSE | Desk Objects |
 | --- | --- | --- |
-| [![Crossing Lab — せなお / Routine labo](https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-simulator-images6.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-shibuya) | [![Roman Legionary · Astra: right — 原作者未确认；转述：u/SuspiciousHunter1359](https://i.redd.it/g95irt9is7sh1.jpeg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=topology-roman-legionary) | [![Kyoto — せなお / Routine labo](https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-simulator-images2.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-kyoto) |
+| [![Yohaku — Routine labo](https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-website-images1.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-yohaku) | [![PULSE — Routine labo](https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-website-images3.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-pulse) | [![Desk Objects — Routine labo](https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-website-images4.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-desk) |
 | Horror · Saint Orison | Action · The Crownless | Open source · AstraFloor |
 | [![Don’t Look Away — Saint Orison — Blendi / @BlendiByl](https://pbs.twimg.com/amplify_video_thumb/2100441933349113856/img/-zcl_oknjJHeAKF8.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=blendi-saint-orison) | [![The Crownless — Izkimar / @Izkimar](https://pbs.twimg.com/amplify_video_thumb/2100753501940809729/img/f53bBSn0KO5xt3yA.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=izkimar-crownless) | [![Astra Floor — BEROCHLU](https://raw.githubusercontent.com/BEROCHLU/astrafloor/main/.github/image1.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=berochlu-astrafloor) |
 
-Open images for creator credits. Kyoto and Okehazama combine Astra, Three.js, Tripo and Mixamo; screenshots do not imply independently verified simulation accuracy.
+Open images for creator credits. These three websites combine Tripo assets with Astra-written Three.js interactions; the previews are actual screenshots, not archived videos.
 
 ## Live website preview
 
-[![Astra 3D Atlas live homepage](docs/media/homepage-2026-09-29.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas live homepage](docs/media/homepage-2026-09-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-Captured from this update on September 29, 2026. Click to explore the gallery.
+Captured from this update on September 30, 2026. Click to explore the gallery.
 
 ## Choose a starting point
 
@@ -44,19 +44,19 @@ Captured from this update on September 29, 2026. Click to explore the gallery.
 
 ## Latest additions
 
-September 29 adds **2 visible entries**: Crossing Lab’s pedestrian-density scene and a community-shared Roman legionary comparison (Astra is the right column). Original publication and curation dates are separate. The 97 archived videos are unchanged.
+September 30 adds **3 visible websites** from Routine labo’s September 29 report: a ryokan, fitness equipment and desk objects. Tripo creates the models; Astra implements the pages and scroll interactions. The 97 archived videos are unchanged.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [Yohaku — Ryokan with Scroll-driven 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-yohaku) | せなお / Routine labo | [Original](https://rutinelabo.com/gpt6-astra-3d-website/) |
+| [PULSE — Fitness Equipment in 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-pulse) | せなお / Routine labo | [Original](https://rutinelabo.com/gpt6-astra-3d-website/) |
+| [Routine labo — A Desk Object Story](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-desk) | せなお / Routine labo | [Original](https://rutinelabo.com/gpt6-astra-3d-website/) |
 | [Crossing Lab — Shibuya Pedestrian Density](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-shibuya) | せなお / Routine labo | [Original](https://rutinelabo.com/gpt6-astra-3d-simulator/) |
 | [Roman Legionary — Astra, Sol and Opus Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=topology-roman-legionary) | 原作者未确认；转述：u/SuspiciousHunter1359 | [Original](https://www.reddit.com/r/TopologyAI/comments/1ws861x/opus_55_vs_gpt6_sol_vs_astra_in_3d_modeling/) |
 | [Kyoto — Map-based Street Explorer](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-kyoto) | せなお / Routine labo | [Original](https://rutinelabo.com/gpt6-astra-3d-simulator/) |
 | [Okehazama — Terrain and Timeline](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-okehazama) | せなお / Routine labo | [Original](https://rutinelabo.com/gpt6-astra-3d-simulator/) |
 | [AstraLOD3 — Evidence-driven Building Reconstruction](https://carpentry-liu.github.io/awesome-astra-3d/#case=pantoja-astralod3) | Bryan G. Pantoja-Rosero | [Original](https://arxiv.org/abs/2609.28061) |
-| [Old Circle — Iterative Action RPG Prototype](https://carpentry-liu.github.io/awesome-astra-3d/#case=usnul-old-circle) | Usnul | [Source](https://github.com/Usnul/old-circle) · [Original](https://discourse.threejs.org/t/come-piggies-i-got-slop/94232) |
-| [Silent Meridian — Illustrated Puzzles with Procedural 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=stackloom-silent-meridian) | stackloomdev | [Demo](https://silent-meridian.stackloom.org/) · [Source](https://github.com/stackloomdev/silent-meridian) · [Original](https://github.com/stackloomdev/silent-meridian) |
-| [How to Suck — Vacuum-powered Unity Co-op](https://carpentry-liu.github.io/awesome-astra-3d/#case=breineng-how-to-suck) | breineng | [Source](https://github.com/breineng/how-to-suck) · [Original](https://github.com/breineng/how-to-suck) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md)
@@ -68,11 +68,11 @@ Three featured works are visible together. Desktop navigation places categories 
 The interface is in Chinese; English project names, tools and creators are searchable. Keyboard navigation, a mobile layout and image failure states are supported.
 
 <details>
-<summary>Gallery and mobile screenshots · September 29, 2026</summary>
+<summary>Gallery and mobile screenshots · September 30, 2026</summary>
 
-[![Latest examples and category sidebar](docs/media/collection-2026-09-29.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![Latest examples and category sidebar](docs/media/collection-2026-09-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![Mobile welcome page and resource navigation](docs/media/mobile-2026-09-29.jpg)
+![Mobile welcome page and resource navigation](docs/media/mobile-2026-09-30.jpg)
 
 </details>
 

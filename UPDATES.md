@@ -2,6 +2,14 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-09-30 · 3 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [余白旅馆：滚动驱动的三维行灯 / Yohaku — Ryokan with Scroll-driven 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-yohaku) | せなお / Routine labo | 提示词 / 过程 |
+| [PULSE：健身器材的三维网页展示 / PULSE — Fitness Equipment in 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-pulse) | せなお / Routine labo | 提示词 / 过程 |
+| [Routine labo：桌面物件的三维叙事 / Routine labo — A Desk Object Story](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-desk) | せなお / Routine labo | 提示词 / 过程 |
+
 ## 2026-09-29 · 2 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

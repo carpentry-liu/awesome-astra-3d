@@ -5139,6 +5139,30 @@
           "width": 1280
         }
       ]
+    },
+    {
+      "checkedAt": "2026-09-30",
+      "scope": "Three new images decoded and visually checked, then loaded inside the gallery. Previous 212 cases and 97 videos unchanged; not a full historical re-audit.",
+      "results": [
+        {
+          "height": 1080,
+          "loaded": true,
+          "url": "https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-website-images1.webp",
+          "width": 1920
+        },
+        {
+          "height": 1080,
+          "loaded": true,
+          "url": "https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-website-images3.webp",
+          "width": 1920
+        },
+        {
+          "height": 1080,
+          "loaded": true,
+          "url": "https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-website-images4.webp",
+          "width": 1920
+        }
+      ]
     }
   ]
 }
