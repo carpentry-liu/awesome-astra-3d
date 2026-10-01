@@ -37,3 +37,5 @@
 - [9 月 30 日：三组三维网页与资产分工](features/F-0023-daily-sep30/README.md)。
 
 - [9 月 30 日第二轮：六件作品、四段录像与工程](features/F-0024-sep30-projects/README.md)。
+
+- [10 月 1 日：可运行世界、场景重建与近期展示](features/F-0025-daily-oct01/README.md)。

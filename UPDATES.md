@@ -2,6 +2,19 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-01 · 8 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Pelagic：程序化海洋与帆船探索 / Pelagic — Procedural Ocean Exploration](https://carpentry-liu.github.io/awesome-astra-3d/#case=az9713-pelagic-ocean) | az9713 | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [Code4Scene：城镇构建与场景修复 / Code4Scene — Town Construction and Scene Repair](https://carpentry-liu.github.io/awesome-astra-3d/#case=code4scene-farm-town) | Xiaokang Ye 等 / Code4Scene | 提示词 / 过程 |
+| [Isaac Sim：工作台场景重建 / Isaac Sim — Workbench Reconstruction](https://carpentry-liu.github.io/awesome-astra-3d/#case=charles-isaac-workbench) | Charles Wong / @charleswongzx | 提示词 / 过程 |
+| [LEGO-Anything：单图到可查询三维场景 / LEGO-Anything — Image to Queryable Scene](https://carpentry-liu.github.io/awesome-astra-3d/#case=lego-anything-scene-reconstruction) | Xirui Li 等 / LEGO-Anything | 提示词 / 过程 |
+| [Ultrafast：三维制作与火箭发射对照 / Ultrafast — 3D Build and Rocket Launch Showcase](https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-ultrafast-rocket) | OpenAI / @OpenAI | 完整视频 · 提示词 / 过程 |
+| [Rocket Launch：三个模型的发射场景对照 / Rocket Launch — Three-model Scene Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=lebo-rocket-comparison) | Matthew Lebo / @MatthewLebo_ | 完整视频 · 提示词 / 过程 |
+| [F-22：Blender 到 Godot 飞行对照 / F-22 — Blender to Godot Flight Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=dgreses-f22-comparison) | Demetrius Greses Jr / @dgresesjr | 完整视频 · 提示词 / 过程 |
+| [CRISPR：交互教学场景的模型对照 / CRISPR — Interactive Learning Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=roman-crispr-comparison) | Alejandro / @AlejandroRomaan | 完整视频 · 提示词 / 过程 |
+
 ## 2026-09-30 · 9 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

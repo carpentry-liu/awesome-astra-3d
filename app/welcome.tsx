@@ -5,9 +5,9 @@ import { ArrowRight, ArrowUpRight, Code2, Play, Layers3 } from 'lucide-react';
 import { type Case } from '@/src/catalog';
 
 const spotlights = [
-  { id: 'gptblender-floor-plan-house', credit: 'GPTBlender', name: '从一张平面图，走进完整房屋', label: 'Blender 场景 · GLB 工程', note: '四卧室住宅 · 模型下载与阶段回放' },
-  { id: 'givros-forest-village', credit: 'Givros', name: '沿森林小径，寻找湖心村庄', label: 'Astra Light · 三维环境', note: 'Clairval · 42 秒完整场景录像' },
-  { id: 'fuguai-windfield-editor', credit: 'ふぐあい', name: '让冒险世界，拥有编辑入口', label: '三维游戏 · 地形编辑原型', note: 'Windfield · 风车、塔楼与人物' },
+  { id: 'az9713-pelagic-ocean', credit: 'az9713', name: '驶向海面，也潜入海底', label: 'Three.js · 程序化海洋', note: 'Pelagic · 可试玩世界与制作记录' },
+  { id: 'code4scene-farm-town', credit: 'Code4Scene', name: '把空间要求，建成一座城镇', label: 'Unreal Engine · 场景研究', note: '论文实际结果 · 构建与修复' },
+  { id: 'charles-isaac-workbench', credit: 'Charles Wong', name: '让工作台，进入仿真环境', label: 'Isaac Sim · 场景重建', note: '实际效果图 · 作者保留真实感局限' },
 ];
 export function Welcome({
   cases,

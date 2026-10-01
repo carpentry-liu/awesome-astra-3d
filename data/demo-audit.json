@@ -541,6 +541,15 @@
       "finalUrl": "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/#interactive-demo",
       "observedAt": "2026-09-30",
       "result": "Browser model loaded and Top view switched; not a full modeling reproduction."
+    },
+    {
+      "id": "az9713-pelagic-ocean",
+      "url": "https://az9713.github.io/gpt-6-astra-3D-ocean/",
+      "status": 200,
+      "title": "Pelagic — An Open Ocean",
+      "finalUrl": "https://az9713.github.io/gpt-6-astra-3D-ocean/",
+      "observedAt": "2026-10-01",
+      "result": "Actual browser scene loaded, Below view clicked, fish visible; console warn/error empty. Not a full physics or performance verification."
     }
   ]
 }

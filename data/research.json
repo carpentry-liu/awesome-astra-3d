@@ -1179,6 +1179,68 @@
         "House lightweight GLB matches author SHA-256 and viewer loads.",
         "No ChatGPT Sites deployment."
       ]
+    },
+    {
+      "observedAt": "2026-10-01",
+      "batch": "daily-oct01",
+      "addedCount": 8,
+      "caseIds": [
+        "az9713-pelagic-ocean",
+        "code4scene-farm-town",
+        "charles-isaac-workbench",
+        "lego-anything-scene-reconstruction",
+        "openai-ultrafast-rocket",
+        "lebo-rocket-comparison",
+        "dgreses-f22-comparison",
+        "roman-crispr-comparison"
+      ],
+      "sources": [
+        "https://github.com/az9713/gpt-6-astra-3D-ocean",
+        "https://arxiv.org/abs/2609.36777",
+        "https://x.com/charleswongzx/status/2105323534398763307",
+        "https://arxiv.org/abs/2609.36380",
+        "https://x.com/OpenAI/status/2104993966043320759",
+        "https://x.com/MatthewLebo_/status/2105047166733746209",
+        "https://x.com/dgresesjr/status/2105027152617918852",
+        "https://x.com/AlejandroRomaan/status/2104605522640970208",
+        "https://github.com/TripoGrowthLab/awesome-3d-prompts"
+      ],
+      "method": "Search X, GitHub, author sites, arXiv, Reddit, Bilibili and Zenn; inspect original statements, paper result labels, images and full source videos.",
+      "excluded": [
+        {
+          "source": "https://x.com/EvoLinkAi/status/2105298964027265295",
+          "reason": "Prompt post links Sol 6.1; attached photo does not establish an Astra result."
+        },
+        {
+          "source": "https://x.com/EvoLinkAi/status/2105279002793345069",
+          "reason": "Sol 6.1 link; no media or explicit Astra statement in source."
+        },
+        {
+          "source": "https://x.com/egeberkina/status/2105029713445949521",
+          "reason": "Author explicitly states Opus 5.5, not Astra."
+        },
+        {
+          "source": "https://x.com/DrstaOne/status/2105245648723562584",
+          "reason": "Author explicitly states Opus 5.5, not Astra."
+        },
+        {
+          "source": "https://x.com/am_alahmari/status/2104831051776335994",
+          "reason": "Prompt only, no actual 3D result; Canvas production-line target alone is insufficient."
+        },
+        {
+          "source": "https://x.com/vib3coded/status/2105286092651999619",
+          "reason": "Detailed prompt alone, no media or confirmed Astra result in fetched post."
+        }
+      ],
+      "coverageNotes": [
+        "No new qualified result from Bilibili/Zenn date-filtered search; general news, reposts and earlier duplicates excluded.",
+        "X direct pages restricted; mirror-based entries remain secondary, including official-account video.",
+        "F-22 displayed reasoning labels differ despite author text claiming same setting.",
+        "CRISPR clips retain original order without unproven model assignment.",
+        "Official montage is a promotional comparison, not an independent speed benchmark.",
+        "LEGO code link coming soon; no invented repository/demo URL.",
+        "No ChatGPT Sites deployment."
+      ]
     }
   ]
 }

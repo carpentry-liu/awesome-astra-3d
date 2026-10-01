@@ -13,24 +13,24 @@ Explore GPT-6 Astra in 3D: Blender, Houdini, Three.js, WebGL, CAD, VRM and inter
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-09-30 (Asia/Shanghai)** · **209 Astra examples** · **55 source / project links** · **84 demo links** · **101 complete videos** · **12 separate references**.
+Updated **2026-10-01 (Asia/Shanghai)** · **217 Astra examples** · **56 source / project links** · **85 demo links** · **106 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 ## Recent highlights
 
-| GLB · Furnished Home | Clairval · Astra Light | Windfield · Terrain Editor |
+| Pelagic · Ocean | Code4Scene · Town | Isaac Sim · Workbench |
 | --- | --- | --- |
-| [![GLB · Furnished Home — GPTBlender / qduoduo-hwh](https://raw.githubusercontent.com/qduoduo-hwh/gptblender_demo/main/preview.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=gptblender-floor-plan-house) | [![Clairval · Astra Light — Givros / @givros](https://pbs.twimg.com/amplify_video_thumb/2103860397027500032/img/MWh231Th4GLRWRJi.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=givros-forest-village) | [![Windfield · Terrain Editor — ふぐあい(ふぐおん) / @fuguai1](https://raw.githubusercontent.com/TripoGrowthLab/awesome-3d-prompts/main/assets/previews/2c3e380b8ff93c61c74421f3217becf171ac346c55ffff41efac5fafb3be3a77.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=fuguai-windfield-editor) |
-| Blender · Booster Catch | OpenSCAD · J-hook | WebGPU · Melon Jelly |
-| [![Blender · Booster Catch — Vortlyn / @Vortlyn](https://pbs.twimg.com/amplify_video_thumb/2103966892637536256/img/fDFZ2Ru7xcs1TCxB.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=vortlyn-booster-catch) | [![OpenSCAD · J-hook — Wësche / @WescheNex1q](https://pbs.twimg.com/amplify_video_thumb/2104590246398537728/img/R7CFttVwzpqmPhSo.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=wesche-j-hook) | [![WebGPU · Melon Jelly — 基恩-Keane 🌊 / @esrhengwu](https://pbs.twimg.com/amplify_video_thumb/2104504130563899392/img/de4kRQ4IXZs7Osqh.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=keane-melon-jelly) |
+| [![Pelagic · Ocean — az9713](https://raw.githubusercontent.com/az9713/gpt-6-astra-3D-ocean/main/public/media/ocean-open-sea.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=az9713-pelagic-ocean) | [![Code4Scene · Town — Xiaokang Ye 等 / Code4Scene](https://arxiv.org/html/2609.36777v1/figures/running_cases/farm_town_astra.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=code4scene-farm-town) | [![Isaac Sim · Workbench — Charles Wong / @charleswongzx](https://pbs.twimg.com/media/HTcFeb4aIAADxvZ.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=charles-isaac-workbench) |
+| LEGO-Anything · Reconstruction | F-22 · Flight Comparison | Ultrafast · 3D Showcase |
+| [![LEGO-Anything · Reconstruction — Xirui Li 等 / LEGO-Anything](https://lego-anything.com/assets/image_main_graph.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=lego-anything-scene-reconstruction) | [![F-22 · Flight Comparison — Demetrius Greses Jr / @dgresesjr](https://pbs.twimg.com/amplify_video_thumb/2105026944647458817/img/zRF4MxIV7H9NM2VJ.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=dgreses-f22-comparison) | [![Ultrafast · 3D Showcase — OpenAI / @OpenAI](https://pbs.twimg.com/amplify_video_thumb/2104993936112779264/img/lmUTqfZ4cb7RxKfp.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-ultrafast-rocket) |
 
-Open images for creator credits and available materials. The booster and jelly previews are model comparisons; the house includes BlenderKit furniture. J-hook strength testing is still pending.
+Open images for sources and materials. The ocean includes a playable project; the papers show research results. F-22 is a model comparison with different displayed reasoning settings. Ultrafast is an official promotional montage, not an independent benchmark.
 
 ## Live website preview
 
-[![Astra 3D Atlas live homepage](docs/media/homepage-second-2026-09-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas live homepage](docs/media/homepage-2026-10-01.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-Captured from this update on September 30, 2026. Click to explore the gallery.
+Captured from this update on October 1, 2026. Click to explore the gallery.
 
 ## Choose a starting point
 
@@ -44,19 +44,19 @@ Captured from this update on September 30, 2026. Click to explore the gallery.
 
 ## Latest additions
 
-September 30 adds **9 examples across two batches**. This second batch adds **6 works and 4 complete X recordings**: a downloadable furnished home, forest village, terrain editor, booster catch, printable J-hook and soft-body jelly comparison. The existing H3 Max Blender entry now includes the author’s newer experiments. Original dates and tool boundaries remain visible.
+October 1 adds **8 entries and 5 complete X clips**: a playable ocean, town construction and scene repair, an Isaac Sim workbench, image-to-scene research, official 3D showcase, rocket and F-22 comparisons, and CRISPR learning interfaces. Original dates, model labels and limitations remain visible.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [GPTBlender — Floor Plan to Furnished Home](https://carpentry-liu.github.io/awesome-astra-3d/#case=gptblender-floor-plan-house) | GPTBlender / qduoduo-hwh | [Demo](https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/#interactive-demo) · [Source](https://github.com/qduoduo-hwh/gptblender_demo) · [Original](https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/) |
-| [Clairval — Forest Lake Village](https://carpentry-liu.github.io/awesome-astra-3d/#case=givros-forest-village) | Givros / @givros | [Original](https://x.com/givros/status/2103860776419111285) |
-| [Windfield — Adventure and Terrain Editor](https://carpentry-liu.github.io/awesome-astra-3d/#case=fuguai-windfield-editor) | ふぐあい(ふぐおん) / @fuguai1 | [Original](https://x.com/fuguai1/status/2104531704740512143) |
-| [Super Heavy — Blender Catch Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=vortlyn-booster-catch) | Vortlyn / @Vortlyn | [Original](https://x.com/Vortlyn/status/2103966922127630820) |
-| [J-hook — OpenSCAD Print Design Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=wesche-j-hook) | Wësche / @WescheNex1q | [Original](https://x.com/WescheNex1q/status/2104590493191479337) |
-| [Melon Jelly — Soft-body Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=keane-melon-jelly) | 基恩-Keane 🌊 / @esrhengwu | [Original](https://x.com/esrhengwu/status/2104504957173153951) |
-| [Yohaku — Ryokan with Scroll-driven 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-yohaku) | せなお / Routine labo | [Original](https://rutinelabo.com/gpt6-astra-3d-website/) |
-| [PULSE — Fitness Equipment in 3D](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-pulse) | せなお / Routine labo | [Original](https://rutinelabo.com/gpt6-astra-3d-website/) |
+| [Pelagic — Procedural Ocean Exploration](https://carpentry-liu.github.io/awesome-astra-3d/#case=az9713-pelagic-ocean) | az9713 | [Demo](https://az9713.github.io/gpt-6-astra-3D-ocean/) · [Source](https://github.com/az9713/gpt-6-astra-3D-ocean) · [Original](https://github.com/az9713/gpt-6-astra-3D-ocean) |
+| [Code4Scene — Town Construction and Scene Repair](https://carpentry-liu.github.io/awesome-astra-3d/#case=code4scene-farm-town) | Xiaokang Ye 等 / Code4Scene | [Original](https://arxiv.org/abs/2609.36777) |
+| [Isaac Sim — Workbench Reconstruction](https://carpentry-liu.github.io/awesome-astra-3d/#case=charles-isaac-workbench) | Charles Wong / @charleswongzx | [Original](https://x.com/charleswongzx/status/2105323534398763307) |
+| [LEGO-Anything — Image to Queryable Scene](https://carpentry-liu.github.io/awesome-astra-3d/#case=lego-anything-scene-reconstruction) | Xirui Li 等 / LEGO-Anything | [Original](https://arxiv.org/abs/2609.36380) |
+| [Ultrafast — 3D Build and Rocket Launch Showcase](https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-ultrafast-rocket) | OpenAI / @OpenAI | [Original](https://x.com/OpenAI/status/2104993966043320759) |
+| [Rocket Launch — Three-model Scene Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=lebo-rocket-comparison) | Matthew Lebo / @MatthewLebo_ | [Original](https://x.com/MatthewLebo_/status/2105047166733746209) |
+| [F-22 — Blender to Godot Flight Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=dgreses-f22-comparison) | Demetrius Greses Jr / @dgresesjr | [Original](https://x.com/dgresesjr/status/2105027152617918852) |
+| [CRISPR — Interactive Learning Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=roman-crispr-comparison) | Alejandro / @AlejandroRomaan | [Original](https://x.com/AlejandroRomaan/status/2104605522640970208) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md)
@@ -68,11 +68,11 @@ Three featured works are visible together. Desktop navigation places categories 
 The interface is in Chinese; English project names, tools and creators are searchable. Keyboard navigation, a mobile layout and image failure states are supported.
 
 <details>
-<summary>Gallery and mobile screenshots · September 30, 2026</summary>
+<summary>Gallery and mobile screenshots · October 1, 2026</summary>
 
-[![Latest examples and category sidebar](docs/media/collection-second-2026-09-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![Latest examples and category sidebar](docs/media/collection-2026-10-01.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![Mobile welcome page and resource navigation](docs/media/mobile-second-2026-09-30.jpg)
+![Mobile welcome page and resource navigation](docs/media/mobile-2026-10-01.jpg)
 
 </details>
 

@@ -1,5 +1,415 @@
 [
   {
+    "id": "az9713-pelagic-ocean",
+    "title": "Pelagic：程序化海洋与帆船探索",
+    "titleEn": "Pelagic — Procedural Ocean Exploration",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "az9713",
+    "sourceUrl": "https://github.com/az9713/gpt-6-astra-3D-ocean",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-01",
+    "addedAt": "2026-10-01",
+    "modelLabel": "GPT-6 Astra xhigh + Three.js（作者声明）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "读取作者 README；实际打开演示并切换海底",
+    "evidenceNote": "作者声明 Astra xhigh 制作；Three.js 与自定义着色器生成场景，非独立建模复现。",
+    "sourceAccess": "作者仓库和真实预览图已核对；浏览器成功加载海洋、点击 Below 显示鱼群，控制台 warn/error 为空。创作日期未公开，保持 null。",
+    "summary": "可在浏览器探索的程序化海洋：波浪、帆船、天气、昼夜和海底鱼群。公开源代码、制作过程与波浪讲解；本轮实际切换海底视角。作者明确其为视觉模拟，没有确立照片级真实性，也不是经过验证的流体求解器。",
+    "outputType": [
+      "Three.js 程序化海洋",
+      "交互探索演示",
+      "公开源码与制作记录"
+    ],
+    "promptAvailability": "公开任务要求；完整内容请回原文",
+    "promptExcerpt": null,
+    "promptSummary": "在浏览器制作实时海洋，包含多种海况、天气、帆船尾流和海底视角，提供可收起的控制面板。",
+    "promptUrl": "https://github.com/az9713/gpt-6-astra-3D-ocean/blob/main/README.txt",
+    "imageUrl": "https://raw.githubusercontent.com/az9713/gpt-6-astra-3D-ocean/main/public/media/ocean-open-sea.png",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者仓库实际浏览器截图：程序化海面与帆船，不是生成概念图。",
+    "demoUrl": "https://az9713.github.io/gpt-6-astra-3D-ocean/",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/az9713/gpt-6-astra-3D-ocean",
+    "evidenceUrls": [
+      "https://github.com/az9713/gpt-6-astra-3D-ocean",
+      "https://az9713.github.io/gpt-6-astra-3D-ocean/journey/"
+    ],
+    "licenseNotes": "作者未选择项目整体重用许可证；公开可读不等于允许任意复用。依赖和参考媒体条款见 THIRD_PARTY_NOTICES.md；作者截图外链，不属于本库 MIT。",
+    "outcome": "实际加载演示并切换海底视角；未完整验证物理、性能或移动设备体验。"
+  },
+  {
+    "id": "code4scene-farm-town",
+    "title": "Code4Scene：城镇构建与场景修复",
+    "titleEn": "Code4Scene — Town Construction and Scene Repair",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "arXiv",
+    "platforms": [
+      "arXiv"
+    ],
+    "author": "Xiaokang Ye 等 / Code4Scene",
+    "sourceUrl": "https://arxiv.org/abs/2609.36777",
+    "sourceDate": "2026-09-29",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-01",
+    "addedAt": "2026-10-01",
+    "modelLabel": "GPT-6 Astra max（论文实验）+ Unreal Engine",
+    "evidenceLevel": "author",
+    "evidenceStatus": "读取论文及明确标注的 Astra 结果图",
+    "evidenceNote": "论文 Figure 8 指定 Astra 生成的农场城镇；Figure 10 指定 Astra 场景修复。不能把论文其他模型图归为 Astra。",
+    "sourceAccess": "读取论文 HTML 并检查 farm_town_astra.jpg 实际多视角效果；未运行 Unreal 工程。",
+    "summary": "论文展示 Astra 在 Unreal Engine 构建围墙、木屋、田地与巨石组成的城镇，另有托盘区场景修复样例。封面为明确标注 Astra 的实际多视角结果。数据集与原资产有人工作业，不能把所有素材当作 Astra 原创；基准成绩不代表本库独立验证。",
+    "outputType": [
+      "Unreal Engine 城镇构建",
+      "场景修复研究",
+      "论文实际结果图"
+    ],
+    "promptAvailability": "公开任务要求；完整内容请回原文",
+    "promptExcerpt": null,
+    "promptSummary": "使用给定资产和场景要求构建农场城镇；场景编辑任务需恢复目标并保留无关对象。",
+    "promptUrl": "https://arxiv.org/html/2609.36777v1",
+    "imageUrl": "https://arxiv.org/html/2609.36777v1/figures/running_cases/farm_town_astra.jpg",
+    "imageKind": "author-screenshot",
+    "imageCaption": "论文 Figure 8 明确标注的 GPT-6 Astra max 农场城镇结果，多视角渲染；不是 Fable 化工厂示例或人工目标场景。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://arxiv.org/abs/2609.36777",
+      "https://arxiv.org/html/2609.36777v1"
+    ],
+    "licenseNotes": "论文、结果图与第三方内容包保留其原有许可；Unreal 场景所用内容包不因论文公开而取得再分发许可。",
+    "outcome": "研究作者公开结果，可检查实际图；未获得可下载的该样例工程，未独立复现。"
+  },
+  {
+    "id": "charles-isaac-workbench",
+    "title": "Isaac Sim：工作台场景重建",
+    "titleEn": "Isaac Sim — Workbench Reconstruction",
+    "group": "astra",
+    "category": "科学与教育",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Charles Wong / @charleswongzx",
+    "sourceUrl": "https://x.com/charleswongzx/status/2105323534398763307",
+    "sourceDate": "2026-09-30",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-01",
+    "addedAt": "2026-10-01",
+    "modelLabel": "GPT-6 Astra（作者声明，经镜像转引）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖直读受限；核对镜像与实际媒体",
+    "evidenceNote": "模型归属依据作者声明，经 FxTwitter 镜像读取；未独立复现。",
+    "sourceAccess": "原始 X 页返回读取错误；镜像提供正文、作者、UTC 日期与媒体 ID，已检查实际画面。",
+    "summary": "作者要求不使用 Manifold 的 Astra 在 Isaac Sim 重建工作台场景，目标是机器人操作策略评估。实际图可见工作台、工具、风扇和木料；作者认为仍未达到真实感要求。没有公开操作策略结果，不能把制作目标当作机器人任务成功。",
+    "outputType": [
+      "Isaac Sim 场景效果图",
+      "机器人仿真环境重建"
+    ],
+    "promptAvailability": "公开任务要求；完整内容请回原文",
+    "promptExcerpt": null,
+    "promptSummary": "重建参考工作台，用于 Isaac Sim 操作策略评估，并明确不使用 Manifold。",
+    "promptUrl": "https://x.com/charleswongzx/status/2105323534398763307",
+    "imageUrl": "https://pbs.twimg.com/media/HTcFeb4aIAADxvZ.jpg?name=orig",
+    "imageKind": "author-screenshot",
+    "imageCaption": "原帖实际 Astra 场景图：工作台、工具、木料与风扇；不是参考照片或 Manifold 增强版本。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/charleswongzx/status/2105323534398763307",
+      "https://api.fxtwitter.com/status/2105323534398763307",
+      "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2105323534398763307"
+    ],
+    "licenseNotes": "第三方作品和媒体保留原有权利，不属于本库 MIT 许可；图片外链并署名。",
+    "outcome": "作者展示；未独立复现，未将提示目标视为已达成结果。"
+  },
+  {
+    "id": "lego-anything-scene-reconstruction",
+    "title": "LEGO-Anything：单图到可查询三维场景",
+    "titleEn": "LEGO-Anything — Image to Queryable Scene",
+    "group": "astra",
+    "category": "科学与教育",
+    "platform": "arXiv",
+    "platforms": [
+      "arXiv",
+      "作者博客"
+    ],
+    "author": "Xirui Li 等 / LEGO-Anything",
+    "sourceUrl": "https://arxiv.org/abs/2609.36380",
+    "sourceDate": "2026-09-28",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-01",
+    "addedAt": "2026-10-01",
+    "modelLabel": "GPT-6 Astra + Blender（论文重建实验）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "读取论文与作者项目页；检查输入、重建和查询效果图",
+    "evidenceNote": "论文 LEGO-World 部分明确使用 GPT-6 Astra 重建自然图像场景；研究还评估其他模型，不将所有示例归于 Astra。",
+    "sourceAccess": "读取作者网站及论文 HTML；检查 Figure 1 的输入、重建与场景读出图。作者网站代码入口仍为 Coming soon，未填写工程链接。",
+    "summary": "通过规划、Blender 代码、渲染和检查迭代，把一张图重建为可编辑场景，并从场景查询检测框、实例分割和深度。作者页展示悉尼歌剧院的输入与重建示意，论文自然图像实验明确使用 Astra；源码尚未公开，不把项目页的装饰场景当作可下载重建工程。",
+    "outputType": [
+      "Blender 场景重建研究",
+      "检测与深度查询展示",
+      "输入和输出对照"
+    ],
+    "promptAvailability": "公开任务要求；完整内容请回原文",
+    "promptExcerpt": null,
+    "promptSummary": "根据单张 RGB 图像迭代构建、渲染并核对可执行 Blender 场景，从场景导出视觉查询结果。",
+    "promptUrl": "https://arxiv.org/html/2609.36380v1",
+    "imageUrl": "https://lego-anything.com/assets/image_main_graph.webp",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者项目页 Figure 1：左侧为输入，中间为重建场景，右侧为检测、分割与深度读出。属于研究框架效果图；未独立验证模型文件。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://arxiv.org/abs/2609.36380",
+      "https://arxiv.org/html/2609.36380v1",
+      "https://lego-anything.com/"
+    ],
+    "licenseNotes": "第三方作品和媒体保留原有权利，不属于本库 MIT 许可；图片外链并署名。",
+    "outcome": "论文与作者项目页可读、效果图可检查；未独立复现，未虚构未公开代码。"
+  },
+  {
+    "id": "openai-ultrafast-rocket",
+    "title": "Ultrafast：三维制作与火箭发射对照",
+    "titleEn": "Ultrafast — 3D Build and Rocket Launch Showcase",
+    "group": "astra",
+    "category": "交互与工具",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "OpenAI / @OpenAI",
+    "sourceUrl": "https://x.com/OpenAI/status/2104993966043320759",
+    "sourceDate": "2026-09-29",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-01",
+    "addedAt": "2026-10-01",
+    "modelLabel": "GPT-6 Astra Standard / Ultrafast（官方账号宣传录像，经镜像读取）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖直读受限；核对镜像与实际媒体",
+    "evidenceNote": "模型归属依据作者声明，经 FxTwitter 镜像读取；未独立复现。",
+    "sourceAccess": "原始 X 页返回读取错误；镜像提供正文、作者、UTC 日期与媒体 ID，已检查实际画面。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "官方账号发布的速度展示录像，包含三维机械臂、场景制作与火箭发射等片段，按 Standard / Ultrafast 并排呈现。保留完整原帖录像；片内计时及加速比例属于官方宣传展示，没有独立测量，不代表固定任务普遍加速。",
+    "outputType": [
+      "三维效果对照",
+      "完整运行录像"
+    ],
+    "promptAvailability": "仅公开视频；完整逐项提示词未公开",
+    "promptExcerpt": null,
+    "promptSummary": "制作三维场景和火箭发射演示；完整逐项提示词未在该帖公开。",
+    "promptUrl": "https://x.com/OpenAI/status/2104993966043320759",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2104993936112779264/img/lmUTqfZ4cb7RxKfp.jpg",
+    "imageKind": "author-screenshot",
+    "imageCaption": "官方账号完整宣传录像；展示多个三维任务的 Standard / Ultrafast 对照，不是一个连续无剪辑建模实验。 附完整视频及最高码率下载。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/OpenAI/status/2104993966043320759",
+      "https://api.fxtwitter.com/status/2104993966043320759",
+      "https://x.com/OpenAIDevs/status/2104996045482778973",
+      "https://gigazine.net/gsc_news/en/20260930-gpt-6-astra-ultrafast/"
+    ],
+    "licenseNotes": "第三方作品和媒体保留原有权利，不属于本库 MIT 许可；图片外链并署名。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现，未将提示目标视为已达成结果。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/openai-ultrafast-rocket-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-01/openai-ultrafast-rocket-1-original.mp4",
+        "durationSeconds": 45.1,
+        "bytes": 13638559,
+        "sha256": "56405ff524b2b2e4c48798ab24037bf79c436e2542cd75a8ec1b6733487dc6c8",
+        "sourceUrl": "https://x.com/OpenAI/status/2104993966043320759",
+        "label": "Ultrafast — official 3D showcase montage",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2104993936112779264/img/lmUTqfZ4cb7RxKfp.jpg"
+      }
+    ]
+  },
+  {
+    "id": "lebo-rocket-comparison",
+    "title": "Rocket Launch：三个模型的发射场景对照",
+    "titleEn": "Rocket Launch — Three-model Scene Comparison",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Matthew Lebo / @MatthewLebo_",
+    "sourceUrl": "https://x.com/MatthewLebo_/status/2105047166733746209",
+    "sourceDate": "2026-09-29",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-01",
+    "addedAt": "2026-10-01",
+    "modelLabel": "GPT-6 Astra medium + GPT-6.1 Sol medium + Opus 5.5 medium（作者对照）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖直读受限；核对镜像与实际媒体",
+    "evidenceNote": "模型归属依据作者声明，经 FxTwitter 镜像读取；未独立复现。",
+    "sourceAccess": "原始 X 页返回读取错误；镜像提供正文、作者、UTC 日期与媒体 ID，已检查实际画面。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者以同一 Three.js 火箭发射任务比较三个 medium 设置模型。原帖录像已由作者加速 2 倍，本库保留该帖完整片段，不恢复为实时耗时。作者报告 Astra 环境和界面较好但头锥倒置；时间、用量与评价均为作者自报，没有公开工程。",
+    "outputType": [
+      "三维效果对照",
+      "完整运行录像"
+    ],
+    "promptAvailability": "公开任务要求；完整内容请回原文",
+    "promptExcerpt": null,
+    "promptSummary": "用 Three.js 制作电影感、具材质细节的火箭发射场景。",
+    "promptUrl": "https://x.com/MatthewLebo_/status/2105047166733746209",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2105046869999316992/img/GPoybFW6dU01QR2P.jpg",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者依次展示三个模型的火箭发射效果；封面属于比较录像，不将所有视图当作 Astra 作品。 附完整视频及最高码率下载。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/MatthewLebo_/status/2105047166733746209",
+      "https://api.fxtwitter.com/status/2105047166733746209"
+    ],
+    "licenseNotes": "第三方作品和媒体保留原有权利，不属于本库 MIT 许可；图片外链并署名。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现，未将提示目标视为已达成结果。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/lebo-rocket-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-01/lebo-rocket-comparison-1-original.mp4",
+        "durationSeconds": 136.72,
+        "bytes": 36148976,
+        "sha256": "9ad7160dab25a6bd870ed909e03a6a3bb965fc0f332e8d129b6f2d69c6d7756b",
+        "sourceUrl": "https://x.com/MatthewLebo_/status/2105047166733746209",
+        "label": "Rocket launch — Sol / Astra / Opus source comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2105046869999316992/img/GPoybFW6dU01QR2P.jpg"
+      }
+    ]
+  },
+  {
+    "id": "dgreses-f22-comparison",
+    "title": "F-22：Blender 到 Godot 飞行对照",
+    "titleEn": "F-22 — Blender to Godot Flight Comparison",
+    "group": "astra",
+    "category": "Blender 建模",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Demetrius Greses Jr / @dgresesjr",
+    "sourceUrl": "https://x.com/dgresesjr/status/2105027152617918852",
+    "sourceDate": "2026-09-29",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-01",
+    "addedAt": "2026-10-01",
+    "modelLabel": "GPT-6 Astra medium + GPT-6.1 Sol high + Opus 5.5 medium（画面标注）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖直读受限；核对镜像与实际媒体",
+    "evidenceNote": "模型归属依据作者声明，经 FxTwitter 镜像读取；未独立复现。",
+    "sourceAccess": "原始 X 页返回读取错误；镜像提供正文、作者、UTC 日期与媒体 ID，已检查实际画面。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "同一 F-22 建模与 Godot 飞行任务的三屏录像，Astra 位于上方。作者文字称统一推理级别，但实际画面标注 Astra medium、Sol high、Opus medium，保留这个差异，不做等设置性能结论。任务要求写 60 秒，已核验原帖片段全长。",
+    "outputType": [
+      "三维效果对照",
+      "完整运行录像"
+    ],
+    "promptAvailability": "公开任务要求；完整内容请回原文",
+    "promptExcerpt": null,
+    "promptSummary": "通过 Blender MCP 建模 F-22，并在 Godot 制作飞行展示录像。",
+    "promptUrl": "https://x.com/dgresesjr/status/2105027152617918852",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2105026944647458817/img/zRF4MxIV7H9NM2VJ.jpg",
+    "imageKind": "author-screenshot",
+    "imageCaption": "三屏实际录像：上 Astra medium、中 Sol high、下 Opus medium。各版本来自对照，不是 Astra 单独生成三架飞机。 附完整视频及最高码率下载。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/dgresesjr/status/2105027152617918852",
+      "https://api.fxtwitter.com/status/2105027152617918852"
+    ],
+    "licenseNotes": "第三方作品和媒体保留原有权利，不属于本库 MIT 许可；图片外链并署名。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现，未将提示目标视为已达成结果。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/dgreses-f22-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-01/dgreses-f22-comparison-1-original.mp4",
+        "durationSeconds": 60.05,
+        "bytes": 26288774,
+        "sha256": "b3a53adaa54e2efa4bf700bd8b30eae4154153c7cc652662ee79a13d22ecfea3",
+        "sourceUrl": "https://x.com/dgresesjr/status/2105027152617918852",
+        "label": "F-22 — Sol / Astra / Opus Blender and Godot comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2105026944647458817/img/zRF4MxIV7H9NM2VJ.jpg"
+      }
+    ]
+  },
+  {
+    "id": "roman-crispr-comparison",
+    "title": "CRISPR：交互教学场景的模型对照",
+    "titleEn": "CRISPR — Interactive Learning Comparison",
+    "group": "astra",
+    "category": "科学与教育",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Alejandro / @AlejandroRomaan",
+    "sourceUrl": "https://x.com/AlejandroRomaan/status/2104605522640970208",
+    "sourceDate": "2026-09-28",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-01",
+    "addedAt": "2026-10-01",
+    "modelLabel": "GPT-6 Astra + Opus 5.5（作者对照）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖直读受限；核对镜像与实际媒体",
+    "evidenceNote": "模型归属依据作者声明，经 FxTwitter 镜像读取；未独立复现。",
+    "sourceAccess": "原始 X 页返回读取错误；镜像提供正文、作者、UTC 日期与媒体 ID，已检查实际画面。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "作者用同一模糊提示比较两种模型的三维 CRISPR 教学界面，公开两段操作录像。原帖正文没有逐段标明模型位置，本库按第一段/第二段保留，不推断各段归属。制作时间与优劣为作者自述；未核验生物学准确性或交互教学效果。",
+    "outputType": [
+      "三维效果对照",
+      "完整运行录像"
+    ],
+    "promptAvailability": "公开任务要求；完整内容请回原文",
+    "promptExcerpt": null,
+    "promptSummary": "制作能选择 DNA 与相关组成部分、查看解释的 CRISPR 基因编辑三维教学界面。",
+    "promptUrl": "https://x.com/AlejandroRomaan/status/2104605522640970208",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2104604934461161472/img/100I9WF8iPqboN1b.jpg",
+    "imageKind": "author-screenshot",
+    "imageCaption": "原帖第一段预览；两段属于作者的 Astra / Opus 对照，未逐段确认模型归属，不能把它们都当作 Astra 独立生成。 附完整视频及最高码率下载。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/AlejandroRomaan/status/2104605522640970208",
+      "https://api.fxtwitter.com/status/2104605522640970208"
+    ],
+    "licenseNotes": "第三方作品和媒体保留原有权利，不属于本库 MIT 许可；图片外链并署名。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "作者展示；未独立复现，未将提示目标视为已达成结果。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/roman-crispr-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-01/roman-crispr-comparison-1-original.mp4",
+        "durationSeconds": 82.93,
+        "bytes": 65839479,
+        "sha256": "1db2c9e0aa2417603993d822866d757d3fce83719305c1090544fa025c337deb",
+        "sourceUrl": "https://x.com/AlejandroRomaan/status/2104605522640970208",
+        "label": "CRISPR — source clip 1 (model not individually identified)",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2104604934461161472/img/100I9WF8iPqboN1b.jpg"
+      },
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/roman-crispr-comparison-2-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-01/roman-crispr-comparison-2-original.mp4",
+        "durationSeconds": 27.98,
+        "bytes": 11127700,
+        "sha256": "71609bded5d8a16d7b8c37575867384bebe1d3908f64edca731489ea33a5fc00",
+        "sourceUrl": "https://x.com/AlejandroRomaan/status/2104605522640970208",
+        "label": "CRISPR — source clip 2 (model not individually identified)",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2104604955852111872/img/f_r2ZL_03hPGHIdW.jpg"
+      }
+    ]
+  },
+  {
     "id": "gptblender-floor-plan-house",
     "title": "GPTBlender：平面图到可下载房屋模型",
     "titleEn": "GPTBlender — Floor Plan to Furnished Home",

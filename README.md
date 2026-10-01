@@ -13,24 +13,24 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-09-30（Asia/Shanghai）**：**209 条 Astra 案例** · **55 条源码 / 工程** · **84 个演示入口** · **101 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-10-01（Asia/Shanghai）**：**217 条 Astra 案例** · **56 条源码 / 工程** · **85 个演示入口** · **106 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 ## 近期精选，先看效果
 
-| GLB · Furnished Home | Clairval · Astra Light | Windfield · Terrain Editor |
+| Pelagic · Ocean | Code4Scene · Town | Isaac Sim · Workbench |
 | --- | --- | --- |
-| [![GLB · Furnished Home — GPTBlender / qduoduo-hwh](https://raw.githubusercontent.com/qduoduo-hwh/gptblender_demo/main/preview.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=gptblender-floor-plan-house) | [![Clairval · Astra Light — Givros / @givros](https://pbs.twimg.com/amplify_video_thumb/2103860397027500032/img/MWh231Th4GLRWRJi.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=givros-forest-village) | [![Windfield · Terrain Editor — ふぐあい(ふぐおん) / @fuguai1](https://raw.githubusercontent.com/TripoGrowthLab/awesome-3d-prompts/main/assets/previews/2c3e380b8ff93c61c74421f3217becf171ac346c55ffff41efac5fafb3be3a77.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=fuguai-windfield-editor) |
-| Blender · Booster Catch | OpenSCAD · J-hook | WebGPU · Melon Jelly |
-| [![Blender · Booster Catch — Vortlyn / @Vortlyn](https://pbs.twimg.com/amplify_video_thumb/2103966892637536256/img/fDFZ2Ru7xcs1TCxB.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=vortlyn-booster-catch) | [![OpenSCAD · J-hook — Wësche / @WescheNex1q](https://pbs.twimg.com/amplify_video_thumb/2104590246398537728/img/R7CFttVwzpqmPhSo.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=wesche-j-hook) | [![WebGPU · Melon Jelly — 基恩-Keane 🌊 / @esrhengwu](https://pbs.twimg.com/amplify_video_thumb/2104504130563899392/img/de4kRQ4IXZs7Osqh.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=keane-melon-jelly) |
+| [![Pelagic · Ocean — az9713](https://raw.githubusercontent.com/az9713/gpt-6-astra-3D-ocean/main/public/media/ocean-open-sea.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=az9713-pelagic-ocean) | [![Code4Scene · Town — Xiaokang Ye 等 / Code4Scene](https://arxiv.org/html/2609.36777v1/figures/running_cases/farm_town_astra.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=code4scene-farm-town) | [![Isaac Sim · Workbench — Charles Wong / @charleswongzx](https://pbs.twimg.com/media/HTcFeb4aIAADxvZ.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=charles-isaac-workbench) |
+| LEGO-Anything · Reconstruction | F-22 · Flight Comparison | Ultrafast · 3D Showcase |
+| [![LEGO-Anything · Reconstruction — Xirui Li 等 / LEGO-Anything](https://lego-anything.com/assets/image_main_graph.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=lego-anything-scene-reconstruction) | [![F-22 · Flight Comparison — Demetrius Greses Jr / @dgresesjr](https://pbs.twimg.com/amplify_video_thumb/2105026944647458817/img/zRF4MxIV7H9NM2VJ.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=dgreses-f22-comparison) | [![Ultrafast · 3D Showcase — OpenAI / @OpenAI](https://pbs.twimg.com/amplify_video_thumb/2104993936112779264/img/lmUTqfZ4cb7RxKfp.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-ultrafast-rocket) |
 
-点击效果图查看作者、工具分工与完整材料。火箭和果冻为模型对照；房屋含 BlenderKit 家具；挂钩实物承重仍待测试。
+点击效果图查看来源与材料。海洋提供可试玩工程，论文展示研究结果；F-22 画面标注的推理设置不同。Ultrafast 是官方宣传对照，没有独立测速。
 
 ## 网站实拍
 
-[![Astra 3D Atlas 正式网站首页](docs/media/homepage-second-2026-09-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 正式网站首页](docs/media/homepage-2026-10-01.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-本次更新实拍 · 2026-09-30。点击图片进入案例库。
+本次更新实拍 · 2026-10-01。点击图片进入案例库。
 
 ## 找到你的下一次创作
 
@@ -44,19 +44,19 @@
 
 ## 最新收录
 
-9 月 30 日两轮共新增 **9 条案例**。本轮补入 **6 件作品、4 段完整 X 录像**：可下载房屋模型、森林村庄、地形编辑器、火箭捕获、打印挂钩与软体果冻对照。同步已有 H3 Max Blender 档案的新实验说明，保留原始日期、模型位置与素材分工。
+10 月 1 日新增 **8 个档案、5 段完整 X 录像**：可试玩海洋、城镇构建与修复、Isaac Sim 工作台、单图场景重建、官方三维展示、火箭与 F-22 对照、CRISPR 教学界面。保留作品原始日期、模型归属和实际局限。
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
-| [GPTBlender：平面图到可下载房屋模型](https://carpentry-liu.github.io/awesome-astra-3d/#case=gptblender-floor-plan-house) | GPTBlender / qduoduo-hwh | [演示](https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/#interactive-demo) · [源码](https://github.com/qduoduo-hwh/gptblender_demo) · [原始来源](https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/) |
-| [Clairval：森林湖泊与法式村庄](https://carpentry-liu.github.io/awesome-astra-3d/#case=givros-forest-village) | Givros / @givros | [原始来源](https://x.com/givros/status/2103860776419111285) |
-| [Windfield：三维冒险与地形编辑器](https://carpentry-liu.github.io/awesome-astra-3d/#case=fuguai-windfield-editor) | ふぐあい(ふぐおん) / @fuguai1 | [原始来源](https://x.com/fuguai1/status/2104531704740512143) |
-| [Super Heavy：Blender 火箭捕获对照](https://carpentry-liu.github.io/awesome-astra-3d/#case=vortlyn-booster-catch) | Vortlyn / @Vortlyn | [原始来源](https://x.com/Vortlyn/status/2103966922127630820) |
-| [J 型挂钩：OpenSCAD 打印设计对照](https://carpentry-liu.github.io/awesome-astra-3d/#case=wesche-j-hook) | Wësche / @WescheNex1q | [原始来源](https://x.com/WescheNex1q/status/2104590493191479337) |
-| [Melon Jelly：软体果冻的模型对照](https://carpentry-liu.github.io/awesome-astra-3d/#case=keane-melon-jelly) | 基恩-Keane 🌊 / @esrhengwu | [原始来源](https://x.com/esrhengwu/status/2104504957173153951) |
-| [余白旅馆：滚动驱动的三维行灯](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-yohaku) | せなお / Routine labo | [原始来源](https://rutinelabo.com/gpt6-astra-3d-website/) |
-| [PULSE：健身器材的三维网页展示](https://carpentry-liu.github.io/awesome-astra-3d/#case=routine-pulse) | せなお / Routine labo | [原始来源](https://rutinelabo.com/gpt6-astra-3d-website/) |
+| [Pelagic：程序化海洋与帆船探索](https://carpentry-liu.github.io/awesome-astra-3d/#case=az9713-pelagic-ocean) | az9713 | [演示](https://az9713.github.io/gpt-6-astra-3D-ocean/) · [源码](https://github.com/az9713/gpt-6-astra-3D-ocean) · [原始来源](https://github.com/az9713/gpt-6-astra-3D-ocean) |
+| [Code4Scene：城镇构建与场景修复](https://carpentry-liu.github.io/awesome-astra-3d/#case=code4scene-farm-town) | Xiaokang Ye 等 / Code4Scene | [原始来源](https://arxiv.org/abs/2609.36777) |
+| [Isaac Sim：工作台场景重建](https://carpentry-liu.github.io/awesome-astra-3d/#case=charles-isaac-workbench) | Charles Wong / @charleswongzx | [原始来源](https://x.com/charleswongzx/status/2105323534398763307) |
+| [LEGO-Anything：单图到可查询三维场景](https://carpentry-liu.github.io/awesome-astra-3d/#case=lego-anything-scene-reconstruction) | Xirui Li 等 / LEGO-Anything | [原始来源](https://arxiv.org/abs/2609.36380) |
+| [Ultrafast：三维制作与火箭发射对照](https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-ultrafast-rocket) | OpenAI / @OpenAI | [原始来源](https://x.com/OpenAI/status/2104993966043320759) |
+| [Rocket Launch：三个模型的发射场景对照](https://carpentry-liu.github.io/awesome-astra-3d/#case=lebo-rocket-comparison) | Matthew Lebo / @MatthewLebo_ | [原始来源](https://x.com/MatthewLebo_/status/2105047166733746209) |
+| [F-22：Blender 到 Godot 飞行对照](https://carpentry-liu.github.io/awesome-astra-3d/#case=dgreses-f22-comparison) | Demetrius Greses Jr / @dgresesjr | [原始来源](https://x.com/dgresesjr/status/2105027152617918852) |
+| [CRISPR：交互教学场景的模型对照](https://carpentry-liu.github.io/awesome-astra-3d/#case=roman-crispr-comparison) | Alejandro / @AlejandroRomaan | [原始来源](https://x.com/AlejandroRomaan/status/2104605522640970208) |
 <!-- atlas:latest:end -->
 
 [查看完整更新目录 →](UPDATES.md)
@@ -70,11 +70,11 @@
 - 手机布局、键盘操作与图片失败提示均保留；方法参考与 Astra 案例分别呈现。
 
 <details>
-<summary>查看案例区与手机实拍 · 2026-09-30</summary>
+<summary>查看案例区与手机实拍 · 2026-10-01</summary>
 
-[![最新案例与分类侧栏](docs/media/collection-second-2026-09-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![最新案例与分类侧栏](docs/media/collection-2026-10-01.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端欢迎页，精选作品与资源导航](docs/media/mobile-second-2026-09-30.jpg)
+![手机端欢迎页，精选作品与资源导航](docs/media/mobile-2026-10-01.jpg)
 
 </details>
 
