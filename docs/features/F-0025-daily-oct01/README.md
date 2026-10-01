@@ -26,4 +26,13 @@ F-22 文字声称同推理级别，但实际录像标为 Astra medium / Sol high
 - 实拍：[首页](../../media/homepage-2026-10-01.jpg)、[最新案例](../../media/collection-2026-10-01.jpg)、[手机首页](../../media/mobile-2026-10-01.jpg)。截图等待图片加载、滚动稳定后保存，没有用生成图替代网页。
 - 独立只读复核：八条新增档案的来源、模型边界和日期无须修正；十个 MP4 的实际字节数、SHA-256、媒体 ID、封面与源时长一致。旧 221 条案例和旧 202 个媒体记录逐条不变。
 
-构建与数据验证证据、原文、媒体核验、布局和控制台结果保存在忽略目录 `work/refresh-2026-10-01/`。部署及线上完整播放将在实际完成后追加。
+构建与数据验证证据、原文、媒体核验、布局和控制台结果保存在忽略目录 `work/refresh-2026-10-01/`。
+
+### GitHub 与线上发布
+
+- `git commit` / `git push origin main`：内容提交 `57a345f` 正常推送。GitHub About 已更新为 217 / 56 / 85 / 106，保留原有主题标签与公开访问状态。
+- `D:/miniforge3/python.exe -X utf8 work/ci-oct01.py`：[Pages 工作流 36872102060](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/36872102060) 的 build、deploy 和整轮结论均为 success；构建下载并核验 106 个完整播放文件。
+- `node work/published-oct01.mjs`：公开站点 `cases.json` 的 229 条记录与本地逐条一致，八条新增 ID 齐全。Python urllib 在访问 Pages 时发生 TLS FileNotFoundError，改用 Node 的正常证书验证请求完成核验，未关闭 TLS 校验。
+- `D:/miniforge3/python.exe -X utf8 work/readme-check-oct01.py`：GitHub README 渲染九张图片，中英文文档内容与本地一致，三张截图逐字节匹配。
+- `node work/published-media-check-oct01.mjs --resume`：实际 Pages 上的五个新增播放文件全部返回 200 / video/mp4，总计 10,368,145 字节；逐文件字节数及 SHA-256 与媒体清单一致，FFmpeg 全长解码退出码均为 0，时长为 60.05、136.72、45.10、82.93、27.98 秒。五个 Range 请求均返回 206、正确 Content-Range 和 1024 字节。首轮三段超过 45 秒下载上限，延长时限后完整恢复；首轮超时及恢复结果均保存在 `published-media-check.json` 和相应快照中。该检查证明发布文件完整并支持分段读取。
+- 公开网页截图可见 Ultrafast 完整播放器、0:45 时长与实际机械臂画面。浏览器的导航及 DOM 读取接口持续超时，已按文档检查连接、复用会话并使用新标签恢复；故本轮不能将逐段完整浏览器播放及线上控制台记为已通过。本地图片、布局与控制台检查仍有效。

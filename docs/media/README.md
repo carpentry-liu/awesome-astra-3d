@@ -78,9 +78,9 @@
 | `welcome-desktop.jpg` / `welcome-mobile.jpg` | 历史欢迎页 | 保留 2026-09-08 截图，61 个案例 |
 | `orbital-video.png` | 历史完整视频播放器、下载与署名 | 保留 2026-09-07 截图，900 × 1080 |
 
-中英文 README 共用最新桌面和手机截图。六张作品图保留此前收录的作者媒体；AstraFloor 为标题画面，其他图片为作者附图或视频封面。原作者署名、来源与混合工具分工见详情，第三方媒体不纳入本库 MIT 许可。
+中英文 README 共用最新桌面和手机截图。当前六张作品预览分别来自海洋工程、Code4Scene 论文、Isaac Sim 作者附图、LEGO-Anything 研究框架图、F-22 对照录像和官方 Ultrafast 宣传片。论文图与模型对照的归属边界见详情，第三方媒体不纳入本库 MIT 许可。
 
-最新验证记录见 [F-0017](../features/F-0017-daily-sep25/README.md)，前一轮见 [F-0016](../features/F-0016-daily-sep24/README.md)。
+最新验证记录见 [F-0025](../features/F-0025-daily-oct01/README.md)，前一轮见 [F-0024](../features/F-0024-sep30-projects/README.md)。
 
 2026-09-11 截图补充：主页截图从折叠区域移至 README 前部，案例区与手机实拍位于可展开区域；中英文使用同一组正式网站截图。旧截图保留供比较。
 
