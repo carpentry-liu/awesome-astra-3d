@@ -1,6 +1,6 @@
-import { filterCases, validateSearch, type Case } from './catalog';
+import { filterCases, validateSearch, type CaseIndex } from './catalog';
 type ModelContext={registerTool:(tool:unknown,options:{signal:AbortSignal})=>void|Promise<void>};
-export function registerCatalogTool(cases:Case[]){
+export function registerCatalogTool(cases:CaseIndex[]){
  const context=(document as Document & {modelContext?:ModelContext}).modelContext;
  if(!context?.registerTool)return;
  const lifecycle=new AbortController();

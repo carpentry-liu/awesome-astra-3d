@@ -41,3 +41,4 @@
 - [10 月 1 日：可运行世界、场景重建与近期展示](features/F-0025-daily-oct01/README.md)。
 
 - [10 月 2 日：工厂数字孪生、猫骑行与完整对照录像](features/F-0026-daily-oct02/README.md)。
+- [10 月 2 日：作品发现、上手、英文浏览与独立分享页](features/F-0027-discovery-and-sharing/README.md)。

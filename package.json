@@ -11,7 +11,7 @@
     "start": "wrangler dev --config dist/server/wrangler.json",
     "lint": "oxlint app src scripts tests",
     "format": "oxfmt",
-    "check": "node scripts/validate-data.mjs && node --test tests/catalog.test.mjs && tsc --noEmit",
+    "check": "node scripts/validate-data.mjs && node --test tests/*.test.mjs && tsc --noEmit",
     "catalog": "node scripts/generate-catalog.mjs"
   },
   "dependencies": {

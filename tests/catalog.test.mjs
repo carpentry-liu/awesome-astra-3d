@@ -6,7 +6,12 @@ import {
   validateSearch,
   readCatalogSearch,
   writeCatalogSearch,
+  collectionHref,
+  caseHref,
+  readLocale,
+  writeLocale,
 } from '../src/catalog.ts';
+import {makeCatalogIndex} from '../scripts/catalog-index.mjs';
 const cases = JSON.parse(
   fs.readFileSync(new URL('../data/cases.json', import.meta.url), 'utf8'),
 );
@@ -108,4 +113,42 @@ test('share URL restores filters while preserving campaign parameters', () => {
     readCatalogSearch('?resource=private&order=random&group=bad').resource,
     'all',
   );
+});
+test('entry URLs reset stale filters for native navigation while retaining language and campaign', () => {
+  const current = '?q=old&category=3D+游戏&platform=X&group=reference&resource=source&order=curated&lang=en&utm_source=juejin';
+  for (const resource of ['all','source','demo','video']) {
+    const target = new URL(collectionHref(resource,'curated',current),`https://example.org/atlas/${current}#case=old`);
+    assert.equal(target.hash,'#collection');
+    assert.deepEqual(readCatalogSearch(target.search),{query:'',group:'astra',category:'全部',platform:'全部',resource,order:'curated'});
+    assert.equal(readLocale(target.search),'en');
+    assert.equal(target.searchParams.get('utm_source'),'juejin');
+  }
+  assert.equal(readCatalogSearch(new URL(collectionHref('all','newest',current),'https://example.org/').search).order,'newest');
+  const reset = new URL(collectionHref('all','curated','?q=old&group=reference'), 'https://example.org/atlas/?q=old&group=reference#collection');
+  assert.equal(reset.search,'');
+  assert.equal(readCatalogSearch(reset.search).group,'astra');
+});
+test('language switches preserve gallery filters and shared case URLs stay under the Pages path', () => {
+  const search = '?resource=source&order=newest&utm_source=x';
+  assert.equal(readLocale(writeLocale(search,'en')),'en');
+  assert.deepEqual(readCatalogSearch(writeLocale(search,'en')),readCatalogSearch(search));
+  assert.equal(writeLocale(writeLocale(search,'en'),'zh'),search);
+  const chineseURL = new URL(`./${writeLocale('?lang=en','zh')}#collection`,'https://example.org/awesome-astra-3d/?lang=en#collection');
+  assert.equal(chineseURL.search,'');
+  assert.equal(readLocale(chineseURL.search),'zh');
+  for (const locale of ['zh','en']) {
+    const url = new URL(caseHref('simonw-pelican-bicycle',locale),'https://example.org/awesome-astra-3d/');
+    assert(url.pathname.startsWith('/awesome-astra-3d/'));
+    assert(url.pathname.endsWith('/cases/simonw-pelican-bicycle/'));
+  }
+});
+test('lightweight index preserves every existing query and resource result without full evidence manifests', () => {
+  const index = makeCatalogIndex(cases);
+  for (const filters of [{},{query:'SIMON blender'},{query:'three.js'},{resource:'source'},{resource:'demo'},{resource:'video'},{group:'reference'},{category:'3D 游戏',platform:'OpenAI'},{order:'newest'}]) {
+    assert.deepEqual(filterCases(index,filters).map(c=>c.id),filterCases(cases,filters).map(c=>c.id));
+  }
+  assert(!JSON.stringify(index).includes('playbackUrl'));
+  assert(!JSON.stringify(index).includes('evidenceNote'));
+  const recorded = JSON.parse(fs.readFileSync(new URL('../data/catalog-index.json',import.meta.url),'utf8'));
+  assert.deepEqual(recorded,index,'Run npm run catalog to synchronize the card index');
 });

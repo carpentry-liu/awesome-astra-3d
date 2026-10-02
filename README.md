@@ -2,13 +2,13 @@
 
 # Awesome GPT-6 Astra 3D
 
-### 从作品出发，找到下一次三维创作的起点。
+### 找到下一次三维创作的起点：公开工程、试玩入口与完整录像。
 
-探索 GPT-6 Astra 的 3D 作品：Blender、Houdini、Three.js、WebGL、CAD、VRM 与交互游戏。按来源分级，直达工程、演示和完整视频。
+从 Blender 模型到 Three.js 游戏、建筑漫游与机械拆解。先看作品，再找原作者、工程文件和制作过程，选择一个小改动开始。
 
-**[打开在线演示](https://carpentry-liu.github.io/awesome-astra-3d/) · [探索最新案例](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [贡献案例](CONTRIBUTING.md)**
+**[浏览作品库](https://carpentry-liu.github.io/awesome-astra-3d/) · [三条上手路线](START_HERE.md) · [最新收录](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [提交案例](CONTRIBUTING.md)**
 
-简体中文 · [English](README.en.md)
+简体中文 · [English README](README.en.md) · [English website](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
 </div>
 
@@ -16,77 +16,67 @@
 截至 **2026-10-02（Asia/Shanghai）**：**225 条 Astra 案例** · **59 条源码 / 工程** · **88 个演示入口** · **110 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
-## 近期精选，先看效果
+源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
 
-| Coastal Cat · Astra B | Jetis · Digital Twin | Five Stories · 3D Animation |
+## 六件精选，先选一个想继续做的作品
+
+| 鹈鹕骑车 · Simon Willison | Orbital Core · ruofeng | 梵高小镇 · Peter Gostev |
 | --- | --- | --- |
-| [![Coastal Cat · Astra B — 313715295 / ChatGPT-Test](https://raw.githubusercontent.com/313715295/ChatGPT-Test/main/docs/experiments/2026-10-02-coastal-cat-memory-off/evidence/B-desktop-default.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=chatgpttest-coastal-cat-memory-off) | [![Jetis · Digital Twin — bambssquad / Bam](https://raw.githubusercontent.com/bambssquad/jetis-digital-twin-astra/main/outputs/revision02-overview.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=bambssquad-jetis-digital-twin) | [![Five Stories · 3D Animation — az9713](https://raw.githubusercontent.com/az9713/gpt-6-astra-builds/main/latest/screenshots/04-golden-gate.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=az9713-refined-animations) |
-| Gopher · Conference World | Time, Undone · Watch | Car · Robot Transformation |
-| [![Gopher · Conference World — Seiji / miive](https://static.zenn.studio/user-upload/3d964b447a46-20260916.gif)](https://carpentry-liu.github.io/awesome-astra-3d/#case=seiji-miive-gopher-globe) | [![Time, Undone · Watch — Paruchh / @theparuchh](https://pbs.twimg.com/amplify_video_thumb/2105009115906904065/img/n8CMxokwa5BQAVQU.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=paruchh-time-undone) | [![Car · Robot Transformation — Marcel / @marcthecreatorr](https://pbs.twimg.com/amplify_video_thumb/2104654272591802369/img/Ug9WjTiy5hgxYa_2.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=marcel-transforming-car) |
+| [![鹈鹕骑车 — Simon Willison](https://static.simonwillison.net/static/2026/astra-blender-pelican.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/simonw-pelican-bicycle/) | [![Orbital Core — ruofeng / @oneruofeng](https://pbs.twimg.com/amplify_video_thumb/2096549512995368961/img/kyuKVBrCE5i7fHA8.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/ruofeng-orbital-core/) | [![梵高小镇 — Peter Gostev / @petergostev](https://pbs.twimg.com/amplify_video_thumb/2095776416302280708/img/IzfZe03VWW3gBzC6.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/peter-van-gogh-town/) |
+| 三轮 `.blend`、脚本与对话，研究网格和构图怎样迭代。 | Blender → GLB → Three.js，查看模型与交互的连接。 | 连续绘画世界，查看原始 HTML、任务来源与完整录像。 |
+| Jelly Baby · Scott | Jetis · bambssquad / Bam | 五个三维故事 · az9713 |
+| [![Jelly Baby — Scott / @scottstts](https://pbs.twimg.com/amplify_video_thumb/2096364109210202112/img/_-nTPLScjLl70avL.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/scottstts-jelly-baby/) | [![Jetis 工厂数字孪生 — bambssquad / Bam](https://raw.githubusercontent.com/bambssquad/jetis-digital-twin-astra/main/outputs/revision02-overview.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/bambssquad-jetis-digital-twin/) | [![金门大桥吊装 — az9713](https://raw.githubusercontent.com/az9713/gpt-6-astra-builds/main/latest/screenshots/04-golden-gate.png)](https://carpentry-liu.github.io/awesome-astra-3d/cases/az9713-refined-animations/) |
+| 可拉伸、抛掷的 Three.js 角色，带作者演示与源码。 | DWG 到工厂漫游与 SketchUp 导出；尺寸假设另有说明。 | 五个二十秒程序场景，查看 Three.js / TSL 源码与制作讲解。 |
 
-点击效果图查看来源与材料。10 月 2 日猫骑行使用 Astra B 组；工厂保留尺寸假设，五个故事按一个合集收录。Gopher 保留 9 月 18 日原始日期，机械表和跑车展示完整模型对照录像。
+点击图片查看作品档案、材料与已知限制。精选保持稳定，日常新增在下方独立展示；效果图外链原作者媒体。
+
+## 选材料，开始一个小改动
+
+| 你想做什么 | 第一站 |
+| --- | --- |
+| 打开 `.blend`，改材质或镜头 | [Blender 上手](START_HERE.md#blender) · [Blender 专题](https://carpentry-liu.github.io/awesome-astra-3d/topics/blender/) |
+| 把 GLB 接入网页，改一项交互 | [网页上手](START_HERE.md#web) · [源码 / 工程集合](https://carpentry-liu.github.io/awesome-astra-3d/?resource=source#collection) |
+| 阅读游戏输入，再找对应代码 | [游戏上手](START_HERE.md#game) · [浏览器游戏专题](https://carpentry-liu.github.io/awesome-astra-3d/topics/browser-games/) |
+| 研究空间、部件与动态效果 | [建筑与漫游](https://carpentry-liu.github.io/awesome-astra-3d/topics/architecture/) · [机械拆解](https://carpentry-liu.github.io/awesome-astra-3d/topics/exploded/) · [完整视频](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video#collection) |
+| 先体验、检索或引用 | [作者演示](https://carpentry-liu.github.io/awesome-astra-3d/?resource=demo#collection) · [全部目录](CATALOG.md) · [公开 JSON](https://carpentry-liu.github.io/awesome-astra-3d/cases.json) |
+
+[Star 收藏这份持续更新的 3D 工程与案例索引](https://github.com/carpentry-liu/awesome-astra-3d)。发现自己的作品或遗漏材料，可以[提交案例或纠错](https://github.com/carpentry-liu/awesome-astra-3d/issues/new?template=case.yml)。
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页](docs/media/homepage-2026-10-02.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-growth-2026-10-02.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-2026-10-02 生产构建实拍。点击图片进入案例库。
+2026-10-02 本轮生产构建实拍。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
-## 找到你的下一次创作
+<details>
+<summary>查看案例区、手机与作品详情实拍 · 2026-10-02</summary>
 
-| 你想做什么 | 从这里开始 |
-| --- | --- |
-| 先体验作品 | [打开作者演示](https://carpentry-liu.github.io/awesome-astra-3d/?resource=demo#collection)：游戏、建筑漫游、物理实验与交互模型 |
-| 下载项目继续修改 | [源码与工程](https://carpentry-liu.github.io/awesome-astra-3d/?resource=source#collection)：Blender、GLB、前端项目和制作脚本 |
-| 看完整动态效果 | [完整视频](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video#collection)：原帖片段全部时长及最高画质下载 |
-| 跟着已有项目入门 | [上手路线](START_HERE.md)：模型、网页和游戏三条路径 |
-| 检索、引用或补充索引 | [全部案例](CATALOG.md) · [公开 JSON](https://carpentry-liu.github.io/awesome-astra-3d/cases.json) · [贡献指南](CONTRIBUTING.md) |
+[![案例区：筛选与更多作品](docs/media/collection-growth-2026-10-02.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+
+![手机端：精选作品与材料导航](docs/media/mobile-growth-2026-10-02.jpg)
+
+[![作品详情：材料、作者与来源记录](docs/media/case-growth-2026-10-02.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/simonw-pelican-bicycle/)
+
+</details>
 
 ## 最新收录
 
-10 月 2 日新增 **8 个档案、4 段完整 X 录像**：关闭记忆的海边猫骑行、DWG 工厂数字孪生、五个三维故事合集、大会 Gopher 地球、金字塔、机械表拆解、人眼及变形跑车对照。今天收录的遗漏作品保留原发布日期，模型设置与可见局限随档案展示。
+这里按本库收录日期排列；作品首次发布、模型配置与核查日期在各档案中分别记录。稳定精选不随日更替换。
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
-| [海边猫骑行：关闭记忆后的 Astra 与 Sol 对照](https://carpentry-liu.github.io/awesome-astra-3d/#case=chatgpttest-coastal-cat-memory-off) | 313715295 / ChatGPT-Test | [演示](https://313715295.github.io/ChatGPT-Test/experiments/2026-10-02-coastal-cat-memory-off/scenes/B.html) · [源码](https://github.com/313715295/ChatGPT-Test) · [原始来源](https://github.com/313715295/ChatGPT-Test/blob/main/docs/experiments/2026-10-02-coastal-cat-memory-off/README.md) |
-| [Jetis：DWG 到可漫游工厂与原生 SketchUp 模型](https://carpentry-liu.github.io/awesome-astra-3d/#case=bambssquad-jetis-digital-twin) | bambssquad / Bam | [演示](https://bambssquad.github.io/jetis-digital-twin-astra/) · [源码](https://github.com/bambssquad/jetis-digital-twin-astra) · [原始来源](https://github.com/bambssquad/jetis-digital-twin-astra) |
-| [Astra Refined Animations：五个二十秒三维故事](https://carpentry-liu.github.io/awesome-astra-3d/#case=az9713-refined-animations) | az9713 | [演示](https://az9713.github.io/gpt-6-astra-builds/latest/) · [源码](https://github.com/az9713/gpt-6-astra-builds) · [原始来源](https://github.com/az9713/gpt-6-astra-builds) |
-| [Gopher Globe：大会展台的实时三维互动](https://carpentry-liu.github.io/awesome-astra-3d/#case=seiji-miive-gopher-globe) | Seiji / miive | [原始来源](https://zenn.dev/miive/articles/d4a1675553d53c) |
-| [金色金字塔：Astra 与 Fable 的三维对照](https://carpentry-liu.github.io/awesome-astra-3d/#case=demon-pyramid-comparison) | demon / @demonugc | [原始来源](https://x.com/demonugc/status/2105412081692352654) |
-| [Time, Undone：持续运转的机械表拆解对照](https://carpentry-liu.github.io/awesome-astra-3d/#case=paruchh-time-undone) | Paruchh / @theparuchh | [原始来源](https://x.com/theparuchh/status/2105009377002299711) |
-| [人眼：Three.js 建模与眼睑动作对照](https://carpentry-liu.github.io/awesome-astra-3d/#case=simonas-human-eye-comparison) | Simonas / @SimonasLTU1 | [原始来源](https://x.com/SimonasLTU1/status/2104841727496323479) |
-| [变形跑车：机器人、X 光与拆解对照](https://carpentry-liu.github.io/awesome-astra-3d/#case=marcel-transforming-car) | Marcel / @marcthecreatorr | [原始来源](https://x.com/marcthecreatorr/status/2104654448878387313) |
+| [海边猫骑行：关闭记忆后的 Astra 与 Sol 对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/chatgpttest-coastal-cat-memory-off/) | 313715295 / ChatGPT-Test | [演示](https://313715295.github.io/ChatGPT-Test/experiments/2026-10-02-coastal-cat-memory-off/scenes/B.html) · [源码](https://github.com/313715295/ChatGPT-Test) · [原始来源](https://github.com/313715295/ChatGPT-Test/blob/main/docs/experiments/2026-10-02-coastal-cat-memory-off/README.md) |
+| [Jetis：DWG 到可漫游工厂与原生 SketchUp 模型](https://carpentry-liu.github.io/awesome-astra-3d/cases/bambssquad-jetis-digital-twin/) | bambssquad / Bam | [演示](https://bambssquad.github.io/jetis-digital-twin-astra/) · [源码](https://github.com/bambssquad/jetis-digital-twin-astra) · [原始来源](https://github.com/bambssquad/jetis-digital-twin-astra) |
+| [Astra Refined Animations：五个二十秒三维故事](https://carpentry-liu.github.io/awesome-astra-3d/cases/az9713-refined-animations/) | az9713 | [演示](https://az9713.github.io/gpt-6-astra-builds/latest/) · [源码](https://github.com/az9713/gpt-6-astra-builds) · [原始来源](https://github.com/az9713/gpt-6-astra-builds) |
+| [Gopher Globe：大会展台的实时三维互动](https://carpentry-liu.github.io/awesome-astra-3d/cases/seiji-miive-gopher-globe/) | Seiji / miive | [原始来源](https://zenn.dev/miive/articles/d4a1675553d53c) |
+| [金色金字塔：Astra 与 Fable 的三维对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/demon-pyramid-comparison/) | demon / @demonugc | [原始来源](https://x.com/demonugc/status/2105412081692352654) |
+| [Time, Undone：持续运转的机械表拆解对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/paruchh-time-undone/) | Paruchh / @theparuchh | [原始来源](https://x.com/theparuchh/status/2105009377002299711) |
+| [人眼：Three.js 建模与眼睑动作对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/simonas-human-eye-comparison/) | Simonas / @SimonasLTU1 | [原始来源](https://x.com/SimonasLTU1/status/2104841727496323479) |
+| [变形跑车：机器人、X 光与拆解对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/marcel-transforming-car/) | Marcel / @marcthecreatorr | [原始来源](https://x.com/marcthecreatorr/status/2104654448878387313) |
 <!-- atlas:latest:end -->
 
-[查看完整更新目录 →](UPDATES.md)
-
-## 首页与浏览体验
-
-- 三件精选同时展示；桌面左侧分类与来源，右侧大图列表，直接打开作品档案。
-- 资源统计可以点击，快速进入源码、演示或完整视频集合。
-- 案例卡片直接提供源码与演示；关键词、分类、平台和资源筛选可以组合使用。
-- 分享链接保留筛选条件；每个案例都有独立锚点，可直接打开详情。
-- 手机布局、键盘操作与图片失败提示均保留；方法参考与 Astra 案例分别呈现。
-
-<details>
-<summary>查看案例区与手机实拍 · 2026-10-02</summary>
-
-[![最新案例与分类侧栏](docs/media/collection-2026-10-02.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
-
-![手机端欢迎页，精选作品与资源导航](docs/media/mobile-2026-10-02.jpg)
-
-</details>
-
-## 从这些作品继续研究
-
-| 作品 | 可以研究的内容 | 材料 |
-| --- | --- | --- |
-| [Solace](https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-solace-garden-house) | 建筑概念、Blender 场景、Cycles 镜头与 UE5 漫游 | [作者过程](https://developers.openai.com/blog/architectural-visualization-with-astra) |
-| [鹈鹕骑自行车](https://carpentry-liu.github.io/awesome-astra-3d/#case=simonw-pelican-bicycle) | 三轮对话如何改变网格、材质与构图 | [工程与脚本](https://github.com/simonw/gpt-6-astra-blender-pelican-bicycle) |
-| [Orbital Core](https://carpentry-liu.github.io/awesome-astra-3d/#case=ruofeng-orbital-core) | Blender → GLB → Three.js 模型交互 | [源码](https://github.com/wangruofeng/orbital-core-showcase) · [演示](https://orbital-core-showcase.wangruofeng007.workers.dev/) |
-| [Living Deep](https://carpentry-liu.github.io/awesome-astra-3d/#case=mollick-living-ocean) | 从既有海面程序扩展海底生态 | [源码](https://github.com/emollick/abyssal-living-deep) · [演示](https://abyssal-living-deep.netlify.app/) |
-| [Smash Karts](https://carpentry-liu.github.io/awesome-astra-3d/#case=amsminn-smash-karts) | Three.js 多人游戏、服务器与 agent 轨迹 | [源码](https://github.com/amsminn/gpt-6-astra-smash-karts) |
+[完整更新目录 →](UPDATES.md) · [分享素材与衡量说明](docs/sharing/README.md)
 
 ## 每条记录都能追溯
 

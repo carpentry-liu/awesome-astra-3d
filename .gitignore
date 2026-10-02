@@ -37,4 +37,5 @@ next-env.d.ts
 /outputs/
 /work/
 /artifacts/
+/public/case-data/
 *.tsbuildinfo

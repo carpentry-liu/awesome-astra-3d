@@ -1,4 +1,6 @@
 import fs from 'node:fs';
+import { makeCatalogIndex } from './catalog-index.mjs';
+import { generateSitemap } from './generate-case-pages.mjs';
 const root = new URL('../', import.meta.url),
   data = JSON.parse(fs.readFileSync(new URL('data/cases.json', root), 'utf8'));
 const labels = {
@@ -22,6 +24,18 @@ const videoCount = astra.reduce(
 );
 const sourceCount = astra.filter((c) => c.repositoryUrl).length;
 const demoCount = astra.filter((c) => c.demoUrl).length;
+fs.writeFileSync(new URL('data/catalog-index.json', root), JSON.stringify(makeCatalogIndex(data)) + '\n');
+fs.mkdirSync(new URL('public/case-data/', root), {recursive:true});
+const caseFiles = new Set(data.map((record) => `${record.id}.json`));
+for (const file of fs.readdirSync(new URL('public/case-data/', root))) {
+  if (/^[a-z0-9][a-z0-9-]*\.json$/.test(file) && !caseFiles.has(file)) {
+    fs.unlinkSync(new URL(`public/case-data/${file}`, root));
+  }
+}
+for (const record of data) {
+  if (!/^[a-z0-9][a-z0-9-]*$/.test(record.id)) throw new Error('Unsafe case id: ' + record.id);
+  fs.writeFileSync(new URL(`public/case-data/${record.id}.json`, root), JSON.stringify(record) + '\n');
+}
 let text = `# 案例目录\n\n由 \`data/cases.json\` 生成。最近核查：${latest}。[上手路线](START_HERE.md) · [最新收录](UPDATES.md)。作品归属基于公开来源，不代表独立复现。\n\n`;
 for (const [group, title] of [
   ['astra', 'GPT-6 Astra 案例'],
@@ -68,7 +82,7 @@ for (const date of [...new Set(astra.map((c) => c.addedAt))].sort((a, b) =>
       ]
         .filter(Boolean)
         .join(' · ') || '作者展示';
-    updates += `| [${safe(c.title)}${c.titleEn ? ' / ' + safe(c.titleEn) : ''}](https://carpentry-liu.github.io/awesome-astra-3d/#case=${c.id}) | ${safe(c.author)} | ${materials} |\n`;
+    updates += `| [${safe(c.title)}${c.titleEn ? ' / ' + safe(c.titleEn) : ''}](https://carpentry-liu.github.io/awesome-astra-3d/cases/${c.id}/) | ${safe(c.author)} | ${materials} |\n`;
   }
   updates += '\n';
 }
@@ -108,7 +122,7 @@ for (const [file, summary] of [
     ]
       .filter(Boolean)
       .join(' · ');
-    additions += `| [${safe(english ? (c.titleEn ?? c.title) : c.title)}](https://carpentry-liu.github.io/awesome-astra-3d/#case=${c.id}) | ${safe(c.author)} | ${links} |\n`;
+    additions += `| [${safe(english ? (c.titleEn ?? c.title) : c.title)}](https://carpentry-liu.github.io/awesome-astra-3d/${english?'en/':''}cases/${c.id}/) | ${safe(c.author)} | ${links} |\n`;
   }
   updated = updated.replace(
     /<!-- atlas:latest:start -->[\s\S]*?<!-- atlas:latest:end -->/,
@@ -116,10 +130,7 @@ for (const [file, summary] of [
   );
   fs.writeFileSync(url, updated);
 }
-fs.writeFileSync(
-  new URL('public/sitemap.xml', root),
-  `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://carpentry-liu.github.io/awesome-astra-3d/</loc><lastmod>${latest}</lastmod></url></urlset>\n`,
-);
+generateSitemap(data);
 console.log(
   `Generated catalogs, README statistics, public JSON and sitemap from ${data.length} source records.`,
 );
