@@ -40,6 +40,16 @@ GitHub 项目检索与 X、Zenn、Reddit、Bilibili、小红书及作者网站�
 
 ## 验证期间发现的导航问题
 
-生产构建浏览器实际点击“最新收录”和首页锚点时，Vinext 报 `Prevented repeated hard navigation`。现有普通锚点默认点击被框架路由接管；页面筛选同时修改 query，随后尝试加载静态站不存在的路由数据，触发重复导航保护。截图可显示目标位置，但控制台不能记为空。
+生产构建浏览器实际点击“最新收录”和首页锚点时，Vinext 报 `Prevented repeated hard navigation`。结合框架默认锚点处理与重复导航保护源码，判断页内点击被交给框架路由处理；页面筛选会同时修改 query，静态站没有路由数据服务。原错误快照保留，不能把修复前的控制台记为空。显式处理页内滚动后，该错误在相同点击路径的实际复查中消失。
 
 修复只针对本站 `#top` / `#collection` 页内链接：共享一个小函数拦截普通点击，保留筛选 query、更新 hash 并滚动到目标；Ctrl/Command 等修改键仍用原生链接。键盘激活时将焦点移至可编程聚焦的目标。相比关闭框架路由或增加服务器路由数据，这个范围适合静态案例库，不影响外部链接。实际浏览器复查最新收录、资源筛选与回顶状态、键盘焦点、控制台和截图，不新增模拟实现的单元测试。
+
+## GitHub 与线上发布
+
+- `git commit` / `git push origin main`：内容提交 `0f89e62` 正常推送。`D:/miniforge3/python.exe -X utf8 work/about-oct02.py` 回读确认公开仓库 About 为 225 / 59 / 88 / 110，首页地址正确，原有 20 个 topics 保留。
+- `D:/miniforge3/python.exe -X utf8 work/ci-oct02.py`：[Pages 工作流 36961643283](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/36961643283) 的 build、deploy 与整轮结论均为 success。
+- `node work/published-oct02.mjs`：线上 `cases.json` 的 237 条记录与本地逐条一致，八条新 ID 齐全。
+- `D:/miniforge3/python.exe -X utf8 work/readme-check-oct02.py`：GitHub README 渲染九张图片，中英文内容与本地一致，三张 10 月 2 日截图逐字节匹配。
+- `node work/published-media-check-oct02.mjs`：四段新增 Pages MP4 总计 5,880,654 字节，均为 HTTP 200 / video/mp4，字节数和 SHA-256 与媒体清单一致；严格 FFmpeg 全长解码退出码 0，时长约 15.05、58.05、48.92、60.49 秒。四个 `Range: bytes=0-1023` 请求均返回 206、匹配的 Content-Range 和 1024 字节。
+- 公共页面实际截图可见金字塔完整播放器、0:15 时长及 Astra / Fable 画面。公开 GitHub / Pages 的 DOM 读取接口多次超时，截图接口仍可返回；连接恢复后通过本地同一生产构建的真实播放器加载实际公开 Pages 视频地址继续验证。不会把该方式描述为已完成公开页面的全流程 DOM 或控制台验证。
+- 四段录像均在真实播放器中以 1× 速度持续从 0 播至 `ended=true`，未跳转时间轴；`currentTime` 分别到达 15.046531、58.048、48.917333、60.487982，`video.error=null`，源地址均为实际公开 Pages MP4。汽车播放器的新标签控制台 warn/error 为空。完整浏览器播放证明与源文件全长解码分别记录在 `browser-playback.json` 和媒体报告中，不外推为本轮重审全部 110 段历史录像。
