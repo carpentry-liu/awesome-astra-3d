@@ -3,11 +3,12 @@
 import { useState } from 'react';
 import { ArrowRight, ArrowUpRight, Code2, Play, Layers3 } from 'lucide-react';
 import { type Case } from '@/src/catalog';
+import { navigateToSection } from '@/src/section-navigation';
 
 const spotlights = [
-  { id: 'az9713-pelagic-ocean', credit: 'az9713', name: '驶向海面，也潜入海底', label: 'Three.js · 程序化海洋', note: 'Pelagic · 可试玩世界与制作记录' },
-  { id: 'code4scene-farm-town', credit: 'Code4Scene', name: '把空间要求，建成一座城镇', label: 'Unreal Engine · 场景研究', note: '论文实际结果 · 构建与修复' },
-  { id: 'charles-isaac-workbench', credit: 'Charles Wong', name: '让工作台，进入仿真环境', label: 'Isaac Sim · 场景重建', note: '实际效果图 · 作者保留真实感局限' },
+  { id: 'chatgpttest-coastal-cat-memory-off', credit: 'ChatGPT-Test', name: '骑着海风，去看看世界', label: 'Three.js · 海边骑行', note: '10 月 2 日独立实验 · Astra B 组' },
+  { id: 'bambssquad-jetis-digital-twin', credit: 'bambssquad', name: '从厂区图纸，走进三维空间', label: 'DWG · 工厂数字孪生', note: '可漫游场景 · 原生 SketchUp 导出流程' },
+  { id: 'az9713-refined-animations', credit: 'az9713', name: '把二十秒，讲成一个故事', label: 'Three.js / TSL · 三维动画', note: '五个程序场景 · 源码与制作讲解' },
 ];
 export function Welcome({
   cases,
@@ -65,14 +66,14 @@ export function Welcome({
             <a
               href="#collection"
               className="primary-link"
-              onClick={() => onExplore('all')}
+              onClick={(event) => { if (navigateToSection(event, 'collection')) onExplore('all'); }}
             >
               探索案例 <ArrowRight size={18} />
             </a>
             <a
               href="#collection"
               className="latest-link"
-              onClick={() => onExplore('all', 'newest')}
+              onClick={(event) => { if (navigateToSection(event, 'collection')) onExplore('all', 'newest'); }}
             >
               最新收录 <ArrowUpRight size={17} />
             </a>
@@ -140,7 +141,7 @@ export function Welcome({
       </section>
       <nav className="resource-paths" aria-label="探索作品资源">
         {resources.map(({ value, count, label, icon: Icon }) => (
-          <a key={value} href="#collection" onClick={() => onExplore(value)}>
+          <a key={value} href="#collection" onClick={(event) => { if (navigateToSection(event, 'collection')) onExplore(value); }}>
             <Icon size={19} />
             <strong>{count}</strong>
             <span>{label}</span>

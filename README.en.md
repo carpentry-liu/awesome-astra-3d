@@ -13,24 +13,24 @@ Explore GPT-6 Astra in 3D: Blender, Houdini, Three.js, WebGL, CAD, VRM and inter
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-01 (Asia/Shanghai)** · **217 Astra examples** · **56 source / project links** · **85 demo links** · **106 complete videos** · **12 separate references**.
+Updated **2026-10-02 (Asia/Shanghai)** · **225 Astra examples** · **59 source / project links** · **88 demo links** · **110 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 ## Recent highlights
 
-| Pelagic · Ocean | Code4Scene · Town | Isaac Sim · Workbench |
+| Coastal Cat · Astra B | Jetis · Digital Twin | Five Stories · 3D Animation |
 | --- | --- | --- |
-| [![Pelagic · Ocean — az9713](https://raw.githubusercontent.com/az9713/gpt-6-astra-3D-ocean/main/public/media/ocean-open-sea.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=az9713-pelagic-ocean) | [![Code4Scene · Town — Xiaokang Ye 等 / Code4Scene](https://arxiv.org/html/2609.36777v1/figures/running_cases/farm_town_astra.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=code4scene-farm-town) | [![Isaac Sim · Workbench — Charles Wong / @charleswongzx](https://pbs.twimg.com/media/HTcFeb4aIAADxvZ.jpg?name=orig)](https://carpentry-liu.github.io/awesome-astra-3d/#case=charles-isaac-workbench) |
-| LEGO-Anything · Reconstruction | F-22 · Flight Comparison | Ultrafast · 3D Showcase |
-| [![LEGO-Anything · Reconstruction — Xirui Li 等 / LEGO-Anything](https://lego-anything.com/assets/image_main_graph.webp)](https://carpentry-liu.github.io/awesome-astra-3d/#case=lego-anything-scene-reconstruction) | [![F-22 · Flight Comparison — Demetrius Greses Jr / @dgresesjr](https://pbs.twimg.com/amplify_video_thumb/2105026944647458817/img/zRF4MxIV7H9NM2VJ.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=dgreses-f22-comparison) | [![Ultrafast · 3D Showcase — OpenAI / @OpenAI](https://pbs.twimg.com/amplify_video_thumb/2104993936112779264/img/lmUTqfZ4cb7RxKfp.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-ultrafast-rocket) |
+| [![Coastal Cat · Astra B — 313715295 / ChatGPT-Test](https://raw.githubusercontent.com/313715295/ChatGPT-Test/main/docs/experiments/2026-10-02-coastal-cat-memory-off/evidence/B-desktop-default.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=chatgpttest-coastal-cat-memory-off) | [![Jetis · Digital Twin — bambssquad / Bam](https://raw.githubusercontent.com/bambssquad/jetis-digital-twin-astra/main/outputs/revision02-overview.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=bambssquad-jetis-digital-twin) | [![Five Stories · 3D Animation — az9713](https://raw.githubusercontent.com/az9713/gpt-6-astra-builds/main/latest/screenshots/04-golden-gate.png)](https://carpentry-liu.github.io/awesome-astra-3d/#case=az9713-refined-animations) |
+| Gopher · Conference World | Time, Undone · Watch | Car · Robot Transformation |
+| [![Gopher · Conference World — Seiji / miive](https://static.zenn.studio/user-upload/3d964b447a46-20260916.gif)](https://carpentry-liu.github.io/awesome-astra-3d/#case=seiji-miive-gopher-globe) | [![Time, Undone · Watch — Paruchh / @theparuchh](https://pbs.twimg.com/amplify_video_thumb/2105009115906904065/img/n8CMxokwa5BQAVQU.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=paruchh-time-undone) | [![Car · Robot Transformation — Marcel / @marcthecreatorr](https://pbs.twimg.com/amplify_video_thumb/2104654272591802369/img/Ug9WjTiy5hgxYa_2.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/#case=marcel-transforming-car) |
 
-Open images for sources and materials. The ocean includes a playable project; the papers show research results. F-22 is a model comparison with different displayed reasoning settings. Ultrafast is an official promotional montage, not an independent benchmark.
+October 2 highlights the Astra B coastal ride, a DWG factory twin and five 3D stories collected as one project. Gopher retains its September 18 publication date. The watch and car are labeled model comparisons, with complete clips and original-quality downloads.
 
-## Live website preview
+## Website preview
 
-[![Astra 3D Atlas live homepage](docs/media/homepage-2026-10-01.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas homepage](docs/media/homepage-2026-10-02.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-Captured from this update on October 1, 2026. Click to explore the gallery.
+Captured from the production build on October 2, 2026. Click to explore the gallery.
 
 ## Choose a starting point
 
@@ -44,19 +44,19 @@ Captured from this update on October 1, 2026. Click to explore the gallery.
 
 ## Latest additions
 
-October 1 adds **8 entries and 5 complete X clips**: a playable ocean, town construction and scene repair, an Isaac Sim workbench, image-to-scene research, official 3D showcase, rocket and F-22 comparisons, and CRISPR learning interfaces. Original dates, model labels and limitations remain visible.
+October 2 adds **8 entries and 4 complete X clips**: the memory-disabled coastal ride comparison, DWG factory twin, five-story animation archive, conference Gopher world, golden pyramids, an exploded watch, human eyes and a transforming car. Original publication dates and visible limitations remain separate from today’s collection date.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [Pelagic — Procedural Ocean Exploration](https://carpentry-liu.github.io/awesome-astra-3d/#case=az9713-pelagic-ocean) | az9713 | [Demo](https://az9713.github.io/gpt-6-astra-3D-ocean/) · [Source](https://github.com/az9713/gpt-6-astra-3D-ocean) · [Original](https://github.com/az9713/gpt-6-astra-3D-ocean) |
-| [Code4Scene — Town Construction and Scene Repair](https://carpentry-liu.github.io/awesome-astra-3d/#case=code4scene-farm-town) | Xiaokang Ye 等 / Code4Scene | [Original](https://arxiv.org/abs/2609.36777) |
-| [Isaac Sim — Workbench Reconstruction](https://carpentry-liu.github.io/awesome-astra-3d/#case=charles-isaac-workbench) | Charles Wong / @charleswongzx | [Original](https://x.com/charleswongzx/status/2105323534398763307) |
-| [LEGO-Anything — Image to Queryable Scene](https://carpentry-liu.github.io/awesome-astra-3d/#case=lego-anything-scene-reconstruction) | Xirui Li 等 / LEGO-Anything | [Original](https://arxiv.org/abs/2609.36380) |
-| [Ultrafast — 3D Build and Rocket Launch Showcase](https://carpentry-liu.github.io/awesome-astra-3d/#case=openai-ultrafast-rocket) | OpenAI / @OpenAI | [Original](https://x.com/OpenAI/status/2104993966043320759) |
-| [Rocket Launch — Three-model Scene Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=lebo-rocket-comparison) | Matthew Lebo / @MatthewLebo_ | [Original](https://x.com/MatthewLebo_/status/2105047166733746209) |
-| [F-22 — Blender to Godot Flight Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=dgreses-f22-comparison) | Demetrius Greses Jr / @dgresesjr | [Original](https://x.com/dgresesjr/status/2105027152617918852) |
-| [CRISPR — Interactive Learning Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=roman-crispr-comparison) | Alejandro / @AlejandroRomaan | [Original](https://x.com/AlejandroRomaan/status/2104605522640970208) |
+| [Coastal Cat Ride — Memory Disabled Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=chatgpttest-coastal-cat-memory-off) | 313715295 / ChatGPT-Test | [Demo](https://313715295.github.io/ChatGPT-Test/experiments/2026-10-02-coastal-cat-memory-off/scenes/B.html) · [Source](https://github.com/313715295/ChatGPT-Test) · [Original](https://github.com/313715295/ChatGPT-Test/blob/main/docs/experiments/2026-10-02-coastal-cat-memory-off/README.md) |
+| [Jetis — DWG Digital Twin and Native SketchUp Model](https://carpentry-liu.github.io/awesome-astra-3d/#case=bambssquad-jetis-digital-twin) | bambssquad / Bam | [Demo](https://bambssquad.github.io/jetis-digital-twin-astra/) · [Source](https://github.com/bambssquad/jetis-digital-twin-astra) · [Original](https://github.com/bambssquad/jetis-digital-twin-astra) |
+| [Astra Refined Animations — Five Procedural 3D Stories](https://carpentry-liu.github.io/awesome-astra-3d/#case=az9713-refined-animations) | az9713 | [Demo](https://az9713.github.io/gpt-6-astra-builds/latest/) · [Source](https://github.com/az9713/gpt-6-astra-builds) · [Original](https://github.com/az9713/gpt-6-astra-builds) |
+| [Gopher Globe — Real-Time Conference Booth World](https://carpentry-liu.github.io/awesome-astra-3d/#case=seiji-miive-gopher-globe) | Seiji / miive | [Original](https://zenn.dev/miive/articles/d4a1675553d53c) |
+| [Golden Pyramid — Astra and Fable Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=demon-pyramid-comparison) | demon / @demonugc | [Original](https://x.com/demonugc/status/2105412081692352654) |
+| [Time, Undone — Running Watch Exploded Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=paruchh-time-undone) | Paruchh / @theparuchh | [Original](https://x.com/theparuchh/status/2105009377002299711) |
+| [Human Eye — Three.js and Eyelid Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=simonas-human-eye-comparison) | Simonas / @SimonasLTU1 | [Original](https://x.com/SimonasLTU1/status/2104841727496323479) |
+| [Transforming Sports Car — Robot and Exploded Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=marcel-transforming-car) | Marcel / @marcthecreatorr | [Original](https://x.com/marcthecreatorr/status/2104654448878387313) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md)
@@ -68,11 +68,11 @@ Three featured works are visible together. Desktop navigation places categories 
 The interface is in Chinese; English project names, tools and creators are searchable. Keyboard navigation, a mobile layout and image failure states are supported.
 
 <details>
-<summary>Gallery and mobile screenshots · October 1, 2026</summary>
+<summary>Gallery and mobile screenshots · October 2, 2026</summary>
 
-[![Latest examples and category sidebar](docs/media/collection-2026-10-01.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![Latest examples and category sidebar](docs/media/collection-2026-10-02.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![Mobile welcome page and resource navigation](docs/media/mobile-2026-10-01.jpg)
+![Mobile welcome page and resource navigation](docs/media/mobile-2026-10-02.jpg)
 
 </details>
 

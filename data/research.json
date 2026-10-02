@@ -1241,6 +1241,275 @@
         "LEGO code link coming soon; no invented repository/demo URL.",
         "No ChatGPT Sites deployment."
       ]
+    },
+    {
+      "observedAt": "2026-10-02",
+      "batch": "daily-oct02",
+      "addedCount": 8,
+      "caseIds": [
+        "chatgpttest-coastal-cat-memory-off",
+        "bambssquad-jetis-digital-twin",
+        "az9713-refined-animations",
+        "seiji-miive-gopher-globe",
+        "demon-pyramid-comparison",
+        "paruchh-time-undone",
+        "simonas-human-eye-comparison",
+        "marcel-transforming-car"
+      ],
+      "sources": [
+        "https://github.com/313715295/ChatGPT-Test/blob/main/docs/experiments/2026-10-02-coastal-cat-memory-off/README.md",
+        "https://github.com/bambssquad/jetis-digital-twin-astra",
+        "https://github.com/az9713/gpt-6-astra-builds",
+        "https://zenn.dev/miive/articles/d4a1675553d53c",
+        "https://x.com/demonugc/status/2105412081692352654",
+        "https://x.com/theparuchh/status/2105009377002299711",
+        "https://x.com/SimonasLTU1/status/2104841727496323479",
+        "https://x.com/marcthecreatorr/status/2104654448878387313"
+      ],
+      "method": "Recent web, public repository, X, author article and community research; explicit model statements and real effect previews required. Four full X clips downloaded, hashed and completely decoded in both source and playback renditions.",
+      "coverage": {
+        "repositoryQueries": [
+          {
+            "query": "\"gpt-6-astra\" 3d in:readme pushed:>=2026-09-29",
+            "returnedCount": 40,
+            "totalCount": 324,
+            "truncated": true
+          },
+          {
+            "query": "\"gpt-6-astra\" blender in:readme pushed:>=2026-09-29",
+            "returnedCount": 40,
+            "totalCount": 105,
+            "truncated": true
+          },
+          {
+            "query": "\"gpt-6-astra\" game in:readme pushed:>=2026-09-29",
+            "returnedCount": 40,
+            "totalCount": 345,
+            "truncated": true
+          },
+          {
+            "query": "\"astra\" \"three.js\" in:readme created:>=2026-09-28",
+            "returnedCount": 40,
+            "totalCount": 67,
+            "truncated": true
+          }
+        ],
+        "webQueries": [
+          "\"GPT-6 Astra\" \"3D\" \"October\"",
+          "\"GPT-6 Astra\" github 3d",
+          "\"GPT-6 Astra\" arxiv",
+          "\"Astra\" \"3D\" \"September 30\" GPT",
+          "\"GPT-6 Astra\" \"October 1\" game",
+          "\"GPT-6 Astra\" \"September 30\" Blender",
+          "\"GPT-6 Astra\" \"October 2\" 3d",
+          "\"GPT-6 Astra\" CAD github",
+          "site:github.com \"astra\" \"gpt\" \"three\" \"2026\"",
+          "site:github.com \"astra\" \"gpt\" \"Godot\" \"October\"",
+          "\"GPT-6 Astra\" \"3D\" after:2026-09-30",
+          "\"Rino de Boer\" \"GPT-6 Astra\" 3D",
+          "\"alpine-trail-atlas\" github",
+          "\"Coin Island\" \"Astra\"",
+          "\"GPT-6 Astra\" \"XDReality\""
+        ],
+        "socialQueries": [
+          "site:x.com \"Astra\" \"3D\" since:2026-09-30 until:2026-10-03",
+          "site:x.com \"Astra\" \"Blender\" since:2026-09-30 until:2026-10-03",
+          "site:x.com \"GPT-6\" \"Three.js\" \"October\"",
+          "site:x.com \"GPT-6 Astra\" \"3d\"",
+          "site:x.com \"GPT-6 Astra\" \"Blender\"",
+          "site:reddit.com \"Astra\" \"3D\" \"GPT-6\"",
+          "site:zenn.dev \"GPT-6 Astra\" 3D",
+          "site:bilibili.com \"GPT-6 Astra\" Blender",
+          "\"GPT-6 Astra\" \"3D\" \"Sep 30\"",
+          "site:x.com Astra Blender \"Oct\"",
+          "site:x.com Astra \"3D\" \"Sep 30\"",
+          "site:x.com \"Astra\" \"Three.js\" \"2026\"",
+          "site:reddit.com/r/aigamedev \"astra\" \"September 30\" \"2026\"",
+          "site:reddit.com \"astra\" \"October 1\" \"2026\" \"3D\"",
+          "site:reddit.com \"astra\" \"post-apocalyptic\" \"Part 4\"",
+          "\"GPT-6 Astra\" \"October 1, 2026\"",
+          "\"GPT-6 Astra\" \"Oct 1\" 3D",
+          "\"GPT-6 Astra\" \"Sep 30, 2026\"",
+          "\"GPT-6 Astra\" \"Houdini\"",
+          "site:bilibili.com/video \"Astra\" \"2026-09-30\"",
+          "site:bilibili.com/video \"Astra\" \"2026-10-01\"",
+          "site:zenn.dev \"Astra\" \"2026/09/30\"",
+          "site:zenn.dev \"Astra\" \"2026/10/01\" 3D",
+          "\"AI超元域\" \"dots\" \"巨石阵\"",
+          "\"dots\" \"巨石阵\" \"Blender\"",
+          "\"OpenAI dots\" \"Stonehenge\"",
+          "site:madewithdots.com \"win4r\" \"Blender\"",
+          "site:x.com/win4r \"dots\" \"Stonehenge\"",
+          "\"AI超元域\" \"dots\" \"www.aivi.fyi\"",
+          "\"OpenAI dots\" \"AI超元域\" -site:scribd.com",
+          "\"OpenAI dots\" site:aivi.fyi",
+          "\"Blender\" \"Stonehenge\" \"win4r\""
+        ],
+        "discovery": "Tripo 13 pages / 307 distinct source rows; discovery list is not attribution proof."
+      },
+      "excluded": [
+        {
+          "source": "https://arxiv.org/abs/2609.38537",
+          "reason": "Pure embodied action/control evaluation in existing benchmarks, outside newly created 3D artifacts. ArXiv title/abstract and HTML full text inspected; physics paused during model inference, not real-time authored scene generation."
+        },
+        {
+          "source": "https://arxiv.org/abs/2609.34261",
+          "reason": "Embodied in-context control framework and benchmark, not creation of 3D/game/CAD result."
+        },
+        {
+          "source": "https://arxiv.org/abs/2609.31770",
+          "reason": "Sim2real manipulation study on existing robot model, pure control experiment outside scope."
+        },
+        {
+          "source": "https://github.com/Robotwizardt/pelican-bicycle-3d-arena",
+          "reason": "Explicit Astra attribution, source and live author URL, but no actual Astra screenshot or video in current public git tree. Existing screenshots belong to step-5-preview or gpt-5.6-sol; cannot use as Astra cover. Subproject artifacts ignored and anonymous deployment expired."
+        },
+        {
+          "source": "https://github.com/liangruibupt/beyond-text-frontier-model-showcase/tree/master/gpt-6-astra/chinese-architecture",
+          "reason": "GPT6 Astra continued development over migrated prior code; six 3D building exteriors, clear accuracy boundary, but no published actual screenshot/video in source tree. Internal QA screenshots intentionally excluded."
+        },
+        {
+          "source": "https://github.com/PeterHung/aerofield-drone-simulator-godot",
+          "reason": "Current rewrite explicitly GPT-6.1 Sol high; earlier Astra project only functional reference. Do not attribute Sol result to Astra."
+        },
+        {
+          "source": "https://github.com/mqrijqm/kafaparat",
+          "reason": "README media instructions explicitly gpt-5.6-sol, never Astra; no inspected creator Astra claim."
+        },
+        {
+          "source": "https://github.com/vlonesource00/new-benchmark-game",
+          "reason": "Astra is named as one benchmark racing AI; README does not establish GPT6 Astra created the game."
+        },
+        {
+          "source": "https://github.com/kamng0222/aircraft-systems-atlas",
+          "reason": "README says reserved later-stage credit for co-design with GPT6 Astra; no current completed Astra attribution or actual screenshot."
+        },
+        {
+          "source": "https://github.com/eval-forge/threejs-astra-6",
+          "reason": "Current tree only README and HTML, no actual published preview; not selected without visible media."
+        },
+        {
+          "source": "https://github.com/koushik1133/360-villa-os-astra",
+          "reason": "Repo name says Astra, inspected README lacks explicit GPT6 Astra creator evidence and says visual browser inspection unavailable; no actual visible result confirmed."
+        },
+        {
+          "source": "https://www.xdreality.ai/gpt-astra-blender",
+          "reason": "General workflow/marketing guide; sole content image is field-camera-input.png reference, no inspected actual Astra generated output. Not a specific evidence-complete artifact."
+        },
+        {
+          "source": "https://www.youtube.com/watch?v=xJpJ7nLGKk0",
+          "reason": "Author YouTube metadata confirms Astra and CMS mountain project. Older omitted lead retained but not selected after three recent strong projects found; author demo raw fetch returned403, thumbnail not visually checked and no browser playback verification by this researcher."
+        },
+        {
+          "source": "https://www.youtube.com/watch?v=5dHtmqwX4XI",
+          "reason": "Author YouTube metadata confirms Astra test; blog publisher Rekons links actual creator MikeT. Older omitted lead retained but not selected; page media is mostly publisher logos and YouTube thumbnail not visually checked, no direct playable demo/source found."
+        },
+        {
+          "source": "https://github.com/az9713/gpt-6-astra-3D-ocean",
+          "reason": "Already existing id az9713-pelagic-ocean; excluded as duplicate."
+        },
+        {
+          "source": "https://arxiv.org/abs/2609.36777",
+          "reason": "Already existing id code4scene-farm-town; excluded as duplicate."
+        },
+        {
+          "source": "https://arxiv.org/abs/2609.36380",
+          "reason": "Already existing id lego-anything-scene-reconstruction; excluded as duplicate."
+        },
+        {
+          "source": "https://x.com/itsfazley/status/2104613125093998674",
+          "reason": "Original author mirror explicitly says gpt-6 sol high;Tripo Astra listing incorrect. Prompt reply2104613128017522813 contains no Astra evidence."
+        },
+        {
+          "source": "https://www.reddit.com/r/aigamedev/comments/1wv4jij/gpt_astra_opus_55_expanded_my_postapocalyptic/",
+          "reason": "New iteration switched Blender assets to Opus5.5 and coding ultimately Sol6.1;Astra prior base only. Not a new Astra-specific work. No existing baselinecase found requiringupdate."
+        },
+        {
+          "source": "https://www.bilibili.com/video/BV1zjao66EhE/",
+          "reason": "Promisingauthor demonstrationSept30 but actualStonehenge preview not obtained;Bilibiliwebopen failed and derivative transcript is insufficient toverifyvisual. Pendingfutureaudit."
+        },
+        {
+          "source": "https://dubspeak.com/gpt-6-astra-intro-20260928-v5/",
+          "reason": "官方原片配音转录；创作者、原始来源和媒体身份未完成验证，未采用。"
+        },
+        {
+          "source": "https://x.com/EvoLinkAi/status/2105298964027265295",
+          "reason": "10月1日已因未确立Astra归属而排除；新整理页文案变化不能代替作者一手证据，未采用。"
+        },
+        {
+          "source": "https://x.com/EvoLinkAi/status/2105279002793345069",
+          "reason": "10月1日已读取；本轮没有新增原始Astra证据。"
+        },
+        {
+          "source": "https://zenn.dev/koher/articles/code-first-3d-modeling",
+          "reason": "已收录 koher-realitizer"
+        },
+        {
+          "source": "https://www.bilibili.com/video/BV1YUtk6mE3z/",
+          "reason": "已收录 hooosberg-three-view"
+        },
+        {
+          "source": "https://www.bilibili.com/video/BV1z5bP6nEpz/",
+          "reason": "已收录 tucao-stone-tomb"
+        },
+        {
+          "source": "https://github.com/LBEILC/RhineLabUI",
+          "reason": "已收录 lbeilc-rhine-lab"
+        },
+        {
+          "source": "https://www.reddit.com/r/ChatGPT/comments/1wdw2p2/i_pushed_gpt6_astra_through_9_creative_projects/",
+          "reason": "已收录 codonflow-creative-worlds"
+        },
+        {
+          "source": "https://www.bilibili.com/video/BV1r4a96KE82/",
+          "reason": "泛新闻，没有相关三维原创结果。"
+        },
+        {
+          "source": "https://zenn.dev/tsugihagi/articles/6671d53534aff0",
+          "reason": "仅为游戏企划和代码审查，不是三维创作结果。"
+        },
+        {
+          "source": "https://blog.chaos.com/veras-adds-gpt-6-astra-and-claude-opus-5.5",
+          "reason": "Model support confirmed, but inspected image is an input reference and model selector; no verified generated 3D preview. Official YouTube results could not be read."
+        }
+      ],
+      "sourceTimes": [
+        {
+          "source": "https://x.com/demonugc/status/2105412081692352654",
+          "originalUtcTimestamp": "2026-09-30T21:38:51+00:00",
+          "sourceDate": "2026-10-01",
+          "sourceDateTimezone": "Asia/Shanghai"
+        },
+        {
+          "source": "https://x.com/theparuchh/status/2105009377002299711",
+          "originalUtcTimestamp": "2026-09-29T18:58:39+00:00",
+          "sourceDate": "2026-09-30",
+          "sourceDateTimezone": "Asia/Shanghai"
+        },
+        {
+          "source": "https://x.com/SimonasLTU1/status/2104841727496323479",
+          "originalUtcTimestamp": "2026-09-29T07:52:28+00:00",
+          "sourceDate": "2026-09-29",
+          "sourceDateTimezone": "Asia/Shanghai"
+        },
+        {
+          "source": "https://x.com/marcthecreatorr/status/2104654448878387313",
+          "originalUtcTimestamp": "2026-09-28T19:28:17+00:00",
+          "sourceDate": "2026-09-29",
+          "sourceDateTimezone": "Asia/Shanghai"
+        }
+      ],
+      "coverageNotes": [
+        "One October 2 original experiment; older missed works keep original dates. az9713 publication date unknown, not inferred from repository creation.",
+        "Five animations are one project archive, not five inflated case counts.",
+        "Cat experiment is one run per setting, non-blind, shared window and memory disabled; no cross-round causal claim.",
+        "X direct pages restricted; mirror-based records remain secondary. Labels and complete original clips checked.",
+        "Pyramid Fable clock holds at 9 seconds in later samples; target of synchronized 15-second motion not treated as achieved.",
+        "Human-eye Astra blink has a visible translucent layer; visible limits retained.",
+        "Bilibili Stonehenge held without actual result preview; no qualified new Xiaohongshu result confirmed.",
+        "Old 229 cases and old 212 video records preserved. No historical full re-audit in this batch.",
+        "No ChatGPT Sites deployment."
+      ]
     }
   ]
 }

@@ -5217,6 +5217,69 @@
         "matchesProvenance": true,
         "sha256": "030add1dd942bce4756bdb8f44b83d1c41ebb363a1fce6f1d6816b5e9d244072"
       }
+    },
+    {
+      "checkedAt": "2026-10-02",
+      "scope": "Eight new preview images loaded in the actual gallery. Four complete X clips, original and full smaller rendition, downloaded and fully decoded (eight files); old 229 cases and 212 media objects unchanged. Not a full historical re-audit. Published playback is verified separately after deployment.",
+      "results": [
+        {
+          "height": 960,
+          "loaded": true,
+          "url": "https://raw.githubusercontent.com/313715295/ChatGPT-Test/main/docs/experiments/2026-10-02-coastal-cat-memory-off/evidence/B-desktop-default.png",
+          "width": 1440
+        },
+        {
+          "height": 1111,
+          "loaded": true,
+          "url": "https://raw.githubusercontent.com/bambssquad/jetis-digital-twin-astra/main/outputs/revision02-overview.jpg",
+          "width": 2048
+        },
+        {
+          "height": 900,
+          "loaded": true,
+          "url": "https://raw.githubusercontent.com/az9713/gpt-6-astra-builds/main/latest/screenshots/04-golden-gate.png",
+          "width": 1600
+        },
+        {
+          "height": 376,
+          "loaded": true,
+          "url": "https://static.zenn.studio/user-upload/3d964b447a46-20260916.gif",
+          "width": 640
+        },
+        {
+          "height": 675,
+          "loaded": true,
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2105411132437532672/img/Q9bQkVqMAHCwpyVO.jpg",
+          "width": 1200
+        },
+        {
+          "height": 1090,
+          "loaded": true,
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2105009115906904065/img/n8CMxokwa5BQAVQU.jpg",
+          "width": 1200
+        },
+        {
+          "height": 1200,
+          "loaded": true,
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2104841490526621696/img/O2EAYUHX6ynpdbAj.jpg",
+          "width": 675
+        },
+        {
+          "height": 1102,
+          "loaded": true,
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2104654272591802369/img/Ug9WjTiy5hgxYa_2.jpg",
+          "width": 1200
+        }
+      ],
+      "newVideoMediaIds": [
+        "2105411132437532672",
+        "2104654272591802369",
+        "2105009115906904065",
+        "2104841490526621696"
+      ],
+      "downloadedFileCount": 8,
+      "downloadedBytes": 76127061,
+      "allSourceFilesFullyDecoded": true
     }
   ]
 }

@@ -1,5 +1,403 @@
 [
   {
+    "id": "chatgpttest-coastal-cat-memory-off",
+    "title": "海边猫骑行：关闭记忆后的 Astra 与 Sol 对照",
+    "titleEn": "Coastal Cat Ride — Memory Disabled Comparison",
+    "group": "astra",
+    "category": "交互与工具",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "313715295 / ChatGPT-Test",
+    "sourceUrl": "https://github.com/313715295/ChatGPT-Test/blob/main/docs/experiments/2026-10-02-coastal-cat-memory-off/README.md",
+    "sourceDate": "2026-10-02",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-02",
+    "addedAt": "2026-10-02",
+    "modelLabel": "GPT-6 Astra xhigh（B组）/ GPT-6.1 Sol xhigh（A组）对照",
+    "evidenceLevel": "author",
+    "evidenceStatus": "读取作者源码记录、实际预览与在线演示",
+    "evidenceNote": "作者记录 B 组为 Astra xhigh、memory_mode=disabled；用时和费用是作者单轮记录与折算，不是账户账单或普遍排名。",
+    "sourceAccess": "读取 10 月 2 日实验 README 与 B 组实际图，打开作者 B.html；通过页面工具切换沿海全景、暂停并将速度改为 30，界面显示对应状态。控制台 warn/error 为空。",
+    "summary": "10 月 2 日的独立双组实验，以同题海边猫骑电动车比较 Astra xhigh 与 Sol xhigh；封面及演示为 Astra B 组。两组关闭记忆，每个配置仅运行一次，非盲评且共享运行窗口。Astra 有暂停、调速和三种镜头，没有日落开关；作者列出材质重复和实验局限。不能用它与 9 月 30 日跨轮差异推断记忆的因果效果。",
+    "outputType": [
+      "Three.js 猫骑行场景",
+      "关闭记忆的双组对照",
+      "公开 HTML / 源码与验证记录"
+    ],
+    "promptAvailability": "公开任务要求；完整内容请回原文",
+    "promptExcerpt": null,
+    "promptSummary": "建立可直接运行的 Three.js 网页，展示猫在海边马路骑电动车的三维动画。",
+    "promptUrl": "https://github.com/313715295/ChatGPT-Test/blob/main/docs/experiments/2026-10-02-coastal-cat-memory-off/README.md",
+    "imageUrl": "https://raw.githubusercontent.com/313715295/ChatGPT-Test/main/docs/experiments/2026-10-02-coastal-cat-memory-off/evidence/B-desktop-default.png",
+    "imageKind": "author-screenshot",
+    "imageCaption": "本轮 Astra B 组实际海边猫骑行截图，未使用 Sol A 组或 9 月 30 日旧轮作品。",
+    "demoUrl": "https://313715295.github.io/ChatGPT-Test/experiments/2026-10-02-coastal-cat-memory-off/scenes/B.html",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/313715295/ChatGPT-Test",
+    "evidenceUrls": [
+      "https://github.com/313715295/ChatGPT-Test/blob/main/docs/experiments/2026-10-02-coastal-cat-memory-off/README.md",
+      "https://313715295.github.io/ChatGPT-Test/experiments/2026-10-02-coastal-cat-memory-off/",
+      "https://313715295.github.io/ChatGPT-Test/experiments/2026-10-02-coastal-cat-memory-off/references/verification.html"
+    ],
+    "licenseNotes": "项目与媒体依各自原始许可；公开可读不等于允许任意复用。效果图外链作者仓库，不属于本库 MIT。",
+    "outcome": "实际加载 B 组场景并验证暂停、调速和镜头状态；未重跑两组生成或独立审计计费记录。"
+  },
+  {
+    "id": "bambssquad-jetis-digital-twin",
+    "title": "Jetis：DWG 到可漫游工厂与原生 SketchUp 模型",
+    "titleEn": "Jetis — DWG Digital Twin and Native SketchUp Model",
+    "group": "astra",
+    "category": "建筑与室内",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "bambssquad / Bam",
+    "sourceUrl": "https://github.com/bambssquad/jetis-digital-twin-astra",
+    "sourceDate": "2026-09-30",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-02",
+    "addedAt": "2026-10-02",
+    "modelLabel": "GPT-6 Astra high + Three.js + SketchUp C API（作者配置记录）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "读取作者源码记录、实际预览与在线演示",
+    "evidenceNote": "manifest 记录 Astra high 实现；原生导出和校验另有协调步骤，不能把全部工作归给单次 Astra 输出。",
+    "sourceAccess": "已读 README、project-manifest.json 与 STATE.md，检查作者总览图；浏览器加载 12/12 材质，屋顶开关从 1 切换到 0。控制台有一条 WebGL 着色器精度警告，未见错误。",
+    "summary": "将 DWG 厂区资料整理为可漫游的 Three.js 数字孪生，并提供原生 SketchUp 导出流程。9 月 30 日 revision02 包含厂房、钢架、楼梯和设备；本轮实际打开场景并关闭屋顶。原始尺寸与视觉假设并存，门槛、基础、设备等有作者明确假设，不能用作施工或结构设计文件。",
+    "outputType": [
+      "Three.js 工厂数字孪生",
+      "原生 SketchUp 导出流程",
+      "公开源码与修订记录"
+    ],
+    "promptAvailability": "公开任务要求；完整内容请回原文",
+    "promptExcerpt": null,
+    "promptSummary": "根据 DWG 场地与工业厂房要求建立可查看的数字孪生，并输出原生 SKP 模型。",
+    "promptUrl": "https://github.com/bambssquad/jetis-digital-twin-astra",
+    "imageUrl": "https://raw.githubusercontent.com/bambssquad/jetis-digital-twin-astra/main/outputs/revision02-overview.jpg",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者 revision02 工厂总览实拍，包含实际厂区模型和查看控件。",
+    "demoUrl": "https://bambssquad.github.io/jetis-digital-twin-astra/",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/bambssquad/jetis-digital-twin-astra",
+    "evidenceUrls": [
+      "https://github.com/bambssquad/jetis-digital-twin-astra",
+      "https://github.com/bambssquad/jetis-digital-twin-astra/blob/main/project-manifest.json",
+      "https://github.com/bambssquad/jetis-digital-twin-astra/blob/main/STATE.md"
+    ],
+    "licenseNotes": "项目与媒体依各自原始许可；公开可读不等于允许任意复用。效果图外链作者仓库，不属于本库 MIT。",
+    "outcome": "实际加载厂区并关闭屋顶查看钢架；未独立打开 SKP 或验证结构、尺寸与材料性能。"
+  },
+  {
+    "id": "az9713-refined-animations",
+    "title": "Astra Refined Animations：五个二十秒三维故事",
+    "titleEn": "Astra Refined Animations — Five Procedural 3D Stories",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "az9713",
+    "sourceUrl": "https://github.com/az9713/gpt-6-astra-builds",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-02",
+    "addedAt": "2026-10-02",
+    "modelLabel": "GPT-6 Astra xhigh + Three.js / TSL（作者请求配置）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "读取作者源码记录、实际预览与在线演示",
+    "evidenceNote": "作者明确配置记录的是生成请求，未独立审计模型身份；仅将最新 Three.js 三维结果作为封面，不将早期 Canvas 页面算为可编辑三维模型。",
+    "sourceAccess": "读取作者 README 与讲解，检查 Golden Gate 和 Paris 原图；浏览器以作者提供的 WebGL 2 参数加载金门大桥，实际画面可见桥梁与吊装结构，控制台 warn/error 为空。作品发布日期未公开，保持 null。",
+    "summary": "五个二十秒故事合为一个档案：特洛伊陶瓶、西西弗斯、巴黎热气球、金门大桥吊装、龟兔赛跑。最新版本为 Three.js / TSL 三维程序场景，早期 Canvas 版本另列；西西弗斯循环，其余到二十秒停留。作者记录所请求的 Astra xhigh 配置，未独立审计模型身份，也没有验证历史、地理或工程准确性。",
+    "outputType": [
+      "Three.js / TSL 三维动画合集",
+      "五个二十秒程序场景",
+      "公开源码与制作讲解"
+    ],
+    "promptAvailability": "公开任务要求；完整内容请回原文",
+    "promptExcerpt": null,
+    "promptSummary": "围绕五个主题制作连贯的二十秒叙事动画，改进主体几何、材质、光照和运动。",
+    "promptUrl": "https://github.com/az9713/gpt-6-astra-builds",
+    "imageUrl": "https://raw.githubusercontent.com/az9713/gpt-6-astra-builds/main/latest/screenshots/04-golden-gate.png",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者最新 Three.js 版本的金门大桥吊装实际截图；合集还包括巴黎热气球等四个场景。",
+    "demoUrl": "https://az9713.github.io/gpt-6-astra-builds/latest/",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/az9713/gpt-6-astra-builds",
+    "evidenceUrls": [
+      "https://github.com/az9713/gpt-6-astra-builds",
+      "https://github.com/az9713/gpt-6-astra-builds/blob/main/README.md",
+      "https://az9713.github.io/gpt-6-astra-builds/latest/development.html"
+    ],
+    "licenseNotes": "项目与媒体依各自原始许可；公开可读不等于允许任意复用。效果图外链作者仓库，不属于本库 MIT。",
+    "outcome": "实际检查金门大桥动画画面；未逐项验证五场景、历史准确性或跨设备性能。"
+  },
+  {
+    "id": "seiji-miive-gopher-globe",
+    "title": "Gopher Globe：大会展台的实时三维互动",
+    "titleEn": "Gopher Globe — Real-Time Conference Booth World",
+    "group": "astra",
+    "category": "交互与工具",
+    "platform": "Zenn",
+    "platforms": [
+      "Zenn"
+    ],
+    "author": "Seiji / miive",
+    "sourceUrl": "https://zenn.dev/miive/articles/d4a1675553d53c",
+    "sourceDate": "2026-09-18",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-02",
+    "addedAt": "2026-10-02",
+    "modelLabel": "GPT-6 Astra + Blender MCP + Three.js（作者声明）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "读取作者文章与实际世界动图、角色渲染",
+    "evidenceNote": "文章明确声明 Astra 制作角色与动作，并连接 Blender MCP；图片是作者结果展示，未独立复现。",
+    "sourceAccess": "作者正文与实际世界动图、角色渲染已读取并目视检查；Node fetch取得完整图，Python urllib原图请求曾403。",
+    "summary": "为 Go Conference 2026 的 miive 展台制作：现场访客提交昵称和福利愿望后，Gopher 或公司 CEO 的三维角色实时出现在地球上。作者连接 Codex 与 Blender MCP 制作角色，提供四种表情与跳跃、挥手、舞蹈三种动作；Three.js 显示地球，Cloudflare Durable Objects + WebSockets 同步投稿。 作者说明初期角色过薄、眼耳颜色有误，需要多角度参考修正；动图投稿是示例，未公开现场演示或源码。",
+    "outputType": [
+      "Blender 角色与三种动作",
+      "Three.js 大会展台世界",
+      "作者制作记录与实际动图"
+    ],
+    "promptAvailability": "未公开完整原始提示词",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "imageUrl": "https://static.zenn.studio/user-upload/3d964b447a46-20260916.gif",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者文章的实际 Three.js 展台世界动图：Gopher 角色位于地球表面；投稿为示例。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://zenn.dev/miive/articles/d4a1675553d53c"
+    ],
+    "licenseNotes": "Go Gopher 原角色由 Renée French 设计；作者图、动图与角色保留原有权利。原站外链，不纳入本库 MIT。",
+    "outcome": "实际预览图可见地球表面多色角色与示例投稿气泡；未访问现场投稿页、未运行工程。"
+  },
+  {
+    "id": "demon-pyramid-comparison",
+    "title": "金色金字塔：Astra 与 Fable 的三维对照",
+    "titleEn": "Golden Pyramid — Astra and Fable Comparison",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "demon / @demonugc",
+    "sourceUrl": "https://x.com/demonugc/status/2105412081692352654",
+    "sourceDate": "2026-10-01",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-02",
+    "addedAt": "2026-10-02",
+    "modelLabel": "GPT-6 Astra 与 Fable 5（作者对照）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖直读受限；镜像正文、原始媒体和录像标签已核对",
+    "evidenceNote": "模型声明经 FxTwitter 转引，仍为 secondary；画面标签不是独立复现或模型性能测量。",
+    "sourceAccess": "X 原页读取返回 403；镜像提供原文、UTC 时间与媒体格式。已查看实际录像的多个时间点及模型标签。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "同一参考与要求的金色金字塔三维对照，录像左侧为 Astra、右侧为 Fable 5。画面可见地形、神庙与金字塔自下而上出现。右侧后半段时钟停在 0:09.0，不能据此认定两边满足同一完整同步镜头要求，也不能用画面时钟推算生成速度。未公开工程。",
+    "outputType": [
+      "三维结果对照",
+      "完整运行录像"
+    ],
+    "promptAvailability": "公开任务要求；完整内容请回原文",
+    "promptExcerpt": null,
+    "promptSummary": "以同一参考帧制作金色微缩金字塔与神庙，15秒16:9分屏、同步150度镜头环绕，金字塔从底到顶变形出现。",
+    "promptUrl": "https://x.com/demonugc/status/2105412081692352654",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2105411132437532672/img/Q9bQkVqMAHCwpyVO.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "原帖分屏录像：左 Astra、右 Fable 5，封面为较暗的开场帧。 附完整视频及最高码率下载。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/demonugc/status/2105412081692352654",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/demonugc/status/2105412081692352654",
+      "https://api.fxtwitter.com/status/2105412081692352654"
+    ],
+    "licenseNotes": "第三方作品和媒体保留原有权利，不属于本库 MIT；图片外链、录像署名并保留原帖。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "查看多个录像时间点，金字塔出现过程与两侧标签可见；后段右侧时钟停在 9 秒。未独立验证同步、制作耗时或几何质量。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/demon-pyramid-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-02/demon-pyramid-comparison-1-original.mp4",
+        "durationSeconds": 15.046530612244897,
+        "bytes": 7505369,
+        "sha256": "2d2bf9733f4cd71f6d2ca4f3cc07b6db8957dc76b2afdd031e5a9a5f65b413da",
+        "sourceUrl": "https://x.com/demonugc/status/2105412081692352654",
+        "label": "金字塔对照：左 Astra / 右 Fable 5",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2105411132437532672/img/Q9bQkVqMAHCwpyVO.jpg"
+      }
+    ]
+  },
+  {
+    "id": "paruchh-time-undone",
+    "title": "Time, Undone：持续运转的机械表拆解对照",
+    "titleEn": "Time, Undone — Running Watch Exploded Comparison",
+    "group": "astra",
+    "category": "拆解与剖面",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Paruchh / @theparuchh",
+    "sourceUrl": "https://x.com/theparuchh/status/2105009377002299711",
+    "sourceDate": "2026-09-30",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-02",
+    "addedAt": "2026-10-02",
+    "modelLabel": "GPT-6 Astra 与 Claude Opus 5.5（作者对照）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖直读受限；镜像正文、原始媒体和录像标签已核对",
+    "evidenceNote": "模型声明经 FxTwitter 转引，仍为 secondary；画面标签不是独立复现或模型性能测量。",
+    "sourceAccess": "X 原页读取返回 403；镜像提供原文、UTC 时间与媒体格式。已查看实际录像的多个时间点及模型标签。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Time, Undone：机械表组装、材质切换、拆解与重新组装的模型对照，上方 Opus 5.5、下方 Astra。公开任务要求 WebGPU / WGSL、滚动驱动七阶段拆解及机构持续运转；录像可见拆解结果，但没有公开源码或运行页，不能把任务清单视作逐项验证通过。作者的一轮制作与耗时声明保留为自述。",
+    "outputType": [
+      "三维结果对照",
+      "完整运行录像"
+    ],
+    "promptAvailability": "公开任务要求；完整内容请回原文",
+    "promptExcerpt": null,
+    "promptSummary": "在单一HTML文件使用WebGPU和WGSL制作机械表，滚动驱动七阶段拆解且机构持续运转，提供上弦和零件检查。",
+    "promptUrl": "https://x.com/theparuchh/status/2105009470292013286",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2105009115906904065/img/n8CMxokwa5BQAVQU.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "原帖机械表对照录像实际封面：上 Opus 5.5、下 Astra。 附完整视频及最高码率下载。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/theparuchh/status/2105009377002299711",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/theparuchh/status/2105009377002299711",
+      "https://api.fxtwitter.com/status/2105009377002299711"
+    ],
+    "licenseNotes": "第三方作品和媒体保留原有权利，不属于本库 MIT；图片外链、录像署名并保留原帖。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "录像多个时间点可见组装、拆解与重组；未独立检查机械传动、WebGPU 实现或作者耗时。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/paruchh-time-undone-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-02/paruchh-time-undone-1-original.mp4",
+        "durationSeconds": 58.048,
+        "bytes": 23453674,
+        "sha256": "8aad8b120b6c69d4b42187661dc90d05007ea24a34d3a754e90b0e6bbf25774d",
+        "sourceUrl": "https://x.com/theparuchh/status/2105009377002299711",
+        "label": "机械表拆解：上 Opus 5.5 / 下 Astra",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2105009115906904065/img/n8CMxokwa5BQAVQU.jpg"
+      }
+    ]
+  },
+  {
+    "id": "simonas-human-eye-comparison",
+    "title": "人眼：Three.js 建模与眼睑动作对照",
+    "titleEn": "Human Eye — Three.js and Eyelid Comparison",
+    "group": "astra",
+    "category": "交互与工具",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Simonas / @SimonasLTU1",
+    "sourceUrl": "https://x.com/SimonasLTU1/status/2104841727496323479",
+    "sourceDate": "2026-09-29",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-02",
+    "addedAt": "2026-10-02",
+    "modelLabel": "GPT-6 Astra high 与 Claude Sonnet 5.5 high（录像标注）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖直读受限；镜像正文、原始媒体和录像标签已核对",
+    "evidenceNote": "模型声明经 FxTwitter 转引，仍为 secondary；画面标签不是独立复现或模型性能测量。",
+    "sourceAccess": "X 原页读取返回 403；镜像提供原文、UTC 时间与媒体格式。已查看实际录像的多个时间点及模型标签。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "Three.js 人眼同题对照，上方 Astra high、下方 Sonnet 5.5 high。录像展示虹膜颜色、朝向与眨眼变化；Astra 眨眼阶段可见半透明叠层的表现局限。作者认为 Sonnet 的眼睑跟随更好，这属于单轮作者评价；没有公开工程，不将作品当作经过验证的解剖模型。",
+    "outputType": [
+      "三维结果对照",
+      "完整运行录像"
+    ],
+    "promptAvailability": "公开任务要求；完整内容请回原文",
+    "promptExcerpt": null,
+    "promptSummary": "用Three.js从零制作高细节三维人眼，视觉接近微距照片；交付本地HTML/CSS/JS文件。",
+    "promptUrl": "https://x.com/SimonasLTU1/status/2104841727496323479",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2104841490526621696/img/O2EAYUHX6ynpdbAj.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "原帖人眼对照封面：上 Astra high、下 Sonnet 5.5 high，两者设置由录像标签确认。 附完整视频及最高码率下载。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/SimonasLTU1/status/2104841727496323479",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/SimonasLTU1/status/2104841727496323479",
+      "https://api.fxtwitter.com/status/2104841727496323479"
+    ],
+    "licenseNotes": "第三方作品和媒体保留原有权利，不属于本库 MIT；图片外链、录像署名并保留原帖。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "查看实际录像时间点，标签、颜色与朝向变化可见；保留 Astra 眨眼叠层局限，未独立验证解剖或眼睑运动。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/simonas-human-eye-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-02/simonas-human-eye-comparison-1-original.mp4",
+        "durationSeconds": 48.91733333333333,
+        "bytes": 18184287,
+        "sha256": "f54beb01365df68f6c76e98bf269087bea29f82c5c12de5816d07a037daa7bc6",
+        "sourceUrl": "https://x.com/SimonasLTU1/status/2104841727496323479",
+        "label": "人眼对照：上 Astra high / 下 Sonnet high",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2104841490526621696/img/O2EAYUHX6ynpdbAj.jpg"
+      }
+    ]
+  },
+  {
+    "id": "marcel-transforming-car",
+    "title": "变形跑车：机器人、X 光与拆解对照",
+    "titleEn": "Transforming Sports Car — Robot and Exploded Comparison",
+    "group": "astra",
+    "category": "拆解与剖面",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Marcel / @marcthecreatorr",
+    "sourceUrl": "https://x.com/marcthecreatorr/status/2104654448878387313",
+    "sourceDate": "2026-09-29",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-02",
+    "addedAt": "2026-10-02",
+    "modelLabel": "GPT-6 Astra max 与 Claude Sonnet 5.5 very high（作者对照）",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "原帖直读受限；镜像正文、原始媒体和录像标签已核对",
+    "evidenceNote": "模型声明经 FxTwitter 转引，仍为 secondary；画面标签不是独立复现或模型性能测量。",
+    "sourceAccess": "X 原页读取返回 403；镜像提供原文、UTC 时间与媒体格式。已查看实际录像的多个时间点及模型标签。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "summary": "跑车变成人形机器人的三维网页对照，包含 X 光模式、零件拆解、配色和场景切换。录像上方为 Astra max、下方为 Sonnet 5.5 very high，设置不同；实际画面可见 Astra 从跑车分离零件再变为机器人。作者的制作时间与费用未经独立核验，未公开源码或演示。",
+    "outputType": [
+      "三维结果对照",
+      "完整运行录像"
+    ],
+    "promptAvailability": "公开任务要求；完整内容请回原文",
+    "promptExcerpt": null,
+    "promptSummary": "制作能变成人形机器人的高细节跑车，包含X光模式和交互拆解视图。",
+    "promptUrl": "https://x.com/marcthecreatorr/status/2104654448878387313",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2104654272591802369/img/Ug9WjTiy5hgxYa_2.jpg",
+    "imageKind": "video-poster",
+    "imageCaption": "原帖变形跑车对照封面：上 Astra max、下 Sonnet 5.5 very high。 附完整视频及最高码率下载。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/marcthecreatorr/status/2104654448878387313",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://x.com/marcthecreatorr/status/2104654448878387313",
+      "https://api.fxtwitter.com/status/2104654448878387313"
+    ],
+    "licenseNotes": "第三方作品和媒体保留原有权利，不属于本库 MIT；图片外链、录像署名并保留原帖。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
+    "outcome": "实际录像可见跑车、零件分离、机器人与场景切换；不同设置的单轮作者展示，不能当作通用成本或速度排名。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/marcel-transforming-car-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-02/marcel-transforming-car-1-original.mp4",
+        "durationSeconds": 60.48798185941043,
+        "bytes": 21103077,
+        "sha256": "40bec21e5438519b5e496992be6ec096789ff65a32cfa12aa26efc7bc9d2545b",
+        "sourceUrl": "https://x.com/marcthecreatorr/status/2104654448878387313",
+        "label": "变形跑车：上 Astra max / 下 Sonnet very high",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2104654272591802369/img/Ug9WjTiy5hgxYa_2.jpg"
+      }
+    ]
+  },
+  {
     "id": "az9713-pelagic-ocean",
     "title": "Pelagic：程序化海洋与帆船探索",
     "titleEn": "Pelagic — Procedural Ocean Exploration",

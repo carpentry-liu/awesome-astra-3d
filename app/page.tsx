@@ -35,6 +35,7 @@ import { registerCatalogTool } from '@/src/webmcp';
 import casesData from '@/data/cases.json';
 import { VideoPlayer, videoTime } from '@/src/video-player';
 import { Welcome } from './welcome';
+import { navigateToSection } from '@/src/section-navigation';
 
 const allCases = casesData as Case[];
 const github = 'https://github.com/carpentry-liu/awesome-astra-3d';
@@ -413,12 +414,12 @@ export default function Home() {
     </div>
   );
   return (
-    <main id="top">
-      <a className="skip-link" href="#collection">
+    <main id="top" tabIndex={-1}>
+      <a className="skip-link" href="#collection" onClick={(event) => navigateToSection(event, 'collection')}>
         跳转到案例索引
       </a>
       <header className="masthead">
-        <a className="brand" href="#top" aria-label="Astra 3D Atlas 首页">
+        <a className="brand" href="#top" aria-label="Astra 3D Atlas 首页" onClick={(event) => navigateToSection(event, 'top')}>
           <span className="brand-mark">
             <Box size={23} />
           </span>
@@ -427,7 +428,7 @@ export default function Home() {
           </span>
         </a>
         <nav>
-          <a href="#collection">探索案例</a>
+          <a href="#collection" onClick={(event) => navigateToSection(event, 'collection')}>探索案例</a>
           <OutLink
             className="starter-link"
             href={`${github}/blob/main/START_HERE.md`}
@@ -457,7 +458,7 @@ export default function Home() {
           setOrder(nextOrder);
         }}
       />
-      <section id="collection" className="collection">
+      <section id="collection" className="collection" tabIndex={-1}>
         <div className="collection-head">
           <div>
             <Layers3 size={19} />

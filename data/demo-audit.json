@@ -550,6 +550,33 @@
       "finalUrl": "https://az9713.github.io/gpt-6-astra-3D-ocean/",
       "observedAt": "2026-10-01",
       "result": "Actual browser scene loaded, Below view clicked, fish visible; console warn/error empty. Not a full physics or performance verification."
+    },
+    {
+      "id": "chatgpttest-coastal-cat-memory-off",
+      "url": "https://313715295.github.io/ChatGPT-Test/experiments/2026-10-02-coastal-cat-memory-off/scenes/B.html",
+      "observedAt": "2026-10-02",
+      "method": "Actual browser visual check and limited interaction; not generation reproduction.",
+      "result": "实际加载 B 组场景并验证暂停、调速和镜头状态；未重跑两组生成或独立审计计费记录。",
+      "console": "No warn/error captured.",
+      "checkedDemoUrl": "https://313715295.github.io/ChatGPT-Test/experiments/2026-10-02-coastal-cat-memory-off/scenes/B.html"
+    },
+    {
+      "id": "bambssquad-jetis-digital-twin",
+      "url": "https://bambssquad.github.io/jetis-digital-twin-astra/",
+      "observedAt": "2026-10-02",
+      "method": "Actual browser visual check and limited interaction; not generation reproduction.",
+      "result": "实际加载厂区并关闭屋顶查看钢架；未独立打开 SKP 或验证结构、尺寸与材料性能。",
+      "console": "One WebGL shader precision warning; no error.",
+      "checkedDemoUrl": "https://bambssquad.github.io/jetis-digital-twin-astra/"
+    },
+    {
+      "id": "az9713-refined-animations",
+      "url": "https://az9713.github.io/gpt-6-astra-builds/latest/",
+      "observedAt": "2026-10-02",
+      "method": "Actual browser visual check and limited interaction; not generation reproduction.",
+      "result": "实际检查金门大桥动画画面；未逐项验证五场景、历史准确性或跨设备性能。",
+      "console": "No warn/error captured.",
+      "checkedDemoUrl": "https://az9713.github.io/gpt-6-astra-builds/latest/04-golden-gate/index.html?backend=webgl"
     }
   ]
 }

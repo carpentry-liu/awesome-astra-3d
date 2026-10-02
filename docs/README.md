@@ -39,3 +39,5 @@
 - [9 月 30 日第二轮：六件作品、四段录像与工程](features/F-0024-sep30-projects/README.md)。
 
 - [10 月 1 日：可运行世界、场景重建与近期展示](features/F-0025-daily-oct01/README.md)。
+
+- [10 月 2 日：工厂数字孪生、猫骑行与完整对照录像](features/F-0026-daily-oct02/README.md)。

@@ -2,6 +2,19 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-02 · 8 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [海边猫骑行：关闭记忆后的 Astra 与 Sol 对照 / Coastal Cat Ride — Memory Disabled Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=chatgpttest-coastal-cat-memory-off) | 313715295 / ChatGPT-Test | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [Jetis：DWG 到可漫游工厂与原生 SketchUp 模型 / Jetis — DWG Digital Twin and Native SketchUp Model](https://carpentry-liu.github.io/awesome-astra-3d/#case=bambssquad-jetis-digital-twin) | bambssquad / Bam | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [Astra Refined Animations：五个二十秒三维故事 / Astra Refined Animations — Five Procedural 3D Stories](https://carpentry-liu.github.io/awesome-astra-3d/#case=az9713-refined-animations) | az9713 | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [Gopher Globe：大会展台的实时三维互动 / Gopher Globe — Real-Time Conference Booth World](https://carpentry-liu.github.io/awesome-astra-3d/#case=seiji-miive-gopher-globe) | Seiji / miive | 作者展示 |
+| [金色金字塔：Astra 与 Fable 的三维对照 / Golden Pyramid — Astra and Fable Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=demon-pyramid-comparison) | demon / @demonugc | 完整视频 · 提示词 / 过程 |
+| [Time, Undone：持续运转的机械表拆解对照 / Time, Undone — Running Watch Exploded Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=paruchh-time-undone) | Paruchh / @theparuchh | 完整视频 · 提示词 / 过程 |
+| [人眼：Three.js 建模与眼睑动作对照 / Human Eye — Three.js and Eyelid Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=simonas-human-eye-comparison) | Simonas / @SimonasLTU1 | 完整视频 · 提示词 / 过程 |
+| [变形跑车：机器人、X 光与拆解对照 / Transforming Sports Car — Robot and Exploded Comparison](https://carpentry-liu.github.io/awesome-astra-3d/#case=marcel-transforming-car) | Marcel / @marcthecreatorr | 完整视频 · 提示词 / 过程 |
+
 ## 2026-10-01 · 8 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
