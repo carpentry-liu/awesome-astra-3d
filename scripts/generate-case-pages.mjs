@@ -40,7 +40,7 @@ const labels = {
     availability: '公开情况',
     excerpt: '原文短摘录',
     task: '任务概述',
-    fullPrompt: '完整提示词请回原文查看。',
+    fullPrompt: '已公开的任务与过程请回作者原文查看。',
     noPrompt: '未公开完整提示词，保持未知，不补写为作者原文。',
     video: '完整视频',
     videoOriginal: '原始下载',
@@ -98,7 +98,7 @@ const labels = {
     availability: 'Availability · source language',
     excerpt: 'Short original excerpt',
     task: 'Task summary · source language',
-    fullPrompt: 'Read the source for the complete prompt.',
+    fullPrompt: 'Read the creator’s source for published tasks and process details.',
     noPrompt:
       'The complete prompt is not public. No author prompt is invented.',
     video: 'Complete video',

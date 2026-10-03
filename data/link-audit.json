@@ -1,11 +1,11 @@
 {
   "observedAt": "2026-09-25",
   "method": "Incremental bounded HTTP GET: horse comparison page reachable; historical timestamps preserved. Does not validate benchmark fairness or every embedded animation.",
-  "checkedUrls": 499,
+  "checkedUrls": 520,
   "counts": {
     "http-error": 3,
-    "restricted": 4,
-    "reachable": 492
+    "restricted": 5,
+    "reachable": 512
   },
   "results": [
     {
@@ -8624,6 +8624,383 @@
       "contentType": "text/html; charset=utf-8",
       "contentRange": null,
       "result": "reachable"
+    },
+    {
+      "url": "https://github.com/YiTaChen/vancouver-living-atlas",
+      "uses": [
+        {
+          "caseId": "yitachen-vancouver-living-atlas",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "yitachen-vancouver-living-atlas",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for seven added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://github.com/YiTaChen/vancouver-living-atlas",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable",
+      "title": "GitHub - YiTaChen/vancouver-living-atlas: Interactive 3D Vancouver in your browser: walk, drive, boat and fly. Original city models, real terrain, day/night skies and mobile controls. Noncommercial with attribution. · GitHub"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/YiTaChen/vancouver-living-atlas/main/docs/visual-quality/city-readability/live-downtown-overcast.jpg",
+      "uses": [
+        {
+          "caseId": "yitachen-vancouver-living-atlas",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for seven added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/YiTaChen/vancouver-living-atlas/main/docs/visual-quality/city-readability/live-downtown-overcast.jpg",
+      "contentType": "image/jpeg",
+      "contentRange": null,
+      "result": "reachable",
+      "bytesRead": 154470
+    },
+    {
+      "url": "https://vancouver-living-atlas-yita.web.app/",
+      "uses": [
+        {
+          "caseId": "yitachen-vancouver-living-atlas",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for seven added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://vancouver-living-atlas-yita.web.app/",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable",
+      "title": "Vancouver · Living Atlas"
+    },
+    {
+      "url": "https://github.com/YiTaChen/vancouver-living-atlas/blob/main/docs/PROGRESS.md",
+      "uses": [
+        {
+          "caseId": "yitachen-vancouver-living-atlas",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for seven added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://github.com/YiTaChen/vancouver-living-atlas/blob/main/docs/PROGRESS.md",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable",
+      "title": "vancouver-living-atlas/docs/PROGRESS.md at main · YiTaChen/vancouver-living-atlas · GitHub"
+    },
+    {
+      "url": "https://kaloyan.blog/ai-models-rebuild-a-photo-in-blender",
+      "uses": [
+        {
+          "caseId": "kaloyan-photo-blender-benchmark",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "kaloyan-photo-blender-benchmark",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for seven added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://kaloyan.blog/ai-models-rebuild-a-photo-in-blender",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable",
+      "title": "Sixteen AI models tried to rebuild a photo in Blender · Kaloyan Chernev"
+    },
+    {
+      "url": "https://kaloyan-stuff.b-cdn.net/blog/eleven-models-in-blender/img/openai-gpt-6-astra-shopfront.jpg",
+      "uses": [
+        {
+          "caseId": "kaloyan-photo-blender-benchmark",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for seven added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://kaloyan-stuff.b-cdn.net/blog/eleven-models-in-blender/img/openai-gpt-6-astra-shopfront.jpg",
+      "contentType": "image/jpeg",
+      "contentRange": null,
+      "result": "reachable",
+      "bytesRead": 145832
+    },
+    {
+      "url": "https://superspl.at/scene/ca6a4c9b",
+      "uses": [
+        {
+          "caseId": "abstrakt-agent-dot-splat",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "abstrakt-agent-dot-splat",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for seven added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://superspl.at/scene/ca6a4c9b",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable",
+      "title": "ChatGPT dots - Felipe - SuperSplat"
+    },
+    {
+      "url": "https://s3-eu-west-1.amazonaws.com/images.playcanvas.com/splat/ca6a4c9b/v2/xl.webp",
+      "uses": [
+        {
+          "caseId": "abstrakt-agent-dot-splat",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for seven added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://s3-eu-west-1.amazonaws.com/images.playcanvas.com/splat/ca6a4c9b/v2/xl.webp",
+      "contentType": "image/webp",
+      "contentRange": null,
+      "result": "reachable",
+      "bytesRead": 96626
+    },
+    {
+      "url": "https://www.reddit.com/r/OpenAI/comments/1wvfapq/used_gpt6_astra_to_recreate_an_agent_dot_as_a_3d/",
+      "uses": [
+        {
+          "caseId": "abstrakt-agent-dot-splat",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for seven added cases; actual image inspection and browser demo checks are recorded separately.",
+      "result": "restricted",
+      "error": "HTTP Error 403: Blocked"
+    },
+    {
+      "url": "https://github.com/danielsobrado/Codex-and-Blender",
+      "uses": [
+        {
+          "caseId": "danielsobrado-coastal-jungle",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "danielsobrado-coastal-jungle",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for seven added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://github.com/danielsobrado/Codex-and-Blender",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable",
+      "title": "GitHub - danielsobrado/Codex-and-Blender: Astra + Blender: A Reproducible CLI, bpy and MCP Workflow · GitHub"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/danielsobrado/Codex-and-Blender/main/docs/images/forestInterior.jpg",
+      "uses": [
+        {
+          "caseId": "danielsobrado-coastal-jungle",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for seven added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/danielsobrado/Codex-and-Blender/main/docs/images/forestInterior.jpg",
+      "contentType": "image/jpeg",
+      "contentRange": null,
+      "result": "reachable",
+      "bytesRead": 175219
+    },
+    {
+      "url": "https://danielsobrado.github.io/Codex-and-Blender/",
+      "uses": [
+        {
+          "caseId": "danielsobrado-coastal-jungle",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for seven added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://danielsobrado.github.io/Codex-and-Blender/",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable",
+      "title": "Coastal Jungle"
+    },
+    {
+      "url": "https://github.com/danielsobrado/Codex-and-Blender/blob/main/docs/TROPICAL_KIT.md",
+      "uses": [
+        {
+          "caseId": "danielsobrado-coastal-jungle",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for seven added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://github.com/danielsobrado/Codex-and-Blender/blob/main/docs/TROPICAL_KIT.md",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable",
+      "title": "Codex-and-Blender/docs/TROPICAL_KIT.md at main · danielsobrado/Codex-and-Blender · GitHub"
+    },
+    {
+      "url": "https://github.com/fornhere/sonnet-vs-astra-benchmark",
+      "uses": [
+        {
+          "caseId": "fornhere-three-d-comparison",
+          "field": "sourceUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for seven added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://github.com/fornhere/sonnet-vs-astra-benchmark",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable",
+      "title": "GitHub - fornhere/sonnet-vs-astra-benchmark: Claude Sonnet 5.5 vs GPT-6 Astra: 18 gerçek iş, aynı prompt, high reasoning — promptlar, çıktılar, maliyetler · GitHub"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/fornhere/sonnet-vs-astra-benchmark/main/testler/t6-kapadokya/astra/captures/01-opening.png",
+      "uses": [
+        {
+          "caseId": "fornhere-three-d-comparison",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for seven added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/fornhere/sonnet-vs-astra-benchmark/main/testler/t6-kapadokya/astra/captures/01-opening.png",
+      "contentType": "image/png",
+      "contentRange": null,
+      "result": "reachable",
+      "bytesRead": 1170523
+    },
+    {
+      "url": "https://github.com/fornhere/sonnet-vs-astra-benchmark/tree/main/testler/t6-kapadokya/astra",
+      "uses": [
+        {
+          "caseId": "fornhere-three-d-comparison",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for seven added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://github.com/fornhere/sonnet-vs-astra-benchmark/tree/main/testler/t6-kapadokya/astra",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable",
+      "title": "sonnet-vs-astra-benchmark/testler/t6-kapadokya/astra at main · fornhere/sonnet-vs-astra-benchmark · GitHub"
+    },
+    {
+      "url": "https://github.com/fornhere/sonnet-vs-astra-benchmark/blob/main/testler/t6-kapadokya/GOREV.md",
+      "uses": [
+        {
+          "caseId": "fornhere-three-d-comparison",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for seven added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://github.com/fornhere/sonnet-vs-astra-benchmark/blob/main/testler/t6-kapadokya/GOREV.md",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable",
+      "title": "sonnet-vs-astra-benchmark/testler/t6-kapadokya/GOREV.md at main · fornhere/sonnet-vs-astra-benchmark · GitHub"
+    },
+    {
+      "url": "https://zenn.dev/tkada/articles/d0c31e6533fb62",
+      "uses": [
+        {
+          "caseId": "tkada-jump-run",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "tkada-jump-run",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for seven added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://zenn.dev/tkada/articles/d0c31e6533fb62",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable",
+      "title": "GPT-6 Astra x Unityでゲームを作る"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/k7Urv-l5MWk/hqdefault.jpg",
+      "uses": [
+        {
+          "caseId": "tkada-jump-run",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for seven added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://i.ytimg.com/vi/k7Urv-l5MWk/hqdefault.jpg",
+      "contentType": "image/jpeg",
+      "contentRange": null,
+      "result": "reachable",
+      "bytesRead": 13077
+    },
+    {
+      "url": "https://qiita.com/Nob_Hi/items/17d9703c460122c15612",
+      "uses": [
+        {
+          "caseId": "nob-hi-avatar-workflow",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "nob-hi-avatar-workflow",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for seven added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://qiita.com/Nob_Hi/items/17d9703c460122c15612",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable",
+      "title": "GPT-6 Astraで3Dアバター作りにトライしてみたんだけど、思ってたのと違った件 #ChatGPT - Qiita"
+    },
+    {
+      "url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4245119/f7e10dd1-c4cf-4b6a-b484-eed51d9ff253.png",
+      "uses": [
+        {
+          "caseId": "nob-hi-avatar-workflow",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for seven added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4245119/f7e10dd1-c4cf-4b6a-b484-eed51d9ff253.png",
+      "contentType": "image/png",
+      "contentRange": null,
+      "result": "reachable",
+      "bytesRead": 801625
     }
   ],
   "previousImageUrls": [

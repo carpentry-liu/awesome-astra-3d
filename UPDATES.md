@@ -2,6 +2,18 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-03 · 7 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Vancouver Living Atlas：五种方式探索温哥华 / Vancouver Living Atlas — Five Ways to Explore the City](https://carpentry-liu.github.io/awesome-astra-3d/cases/yitachen-vancouver-living-atlas/) | YiTaChen | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [参考图重建：十六模型的 Blender 对照实验 / Photo Reconstruction — Sixteen Models in Blender](https://carpentry-liu.github.io/awesome-astra-3d/cases/kaloyan-photo-blender-benchmark/) | Kaloyan Chernev / smith2008 | 提示词 / 过程 |
+| [毛绒 Agent Dot：Blender 到 Gaussian Splat / Agent Dot — Blender to Gaussian Splat](https://carpentry-liu.github.io/awesome-astra-3d/cases/abstrakt-agent-dot-splat/) | abstrakt / u/OkTechnician7827 | 演示入口 · 提示词 / 过程 |
+| [Coastal Jungle：可编辑丛林与 Three.js 植被世界 / Coastal Jungle — Editable Blender Vegetation and Three.js World](https://carpentry-liu.github.io/awesome-astra-3d/cases/danielsobrado-coastal-jungle/) | danielsobrado | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [Forn AI：Blender 与 Three.js 同题工程对照 / Forn AI — Blender and Three.js Same-Brief Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/fornhere-three-d-comparison/) | Forn AI / fornhere | 源码 / 工程 · 提示词 / 过程 |
+| [Jump Run：Astra 操作 Unity 的障碍课程 / Jump Run — Astra Operates Unity](https://carpentry-liu.github.io/awesome-astra-3d/cases/tkada-jump-run/) | Takeshi Kada / tkada | 提示词 / 过程 |
+| [粉发头像：Astra 建模与 Tripo 混合改进 / Pink-Haired Avatar — Astra and Tripo Iterations](https://carpentry-liu.github.io/awesome-astra-3d/cases/nob-hi-avatar-workflow/) | Nob_Hi | 提示词 / 过程 |
+
 ## 2026-10-02 · 8 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

@@ -96,7 +96,7 @@ export const messages = {
     referenceNote: '参考仓库里的图片与提示词，不纳入 Astra 数量。',
     mediaTitle: '提示词和素材',
     mediaNote:
-      '只摘录短句或提供摘要；完整提示词请回到作者原文。图片引用来源网站。完整视频包含原帖附带片段的全部时长，保留原作者权利；不表示包含全部开发过程。',
+      '只摘录短句或提供摘要；已公开的提示词与过程请回作者原文核对。图片引用来源网站。完整视频包含原帖附带片段的全部时长，保留原作者权利；不表示包含全部开发过程。',
     coverage: '检索覆盖',
     coverageOpenAI: '核对模型标签、源码及原始链接。',
     coverageX: '保留原帖，原页受限的展示转引证据。',
@@ -295,6 +295,7 @@ const categoryNames: Record<string, string> = {
   '3D 游戏': '3D games',
   拆解与剖面: 'Exploded views & sections',
   产品与角色: 'Products & characters',
+  角色与动画: 'Characters & animation',
   程序化场景: 'Procedural scenes',
   等距与微缩: 'Isometric & miniature',
   多视图: 'Multiple views',

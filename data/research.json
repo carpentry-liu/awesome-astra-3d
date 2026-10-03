@@ -1510,6 +1510,67 @@
         "Old 229 cases and old 212 video records preserved. No historical full re-audit in this batch.",
         "No ChatGPT Sites deployment."
       ]
+    },
+    {
+      "observedAt": "2026-10-03",
+      "timezone": "Asia/Shanghai",
+      "addedCaseIds": [
+        "yitachen-vancouver-living-atlas",
+        "kaloyan-photo-blender-benchmark",
+        "abstrakt-agent-dot-splat",
+        "danielsobrado-coastal-jungle",
+        "fornhere-three-d-comparison",
+        "tkada-jump-run",
+        "nob-hi-avatar-workflow"
+      ],
+      "queries": [
+        "\"GPT-6 Astra\" 3D after:2026-10-01",
+        "\"GPT-6 Astra\" Blender October 2026",
+        "\"GPT-6 Astra\" \"Three.js\" site:x.com",
+        "\"GPT-6 Astra\" site:github.com",
+        "\"GPT-6 Astra\" site:zenn.dev",
+        "\"GPT-6 Astra\" site:qiita.com",
+        "\"GPT-6 Astra\" site:reddit.com",
+        "GPT-6 Astra 3D site:bilibili.com",
+        "GPT-6 Astra 3D site:xiaohongshu.com"
+      ],
+      "channels": [
+        "GitHub",
+        "X",
+        "Reddit",
+        "Zenn",
+        "Qiita",
+        "Bilibili",
+        "小红书",
+        "作者网站"
+      ],
+      "coverageNotes": [
+        "237 old cases and all 220 video-manifest entries preserved; no historical full re-audit claimed.",
+        "Seven original-source cases with visible results; one Vancouver project has source updates on October 3 Shanghai time. Earlier works retain publication dates or null.",
+        "Kaloyan article is now sixteen models; its October 1 publication and October 2 modification differ from the older fourteen-model Reddit title. One run per model/image, mixed agent environments, no universal ranking.",
+        "Forn eighteen-task repository counts as one archive of its 3D subset, not eighteen new 3D cases.",
+        "Agent Dot combines Astra/Blender modeling and LichtFeld training; SuperSplat timestamp converted to October 2 Asia/Shanghai.",
+        "No qualified unique new X video found; existing 110 complete clips retained. Xiaohongshu has no verified new original-source case in this search.",
+        "No ChatGPT Sites deployment."
+      ],
+      "rejectedCandidates": [
+        {
+          "source": "https://www.bilibili.com/video/BV1XMbA6vEFr/",
+          "reason": "Linked Contra playable site returned 404; no actual original video inspected this round."
+        },
+        {
+          "source": "https://github.com/kotval/ngc4594",
+          "reason": "Astra comparison mention does not establish it created this result."
+        },
+        {
+          "source": "https://www.reddit.com/r/codex/comments/1wtkoaf/sol_61_vs_astra_vs_opus_55_all_medium/",
+          "reason": "Unverified rocket comparison lead; not included without actual result and model attribution checks."
+        },
+        {
+          "source": "https://3dtoolwiki.com/articles/gpt-6-astra-3d-models",
+          "reason": "Analysis and asset index do not verify thousands of distinct new author-created Astra cases."
+        }
+      ]
     }
   ]
 }

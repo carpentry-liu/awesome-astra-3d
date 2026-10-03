@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-10-02（Asia/Shanghai）**：**225 条 Astra 案例** · **59 条源码 / 工程** · **88 个演示入口** · **110 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-10-03（Asia/Shanghai）**：**232 条 Astra 案例** · **62 条源码 / 工程** · **91 个演示入口** · **110 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -44,18 +44,18 @@
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-growth-2026-10-02.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-03.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-2026-10-02 本轮生产构建实拍。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+2026-10-03 本轮生产构建实拍。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
-<summary>查看案例区、手机与作品详情实拍 · 2026-10-02</summary>
+<summary>查看案例区、手机与作品详情实拍 · 2026-10-03</summary>
 
-[![案例区：筛选与更多作品](docs/media/collection-growth-2026-10-02.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![案例区：筛选与更多作品](docs/media/collection-2026-10-03.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端：精选作品与材料导航](docs/media/mobile-growth-2026-10-02.jpg)
+![手机端：精选作品与材料导航](docs/media/mobile-2026-10-03.jpg)
 
-[![作品详情：材料、作者与来源记录](docs/media/case-growth-2026-10-02.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/simonw-pelican-bicycle/)
+[![作品详情：材料、作者与来源记录](docs/media/case-2026-10-03.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/kaloyan-photo-blender-benchmark/)
 
 </details>
 
@@ -66,14 +66,14 @@
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
+| [Vancouver Living Atlas：五种方式探索温哥华](https://carpentry-liu.github.io/awesome-astra-3d/cases/yitachen-vancouver-living-atlas/) | YiTaChen | [演示](https://vancouver-living-atlas-yita.web.app/) · [源码](https://github.com/YiTaChen/vancouver-living-atlas) · [原始来源](https://github.com/YiTaChen/vancouver-living-atlas) |
+| [参考图重建：十六模型的 Blender 对照实验](https://carpentry-liu.github.io/awesome-astra-3d/cases/kaloyan-photo-blender-benchmark/) | Kaloyan Chernev / smith2008 | [原始来源](https://kaloyan.blog/ai-models-rebuild-a-photo-in-blender) |
+| [毛绒 Agent Dot：Blender 到 Gaussian Splat](https://carpentry-liu.github.io/awesome-astra-3d/cases/abstrakt-agent-dot-splat/) | abstrakt / u/OkTechnician7827 | [演示](https://superspl.at/scene/ca6a4c9b) · [原始来源](https://superspl.at/scene/ca6a4c9b) |
+| [Coastal Jungle：可编辑丛林与 Three.js 植被世界](https://carpentry-liu.github.io/awesome-astra-3d/cases/danielsobrado-coastal-jungle/) | danielsobrado | [演示](https://danielsobrado.github.io/Codex-and-Blender/) · [源码](https://github.com/danielsobrado/Codex-and-Blender) · [原始来源](https://github.com/danielsobrado/Codex-and-Blender) |
+| [Forn AI：Blender 与 Three.js 同题工程对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/fornhere-three-d-comparison/) | Forn AI / fornhere | [源码](https://github.com/fornhere/sonnet-vs-astra-benchmark/tree/main/testler/t6-kapadokya/astra) · [原始来源](https://github.com/fornhere/sonnet-vs-astra-benchmark) |
+| [Jump Run：Astra 操作 Unity 的障碍课程](https://carpentry-liu.github.io/awesome-astra-3d/cases/tkada-jump-run/) | Takeshi Kada / tkada | [原始来源](https://zenn.dev/tkada/articles/d0c31e6533fb62) |
+| [粉发头像：Astra 建模与 Tripo 混合改进](https://carpentry-liu.github.io/awesome-astra-3d/cases/nob-hi-avatar-workflow/) | Nob_Hi | [原始来源](https://qiita.com/Nob_Hi/items/17d9703c460122c15612) |
 | [海边猫骑行：关闭记忆后的 Astra 与 Sol 对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/chatgpttest-coastal-cat-memory-off/) | 313715295 / ChatGPT-Test | [演示](https://313715295.github.io/ChatGPT-Test/experiments/2026-10-02-coastal-cat-memory-off/scenes/B.html) · [源码](https://github.com/313715295/ChatGPT-Test) · [原始来源](https://github.com/313715295/ChatGPT-Test/blob/main/docs/experiments/2026-10-02-coastal-cat-memory-off/README.md) |
-| [Jetis：DWG 到可漫游工厂与原生 SketchUp 模型](https://carpentry-liu.github.io/awesome-astra-3d/cases/bambssquad-jetis-digital-twin/) | bambssquad / Bam | [演示](https://bambssquad.github.io/jetis-digital-twin-astra/) · [源码](https://github.com/bambssquad/jetis-digital-twin-astra) · [原始来源](https://github.com/bambssquad/jetis-digital-twin-astra) |
-| [Astra Refined Animations：五个二十秒三维故事](https://carpentry-liu.github.io/awesome-astra-3d/cases/az9713-refined-animations/) | az9713 | [演示](https://az9713.github.io/gpt-6-astra-builds/latest/) · [源码](https://github.com/az9713/gpt-6-astra-builds) · [原始来源](https://github.com/az9713/gpt-6-astra-builds) |
-| [Gopher Globe：大会展台的实时三维互动](https://carpentry-liu.github.io/awesome-astra-3d/cases/seiji-miive-gopher-globe/) | Seiji / miive | [原始来源](https://zenn.dev/miive/articles/d4a1675553d53c) |
-| [金色金字塔：Astra 与 Fable 的三维对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/demon-pyramid-comparison/) | demon / @demonugc | [原始来源](https://x.com/demonugc/status/2105412081692352654) |
-| [Time, Undone：持续运转的机械表拆解对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/paruchh-time-undone/) | Paruchh / @theparuchh | [原始来源](https://x.com/theparuchh/status/2105009377002299711) |
-| [人眼：Three.js 建模与眼睑动作对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/simonas-human-eye-comparison/) | Simonas / @SimonasLTU1 | [原始来源](https://x.com/SimonasLTU1/status/2104841727496323479) |
-| [变形跑车：机器人、X 光与拆解对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/marcel-transforming-car/) | Marcel / @marcthecreatorr | [原始来源](https://x.com/marcthecreatorr/status/2104654448878387313) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [分享素材与衡量说明](docs/sharing/README.md)

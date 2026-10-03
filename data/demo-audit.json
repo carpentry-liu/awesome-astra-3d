@@ -577,6 +577,22 @@
       "result": "实际检查金门大桥动画画面；未逐项验证五场景、历史准确性或跨设备性能。",
       "console": "No warn/error captured.",
       "checkedDemoUrl": "https://az9713.github.io/gpt-6-astra-builds/latest/04-golden-gate/index.html?backend=webgl"
+    },
+    {
+      "id": "abstrakt-agent-dot-splat",
+      "url": "https://superspl.at/scene/ca6a4c9b",
+      "observedAt": "2026-10-03",
+      "method": "Actual browser render screenshot; limited visual check, not generation reproduction or complete interaction.",
+      "result": "实际打开作者三维查看器并看到角色；发布页提供下载入口，控制台 warn/error 为空。未独立建模、训练，不认证帧率、网格可编辑性或完整交互。",
+      "console": "No warn/error captured."
+    },
+    {
+      "id": "yitachen-vancouver-living-atlas",
+      "url": "https://vancouver-living-atlas-yita.web.app/",
+      "observedAt": "2026-10-03",
+      "method": "Actual browser render screenshot; limited visual check, not generation reproduction or complete interaction.",
+      "result": "实际打开作者运行站，温哥华半岛、建筑与五个模式入口可见。交互检查超时，未把作者测试、FPS 或线上恢复记录写成本库独立验证。",
+      "console": "Not obtained; interaction/browser DOM request timed out."
     }
   ]
 }
