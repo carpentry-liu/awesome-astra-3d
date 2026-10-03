@@ -1571,6 +1571,136 @@
           "reason": "Analysis and asset index do not verify thousands of distinct new author-created Astra cases."
         }
       ]
+    },
+    {
+      "observedAt": "2026-10-03",
+      "timezone": "Asia/Shanghai",
+      "batch": "oct03-afternoon",
+      "addedCaseIds": [
+        "andyyuyc-worldgen-unity",
+        "machikita-orbit-lab",
+        "drleeworks-tensile-specimen"
+      ],
+      "channels": [
+        "GitHub",
+        "X",
+        "Reddit",
+        "Zenn",
+        "Qiita",
+        "Bilibili",
+        "小红书",
+        "作者网站"
+      ],
+      "queries": [
+        "\"GPT-6 Astra\" \"3D\" October 3",
+        "\"GPT-6 Astra\" Blender github",
+        "\"Astra\" \"three.js\" \"2026-10-03\"",
+        "\"gpt-6-astra\" \"3d\" github",
+        "\"GPT-6 Astra\" \"github\" \"October 3\"",
+        "\"GPT-6 Astra\" \"3D\" after:2026-10-02",
+        "\"GPT-6 Astra\" \"Blender\" after:2026-10-02",
+        "\"GPT-6 Astra\" \"three.js\" after:2026-10-01",
+        "\"yzh119\" \"GPT\" \"Astra\"",
+        "\"ldraw-nova\" \"Astra\"",
+        "\"WorldGen_Unity\" \"GPT-6 Astra\"",
+        "\"dean.builds.ai\" \"astra\" \"3D\"",
+        "\"GPT-6 Astra\" \"3D\" site:xiaohongshu.com",
+        "\"GPT-6 Astra\" Blender \"October 2\""
+      ],
+      "coverageNotes": [
+        "244 earlier cases and all 220 media manifest entries unchanged. Incremental review only; no full-library re-audit claimed.",
+        "Three newly collected original-source works. Orbit Lab was published September 24, DrLee September 8; WorldGen first publication date is unknown. October 3 is the collection date.",
+        "WorldGen models mainly come from local parametric generators; Astra plans layouts and writes selected landmarks. Public repository contains tools/layouts, not ready-made GLB/blend exports.",
+        "Orbit Lab counts as one 3D comparison archive; four model outputs and unrelated CSV dashboards are not separate Astra cases.",
+        "DrLee final output image returned HTTP 200 today after September 26 rejection for HTTP 403; actual specimen render inspected. No standard compliance certified.",
+        "No newly verified unique X recording found; existing 110 complete clips retained. Xiaohongshu search yielded no qualifying new original-source output.",
+        "No ChatGPT Sites deployment or external community posting."
+      ],
+      "rejectedCandidates": [
+        {
+          "sourceUrl": "https://github.com/teslaeco/WORLDIFACT",
+          "reason": "作者明确真实 Astra 请求未完成，当前公共成果为 DEMO / MOCK；API 集成与可视场景不能证明 Astra 实际生成。"
+        },
+        {
+          "sourceUrl": "https://github.com/SquirrelyShane/Living-Galaxy",
+          "reason": "Astra 是游戏世界中的公司、势力和行业称呼；未找到原作者 GPT-6 Astra 创作声明。"
+        },
+        {
+          "sourceUrl": "https://github.com/cboler/critterstead",
+          "reason": "Three.js 游戏与演示存在，但 ASTRA-HANDOFF 只是旧兼容入口；README 未确立 GPT-6 Astra 输出归属，暂不采用。"
+        },
+        {
+          "sourceUrl": "https://github.com/arwinai/cad-eval-set",
+          "reason": "可选的 gpt 路线指定 GPT-6 Astra，但作者入口是任务/评测工具设置，未找到已发布 Astra 结果图或录像。"
+        },
+        {
+          "sourceUrl": "https://github.com/dvaknin001/deanbuildsai",
+          "reason": "Astra 三维动画对照仅列 in progress；目前可读取根说明未提供已完成 Astra 结果封面，不能根据计划收录。"
+        },
+        {
+          "sourceUrl": "https://github.com/FaBoAI/SingularityDog",
+          "reason": "作者 README 宣称 GPT-6 设计，但未明确 GPT-6 Astra 模型身份；现有 GitHub 搜索关键词不足以确立归属。"
+        },
+        {
+          "sourceUrl": "https://github.com/danwahl/cadqueryeval",
+          "reason": "Astra CadQuery 评测记录存在；本次未取得对应 Astra 任务的实际结果图，评测表不能充当作品封面。"
+        },
+        {
+          "sourceUrl": "https://github.com/Ehsan-Roohi/historical-aircraft-llm",
+          "reason": "Astra 作者身份与工程分析档案明确，但展示为二维坐标/SVG三视工程示意，未证实独立三维模型成果；多轮设计仍HOLD，不能写成飞行或已验证CAD。"
+        },
+        {
+          "sourceUrl": "https://github.com/yzh119/h3-battle-lab",
+          "reason": "作者明确 Astra 做修复、动画、导出与Three.js渲染，博客真实结果充足；公开仓库排除Meshy底模、贴图、blend和完整mod。本次尚未完成直接原作者GPT-6 Astra身份/当日新成果的细核，保留后续候选，不把旧9月动画包装成10/3新作。"
+        },
+        {
+          "source": "https://github.com/anteloc/ldraw-nova",
+          "reason": "原作者 HN 发布与 README 明确工具由 GPT-6 Astra + Opus 5.5 共同开发；实际 Sakura Garden 模型图和公开 .mpd 可见。逐件成果归属不足：樱园、书店、教堂、体育场等 .mpd 仅记 ldraw-nova generator，没有 Astra 标识；Atlas Crane 更明确 Author: Claude Code, Claude Opus 5.5。不能把混合工具的示例封面当成已证实 Astra 模型输出，本轮不推荐作为新增 Astra 作品。"
+        },
+        {
+          "source": "https://www.reddit.com/r/codex/comments/1wtkoaf/sol_61_vs_astra_vs_opus_55_all_medium/",
+          "reason": "Author account/story matches existing lebo-rocket-comparison: identical medium settings, sped-up 2x source clip, reported timing and inverted nose cone. Do not duplicate cross-post."
+        },
+        {
+          "source": "https://www.bilibili.com/video/BV16Chy66ERH/",
+          "reason": "Astra/Tripo and third-party MMD motion/effects described; first frame inspected but model-by-model contribution and full result not verified. Keep as pending; no archive or case added."
+        }
+      ],
+      "socialCoverage": {
+        "queries": [
+          "\"GPT-6 Astra\" \"3D\" \"October 3\"",
+          "\"Astra\" \"Blender\" site:zenn.dev after:2026-09-20",
+          "\"Astra\" \"3D\" site:qiita.com after:2026-09-20",
+          "\"GPT-6 Astra\" \"3D\" site:reddit.com after:2026-09-29",
+          "\"astra\" \"blender\" site:x.com after:2026-10-01",
+          "\"astra\" \"three.js\" site:x.com after:2026-10-01",
+          "\"GPT-6 Astra\" \"3D\" site:zenn.dev after:2026-09-28",
+          "\"GPT-6 Astra\" \"Blender\" after:2026-10-02 -site:github.com",
+          "\"GPT-6 Astra\" \"Three.js\" after:2026-10-02 -site:github.com",
+          "\"Astra\" \"3D\" site:qiita.com after:2026-09-29",
+          "\"GPT-6 Astra\" site:x.com/status/ after:2026-09-29",
+          "\"GPT-6 Astra\" \"3D\" site:bilibili.com after:2026-09-27",
+          "\"GPT-6 Astra\" site:xiaohongshu.com",
+          "\"Astra\" \"Orbit Lab\" machikita",
+          "\"Astra\" \"3D\" site:x.com \"Oct\"",
+          "\"GPT-6 Astra\" \"3D\" site:zenn.dev \"2026/10\"",
+          "\"GPT-6 Astra\" \"3D\" site:qiita.com \"2026/10\"",
+          "\"GPT-6 Astra\" \"3D\" site:reddit.com \"October 03\"",
+          "\"GPT-6 Astra\" site:reddit.com/r/aigamedev after:2026-10-02",
+          "\"沼跃鱼艾森\" \"GPT-6\" \"模型\"",
+          "\"GPT-6 Astra\" \"绿坝娘\""
+        ],
+        "platformNotes": {
+          "X": "X-domain date-targeted queries did not expose a distinct qualifying October 2-3 original work. Broader results returned old mirrors and already-recorded OpenAI, abstrakt, and other creators. No X video was downloaded and no new complete media URL is asserted.",
+          "Reddit": "Recent exact Astra+3D results were mainly the already-recorded Agent Dot and Kaloyan photo benchmark, old comparisons, and discussion. The root agent separately excluded 1wtkoaf as duplicate of lebo-rocket-comparison; this agent did not fetch it.",
+          "Zenn": "machikita Orbit Lab accepted after author metadata/model configuration and actual output image checks. Existing chimerast/tkada/koher/Jinsights/teardownlab articles were recognized as duplicates.",
+          "Qiita": "New date-filtered queries returned prior Nob_Hi avatar article, news summaries, careers listings, and planning. No additional inspected original Astra 3D output was accepted.",
+          "Bilibili": "Web open of BV16Chy66ERH returned internal error, but public official view API succeeded and original first frame and cover were inspected. The author credit combines Astra/Tripo without per-model asset attribution, so it remains pending instead of a strong candidate.",
+          "Xiaohongshu": "Public exact Astra query did not expose an indexed candidate. This is limited search coverage, not proof that the platform has no works. No content was posted or changed.",
+          "authorBlogs": "IPentec and GPTBlender matched existing cases; DrLeeWorks was selected after its final result image returned HTTP 200 and was visually checked. General tutorials and launch commentary were not treated as original new work."
+        },
+        "result": "One uncollected September social-source work was verified. No unique original October 3 afternoon social work with both explicit Astra attribution and inspected output was verified in this search."
+      }
     }
   ]
 }

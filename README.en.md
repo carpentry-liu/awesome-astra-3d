@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-03 (Asia/Shanghai)** · **232 Astra examples** · **62 source / project links** · **91 demo links** · **110 complete videos** · **12 separate references**.
+Updated **2026-10-03 (Asia/Shanghai)** · **235 Astra examples** · **63 source / project links** · **92 demo links** · **110 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -44,18 +44,18 @@ Open an image for the case, materials and known limitations. This selection stay
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-03.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-03-afternoon.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
 Production build screenshots from this October 3, 2026 iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
 <summary>Gallery, mobile and case screenshots · October 3, 2026</summary>
 
-[![Gallery filters and more works](docs/media/collection-2026-10-03.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Gallery filters and more works](docs/media/collection-2026-10-03-afternoon.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-10-03.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-10-03-afternoon.jpg)
 
-[![Case page with materials, creator and evidence](docs/media/case-2026-10-03.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kaloyan-photo-blender-benchmark/)
+[![Case page with materials, creator and evidence](docs/media/case-2026-10-03-afternoon.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/machikita-orbit-lab/)
 
 </details>
 
@@ -66,14 +66,14 @@ Ordered by collection date, separate from each work's original publication and v
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [WorldGen — Three Text Scenes in Blender and Unity](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/andyyuyc-worldgen-unity/) | andyyuyc | [Source](https://github.com/andyyuyc/WorldGen_Unity) · [Original](https://github.com/andyyuyc/WorldGen_Unity) |
+| [Orbit Lab — Four-Model Sun, Earth and Moon Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/machikita-orbit-lab/) | まちきた / machikita（Tech News Radio） | [Demo](https://technewsradio.tokyo/lab/gpt6-vs-opus55/apps/orbit/astra/) · [Original](https://zenn.dev/machikita/articles/5fb78e45b55e84) |
+| [Tensile Specimen — Blender Script, View and Lighting Iteration](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/drleeworks-tensile-specimen/) | DrLeeWorks | [Original](https://drleeworks.com/en/computing/astra-blender/) |
 | [Vancouver Living Atlas — Five Ways to Explore the City](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/yitachen-vancouver-living-atlas/) | YiTaChen | [Demo](https://vancouver-living-atlas-yita.web.app/) · [Source](https://github.com/YiTaChen/vancouver-living-atlas) · [Original](https://github.com/YiTaChen/vancouver-living-atlas) |
 | [Photo Reconstruction — Sixteen Models in Blender](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kaloyan-photo-blender-benchmark/) | Kaloyan Chernev / smith2008 | [Original](https://kaloyan.blog/ai-models-rebuild-a-photo-in-blender) |
 | [Agent Dot — Blender to Gaussian Splat](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/abstrakt-agent-dot-splat/) | abstrakt / u/OkTechnician7827 | [Demo](https://superspl.at/scene/ca6a4c9b) · [Original](https://superspl.at/scene/ca6a4c9b) |
 | [Coastal Jungle — Editable Blender Vegetation and Three.js World](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/danielsobrado-coastal-jungle/) | danielsobrado | [Demo](https://danielsobrado.github.io/Codex-and-Blender/) · [Source](https://github.com/danielsobrado/Codex-and-Blender) · [Original](https://github.com/danielsobrado/Codex-and-Blender) |
 | [Forn AI — Blender and Three.js Same-Brief Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/fornhere-three-d-comparison/) | Forn AI / fornhere | [Source](https://github.com/fornhere/sonnet-vs-astra-benchmark/tree/main/testler/t6-kapadokya/astra) · [Original](https://github.com/fornhere/sonnet-vs-astra-benchmark) |
-| [Jump Run — Astra Operates Unity](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/tkada-jump-run/) | Takeshi Kada / tkada | [Original](https://zenn.dev/tkada/articles/d0c31e6533fb62) |
-| [Pink-Haired Avatar — Astra and Tripo Iterations](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/nob-hi-avatar-workflow/) | Nob_Hi | [Original](https://qiita.com/Nob_Hi/items/17d9703c460122c15612) |
-| [Coastal Cat Ride — Memory Disabled Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/chatgpttest-coastal-cat-memory-off/) | 313715295 / ChatGPT-Test | [Demo](https://313715295.github.io/ChatGPT-Test/experiments/2026-10-02-coastal-cat-memory-off/scenes/B.html) · [Source](https://github.com/313715295/ChatGPT-Test) · [Original](https://github.com/313715295/ChatGPT-Test/blob/main/docs/experiments/2026-10-02-coastal-cat-memory-off/README.md) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Sharing materials and measurement](docs/sharing/README.md)

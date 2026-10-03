@@ -214,6 +214,9 @@
   }
 }
 @media (max-width: 640px) {
+  .group-tabs {
+    overflow-x: auto;
+  }
   .catalog-results .case-grid {
     grid-template-columns: 1fr;
     gap: 22px;

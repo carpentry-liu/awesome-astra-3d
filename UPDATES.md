@@ -2,10 +2,13 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
-## 2026-10-03 · 7 个案例
+## 2026-10-03 · 10 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
+| [WorldGen：三种文字场景到 Blender 与 Unity 世界 / WorldGen — Three Text Scenes in Blender and Unity](https://carpentry-liu.github.io/awesome-astra-3d/cases/andyyuyc-worldgen-unity/) | andyyuyc | 源码 / 工程 · 提示词 / 过程 |
+| [Orbit Lab：太阳、地球与月球的四模型对照 / Orbit Lab — Four-Model Sun, Earth and Moon Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/machikita-orbit-lab/) | まちきた / machikita（Tech News Radio） | 演示入口 · 提示词 / 过程 |
+| [拉伸试样：从 Blender 脚本到视图与灯光调整 / Tensile Specimen — Blender Script, View and Lighting Iteration](https://carpentry-liu.github.io/awesome-astra-3d/cases/drleeworks-tensile-specimen/) | DrLeeWorks | 提示词 / 过程 |
 | [Vancouver Living Atlas：五种方式探索温哥华 / Vancouver Living Atlas — Five Ways to Explore the City](https://carpentry-liu.github.io/awesome-astra-3d/cases/yitachen-vancouver-living-atlas/) | YiTaChen | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
 | [参考图重建：十六模型的 Blender 对照实验 / Photo Reconstruction — Sixteen Models in Blender](https://carpentry-liu.github.io/awesome-astra-3d/cases/kaloyan-photo-blender-benchmark/) | Kaloyan Chernev / smith2008 | 提示词 / 过程 |
 | [毛绒 Agent Dot：Blender 到 Gaussian Splat / Agent Dot — Blender to Gaussian Splat](https://carpentry-liu.github.io/awesome-astra-3d/cases/abstrakt-agent-dot-splat/) | abstrakt / u/OkTechnician7827 | 演示入口 · 提示词 / 过程 |

@@ -593,6 +593,14 @@
       "method": "Actual browser render screenshot; limited visual check, not generation reproduction or complete interaction.",
       "result": "实际打开作者运行站，温哥华半岛、建筑与五个模式入口可见。交互检查超时，未把作者测试、FPS 或线上恢复记录写成本库独立验证。",
       "console": "Not obtained; interaction/browser DOM request timed out."
+    },
+    {
+      "id": "machikita-orbit-lab",
+      "url": "https://technewsradio.tokyo/lab/gpt6-vs-opus55/apps/orbit/astra/",
+      "observedAt": "2026-10-03",
+      "method": "Actual browser screenshot; limited visual check, not full interaction or generation reproduction.",
+      "result": "实际浏览器看到 Astra 天体场景，控制台 warn/error 为空；未逐项测试播放控制、移动端或独立复现，时间与费用仍为作者单次自报。",
+      "console": "No warn/error captured."
     }
   ]
 }

@@ -43,3 +43,4 @@
 - [10 月 2 日：工厂数字孪生、猫骑行与完整对照录像](features/F-0026-daily-oct02/README.md)。
 - [10 月 2 日：作品发现、上手、英文浏览与独立分享页](features/F-0027-discovery-and-sharing/README.md)。
 - [10 月 3 日：七件作品、来源复核与真实截图更新](features/F-0028-daily-oct03/README.md)。
+- [10 月 3 日下午：补充检索与可见作品](features/F-0029-oct03-afternoon/README.md)。

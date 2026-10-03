@@ -1,11 +1,11 @@
 {
   "observedAt": "2026-09-25",
   "method": "Incremental bounded HTTP GET: horse comparison page reachable; historical timestamps preserved. Does not validate benchmark fairness or every embedded animation.",
-  "checkedUrls": 520,
+  "checkedUrls": 529,
   "counts": {
     "http-error": 3,
     "restricted": 5,
-    "reachable": 512
+    "reachable": 521
   },
   "results": [
     {
@@ -9001,6 +9001,167 @@
       "contentRange": null,
       "result": "reachable",
       "bytesRead": 801625
+    },
+    {
+      "url": "https://github.com/andyyuyc/WorldGen_Unity",
+      "uses": [
+        {
+          "caseId": "andyyuyc-worldgen-unity",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "andyyuyc-worldgen-unity",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for three added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://github.com/andyyuyc/WorldGen_Unity",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable",
+      "title": "GitHub - andyyuyc/WorldGen_Unity · GitHub"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/andyyuyc/WorldGen_Unity/main/docs/images/generated_buildings.jpg",
+      "uses": [
+        {
+          "caseId": "andyyuyc-worldgen-unity",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for three added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/andyyuyc/WorldGen_Unity/main/docs/images/generated_buildings.jpg",
+      "contentType": "image/jpeg",
+      "contentRange": null,
+      "result": "reachable",
+      "bytesRead": 176102
+    },
+    {
+      "url": "https://github.com/andyyuyc/WorldGen_Unity/blob/main/configs/prompts/scene_layout.txt",
+      "uses": [
+        {
+          "caseId": "andyyuyc-worldgen-unity",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for three added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://github.com/andyyuyc/WorldGen_Unity/blob/main/configs/prompts/scene_layout.txt",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable",
+      "title": "WorldGen_Unity/configs/prompts/scene_layout.txt at main · andyyuyc/WorldGen_Unity · GitHub"
+    },
+    {
+      "url": "https://zenn.dev/machikita/articles/5fb78e45b55e84",
+      "uses": [
+        {
+          "caseId": "machikita-orbit-lab",
+          "field": "sourceUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for three added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://zenn.dev/machikita/articles/5fb78e45b55e84",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable",
+      "title": "GPT-6（Astra/Sol/Luna）とClaude Opus 5.5に同じアプリを作らせて、品質・時間・料金を実測してみた"
+    },
+    {
+      "url": "https://technewsradio.tokyo/lab/gpt6-vs-opus55/assets/screenshots/orbit-astra-earth-closeup.png",
+      "uses": [
+        {
+          "caseId": "machikita-orbit-lab",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for three added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://technewsradio.tokyo/lab/gpt6-vs-opus55/assets/screenshots/orbit-astra-earth-closeup.png",
+      "contentType": "image/png",
+      "contentRange": null,
+      "result": "reachable",
+      "bytesRead": 453589
+    },
+    {
+      "url": "https://technewsradio.tokyo/lab/gpt6-vs-opus55/apps/orbit/astra/",
+      "uses": [
+        {
+          "caseId": "machikita-orbit-lab",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for three added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://technewsradio.tokyo/lab/gpt6-vs-opus55/apps/orbit/astra/",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable",
+      "title": "Orbit Lab — 小さな宇宙の実験室"
+    },
+    {
+      "url": "https://technewsradio.tokyo/lab/gpt6-vs-opus55/assets/prompts/orbit-common.txt",
+      "uses": [
+        {
+          "caseId": "machikita-orbit-lab",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for three added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://technewsradio.tokyo/lab/gpt6-vs-opus55/assets/prompts/orbit-common.txt",
+      "contentType": "text/plain; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable",
+      "title": null
+    },
+    {
+      "url": "https://drleeworks.com/en/computing/astra-blender/",
+      "uses": [
+        {
+          "caseId": "drleeworks-tensile-specimen",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "drleeworks-tensile-specimen",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for three added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://drleeworks.com/en/computing/astra-blender/",
+      "contentType": "text/html; charset=utf-8",
+      "contentRange": null,
+      "result": "reachable",
+      "title": "Trying Blender Modeling with GPT-6 Astra | DrLeeWorks"
+    },
+    {
+      "url": "https://drleeworks.com/_astro/image09.CzEabo12_WEcMg.webp",
+      "uses": [
+        {
+          "caseId": "drleeworks-tensile-specimen",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-03",
+      "method": "Incremental bounded HTTP GET for three added cases; actual image inspection and browser demo checks are recorded separately.",
+      "status": 200,
+      "finalUrl": "https://drleeworks.com/_astro/image09.CzEabo12_WEcMg.webp",
+      "contentType": "image/webp",
+      "contentRange": null,
+      "result": "reachable",
+      "bytesRead": 5036
     }
   ],
   "previousImageUrls": [
