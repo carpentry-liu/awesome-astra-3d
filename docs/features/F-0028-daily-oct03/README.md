@@ -37,4 +37,9 @@
 
 ## GitHub 与线上发布
 
-待本轮推送、工作流与公开站点验证后记录最终证据。
+- `git commit` / `git -c http.version=HTTP/1.1 push origin main`：内容与截图提交 `98bcf48` 正常推送，仓库为公开状态；About 的长期介绍和首页地址仍正确，不为每日数量重复改写。
+- `D:/miniforge3/python.exe -X utf8 work/ci-oct03.py`：[Pages 工作流 37094292206](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/37094292206) 的 build、deploy 与整轮结论均为 success，包含数据 / lint / 构建及现有完整媒体下载核验步骤。
+- `D:/miniforge3/python.exe -X utf8 work/published-oct03.py`：线上 244 条 `cases.json` 与本地逐条一致；七条详情 JSON、中英文共 14 个新增案例页的 canonical、实际图地址和修正后的过程说明均通过。511 个 sitemap URL 和分享封面与本地一致；首页三个脚本为 HTTP 200、JavaScript 类型且非 HTML 错误内容。
+- 同一线上核验通过 GitHub API 比较中英文 README 文本，并逐字节比较公开仓库四张新 JPG。Windows 工作文件包含 CRLF，而 Git 保存 LF，因此文档文本比较先统一行尾；媒体仍按原始字节核验。核验脚本初次对小型入口脚本设了不适用的 1KB 下限，随后改按实际类型 / 内容检查；两处均为验证脚本修正，没有更改应用或已发布资源。
+- 公开 Pages 实际浏览器截图可见 232 数量、新增温哥华、店面与毛绒角色，图片正常。浏览器默认视口已恢复，公开最新收录页保留供用户浏览；本轮临时作者 / 本地标签页已关闭，两台本地预览服务器已停止。公开页后续完整交互和控制台没有重复核验，本地最终生产构建的检查单独记录。
+- `D:/miniforge3/python.exe -X utf8 work/final-oct03.py`：旧 237 条案例与 220 个媒体对象未改，README 四图和统计、完整事实 JSON、分享封面及没有新的上游 main 提交均通过；`git diff --check` 通过。最终发布证据位于忽略目录 `work/refresh-2026-10-03/`，日更记录随后以文档提交补齐。
