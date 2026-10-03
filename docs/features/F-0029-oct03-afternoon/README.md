@@ -30,4 +30,9 @@
 
 ## GitHub Pages 发布
 
-待发布后补齐。
+- `git commit` 与 `git -c http.version=HTTP/1.1 push origin main`：实施提交 `01629c7` 正常推送，包含本轮三条、页签修正与四张截图。仓库公开，About 的长期介绍与主页地址仍准确。
+- `D:/miniforge3/python.exe -X utf8 work/ci-oct03-afternoon.py`：[Pages 工作流 37102075750](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/37102075750) 的 build、deploy 与整轮结果均 success；现有完整录像下载 / 字节与 SHA 校验步骤也成功。
+- `D:/miniforge3/python.exe -X utf8 work/published-oct03-afternoon.py`：线上 247 条 JSON 与本地逐条一致；新增三条详情 JSON、六个中英文静态案例页的 canonical、实际图地址与过程说明通过。517 个 sitemap URL、分享封面、首页三段脚本的 HTTP / 类型 / 内容检查通过。中英文 README 统一行尾后与公开仓库一致，四张 JPG 按字节完全相同。
+- `D:/miniforge3/python.exe -X utf8 work/verify-github-afternoon.py`：公开状态、About / 主页地址、两份 README 与四张实拍再次独立核对通过。
+- 公开 Pages 浏览器实拍显示 235 数量、WorldGen、Orbit Lab 与拉伸试样的实际图片。默认浏览器尺寸已恢复，最新收录页保留供浏览；本地服务器与临时作者 / 本地页均已关闭。远程完整交互与控制台未重复检查，本地最终普通构建的行为和控制台结果单独列于上文。
+- `D:/miniforge3/python.exe -X utf8 work/final-oct03-afternoon.py` 与 `git diff --check`：发布前数据、旧档案、媒体、生成物、README 与分支检查通过。真实截图与发布证据位于忽略目录 `work/refresh-2026-10-03-afternoon/`。本发布记录以单独文档提交补齐，不重复触发站点构建。
