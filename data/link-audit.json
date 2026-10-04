@@ -1,11 +1,11 @@
 {
   "observedAt": "2026-09-25",
   "method": "Incremental bounded HTTP GET: horse comparison page reachable; historical timestamps preserved. Does not validate benchmark fairness or every embedded animation.",
-  "checkedUrls": 529,
+  "checkedUrls": 544,
   "counts": {
-    "http-error": 3,
-    "restricted": 5,
-    "reachable": 521
+    "http-error": 4,
+    "restricted": 6,
+    "reachable": 534
   },
   "results": [
     {
@@ -9162,6 +9162,256 @@
       "contentRange": null,
       "result": "reachable",
       "bytesRead": 5036
+    },
+    {
+      "url": "https://yzh119.github.io/zh/posts/battle-lab/",
+      "uses": [
+        {
+          "caseId": "yzh119-h3-battle-lab",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "yzh119-h3-battle-lab",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-04T02:22:36.563931+00:00",
+      "method": "Incremental bounded HTTP GET of October 4 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://yzh119.github.io/zh/posts/battle-lab/",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "[AI]三维战场实验 · yzh119"
+    },
+    {
+      "url": "https://yzh119.github.io/images/battle-lab-materials/black-knight.png",
+      "uses": [
+        {
+          "caseId": "yzh119-h3-battle-lab",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-04T02:22:36.564930+00:00",
+      "method": "Incremental bounded HTTP GET of October 4 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://yzh119.github.io/images/battle-lab-materials/black-knight.png",
+      "contentType": "image/png",
+      "result": "reachable",
+      "bytesRead": 489511
+    },
+    {
+      "url": "https://github.com/yzh119/h3-battle-lab",
+      "uses": [
+        {
+          "caseId": "yzh119-h3-battle-lab",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-10-04T02:22:36.565930+00:00",
+      "method": "Incremental bounded HTTP GET of October 4 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://github.com/yzh119/h3-battle-lab",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "GitHub - yzh119/h3-battle-lab: Three.js battlefield prototype with animated local GLB units, hex movement, and HD background composition. Public tools, private art. · GitHub"
+    },
+    {
+      "url": "https://github.com/ecooxai/gpt6-astra-pro-colabdev-web-rgirljk",
+      "uses": [
+        {
+          "caseId": "ecooxai-form-001-character",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "ecooxai-form-001-character",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-10-04T02:22:36.565930+00:00",
+      "method": "Incremental bounded HTTP GET of October 4 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://github.com/ecooxai/gpt6-astra-pro-colabdev-web-rgirljk",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "GitHub - ecooxai/gpt6-astra-pro-colabdev-web-rgirljk: Original procedural 3D character and interactive web studio, built from scratch with Three.js and Colabdev. · GitHub"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ecooxai/gpt6-astra-pro-colabdev-web-rgirljk/f5779cff2d13ee71f42ec4b499ae1d3ed0548738/public/preview/rev-10-front.png",
+      "uses": [
+        {
+          "caseId": "ecooxai-form-001-character",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-04T02:22:36.566929+00:00",
+      "method": "Incremental bounded HTTP GET of October 4 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/ecooxai/gpt6-astra-pro-colabdev-web-rgirljk/f5779cff2d13ee71f42ec4b499ae1d3ed0548738/public/preview/rev-10-front.png",
+      "contentType": "image/png",
+      "result": "reachable",
+      "bytesRead": 191878
+    },
+    {
+      "url": "https://ecooxai.github.io/gpt6-astra-pro-colabdev-web-rgirljk/",
+      "uses": [
+        {
+          "caseId": "ecooxai-form-001-character",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-10-04T02:22:36.567362+00:00",
+      "method": "Incremental bounded HTTP GET of October 4 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://ecooxai.github.io/gpt6-astra-pro-colabdev-web-rgirljk/",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "FORM / 001 — A portrait in three dimensions"
+    },
+    {
+      "url": "https://github.com/ecooxai/gpt6-astra-pro-colabdev-web-rgirljk/blob/f5779cff2d13ee71f42ec4b499ae1d3ed0548738/README.md",
+      "uses": [
+        {
+          "caseId": "ecooxai-form-001-character",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-04T02:22:37.740964+00:00",
+      "method": "Incremental bounded HTTP GET of October 4 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://github.com/ecooxai/gpt6-astra-pro-colabdev-web-rgirljk/blob/f5779cff2d13ee71f42ec4b499ae1d3ed0548738/README.md",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "gpt6-astra-pro-colabdev-web-rgirljk/README.md at f5779cff2d13ee71f42ec4b499ae1d3ed0548738 · ecooxai/gpt6-astra-pro-colabdev-web-rgirljk · GitHub"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/tianyuxu_a-3d-model-unlimited-exploration-storytelling-activity-7511789216536625152-3nwC",
+      "uses": [
+        {
+          "caseId": "tianyu-monsoon-funnel",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "tianyu-monsoon-funnel",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-04T02:22:37.985865+00:00",
+      "method": "Incremental bounded HTTP GET of October 4 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/posts/tianyuxu_a-3d-model-unlimited-exploration-storytelling-activity-7511789216536625152-3nwC",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "A 3D model &#61; unlimited exploration &amp; storytelling angles.\nAr. June Chow and I will take a deep dive in this session:\n👀 The Living Model 👉 luma.com/3d4design\n\nThe building model below was built in… | Tianyu Xu | 15 comments"
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5605AQGopE0uDehcOA/videocover-high/B56aD88cYJG4BU-/0/1790950100952?e=2147483647&v=beta&t=d3n9GQgfxcT7ITTVEtQfvmXbJW4NOTtHEjrAX1Kmo_E",
+      "uses": [
+        {
+          "caseId": "tianyu-monsoon-funnel",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-04T02:22:38.571597+00:00",
+      "method": "Incremental bounded HTTP GET of October 4 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "result": "http-error",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'media.licdn.com'. (_ssl.c:1129)>"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/tianyuxu_this-is-a-three-weekend-project-thanks-activity-7509962135574089728-5sIG",
+      "uses": [
+        {
+          "caseId": "tianyu-painting-cat-action",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "tianyu-painting-cat-action",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-04T02:22:38.612721+00:00",
+      "method": "Incremental bounded HTTP GET of October 4 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/posts/tianyuxu_this-is-a-three-weekend-project-thanks-activity-7509962135574089728-5sIG",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "This is a three-weekend project. \nthanks to GPT-6 Astra, Opus 5.5, and Blender. \nI never thought it could become a 3D action game. \n\nThe question I asked AI the most was: &quot;What if&quot; \n\nWhat if we make… | Tianyu Xu | 117 comments"
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5605AQE_65TmDJ2qNw/videocover-high/B56aDi.j7AGoBU-/0/1790514457157?e=2147483647&v=beta&t=8BKeBcubgbdr3DlpN9QXYHhUp08fxIFcp_m_jMWrZK8",
+      "uses": [
+        {
+          "caseId": "tianyu-painting-cat-action",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-04T02:22:38.620451+00:00",
+      "method": "Incremental bounded HTTP GET of October 4 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://media.licdn.com/dms/image/v2/D5605AQE_65TmDJ2qNw/videocover-high/B56aDi.j7AGoBU-/0/1790514457157?e=2147483647&v=beta&t=8BKeBcubgbdr3DlpN9QXYHhUp08fxIFcp_m_jMWrZK8",
+      "contentType": "image/jpeg",
+      "result": "reachable",
+      "bytesRead": 55930
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1Rgty6HEtx/",
+      "uses": [
+        {
+          "caseId": "wutian-fluffy-grove",
+          "field": "sourceUrl"
+        }
+      ],
+      "observedAt": "2026-10-04T02:22:40.210638+00:00",
+      "method": "Incremental bounded HTTP GET of October 4 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://www.bilibili.com/video/BV1Rgty6HEtx/",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "见到原子弹爆炸瘫倒的一个晚上！astra用blender从0建模演示_哔哩哔哩_bilibili"
+    },
+    {
+      "url": "https://i0.hdslb.com/bfs/storyff/_00000qr7ncn9x7ig92uneeuenby394b_firsti.jpg",
+      "uses": [
+        {
+          "caseId": "wutian-fluffy-grove",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-04T02:22:42.524751+00:00",
+      "method": "Incremental bounded HTTP GET of October 4 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://i0.hdslb.com/bfs/storyff/_00000qr7ncn9x7ig92uneeuenby394b_firsti.jpg",
+      "contentType": "image/jpeg",
+      "result": "reachable",
+      "bytesRead": 88715
+    },
+    {
+      "url": "https://linux.do/t/topic/2857364",
+      "uses": [
+        {
+          "caseId": "wutian-fluffy-grove",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-04T02:22:42.811985+00:00",
+      "method": "Incremental bounded HTTP GET of October 4 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "result": "restricted",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D5605AQGopE0uDehcOA/videocover-high/B56aD88cYJG4BU-/0/1790950100952?e=2147483647&v=beta&t=d3n9GQgfxcT7ITTVEtQfvmXbJW4NOTtHEjrAX1Kmo_E",
+      "uses": [
+        {
+          "caseId": "tianyu-monsoon-funnel",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-04T02:26:06.839975+00:00",
+      "method": "One follow-up ordinary HTTPS GET with certificate verification enabled; earlier hostname-mismatch observation preserved. Browser independently loaded actual 720x720 image.",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytesRead": 44052,
+      "result": "reachable",
+      "finalUrl": "https://media.licdn.com/dms/image/v2/D5605AQGopE0uDehcOA/videocover-high/B56aD88cYJG4BU-/0/1790950100952?e=2147483647&v=beta&t=d3n9GQgfxcT7ITTVEtQfvmXbJW4NOTtHEjrAX1Kmo_E"
     }
   ],
   "previousImageUrls": [

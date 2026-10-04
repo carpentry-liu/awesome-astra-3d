@@ -601,6 +601,18 @@
       "method": "Actual browser screenshot; limited visual check, not full interaction or generation reproduction.",
       "result": "实际浏览器看到 Astra 天体场景，控制台 warn/error 为空；未逐项测试播放控制、移动端或独立复现，时间与费用仍为作者单次自报。",
       "console": "No warn/error captured."
+    },
+    {
+      "id": "ecooxai-form-001-character",
+      "url": "https://ecooxai.github.io/gpt6-astra-pro-colabdev-web-rgirljk/",
+      "observedAt": "2026-10-04",
+      "method": "Actual browser render and two visible controls, with original/front and Back+Clay screenshots; not complete interaction, download or generation reproduction.",
+      "result": "实际打开作者工作台并查看正面人物、11 轮记录，Back 与 Clay 切换后确认背面与黏土材质，控制台 warn/error 为空。未测试下载按钮、手机或全部交互，未完整验证 GLB 或独立复现；技术校验不能证明照片相似度或达到视觉目标。",
+      "console": "No warn/error captured.",
+      "evidenceFiles": [
+        "work/refresh-2026-10-04/form-browser.jpg",
+        "work/refresh-2026-10-04/form-back-clay.jpg"
+      ]
     }
   ]
 }

@@ -1701,6 +1701,190 @@
         },
         "result": "One uncollected September social-source work was verified. No unique original October 3 afternoon social work with both explicit Astra attribution and inspected output was verified in this search."
       }
+    },
+    {
+      "observedAt": "2026-10-04",
+      "timezone": "Asia/Shanghai",
+      "addedCaseIds": [
+        "yzh119-h3-battle-lab",
+        "ecooxai-form-001-character",
+        "tianyu-monsoon-funnel",
+        "tianyu-painting-cat-action",
+        "wutian-fluffy-grove"
+      ],
+      "channels": [
+        "GitHub",
+        "X",
+        "Reddit",
+        "Zenn",
+        "Qiita",
+        "Bilibili",
+        "小红书",
+        "LINUX DO",
+        "LinkedIn",
+        "作者网站"
+      ],
+      "coverageNotes": [
+        "247 historical records preserved; no complete historical audit claimed.",
+        "Recent author project progress and newly collected older works retain actual publication dates, or null when unknown.",
+        "Mixed Astra/Opus/Blender work retains explicit division of labor and unknown model versions.",
+        "No qualified unique new X original video verified; existing 110 complete clips and all 220 media entries preserved.",
+        "Only original visible output or original video poster accepted; input reference pictures are not outcome images.",
+        "No ChatGPT Sites deployment or community posting."
+      ],
+      "rootCoverage": [
+        "Bilibili 公开 view API：3 件候选的作者、时间、时长与真实首帧；LINUX DO 作者过程记录",
+        "中文全网、Bilibili、小红书检索；模型关键词与日期组合"
+      ],
+      "projectCoverage": {
+        "queries": [
+          "\"GPT-6 Astra\" \"3D\" github",
+          "\"GPT-6 Astra\" \"October 3\"",
+          "\"GPT-6 Astra\" \"October 4\"",
+          "\"GPT-6 Astra\" Blender after:2026-10-02",
+          "\"GPT-6 Astra\" Three.js after:2026-10-02",
+          "\"GPT-6 Astra\" 3D \"October\" -site:reddit.com -site:x.com",
+          "GitHub API: \"gpt-6 astra\" in:readme pushed:>=2026-10-03",
+          "GitHub API: \"gpt-6 astra\" blender in:readme pushed:>=2026-10-03",
+          "GitHub API: \"gpt-6 astra\" \"3d\" in:readme pushed:>=2026-10-03",
+          "GitHub API: \"gpt-6 astra\" \"three.js\" in:readme pushed:>=2026-10-03",
+          "\"yzh119\" \"h3-battle-lab\"",
+          "site:yzh119.github.io \"GPT-6\""
+        ],
+        "scope": "广搜作者 GitHub 和网站后，按父任务优先细核 H3 Battle Lab 与 FORM / 001 两件。GitHub 泛关键词检索返回 1161 个仓库，仅查看最新首批 100 个；3d 窄检索返回 182 个，查看首批 100 个；three.js 窄检索返回 74 个，已查看返回列表。没有宣称穷尽所有仓库或平台。匿名 GitHub API 随后返回 rate limit 403，改用 GitHub 页面和 raw 原文只读核查。",
+        "actualChecks": [
+          "项目 git status --short 起始无输出；Git 根为 D:/vibe_code/01_products/awesome-astra-3d。读取项目 AGENTS、README、DESIGN、docs 入口、工作区规则与 10/3 文档。",
+          "git check-ignore work/refresh-2026-10-04/projects-research.json 确认 work 全目录受忽略规则保护。",
+          "使用自写 Python urllib / HTMLParser 读取作者原文、GitHub 页面嵌入文件清单和 raw 文件；未执行第三方工程。",
+          "5 张 PNG 下载 HTTP 200 并逐张 view_image；H3 两张1440×1000，FORM正背面900×1100、工作台1440×1000。",
+          "FORM 演示、progress.json 与两个 GLB HTTP200；只读取 GLB 12 字节头部确认 glTF2 和声明长度，不等同于全文件 glTF 验证。"
+        ],
+        "evidenceFiles": [
+          "work/refresh-2026-10-04/h3-black-knight.png",
+          "work/refresh-2026-10-04/h3-swordsman-range.png",
+          "work/refresh-2026-10-04/form-001-front.png",
+          "work/refresh-2026-10-04/form-001-back.png",
+          "work/refresh-2026-10-04/form-001-studio.png"
+        ],
+        "datePolicy": "H3 文章 9/21 首发、10/3 章节更新；FORM 首发未知 null。10/4 为收录/核查日期，不把最近提交时间、构建时间或目标任务写成首次发表或完成日期。",
+        "limits": "源码可读、作者截图及 HTTP 可达不代表本库独立复现；未执行第三方生成代码、未打开浏览器运行第三方交互、未把作者测试结果写成本次测试。根任务负责后续数据合入、站点构建、浏览器验证与发布。"
+      },
+      "socialCoverage": {
+        "X": "Repeated exact GPT-6 Astra and Astra+Blender/3D/animation searches on x.com with October 2-4 date windows returned no verified unique recent original work. Broader TwStalker queries produced old profile mirrors and mostly existing cases or retweets. Direct code3ater X status URL was not located. twstalker.com/code3ater and m.twstalker.com/code3ater returned HTTP 403; xcancel.com/code3ater returned HTTP 451. No X media URL or primary timestamp is asserted.",
+        "Reddit": "Recent results were the already-recorded Agent Dot Gaussian Splat and Kaloyan photo-to-Blender benchmark across multiple subreddits. Read code3ater/Fearless_Brilliant51 original author's post through web index; direct Reddit page, JSON, RSS and original media poster requests returned 403, so no actual poster image was inspected and the lead remains pending.",
+        "Zenn": "Checked 3D/Blender keywords and October date windows. Results were existing tkada, chimerast, koher, miive and machikita works, general model overviews, API/cache articles and discussions. No distinct October 3-4 original visible Astra 3D output verified.",
+        "Qiita": "Checked Astra+3D/Blender and October keywords. Existing Nob_Hi output, overview/planning content and careers/job listings dominated; no new qualifying original work verified.",
+        "authorBlogs": "Broader recent queries yielded already-recorded DrLeeWorks, GPTBlender, kingy.ai and az9713. Cybercorsairs October 3 building article was a secondary repost and was used only to discover Tianyu Xu's original October 2 LinkedIn post. Roomagen and GPT 3D commercial articles were not treated as independently verified works.",
+        "LinkedIn": "Both accepted original author posts readable via HTTPS 200. DatePublished, uploadDate, duration, original variants, thumbnails and author statements verified from page metadata. The two posters show different projects, not one project counted by stage.",
+        "queries": [
+          "\"GPT-6 Astra\" \"3D\" site:x.com after:2026-10-02",
+          "\"GPT-6 Astra\" site:x.com after:2026-10-02 before:2026-10-05",
+          "\"GPT-6 Astra\" \"3D\" \"October 3\"",
+          "\"GPT-6 Astra\" \"3D\" \"October 4\"",
+          "\"GPT-6 Astra\" \"Blender\" after:2026-10-01",
+          "\"GPT-6 Astra\" \"3D\" site:reddit.com after:2026-10-02",
+          "\"GPT-6 Astra\" \"3D\" site:zenn.dev",
+          "\"GPT-6 Astra\" \"3D\" site:qiita.com",
+          "\"Astra\" \"3D\" site:zenn.dev \"2026/10\"",
+          "\"Astra\" \"Blender\" site:qiita.com \"2026-10\"",
+          "\"code3ater\" \"Astra\"",
+          "\"code3ater\" \"usable\"",
+          "\"code3ater\" \"GPT-6\"",
+          "\"code3ater\" \"Blender\"",
+          "\"code3ater\" -site:reddit.com",
+          "\"Astra\" \"3D\" site:x.com/code3ater",
+          "\"Astra\" \"3D\" site:twitter.com/code3ater",
+          "\"Tianyu Xu\" \"three-weekend\" \"Astra\"",
+          "\"Claire Vo\" \"Little Starship\"",
+          "\"Little Starship\" \"chatprd\"",
+          "\"GPT-6 Astra\" \"3D\" site:twstalker.com",
+          "\"GPT-6 Astra\" \"animation\" site:x.com",
+          "\"GPT-6 Astra\" \"3D\" site:x.com after:2026-10-03",
+          "\"Astra\" \"Blender\" site:x.com after:2026-10-03",
+          "\"Astra\" \"3D\" site:twstalker.com after:2026-10-03",
+          "\"GPT-6 Astra\" site:zenn.dev after:2026-10-01"
+        ]
+      },
+      "rejectedCandidates": [
+        {
+          "url": "https://www.bilibili.com/video/BV1Nzb367Esr/",
+          "reason": "真实首帧为讲解者，未检查片中3D成片，不把说明视频作为已核对效果。"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1bFbM6jEiC/",
+          "reason": "真实首帧仅Minecraft基本场景，未检查目标怪物输出。"
+        },
+        {
+          "url": "https://github.com/ay07rana-oss/Astra-Blender-Agent",
+          "reason": "可选提供方配置不能证明已用指定模型产出实际案例。"
+        },
+        {
+          "sourceUrl": "https://github.com/kotval/ngc4594",
+          "reason": "README 明确是看 Astra 发布页后让 Claude 制作 Sombrero 星系；Astra 只是对照对象，不能把此工程归属 Astra。"
+        },
+        {
+          "sourceUrl": "https://github.com/313715295/ChatGPT-Test",
+          "reason": "读取 data/cases.json 确认为既有工程对照档案，未增加重复。"
+        },
+        {
+          "sourceUrl": "https://github.com/andyyuyc/WorldGen_Unity",
+          "reason": "已在 10/3 下午收录；本次未发现需另建案例的独立新结果。"
+        },
+        {
+          "sourceUrl": "https://zenn.dev/machikita/articles/5fb78e45b55e84",
+          "reason": "Orbit Lab 已在 10/3 下午收录，同题其他模型不拆成新 Astra 案例。"
+        },
+        {
+          "sourceUrl": "https://github.com/huccct/vibe",
+          "reason": "README、CURATION.md 与 wall-slime/meta.json 明确 Splat! 为 gpt-6-astra 且 10/3 added，Three.js 源码可读；本次没有取得可下载的作者实际截图，未作为完成核查的候选。Water Ring Toss 的 added 为 9/14，不能包装成新首发。"
+        },
+        {
+          "sourceUrl": "https://github.com/justinbuildsmov/internal-world",
+          "reason": "作者明确10模型无工具输出高程数据与 Three.js 地球展示，并说明首轮GPT检索污染已重跑；本轮未细核独立 Astra 结果图和展示身份。按父任务收敛到两件后保留后续线索，没有据模型榜单直接收录。"
+        },
+        {
+          "sourceUrl": "https://github.com/ecooxai/gpt6-astra-pro-colabdev-blender-moonlit-pajamas",
+          "reason": "README 明确 GPT-6 Astra Pro、MCP Colabdev 与 Blender；默认分支 gpt6-astra-pro_mcp-colabdev_refinement95，status 记录 R24 / 12 个保留的审阅版本 / 主观90分，R07–R17曾丢失。最新 timestamp 为2026-10-03T16:18:42Z（北京时间10/4），但本轮未下载查看对应成品图，优先完成H3与FORM两件，不把95分目标写成已达成。可供后续独立核查。"
+        },
+        {
+          "sourceUrl": "https://tau-home.com/en/post/astra-prompt-extraction-minimax-h3-mechanic-transformation-workflow/",
+          "reason": "第三方文章描述 Astra 提取提示词、MiniMax H3 生成机械变形视频；不是已证明的 Astra 三维模型或程序化场景成果，未把视频模型输出当成 Astra 三维产物。"
+        },
+        {
+          "sourceUrl": "https://www.reddit.com/r/aigamedev/comments/1wb48ba/i_figured_out_how_to_get_actually_usable_3d/",
+          "author": "u/Fearless_Brilliant51 / @code3ater",
+          "sourceDate": "2026-09-08",
+          "title": "I figured out how to get actually usable 3D models + animations out of GPT-6 Astra",
+          "reason": "Primary author text directly states Blender modeling/animation from scratch and ChatGPT reference/texture images, focused multi-view feedback, key-pose references, clipping in unfinished run animation and Blender Lab MCP. It links only the X profile rather than an original status. Web index dates it September 8; direct Reddit JSON/RSS/page and external-preview poster fetched by this agent all returned 403. Original X URL, original video bytes and actual output poster are not yet verified, so it remains a lead, not an accepted visible-work candidate. Do not attach another person's repost or media."
+        },
+        {
+          "sourceUrl": "https://cybercorsairs.com/opus-5-5-and-gpt-6-astra-ran-blender-so-humans-didnt/",
+          "author": "Yar / Cybercorsairs",
+          "sourceDate": "2026-10-03",
+          "reason": "Secondary article about Tianyu Xu and June Chow's building. Followed its original LinkedIn link; this article's October 3 date is not the October 2 work's publication date and is not a third work."
+        },
+        {
+          "sourceUrl": "https://www.thepodcastsummary.com/episodes/pJNM1z9l5mU/gpt-6-astra-ultrafast-real-time-apps-cost.html",
+          "author": "Secondary podcast summary of Claire Vo",
+          "sourceDate": "2026-10-04",
+          "reason": "Little Starship real-time 3D game described in summary and syndicated September 30 How I AI notes. The guessed first-party ChatPRD path returned 404; no actual game output frame was inspected in this pass. Summary's October 4 publication must not be used as game first-publication date. Original YouTube lead is pJNM1z9l5mU; retained for a later direct-output check."
+        },
+        {
+          "sourceUrl": "https://www.reddit.com/r/OpenAI/comments/1wvfapq/used_gpt6_astra_to_recreate_an_agent_dot_as_a_3d/",
+          "sourceDate": "2026-10-02",
+          "reason": "Duplicate of existing abstrakt-agent-dot-splat."
+        },
+        {
+          "sourceUrl": "https://www.reddit.com/r/ChatGPT/comments/1wvqlwh/i_asked_14_ai_models_to_rebuild_this_photo_in/",
+          "sourceDate": "2026-10-02",
+          "reason": "Duplicate of existing kaloyan-photo-blender-benchmark, also crossposted to OpenAI, AI_Agents and ClaudeAI."
+        },
+        {
+          "sourceUrl": "https://www.twstalker.com/aspriant",
+          "author": "Suresh / @aspriant, mirror of retweets",
+          "reason": "Search result quotes a Three.js shirt customizer with Astra+Tripo+GPT Image 2.5, but the live mirror is a retweet-heavy profile and does not establish Suresh as the original maker. The original status, author, timestamp and visible output were not verified. No candidate was attributed to this profile."
+        }
+      ]
     }
   ]
 }

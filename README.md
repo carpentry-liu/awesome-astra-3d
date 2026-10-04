@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-10-03（Asia/Shanghai）**：**235 条 Astra 案例** · **63 条源码 / 工程** · **92 个演示入口** · **110 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-10-04（Asia/Shanghai）**：**240 条 Astra 案例** · **65 条源码 / 工程** · **93 个演示入口** · **110 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -44,18 +44,18 @@
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-03-afternoon.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-04.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-2026-10-03 本轮生产构建实拍。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+2026-10-04 本轮生产构建实拍。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
-<summary>查看案例区、手机与作品详情实拍 · 2026-10-03</summary>
+<summary>查看案例区、手机与作品详情实拍 · 2026-10-04</summary>
 
-[![案例区：筛选与更多作品](docs/media/collection-2026-10-03-afternoon.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![案例区：筛选与更多作品](docs/media/collection-2026-10-04.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端：精选作品与材料导航](docs/media/mobile-2026-10-03-afternoon.jpg)
+![手机端：精选作品与材料导航](docs/media/mobile-2026-10-04.jpg)
 
-[![作品详情：材料、作者与来源记录](docs/media/case-2026-10-03-afternoon.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/machikita-orbit-lab/)
+[![作品详情：材料、作者与来源记录](docs/media/case-2026-10-04.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/yzh119-h3-battle-lab/)
 
 </details>
 
@@ -66,14 +66,14 @@
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
+| [H3 Battle Lab：三维兵种与原生 VCMI 战斗接口](https://carpentry-liu.github.io/awesome-astra-3d/cases/yzh119-h3-battle-lab/) | Zihao Ye / yzh119 | [源码](https://github.com/yzh119/h3-battle-lab) · [原始来源](https://yzh119.github.io/zh/posts/battle-lab/) |
+| [FORM / 001：照片参考到程序化三维人物与 GLB](https://carpentry-liu.github.io/awesome-astra-3d/cases/ecooxai-form-001-character/) | ecooxai | [演示](https://ecooxai.github.io/gpt6-astra-pro-colabdev-web-rgirljk/) · [源码](https://github.com/ecooxai/gpt6-astra-pro-colabdev-web-rgirljk) · [原始来源](https://github.com/ecooxai/gpt6-astra-pro-colabdev-web-rgirljk) |
+| [Monsoon Funnel：庭院建筑与雨水循环模拟](https://carpentry-liu.github.io/awesome-astra-3d/cases/tianyu-monsoon-funnel/) | Tianyu Xu + Ar. June Chow | [原始来源](https://www.linkedin.com/posts/tianyuxu_a-3d-model-unlimited-exploration-storytelling-activity-7511789216536625152-3nwC) |
+| [古画楼阁：从建筑模型到猫角色动作游戏](https://carpentry-liu.github.io/awesome-astra-3d/cases/tianyu-painting-cat-action/) | Tianyu Xu | [原始来源](https://www.linkedin.com/posts/tianyuxu_this-is-a-three-weekend-project-thanks-activity-7509962135574089728-5sIG) |
+| [Fluffy Grove：三轮 Blender 林间小屋](https://carpentry-liu.github.io/awesome-astra-3d/cases/wutian-fluffy-grove/) | WuTian / wu_tian吴天 | [原始来源](https://www.bilibili.com/video/BV1Rgty6HEtx/) |
 | [WorldGen：三种文字场景到 Blender 与 Unity 世界](https://carpentry-liu.github.io/awesome-astra-3d/cases/andyyuyc-worldgen-unity/) | andyyuyc | [源码](https://github.com/andyyuyc/WorldGen_Unity) · [原始来源](https://github.com/andyyuyc/WorldGen_Unity) |
 | [Orbit Lab：太阳、地球与月球的四模型对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/machikita-orbit-lab/) | まちきた / machikita（Tech News Radio） | [演示](https://technewsradio.tokyo/lab/gpt6-vs-opus55/apps/orbit/astra/) · [原始来源](https://zenn.dev/machikita/articles/5fb78e45b55e84) |
 | [拉伸试样：从 Blender 脚本到视图与灯光调整](https://carpentry-liu.github.io/awesome-astra-3d/cases/drleeworks-tensile-specimen/) | DrLeeWorks | [原始来源](https://drleeworks.com/en/computing/astra-blender/) |
-| [Vancouver Living Atlas：五种方式探索温哥华](https://carpentry-liu.github.io/awesome-astra-3d/cases/yitachen-vancouver-living-atlas/) | YiTaChen | [演示](https://vancouver-living-atlas-yita.web.app/) · [源码](https://github.com/YiTaChen/vancouver-living-atlas) · [原始来源](https://github.com/YiTaChen/vancouver-living-atlas) |
-| [参考图重建：十六模型的 Blender 对照实验](https://carpentry-liu.github.io/awesome-astra-3d/cases/kaloyan-photo-blender-benchmark/) | Kaloyan Chernev / smith2008 | [原始来源](https://kaloyan.blog/ai-models-rebuild-a-photo-in-blender) |
-| [毛绒 Agent Dot：Blender 到 Gaussian Splat](https://carpentry-liu.github.io/awesome-astra-3d/cases/abstrakt-agent-dot-splat/) | abstrakt / u/OkTechnician7827 | [演示](https://superspl.at/scene/ca6a4c9b) · [原始来源](https://superspl.at/scene/ca6a4c9b) |
-| [Coastal Jungle：可编辑丛林与 Three.js 植被世界](https://carpentry-liu.github.io/awesome-astra-3d/cases/danielsobrado-coastal-jungle/) | danielsobrado | [演示](https://danielsobrado.github.io/Codex-and-Blender/) · [源码](https://github.com/danielsobrado/Codex-and-Blender) · [原始来源](https://github.com/danielsobrado/Codex-and-Blender) |
-| [Forn AI：Blender 与 Three.js 同题工程对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/fornhere-three-d-comparison/) | Forn AI / fornhere | [源码](https://github.com/fornhere/sonnet-vs-astra-benchmark/tree/main/testler/t6-kapadokya/astra) · [原始来源](https://github.com/fornhere/sonnet-vs-astra-benchmark) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [分享素材与衡量说明](docs/sharing/README.md)

@@ -2,6 +2,16 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-04 · 5 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [H3 Battle Lab：三维兵种与原生 VCMI 战斗接口 / H3 Battle Lab — 3D Units with Native VCMI Combat](https://carpentry-liu.github.io/awesome-astra-3d/cases/yzh119-h3-battle-lab/) | Zihao Ye / yzh119 | 源码 / 工程 · 提示词 / 过程 |
+| [FORM / 001：照片参考到程序化三维人物与 GLB / FORM / 001 — Reference Photo to Procedural Character and GLB](https://carpentry-liu.github.io/awesome-astra-3d/cases/ecooxai-form-001-character/) | ecooxai | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [Monsoon Funnel：庭院建筑与雨水循环模拟 / Monsoon Funnel — Courtyard Architecture and Rainwater Simulation](https://carpentry-liu.github.io/awesome-astra-3d/cases/tianyu-monsoon-funnel/) | Tianyu Xu + Ar. June Chow | 提示词 / 过程 |
+| [古画楼阁：从建筑模型到猫角色动作游戏 / Painted Pavilion — From Architecture to a Cat Action Game](https://carpentry-liu.github.io/awesome-astra-3d/cases/tianyu-painting-cat-action/) | Tianyu Xu | 提示词 / 过程 |
+| [Fluffy Grove：三轮 Blender 林间小屋 / Fluffy Grove — Three-Round Blender Cottage](https://carpentry-liu.github.io/awesome-astra-3d/cases/wutian-fluffy-grove/) | WuTian / wu_tian吴天 | 提示词 / 过程 |
+
 ## 2026-10-03 · 10 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
