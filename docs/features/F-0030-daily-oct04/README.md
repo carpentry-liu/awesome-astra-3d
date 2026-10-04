@@ -31,4 +31,8 @@ H3 保留文章 9/21 首发和 10/3 实质进展，Meshy 基础资产、Astra �
 
 ## GitHub Pages 发布
 
-发布后补齐线上版本与工作流证据。
+- 实施提交 `a6a592b` 已推送 main。首次 push 遇到 GitHub DNS 解析失败，普通重试 `git -c http.version=HTTP/1.1 push origin main` 成功；没有更改 TLS 或认证设置。
+- `D:/miniforge3/python.exe -X utf8 work/ci-oct04.py`：[Pages 工作流 37171425556](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/37171425556) 的 build、deploy 与整轮结论均 success，现有 110 段完整录像下载 / 字节 / SHA 校验步骤成功。
+- `D:/miniforge3/python.exe -X utf8 work/published-oct04.py`：线上 252 条 JSON 与本地逐条相同；新增五条详情 JSON、十个中英文详情页的 canonical、实际图片及过程提示通过。527 sitemap URL、分享封面及首页三段非空 JavaScript 资源通过；两份 README 与公开仓库统一行尾后相同，四张 JPG 按字节相同，仓库公开且 About / 主页地址正确。
+- 实际浏览器打开发布后的最新收录页，标题 / 数量为 240 Astra，五张新增图均为非零实际尺寸，warn/error 为空。发布实拍保存于 ignored `work/refresh-2026-10-04/production-collection.jpg`；默认浏览器尺寸已恢复，公开最新页保留供浏览，本地临时页和服务器已关闭。
+- `D:/miniforge3/python.exe -X utf8 work/final-oct04.py` 再次通过旧 247 条、媒体、生成物、README 和分支一致性检查，工作区无任务外修改。此发布记录以单独文档提交补齐，不重复触发站点构建。
