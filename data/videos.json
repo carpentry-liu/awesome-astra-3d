@@ -4018,6 +4018,58 @@
       "assetId": 552265411
     },
     {
+      "caseId": "tiago-parliament-3d",
+      "sourceUrl": "https://x.com/tiagomanel/status/2096716820430594170",
+      "kind": "original",
+      "filename": "tiago-parliament-3d-1-original.mp4",
+      "downloadUrl": "https://video.twimg.com/amplify_video/2096716075748519937/vid/avc1/2686x1830/cGLfZzbwwjVhV3vm.mp4?tag=29",
+      "mediaId": "2096716075748519937",
+      "durationSeconds": 58.43,
+      "expectedDurationSeconds": 58.41,
+      "bytes": 48890868,
+      "contentLength": 48890868,
+      "contentLengthChecked": true,
+      "sha256": "896386da754ade1560444881a7083a53f8f0a0234c35c55eb01b68c93959e5a9",
+      "bitrate": 25128000,
+      "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2096716075748519937/img/HotLLXGRwjKSe9RY.jpg",
+      "metadataSource": "https://api.fxtwitter.com/tiagomanel/status/2096716820430594170",
+      "downloadedAt": "2026-10-05",
+      "complete": true,
+      "transcoded": false,
+      "decodeChecked": true,
+      "strictDecodeExitCode": 0,
+      "label": "Analisa.pt — Portuguese Parliament 3D author demonstration",
+      "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+      "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-05/tiago-parliament-3d-1-original.mp4",
+      "assetId": 611725998
+    },
+    {
+      "caseId": "tiago-parliament-3d",
+      "sourceUrl": "https://x.com/tiagomanel/status/2096716820430594170",
+      "kind": "web",
+      "filename": "tiago-parliament-3d-1-web.mp4",
+      "downloadUrl": "https://video.twimg.com/amplify_video/2096716075748519937/vid/avc1/528x360/zDfpS_3jVosvuW-O.mp4?tag=29",
+      "mediaId": "2096716075748519937",
+      "durationSeconds": 58.42,
+      "expectedDurationSeconds": 58.41,
+      "bytes": 2234589,
+      "contentLength": 2234589,
+      "contentLengthChecked": true,
+      "sha256": "8489f60ed36514a7550f5c7ad32cec7b134f421f48ed10bf573634afd6448eff",
+      "bitrate": 832000,
+      "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2096716075748519937/img/HotLLXGRwjKSe9RY.jpg",
+      "metadataSource": "https://api.fxtwitter.com/tiagomanel/status/2096716820430594170",
+      "downloadedAt": "2026-10-05",
+      "complete": true,
+      "transcoded": false,
+      "decodeChecked": true,
+      "strictDecodeExitCode": 0,
+      "label": "Analisa.pt — Portuguese Parliament 3D author demonstration",
+      "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+      "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-05/tiago-parliament-3d-1-web.mp4",
+      "assetId": 611725997
+    },
+    {
       "caseId": "tom-steam-train",
       "sourceUrl": "https://x.com/tomkrcha/status/2095756085890310311",
       "kind": "original",
@@ -4708,7 +4760,7 @@
       "assetId": 557166979
     }
   ],
-  "updatedAt": "2026-10-02",
+  "updatedAt": "2026-10-05",
   "releases": [
     {
       "tag": "media-2026-09-06",
@@ -4773,6 +4825,10 @@
     {
       "tag": "media-2026-10-02",
       "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-02"
+    },
+    {
+      "tag": "media-2026-10-05",
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-05"
     }
   ]
 }

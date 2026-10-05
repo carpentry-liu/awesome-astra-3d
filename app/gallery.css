@@ -59,7 +59,9 @@
 .catalog-results {
   min-width: 0;
 }
-.catalog-results .case-image img[data-image-kind='comparison'] {
+.catalog-results .case-image img[data-image-kind='comparison'],
+.catalog-results .case-image img[data-image-kind='author-render'],
+.catalog-results .case-image img[data-image-kind='author-comparison'] {
   object-fit: contain;
 }
 .catalog-results .material-row {

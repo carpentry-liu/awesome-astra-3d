@@ -2,6 +2,16 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-05 · 5 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Moonlit Pajamas：程序化 Blender 睡衣人物与修正记录 / Moonlit Pajamas — Procedural Blender Character and Review Journal](https://carpentry-liu.github.io/awesome-astra-3d/cases/ecooxai-moonlit-pajamas/) | ecooxai | 源码 / 工程 · 提示词 / 过程 |
+| [Tuxedo / MONO：Blender 与 Three.js 程序化折耳猫 / Tuxedo / MONO — Procedural Fold Cat in Blender and Three.js](https://carpentry-liu.github.io/awesome-astra-3d/cases/ecooxai-tuxedo-mono-cat/) | ecooxai | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [Pascualín：吹小号人物的 Blender 三视图 / Pascualín — A Trumpet-Playing Figure in Blender](https://carpentry-liu.github.io/awesome-astra-3d/cases/jose-pascualin-trumpet/) | José Daniel García Espinel | 提示词 / 过程 |
+| [Analisa.pt：葡萄牙议会三维空间与雕像迭代 / Analisa.pt — Portuguese Parliament in 3D](https://carpentry-liu.github.io/awesome-astra-3d/cases/tiago-parliament-3d/) | Tiago Antunes / @tiagomanel | 演示入口 · 完整视频 · 提示词 / 过程 |
+| [Real2Sim：照片到可编辑房间的重建与失败记录 / Real2Sim — Editable Rooms from Photos, with Retained Failures](https://carpentry-liu.github.io/awesome-astra-3d/cases/roboparty-real2sim/) | Roboparty | 源码 / 工程 · 提示词 / 过程 |
+
 ## 2026-10-04 · 5 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

@@ -45,3 +45,4 @@
 - [10 月 3 日：七件作品、来源复核与真实截图更新](features/F-0028-daily-oct03/README.md)。
 - [10 月 3 日下午：补充检索与可见作品](features/F-0029-oct03-afternoon/README.md)。
 - [10 月 4 日：近期作品与可查看材料](features/F-0030-daily-oct04/README.md)。
+- [10 月 5 日：近期工程与可见三维成果](features/F-0031-daily-oct05/README.md)。

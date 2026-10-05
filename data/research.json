@@ -1885,6 +1885,130 @@
           "reason": "Search result quotes a Three.js shirt customizer with Astra+Tripo+GPT Image 2.5, but the live mirror is a retweet-heavy profile and does not establish Suresh as the original maker. The original status, author, timestamp and visible output were not verified. No candidate was attributed to this profile."
         }
       ]
+    },
+    {
+      "observedAt": "2026-10-05",
+      "timezone": "Asia/Shanghai",
+      "addedCaseIds": [
+        "ecooxai-moonlit-pajamas",
+        "ecooxai-tuxedo-mono-cat",
+        "jose-pascualin-trumpet",
+        "tiago-parliament-3d",
+        "roboparty-real2sim"
+      ],
+      "channels": [
+        "GitHub",
+        "X",
+        "Reddit",
+        "Zenn",
+        "Qiita",
+        "Bilibili",
+        "小红书",
+        "LINUX DO",
+        "LinkedIn",
+        "作者网站"
+      ],
+      "coverageNotes": [
+        "252 historical records preserved; no complete historical audit claimed.",
+        "Recent author project progress and newly collected older works retain actual publication dates, or null when unknown.",
+        "Mixed Astra/Opus/Blender work retains explicit division of labor and unknown model versions.",
+        "One qualified X clip has both complete original and playback renditions; all previous 110 clips and 220 media entries are preserved.",
+        "Only original visible output or original video poster accepted; input reference pictures are not outcome images.",
+        "No ChatGPT Sites deployment or community posting."
+      ],
+      "rootCoverage": {
+        "queries": [
+          "\"GPT-6 Astra\" \"3D\" after:2026-10-03",
+          "\"Astra\" \"Blender\" site:bilibili.com after:2026-10-03",
+          "\"GPT-6 Astra\" \"小红书\"",
+          "\"Astra\" \"建模\" \"10月4\"",
+          "\"Astra\" \"Blender\" site:linux.do after:2026-10-03",
+          "\"GPT-6 Astra\" \"3D\" site:bilibili.com/video/",
+          "\"GPT-6 Astra\" \"三维\" \"2026-10\"",
+          "\"GPT-6 Astra\" \"3D\" \"October 5\"",
+          "\"Astra\" \"Blender\" site:xiaohongshu.com/explore/"
+        ],
+        "notes": [
+          "中文检索多为既有作品转帖与教程，不能将搜索无合格结果解释为平台没有新作品。",
+          "Bilibili 两件公开 API 元数据与实际首帧可读，但没有核到作者对应三维成果；不以讲解封面充数。",
+          "Roboparty 公开作者工作流、授权与原始输出核验完成，作为一件工程档案，不按三房间或多个适配框架拆条。"
+        ]
+      },
+      "projectCoverage": [
+        "GitHub API created/pushed >=2026-10-03（Astra+Blender/Three.js）",
+        "直接读取作者默认分支 README、状态、资产与审查日志",
+        "公开网格文件头和实际原作者渲染",
+        "10/5 新公开折耳猫工程及同作者 Three.js 实现；两工程合并为一条研究"
+      ],
+      "socialCoverage": {
+        "X": "October 4-5 filtered searches found no qualifying unique new original. Secondary BeatAPI gallery used only to locate Tiago original X links; publicly readable original-post metadata/author text verified through FxTwitter and actual pbs images inspected. Same-project later statue comparison consolidated with original Parliament video rather than counted separately. AdCar promotion excluded.",
+        "Reddit": "October 2 fourteen-model photo-to-Blender comparison is existing kaloyan-photo-blender-benchmark. October 5 anatomy repost is existing Ashe work. Gaussian-splat thread mixes GPT-6.1 Astra wording and generic workflow claims; no separately identified output yet.",
+        "Zenn/Qiita": "Date-filtered searches mainly returned existing Unity prototype and non-3D API/model comparison articles.",
+        "LinkedIn": "Pascualín original author post, exact JSON-LD date and four images inspected. First input reference board excluded from cover; three actual model render views used. Pete Woodbridge octopus poster shows initial references rather than output, so excluded until an actual output frame is inspected. Royal Liver Building poster contains actual Blender wireframe plus a photograph inset; retained only as a future lead because this pass already has two stronger visible candidates.",
+        "author blogs": "Rekons describes Coin Island and Taipei 101 and links a YouTube demonstration, but article does not expose effect screenshots. No qualifying preview inspected yet."
+      },
+      "rejectedCandidates": [
+        {
+          "sourceUrl": "https://www.bilibili.com/video/BV148t26jEbW/",
+          "reason": "作者描述三维赛车，但实际首帧是官方星系介绍，没有核到赛车成果；9/5 首发不能标今日新作。"
+        },
+        {
+          "sourceUrl": "https://www.bilibili.com/video/BV1hEaN67Ewa/",
+          "reason": "9/24 三模型比较，首帧为空白底，没有检查到单独 Astra 3D 输出。"
+        },
+        {
+          "sourceUrl": "https://www.bilibili.com/video/BV1YUtk6mE3z/",
+          "reason": "Leopard 2 坦克与现有 hooosberg-three-view 重复。"
+        },
+        {
+          "sourceUrl": "https://blog.rekons.io/from-one-prompt-to-a-playable-3d-prototype-testing-gpt-6-astra",
+          "reason": "作者报告 Coin Island 与台北101，但仅核到 YouTube 宣传合成缩略图，没有确认真实生成场景；文章9/12 updated 不作首发。"
+        },
+        {
+          "sourceUrl": "https://github.com/huccct/vibe",
+          "reason": "Splat! 归属 gpt-6-astra 已确认，当前源码树未见该作品实际输出图，暂不以仅实时画布入口替代展示预览。"
+        },
+        {
+          "sourceUrl": "https://github.com/justinbuildsmov/internal-world",
+          "reason": "模型问答数据和Three.js体素展示分工已确认，但树中目前只见跨模型OG封面，没有独立Astra三维结果图；不将10个模型分别计为案例。"
+        },
+        {
+          "sourceUrl": "https://github.com/buicongnguyen/3d_astra",
+          "reason": "实际1440×960 RTS场景截图已检查，公开模型和过程真实；但当前README、游戏README、制作提示词与资产管线无明确Astra模型归属，资产操作还引用3D_claudeopus55邻仓。仓库名3d_astra不能替代作者模型证据，暂排除。"
+        },
+        {
+          "sourceUrl": "https://github.com/daiwk/3d-architectures",
+          "reason": "47组建筑效果图与LFS工程存在，但About只写AI（例如GPT6Astra），README通用制作提示词未把每件成品明确归属Astra；不把47个建筑或模型名示例计为已确认Astra作品。"
+        },
+        {
+          "sourceUrl": "https://www.reddit.com/r/ChatGPT/comments/1wvqlwh/i_asked_14_ai_models_to_rebuild_this_photo_in/",
+          "reason": "Duplicate of existing kaloyan-photo-blender-benchmark; Reddit repost/comment points to the same original article."
+        },
+        {
+          "sourceUrl": "https://www.reddit.com/r/STEW_ScTecEngWorld/comments/1wxbpnw/developer_uses_gpt6_astra_to_build_interactive_3d/",
+          "reason": "Today-dated secondary repost of existing September anatomy website, not a new original work."
+        },
+        {
+          "sourceUrl": "https://blog.rekons.io/from-one-prompt-to-a-playable-3d-prototype-testing-gpt-6-astra",
+          "reason": "Original creator reports two 3D prototypes but article only links YouTube; no actual output image verified in this pass."
+        },
+        {
+          "sourceUrl": "https://www.reddit.com/r/TopologyAI/comments/1wvmlbf/chat_gpt6_astra_can_make_gaussian_splats_using/",
+          "reason": "Unclear author/model identity, references GPT-6.1 Astra and generic pipeline claims without a separately identified actual output."
+        },
+        {
+          "sourceUrl": "https://x.com/d4m1n/status/2096258259459964963",
+          "reason": "Existing AdCar repo/3D viewer imported into a Remotion + FFmpeg + Qwen3-TTS promotion; inspected video cover only shows typography, no actual 3D result inspected, and this is not a new Astra-created model."
+        },
+        {
+          "sourceUrl": "https://www.linkedin.com/posts/petewoodbridge_another-gpt-6-astra-blender-experiment-activity-7504814442442960896--m9G",
+          "reason": "Original GPT-6 Astra + Blender text and exact Sept13 VideoObject metadata verified, but original cover actually shows Codex task with INPUT octopus references. Do not substitute this input image for finished 3D output; no complete video or result frame inspected."
+        },
+        {
+          "sourceUrl": "https://www.reddit.com/r/aigamedev/comments/1wb48ba/i_figured_out_how_to_get_actually_usable_3d/",
+          "reason": "Creator @code3ater original text still readable via web index, original X status/media identities remain unverified; no retry around platform restrictions. Earlier September8 lead kept pending."
+        }
+      ]
     }
   ]
 }

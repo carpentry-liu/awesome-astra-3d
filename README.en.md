@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-04 (Asia/Shanghai)** · **240 Astra examples** · **65 source / project links** · **93 demo links** · **110 complete videos** · **12 separate references**.
+Updated **2026-10-05 (Asia/Shanghai)** · **245 Astra examples** · **68 source / project links** · **95 demo links** · **111 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -44,18 +44,18 @@ Open an image for the case, materials and known limitations. This selection stay
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-04.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-05.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Production build screenshots from this October 4, 2026 iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Production build screenshots from this October 5, 2026 iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
-<summary>Gallery, mobile and case screenshots · October 4, 2026</summary>
+<summary>Gallery, mobile and case screenshots · October 5, 2026</summary>
 
-[![Gallery filters and more works](docs/media/collection-2026-10-04.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Gallery filters and more works](docs/media/collection-2026-10-05.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-10-04.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-10-05.jpg)
 
-[![Case page with materials, creator and evidence](docs/media/case-2026-10-04.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/yzh119-h3-battle-lab/)
+[![Case page with materials, creator and evidence](docs/media/case-2026-10-05.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/tiago-parliament-3d/)
 
 </details>
 
@@ -66,14 +66,14 @@ Ordered by collection date, separate from each work's original publication and v
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [Moonlit Pajamas — Procedural Blender Character and Review Journal](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ecooxai-moonlit-pajamas/) | ecooxai | [Source](https://github.com/ecooxai/gpt6-astra-pro-colabdev-blender-moonlit-pajamas) · [Original](https://github.com/ecooxai/gpt6-astra-pro-colabdev-blender-moonlit-pajamas) |
+| [Tuxedo / MONO — Procedural Fold Cat in Blender and Three.js](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ecooxai-tuxedo-mono-cat/) | ecooxai | [Demo](https://ecooxai.github.io/gpt6-astra-pro-colabdev-web-bwcat/) · [Source](https://github.com/ecooxai/gpt6-astra-pro-blender-tuxedo-cat) · [Original](https://github.com/ecooxai/gpt6-astra-pro-blender-tuxedo-cat) |
+| [Pascualín — A Trumpet-Playing Figure in Blender](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/jose-pascualin-trumpet/) | José Daniel García Espinel | [Original](https://www.linkedin.com/posts/jose-daniel-garcia-espinel_gpt-astra-blender-activity-7502485726295482368-a7EO) |
+| [Analisa.pt — Portuguese Parliament in 3D](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/tiago-parliament-3d/) | Tiago Antunes / @tiagomanel | [Demo](https://analisa.pt/parlamento) · [Original](https://x.com/tiagomanel/status/2096716820430594170) |
+| [Real2Sim — Editable Rooms from Photos, with Retained Failures](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/roboparty-real2sim/) | Roboparty | [Source](https://github.com/Roboparty/gpt-6-astra-real2sim-workflow) · [Original](https://github.com/Roboparty/gpt-6-astra-real2sim-workflow) |
 | [H3 Battle Lab — 3D Units with Native VCMI Combat](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/yzh119-h3-battle-lab/) | Zihao Ye / yzh119 | [Source](https://github.com/yzh119/h3-battle-lab) · [Original](https://yzh119.github.io/zh/posts/battle-lab/) |
 | [FORM / 001 — Reference Photo to Procedural Character and GLB](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ecooxai-form-001-character/) | ecooxai | [Demo](https://ecooxai.github.io/gpt6-astra-pro-colabdev-web-rgirljk/) · [Source](https://github.com/ecooxai/gpt6-astra-pro-colabdev-web-rgirljk) · [Original](https://github.com/ecooxai/gpt6-astra-pro-colabdev-web-rgirljk) |
 | [Monsoon Funnel — Courtyard Architecture and Rainwater Simulation](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/tianyu-monsoon-funnel/) | Tianyu Xu + Ar. June Chow | [Original](https://www.linkedin.com/posts/tianyuxu_a-3d-model-unlimited-exploration-storytelling-activity-7511789216536625152-3nwC) |
-| [Painted Pavilion — From Architecture to a Cat Action Game](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/tianyu-painting-cat-action/) | Tianyu Xu | [Original](https://www.linkedin.com/posts/tianyuxu_this-is-a-three-weekend-project-thanks-activity-7509962135574089728-5sIG) |
-| [Fluffy Grove — Three-Round Blender Cottage](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/wutian-fluffy-grove/) | WuTian / wu_tian吴天 | [Original](https://www.bilibili.com/video/BV1Rgty6HEtx/) |
-| [WorldGen — Three Text Scenes in Blender and Unity](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/andyyuyc-worldgen-unity/) | andyyuyc | [Source](https://github.com/andyyuyc/WorldGen_Unity) · [Original](https://github.com/andyyuyc/WorldGen_Unity) |
-| [Orbit Lab — Four-Model Sun, Earth and Moon Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/machikita-orbit-lab/) | まちきた / machikita（Tech News Radio） | [Demo](https://technewsradio.tokyo/lab/gpt6-vs-opus55/apps/orbit/astra/) · [Original](https://zenn.dev/machikita/articles/5fb78e45b55e84) |
-| [Tensile Specimen — Blender Script, View and Lighting Iteration](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/drleeworks-tensile-specimen/) | DrLeeWorks | [Original](https://drleeworks.com/en/computing/astra-blender/) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Sharing materials and measurement](docs/sharing/README.md)

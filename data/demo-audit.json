@@ -613,6 +613,28 @@
         "work/refresh-2026-10-04/form-browser.jpg",
         "work/refresh-2026-10-04/form-back-clay.jpg"
       ]
+    },
+    {
+      "id": "ecooxai-tuxedo-mono-cat",
+      "url": "https://ecooxai.github.io/gpt6-astra-pro-colabdev-web-bwcat/",
+      "observedAt": "2026-10-05",
+      "method": "Actual browser screenshot; limited visual display, not generation reproduction or full interaction.",
+      "result": "实际显示MONO三维猫、毛发、眼睛与视角/材质控件；未操作按钮或测试所有设备。",
+      "console": "Not obtained; DOM/console read timed out.",
+      "evidenceFiles": [
+        "work/refresh-2026-10-05/mono-browser.jpg"
+      ]
+    },
+    {
+      "id": "tiago-parliament-3d",
+      "url": "https://analisa.pt/parlamento",
+      "observedAt": "2026-10-05",
+      "method": "Actual browser screenshot; limited visual display, not generation reproduction or full interaction.",
+      "result": "实际显示三维议会、人物席位标记与欢迎导览；未测试筛选、导览或数据准确度。",
+      "console": "Two author-site warnings captured: deprecated THREE.Clock and WebGL shader floating-point precision. No error captured; not a claim of complete compatibility.",
+      "evidenceFiles": [
+        "work/refresh-2026-10-05/parliament-browser.jpg"
+      ]
     }
   ]
 }

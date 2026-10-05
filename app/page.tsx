@@ -71,6 +71,8 @@ const imageKinds: Record<string, [string, string]> = {
   'gameplay-screenshot': ['实机截图', 'Gameplay screenshot'],
   'source-media': ['来源媒体', 'Source media'],
   'author-screenshot': ['作者作品图', 'Creator screenshot'],
+  'author-render': ['作者渲染图', 'Creator render'],
+  'author-comparison': ['作者对照图', 'Creator comparison'],
   'video-poster': ['视频封面', 'Video poster'],
   'editorial-cover': ['分享卡片', 'Editorial cover'],
 };

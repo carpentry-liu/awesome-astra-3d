@@ -1,11 +1,11 @@
 {
   "observedAt": "2026-09-25",
   "method": "Incremental bounded HTTP GET: horse comparison page reachable; historical timestamps preserved. Does not validate benchmark fairness or every embedded animation.",
-  "checkedUrls": 544,
+  "checkedUrls": 559,
   "counts": {
     "http-error": 4,
     "restricted": 6,
-    "reachable": 534
+    "reachable": 549
   },
   "results": [
     {
@@ -9412,6 +9412,266 @@
       "bytesRead": 44052,
       "result": "reachable",
       "finalUrl": "https://media.licdn.com/dms/image/v2/D5605AQGopE0uDehcOA/videocover-high/B56aD88cYJG4BU-/0/1790950100952?e=2147483647&v=beta&t=d3n9GQgfxcT7ITTVEtQfvmXbJW4NOTtHEjrAX1Kmo_E"
+    },
+    {
+      "url": "https://github.com/ecooxai/gpt6-astra-pro-colabdev-blender-moonlit-pajamas",
+      "uses": [
+        {
+          "caseId": "ecooxai-moonlit-pajamas",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "ecooxai-moonlit-pajamas",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-10-05T06:32:01.101365+00:00",
+      "method": "Incremental bounded HTTP GET of October 5 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://github.com/ecooxai/gpt6-astra-pro-colabdev-blender-moonlit-pajamas",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "GitHub - ecooxai/gpt6-astra-pro-colabdev-blender-moonlit-pajamas: Original procedural Blender character and responsive 3D review studio · GitHub"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ecooxai/gpt6-astra-pro-colabdev-blender-moonlit-pajamas/gpt6-astra-pro_mcp-colabdev_refinement95/preview/assets/gpt6-astra-pro_mcp-colabdev_blender_moonlit-pajamas_front.png",
+      "uses": [
+        {
+          "caseId": "ecooxai-moonlit-pajamas",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-05T06:32:01.102364+00:00",
+      "method": "Incremental bounded HTTP GET of October 5 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/ecooxai/gpt6-astra-pro-colabdev-blender-moonlit-pajamas/gpt6-astra-pro_mcp-colabdev_refinement95/preview/assets/gpt6-astra-pro_mcp-colabdev_blender_moonlit-pajamas_front.png",
+      "contentType": "image/png",
+      "result": "reachable",
+      "bytesRead": 735345
+    },
+    {
+      "url": "https://github.com/ecooxai/gpt6-astra-pro-colabdev-blender-moonlit-pajamas/blob/gpt6-astra-pro_mcp-colabdev_refinement95/Agents.md",
+      "uses": [
+        {
+          "caseId": "ecooxai-moonlit-pajamas",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-05T06:32:01.103365+00:00",
+      "method": "Incremental bounded HTTP GET of October 5 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://github.com/ecooxai/gpt6-astra-pro-colabdev-blender-moonlit-pajamas/blob/gpt6-astra-pro_mcp-colabdev_refinement95/Agents.md",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "gpt6-astra-pro-colabdev-blender-moonlit-pajamas/Agents.md at gpt6-astra-pro_mcp-colabdev_refinement95 · ecooxai/gpt6-astra-pro-colabdev-blender-moonlit-pajamas · GitHub"
+    },
+    {
+      "url": "https://github.com/ecooxai/gpt6-astra-pro-blender-tuxedo-cat",
+      "uses": [
+        {
+          "caseId": "ecooxai-tuxedo-mono-cat",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "ecooxai-tuxedo-mono-cat",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-10-05T06:32:01.103365+00:00",
+      "method": "Incremental bounded HTTP GET of October 5 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://github.com/ecooxai/gpt6-astra-pro-blender-tuxedo-cat",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "GitHub - ecooxai/gpt6-astra-pro-blender-tuxedo-cat · GitHub"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ecooxai/gpt6-astra-pro-blender-tuxedo-cat/GPT-6-Astra-Pro_mcp-colabdev_blender-cat/preview/renders/beauty_r07_hero_cycles_oidn.png",
+      "uses": [
+        {
+          "caseId": "ecooxai-tuxedo-mono-cat",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-05T06:32:01.103365+00:00",
+      "method": "Incremental bounded HTTP GET of October 5 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/ecooxai/gpt6-astra-pro-blender-tuxedo-cat/GPT-6-Astra-Pro_mcp-colabdev_blender-cat/preview/renders/beauty_r07_hero_cycles_oidn.png",
+      "contentType": "image/png",
+      "result": "reachable",
+      "bytesRead": 751602
+    },
+    {
+      "url": "https://ecooxai.github.io/gpt6-astra-pro-colabdev-web-bwcat/",
+      "uses": [
+        {
+          "caseId": "ecooxai-tuxedo-mono-cat",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-10-05T06:32:01.104365+00:00",
+      "method": "Incremental bounded HTTP GET of October 5 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://ecooxai.github.io/gpt6-astra-pro-colabdev-web-bwcat/",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "MONO — a bicolor cat study · GPT-6 Astra Pro"
+    },
+    {
+      "url": "https://github.com/ecooxai/gpt6-astra-pro-blender-tuxedo-cat/blob/GPT-6-Astra-Pro_mcp-colabdev_blender-cat/Agents.md",
+      "uses": [
+        {
+          "caseId": "ecooxai-tuxedo-mono-cat",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-05T06:32:02.260784+00:00",
+      "method": "Incremental bounded HTTP GET of October 5 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://github.com/ecooxai/gpt6-astra-pro-blender-tuxedo-cat/blob/GPT-6-Astra-Pro_mcp-colabdev_blender-cat/Agents.md",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "gpt6-astra-pro-blender-tuxedo-cat/Agents.md at GPT-6-Astra-Pro_mcp-colabdev_blender-cat · ecooxai/gpt6-astra-pro-blender-tuxedo-cat · GitHub"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/jose-daniel-garcia-espinel_gpt-astra-blender-activity-7502485726295482368-a7EO",
+      "uses": [
+        {
+          "caseId": "jose-pascualin-trumpet",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "jose-pascualin-trumpet",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-05T06:32:04.994865+00:00",
+      "method": "Incremental bounded HTTP GET of October 5 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/posts/jose-daniel-garcia-espinel_gpt-astra-blender-activity-7502485726295482368-a7EO",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "#gpt #astra #blender #openai | José Daniel García Espinel | 11 comments"
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4E22AQFIxI8Va8NvXA/feedshare-image-high-res/B4EaB4vAnyH8AU-/0/1788731984614?e=2147483647&v=beta&t=ZHCx5S_1aUo6Bjioz7qfI3MdodG_6wdQtpaeASNfE0g",
+      "uses": [
+        {
+          "caseId": "jose-pascualin-trumpet",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-05T06:32:05.572937+00:00",
+      "method": "Incremental bounded HTTP GET of October 5 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://media.licdn.com/dms/image/v2/D4E22AQFIxI8Va8NvXA/feedshare-image-high-res/B4EaB4vAnyH8AU-/0/1788731984614?e=2147483647&v=beta&t=ZHCx5S_1aUo6Bjioz7qfI3MdodG_6wdQtpaeASNfE0g",
+      "contentType": "image/jpeg",
+      "result": "reachable",
+      "bytesRead": 50099
+    },
+    {
+      "url": "https://x.com/tiagomanel/status/2096716820430594170",
+      "uses": [
+        {
+          "caseId": "tiago-parliament-3d",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "tiago-parliament-3d",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-05T06:32:06.977850+00:00",
+      "method": "Incremental bounded HTTP GET of October 5 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://x.com/tiagomanel/status/2096716820430594170",
+      "contentType": "text/html; charset=UTF-8",
+      "result": "reachable",
+      "title": "Tiago Antunes on X: &quot;Had to test GPT Astra to improve the 3D Portuguese Parliament for https://t.co/et4qJkEYwJ\n\nA few things I learned: \n\n- Asking it to use the Image Gen skill for statues/textures improved photorealism a lot\n\n- Started with Max effort, but Medium was usually enough for iteration \n… / X"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2096716075748519937/img/HotLLXGRwjKSe9RY.jpg",
+      "uses": [
+        {
+          "caseId": "tiago-parliament-3d",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-05T06:32:08.678947+00:00",
+      "method": "Incremental bounded HTTP GET of October 5 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2096716075748519937/img/HotLLXGRwjKSe9RY.jpg",
+      "contentType": "image/jpeg",
+      "result": "reachable",
+      "bytesRead": 180794
+    },
+    {
+      "url": "https://analisa.pt/parlamento",
+      "uses": [
+        {
+          "caseId": "tiago-parliament-3d",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-10-05T06:32:08.690394+00:00",
+      "method": "Incremental bounded HTTP GET of October 5 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://analisa.pt/parlamento",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "Parlamento — composição, iniciativas e votações | Analisa.pt"
+    },
+    {
+      "url": "https://github.com/Roboparty/gpt-6-astra-real2sim-workflow",
+      "uses": [
+        {
+          "caseId": "roboparty-real2sim",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "roboparty-real2sim",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-10-05T06:32:09.080278+00:00",
+      "method": "Incremental bounded HTTP GET of October 5 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://github.com/Roboparty/gpt-6-astra-real2sim-workflow",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "GitHub - Roboparty/gpt-6-astra-real2sim-workflow: Community GPT-6 Astra workflow for editable Real2Sim scenes, furniture-specification guidance, and Blender/MuJoCo validation. · GitHub"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Roboparty/gpt-6-astra-real2sim-workflow/main/docs/showcase/media/comparison.jpg",
+      "uses": [
+        {
+          "caseId": "roboparty-real2sim",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-05T06:32:10.830790+00:00",
+      "method": "Incremental bounded HTTP GET of October 5 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/Roboparty/gpt-6-astra-real2sim-workflow/main/docs/showcase/media/comparison.jpg",
+      "contentType": "image/jpeg",
+      "result": "reachable",
+      "bytesRead": 988349
+    },
+    {
+      "url": "https://github.com/Roboparty/gpt-6-astra-real2sim-workflow/blob/main/public_contract/MASTER_PROMPT.md",
+      "uses": [
+        {
+          "caseId": "roboparty-real2sim",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-05T06:32:11.496341+00:00",
+      "method": "Incremental bounded HTTP GET of October 5 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://github.com/Roboparty/gpt-6-astra-real2sim-workflow/blob/main/public_contract/MASTER_PROMPT.md",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "gpt-6-astra-real2sim-workflow/public_contract/MASTER_PROMPT.md at main · Roboparty/gpt-6-astra-real2sim-workflow · GitHub"
     }
   ],
   "previousImageUrls": [
