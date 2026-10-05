@@ -24,4 +24,12 @@ X 议会源帖 `2096716820430594170` / 媒体 `2096716075748519937` 仅一段，
 
 普通生产构建以本地 HTTP 服务检查 1440×1100、390×844 和 320×800 视口，页面无整体横向溢出（内容宽分别 1425 / 375 / 305），英文入口、最新五件英文标题与三组筛选标签正常；筛选条内部横向滚动属于既有设计。五张原站图在案例区 complete=true、naturalWidth>0，作者渲染与对照图 computed object-fit=contain。站内视频通过原生键盘控件播放，readyState=4、duration=58.416667，currentTime 从 0 推进到 20.752119 秒，未捕获本站 warn/error。
 
-已更新 `docs/media/` 中 10/5 首页、案例区、手机与详情四张实拍；中英文 README 和 share.jpg 指向本轮截图。截图并非生成概念图。工作区验证脚本确认原有 252 条档案、220 条媒体及既有 Release 未被改写，新增两 MP4 文件哈希与清单一致。线上发布证据完成后补记。
+已更新 `docs/media/` 中 10/5 首页、案例区、手机与详情四张实拍；中英文 README 和 share.jpg 指向本轮截图。截图并非生成概念图。工作区验证脚本确认原有 252 条档案、220 条媒体及既有 Release 未被改写，新增两 MP4 文件哈希与清单一致。
+
+## 线上发布
+
+发布提交 `54a4efbf1d2915d29b5f1ab972da4ca77e4b69e1` 已推送 main；[GitHub Actions 37274278722](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/37274278722) 的 build / deploy 均 success，包含所有播放版下载及校验。2026-10-05 14:52 上海时间线上复核：257 条公开 JSON 与本地完全一致，五件新增的十个中英文详情页及逐件 JSON、canonical、原图地址与任务/过程说明一致，539 条 sitemap 和 share.jpg 字节一致。首页三项 JavaScript 资源可达、MIME 正确且不是 HTML 回退；仓库公开、首页地址正确、中英文 README 与本地一致，四张截图在 GitHub raw 上字节匹配。新增站内播放文件为 video/mp4、2,234,589 字节，完整 GET 的 SHA-256 与已解码文件一致。
+
+实际打开已发布最新版案例区，245 个 Astra 结果、10/5 更新日期及五件新增顺序正确，全部五张图片 complete=true / naturalWidth>0，对应渲染/对照 contain 样式正确，本站控制台无 warn/error；线上实拍保存在本轮 ignored 工作证据中。第三方站点和所有历史媒体未声称本轮完整复现。
+
+线上作品详情通过原生播放器实际播放新增录像，readyState=4、duration=58.416667 秒、currentTime 从 0 推进至 47.928471 秒，真实三维场景随录像变化，未捕获 warn/error。完整文件此前的严格全长解码与线上完整字节/hash 校验共同覆盖其完整性；浏览器这次检查没有冒充全片人工审看。
