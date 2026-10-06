@@ -2,6 +2,18 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-06 · 7 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [LDraw Nova：大教堂与潮汐观测站 LEGO CAD / LDraw Nova — Cathedral and Tidal Observatory LEGO CAD](https://carpentry-liu.github.io/awesome-astra-3d/cases/anteloc-ldraw-nova-buildings/) | Carlos Antelo / anteloc | 源码 / 工程 · 提示词 / 过程 |
+| [Renders：四座建筑的 Blender 工程与修订档案 / Renders — Four Blender Architecture Projects and Revision Archive](https://carpentry-liu.github.io/awesome-astra-3d/cases/lucas-chu-blender-architecture-archive/) | lucas-chu | 源码 / 工程 · 提示词 / 过程 |
+| [MRI 到实物：Astra 协助制作脑模型并 3D 打印 / MRI to a Physical Brain Model — Astra-Assisted 3D Printing](https://carpentry-liu.github.io/awesome-astra-3d/cases/sourish-mri-brain/) | Sourish Sharma / @sourishsharma17 | 完整视频 · 提示词 / 过程 |
+| [Meshy × Astra：家具生成、六组件拆解与旋转目录 / Meshy × Astra — Furniture Generation, Segmentation and Rotatable Catalog](https://carpentry-liu.github.io/awesome-astra-3d/cases/meshy-furniture-catalog/) | MeshyAI / @MeshyAI | 完整视频 · 提示词 / 过程 |
+| [Roomplay：房屋漫游与家具尺寸、配色原型 / Roomplay — Home Walkthrough and Furniture Layout Prototype](https://carpentry-liu.github.io/awesome-astra-3d/cases/humaid-roomplay/) | Humaid Hussain | 提示词 / 过程 |
+| [Kureha 汽车模型：Slack 会话到 Blender、STL 与实物打印 / Kureha Car Model — Slack, Blender, STL and a Physical Print](https://carpentry-liu.github.io/awesome-astra-3d/cases/polta-kureha-car-print/) | POLTA編集部 / 株式会社POLTA | 提示词 / 过程 |
+| [よぞねこ：单张猫插画到可修正的 Blender 静态模型 / Yozoneko — A Cat Illustration Turned into an Editable Blender Model](https://carpentry-liu.github.io/awesome-astra-3d/cases/yakumo-yozoneko-blender/) | 八雲 / yakumo808 | 提示词 / 过程 |
+
 ## 2026-10-05 · 5 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

@@ -1,11 +1,11 @@
 {
   "observedAt": "2026-09-25",
   "method": "Incremental bounded HTTP GET: horse comparison page reachable; historical timestamps preserved. Does not validate benchmark fairness or every embedded animation.",
-  "checkedUrls": 559,
+  "checkedUrls": 576,
   "counts": {
     "http-error": 4,
     "restricted": 6,
-    "reachable": 549
+    "reachable": 566
   },
   "results": [
     {
@@ -9672,6 +9672,302 @@
       "contentType": "text/html; charset=utf-8",
       "result": "reachable",
       "title": "gpt-6-astra-real2sim-workflow/public_contract/MASTER_PROMPT.md at main · Roboparty/gpt-6-astra-real2sim-workflow · GitHub"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=49937916",
+      "uses": [
+        {
+          "caseId": "anteloc-ldraw-nova-buildings",
+          "field": "sourceUrl"
+        }
+      ],
+      "observedAt": "2026-10-06T02:43:29.669091+00:00",
+      "method": "Incremental bounded HTTP GET of October 6 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://news.ycombinator.com/item?id=49937916",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "Show HN: Made an open-source Lego AI generator | Hacker News"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/anteloc/ldraw-nova-docker/master/models-gallery/cathedral.png",
+      "uses": [
+        {
+          "caseId": "anteloc-ldraw-nova-buildings",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-06T02:43:29.670091+00:00",
+      "method": "Incremental bounded HTTP GET of October 6 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/anteloc/ldraw-nova-docker/master/models-gallery/cathedral.png",
+      "contentType": "image/png",
+      "result": "reachable",
+      "bytesRead": 97635
+    },
+    {
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "uses": [
+        {
+          "caseId": "anteloc-ldraw-nova-buildings",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-10-06T02:43:29.671091+00:00",
+      "method": "Incremental bounded HTTP GET of October 6 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://github.com/anteloc/ldraw-nova",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "GitHub - anteloc/ldraw-nova: Agent tooling for generative LEGO models building, built with Astra and Opus 5.5, powered by Jev · GitHub"
+    },
+    {
+      "url": "https://github.com/anteloc/ldraw-nova-docker/blob/master/models-gallery/cathedral.md",
+      "uses": [
+        {
+          "caseId": "anteloc-ldraw-nova-buildings",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-06T02:43:29.671091+00:00",
+      "method": "Incremental bounded HTTP GET of October 6 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://github.com/anteloc/ldraw-nova-docker/blob/master/models-gallery/cathedral.md",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "ldraw-nova-docker/models-gallery/cathedral.md at master · anteloc/ldraw-nova-docker · GitHub"
+    },
+    {
+      "url": "https://github.com/lucas-chu/Renders",
+      "uses": [
+        {
+          "caseId": "lucas-chu-blender-architecture-archive",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "lucas-chu-blender-architecture-archive",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-10-06T02:43:29.672092+00:00",
+      "method": "Incremental bounded HTTP GET of October 6 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://github.com/lucas-chu/Renders",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "GitHub - lucas-chu/Renders: 3d renders by Astra · GitHub"
+    },
+    {
+      "url": "https://media.githubusercontent.com/media/lucas-chu/Renders/main/colosseum/v2/output/Colosseum_Hero.png",
+      "uses": [
+        {
+          "caseId": "lucas-chu-blender-architecture-archive",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-06T02:43:29.672092+00:00",
+      "method": "Incremental bounded HTTP GET of October 6 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://media.githubusercontent.com/media/lucas-chu/Renders/main/colosseum/v2/output/Colosseum_Hero.png",
+      "contentType": "image/png",
+      "result": "reachable",
+      "bytesRead": 3073809
+    },
+    {
+      "url": "https://github.com/lucas-chu/Renders/blob/main/chateau-frontenac/work/brief.md",
+      "uses": [
+        {
+          "caseId": "lucas-chu-blender-architecture-archive",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-06T02:43:31.051582+00:00",
+      "method": "Incremental bounded HTTP GET of October 6 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://github.com/lucas-chu/Renders/blob/main/chateau-frontenac/work/brief.md",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "Renders/chateau-frontenac/work/brief.md at main · lucas-chu/Renders · GitHub"
+    },
+    {
+      "url": "https://x.com/sourishsharma17/status/2099981891512242496",
+      "uses": [
+        {
+          "caseId": "sourish-mri-brain",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "sourish-mri-brain",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-06T02:43:33.204087+00:00",
+      "method": "Incremental bounded HTTP GET of October 6 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://x.com/sourishsharma17/status/2099981891512242496",
+      "contentType": "text/html; charset=UTF-8",
+      "result": "reachable",
+      "title": "Sourish Sharma on X: &quot;i 3D-printed my brain!\n\nit&#x27;s a 1:1, life-sized, accurate model of my brain. includes some of the spinal cord and the cerebellum :)\n\nMRI scan -&gt; GPT-6 Astra -&gt; Bambu Lab P1S\n\n35 hours to print, 400 grams.\n\nbeen a year since i made an X post, but this was too cool... 😍&quot; / X"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HSSh1y1WQAAdvvS.jpg?name=orig",
+      "uses": [
+        {
+          "caseId": "sourish-mri-brain",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-06T02:43:35.833604+00:00",
+      "method": "Incremental bounded HTTP GET of October 6 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://pbs.twimg.com/media/HSSh1y1WQAAdvvS.jpg?name=orig",
+      "contentType": "image/jpeg",
+      "result": "reachable",
+      "bytesRead": 2245875
+    },
+    {
+      "url": "https://x.com/MeshyAI/status/2101683299550925127",
+      "uses": [
+        {
+          "caseId": "meshy-furniture-catalog",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "meshy-furniture-catalog",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-06T02:43:35.900250+00:00",
+      "method": "Incremental bounded HTTP GET of October 6 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://x.com/MeshyAI/status/2101683299550925127",
+      "contentType": "text/html; charset=UTF-8",
+      "result": "reachable",
+      "title": "MeshyAI on X: &quot;Meshy Plugin, now on ChatGPT. 🪑\n\nGenerate → describe the piece, Astra calls Meshy, the model comes back in chat\nSplit → Part Segmentation API breaks it into frame, seat, backrest, rails\nShip → Astra builds the site, every piece drag to rotate\n\nA furniture catalog, from prompt to bro… / X"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2101682626784571392/img/TyD5PSg5-jkCWjSx.jpg",
+      "uses": [
+        {
+          "caseId": "meshy-furniture-catalog",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-06T02:43:36.706208+00:00",
+      "method": "Incremental bounded HTTP GET of October 6 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2101682626784571392/img/TyD5PSg5-jkCWjSx.jpg",
+      "contentType": "image/jpeg",
+      "result": "reachable",
+      "bytesRead": 68003
+    },
+    {
+      "url": "https://www.linkedin.com/posts/humaidobaidhussain_in-the-past-7-days-ive-been-exploring-gpt-activity-7507717917245923328-fOrF",
+      "uses": [
+        {
+          "caseId": "humaid-roomplay",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "humaid-roomplay",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-06T02:43:37.213318+00:00",
+      "method": "Incremental bounded HTTP GET of October 6 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/posts/humaidobaidhussain_in-the-past-7-days-ive-been-exploring-gpt-activity-7507717917245923328-fOrF",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "Exploring GPT-6 Astra for 3D Website Creation | Humaid Hussain posted on the topic | LinkedIn"
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4E05AQFEXSgMEoIIrA/videocover-high/B4EaC_MF8CIgBM-/0/1789914016509?e=2147483647&v=beta&t=0ldbn9bFKUaIcjmGKdD-1Ud2n09MJjYfOMo8QcD3PQA",
+      "uses": [
+        {
+          "caseId": "humaid-roomplay",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-06T02:43:41.432762+00:00",
+      "method": "Incremental bounded HTTP GET of October 6 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://media.licdn.com/dms/image/v2/D4E05AQFEXSgMEoIIrA/videocover-high/B4EaC_MF8CIgBM-/0/1789914016509?e=2147483647&v=beta&t=0ldbn9bFKUaIcjmGKdD-1Ud2n09MJjYfOMo8QcD3PQA",
+      "contentType": "image/jpeg",
+      "result": "reachable",
+      "bytesRead": 42416
+    },
+    {
+      "url": "https://note.com/polta_company/n/nb39c09e80229",
+      "uses": [
+        {
+          "caseId": "polta-kureha-car-print",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "polta-kureha-car-print",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-06T02:43:41.666369+00:00",
+      "method": "Incremental bounded HTTP GET of October 6 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://note.com/polta_company/n/nb39c09e80229",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "【GPT-6 Astra × Blender】SlackでAIスタッフに3Dデザインから3Dプリントまで任せてみた｜POLTA編集部"
+    },
+    {
+      "url": "https://assets.st-note.com/img/1790166407-SI216Nry9jECzDofZALqaciQ.png?width=1200",
+      "uses": [
+        {
+          "caseId": "polta-kureha-car-print",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-06T02:43:42.455405+00:00",
+      "method": "Incremental bounded HTTP GET of October 6 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://assets.st-note.com/img/1790166407-SI216Nry9jECzDofZALqaciQ.png?width=1200",
+      "contentType": "image/png",
+      "result": "reachable",
+      "bytesRead": 90878
+    },
+    {
+      "url": "https://note.com/yakumo808/n/n7ba490ff95ee",
+      "uses": [
+        {
+          "caseId": "yakumo-yozoneko-blender",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "yakumo-yozoneko-blender",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-06T02:43:42.543912+00:00",
+      "method": "Incremental bounded HTTP GET of October 6 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://note.com/yakumo808/n/n7ba490ff95ee",
+      "contentType": "text/html; charset=utf-8",
+      "result": "reachable",
+      "title": "八雲AI研究室 成果物紹介 #002：GPT-6 AstraにBlenderを触らせて「よぞねこ」を3D化してみた｜八雲"
+    },
+    {
+      "url": "https://assets.st-note.com/img/1788880388-jbFPaxogGfEvHdZVc6l3Ut0q.png?width=1200",
+      "uses": [
+        {
+          "caseId": "yakumo-yozoneko-blender",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-06T02:43:42.905024+00:00",
+      "method": "Incremental bounded HTTP GET of October 6 additions. Image inspection and browser render are recorded separately; not a historical full audit.",
+      "status": 200,
+      "finalUrl": "https://assets.st-note.com/img/1788880388-jbFPaxogGfEvHdZVc6l3Ut0q.png?width=1200",
+      "contentType": "image/png",
+      "result": "reachable",
+      "bytesRead": 142229
     }
   ],
   "previousImageUrls": [

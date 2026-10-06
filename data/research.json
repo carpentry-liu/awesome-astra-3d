@@ -2009,6 +2009,219 @@
           "reason": "Creator @code3ater original text still readable via web index, original X status/media identities remain unverified; no retry around platform restrictions. Earlier September8 lead kept pending."
         }
       ]
+    },
+    {
+      "observedAt": "2026-10-06",
+      "timezone": "Asia/Shanghai",
+      "addedCaseIds": [
+        "anteloc-ldraw-nova-buildings",
+        "lucas-chu-blender-architecture-archive",
+        "sourish-mri-brain",
+        "meshy-furniture-catalog",
+        "humaid-roomplay",
+        "polta-kureha-car-print",
+        "yakumo-yozoneko-blender"
+      ],
+      "channels": [
+        "GitHub",
+        "X",
+        "Reddit",
+        "Zenn",
+        "Qiita",
+        "Bilibili",
+        "小红书",
+        "LINUX DO",
+        "LinkedIn",
+        "note",
+        "作者网站"
+      ],
+      "coverageNotes": [
+        "257 historical records preserved; no complete historical audit claimed.",
+        "Recent repository progress and newly collected older works retain actual publication dates, or null when unknown.",
+        "LDraw real-part libraries, Meshy geometry and Astra tool orchestration retain explicit division of labor; author-level Astra statements do not prove independent reproduction.",
+        "Two qualified X clips have complete original and playback renditions; previous 111 clips and 222 media entries are preserved.",
+        "Only inspected original visible outputs or output-containing video posters accepted.",
+        "No ChatGPT Sites deployment or community posting."
+      ],
+      "projectsCoverage": [
+        {
+          "platform": "GitHub",
+          "queries": [
+            "astra 3d pushed:>=2026-10-04",
+            "astra blender pushed:>=2026-10-04",
+            "gpt-6-astra created:>=2026-10-04",
+            "astra threejs pushed:>=2026-10-04"
+          ],
+          "result": "官方 GitHub 搜索 API 四批成功：13、8、21、4 个结果；过滤名称碰巧含 Astra、已有工程、同作者人物变体、缺失成果和非三维项目。搜索命中数不是新增作品数。"
+        },
+        {
+          "platform": "Web / GitHub",
+          "queries": [
+            "GPT-6 Astra github 3D October 5",
+            "GPT-6 Astra Blender after:2026-10-04",
+            "gpt-6-astra three.js github",
+            "site:github.com GPT-6 Astra 3D -awesome -prompts -ecooxai -Roboparty -danielsobrado -yangqiong -BeatAPI",
+            "GPT-6 Astra github 3D October 6"
+          ],
+          "result": "通过转载线索定位原作者 LDraw Nova；事实与预览回到作者仓库、逐作品模型标签及 HN 原帖。未从聚合库直接复制事实或媒体。"
+        },
+        {
+          "platform": "Hacker News",
+          "queries": [
+            "Show HN Made an open-source Lego AI generator",
+            "ldraw-nova antelocnova"
+          ],
+          "links": [
+            "https://news.ycombinator.com/item?id=49937916",
+            "https://hacker-news.firebaseio.com/v0/item/49937916.json",
+            "https://anteloc.github.io/index-samples.html"
+          ],
+          "result": "读取原作者公开发布帖与官方时间戳，核查作者说尚未实体搭建、只检查碰撞与放置而非物理稳定性；官方模型混合图库不充作 Astra 原创成果。"
+        }
+      ],
+      "socialCoverage": {
+        "X": "Date-filtered 10/5-6 searches and broader indexed author searches. New independent September original sources located via a secondary phuaky lead list and verified against readable original-post FxTwitter metadata plus inspected pbs output media and complete original clip frames; no unique October 5-6 original verified. Mirrors and relative indexed dates were never used as exact publication dates.",
+        "Reddit": "Recent local-LLM discussion and Claude/Astra comparison contain no concrete new visible work. Fourteen-model shop reconstruction is existing kaloyan; Roman legionary and low-poly Tripo character are existing works; Gaussian-splat repost has ambiguous GPT-6.1 Astra name.",
+        "LinkedIn": "Original Pawel PKiN, Humaid Roomplay and Ryan H. joint animation posts, exact JSON-LD metadata and actual covers inspected. Roomplay selected with three actual source video frames; its unresolved short demo link is kept out of demoUrl. Pawel and Ryan kept as additional future leads instead of filling beyond max3."
+      },
+      "eastasiaCoverage": [
+        {
+          "platform": "Zenn / Qiita / note",
+          "queries": [
+            "\"GPT-6 Astra\" \"3D\" site:zenn.dev",
+            "\"GPT-6 Astra\" \"Blender\" site:qiita.com",
+            "\"Astra\" \"Blender\" site:zenn.dev after:2026-09-25",
+            "\"GPT-6 Astra\" \"3D\" site:note.com",
+            "\"Astra\" \"3D\" site:note.com \"2026年10月\"",
+            "\"Astra\" \"Blender\" site:note.com \"2026年10月\""
+          ],
+          "result": "近期索引未找到可另计数的新作；多条 Zenn 成果已收录。补入两条此前遗漏的 note 原作者实验，首发日期保持九月。"
+        },
+        {
+          "platform": "Bilibili / Linux DO / 小红书公开索引",
+          "queries": [
+            "\"GPT-6 Astra\" site:bilibili.com/video/ after:2026-10-02",
+            "\"GPT-6 Astra\" \"Blender\" site:linux.do after:2026-10-01",
+            "\"GPT-6 Astra\" \"建模\" site:linux.do/t/topic/",
+            "\"GPT-6 Astra\" \"3D\" site:xiaohongshu.com",
+            "\"Astra\" \"建模\" \"10月\" 2026"
+          ],
+          "result": "结果主要是官方演示、制作教程、剪辑讨论、已收录作品及无对应可见成果的产品新闻；不以未命中声称平台没有作品。"
+        }
+      ],
+      "rootCoverage": [
+        "Searched GPT-6 Astra / 3D / Blender / Three.js recent October 5–6 results across general web search, author websites and source repositories.",
+        "LDraw Nova primary repository and author materials referred to the project research track for one consolidated workflow case.",
+        "GPTblender floor-plan workflow is already collected; no distinct new output on its homepage.",
+        "Mark Kashef September 14 learning-world article and its linked YouTube page were read. Public article/YouTube cover was downloaded and visually inspected; this promotional image is not accepted as a rendered output frame.",
+        "Recent search results include previously collected Anatomy2234, Rutinelabo and Blender benchmark reposts; original publication dates are retained."
+      ],
+      "rejectedCandidates": [
+        {
+          "sourceUrl": "https://github.com/hussnainahmedd/astra-3d-car-game-v2",
+          "reason": "作者简介宣称 Astra 汽车游戏，但 GitHub 页面显示空仓库，没有文件或实际成果图。"
+        },
+        {
+          "sourceUrl": "https://github.com/hussnainahmedd/astra-3d-car-game",
+          "reason": "官方 Git tree API 返回 409 空仓库；缺少实际成果，不能由仓库名或简介推定游戏可看。"
+        },
+        {
+          "sourceUrl": "https://github.com/GuillermoBarreto/AstraScope",
+          "reason": "卫星平台改名为 AstraScope（原 OrbiWatch），已读 README 和 docs，无 GPT-6 Astra 模型归属；名称含 Astra 不是模型生成证据。"
+        },
+        {
+          "sourceUrl": "https://github.com/ecooxai/gpt6-astra-pro-mcp-colabdev-blender-rgirltophalf",
+          "reason": "当前已有同作者人物与上半身建模档案；本轮避免只因新工程名称增加相似参考角色变体，优先不同作者与工程类型。"
+        },
+        {
+          "sourceUrl": "https://github.com/daiwk/3d-architectures",
+          "reason": "昨天已检查，介绍 AI（例如 GPT 6 Astra）不能把每件建筑成品明确归属 Astra；今天推送不是新的逐作品模型证据。"
+        },
+        {
+          "sourceUrl": "https://github.com/buicongnguyen/3d_astra",
+          "reason": "昨天已检查 actual RTS 结果但缺逐作品 Astra 声明，并有其他模型资产管线；本轮 GitHub recent 查询重复命中不新增。"
+        },
+        {
+          "sourceUrl": "https://anteloc.github.io/index-samples.html",
+          "reason": "作者明确该展示混有官方完整模型、抽取子模型、修复尝试与未完成试验；不把每张图归属 Astra 或拆为案例。只采用另有逐作品 GPT-6 Astra 标签的 Cathedral 和 Tidal Observatory。"
+        },
+        {
+          "sourceUrl": "https://www.reddit.com/r/ChatGPT/comments/1wvqlwh/i_asked_14_ai_models_to_rebuild_this_photo_in/",
+          "reason": "Already collected kaloyan-photo-blender-benchmark."
+        },
+        {
+          "sourceUrl": "https://www.reddit.com/r/TopologyAI/comments/1wvmlbf/chat_gpt6_astra_can_make_gaussian_splats_using/",
+          "reason": "Ambiguous author/model name GPT-6.1 Astra; no separately verified actual original result."
+        },
+        {
+          "sourceUrl": "https://www.reddit.com/r/aigamedev/comments/1wxxcqk/claude_or_astra_which_is_better_and_what_game/",
+          "reason": "October 5 discussion about model preferences, not a new identified visible work."
+        },
+        {
+          "sourceUrl": "https://www.linkedin.com/posts/manowiecki_astra-3d-codex-activity-7501750848708952064-oh0q",
+          "reason": "Qualified future lead, not rejected: author Sept5 Shanghai post, actual Blender result and Astra Medium visible in cover. Not selected because max3 stronger broader candidates already returned; source geometry/code and refined V2 output not independently inspected."
+        },
+        {
+          "sourceUrl": "https://www.linkedin.com/posts/ryhaigh_gpt-6-astras-ability-to-work-in-3d-has-been-activity-7503135296331563008-ceFd",
+          "reason": "Qualified future lead: Sept9 Shanghai, actual stylized bear character interface; transcript explicitly references borrowed Sketchfab GLB animation, not from-scratch geometry. Not selected because max3 reached; joint animation effects not independently viewed."
+        },
+        {
+          "url": "https://zenn.dev/tkada/articles/d0c31e6533fb62",
+          "reason": "已有 tkada-jump-run。"
+        },
+        {
+          "url": "https://zenn.dev/miive/articles/d4a1675553d53c",
+          "reason": "已有 seiji-miive-gopher-globe。"
+        },
+        {
+          "url": "https://zenn.dev/chimerast/articles/0003b377d0e8ba",
+          "reason": "已有 chimerast-vrm。"
+        },
+        {
+          "url": "https://zenn.dev/koher/articles/code-first-3d-modeling",
+          "reason": "已有 koher-realitizer。"
+        },
+        {
+          "url": "https://zenn.dev/machikita/articles/5fb78e45b55e84",
+          "reason": "已有 machikita-orbit-lab。"
+        },
+        {
+          "url": "https://linux.do/t/topic/2981987",
+          "reason": "10 月 4 日视频剪辑与模型印象讨论，不是作者新三维成果。"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1VpeG61EaZ/",
+          "reason": "ValsAI Minecraft 转播，属于玩已有三维游戏，不是生成模型或场景。"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1shY364E2Z/",
+          "reason": "明确转自 YouTube 的混合 Seedance 教程，未确认独立原作者 Astra 输出；不重复转帖。"
+        },
+        {
+          "url": "https://vfx-desk.com/articles",
+          "reason": "10 月 5 日后期制作新闻与 Blender Agent Terminal 介绍，尚无独立明确 Astra 三维成果。"
+        },
+        {
+          "url": "https://tech.ifeng.com/c/8wwVZbMWrYq",
+          "reason": "产品报道与 Meshy 对照转载，需回到研究/创作者原始来源；未另计数。"
+        },
+        {
+          "url": "https://note.com/linklab/n/n037e39940420",
+          "reason": "官方 Astra 屋子演示讲解，不是此作者独立制作。"
+        },
+        {
+          "url": "https://qiita.com/Kai_GenAI/items/6a071ccae014c2cedb7e",
+          "reason": "X 案例转述综述，未作为独立新作品。"
+        },
+        {
+          "sourceUrl": "https://www.promptadvisers.com/gpt-6-astra-3d-worlds",
+          "reason": "Author attributes a 12-station Blender/Babylon.js learning world to Astra medium, but the public hero and YouTube thumbnail are promotional artwork. No verified original outcome image or specific public hosted world URL available for this round; provider homepage and community membership are not demos."
+        },
+        {
+          "sourceUrl": "https://gptblender.com/",
+          "reason": "Floor-plan house workflow already exists as gptblender-floor-plan-house; no new independent homepage example."
+        }
+      ]
     }
   ]
 }

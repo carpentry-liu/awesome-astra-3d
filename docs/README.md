@@ -46,3 +46,4 @@
 - [10 月 3 日下午：补充检索与可见作品](features/F-0029-oct03-afternoon/README.md)。
 - [10 月 4 日：近期作品与可查看材料](features/F-0030-daily-oct04/README.md)。
 - [10 月 5 日：近期工程与可见三维成果](features/F-0031-daily-oct05/README.md)。
+- [10 月 6 日：近期三维案例与可查看材料](features/F-0032-daily-oct06/README.md)。

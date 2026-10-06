@@ -2518,6 +2518,58 @@
       "assetId": 604711586
     },
     {
+      "caseId": "meshy-furniture-catalog",
+      "sourceUrl": "https://x.com/MeshyAI/status/2101683299550925127",
+      "kind": "original",
+      "filename": "meshy-furniture-catalog-1-original.mp4",
+      "downloadUrl": "https://video.twimg.com/amplify_video/2101682626784571392/vid/avc1/1920x1080/X85CaCnDDZrd-NgR.mp4?tag=29",
+      "mediaId": "2101682626784571392",
+      "durationSeconds": 54.15,
+      "expectedDurationSeconds": 54.1,
+      "bytes": 10415415,
+      "contentLength": 10415415,
+      "contentLengthChecked": true,
+      "sha256": "38893822f0b32ca5eed968736aa2159d19e7c0d74cb89d10d8fd08fec1b56c81",
+      "bitrate": 10368000,
+      "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2101682626784571392/img/TyD5PSg5-jkCWjSx.jpg",
+      "metadataSource": "https://api.fxtwitter.com/MeshyAI/status/2101683299550925127",
+      "downloadedAt": "2026-10-06",
+      "complete": true,
+      "transcoded": false,
+      "decodeChecked": true,
+      "strictDecodeExitCode": 0,
+      "label": "Meshy Furniture Catalog — Generation, Segmentation and Web Showcase",
+      "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+      "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-06/meshy-furniture-catalog-1-original.mp4",
+      "assetId": 614264037
+    },
+    {
+      "caseId": "meshy-furniture-catalog",
+      "sourceUrl": "https://x.com/MeshyAI/status/2101683299550925127",
+      "kind": "web",
+      "filename": "meshy-furniture-catalog-1-web.mp4",
+      "downloadUrl": "https://video.twimg.com/amplify_video/2101682626784571392/vid/avc1/640x360/6KZd4ZjogrnCKXWd.mp4?tag=29",
+      "mediaId": "2101682626784571392",
+      "durationSeconds": 54.15,
+      "expectedDurationSeconds": 54.1,
+      "bytes": 1453364,
+      "contentLength": 1453364,
+      "contentLengthChecked": true,
+      "sha256": "1a203e7f73244489e326c5a2c0833f91a73deee80600e84116a874dd44c8531e",
+      "bitrate": 832000,
+      "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2101682626784571392/img/TyD5PSg5-jkCWjSx.jpg",
+      "metadataSource": "https://api.fxtwitter.com/MeshyAI/status/2101683299550925127",
+      "downloadedAt": "2026-10-06",
+      "complete": true,
+      "transcoded": false,
+      "decodeChecked": true,
+      "strictDecodeExitCode": 0,
+      "label": "Meshy Furniture Catalog — Generation, Segmentation and Web Showcase",
+      "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+      "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-06/meshy-furniture-catalog-1-web.mp4",
+      "assetId": 614263777
+    },
+    {
       "caseId": "miya-komorebi-market",
       "sourceUrl": "https://x.com/miya00907380/status/2097807257639748070",
       "kind": "original",
@@ -3848,6 +3900,58 @@
       "assetId": 558312119
     },
     {
+      "caseId": "sourish-mri-brain",
+      "sourceUrl": "https://x.com/sourishsharma17/status/2099981891512242496",
+      "kind": "original",
+      "filename": "sourish-mri-brain-1-original.mp4",
+      "downloadUrl": "https://video.twimg.com/amplify_video/2099981342817529856/vid/avc1/1280x720/H-rYBTPRZChuz8b1.mp4?tag=29",
+      "mediaId": "2099981342817529856",
+      "durationSeconds": 20.88,
+      "expectedDurationSeconds": 20.875,
+      "bytes": 5318368,
+      "contentLength": 5318368,
+      "contentLengthChecked": true,
+      "sha256": "90af9c85070b8a45378638f026520c3e1dcbceceb9ee1d6f39a8c17585a387b7",
+      "bitrate": 2176000,
+      "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2099981342817529856/img/5v5Nm2yJ6Qno9-uK.jpg",
+      "metadataSource": "https://api.fxtwitter.com/sourishsharma17/status/2099981891512242496",
+      "downloadedAt": "2026-10-06",
+      "complete": true,
+      "transcoded": false,
+      "decodeChecked": true,
+      "strictDecodeExitCode": 0,
+      "label": "MRI to 3D-Printed Brain — Original Printer Timelapse",
+      "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+      "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-06/sourish-mri-brain-1-original.mp4",
+      "assetId": 614263779
+    },
+    {
+      "caseId": "sourish-mri-brain",
+      "sourceUrl": "https://x.com/sourishsharma17/status/2099981891512242496",
+      "kind": "web",
+      "filename": "sourish-mri-brain-1-web.mp4",
+      "downloadUrl": "https://video.twimg.com/amplify_video/2099981342817529856/vid/avc1/640x360/iO97Knq9wiBz4ZJT.mp4?tag=29",
+      "mediaId": "2099981342817529856",
+      "durationSeconds": 20.88,
+      "expectedDurationSeconds": 20.875,
+      "bytes": 1069156,
+      "contentLength": 1069156,
+      "contentLengthChecked": true,
+      "sha256": "426670ae6ce6e310c8f3545d287d26dd178ad34b93f377c613a41f0830b964c2",
+      "bitrate": 832000,
+      "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2099981342817529856/img/5v5Nm2yJ6Qno9-uK.jpg",
+      "metadataSource": "https://api.fxtwitter.com/sourishsharma17/status/2099981891512242496",
+      "downloadedAt": "2026-10-06",
+      "complete": true,
+      "transcoded": false,
+      "decodeChecked": true,
+      "strictDecodeExitCode": 0,
+      "label": "MRI to 3D-Printed Brain — Original Printer Timelapse",
+      "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+      "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-06/sourish-mri-brain-1-web.mp4",
+      "assetId": 614263775
+    },
+    {
       "caseId": "spenser-panthera-splat",
       "sourceUrl": "https://x.com/SpenserFX/status/2097744080725774568",
       "kind": "original",
@@ -4760,7 +4864,7 @@
       "assetId": 557166979
     }
   ],
-  "updatedAt": "2026-10-05",
+  "updatedAt": "2026-10-06",
   "releases": [
     {
       "tag": "media-2026-09-06",
@@ -4829,6 +4933,10 @@
     {
       "tag": "media-2026-10-05",
       "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-05"
+    },
+    {
+      "tag": "media-2026-10-06",
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-06"
     }
   ]
 }
