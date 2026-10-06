@@ -27,3 +27,10 @@ LDraw 两建筑明确 Astra xhigh，但尚未实体拼搭、物理稳定性未�
 已更新四张 `docs/media/*-2026-10-06.jpg` 实拍、中英文 README 和 share.jpg；详情图为 LDraw Nova 独立页面，截图不是生成概念图。`D:/miniforge3/python.exe -X utf8 work/refresh-2026-10-06/verify.py` 检查 257 旧档案逐项相同、222 旧媒体与 Release 保留、四个新 MP4 字节/hash、公开 JSON、统计、553 sitemap 与四截图/分享封面一致，通过。`git diff --check` 通过。
 
 `$env:GITHUB_PAGES='true'; npm run build` 通过，同样验证 552 静态页、11,840 本地引用、264 详情 JSON 和 553 sitemap URL。只发布 Pages，线上结果在下节补齐。
+
+
+## 线上发布
+
+发布提交 `9feb73131f83053d960ab8095e3f9fcd6bc0a323` 已推送 main；[GitHub Actions 37406208586](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/37406208586) 的 build / deploy 均 success，包含所有播放版下载与校验。2026-10-06 10:55 上海时间线上复核：264 条公开 JSON 与本地完全一致，七件新增的十四个中英文详情页及七份 JSON、canonical、标题和原图地址一致；553 sitemap 和 share.jpg 字节一致。首页三个 JavaScript 资源可达、MIME 正确且无 HTML 回退；仓库公开、主页与 topics 保持有效，中英文 README 与本地一致，GitHub raw 四张截图逐字节匹配。
+
+线上两播放文件均为 video/mp4，完整 GET 字节数与 SHA-256 和此前全长解码版本相同：脑打印 1,069,156 字节，家具目录 1,453,364 字节。实际打开已发布案例区可见 252 Astra、10/6 日期和七件新增；七张图 complete=true / naturalWidth>0，控制台无 warn/error，保存真实线上截图。卡片可打开脑模型详情弹窗，分别显示原始 9/16 和本次核查 10/6，站内原生播放器已播放至 20.875 秒终点、readyState=4。家具独立详情的站内播放器 duration=54.148934 秒、readyState=4，currentTime 从 0 推进至 45.60221 秒；随后真实截图可见 0:54 / 0:54 片尾。两页均未捕获 warn/error，完整文件校验与严格解码共同证明保存的是未裁剪原帖片段，浏览器检查不当作工程交互或模型精度复现。
