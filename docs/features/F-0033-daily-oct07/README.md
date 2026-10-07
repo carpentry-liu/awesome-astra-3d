@@ -24,4 +24,14 @@ Tripo 提供 Jill 部件和游戏角色，Astra 分别修复角色及编写游�
 
 普通生产构建的 1440×1100、390×844、320×800 视口内容宽 1425 / 375 / 305，无整体横向溢出。中英文新标题、材料入口、14 张首屏精选/新增图片 complete=true 且 naturalWidth>0。保存四张 `docs/media/*-2026-10-07.jpg` 实拍并更新双语 README；详情为 Jill 角色，首页图同步 share.jpg。截图来自真实浏览器页面。
 
-`npm run catalog`、`npm run check`（272 档案、19 测试、TypeScript）、`npm run lint` 通过。普通 `npm run build` 与设置 `GITHUB_PAGES=true` 的生产构建都通过：544 双语详情、8 专题、16 目录，共 568 静态页；12,176 本地引用、272 详情 JSON、569 sitemap URL 验证通过，仅沿用已有 Windows DEP0190 警告。`D:/miniforge3/python.exe -X utf8 work/refresh-2026-10-07/verify.py` 验证 264 旧档案、226 旧媒体与 Release、十个新 MP4 字节/hash、公开 JSON、统计、569 sitemap、四截图与分享封面一致，通过。最终复跑 check / lint、`git diff --check` 通过。线上结果完成后补齐。
+`npm run catalog`、`npm run check`（272 档案、19 测试、TypeScript）、`npm run lint` 通过。普通 `npm run build` 与设置 `GITHUB_PAGES=true` 的生产构建都通过：544 双语详情、8 专题、16 目录，共 568 静态页；12,176 本地引用、272 详情 JSON、569 sitemap URL 验证通过，仅沿用已有 Windows DEP0190 警告。`D:/miniforge3/python.exe -X utf8 work/refresh-2026-10-07/verify.py` 验证 264 旧档案、226 旧媒体与 Release、十个新 MP4 字节/hash、公开 JSON、统计、569 sitemap、四截图与分享封面一致，通过。最终复跑 check / lint、`git diff --check` 通过。
+
+## 线上发布
+
+内容提交 `6d2f61bd70a3dda7173e63dfb8bdf2a84b8f4d08` 已进入 main；Git 传输连接超时后改用 GitHub API，18 个 blob 与完整 tree SHA 均匹配本地，分支更新为非强制快进。[GitHub Actions 37576775816](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/37576775816) 的 build / deploy 均 success，所有完整播放版在构建时重新下载并校验。
+
+2026-10-07 13:36 上海时间运行 `D:/miniforge3/python.exe -X utf8 work/published-oct07.py`：272 条公开 JSON 与本地完全一致；新增八件的十六个中英文详情、八份 JSON、canonical、标题及成果图地址一致。569 sitemap 和 share.jpg 字节一致，三个首页 JavaScript 资源可达且 MIME 正确；仓库公开、首页链接有效，中英文 README 与本地相同，四张新实拍的 GitHub raw 字节一致。
+
+线上五个播放文件全量 GET 均为 video/mp4，字节数与 SHA-256 和此前完整解码版本完全相同：Jill 737,718；三款游戏 1,519,748 / 1,690,469 / 2,038,375；城镇 2,326,109。实际打开正式案例区可见 260 Astra 和 10/7 更新，八张新增图片 complete=true、naturalWidth>0，无整体横向溢出，控制台未捕获 warn/error，保存生产截图。此轮验证可查看素材，不把浏览器检查当作第三方工程复现或网格/物理精度认证。
+
+正式 Jill 独立详情页的原生播放器实际播放到 9.636281 秒终点，ended=true、readyState=4，未捕获 warn/error。五段录像此前均在本地生产网页播放到底，线上文件哈希一致。
