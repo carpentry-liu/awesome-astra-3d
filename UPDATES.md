@@ -2,6 +2,19 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-07 · 8 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Jill 角色：Tripo 分件、Astra 修复与 Opus 动作 / Jill — Tripo Parts, Astra Repairs and Opus Motion](https://carpentry-liu.github.io/awesome-astra-3d/cases/852wa-jill-character/) | 852話 / hakoniwa / @8co28 | 完整视频 · 提示词 / 过程 |
+| [三款浏览器游戏：Tripo 角色与 Astra 游戏代码 / Three Browser Games — Tripo Characters and Astra Game Code](https://carpentry-liu.github.io/awesome-astra-3d/cases/routine-tripo-three-games/) | せなお / Routine labo / @rutinelabo | 完整视频 · 提示词 / 过程 |
+| [DeepSeek 鲸鱼摆件：标志轮廓到可编辑打印网格 / DeepSeek Whale — Logo Silhouette to Editable Print Mesh](https://carpentry-liu.github.io/awesome-astra-3d/cases/shyrz-deepseek-whale-cad/) | Shyrz / shyrz | 源码 / 工程 · 提示词 / 过程 |
+| [Guan’s Fencing Club：击剑录像、三维回放与剑尖轨迹 / Guan’s Fencing Club — Synchronized Fencing Replay and Sword-Tip Trails](https://carpentry-liu.github.io/awesome-astra-3d/cases/samguan-fencing-replay/) | samguan2020 | 源码 / 工程 |
+| [Chess3D Astra：三维 / 二维国际象棋与本地电脑对手 / Chess3D Astra — 3D / 2D Chess with a Local Computer Opponent](https://carpentry-liu.github.io/awesome-astra-3d/cases/yortch-chess3dastra/) | yortch | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [NVIDIA：从输送线过隙到 UR10 机械臂分拣 / NVIDIA — From Conveyor Gaps to UR10 Reject Sorting](https://carpentry-liu.github.io/awesome-astra-3d/cases/nvidia-astra-conveyor-robotiq/) | Ashley Goldstein / NVIDIA Omniverse | 提示词 / 过程 |
+| [Higgsfield × Astra：椭圆形办公室可重拍三维布景 / Higgsfield × Astra — A Reshootable Oval Office 3D Set](https://carpentry-liu.github.io/awesome-astra-3d/cases/mashrabov-oval-office/) | Alex Mashrabov / Higgsfield | 提示词 / 过程 |
+| [ちいさな街工房：参数驱动的三维城镇与 GLB 导出 / Little City Studio — Parametric 3D Towns and GLB Export](https://carpentry-liu.github.io/awesome-astra-3d/cases/miya-little-city-studio/) | miya / @miya00907380 | 演示入口 · 完整视频 |
+
 ## 2026-10-06 · 7 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

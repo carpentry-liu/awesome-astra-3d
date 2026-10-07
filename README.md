@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-10-06（Asia/Shanghai）**：**252 条 Astra 案例** · **70 条源码 / 工程** · **95 个演示入口** · **113 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-10-07（Asia/Shanghai）**：**260 条 Astra 案例** · **73 条源码 / 工程** · **97 个演示入口** · **118 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -44,18 +44,18 @@
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-06.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-07.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-2026-10-06 本轮生产构建实拍。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+2026-10-07 本轮生产构建实拍。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
-<summary>查看案例区、手机与作品详情实拍 · 2026-10-06</summary>
+<summary>查看案例区、手机与作品详情实拍 · 2026-10-07</summary>
 
-[![案例区：筛选与更多作品](docs/media/collection-2026-10-06.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![案例区：筛选与更多作品](docs/media/collection-2026-10-07.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端：精选作品与材料导航](docs/media/mobile-2026-10-06.jpg)
+![手机端：精选作品与材料导航](docs/media/mobile-2026-10-07.jpg)
 
-[![作品详情：LDraw Nova 工程、作者与来源记录](docs/media/case-2026-10-06.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/anteloc-ldraw-nova-buildings/)
+[![作品详情：Jill 角色、完整录像与工具分工](docs/media/case-2026-10-07.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/852wa-jill-character/)
 
 </details>
 
@@ -66,14 +66,14 @@
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
-| [LDraw Nova：大教堂与潮汐观测站 LEGO CAD](https://carpentry-liu.github.io/awesome-astra-3d/cases/anteloc-ldraw-nova-buildings/) | Carlos Antelo / anteloc | [源码](https://github.com/anteloc/ldraw-nova) · [原始来源](https://news.ycombinator.com/item?id=49937916) |
-| [Renders：四座建筑的 Blender 工程与修订档案](https://carpentry-liu.github.io/awesome-astra-3d/cases/lucas-chu-blender-architecture-archive/) | lucas-chu | [源码](https://github.com/lucas-chu/Renders) · [原始来源](https://github.com/lucas-chu/Renders) |
-| [MRI 到实物：Astra 协助制作脑模型并 3D 打印](https://carpentry-liu.github.io/awesome-astra-3d/cases/sourish-mri-brain/) | Sourish Sharma / @sourishsharma17 | [原始来源](https://x.com/sourishsharma17/status/2099981891512242496) |
-| [Meshy × Astra：家具生成、六组件拆解与旋转目录](https://carpentry-liu.github.io/awesome-astra-3d/cases/meshy-furniture-catalog/) | MeshyAI / @MeshyAI | [原始来源](https://x.com/MeshyAI/status/2101683299550925127) |
-| [Roomplay：房屋漫游与家具尺寸、配色原型](https://carpentry-liu.github.io/awesome-astra-3d/cases/humaid-roomplay/) | Humaid Hussain | [原始来源](https://www.linkedin.com/posts/humaidobaidhussain_in-the-past-7-days-ive-been-exploring-gpt-activity-7507717917245923328-fOrF) |
-| [Kureha 汽车模型：Slack 会话到 Blender、STL 与实物打印](https://carpentry-liu.github.io/awesome-astra-3d/cases/polta-kureha-car-print/) | POLTA編集部 / 株式会社POLTA | [原始来源](https://note.com/polta_company/n/nb39c09e80229) |
-| [よぞねこ：单张猫插画到可修正的 Blender 静态模型](https://carpentry-liu.github.io/awesome-astra-3d/cases/yakumo-yozoneko-blender/) | 八雲 / yakumo808 | [原始来源](https://note.com/yakumo808/n/n7ba490ff95ee) |
-| [Moonlit Pajamas：程序化 Blender 睡衣人物与修正记录](https://carpentry-liu.github.io/awesome-astra-3d/cases/ecooxai-moonlit-pajamas/) | ecooxai | [源码](https://github.com/ecooxai/gpt6-astra-pro-colabdev-blender-moonlit-pajamas) · [原始来源](https://github.com/ecooxai/gpt6-astra-pro-colabdev-blender-moonlit-pajamas) |
+| [Jill 角色：Tripo 分件、Astra 修复与 Opus 动作](https://carpentry-liu.github.io/awesome-astra-3d/cases/852wa-jill-character/) | 852話 / hakoniwa / @8co28 | [原始来源](https://note.com/852wa/n/nb681ba09e336) |
+| [三款浏览器游戏：Tripo 角色与 Astra 游戏代码](https://carpentry-liu.github.io/awesome-astra-3d/cases/routine-tripo-three-games/) | せなお / Routine labo / @rutinelabo | [原始来源](https://note.com/it_rutinelabo/n/n39c9019c2745) |
+| [DeepSeek 鲸鱼摆件：标志轮廓到可编辑打印网格](https://carpentry-liu.github.io/awesome-astra-3d/cases/shyrz-deepseek-whale-cad/) | Shyrz / shyrz | [源码](https://github.com/shyrz/gpt-6-astra-3dp-test) · [原始来源](https://linux.do/t/topic/2860014) |
+| [Guan’s Fencing Club：击剑录像、三维回放与剑尖轨迹](https://carpentry-liu.github.io/awesome-astra-3d/cases/samguan-fencing-replay/) | samguan2020 | [源码](https://github.com/samguan2020/guans-fencing-club) · [原始来源](https://github.com/samguan2020/guans-fencing-club) |
+| [Chess3D Astra：三维 / 二维国际象棋与本地电脑对手](https://carpentry-liu.github.io/awesome-astra-3d/cases/yortch-chess3dastra/) | yortch | [演示](https://yortch.github.io/chess3dastra/) · [源码](https://github.com/yortch/chess3dastra) · [原始来源](https://github.com/yortch/chess3dastra) |
+| [NVIDIA：从输送线过隙到 UR10 机械臂分拣](https://carpentry-liu.github.io/awesome-astra-3d/cases/nvidia-astra-conveyor-robotiq/) | Ashley Goldstein / NVIDIA Omniverse | [原始来源](https://nvidia-omniverse.github.io/omniverse-labs/projects/astra-vscode-simulation/) |
+| [Higgsfield × Astra：椭圆形办公室可重拍三维布景](https://carpentry-liu.github.io/awesome-astra-3d/cases/mashrabov-oval-office/) | Alex Mashrabov / Higgsfield | [原始来源](https://www.linkedin.com/posts/amashrabov_our-team-has-been-testing-gpt-6-astra-on-activity-7503945317143289856-L6x9) |
+| [ちいさな街工房：参数驱动的三维城镇与 GLB 导出](https://carpentry-liu.github.io/awesome-astra-3d/cases/miya-little-city-studio/) | miya / @miya00907380 | [演示](https://little-city-studio.miya333.chatgpt.site/) · [原始来源](https://note.com/miya19/n/nf759594eb209) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [分享素材与衡量说明](docs/sharing/README.md)

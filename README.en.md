@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-06 (Asia/Shanghai)** · **252 Astra examples** · **70 source / project links** · **95 demo links** · **113 complete videos** · **12 separate references**.
+Updated **2026-10-07 (Asia/Shanghai)** · **260 Astra examples** · **73 source / project links** · **97 demo links** · **118 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -44,18 +44,18 @@ Open an image for the case, materials and known limitations. This selection stay
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-06.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-07.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Production build screenshots from this October 6, 2026 iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Production build screenshots from this October 7, 2026 iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
-<summary>Gallery, mobile and case screenshots · October 6, 2026</summary>
+<summary>Gallery, mobile and case screenshots · October 7, 2026</summary>
 
-[![Gallery filters and more works](docs/media/collection-2026-10-06.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Gallery filters and more works](docs/media/collection-2026-10-07.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-10-06.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-10-07.jpg)
 
-[![Case page with materials, creator and evidence](docs/media/case-2026-10-06.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/anteloc-ldraw-nova-buildings/)
+[![Jill case page with complete footage and tool roles](docs/media/case-2026-10-07.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/852wa-jill-character/)
 
 </details>
 
@@ -66,14 +66,14 @@ Ordered by collection date, separate from each work's original publication and v
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [LDraw Nova — Cathedral and Tidal Observatory LEGO CAD](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/anteloc-ldraw-nova-buildings/) | Carlos Antelo / anteloc | [Source](https://github.com/anteloc/ldraw-nova) · [Original](https://news.ycombinator.com/item?id=49937916) |
-| [Renders — Four Blender Architecture Projects and Revision Archive](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lucas-chu-blender-architecture-archive/) | lucas-chu | [Source](https://github.com/lucas-chu/Renders) · [Original](https://github.com/lucas-chu/Renders) |
-| [MRI to a Physical Brain Model — Astra-Assisted 3D Printing](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/sourish-mri-brain/) | Sourish Sharma / @sourishsharma17 | [Original](https://x.com/sourishsharma17/status/2099981891512242496) |
-| [Meshy × Astra — Furniture Generation, Segmentation and Rotatable Catalog](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/meshy-furniture-catalog/) | MeshyAI / @MeshyAI | [Original](https://x.com/MeshyAI/status/2101683299550925127) |
-| [Roomplay — Home Walkthrough and Furniture Layout Prototype](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/humaid-roomplay/) | Humaid Hussain | [Original](https://www.linkedin.com/posts/humaidobaidhussain_in-the-past-7-days-ive-been-exploring-gpt-activity-7507717917245923328-fOrF) |
-| [Kureha Car Model — Slack, Blender, STL and a Physical Print](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/polta-kureha-car-print/) | POLTA編集部 / 株式会社POLTA | [Original](https://note.com/polta_company/n/nb39c09e80229) |
-| [Yozoneko — A Cat Illustration Turned into an Editable Blender Model](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/yakumo-yozoneko-blender/) | 八雲 / yakumo808 | [Original](https://note.com/yakumo808/n/n7ba490ff95ee) |
-| [Moonlit Pajamas — Procedural Blender Character and Review Journal](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ecooxai-moonlit-pajamas/) | ecooxai | [Source](https://github.com/ecooxai/gpt6-astra-pro-colabdev-blender-moonlit-pajamas) · [Original](https://github.com/ecooxai/gpt6-astra-pro-colabdev-blender-moonlit-pajamas) |
+| [Jill — Tripo Parts, Astra Repairs and Opus Motion](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/852wa-jill-character/) | 852話 / hakoniwa / @8co28 | [Original](https://note.com/852wa/n/nb681ba09e336) |
+| [Three Browser Games — Tripo Characters and Astra Game Code](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/routine-tripo-three-games/) | せなお / Routine labo / @rutinelabo | [Original](https://note.com/it_rutinelabo/n/n39c9019c2745) |
+| [DeepSeek Whale — Logo Silhouette to Editable Print Mesh](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/shyrz-deepseek-whale-cad/) | Shyrz / shyrz | [Source](https://github.com/shyrz/gpt-6-astra-3dp-test) · [Original](https://linux.do/t/topic/2860014) |
+| [Guan’s Fencing Club — Synchronized Fencing Replay and Sword-Tip Trails](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/samguan-fencing-replay/) | samguan2020 | [Source](https://github.com/samguan2020/guans-fencing-club) · [Original](https://github.com/samguan2020/guans-fencing-club) |
+| [Chess3D Astra — 3D / 2D Chess with a Local Computer Opponent](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/yortch-chess3dastra/) | yortch | [Demo](https://yortch.github.io/chess3dastra/) · [Source](https://github.com/yortch/chess3dastra) · [Original](https://github.com/yortch/chess3dastra) |
+| [NVIDIA — From Conveyor Gaps to UR10 Reject Sorting](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/nvidia-astra-conveyor-robotiq/) | Ashley Goldstein / NVIDIA Omniverse | [Original](https://nvidia-omniverse.github.io/omniverse-labs/projects/astra-vscode-simulation/) |
+| [Higgsfield × Astra — A Reshootable Oval Office 3D Set](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/mashrabov-oval-office/) | Alex Mashrabov / Higgsfield | [Original](https://www.linkedin.com/posts/amashrabov_our-team-has-been-testing-gpt-6-astra-on-activity-7503945317143289856-L6x9) |
+| [Little City Studio — Parametric 3D Towns and GLB Export](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/miya-little-city-studio/) | miya / @miya00907380 | [Demo](https://little-city-studio.miya333.chatgpt.site/) · [Original](https://note.com/miya19/n/nf759594eb209) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Sharing materials and measurement](docs/sharing/README.md)

@@ -2222,6 +2222,922 @@
           "reason": "Floor-plan house workflow already exists as gptblender-floor-plan-house; no new independent homepage example."
         }
       ]
+    },
+    {
+      "observedAt": "2026-10-07",
+      "timezone": "Asia/Shanghai",
+      "addedCaseIds": [
+        "852wa-jill-character",
+        "routine-tripo-three-games",
+        "shyrz-deepseek-whale-cad",
+        "samguan-fencing-replay",
+        "yortch-chess3dastra",
+        "nvidia-astra-conveyor-robotiq",
+        "mashrabov-oval-office",
+        "miya-little-city-studio"
+      ],
+      "channels": [
+        "GitHub",
+        "X",
+        "Reddit",
+        "LinkedIn",
+        "note",
+        "LINUX DO",
+        "Bilibili",
+        "小红书",
+        "Zenn",
+        "Qiita",
+        "作者网站"
+      ],
+      "coverageNotes": [
+        "264 historical records preserved unchanged; only incremental source checks, no complete historical audit claimed.",
+        "Eight distinct workflows; related character stages and three games from the same production writeup are consolidated.",
+        "Five full X clips and ten original/playback files passed duration, Content-Length, SHA-256 and strict full decode; previous 113 clips are preserved.",
+        "Actual output images inspected; input-reference or promotional cover-only leads rejected.",
+        "Author publication dates stay distinct from October 7 collection; dates remain null for projects without exact evidence.",
+        "Astra, Luna, Opus, Sonnet, Tripo, DeepMotion, Higgsfield and NVIDIA library responsibilities explicitly separated.",
+        "Only GitHub Pages is published."
+      ],
+      "eastasiaCoverage": {
+        "date": "2026-10-07",
+        "timezone": "Asia/Shanghai",
+        "accepted": [
+          "852wa-jill-character",
+          "routine-tripo-three-games",
+          "shyrz-deepseek-whale-cad"
+        ],
+        "platforms": [
+          {
+            "platform": "note / 作者站",
+            "queries": [
+              "\"GPT-6 Astra\" \"3D\" site:note.com",
+              "\"GPT-6 Astra\" \"Tripo\" \"ゲーム\" site:note.com",
+              "site:rutinelabo.com \"月喰いの墓地\"",
+              "site:rutinelabo.com \"天空闘技場\"",
+              "site:rutinelabo.com \"Tripo\" \"3本\""
+            ],
+            "result": "核实 852話 10 月 6 日 Jill 混合角色流程与せなお 9 月 29 日三游戏流程，各合并为一条，补充真实网格/游戏画面和原帖影片。Maoku 10 月 1 日文章主要是 Opus 5.5 流程，含较早 Astra 展示，只作后续线索不当新 Astra 同日作品。"
+          },
+          {
+            "platform": "LINUX DO",
+            "queries": [
+              "\"GPT-6 Astra\" \"3D\" site:linux.do"
+            ],
+            "result": "读取 shyrz 的 9 月 5 日作者帖及链接仓库，核实 High 声明、真实预览、修正对照、STL/3MF/GLB/生成器，收录。正文公开读取可用，论坛 JSON 请求遇到 Cloudflare 验证，没有绕过。"
+          },
+          {
+            "platform": "Bilibili",
+            "queries": [
+              "\"GPT-6\" \"3D\" site:bilibili.com",
+              "\"GPT-6 Astra\" \"Blender\" site:bilibili.com"
+            ],
+            "result": "许多结果为已有记录或海外影片转载。两条未收录作者候选核实公开 view 与 videoshot API，均有实际 Blender 成果，但本轮未加：BV124aq6wEod 薛定谔船长（9 月 28 日）汤屋复刻，右侧封面为实际模型、左侧参考；BV1Nzb367Esr 灵姐说AI（9 月 8 日）科幻短片，封面与片中表现差异较大，只保留线索待独立效果图。网页抓取返回 412，未当成完成播放验证。"
+          },
+          {
+            "platform": "小红书",
+            "queries": [
+              "\"GPT-6\" \"3D\" site:xiaohongshu.com",
+              "\"GPT-6 Astra\" \"三维\" site:xiaohongshu.com"
+            ],
+            "result": "本次公开搜索没有返回可核查的作者声明与真实三维成果候选；不使用无结果作为平台没有作品的结论，不凑数。未使用登录、账号内容或发布工具。"
+          },
+          {
+            "platform": "知乎 / 掘金",
+            "queries": [
+              "\"GPT-6 Astra\" \"3D\" site:zhihu.com",
+              "\"GPT-6 Astra\" \"3D\" site:juejin.cn"
+            ],
+            "result": "本轮公开索引未返回满足独立原创作品、明确 Astra 声明与可见成果的强候选。"
+          },
+          {
+            "platform": "Zenn / Qiita",
+            "queries": [
+              "\"Astra\" \"3D\" site:qiita.com",
+              "\"Astra\" \"3D\" site:zenn.dev"
+            ],
+            "result": "本轮未发现可立即核实且超出现有作者案例的新三维作品；未将已有头像及建模文章重复收录。"
+          }
+        ],
+        "limits": "收录日期是今日，作者首次公开日期单独保留。未运行作者工程，未经独立打印、性能测试或三维动作质量验证。"
+      },
+      "projectsCoverage": [
+        {
+          "platform": "GitHub",
+          "queries": [
+            "\"GPT-6 Astra\" \"3D\" github",
+            "\"GPT-6 Astra\" \"Blender\" github",
+            "GitHub repositories updated sorting: GPT-6 Astra 3D / Blender / GPT6 Astra"
+          ],
+          "result": "Read original repositories and screenshots; retained two distinct public workflows. No upstream code executed."
+        },
+        {
+          "platform": "Chaos Blog / YouTube",
+          "queries": [
+            "Veras GPT-6 Astra September 2026"
+          ],
+          "result": "Primary blog dated 2026-09-29 verified model/tool division; actual output attribution still insufficient."
+        }
+      ],
+      "socialCoverage": {
+        "X": "Broad exact-model/date-filtered indexed searches on Blender and 3D, Sep27-Oct7; new Jill Oct6 original found and handed to eastasia agent for all X media. No other separate strong original X selected in this pass.",
+        "LinkedIn": "Four original posts retrieved directly (Pascalis CAD, Mashrabov OvalOffice, Chase sculpture, NVIDIA event). Exact JSON-LD publication times retained; relative indexed 1d/2w labels not used as dates. NVIDIA event led to original Ashley experiment article; actual still output inspected.",
+        "Reddit": "Recent Astra queries found existing Kaloyan photo benchmark and abstrakt Dot splat, vague model-choice discussions, and Tripo mixed-workflow reposts; no separately verified new author result selected.",
+        "Creator websites": "NVIDIA Omniverse original project article, actual 3D still, repository boundaries and media links checked. No code executed."
+      },
+      "rootCoverage": {
+        "queries": [
+          "GPT-6 Astra 3D October 7",
+          "GPT-6 Astra Blender October 6",
+          "GPT-6 Astra Three.js October",
+          "note miya city studio"
+        ],
+        "sources": [
+          "note author HTML",
+          "X FxTwitter metadata",
+          "author live demo"
+        ],
+        "notes": [
+          "Recent works retain actual first publication date; missing dates are null."
+        ]
+      },
+      "rejectedCandidates": [
+        {
+          "id": "lego-anything",
+          "url": "https://arxiv.org/abs/2609.36380",
+          "reason": "Already catalogued lego-anything-scene-reconstruction; Code4Scene also already catalogued."
+        },
+        {
+          "id": "chaos-veras",
+          "url": "https://blog.chaos.com/veras-adds-gpt-6-astra-and-claude-opus-5.5",
+          "reason": "Model-selector PNG is now reachable through blog.chaos.com/hubfs/Veras%205.2/veras-astra-models-blog.png (519001 bytes), downloaded/view_image 2000x1000. It shows 2D selected, primary source thumbnail matching large house image, and MODEL THIS button: this is input/reference and selector UI, not generated 3D output. Exclude unless official video output and model attribution can be examined."
+        },
+        {
+          "id": "daiwk-architectures",
+          "url": "https://github.com/daiwk/3d-architectures",
+          "reason": "Actual Notre Dame animated WebP downloaded/viewed; About says AI e.g. GPT 6 Astra, not per-building model assignment. Cannot assign every asset or reconstructed building to Astra without stronger evidence."
+        },
+        {
+          "id": "xinyu-threejs",
+          "url": "https://github.com/XinyuWang250428/gpt6-Astra_3.js",
+          "reason": "Six actual screenshot/standalone HTML scenes. Rice village screenshot downloaded/viewed, but current README/docs/description do not explicitly state model attribution beyond repo name, so hold."
+        },
+        {
+          "id": "ecoox-bust",
+          "url": "https://github.com/ecooxai/gpt6-astra-pro-mcp-colabdev-blender-rgirltophalf",
+          "reason": "README explicitly GPT-6 Astra Pro; status six subjective iterations 46→58→61→55→62→68, not target 95 or 20000 iterations. Need visible output download and potential overlap with existing FORM character study before retaining."
+        },
+        {
+          "id": "neon-kick",
+          "url": "https://github.com/andrey-rsantos/neon-kick",
+          "reason": "Explicit Astra car football coding plus final Sonnet 5 polish, but current README has no actual media. No third-party source execution for research; hold until visible output."
+        },
+        {
+          "sourceUrl": "https://www.linkedin.com/posts/trentsios_gpt6astra-openai-nvidiaomniverse-activity-7512753640504483840-Xzhx",
+          "reason": "Fresh Oct5 original author CAD assembly confirmed in 18-second source video frames at5/10/15sec; public thumbnail only DGX payload product shell rather than final robot. No public external robot result image identified, therefore not added until qualified output cover available. Author has not built physical robot; manufacturing claims unverified."
+        },
+        {
+          "sourceUrl": "https://www.linkedin.com/posts/chasehannegan_most-ai-websites-look-like-slop-a-stock-activity-7505989096452939776-gdnH",
+          "reason": "Sep16 actual sculpture geometry-to-web comparison visible; qualified future lead but not selected after two clearer fully checked outcomes. Public repo/demo not located, YouTube full process not inspected, cover large ASTRA headline; no claim actual full workflow independently validated."
+        },
+        {
+          "sourceUrl": "https://www.linkedin.com/posts/nvidia-omniverse_were-experimenting-with-openais-gpt-6-astra-activity-7510780434218336259-89kn",
+          "reason": "Sep30 event announcement itself is not a new original result. Its comments led to qualified Ashley article; event not a separate case."
+        },
+        {
+          "sourceUrl": "https://www.reddit.com/r/OpenAI/comments/1wvfapq/used_gpt6_astra_to_recreate_an_agent_dot_as_a_3d/",
+          "reason": "Already collected abstrakt-agent-dot-splat."
+        },
+        {
+          "sourceUrl": "https://www.reddit.com/r/ChatGPT/comments/1wvqlwh/i_asked_14_ai_models_to_rebuild_this_photo_in/",
+          "reason": "Already collected kaloyan-photo-blender-benchmark."
+        },
+        {
+          "sourceUrl": "https://aitechinsights.net/posts/agentic-orchestration-of-3d-production-pipelines-a-deep-dive/",
+          "reason": "Generic secondary explanation of existing Zillow reconstruction; no independently identified new output."
+        }
+      ],
+      "incrementalLinkAudit": {
+        "checkedAt": "2026-10-07",
+        "timezone": "Asia/Shanghai",
+        "scope": "Incremental checks for the 8 proposed new cases only. Existing 264 cases were not refreshed or re-audited.",
+        "baselineCases": 264,
+        "inputs": [
+          {
+            "path": "work\\refresh-2026-10-07\\projects-research.json",
+            "caseIds": [
+              "samguan-fencing-replay",
+              "yortch-chess3dastra"
+            ]
+          },
+          {
+            "path": "work\\refresh-2026-10-07\\eastasia-research.json",
+            "caseIds": [
+              "852wa-jill-character",
+              "routine-tripo-three-games",
+              "shyrz-deepseek-whale-cad"
+            ]
+          },
+          {
+            "path": "work\\refresh-2026-10-07\\root-research.json",
+            "caseIds": [
+              "miya-little-city-studio"
+            ]
+          },
+          {
+            "path": "work\\refresh-2026-10-07\\social-research.json",
+            "caseIds": [
+              "nvidia-astra-conveyor-robotiq",
+              "mashrabov-oval-office"
+            ]
+          }
+        ],
+        "caseCount": 8,
+        "uniqueUrls": 23,
+        "fullGetCount": 22,
+        "imageCount": 8,
+        "validImageCount": 8,
+        "blockers": [],
+        "accessLimitations": [
+          {
+            "url": "https://linux.do/t/topic/2860014",
+            "usedBy": [
+              {
+                "caseId": "shyrz-deepseek-whale-cad",
+                "field": "sourceUrl"
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": false,
+            "status": 403,
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 6954,
+            "error": "HTTP Error 403: Forbidden",
+            "attempt": 1,
+            "retrievalSucceeded": false,
+            "elapsedSeconds": 1.687,
+            "capturedAtUtc": "2026-10-07T05:10:26.773152+00:00",
+            "severity": "ACCESS_LIMITATION"
+          }
+        ],
+        "brokenOrUnverified": [],
+        "results": [
+          {
+            "url": "https://github.com/samguan2020/guans-fencing-club",
+            "usedBy": [
+              {
+                "caseId": "samguan-fencing-replay",
+                "field": "sourceUrl"
+              },
+              {
+                "caseId": "samguan-fencing-replay",
+                "field": "repositoryUrl"
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": true,
+            "status": 200,
+            "finalUrl": "https://github.com/samguan2020/guans-fencing-club",
+            "contentType": "text/html; charset=utf-8",
+            "bytes": 371824,
+            "contentLength": null,
+            "sha256": "26c11bebc0a2fa4409a8b54aba22102457af0025bda743c8fd74a92c2ee991f5",
+            "attempt": 1,
+            "lfsPointer": false,
+            "retrievalSucceeded": true,
+            "htmlTitle": "GitHub - samguan2020/guans-fencing-club: Integrating Codex, GPT-6 Astra, DeepMotion, Blender, and UE5 into a synchronized 3D fencing replay with sword-tip histories · GitHub",
+            "possibleAccessChallenge": false,
+            "elapsedSeconds": 8.875,
+            "capturedAtUtc": "2026-10-07T05:10:25.090056+00:00",
+            "severity": "OK"
+          },
+          {
+            "url": "https://raw.githubusercontent.com/samguan2020/guans-fencing-club/main/docs/assets/tip-trails.png",
+            "usedBy": [
+              {
+                "caseId": "samguan-fencing-replay",
+                "field": "imageUrl"
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": true,
+            "status": 200,
+            "finalUrl": "https://raw.githubusercontent.com/samguan2020/guans-fencing-club/main/docs/assets/tip-trails.png",
+            "contentType": "image/png",
+            "bytes": 1531435,
+            "contentLength": "1531435",
+            "sha256": "a377a96c3a5989a4b642f3bd7643f31990377a160f47f59a70fb70d73f339305",
+            "attempt": 1,
+            "lfsPointer": false,
+            "retrievalSucceeded": true,
+            "imageFormat": "PNG",
+            "width": 1440,
+            "height": 900,
+            "imageDecodeExit": 0,
+            "validImage": true,
+            "elapsedSeconds": 18.844,
+            "capturedAtUtc": "2026-10-07T05:10:35.052466+00:00",
+            "severity": "OK"
+          },
+          {
+            "url": "https://github.com/yortch/chess3dastra",
+            "usedBy": [
+              {
+                "caseId": "yortch-chess3dastra",
+                "field": "sourceUrl"
+              },
+              {
+                "caseId": "yortch-chess3dastra",
+                "field": "repositoryUrl"
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": true,
+            "status": 200,
+            "finalUrl": "https://github.com/yortch/chess3dastra",
+            "contentType": "text/html; charset=utf-8",
+            "bytes": 303154,
+            "contentLength": null,
+            "sha256": "ba86d10685d63a4e6d73e9119432798d6057fb2422e841b5defb0788b826a7a0",
+            "attempt": 1,
+            "lfsPointer": false,
+            "retrievalSucceeded": true,
+            "htmlTitle": "GitHub - yortch/chess3dastra: 3D/2D chess vs computer AI - built end-to-end by GPT-6-Astra in GitHub Copilot · GitHub",
+            "possibleAccessChallenge": false,
+            "elapsedSeconds": 7.375,
+            "capturedAtUtc": "2026-10-07T05:10:23.580572+00:00",
+            "severity": "OK"
+          },
+          {
+            "url": "https://raw.githubusercontent.com/yortch/chess3dastra/main/docs/screenshots/3d-dark.png",
+            "usedBy": [
+              {
+                "caseId": "yortch-chess3dastra",
+                "field": "imageUrl"
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": true,
+            "status": 200,
+            "finalUrl": "https://raw.githubusercontent.com/yortch/chess3dastra/main/docs/screenshots/3d-dark.png",
+            "contentType": "image/png",
+            "bytes": 144142,
+            "contentLength": "144142",
+            "sha256": "24cb963695d8a50b587c65de5d22ec81a82ca12181727df193baa335f387771e",
+            "attempt": 1,
+            "lfsPointer": false,
+            "retrievalSucceeded": true,
+            "imageFormat": "PNG",
+            "width": 1440,
+            "height": 960,
+            "imageDecodeExit": 0,
+            "validImage": true,
+            "elapsedSeconds": 2.547,
+            "capturedAtUtc": "2026-10-07T05:10:18.752339+00:00",
+            "severity": "OK"
+          },
+          {
+            "url": "https://yortch.github.io/chess3dastra/",
+            "usedBy": [
+              {
+                "caseId": "yortch-chess3dastra",
+                "field": "demoUrl"
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": true,
+            "status": 200,
+            "finalUrl": "https://yortch.github.io/chess3dastra/",
+            "contentType": "text/html; charset=utf-8",
+            "bytes": 657355,
+            "contentLength": "657355",
+            "sha256": "9645dd148c4f84b9da199e43767169f08043a18402beb242d822a17c9a50bbf6",
+            "attempt": 1,
+            "lfsPointer": false,
+            "retrievalSucceeded": true,
+            "htmlTitle": "Field 64 / Local 3D Chess",
+            "possibleAccessChallenge": false,
+            "elapsedSeconds": 6.046,
+            "capturedAtUtc": "2026-10-07T05:10:22.274624+00:00",
+            "severity": "OK"
+          },
+          {
+            "url": "https://raw.githubusercontent.com/yortch/chess3dastra/main/src/app.js",
+            "usedBy": [
+              {
+                "caseId": "yortch-chess3dastra",
+                "field": "engineeringEvidence",
+                "authorProvidedUrl": "https://github.com/yortch/chess3dastra/blob/main/src/app.js",
+                "rawCounterpart": true
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": true,
+            "status": 200,
+            "finalUrl": "https://raw.githubusercontent.com/yortch/chess3dastra/main/src/app.js",
+            "contentType": "text/plain; charset=utf-8",
+            "bytes": 22565,
+            "contentLength": "22565",
+            "sha256": "2c2bdc4588fceb7d91fae23b2c0125d1c6a6fd3eeb1013ddd638112f7d6c2301",
+            "attempt": 1,
+            "lfsPointer": false,
+            "retrievalSucceeded": true,
+            "elapsedSeconds": 1.656,
+            "capturedAtUtc": "2026-10-07T05:10:17.882360+00:00",
+            "severity": "OK"
+          },
+          {
+            "url": "https://note.com/852wa/n/nb681ba09e336",
+            "usedBy": [
+              {
+                "caseId": "852wa-jill-character",
+                "field": "sourceUrl"
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": true,
+            "status": 200,
+            "finalUrl": "https://note.com/852wa/n/nb681ba09e336",
+            "contentType": "text/html; charset=utf-8",
+            "bytes": 565889,
+            "contentLength": null,
+            "sha256": "17089cc4073a2af3b9f6394794649a50720abbfe38eb0002e152555bd111151f",
+            "attempt": 1,
+            "lfsPointer": false,
+            "retrievalSucceeded": true,
+            "htmlTitle": "AIで3Dキャラクターモデル制作記録｜Claude Opus 5.5とGPT-6 Astra、TripoでJillを動かすまで｜852話",
+            "possibleAccessChallenge": false,
+            "elapsedSeconds": 18.234,
+            "capturedAtUtc": "2026-10-07T05:10:36.118639+00:00",
+            "severity": "OK"
+          },
+          {
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2107273036122738688/img/j5Ybmyxp1PhINvBa.jpg",
+            "usedBy": [
+              {
+                "caseId": "852wa-jill-character",
+                "field": "imageUrl"
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": true,
+            "status": 200,
+            "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2107273036122738688/img/j5Ybmyxp1PhINvBa.jpg",
+            "contentType": "image/jpeg",
+            "bytes": 64496,
+            "contentLength": "64496",
+            "sha256": "5f612e018deed819b153f49bdc0d61d1e10a6b1eebf22b88db45e98d5be584a4",
+            "attempt": 1,
+            "lfsPointer": false,
+            "retrievalSucceeded": true,
+            "imageFormat": "JPEG",
+            "width": 675,
+            "height": 1200,
+            "imageDecodeExit": 0,
+            "validImage": true,
+            "elapsedSeconds": 11.75,
+            "capturedAtUtc": "2026-10-07T05:10:30.503278+00:00",
+            "severity": "OK"
+          },
+          {
+            "url": "https://note.com/it_rutinelabo/n/n39c9019c2745",
+            "usedBy": [
+              {
+                "caseId": "routine-tripo-three-games",
+                "field": "sourceUrl"
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": true,
+            "status": 200,
+            "finalUrl": "https://note.com/it_rutinelabo/n/n39c9019c2745",
+            "contentType": "text/html; charset=utf-8",
+            "bytes": 541284,
+            "contentLength": null,
+            "sha256": "c84686d873dbcb88dce6c124dc0660e91963df89633385641a03291b518ef4e1",
+            "attempt": 1,
+            "lfsPointer": false,
+            "retrievalSucceeded": true,
+            "htmlTitle": "AIだけで3Dゲームを3本作った｜Tripoでキャラを作ってGPT-6 Astraに遊べる形にした話｜せなお",
+            "possibleAccessChallenge": false,
+            "elapsedSeconds": 14.954,
+            "capturedAtUtc": "2026-10-07T05:10:37.221277+00:00",
+            "severity": "OK"
+          },
+          {
+            "url": "https://assets.st-note.com/img/1790550577-rVxfn5KXMlQGDqP1eYUFC8dp.png?width=1200",
+            "usedBy": [
+              {
+                "caseId": "routine-tripo-three-games",
+                "field": "imageUrl"
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": true,
+            "status": 200,
+            "finalUrl": "https://assets.st-note.com/img/1790550577-rVxfn5KXMlQGDqP1eYUFC8dp.png?width=1200",
+            "contentType": "image/png",
+            "bytes": 255053,
+            "contentLength": "255053",
+            "sha256": "0bb960c4fb17221fb9d93f697822f60d399aba0680b46362398daaa38667c6fd",
+            "attempt": 1,
+            "lfsPointer": false,
+            "retrievalSucceeded": true,
+            "imageFormat": "PNG",
+            "width": 1200,
+            "height": 675,
+            "imageDecodeExit": 0,
+            "validImage": true,
+            "elapsedSeconds": 2.516,
+            "capturedAtUtc": "2026-10-07T05:10:26.093806+00:00",
+            "severity": "OK"
+          },
+          {
+            "url": "https://linux.do/t/topic/2860014",
+            "usedBy": [
+              {
+                "caseId": "shyrz-deepseek-whale-cad",
+                "field": "sourceUrl"
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": false,
+            "status": 403,
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 6954,
+            "error": "HTTP Error 403: Forbidden",
+            "attempt": 1,
+            "retrievalSucceeded": false,
+            "elapsedSeconds": 1.687,
+            "capturedAtUtc": "2026-10-07T05:10:26.773152+00:00",
+            "severity": "ACCESS_LIMITATION"
+          },
+          {
+            "url": "https://raw.githubusercontent.com/shyrz/gpt-6-astra-3dp-test/02938ed9ab87a1719043c8db151eac75f5b578b3/models/preview-smooth.png",
+            "usedBy": [
+              {
+                "caseId": "shyrz-deepseek-whale-cad",
+                "field": "imageUrl"
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": true,
+            "status": 200,
+            "finalUrl": "https://raw.githubusercontent.com/shyrz/gpt-6-astra-3dp-test/02938ed9ab87a1719043c8db151eac75f5b578b3/models/preview-smooth.png",
+            "contentType": "image/png",
+            "bytes": 254779,
+            "contentLength": "254779",
+            "sha256": "7dd4573b4bd81df12a4abafeda429c6282bf2081b91f27eb486e61e2eb26a3ee",
+            "attempt": 1,
+            "lfsPointer": false,
+            "retrievalSucceeded": true,
+            "imageFormat": "PNG",
+            "width": 2250,
+            "height": 1320,
+            "imageDecodeExit": 0,
+            "validImage": true,
+            "elapsedSeconds": 4.625,
+            "capturedAtUtc": "2026-10-07T05:10:30.719860+00:00",
+            "severity": "OK"
+          },
+          {
+            "url": "https://github.com/shyrz/gpt-6-astra-3dp-test",
+            "usedBy": [
+              {
+                "caseId": "shyrz-deepseek-whale-cad",
+                "field": "repositoryUrl"
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": true,
+            "status": 200,
+            "finalUrl": "https://github.com/shyrz/gpt-6-astra-3dp-test",
+            "contentType": "text/html; charset=utf-8",
+            "bytes": 273399,
+            "contentLength": null,
+            "sha256": "fcd562617ed2bc5a23d3a8d66477bded086dda0544e114d2672366beb8597870",
+            "attempt": 1,
+            "lfsPointer": false,
+            "retrievalSucceeded": true,
+            "htmlTitle": "GitHub - shyrz/gpt-6-astra-3dp-test · GitHub",
+            "possibleAccessChallenge": false,
+            "elapsedSeconds": 6.766,
+            "capturedAtUtc": "2026-10-07T05:10:33.540697+00:00",
+            "severity": "OK"
+          },
+          {
+            "url": "https://raw.githubusercontent.com/shyrz/gpt-6-astra-3dp-test/02938ed9ab87a1719043c8db151eac75f5b578b3/src/build_model.py",
+            "usedBy": [
+              {
+                "caseId": "shyrz-deepseek-whale-cad",
+                "field": "engineeringEvidence",
+                "authorProvidedUrl": "https://github.com/shyrz/gpt-6-astra-3dp-test/blob/02938ed9ab87a1719043c8db151eac75f5b578b3/src/build_model.py",
+                "rawCounterpart": true
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": true,
+            "status": 200,
+            "finalUrl": "https://raw.githubusercontent.com/shyrz/gpt-6-astra-3dp-test/02938ed9ab87a1719043c8db151eac75f5b578b3/src/build_model.py",
+            "contentType": "text/plain; charset=utf-8",
+            "bytes": 14121,
+            "contentLength": "14121",
+            "sha256": "01d2b78699007cb75a0842d4c088e7c6efc1cb5f6f9e406d2758d43423dc8ee6",
+            "attempt": 1,
+            "lfsPointer": false,
+            "retrievalSucceeded": true,
+            "elapsedSeconds": 1.031,
+            "capturedAtUtc": "2026-10-07T05:10:31.538394+00:00",
+            "severity": "OK"
+          },
+          {
+            "url": "https://raw.githubusercontent.com/shyrz/gpt-6-astra-3dp-test/02938ed9ab87a1719043c8db151eac75f5b578b3/models/deepseek-whale-smooth.stl",
+            "usedBy": [
+              {
+                "caseId": "shyrz-deepseek-whale-cad",
+                "field": "engineeringEvidence",
+                "authorProvidedUrl": "https://github.com/shyrz/gpt-6-astra-3dp-test/blob/02938ed9ab87a1719043c8db151eac75f5b578b3/models/deepseek-whale-smooth.stl",
+                "rawCounterpart": true
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": true,
+            "status": 200,
+            "finalUrl": "https://raw.githubusercontent.com/shyrz/gpt-6-astra-3dp-test/02938ed9ab87a1719043c8db151eac75f5b578b3/models/deepseek-whale-smooth.stl",
+            "contentType": "application/octet-stream",
+            "bytes": 8000084,
+            "contentLength": "8000084",
+            "sha256": "611ed10e2c9af7bc702145ed9ba39db0e4aa5998dbb4935b520d7e9527cf9165",
+            "attempt": 1,
+            "lfsPointer": false,
+            "retrievalSucceeded": true,
+            "elapsedSeconds": 15.921,
+            "capturedAtUtc": "2026-10-07T05:10:46.642253+00:00",
+            "severity": "OK"
+          },
+          {
+            "url": "https://raw.githubusercontent.com/shyrz/gpt-6-astra-3dp-test/02938ed9ab87a1719043c8db151eac75f5b578b3/models/deepseek-whale-smooth.3mf",
+            "usedBy": [
+              {
+                "caseId": "shyrz-deepseek-whale-cad",
+                "field": "engineeringEvidence",
+                "authorProvidedUrl": "https://github.com/shyrz/gpt-6-astra-3dp-test/blob/02938ed9ab87a1719043c8db151eac75f5b578b3/models/deepseek-whale-smooth.3mf",
+                "rawCounterpart": true
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": true,
+            "status": 200,
+            "finalUrl": "https://raw.githubusercontent.com/shyrz/gpt-6-astra-3dp-test/02938ed9ab87a1719043c8db151eac75f5b578b3/models/deepseek-whale-smooth.3mf",
+            "contentType": "application/octet-stream",
+            "bytes": 3402566,
+            "contentLength": "3402566",
+            "sha256": "6eb00129aa6b28ca1b6c156668cd0abd423978988a7f4d27ad2026cc728ee92a",
+            "attempt": 1,
+            "lfsPointer": false,
+            "retrievalSucceeded": true,
+            "elapsedSeconds": 6.813,
+            "capturedAtUtc": "2026-10-07T05:10:38.347597+00:00",
+            "severity": "OK"
+          },
+          {
+            "url": "https://note.com/miya19/n/nf759594eb209",
+            "usedBy": [
+              {
+                "caseId": "miya-little-city-studio",
+                "field": "sourceUrl"
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": true,
+            "status": 200,
+            "finalUrl": "https://note.com/miya19/n/nf759594eb209",
+            "contentType": "text/html; charset=utf-8",
+            "bytes": 382869,
+            "contentLength": null,
+            "sha256": "d43609f14e97cae2a56cba539305fc45a1a9e0dd0d5e9446c94b7a5c59b5202e",
+            "attempt": 1,
+            "lfsPointer": false,
+            "retrievalSucceeded": true,
+            "htmlTitle": "【ちいさな街工房】プロシージャル3D街の生成ツールを公開【GPT-6 Astra】｜miya",
+            "possibleAccessChallenge": false,
+            "elapsedSeconds": 7.422,
+            "capturedAtUtc": "2026-10-07T05:10:40.966127+00:00",
+            "severity": "OK"
+          },
+          {
+            "url": "https://assets.st-note.com/production/uploads/images/319823298/rectangle_large_type_2_6f3efc6d29c72223926bcb6728e99e58.png?width=1200",
+            "usedBy": [
+              {
+                "caseId": "miya-little-city-studio",
+                "field": "imageUrl"
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": true,
+            "status": 200,
+            "finalUrl": "https://assets.st-note.com/production/uploads/images/319823298/rectangle_large_type_2_6f3efc6d29c72223926bcb6728e99e58.png?width=1200",
+            "contentType": "image/png",
+            "bytes": 236552,
+            "contentLength": "236552",
+            "sha256": "a0cfa875d242a443c300113e6215f90a20e4fb2445a1c787bd08d32c79eb203e",
+            "attempt": 1,
+            "lfsPointer": false,
+            "retrievalSucceeded": true,
+            "imageFormat": "PNG",
+            "width": 1200,
+            "height": 628,
+            "imageDecodeExit": 0,
+            "validImage": true,
+            "elapsedSeconds": 2.64,
+            "capturedAtUtc": "2026-10-07T05:10:37.702284+00:00",
+            "severity": "OK"
+          },
+          {
+            "url": "https://little-city-studio.miya333.chatgpt.site/",
+            "usedBy": [
+              {
+                "caseId": "miya-little-city-studio",
+                "field": "demoUrl"
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": true,
+            "status": 200,
+            "finalUrl": "https://little-city-studio.miya333.chatgpt.site/",
+            "contentType": "text/html",
+            "bytes": 1700,
+            "contentLength": null,
+            "sha256": "7eaa3f7e5305772a0fd66518de4261fcf159a01f2a9b3b2feca22ea1e8225a5e",
+            "attempt": 1,
+            "lfsPointer": false,
+            "retrievalSucceeded": true,
+            "htmlTitle": "ちいさな街工房 — Little City Studio",
+            "possibleAccessChallenge": false,
+            "elapsedSeconds": 6.422,
+            "capturedAtUtc": "2026-10-07T05:10:42.542513+00:00",
+            "severity": "OK"
+          },
+          {
+            "url": "https://nvidia-omniverse.github.io/omniverse-labs/projects/astra-vscode-simulation/",
+            "usedBy": [
+              {
+                "caseId": "nvidia-astra-conveyor-robotiq",
+                "field": "sourceUrl"
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": true,
+            "status": 200,
+            "finalUrl": "https://nvidia-omniverse.github.io/omniverse-labs/projects/astra-vscode-simulation/",
+            "contentType": "text/html; charset=utf-8",
+            "bytes": 33825,
+            "contentLength": "33825",
+            "sha256": "dd6bb7af99ddca307e3aadfc4bc567aade9718aa7d1a20d15c8d2321c1432bcc",
+            "attempt": 1,
+            "lfsPointer": false,
+            "retrievalSucceeded": true,
+            "htmlTitle": "Build and Debug a Simulation in VS Code with GPT-6 Astra and Omniverse Libraries — Omniverse Labs",
+            "possibleAccessChallenge": false,
+            "elapsedSeconds": 1.343,
+            "capturedAtUtc": "2026-10-07T05:10:38.573051+00:00",
+            "severity": "OK"
+          },
+          {
+            "url": "https://nvidia-omniverse.github.io/omniverse-labs/assets/images/card-astra-vscode-simulation.jpg",
+            "usedBy": [
+              {
+                "caseId": "nvidia-astra-conveyor-robotiq",
+                "field": "imageUrl"
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": true,
+            "status": 200,
+            "finalUrl": "https://nvidia-omniverse.github.io/omniverse-labs/assets/images/card-astra-vscode-simulation.jpg",
+            "contentType": "image/jpeg",
+            "bytes": 24046,
+            "contentLength": "24046",
+            "sha256": "4ff60cb3ce3b99377ff975f411180f8aa44e513f0bb7898a0158ca1fe3d0bf58",
+            "attempt": 1,
+            "lfsPointer": false,
+            "retrievalSucceeded": true,
+            "imageFormat": "JPEG",
+            "width": 624,
+            "height": 351,
+            "imageDecodeExit": 0,
+            "validImage": true,
+            "elapsedSeconds": 0.875,
+            "capturedAtUtc": "2026-10-07T05:10:38.575523+00:00",
+            "severity": "OK"
+          },
+          {
+            "url": "https://www.linkedin.com/posts/amashrabov_our-team-has-been-testing-gpt-6-astra-on-activity-7503945317143289856-L6x9",
+            "usedBy": [
+              {
+                "caseId": "mashrabov-oval-office",
+                "field": "sourceUrl"
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": true,
+            "status": 200,
+            "finalUrl": "https://www.linkedin.com/posts/amashrabov_our-team-has-been-testing-gpt-6-astra-on-activity-7503945317143289856-L6x9",
+            "contentType": "text/html; charset=utf-8",
+            "bytes": 364665,
+            "contentLength": null,
+            "sha256": "aa0e2ad0d58193ed8533084105bc6371d2d3b66be43b1e9c00dbfef5ae3ffc9f",
+            "attempt": 1,
+            "lfsPointer": false,
+            "retrievalSucceeded": true,
+            "htmlTitle": "GPT-6 Astra Boosts 3D Scene Creation with Higgsfield | Alex Mashrabov posted on the topic | LinkedIn",
+            "possibleAccessChallenge": false,
+            "elapsedSeconds": 9.921,
+            "capturedAtUtc": "2026-10-07T05:10:48.276126+00:00",
+            "severity": "OK"
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5605AQEGJc8RhcvirA/videocover-high/B56aCNeeEcHkBM-/0/1789079973198?e=2147483647&v=beta&t=nOXlVE39aasRJtquxfcL0xtPsjsKffpVMRGvum7GlLQ",
+            "usedBy": [
+              {
+                "caseId": "mashrabov-oval-office",
+                "field": "imageUrl"
+              }
+            ],
+            "checkedAt": "2026-10-07",
+            "timezone": "Asia/Shanghai",
+            "method": "GET",
+            "fullBodyRead": true,
+            "status": 200,
+            "finalUrl": "https://media.licdn.com/dms/image/v2/D5605AQEGJc8RhcvirA/videocover-high/B56aCNeeEcHkBM-/0/1789079973198?e=2147483647&v=beta&t=nOXlVE39aasRJtquxfcL0xtPsjsKffpVMRGvum7GlLQ",
+            "contentType": "image/jpeg",
+            "bytes": 48645,
+            "contentLength": "48645",
+            "sha256": "f97e4554c84780b136fdee3b2ad79ce0763a89279052aceeb84e0901680903c7",
+            "attempt": 1,
+            "lfsPointer": false,
+            "retrievalSucceeded": true,
+            "imageFormat": "JPEG",
+            "width": 720,
+            "height": 720,
+            "imageDecodeExit": 0,
+            "validImage": true,
+            "elapsedSeconds": 1.36,
+            "capturedAtUtc": "2026-10-07T05:10:39.934969+00:00",
+            "severity": "OK"
+          }
+        ],
+        "limitations": [
+          "HTTP success is source retrieval evidence, not independent project execution or successful interactive demo use.",
+          "Original-post/platform 403 or 412 responses are retained as access limitations and never represented as playable media.",
+          "Engineering evidence uses public raw equivalents of the exact author-provided GitHub blob links; these files were read but not executed."
+        ]
+      }
     }
   ]
 }
