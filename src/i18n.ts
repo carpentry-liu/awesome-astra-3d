@@ -131,6 +131,7 @@ export const messages = {
     notSourceDate: '不等同原帖日期',
     supporting: '佐证',
     prompt: '提示词与过程',
+    outcome: '观察与局限',
     excerpt: '原文短摘 · 完整上下文见来源',
     promptLinked: '参考页面有提示词或任务说明，本库未复制完整内容。',
     noPrompt: '未找到公开提示词，不补写或推断。',
@@ -277,6 +278,7 @@ export const messages = {
     notSourceDate: 'not the original post date',
     supporting: 'Evidence',
     prompt: 'Prompt & process',
+    outcome: 'Observations & limitations',
     excerpt: 'Short source excerpt · Visit the source for context',
     promptLinked:
       'The linked page has a prompt or task description. The full text is not copied here.',

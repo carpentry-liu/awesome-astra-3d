@@ -1,6 +1,33 @@
 @import 'tailwindcss';
 @import 'tw-animate-css';
-@import 'shadcn/tailwind.css';
+@custom-variant data-open {
+  &:where([data-state='open']),
+  &:where([data-open]:not([data-open='false'])) {
+    @slot;
+  }
+}
+@custom-variant data-closed {
+  &:where([data-state='closed']),
+  &:where([data-closed]:not([data-closed='false'])) {
+    @slot;
+  }
+}
+@custom-variant data-active {
+  &:where([data-state='active']),
+  &:where([data-active]:not([data-active='false'])) {
+    @slot;
+  }
+}
+@custom-variant data-horizontal {
+  &:where([data-orientation='horizontal']) {
+    @slot;
+  }
+}
+@custom-variant data-vertical {
+  &:where([data-orientation='vertical']) {
+    @slot;
+  }
+}
 @custom-variant dark (&:is(.dark *));
 @theme inline {
   --color-background: var(--background);
@@ -108,13 +135,6 @@ main {
 .masthead nav a:hover {
   color: var(--primary);
 }
-.intro {
-  padding: 42px 0 38px;
-  display: flex;
-  justify-content: space-between;
-  gap: 40px;
-  align-items: flex-end;
-}
 .eyebrow {
   font-family: Consolas, monospace;
   font-size: 12px;
@@ -141,37 +161,6 @@ h1 {
 h1 > span {
   color: var(--primary);
 }
-.intro-copy {
-  margin: 18px 0 0;
-  color: #abb3c0;
-  font-size: 16px;
-}
-.edition {
-  border-left: 1px solid var(--border);
-  padding-left: 30px;
-  min-width: 215px;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-.edition > span {
-  font-family: Consolas, monospace;
-  font-size: 12px;
-  color: #9aa6b8;
-  letter-spacing: 0.04em;
-}
-.edition strong {
-  font-size: 23px;
-  line-height: 1.45;
-  font-weight: 500;
-}
-.edition a {
-  font-size: 14px;
-  display: flex;
-  gap: 30px;
-  align-items: center;
-  margin-top: 10px;
-}
 .collection {
   border-top: 1px solid var(--border);
   padding-top: 22px;
@@ -191,14 +180,6 @@ h1 > span {
   font-size: 17px;
   font-weight: 500;
   margin: 0;
-}
-.count {
-  font-family: Consolas, monospace;
-  font-size: 12px;
-  padding: 0 7px;
-  border: 1px solid #394453;
-  color: #a5b4c7;
-  border-radius: 4px;
 }
 .search {
   display: flex;
@@ -350,9 +331,6 @@ footer p {
   .case-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
-  .edition {
-    min-width: 190px;
-  }
 }
 @media (max-width: 640px) {
   main {
@@ -378,19 +356,9 @@ footer p {
   .masthead nav svg:last-child {
     display: none;
   }
-  .intro {
-    padding: 36px 0 30px;
-  }
-  .intro-copy {
-    font-size: 16px;
-    max-width: 290px;
-  }
   .eyebrow {
     font-size: 12px;
     letter-spacing: 0.025em;
-  }
-  .edition {
-    display: none;
   }
   .collection-head {
     align-items: flex-start;

@@ -76,7 +76,7 @@
 | [Villa Jelly：热带别墅、果冻海与双模型对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-villa-jelly/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2107617244301664483) |
 <!-- atlas:latest:end -->
 
-[完整更新目录 →](UPDATES.md) · [分享素材与衡量说明](docs/sharing/README.md)
+[完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)
 
 ## 每条记录都能追溯
 
@@ -93,24 +93,25 @@
 
 ## 本地运行与部署
 
-使用 Node.js 22.13+，推荐 22.22.0。静态案例站不需要 API Key。
+使用 Node.js 22.22.0+，推荐 `.node-version` 固定的 22.22.0。静态案例站不需要 API Key。
 
 ```sh
 git clone https://github.com/carpentry-liu/awesome-astra-3d.git
 cd awesome-astra-3d
 npm ci
-npm run dev
+npm run dev     # 开发 React 首页
 ```
 
 ```sh
 npm run check    # 数据、筛选行为、TypeScript
 npm run lint
 npm run build    # 同步目录并输出 dist/client
+npm start        # 构建后预览 dist/client，默认端口 4173
 ```
 
-Windows Node 24+ 构建会自动使用官方 npm 发行的 Node 22.22.0，以兼容预渲染退出流程。更改 `data/cases.json` 后运行 `npm run catalog`，即可同步中英文统计、最新收录、目录、公开 JSON 与 sitemap。
+独立 `/cases/`、专题和目录页面由构建生成，使用 `npm run build` 后的 `npm start` 检查。Windows Node 24+ 构建会自动使用官方 npm 发行的 Node 22.22.0，以兼容预渲染退出流程。更改 `data/cases.json` 后运行 `npm run catalog`，即可同步中英文统计、最新收录、目录、公开 JSON 与 sitemap。
 
-**公开演示：[GitHub Pages](https://carpentry-liu.github.io/awesome-astra-3d/)**。推送到 `main` 后由 [Pages 工作流](.github/workflows/pages.yml) 执行检查、构建、校验视频并发布。仓库保留现有 Sites 配置用于站点所有者的备用预览；访问范围由原有设置控制。
+**公开演示：[GitHub Pages](https://carpentry-liu.github.io/awesome-astra-3d/)**。推送到 `main` 后由 [Pages 工作流](.github/workflows/pages.yml) 执行检查、构建、校验视频并发布。维护流程与媒体检查见 [维护说明](docs/maintenance.md)。
 
 ## 项目结构
 
@@ -120,7 +121,7 @@ Windows Node 24+ 构建会自动使用官方 npm 发行的 Node 22.22.0，以兼
 | `app/` | 欢迎页、案例索引、详情与响应式样式 |
 | `src/` | 检索契约、视频播放器与只读 WebMCP 工具 |
 | `scripts/` · `tests/` | 数据同步、导出校验与行为测试 |
-| [docs/](docs/README.md) | 需求、设计、实施和验证记录 |
+| [docs/](docs/README.md) | 当前维护说明、需求、截图与审查记录 |
 
 ## 贡献与权利
 

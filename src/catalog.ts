@@ -24,7 +24,6 @@ export function caseHref(id:string,locale:Locale='zh'):string{return `./${locale
 export function collectionHref(resource='all',order='curated',search=''):string {
  return `./${writeCatalogSearch(search,{group:'astra',resource,order})}#collection`;
 }
-export const evidenceLabels:Record<EvidenceLevel,string>={official:'官方展示',author:'作者自述',secondary:'转引待复核',reference:'方法参考'};
 export const resourceLabels={all:'全部材料',source:'有源码',demo:'演示入口',video:'完整视频'};
 export type Filters={query?:string;group?:string;category?:string;platform?:string;resource?:string;order?:string};
 export function filterCases<T extends CaseIndex>(cases:T[],{query='',group='astra',category='全部',platform='全部',resource='all',order='curated'}:Filters={}):T[]{

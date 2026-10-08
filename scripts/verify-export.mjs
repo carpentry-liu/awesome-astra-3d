@@ -10,11 +10,15 @@ import {
   browsePath,
   sitemapEntries,
 } from './generate-case-pages.mjs';
+import { resolveArchivedVideo } from './video-contract.mjs';
 
 // A successful bundler exit does not guarantee that static routes and assets exist.
 const root = fileURLToPath(new URL('../dist/client/', import.meta.url));
 const records = JSON.parse(
   fs.readFileSync(new URL('../data/cases.json', import.meta.url), 'utf8'),
+);
+const media = JSON.parse(
+  fs.readFileSync(new URL('../data/videos.json', import.meta.url), 'utf8'),
 );
 const html = fs.readFileSync(path.join(root, 'index.html'), 'utf8');
 assert(html.includes('ASTRA'), 'Missing rendered homepage');
@@ -68,14 +72,10 @@ const deferredMedia = new Set(
   records
     .flatMap((record) =>
       (record.archivedVideos || []).map((video) => {
-        const url = new URL(video.playbackUrl, SITE_URL);
-        return url.origin === site.origin &&
-          url.pathname.startsWith(site.pathname)
-          ? decodeURIComponent(url.pathname.slice(site.pathname.length))
-          : null;
+        const { web } = resolveArchivedVideo(record.id, video, media);
+        return `videos/${web.filename}`;
       }),
-    )
-    .filter(Boolean),
+    ),
 );
 
 function metadata(pageHtml, attribute, key) {

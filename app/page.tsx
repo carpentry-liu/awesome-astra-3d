@@ -45,6 +45,7 @@ import {
   type Locale,
 } from '@/src/catalog';
 import { messages, categoryLabel, evidenceLabel, workTitle } from '@/src/i18n';
+import { readerStatus } from '@/src/case-copy';
 import { registerCatalogTool } from '@/src/webmcp';
 import casesData from '@/data/catalog-index.json';
 import { VideoPlayer, videoTime } from '@/src/video-player';
@@ -914,6 +915,10 @@ export default function Home() {
                 )}
               </div>
               <div className="detail-section">
+                <h3>{t.outcome}</h3>
+                <p>{readerStatus('outcome', selected.outcome, locale)}</p>
+              </div>
+              <div className="detail-section">
                 <h3>{t.prompt}</h3>
                 {selected.promptExcerpt ? (
                   <blockquote>
@@ -925,6 +930,9 @@ export default function Home() {
                     {selected.promptSummary ??
                       (selected.promptUrl ? t.promptLinked : t.noPrompt)}
                   </p>
+                )}
+                {selected.promptExcerpt && selected.promptSummary && (
+                  <p>{selected.promptSummary}</p>
                 )}
                 {selected.promptUrl && (
                   <OutLink className="text-link" href={selected.promptUrl}>

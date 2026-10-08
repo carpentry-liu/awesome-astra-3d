@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
+import { resolveArchivedVideo } from './video-contract.mjs';
 const cases=JSON.parse(fs.readFileSync(new URL('../data/cases.json',import.meta.url),'utf8'));
 const ids=new Set();
 const validUrl=url=>{const u=new URL(url);assert.equal(u.protocol,'https:');assert(!u.username&&!u.password);assert(!/[?&](?:token|access_token|xsec_token)=/i.test(url));};
@@ -34,9 +35,6 @@ for(const video of media.videos){
  assert(Math.abs(video.durationSeconds-video.expectedDurationSeconds)<=0.2,`${video.filename}: incomplete duration`);
 }
 for(const c of cases)for(const video of c.archivedVideos??[]){
- const original=media.videos.find(v=>v.releaseUrl===video.downloadUrl&&v.kind==='original');
- assert(original&&original.sha256===video.sha256&&original.bytes===video.bytes);
- const web=media.videos.find(v=>video.playbackUrl.endsWith('/'+v.filename)&&v.kind==='web');
- assert(web&&web.mediaId===original.mediaId&&web.caseId===c.id);
+  resolveArchivedVideo(c.id,video,media);
 }
 console.log(`Validated ${cases.length} records: ${cases.filter(c=>c.group==='astra').length} Astra, ${cases.filter(c=>c.group==='reference').length} references; URLs, provenance, dates and media types checked.`);
