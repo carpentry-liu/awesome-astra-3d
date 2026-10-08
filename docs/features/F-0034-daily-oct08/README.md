@@ -50,5 +50,12 @@
 
 ## 发布核查
 
-提交与正式网站结果完成后补录。
+代码与内容提交 `dab5fe2` 已普通 fast-forward push 到 main；20 个受控文件，没有迁移交接文档、媒体缓存、依赖或构建产物。
 
+[GitHub Pages 工作流](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/37726634081) 的 build / deploy 均 success，CI 的 check、lint、构建及全 121 段播放文件下载和 SHA-256 校验步骤全部通过。
+
+正式站点于 2026-10-08T04:20:15.351239+00:00 核查：cases.json 与本地 285 条事实源完全一致，26 个新增中英文详情返回200并含正确标题、预览、canonical，595 项 sitemap 与分享封面匹配本地；首页三项脚本返回 JavaScript。三个新播放 MP4 全 GET，MIME、字节、SHA-256 与清单一致。公开 GitHub 的中英 README 与本地相同，四张新截图 raw 文件字节一致。
+
+Codex 浏览器刷新正式案例区，实际看到13条新增与273案例统计，视口内预览全部加载。正式 Villa Jelly 详情的两处成果图可见，录像从0完整播至17.045333秒并 ended=true、error=null，控制台无告警或错误。其余两段新片已在本地完整播放，正式文件哈希相同；没有声称通关或独立性能复现。
+
+`git diff --check`：最终文档整理后通过。发布核查记录只补本文件，不触发重复部署。
