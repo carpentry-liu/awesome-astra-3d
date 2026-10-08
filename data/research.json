@@ -3138,6 +3138,294 @@
           "Engineering evidence uses public raw equivalents of the exact author-provided GitHub blob links; these files were read but not executed."
         ]
       }
+    },
+    {
+      "observedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "addedCaseIds": [
+        "matsuda-tripo-rabbit-vrm",
+        "maeiku-donut-blender-iterations",
+        "shirotsume-latte-df-freecad",
+        "yuechen-aetheris-difference-engine",
+        "flying37520-astra-air-combat",
+        "yjrocks-sunward-racing",
+        "hailey-rift-chess",
+        "vib3coded-villa-jelly",
+        "tural-four-model-3d-prop",
+        "retrostyle-four-asset-packs",
+        "monstercameron-neural-sight",
+        "imirushik-sunbreak-downhill",
+        "vheissu-saber-descent"
+      ],
+      "channels": [
+        "GitHub",
+        "X",
+        "Reddit",
+        "LinkedIn",
+        "note",
+        "LINUX DO",
+        "Bilibili",
+        "小红书",
+        "Zenn",
+        "Qiita",
+        "知乎",
+        "掘金",
+        "作者网站"
+      ],
+      "coverageNotes": [
+        "272 historical records preserved unchanged; incremental source/media checks only, no complete historical audit claimed.",
+        "Thirteen distinct works or consolidated production workflows; four asset packs stay one record.",
+        "Actual output images fully retrieved and inspected. Unknown first publication dates remain null; known dates stay September/October original dates, separate from collection.",
+        "Astra, Opus, Sol, Sonnet, Tripo, Imagegen, ACE Music and manual artists have explicit separate responsibilities. Captured splat worlds are existing assets, not Astra-created geometry.",
+        "Only GitHub Pages is published; migration/handoff packet stays outside tracked files.",
+        "66 incremental URLs returned 200; all 24 inspected image URLs passed full GET/decode, including all 13 primary previews. Historical links were not re-audited.",
+        "3 complete X clips, 6 original/playback files verified for Content-Length, duration, media ID, SHA-256 and strict full decode. Saber validation preserves demuxer time base; original media bytes remain unchanged.",
+        "Independent peer review added exact Nelson Ghost Town scene attribution and distinguished RetroStyle article/post timezones."
+      ],
+      "eastasiaCoverage": [
+        {
+          "platform": "note / 日本作者",
+          "queries": [
+            "site:note.com \"GPT-6\" \"Astra\" \"Blender\" \"10\"",
+            "site:note.com \"Astra\" \"2026年10月8日\" 3D",
+            "site:note.com \"Astra\" \"3D\" -hl=en after:2026-10-04",
+            "site:note.com \"Astra\" \"Blender\" after:2026-10-05",
+            "site:note.com \"Astra\" \"VRM\"",
+            "site:note.com \"Astra\" \"2026年10月7日\" \"ゲーム\"",
+            "site:note.com \"Astra\" \"10月6日\" \"Blender\"",
+            "site:note.com \"Astra\" \"2026年10月7日\" \"モデル\""
+          ],
+          "result": "确认三条未收录的作者实作，首发为 10/3、10/5 和 9/29，今日只作为新收录，不假定今天首发。10/6 映像屋K文章明确 Astra 舞台但公开图仅宣传封面，真实材料受付费区限制，排除；RuiNsGate 文章明确 Meshy 几何，Astra 仅指别人的游戏示例，排除。Jill 与三款 Tripo 游戏已收录。"
+        },
+        {
+          "platform": "Zenn / Qiita",
+          "queries": [
+            "site:zenn.dev \"astra\" \"3d\"",
+            "site:qiita.com \"astra\" \"blender\"",
+            "site:qiita.com \"GPT-6-Astra\" Blender",
+            "site:zenn.dev \"Astra\" \"2026/10\" 3D",
+            "site:qiita.com \"Astra\" \"2026-10\" \"3D\""
+          ],
+          "result": "检索到 mizchi、chimerast、JAXIA 和 Nob_Hi，均已在272条基线；未重复收录。十月模型选择文章未展示独立三维成果。"
+        },
+        {
+          "platform": "LINUX DO",
+          "queries": [
+            "site:linux.do \"astra\" \"blender\"",
+            "site:linux.do \"Astra\" \"2026\" \"10 月\" \"3D\"",
+            "site:linux.do \"astra\" \"2026 年10 月\"",
+            "site:linux.do \"Astra\" \"建模\" after:2026-10-04",
+            "site:linux.do \"astra\" \"模型\" \"10 月8\""
+          ],
+          "result": "10/7 zedoo 三维动画作者声明使用 Opus5.5，Astra 仅在评论对比提问，未纳入 Astra。VarenCAD 提到可配置 Astra 规划器，但未核实某幅具体输出确由 Astra 制作；当日新结果大量为模型速度讨论，不写为3D作品。"
+        },
+        {
+          "platform": "Bilibili",
+          "queries": [
+            "site:bilibili.com \"Astra\" \"3D\" \"10\"",
+            "site:bilibili.com \"GPT-6 Astra\" after:2026-10-05",
+            "site:bilibili.com \"GPT6 Astra\" \"建模\" \"2026-10\"",
+            "site:bilibili.com \"astra\" \"2026-10-07\"",
+            "site:bilibili.com \"GPT-6 Astra\" \"2026-10-06\""
+          ],
+          "result": "公开搜索主要为九月海外视频解读与转载，部分作者本人尚未实测，不能按解说标题当原创作品；本轮未新增。"
+        },
+        {
+          "platform": "小红书",
+          "queries": [
+            "site:xiaohongshu.com \"Astra\" \"3D\"",
+            "site:xiaohongshu.com \"GPT6\" \"Blender\"",
+            "site:xiaohongshu.com \"GPT-6\" \"3D\" \"Blender\""
+          ],
+          "result": "公开搜索未返回可完整核查模型声明与成果的强候选，不据此断言平台没有作品；未登录或发布。"
+        },
+        {
+          "platform": "知乎 / 掘金",
+          "queries": [
+            "site:zhihu.com \"GPT-6 Astra\" \"3D\"",
+            "site:juejin.cn \"GPT-6 Astra\" \"3D\"",
+            "site:juejin.cn \"Astra\" \"Blender\" \"10月\""
+          ],
+          "result": "找到 Style3D 官方九月文章、二手汇总与 Opus5.5 / Sol 评测；本轮没有核实新的 Astra 原创三维输出，未将提到 Astra 的其他模型结果纳入。"
+        }
+      ],
+      "projectsCoverage": [
+        {
+          "platform": "GitHub",
+          "queries": [
+            "site:github.com \"GPT-6 Astra\" \"Blender\" after:2026-10-06",
+            "site:github.com \"Astra\" \"Three.js\" \"GPT-6\" after:2026-10-06",
+            "site:github.com \"GPT-6 Astra\" \"3D\"",
+            "site:github.com \"astra\" \"3d\" \"GPT-6\" after:2026-10-07",
+            "site:github.com \"GPT-6 Astra\" \"CAD\"",
+            "site:github.com \"GPT-6 Astra\" \"created\" \"game\" \"October\"",
+            "site:github.com \"GPT-6 Astra\" \"three\" \"screenshot\""
+          ],
+          "result": "原作者GitHub、演示HTML、文档与真实效果图互证；去重272件旧档案，交付四件有实际输出与明确模型角色的工程，不要求它们今天首发。未知首次日期全部 null。读取仓库元数据和源码树，不运行第三方代码。"
+        },
+        {
+          "platform": "GitHub同类目录",
+          "queries": [
+            "AgentsLoop/awesome-gpt-astra-games/models/gpt-6-astra.md",
+            "Akihisa-Watanabe/awesome-astra",
+            "theolundqvist/frontier-games"
+          ],
+          "result": "同类目录仅用于发现原作者工程，不引用其自制评分、截图评级、FPS猜测或将其模型标签作为充分证据。SUNBREAK、Neural Sight与Saber交由主代理核查避免重复。"
+        },
+        {
+          "platform": "作者演示",
+          "queries": [
+            "https://aetheris-difference-engine-showcase.yuechenli.workers.dev/",
+            "https://flying37520.github.io/astra-air-combat/",
+            "https://haileystorm.github.io/rift-chess/"
+          ],
+          "result": "HTML完整GET均200；Aetheris实际机器封面、STEP和凭据已检查，另外两件作者运行图已检查。本代理尚未互动试玩，HTTP200不等于功能通过，主代理可继续实测。"
+        }
+      ],
+      "socialCoverage": {
+        "date": "2026-10-08",
+        "timezone": "Asia/Shanghai",
+        "queries": [
+          "\"Astra\" \"3D\" \"Oct 7\" 2026",
+          "\"GPT-6\" \"3D\" \"Oct 8\" 2026",
+          "site:x.com \"astra\" \"3D\" after:2026-10-06",
+          "site:reddit.com \"astra\" \"3D\" October 2026",
+          "\"GPT-6 Astra\" \"3D\" after:2026-10-06 before:2026-10-09",
+          "site:x.com \"Astra\" \"Blender\" after:2026-10-06",
+          "site:linkedin.com/posts \"Astra\" \"3D\" after:2026-10-06",
+          "site:dropday.ai \"Astra\" \"Oct 7\"",
+          "\"Tural Dzhalilov\" \"Astra\" 3d",
+          "\"Rass Bakala\" \"Astra\"",
+          "\"retrostyle games\" \"astra\" asset packs",
+          "\"rastislavbakala\" \"One Life\" 2026",
+          "\"rastislavbakala\" \"Astra\" \"game\"",
+          "\"retrostylegames.com\" \"Grand Theft Motel\"",
+          "\"GPT Astra\" \"QuadcodeAI\" 3d Oct",
+          "site:x.com \"Astra\" \"modeling\" after:2026-10-06",
+          "site:reddit.com \"astra\" \"blender\" after:2026-10-06",
+          "site:linkedin.com/posts/quadcodeai \"Astra\" \"jelly island\"",
+          "\"Astra\" \"One Life\" \"Bakala\"",
+          "site:linkedin.com/posts/quadcodeai \"jelly\"",
+          "site:linkedin.com/posts/quadcodeai \"3D\" \"Astra\" after:2026-10-06",
+          "site:x.com \"Astra\" \"CAD\" after:2026-10-06",
+          "site:x.com \"Astra\" \"world\" after:2026-10-06",
+          "site:reddit.com \"Astra\" \"3D\" \"October 07\"",
+          "site:reddit.com \"Astra\" \"Blender\" \"October 08\"",
+          "site:x.com \"GPT-6\" \"3D\" after:2026-10-06",
+          "\"Astra\" \"jelly island\" \"QuadcodeAI\"",
+          "\"Astra\" \"3D\" \"October 7, 2026\" -site:brilliantearth.com",
+          "\"Astra\" \"Blender\" \"October 8, 2026\"",
+          "\"GPT-6 Astra\" \"interactive jelly\"",
+          "\"GPT Astra\" \"Tural\" \"reference object\"",
+          "site:retrostylegames.com \"Astra\" \"asset\"",
+          "site:retrostylegames.com \"AI Pipelines\" \"Asset Packs\""
+        ],
+        "X": "Recent date-filtered X searches were sparse. A secondary prompt index led to exact Villa Jelly original ID. FxTwitter metadata verified explicit author Astra wording; original X page remains HTTP 403. One Life gallery model label contradicted exact original post and was excluded.",
+        "LinkedIn": "Read original Tural and RetroStyle HTML JSON-LD and full original-source images. Relative search labels were not used as publication dates.",
+        "Reddit": "Recent queries returned old benchmark reposts and model-use discussions; no distinct new recent original with inspected 3D artifact verified.",
+        "authorWebsites": "Read RetroStyle official production article and actual four output renders. Astra role is helper under artist direction, not blanket model ownership.",
+        "dateNote": "Oct8 is collection and verification day. Villa Jelly first post Shanghai Oct7; Tural Oct6; RetroStyle Sep24.",
+        "duplicateCheck": "Compared source URLs/IDs and relevant author/project names against existing272 case file and research; existing PaperRoute and Kaloyan excluded."
+      },
+      "rootCoverage": {
+        "queries": [
+          "\"GPT-6 Astra\" \"3D\" \"October 8\"",
+          "\"GPT-6 Astra\" \"Blender\" \"October 7\"",
+          "\"GPT-6 Astra\" \"three.js\" new"
+        ],
+        "sources": [
+          "Author GitHub README and asset notices",
+          "Author X via FxTwitter",
+          "Author output screenshots"
+        ],
+        "notes": [
+          "AgentsLoop served only as a discovery lead; no external ratings or model grades copied.",
+          "Three older works newly collected today; known X publication dates are September 6, not October 8."
+        ]
+      },
+      "rejectedCandidates": [
+        {
+          "url": "https://note.com/arata_hakuma/n/n927d8f46e3cd",
+          "reason": "自己的三维角色由 Meshy 制作，Astra 只作为 SNS 他人游戏的例子；不建立本作品 Astra 归属。JSON-LD 10/7 00:17 JST 对应上海10/6，不能写为上海10/7首发。"
+        },
+        {
+          "url": "https://note.com/eizouyak/n/n3e48171e62fd",
+          "reason": "公开正文明确 Astra 造型和 Sol 后续 UE 分工，但唯一公开图是文章标题宣传封面，没有可见实际成果；付费正文未读取，不用封面代替输出。"
+        },
+        {
+          "url": "https://linux.do/t/topic/2991055",
+          "reason": "作者声明用 Opus5.5；评论问与 Astra 比较不改变模型归属。"
+        },
+        {
+          "url": "https://linux.do/t/topic/2942676",
+          "reason": "VarenCAD 只是多模型工具及推荐 Astra 规划器，未取得具体 Astra 输出证据，不能将全部产品截图标为 Astra。"
+        },
+        {
+          "url": "https://note.com/picos_aicreator/n/na7c3a34e3fae",
+          "reason": "手工对称修整 Tripo 网格教程，Astra 对照图引自其他来源，不当作者 Astra 新成果。"
+        },
+        {
+          "url": "https://qiita.com/Nob_Hi/items/17d9703c460122c15612",
+          "reason": "已经收录；同样不重复添加 mizchi、chimerast 与 JAXIA。"
+        },
+        {
+          "id": "vheissu-hit-and-run",
+          "url": "https://github.com/Vheissu/hit-and-run-web",
+          "reason": "当前原作者README和docs/PORTING.md只明确Codex转换、Blender处理与Claude加载优化；未明确Astra。近似目录声称direct evidence不能代替原作者声明。现成PS2商业游戏几何、动画、材质转换不能归于Astra从零建模，本轮不收录。"
+        },
+        {
+          "id": "already-curated-github",
+          "url": "https://github.com/Akihisa-Watanabe/awesome-astra",
+          "reason": "gokayfem/H3-Max-Blender、realsee-developer/realsee-astra-blender、BEROCHLU/astrafloor、az9713工程、fable51-worlds Union Square均已收录，不另拆重复。"
+        },
+        {
+          "id": "cad-benchmarks",
+          "url": "https://github.com/danwahl/cadqueryeval",
+          "reason": "指标与评价工具不是有可查看成品的独立三维创作案例，不由全分推断普通建模能力。"
+        },
+        {
+          "id": "directory-2d-games",
+          "url": "https://github.com/AgentsLoop/awesome-gpt-astra-games",
+          "reason": "目录含Commander/Debug Dash/SkySprout等2D或卡牌案例；不因Astra标签把它们放进三维库。"
+        },
+        {
+          "sourceUrl": "https://dropday.ai/c/one-life",
+          "primarySourceUrl": "https://x.com/RastislavBakala/status/2107735705476649200",
+          "reason": "Discovery gallery automatically labels Astra, but exact original FxTwitter text says only Opus 5.5. Clip is 35.39 seconds rather than the gallery 63-second claim. No Astra attribution established; exclude."
+        },
+        {
+          "sourceUrl": "https://retrostylegames.com/blog/deep-end-horror-morgue-pack/",
+          "reason": "Related later asset-pack preview has multiple inconsistent current titles (Cold Nine / Drawer Nine / Deep End), a hybrid human+Astra helper statement and no concrete new engineering materials. Retained as lead rather than expanding the four-pack workflow."
+        },
+        {
+          "sourceUrl": "https://www.linkedin.com/posts/pavlos-fourfourianakis-76433a275_astra-unity-ai-activity-7511774149770637312-O--t",
+          "reason": "Astra hashtag for local voice avatar does not establish GPT-6 Astra contribution."
+        },
+        {
+          "sourceUrl": "https://www.linkedin.com/posts/tech-formation-services_ai-artificialintelligence-openai-activity-7512854396867719168-RHC4",
+          "reason": "Repost of existing OpenAI promotional rocket sequence, no distinct new original output."
+        },
+        {
+          "sourceUrl": "https://www.linkedin.com/posts/jana-zeller_%F0%9D%90%86%F0%9D%90%8F%F0%9D%90%93-%F0%9D%90%80%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%9A-%F0%9D%90%A8%F0%9D%90%AE%F0%9D%90%AD%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%9F%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%AC-activity-7511769121118736384-rbrT",
+          "reason": "Visual reasoning benchmark without a distinct generated 3D artifact."
+        },
+        {
+          "sourceUrl": "https://www.reddit.com/r/ChatGPT/comments/1wvqlwh/i_asked_14_ai_models_to_rebuild_this_photo_in/",
+          "reason": "Already catalogued kaloyan photo-to-Blender comparison; do not duplicate."
+        },
+        {
+          "sourceUrl": "https://www.linkedin.com/posts/tural-dzhalilov_gpt-6-astra-just-recreated-paperboy-as-a-activity-7503385283413897216-sUXX",
+          "reason": "Secondary promotion of existing PaperRoute/Paperboy work; no distinct new author artifact."
+        },
+        {
+          "sourceUrl": "https://github.com/az9713/gpt-6-astra-builds",
+          "reason": "Already collected; related outputs remain one consolidated workflow."
+        },
+        {
+          "sourceUrl": "https://github.com/jargs92/gpt-6-astra-test",
+          "reason": "Already collected; no separate new workflow verified in this pass."
+        }
+      ]
     }
   ]
 }

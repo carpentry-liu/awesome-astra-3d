@@ -2,6 +2,24 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-08 · 13 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [マツダ兔角色：Tripo 分件到 Astra 修复与 VRM / Matsuda Rabbit Avatar — Tripo Parts, Astra Repairs and VRM](https://carpentry-liu.github.io/awesome-astra-3d/cases/matsuda-tripo-rabbit-vrm/) | マツダ / @Matuda_Familiar | 提示词 / 过程 |
+| [前桥育英高校：三种甜甜圈与杯柄修正 / Maeiku Creation Lab — Three Donuts and Targeted Blender Repairs](https://carpentry-liu.github.io/awesome-astra-3d/cases/maeiku-donut-blender-iterations/) | Maeiku Creation Lab.【前橋育英高校公式】 / スタッフA | 提示词 / 过程 |
+| [LATTE Df：FreeCAD 拉花相机从动画到实物修正 / LATTE Df — FreeCAD Mechanism, Printed Prototype and Repairs](https://carpentry-liu.github.io/awesome-astra-3d/cases/shirotsume-latte-df-freecad/) | しろつめくさ | 提示词 / 过程 |
+| [Aetheris 差分机：层级 CAD 装配与机械算术演示 / Aetheris Difference Engine — Hierarchical CAD and Mechanical Arithmetic](https://carpentry-liu.github.io/awesome-astra-3d/cases/yuechen-aetheris-difference-engine/) | Yuechen Li / yuechen-li-dev | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [苍穹交锋：程序化喷气战机与三维空战 / Astra Air Combat — Procedural Jets and a 3D Combat Arena](https://carpentry-liu.github.io/awesome-astra-3d/cases/flying37520-astra-air-combat/) | FLYING37520 | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [Sunward：Unity 海岸赛车与可导出摄影模式 / Sunward — Unity Coastal Racing and Photo Mode](https://carpentry-liu.github.io/awesome-astra-3d/cases/yjrocks-sunward-racing/) | yjrocks712 | 源码 / 工程 · 提示词 / 过程 |
+| [Rift Chess：可滑动棋盘与程序化三维棋子 / Rift Chess — Sliding Tiles and Procedural 3D Pieces](https://carpentry-liu.github.io/awesome-astra-3d/cases/hailey-rift-chess/) | HaileyStorm | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [Villa Jelly：热带别墅、果冻海与双模型对照 / Villa Jelly — A Tropical Villa and Jelly Sea Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-villa-jelly/) | Vib3Coded / @vib3coded | 完整视频 |
+| [同图重建道具：Astra、Sol、Sonnet 与 Opus 四格对照 / Four-model 3D Prop Reconstruction — Astra, Sol, Sonnet and Opus](https://carpentry-liu.github.io/awesome-astra-3d/cases/tural-four-model-3d-prop/) | Tural Dzhalilov / QuadcodeAI | 作者展示 |
+| [四套资产包：美术师主导、Astra 辅助 Blender 流程 / Four Asset Packs — Artist-led Blender Work with Astra Assistance](https://carpentry-liu.github.io/awesome-astra-3d/cases/retrostyle-four-asset-packs/) | Oleksandr Salabai / RetroStyle Games | 作者展示 |
+| [Neural Sight：实景高斯泼溅与预录武器动画的浏览器 FPS / Neural Sight — Captured Gaussian Worlds and Prerecorded Weapon Animation](https://carpentry-liu.github.io/awesome-astra-3d/cases/monstercameron-neural-sight/) | monstercameron | 源码 / 工程 · 演示入口 |
+| [SUNBREAK：程序化 BMX 下坡赛与特技镜头 / SUNBREAK — Procedural BMX Downhill Racing](https://carpentry-liu.github.io/awesome-astra-3d/cases/imirushik-sunbreak-downhill/) | IrushiK / @Im_IrushiK | 源码 / 工程 · 完整视频 |
+| [Saber Descent：Imagegen 参考到 Blender 网格的光剑地牢 / Saber Descent — Image References to Blender-Made Dungeon Combat](https://carpentry-liu.github.io/awesome-astra-3d/cases/vheissu-saber-descent/) | Vheissu / @CtrlAltDwayne | 源码 / 工程 · 演示入口 · 完整视频 |
+
 ## 2026-10-07 · 8 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

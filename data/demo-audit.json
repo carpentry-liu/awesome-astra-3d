@@ -1,6 +1,6 @@
 {
-  "observedAt": "2026-09-11",
-  "method": "HTTP GET with title and final URL; no independent gameplay or hardware compatibility test.",
+  "observedAt": "2026-10-08",
+  "method": "Incremental author-demo GETs only for October 8 additions; historical timestamps preserved. Browser startup observations separately noted; no whole-game or hardware compatibility test.",
   "results": [
     {
       "id": "openai-sunwake",
@@ -635,6 +635,64 @@
       "evidenceFiles": [
         "work/refresh-2026-10-05/parliament-browser.jpg"
       ]
+    },
+    {
+      "id": "yuechen-aetheris-difference-engine",
+      "url": "https://aetheris-difference-engine-showcase.yuechenli.workers.dev/",
+      "status": 200,
+      "title": "Difference Engine · Aetheris",
+      "finalUrl": "https://aetheris-difference-engine-showcase.yuechenli.workers.dev/",
+      "observedAt": "2026-10-08",
+      "result": "reachable",
+      "method": "GET; no independent complete gameplay test",
+      "browserChecked": true,
+      "browserResult": "本轮实际浏览演示，看到三维装配、计数轮与运行的预设算术动画；未验证机械接触、实际计算或制造性能。"
+    },
+    {
+      "id": "flying37520-astra-air-combat",
+      "url": "https://flying37520.github.io/astra-air-combat/",
+      "status": 200,
+      "title": "苍穹交锋 · ASTRA AIR COMBAT",
+      "finalUrl": "https://flying37520.github.io/astra-air-combat/",
+      "observedAt": "2026-10-08",
+      "result": "reachable",
+      "method": "GET; no independent complete gameplay test",
+      "browserChecked": true,
+      "browserResult": "本轮实际点击进入战区，看到三维战机、群岛和作战HUD；未捕获鼠标、完成对局或测量性能。"
+    },
+    {
+      "id": "hailey-rift-chess",
+      "url": "https://haileystorm.github.io/rift-chess/",
+      "status": 200,
+      "title": "Rift Chess",
+      "finalUrl": "https://haileystorm.github.io/rift-chess/",
+      "observedAt": "2026-10-08",
+      "result": "reachable",
+      "method": "GET; no independent complete gameplay test",
+      "browserChecked": true,
+      "browserResult": "本轮实际点击 Take your seat，看到三维程序棋子、滑块桌面和对局界面；未完成整局或测量性能。"
+    },
+    {
+      "id": "monstercameron-neural-sight",
+      "url": "https://monstercameron.github.io/Neural-Sight/",
+      "status": 200,
+      "title": "Neural Sight — Choose a level",
+      "finalUrl": "https://monstercameron.github.io/Neural-Sight/",
+      "observedAt": "2026-10-08",
+      "result": "reachable",
+      "method": "GET; no independent complete gameplay test"
+    },
+    {
+      "id": "vheissu-saber-descent",
+      "url": "https://vheissu.github.io/saber-battle/",
+      "status": 200,
+      "title": "Saber / Descent",
+      "finalUrl": "https://vheissu.github.io/saber-battle/",
+      "observedAt": "2026-10-08",
+      "result": "reachable",
+      "method": "GET; no independent complete gameplay test",
+      "browserChecked": true,
+      "browserResult": "Clicked Begin descent and visibly observed the 3D chamber, character, glowing blade and HUD. No complete playthrough."
     }
   ]
 }

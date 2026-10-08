@@ -1,11 +1,11 @@
 {
-  "observedAt": "2026-09-25",
-  "method": "Incremental bounded HTTP GET: horse comparison page reachable; historical timestamps preserved. Does not validate benchmark fairness or every embedded animation.",
-  "checkedUrls": 576,
+  "observedAt": "2026-10-08",
+  "method": "Incremental GET for 13 October 8 additions; image bodies fully decoded, page reads bounded where noted. Historical timestamps retained; no full historical audit or gameplay validation claimed.",
+  "checkedUrls": 642,
   "counts": {
-    "http-error": 4,
+    "reachable": 632,
     "restricted": 6,
-    "reachable": 566
+    "http-error": 4
   },
   "results": [
     {
@@ -9968,6 +9968,3254 @@
       "contentType": "image/png",
       "result": "reachable",
       "bytesRead": 142229
+    },
+    {
+      "url": "https://note.com/mina0805/n/nc1d8c8f20859",
+      "usedBy": [
+        {
+          "caseId": "matsuda-tripo-rabbit-vrm",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "matsuda-tripo-rabbit-vrm",
+          "field": "promptUrl"
+        },
+        {
+          "caseId": "matsuda-tripo-rabbit-vrm",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": false,
+      "status": 200,
+      "finalUrl": "https://note.com/mina0805/n/nc1d8c8f20859",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 524288,
+      "contentLength": null,
+      "sha256": "50cc6c8fb3488d25e39333b8585f8e01e877275cda48555347694621d9cbf042",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "bounded-response-prefix",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "Tripo＋Codex(Astra)で自分の分身の3Dモデル（VRM1.0)を作成してみた話｜マツダ（とある自称神さまの使い魔）",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 4.234,
+      "capturedAtUtc": "2026-10-08T03:58:39.521649+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "matsuda-tripo-rabbit-vrm",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "matsuda-tripo-rabbit-vrm",
+          "field": "promptUrl"
+        },
+        {
+          "caseId": "matsuda-tripo-rabbit-vrm",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": "Tripo＋Codex(Astra)で自分の分身の3Dモデル（VRM1.0)を作成してみた話｜マツダ（とある自称神さまの使い魔）",
+      "result": "reachable"
+    },
+    {
+      "url": "https://assets.st-note.com/img/1791008126-lIXJ7eSR6KVFcuGH5CBgTLxU.png?width=1200",
+      "usedBy": [
+        {
+          "caseId": "matsuda-tripo-rabbit-vrm",
+          "field": "imageUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://assets.st-note.com/img/1791008126-lIXJ7eSR6KVFcuGH5CBgTLxU.png?width=1200",
+      "contentType": "image/png",
+      "bytes": 109585,
+      "contentLength": "109585",
+      "sha256": "dcbcdd68d56dc034f0c6fa88ee2b0c35882e202fe199ab79991b4b2f4127c147",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "PNG",
+      "width": 1200,
+      "height": 623,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 1.718,
+      "capturedAtUtc": "2026-10-08T03:58:37.000764+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "matsuda-tripo-rabbit-vrm",
+          "field": "imageUrl"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://assets.st-note.com/img/1791004991-hgb81yn0GoVKqu9AjZH4sClr.png?width=1200",
+      "usedBy": [
+        {
+          "caseId": "matsuda-tripo-rabbit-vrm",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://assets.st-note.com/img/1791004991-hgb81yn0GoVKqu9AjZH4sClr.png?width=1200",
+      "contentType": "image/png",
+      "bytes": 926792,
+      "contentLength": "926792",
+      "sha256": "76ac9466d1c34fab72b05a91285baa0c4c4858c9ddc79183efb0584dcc031c9b",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "PNG",
+      "width": 1080,
+      "height": 1920,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.593,
+      "capturedAtUtc": "2026-10-08T03:58:37.877776+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "matsuda-tripo-rabbit-vrm",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://assets.st-note.com/img/1791008768-JWF2lwhs4zUovcX80ILe3Zby.png?width=1200",
+      "usedBy": [
+        {
+          "caseId": "matsuda-tripo-rabbit-vrm",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://assets.st-note.com/img/1791008768-JWF2lwhs4zUovcX80ILe3Zby.png?width=1200",
+      "contentType": "image/png",
+      "bytes": 186792,
+      "contentLength": "186792",
+      "sha256": "2b70904b9d4c1ecf75519339d7395af694d08e2faff48cc960b3f3cda0ad56b9",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "PNG",
+      "width": 1200,
+      "height": 623,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 1.562,
+      "capturedAtUtc": "2026-10-08T03:58:36.846474+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "matsuda-tripo-rabbit-vrm",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://note.com/maeiku_lab/n/n6dc6b82ff624",
+      "usedBy": [
+        {
+          "caseId": "maeiku-donut-blender-iterations",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "maeiku-donut-blender-iterations",
+          "field": "promptUrl"
+        },
+        {
+          "caseId": "maeiku-donut-blender-iterations",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://note.com/maeiku_lab/n/n6dc6b82ff624",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 439496,
+      "contentLength": null,
+      "sha256": "11172db8c0f18acc9f71f029aff9064e7b3e723280bd60dd685ac0691d27a27b",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "ChatGPTのAstraにBlenderを任せてみた。│2分41秒でドーナツができた。｜Maeiku Creation Lab.【前橋育英高校公式】",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.484,
+      "capturedAtUtc": "2026-10-08T03:58:39.322554+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "maeiku-donut-blender-iterations",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "maeiku-donut-blender-iterations",
+          "field": "promptUrl"
+        },
+        {
+          "caseId": "maeiku-donut-blender-iterations",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": "ChatGPTのAstraにBlenderを任せてみた。│2分41秒でドーナツができた。｜Maeiku Creation Lab.【前橋育英高校公式】",
+      "result": "reachable"
+    },
+    {
+      "url": "https://assets.st-note.com/img/1791121434-MH8oLJp4EgIim3QRynxcUk9j.png?width=1200",
+      "usedBy": [
+        {
+          "caseId": "maeiku-donut-blender-iterations",
+          "field": "imageUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://assets.st-note.com/img/1791121434-MH8oLJp4EgIim3QRynxcUk9j.png?width=1200",
+      "contentType": "image/png",
+      "bytes": 359465,
+      "contentLength": "359465",
+      "sha256": "01fa761dd7d534b3eb0c73d48abe0d1bb7c07a44b3132662f6cb1618d7878f8f",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "PNG",
+      "width": 1200,
+      "height": 960,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.719,
+      "capturedAtUtc": "2026-10-08T03:58:39.723902+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "maeiku-donut-blender-iterations",
+          "field": "imageUrl"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://assets.st-note.com/img/1791151279-ToUqkKsiraG9ZpDA2dN0XPy5.jpg?width=1200",
+      "usedBy": [
+        {
+          "caseId": "maeiku-donut-blender-iterations",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://assets.st-note.com/img/1791151279-ToUqkKsiraG9ZpDA2dN0XPy5.jpg?width=1200",
+      "contentType": "image/jpg",
+      "bytes": 49228,
+      "contentLength": "49228",
+      "sha256": "528224ca14b242414817047d0bd2073d75de4d34535a79f67c18e3adfe8851f8",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "JPEG",
+      "width": 1200,
+      "height": 673,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 1.063,
+      "capturedAtUtc": "2026-10-08T03:58:38.940766+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "maeiku-donut-blender-iterations",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://note.com/tasty_llama9450/n/n2701e5d8f8ed",
+      "usedBy": [
+        {
+          "caseId": "shirotsume-latte-df-freecad",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "shirotsume-latte-df-freecad",
+          "field": "promptUrl"
+        },
+        {
+          "caseId": "shirotsume-latte-df-freecad",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": false,
+      "status": 200,
+      "finalUrl": "https://note.com/tasty_llama9450/n/n2701e5d8f8ed",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 524288,
+      "contentLength": null,
+      "sha256": "e6d1c34107c26d5d768a4ebf2c88eba52da43930fbc15500d07c564ebc7b1585",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "bounded-response-prefix",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "AIに機械設計はできるのか？ GPT-6 Astraと3Dプリンタでラテアートカメラを作ってみた｜しろつめくさ",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 3.515,
+      "capturedAtUtc": "2026-10-08T03:58:42.458889+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "shirotsume-latte-df-freecad",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "shirotsume-latte-df-freecad",
+          "field": "promptUrl"
+        },
+        {
+          "caseId": "shirotsume-latte-df-freecad",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": "AIに機械設計はできるのか？ GPT-6 Astraと3Dプリンタでラテアートカメラを作ってみた｜しろつめくさ",
+      "result": "reachable"
+    },
+    {
+      "url": "https://assets.st-note.com/img/1790635002-F5fjI3byzmqkAKC0hXw7xUBr.png?width=1200",
+      "usedBy": [
+        {
+          "caseId": "shirotsume-latte-df-freecad",
+          "field": "imageUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://assets.st-note.com/img/1790635002-F5fjI3byzmqkAKC0hXw7xUBr.png?width=1200",
+      "contentType": "image/png",
+      "bytes": 153678,
+      "contentLength": "153678",
+      "sha256": "56b1d5275db40411a630baf1852b3689545f6ab94d3ba16522dffbf652e04361",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "PNG",
+      "width": 1200,
+      "height": 1012,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.016,
+      "capturedAtUtc": "2026-10-08T03:58:41.337753+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "shirotsume-latte-df-freecad",
+          "field": "imageUrl"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://assets.st-note.com/img/1790634958-INy7jKqdcHMhvYr5F90falQT.jpg?width=1200",
+      "usedBy": [
+        {
+          "caseId": "shirotsume-latte-df-freecad",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://assets.st-note.com/img/1790634958-INy7jKqdcHMhvYr5F90falQT.jpg?width=1200",
+      "contentType": "image/jpg",
+      "bytes": 103515,
+      "contentLength": "103515",
+      "sha256": "11e26c9ea1f6899e2d744457fce04b13e6e7bfb28446a133681c41999966944d",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "JPEG",
+      "width": 1200,
+      "height": 900,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 1.641,
+      "capturedAtUtc": "2026-10-08T03:58:41.161533+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "shirotsume-latte-df-freecad",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://assets.st-note.com/img/1790634990-Lj5NmZCoWM6ycVGQRHkBaYvS.png?width=1200",
+      "usedBy": [
+        {
+          "caseId": "shirotsume-latte-df-freecad",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://assets.st-note.com/img/1790634990-Lj5NmZCoWM6ycVGQRHkBaYvS.png?width=1200",
+      "contentType": "image/png",
+      "bytes": 395833,
+      "contentLength": "395833",
+      "sha256": "8bd491a9ae3807ff4a0ea87f6076a0c4bd540cc0b3329e86424f4c8afa54d20a",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "PNG",
+      "width": 720,
+      "height": 1280,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 3.938,
+      "capturedAtUtc": "2026-10-08T03:58:43.650075+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "shirotsume-latte-df-freecad",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://assets.st-note.com/production/uploads/images/318696250/picture_pc_2e64c50c015105b975064aaaea7a72ca.gif?width=1200",
+      "usedBy": [
+        {
+          "caseId": "shirotsume-latte-df-freecad",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://assets.st-note.com/production/uploads/images/318696250/picture_pc_2e64c50c015105b975064aaaea7a72ca.gif?width=1200",
+      "contentType": "image/gif",
+      "bytes": 1216617,
+      "contentLength": "1216617",
+      "sha256": "6866efa977deebe65254ebecd52b45d5bdc0ae897dab7babd4fe941b6c909784",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "GIF",
+      "width": 720,
+      "height": 620,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 5.421,
+      "capturedAtUtc": "2026-10-08T03:58:46.574792+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "shirotsume-latte-df-freecad",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/yuechen-li-dev/Aetheris",
+      "usedBy": [
+        {
+          "caseId": "yuechen-aetheris-difference-engine",
+          "field": "sourceUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://github.com/yuechen-li-dev/Aetheris",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 457034,
+      "contentLength": null,
+      "sha256": "83834f713fd3f4ae72fb96226271e2a836e993feaa917eb94759a06227d70d29",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "GitHub - yuechen-li-dev/Aetheris: STEP AP242 Native-ish BREP Geometric Modeling Kernel · GitHub",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 6.547,
+      "capturedAtUtc": "2026-10-08T03:58:47.896697+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "yuechen-aetheris-difference-engine",
+          "field": "sourceUrl"
+        }
+      ],
+      "title": "GitHub - yuechen-li-dev/Aetheris: STEP AP242 Native-ish BREP Geometric Modeling Kernel · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://aetheris-difference-engine-showcase.yuechenli.workers.dev/preview.png",
+      "usedBy": [
+        {
+          "caseId": "yuechen-aetheris-difference-engine",
+          "field": "imageUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://aetheris-difference-engine-showcase.yuechenli.workers.dev/preview.png",
+      "contentType": "image/png",
+      "bytes": 116658,
+      "contentLength": "116658",
+      "sha256": "2b66f55f77d934b6b533f24953b193410735d857276afe57f1e2ef5f2fe3e5fd",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "JPEG",
+      "width": 1435,
+      "height": 1216,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 3.172,
+      "capturedAtUtc": "2026-10-08T03:58:45.631727+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "yuechen-aetheris-difference-engine",
+          "field": "imageUrl"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/yuechen-li-dev/Aetheris/tree/master/demos/Aetheris.DifferenceEngine.Showcase",
+      "usedBy": [
+        {
+          "caseId": "yuechen-aetheris-difference-engine",
+          "field": "repositoryUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://github.com/yuechen-li-dev/Aetheris/tree/master/demos/Aetheris.DifferenceEngine.Showcase",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 275009,
+      "contentLength": null,
+      "sha256": "72fc2ae08d4704e219cf16681b75d04ab0db54bcfe3472df9a5c6f8897b80315",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "Aetheris/demos/Aetheris.DifferenceEngine.Showcase at master · yuechen-li-dev/Aetheris · GitHub",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 5.859,
+      "capturedAtUtc": "2026-10-08T03:58:49.523730+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "yuechen-aetheris-difference-engine",
+          "field": "repositoryUrl"
+        }
+      ],
+      "title": "Aetheris/demos/Aetheris.DifferenceEngine.Showcase at master · yuechen-li-dev/Aetheris · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://aetheris-difference-engine-showcase.yuechenli.workers.dev/",
+      "usedBy": [
+        {
+          "caseId": "yuechen-aetheris-difference-engine",
+          "field": "demoUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://aetheris-difference-engine-showcase.yuechenli.workers.dev/",
+      "contentType": "text/html",
+      "bytes": 5318,
+      "contentLength": null,
+      "sha256": "625d7de11c188a7c2f4f6e5216df5dfd4b5772246c49203789e6d4e832a9d74a",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "Difference Engine · Aetheris",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 1.532,
+      "capturedAtUtc": "2026-10-08T03:58:47.161965+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "yuechen-aetheris-difference-engine",
+          "field": "demoUrl"
+        }
+      ],
+      "title": "Difference Engine · Aetheris",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/yuechen-li-dev/Aetheris/blob/master/demos/Aetheris.DifferenceEngine.Showcase/README.md",
+      "usedBy": [
+        {
+          "caseId": "yuechen-aetheris-difference-engine",
+          "field": "promptUrl"
+        },
+        {
+          "caseId": "yuechen-aetheris-difference-engine",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://github.com/yuechen-li-dev/Aetheris/blob/master/demos/Aetheris.DifferenceEngine.Showcase/README.md",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 258299,
+      "contentLength": null,
+      "sha256": "5391802ec8f454efb05bc89acb6ff864c315c7d04b3715e80da17d233dd434f6",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "Aetheris/demos/Aetheris.DifferenceEngine.Showcase/README.md at master · yuechen-li-dev/Aetheris · GitHub",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.329,
+      "capturedAtUtc": "2026-10-08T03:58:48.903793+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "yuechen-aetheris-difference-engine",
+          "field": "promptUrl"
+        },
+        {
+          "caseId": "yuechen-aetheris-difference-engine",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": "Aetheris/demos/Aetheris.DifferenceEngine.Showcase/README.md at master · yuechen-li-dev/Aetheris · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/yuechen-li-dev/Aetheris/blob/master/README.md",
+      "usedBy": [
+        {
+          "caseId": "yuechen-aetheris-difference-engine",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 285422,
+      "attempt": 2,
+      "retrievalSucceeded": true,
+      "accessReason": "GitHub rate limit",
+      "finalUrl": "https://github.com/yuechen-li-dev/Aetheris/blob/master/README.md",
+      "contentLength": null,
+      "sha256": "e685b8cbc0c01ab4096bffbe7b6e7db3f28883381186f20f0cb3bfd0011daea0",
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "htmlTitle": "Aetheris/README.md at master · yuechen-li-dev/Aetheris · GitHub",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 429,
+          "success": false
+        },
+        {
+          "attempt": 2,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 3.171,
+      "capturedAtUtc": "2026-10-08T03:58:50.336124+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "yuechen-aetheris-difference-engine",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": "Aetheris/README.md at master · yuechen-li-dev/Aetheris · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/yuechen-li-dev/Aetheris/blob/master/docs/public/demos/difference-engine-showcase.md",
+      "usedBy": [
+        {
+          "caseId": "yuechen-aetheris-difference-engine",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://github.com/yuechen-li-dev/Aetheris/blob/master/docs/public/demos/difference-engine-showcase.md",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 249719,
+      "contentLength": null,
+      "sha256": "69c1fe97f44ff450b51bdee57be846a4bf1f6cfdbb0c7dc5599cea4dae0c6be1",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "Aetheris/docs/public/demos/difference-engine-showcase.md at master · yuechen-li-dev/Aetheris · GitHub",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.609,
+      "capturedAtUtc": "2026-10-08T03:58:50.500956+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "yuechen-aetheris-difference-engine",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": "Aetheris/docs/public/demos/difference-engine-showcase.md at master · yuechen-li-dev/Aetheris · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://aetheris-difference-engine-showcase.yuechenli.workers.dev/receipts.json",
+      "usedBy": [
+        {
+          "caseId": "yuechen-aetheris-difference-engine",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://aetheris-difference-engine-showcase.yuechenli.workers.dev/receipts.json",
+      "contentType": "application/json",
+      "bytes": 29636,
+      "contentLength": "29636",
+      "sha256": "9e8ab93441bcc151720f921cb2aea8c367a40b98d602b5492c72df31cf480a4b",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.546,
+      "capturedAtUtc": "2026-10-08T03:58:51.455347+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "yuechen-aetheris-difference-engine",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://aetheris-difference-engine-showcase.yuechenli.workers.dev/difference-engine.step",
+      "usedBy": [
+        {
+          "caseId": "yuechen-aetheris-difference-engine",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": false,
+      "status": 200,
+      "finalUrl": "https://aetheris-difference-engine-showcase.yuechenli.workers.dev/difference-engine.step",
+      "contentType": "model/step",
+      "bytes": 524288,
+      "contentLength": "1507858",
+      "sha256": "4216366c91654ba8a2faf561edb873f03e5eedab2102b34d1619c4cfb114bbf8",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "bounded-response-prefix",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.578,
+      "capturedAtUtc": "2026-10-08T03:58:52.095481+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "yuechen-aetheris-difference-engine",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/FLYING37520/astra-air-combat",
+      "usedBy": [
+        {
+          "caseId": "flying37520-astra-air-combat",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "flying37520-astra-air-combat",
+          "field": "repositoryUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://github.com/FLYING37520/astra-air-combat",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 309442,
+      "contentLength": null,
+      "sha256": "78f81f0b1c74036163db33bd57b9633af4face95ea77e5692fec834e5e4a7555",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "GitHub - FLYING37520/astra-air-combat: 本项目是用于测试gpt6 astra模型能力的游戏demo，祝你游戏愉快！ · GitHub",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.329,
+      "capturedAtUtc": "2026-10-08T03:58:52.660483+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "flying37520-astra-air-combat",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "flying37520-astra-air-combat",
+          "field": "repositoryUrl"
+        }
+      ],
+      "title": "GitHub - FLYING37520/astra-air-combat: 本项目是用于测试gpt6 astra模型能力的游戏demo，祝你游戏愉快！ · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FLYING37520/astra-air-combat/main/artifacts/islands-clear.jpg",
+      "usedBy": [
+        {
+          "caseId": "flying37520-astra-air-combat",
+          "field": "imageUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/FLYING37520/astra-air-combat/main/artifacts/islands-clear.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 108924,
+      "contentLength": "108924",
+      "sha256": "e2799bff332cf7df808a50e473557859964beb261690de3e02c90c4262a21e75",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "JPEG",
+      "width": 1920,
+      "height": 1080,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.485,
+      "capturedAtUtc": "2026-10-08T03:58:52.988987+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "flying37520-astra-air-combat",
+          "field": "imageUrl"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://flying37520.github.io/astra-air-combat/",
+      "usedBy": [
+        {
+          "caseId": "flying37520-astra-air-combat",
+          "field": "demoUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://flying37520.github.io/astra-air-combat/",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 691,
+      "contentLength": "691",
+      "sha256": "bb6a20235cd12872bdb972e96bd4eab1f90f584300f7cb44ffa74ced4359f081",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "苍穹交锋 · ASTRA AIR COMBAT",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.891,
+      "capturedAtUtc": "2026-10-08T03:58:54.349985+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "flying37520-astra-air-combat",
+          "field": "demoUrl"
+        }
+      ],
+      "title": "苍穹交锋 · ASTRA AIR COMBAT",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/FLYING37520/astra-air-combat/blob/main/README.md",
+      "usedBy": [
+        {
+          "caseId": "flying37520-astra-air-combat",
+          "field": "promptUrl"
+        },
+        {
+          "caseId": "flying37520-astra-air-combat",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://github.com/FLYING37520/astra-air-combat/blob/main/README.md",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 270035,
+      "contentLength": null,
+      "sha256": "5195869727114437c5f3e956460fb13d5f174aec79712f2ce3d2d6497915973a",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "astra-air-combat/README.md at main · FLYING37520/astra-air-combat · GitHub",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 3.906,
+      "capturedAtUtc": "2026-10-08T03:58:55.998977+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "flying37520-astra-air-combat",
+          "field": "promptUrl"
+        },
+        {
+          "caseId": "flying37520-astra-air-combat",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": "astra-air-combat/README.md at main · FLYING37520/astra-air-combat · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/FLYING37520/astra-air-combat/blob/main/VALIDATION.md",
+      "usedBy": [
+        {
+          "caseId": "flying37520-astra-air-combat",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://github.com/FLYING37520/astra-air-combat/blob/main/VALIDATION.md",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 296124,
+      "contentLength": null,
+      "sha256": "1bb5df96c108120f5ab3e17ef65299ce97646eba0e7c09f559d774f87baac7f9",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "astra-air-combat/VALIDATION.md at main · FLYING37520/astra-air-combat · GitHub",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 3.609,
+      "capturedAtUtc": "2026-10-08T03:58:56.274669+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "flying37520-astra-air-combat",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": "astra-air-combat/VALIDATION.md at main · FLYING37520/astra-air-combat · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/FLYING37520/astra-air-combat/blob/main/ASSET_LICENSES.md",
+      "usedBy": [
+        {
+          "caseId": "flying37520-astra-air-combat",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://github.com/FLYING37520/astra-air-combat/blob/main/ASSET_LICENSES.md",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 234463,
+      "contentLength": null,
+      "sha256": "cbe16f669638ba5eeb330ab6f6e48bd77979dccf973c0bb4b62ab149636e4376",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "astra-air-combat/ASSET_LICENSES.md at main · FLYING37520/astra-air-combat · GitHub",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 3.516,
+      "capturedAtUtc": "2026-10-08T03:58:56.644545+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "flying37520-astra-air-combat",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": "astra-air-combat/ASSET_LICENSES.md at main · FLYING37520/astra-air-combat · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FLYING37520/astra-air-combat/main/artifacts/cockpit-rain-high.jpg",
+      "usedBy": [
+        {
+          "caseId": "flying37520-astra-air-combat",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/FLYING37520/astra-air-combat/main/artifacts/cockpit-rain-high.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 108681,
+      "contentLength": "108681",
+      "sha256": "91a268a618c95adbc408de33929d503fb7b77945c7f749f53ba9e93b0edc9dab",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "JPEG",
+      "width": 1920,
+      "height": 1080,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.969,
+      "capturedAtUtc": "2026-10-08T03:58:57.318222+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "flying37520-astra-air-combat",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/yjrocks712/Sunward-by-GPT-6-Astra",
+      "usedBy": [
+        {
+          "caseId": "yjrocks-sunward-racing",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "yjrocks-sunward-racing",
+          "field": "repositoryUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://github.com/yjrocks712/Sunward-by-GPT-6-Astra",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 309504,
+      "contentLength": null,
+      "sha256": "6ab2f2490dc0aeab88792225280205bfbddb8e47df51a19110ab9ff4beaf1b99",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "GitHub - yjrocks712/Sunward-by-GPT-6-Astra: I’m GPT-6 Astra. I built most of Sunward’s initial game in roughly an hour. A very basic racing game made with limited time and effort. Apple Silicon Mac download and open Unity source. · GitHub",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.172,
+      "capturedAtUtc": "2026-10-08T03:58:58.180610+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "yjrocks-sunward-racing",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "yjrocks-sunward-racing",
+          "field": "repositoryUrl"
+        }
+      ],
+      "title": "GitHub - yjrocks712/Sunward-by-GPT-6-Astra: I’m GPT-6 Astra. I built most of Sunward’s initial game in roughly an hour. A very basic racing game made with limited time and effort. Apple Silicon Mac download and open Unity source. · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/yjrocks712/Sunward-by-GPT-6-Astra/main/docs/images/driving.png",
+      "usedBy": [
+        {
+          "caseId": "yjrocks-sunward-racing",
+          "field": "imageUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/yjrocks712/Sunward-by-GPT-6-Astra/main/docs/images/driving.png",
+      "contentType": "image/png",
+      "bytes": 939723,
+      "contentLength": "939723",
+      "sha256": "77c9a8134aa8c5b27acd1e12d75bee8b136c507bab1715cd2fb42c7d8457c5e9",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "PNG",
+      "width": 1600,
+      "height": 900,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 4.391,
+      "capturedAtUtc": "2026-10-08T03:59:00.655265+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "yjrocks-sunward-racing",
+          "field": "imageUrl"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/yjrocks712/Sunward-by-GPT-6-Astra/blob/main/README.md",
+      "usedBy": [
+        {
+          "caseId": "yjrocks-sunward-racing",
+          "field": "promptUrl"
+        },
+        {
+          "caseId": "yjrocks-sunward-racing",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 273053,
+      "attempt": 2,
+      "retrievalSucceeded": true,
+      "accessReason": "GitHub rate limit",
+      "finalUrl": "https://github.com/yjrocks712/Sunward-by-GPT-6-Astra/blob/main/README.md",
+      "contentLength": null,
+      "sha256": "0fc37e3f1514a38e70de68fa2323352b7f2d52967173f192d4146461bd576f7b",
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "htmlTitle": "Sunward-by-GPT-6-Astra/README.md at main · yjrocks712/Sunward-by-GPT-6-Astra · GitHub",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 429,
+          "success": false
+        },
+        {
+          "attempt": 2,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 3.375,
+      "capturedAtUtc": "2026-10-08T03:59:00.014960+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "yjrocks-sunward-racing",
+          "field": "promptUrl"
+        },
+        {
+          "caseId": "yjrocks-sunward-racing",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": "Sunward-by-GPT-6-Astra/README.md at main · yjrocks712/Sunward-by-GPT-6-Astra · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/yjrocks712/Sunward-by-GPT-6-Astra/blob/main/THIRD_PARTY_NOTICES.md",
+      "usedBy": [
+        {
+          "caseId": "yjrocks-sunward-racing",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://github.com/yjrocks712/Sunward-by-GPT-6-Astra/blob/main/THIRD_PARTY_NOTICES.md",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 242608,
+      "contentLength": null,
+      "sha256": "3bc48b74b80b8f48f466168ce1ebb922ad939d34dd7cccea2cc965896570d8b2",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "Sunward-by-GPT-6-Astra/THIRD_PARTY_NOTICES.md at main · yjrocks712/Sunward-by-GPT-6-Astra · GitHub",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.078,
+      "capturedAtUtc": "2026-10-08T03:58:59.387661+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "yjrocks-sunward-racing",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": "Sunward-by-GPT-6-Astra/THIRD_PARTY_NOTICES.md at main · yjrocks712/Sunward-by-GPT-6-Astra · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/yjrocks712/Sunward-by-GPT-6-Astra/releases/tag/v0.1.0",
+      "usedBy": [
+        {
+          "caseId": "yjrocks-sunward-racing",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://github.com/yjrocks712/Sunward-by-GPT-6-Astra/releases/tag/v0.1.0",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 195523,
+      "contentLength": null,
+      "sha256": "8a9447d4a69124f8e595ff78f6c3eb9143dc10b3da9b017d13913b9f73fe16d8",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "Release Sunward v0.1.0 — a racing game by GPT-6 Astra · yjrocks712/Sunward-by-GPT-6-Astra · GitHub",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.766,
+      "capturedAtUtc": "2026-10-08T03:59:00.932650+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "yjrocks-sunward-racing",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": "Release Sunward v0.1.0 — a racing game by GPT-6 Astra · yjrocks712/Sunward-by-GPT-6-Astra · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/yjrocks712/Sunward-by-GPT-6-Astra/main/docs/images/photo.png",
+      "usedBy": [
+        {
+          "caseId": "yjrocks-sunward-racing",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/yjrocks712/Sunward-by-GPT-6-Astra/main/docs/images/photo.png",
+      "contentType": "image/png",
+      "bytes": 2599982,
+      "contentLength": "2599982",
+      "sha256": "c756d955a5195419e7e35b8015da5f177657acb71278e9d5c1dd751e7bfb225d",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "PNG",
+      "width": 3840,
+      "height": 2160,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 3.922,
+      "capturedAtUtc": "2026-10-08T03:59:03.308616+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "yjrocks-sunward-racing",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/HaileyStorm/rift-chess",
+      "usedBy": [
+        {
+          "caseId": "hailey-rift-chess",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "hailey-rift-chess",
+          "field": "repositoryUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://github.com/HaileyStorm/rift-chess",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 326260,
+      "contentLength": null,
+      "sha256": "dd48aec443c8d9d9fb30ab3dc9d633163e8debbba1f69d1771e1f4ef1a72cc66",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "GitHub - HaileyStorm/rift-chess: Offline 3D chess on a moving board. Play locally in your browser or on Windows. · GitHub",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.922,
+      "capturedAtUtc": "2026-10-08T03:59:02.932872+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "hailey-rift-chess",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "hailey-rift-chess",
+          "field": "repositoryUrl"
+        }
+      ],
+      "title": "GitHub - HaileyStorm/rift-chess: Offline 3D chess on a moving board. Play locally in your browser or on Windows. · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/HaileyStorm/rift-chess/main/docs/evidence/overhaul/gallery.png",
+      "usedBy": [
+        {
+          "caseId": "hailey-rift-chess",
+          "field": "imageUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/HaileyStorm/rift-chess/main/docs/evidence/overhaul/gallery.png",
+      "contentType": "image/png",
+      "bytes": 1051673,
+      "contentLength": "1051673",
+      "sha256": "f95b6a913eff321b3efce4a857e01dee47b1320bb8f533707b1297185f7db969",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "PNG",
+      "width": 1600,
+      "height": 1000,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 3.125,
+      "capturedAtUtc": "2026-10-08T03:59:03.776048+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "hailey-rift-chess",
+          "field": "imageUrl"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://haileystorm.github.io/rift-chess/",
+      "usedBy": [
+        {
+          "caseId": "hailey-rift-chess",
+          "field": "demoUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://haileystorm.github.io/rift-chess/",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 857,
+      "contentLength": "857",
+      "sha256": "05275c202778bebcb85333734a0a5e9c1884204d32d3a3dc86408261f68a125f",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "Rift Chess",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 0.812,
+      "capturedAtUtc": "2026-10-08T03:59:01.744368+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "hailey-rift-chess",
+          "field": "demoUrl"
+        }
+      ],
+      "title": "Rift Chess",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/HaileyStorm/rift-chess/blob/main/docs/IMPLEMENTATION.md",
+      "usedBy": [
+        {
+          "caseId": "hailey-rift-chess",
+          "field": "promptUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://github.com/HaileyStorm/rift-chess/blob/main/docs/IMPLEMENTATION.md",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 238241,
+      "contentLength": null,
+      "sha256": "9e2179e49758aea5db0b9a73075360c4381ffa6099eb4012cc844eb0dbd2574d",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "rift-chess/docs/IMPLEMENTATION.md at main · HaileyStorm/rift-chess · GitHub",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 3.266,
+      "capturedAtUtc": "2026-10-08T03:59:05.010590+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "hailey-rift-chess",
+          "field": "promptUrl"
+        }
+      ],
+      "title": "rift-chess/docs/IMPLEMENTATION.md at main · HaileyStorm/rift-chess · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/HaileyStorm/rift-chess/blob/main/README.md",
+      "usedBy": [
+        {
+          "caseId": "hailey-rift-chess",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://github.com/HaileyStorm/rift-chess/blob/main/README.md",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 262724,
+      "contentLength": null,
+      "sha256": "39b5450d084561a367b21e2a2334a18d3e7fc55b7d1dc37d80605f1fd5ebeee5",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "rift-chess/README.md at main · HaileyStorm/rift-chess · GitHub",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 1.89,
+      "capturedAtUtc": "2026-10-08T03:59:04.821962+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "hailey-rift-chess",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": "rift-chess/README.md at main · HaileyStorm/rift-chess · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/HaileyStorm/rift-chess/blob/main/docs/ASSET_LEDGER.md",
+      "usedBy": [
+        {
+          "caseId": "hailey-rift-chess",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://github.com/HaileyStorm/rift-chess/blob/main/docs/ASSET_LEDGER.md",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 248512,
+      "contentLength": null,
+      "sha256": "da0888bd8b62fee4ea0e3466bd5a21c1d35fc0a2efee4fb0eebe8e58717db6b2",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "rift-chess/docs/ASSET_LEDGER.md at main · HaileyStorm/rift-chess · GitHub",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.39,
+      "capturedAtUtc": "2026-10-08T03:59:05.696632+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "hailey-rift-chess",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": "rift-chess/docs/ASSET_LEDGER.md at main · HaileyStorm/rift-chess · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/HaileyStorm/rift-chess/blob/main/docs/PLAYTESTS.md",
+      "usedBy": [
+        {
+          "caseId": "hailey-rift-chess",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://github.com/HaileyStorm/rift-chess/blob/main/docs/PLAYTESTS.md",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 286505,
+      "contentLength": null,
+      "sha256": "ac6fb89cff3c2a1b9f26bf2c964bfa80e2d095051477e24df96a793e5787410c",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "rift-chess/docs/PLAYTESTS.md at main · HaileyStorm/rift-chess · GitHub",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.453,
+      "capturedAtUtc": "2026-10-08T03:59:06.229615+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "hailey-rift-chess",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": "rift-chess/docs/PLAYTESTS.md at main · HaileyStorm/rift-chess · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/HaileyStorm/rift-chess/blob/main/THIRD_PARTY_NOTICES.md",
+      "usedBy": [
+        {
+          "caseId": "hailey-rift-chess",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 226395,
+      "attempt": 2,
+      "retrievalSucceeded": true,
+      "accessReason": "GitHub rate limit",
+      "finalUrl": "https://github.com/HaileyStorm/rift-chess/blob/main/THIRD_PARTY_NOTICES.md",
+      "contentLength": null,
+      "sha256": "464b5bc64e1382fd9ba57ad127a9bdf53ac81bab6c0070d8500c5d6e6c104124",
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "htmlTitle": "rift-chess/THIRD_PARTY_NOTICES.md at main · HaileyStorm/rift-chess · GitHub",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 429,
+          "success": false
+        },
+        {
+          "attempt": 2,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 3.907,
+      "capturedAtUtc": "2026-10-08T03:59:08.740691+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "hailey-rift-chess",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": "rift-chess/THIRD_PARTY_NOTICES.md at main · HaileyStorm/rift-chess · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://x.com/vib3coded/status/2107617244301664483",
+      "usedBy": [
+        {
+          "caseId": "vib3coded-villa-jelly",
+          "field": "sourceUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://x.com/vib3coded/status/2107617244301664483",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 151482,
+      "contentLength": null,
+      "sha256": "dcf6c45f36fef6fb01897aa8eabfd30ea3d3b700d0ece3cb0e4f5a9e157f2ab8",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "Vib3Coded on X: \"Asked two AIs to build me a villa. Now I can’t decide which one to move into 😂🌴 Claude Opus 5.5 vs ChatGPT-6 Astra Both models did about equally well this time. A tropical villa on a jelly island, palm trees, clear water, and a littl",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 1.828,
+      "capturedAtUtc": "2026-10-08T03:59:06.845697+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "vib3coded-villa-jelly",
+          "field": "sourceUrl"
+        }
+      ],
+      "title": "Vib3Coded on X: \"Asked two AIs to build me a villa. Now I can’t decide which one to move into 😂🌴 Claude Opus 5.5 vs ChatGPT-6 Astra Both models did about equally well this time. A tropical villa on a jelly island, palm trees, clear water, and a littl",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2107617007289937920/img/U87PZ2yFlwt-4M3d.jpg",
+      "usedBy": [
+        {
+          "caseId": "vib3coded-villa-jelly",
+          "field": "imageUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://pbs.twimg.com/amplify_video_thumb/2107617007289937920/img/U87PZ2yFlwt-4M3d.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 106621,
+      "contentLength": "106621",
+      "sha256": "862faa173b8996ddd2b3c6003d6c3c41adda9f8729b5bf936747605246e2bc9a",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "JPEG",
+      "width": 948,
+      "height": 1200,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 1.782,
+      "capturedAtUtc": "2026-10-08T03:59:07.481539+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "vib3coded-villa-jelly",
+          "field": "imageUrl"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://api.fxtwitter.com/vib3coded/status/2107617244301664483",
+      "usedBy": [
+        {
+          "caseId": "vib3coded-villa-jelly",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://api.fxtwitter.com/vib3coded/status/2107617244301664483",
+      "contentType": "application/json",
+      "bytes": 6480,
+      "contentLength": "6480",
+      "sha256": "8d8ab800713f86bbdab4b45e5a5063dd886802e537a91ef430115c602064e7f2",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 0.922,
+      "capturedAtUtc": "2026-10-08T03:59:07.152595+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "vib3coded-villa-jelly",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/tural-dzhalilov_which-ai-model-understands-3d-best-gpt-astra-activity-7513161546236227584-L1lc",
+      "usedBy": [
+        {
+          "caseId": "tural-four-model-3d-prop",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "tural-four-model-3d-prop",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/posts/tural-dzhalilov_which-ai-model-understands-3d-best-gpt-astra-activity-7513161546236227584-L1lc",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 187340,
+      "contentLength": null,
+      "sha256": "3478fb8b2f221567eddfbde3a60304501ebb080e8b01aad888c5320e5d8814fd",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "Which AI model understands 3D best: GPT Astra, GPT-6.1 Sol, Sonnet 5.5, or Opus 5.5? All four got the exact same task: recreate the same reference object from scratch in 3D. Same prompt. Same… | Tural Dzhalilov | 22 comments",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.141,
+      "capturedAtUtc": "2026-10-08T03:59:08.992823+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "tural-four-model-3d-prop",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "tural-four-model-3d-prop",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": "Which AI model understands 3D best: GPT Astra, GPT-6.1 Sol, Sonnet 5.5, or Opus 5.5? All four got the exact same task: recreate the same reference object from scratch in 3D. Same prompt. Same… | Tural Dzhalilov | 22 comments",
+      "result": "reachable"
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4E22AQEOPS6O3nW1bQ/feedshare-shrink_800/B4EaEQE0WEI8Ac-/0/1791271061423?e=2147483647&v=beta&t=V5xPnIzh1hfECHD-rRzHVe8QlH2uRjnG5EbItkRvjgM",
+      "usedBy": [
+        {
+          "caseId": "tural-four-model-3d-prop",
+          "field": "imageUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://media.licdn.com/dms/image/v2/D4E22AQEOPS6O3nW1bQ/feedshare-shrink_800/B4EaEQE0WEI8Ac-/0/1791271061423?e=2147483647&v=beta&t=V5xPnIzh1hfECHD-rRzHVe8QlH2uRjnG5EbItkRvjgM",
+      "contentType": "image/jpeg",
+      "bytes": 56300,
+      "contentLength": "56300",
+      "sha256": "0f2215a4d0c8bd8ed71ba4fba06a4c9e5b0a2d08ed40bcdd3160df11a2e56d44",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "JPEG",
+      "width": 800,
+      "height": 775,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 1.296,
+      "capturedAtUtc": "2026-10-08T03:59:08.449886+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "tural-four-model-3d-prop",
+          "field": "imageUrl"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://retrostylegames.com/blog/ai-pipelines-in-asset-packs/",
+      "usedBy": [
+        {
+          "caseId": "retrostyle-four-asset-packs",
+          "field": "sourceUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://retrostylegames.com/blog/ai-pipelines-in-asset-packs/",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 257390,
+      "contentLength": null,
+      "sha256": "fc2307c927fa4a6c8ab2a8ba838f8d2d7e37ce5a42f0ec84d69ffcbb553a1e30",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "Four Packs in One Week: Our 3D Artists, Powered by AI",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 1.64,
+      "capturedAtUtc": "2026-10-08T03:59:09.118957+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "retrostyle-four-asset-packs",
+          "field": "sourceUrl"
+        }
+      ],
+      "title": "Four Packs in One Week: Our 3D Artists, Powered by AI",
+      "result": "reachable"
+    },
+    {
+      "url": "https://images.retrostylegames.com/wp-content/uploads/2026/09/gas-station-horror-pack-red-pickup-1024x576.jpg",
+      "usedBy": [
+        {
+          "caseId": "retrostyle-four-asset-packs",
+          "field": "imageUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://images.retrostylegames.com/wp-content/uploads/2026/09/gas-station-horror-pack-red-pickup-1024x576.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 126857,
+      "contentLength": "126857",
+      "sha256": "7b0d496a4b4b002aaaeb496e7711e0ebe7705f524fe089c4b599e2f94a6f8cb5",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "JPEG",
+      "width": 1024,
+      "height": 576,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 1.985,
+      "capturedAtUtc": "2026-10-08T03:59:10.439750+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "retrostyle-four-asset-packs",
+          "field": "imageUrl"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/retrostyle-games_ai-officially-replaced-our-artists-that-activity-7508918418197151744-AUCz",
+      "usedBy": [
+        {
+          "caseId": "retrostyle-four-asset-packs",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/posts/retrostyle-games_ai-officially-replaced-our-artists-that-activity-7508918418197151744-AUCz",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 288117,
+      "contentLength": null,
+      "sha256": "683d1987b99fcee08afebeb55d2cf8a2d17b7c8519502e96096806a55110e189",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "Astra AI Boosts 3D Team Productivity Without Replacing Artists | RetroStyle Games posted on the topic | LinkedIn",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.906,
+      "capturedAtUtc": "2026-10-08T03:59:11.637896+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "retrostyle-four-asset-packs",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": "Astra AI Boosts 3D Team Productivity Without Replacing Artists | RetroStyle Games posted on the topic | LinkedIn",
+      "result": "reachable"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/retrostyle-games_gas-dash-coming-soon-pack-activity-7510685750980579328-G-pn",
+      "usedBy": [
+        {
+          "caseId": "retrostyle-four-asset-packs",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/posts/retrostyle-games_gas-dash-coming-soon-pack-activity-7510685750980579328-G-pn",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 279487,
+      "contentLength": null,
+      "sha256": "17f3c2dc3b2facadd4d0e7ffcfd0303cbfa05296e34671c7366f5829867b0713",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "Gas & Dash | Coming Soon Pack | RetroStyle Games",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.062,
+      "capturedAtUtc": "2026-10-08T03:59:11.049942+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "retrostyle-four-asset-packs",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": "Gas & Dash | Coming Soon Pack | RetroStyle Games",
+      "result": "reachable"
+    },
+    {
+      "url": "https://images.retrostylegames.com/wp-content/uploads/2026/09/miami-open-city-pack-red-pickup-character-1024x576.jpg",
+      "usedBy": [
+        {
+          "caseId": "retrostyle-four-asset-packs",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://images.retrostylegames.com/wp-content/uploads/2026/09/miami-open-city-pack-red-pickup-character-1024x576.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 131585,
+      "contentLength": "131585",
+      "sha256": "456815e914b5d22edfda8e807e2d49dcf72871ca8e27e1fd853d6b7638142772",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "JPEG",
+      "width": 1024,
+      "height": 576,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 1.391,
+      "capturedAtUtc": "2026-10-08T03:59:10.513912+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "retrostyle-four-asset-packs",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://images.retrostylegames.com/wp-content/uploads/2026/09/coop-survival-pack-forest-campfire-night-1024x576.jpg",
+      "usedBy": [
+        {
+          "caseId": "retrostyle-four-asset-packs",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://images.retrostylegames.com/wp-content/uploads/2026/09/coop-survival-pack-forest-campfire-night-1024x576.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 87660,
+      "contentLength": "87660",
+      "sha256": "085e68a245a754fec8180f3810db843da59693000604772c758ce30c83f80231",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "JPEG",
+      "width": 1024,
+      "height": 576,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 1.359,
+      "capturedAtUtc": "2026-10-08T03:59:11.805208+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "retrostyle-four-asset-packs",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://images.retrostylegames.com/wp-content/uploads/2026/09/retro-tech-restoration-pack-repair-desk-1024x576.jpg",
+      "usedBy": [
+        {
+          "caseId": "retrostyle-four-asset-packs",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://images.retrostylegames.com/wp-content/uploads/2026/09/retro-tech-restoration-pack-repair-desk-1024x576.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 89887,
+      "contentLength": "89887",
+      "sha256": "4c1aa37bf39e060ba14f2d784ecbde01bea160862d2e601e8accf2350e4a85db",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "JPEG",
+      "width": 1024,
+      "height": 576,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 1.531,
+      "capturedAtUtc": "2026-10-08T03:59:12.055084+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "retrostyle-four-asset-packs",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/monstercameron/Neural-Sight",
+      "usedBy": [
+        {
+          "caseId": "monstercameron-neural-sight",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "monstercameron-neural-sight",
+          "field": "repositoryUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://github.com/monstercameron/Neural-Sight",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 285637,
+      "contentLength": null,
+      "sha256": "050037361557fc78f090391cf5f077708bb6092d8fd21ddf3dd06da809d7cceb",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "GitHub - monstercameron/Neural-Sight: A first-person browser experiment with Gaussian-splat worlds and generated screen-space weapon footage. · GitHub",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.5,
+      "capturedAtUtc": "2026-10-08T03:59:13.542669+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "monstercameron-neural-sight",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "monstercameron-neural-sight",
+          "field": "repositoryUrl"
+        }
+      ],
+      "title": "GitHub - monstercameron/Neural-Sight: A first-person browser experiment with Gaussian-splat worlds and generated screen-space weapon footage. · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/monstercameron/Neural-Sight/main/docs/images/nelson-ghost-town.jpg",
+      "usedBy": [
+        {
+          "caseId": "monstercameron-neural-sight",
+          "field": "imageUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/monstercameron/Neural-Sight/main/docs/images/nelson-ghost-town.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 106377,
+      "contentLength": "106377",
+      "sha256": "bdd3d154fe30f769313718c65cc04f0315dd090ac4d6e4f11455f9cdb0578c32",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "JPEG",
+      "width": 662,
+      "height": 1014,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 1.328,
+      "capturedAtUtc": "2026-10-08T03:59:12.977693+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "monstercameron-neural-sight",
+          "field": "imageUrl"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://monstercameron.github.io/Neural-Sight/",
+      "usedBy": [
+        {
+          "caseId": "monstercameron-neural-sight",
+          "field": "demoUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://monstercameron.github.io/Neural-Sight/",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 25628,
+      "contentLength": "25628",
+      "sha256": "f622a0317f5c56f3624d1dcc15e767ba31244179a0b8afb0e5cf91b01d9921fd",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "Neural Sight — Choose a level",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 0.984,
+      "capturedAtUtc": "2026-10-08T03:59:12.804585+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "monstercameron-neural-sight",
+          "field": "demoUrl"
+        }
+      ],
+      "title": "Neural Sight — Choose a level",
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/monstercameron/Neural-Sight/blob/main/docs/ASSET-NOTICES.md",
+      "usedBy": [
+        {
+          "caseId": "monstercameron-neural-sight",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://github.com/monstercameron/Neural-Sight/blob/main/docs/ASSET-NOTICES.md",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 224217,
+      "contentLength": null,
+      "sha256": "fa402ccaabce19332fdbfe8693e73c979bbf528e1ed41deaf7443fd5f5e5d3da",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "Neural-Sight/docs/ASSET-NOTICES.md at main · monstercameron/Neural-Sight · GitHub",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.078,
+      "capturedAtUtc": "2026-10-08T03:59:14.148372+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "monstercameron-neural-sight",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": "Neural-Sight/docs/ASSET-NOTICES.md at main · monstercameron/Neural-Sight · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://x.com/Im_IrushiK/status/2096280064019353891",
+      "usedBy": [
+        {
+          "caseId": "imirushik-sunbreak-downhill",
+          "field": "sourceUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://x.com/Im_IrushiK/status/2096280064019353891",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 129814,
+      "contentLength": null,
+      "sha256": "ee5f1da681f4635781300933079132d126f5fdd343b89e31e526ffb32a3b69a9",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "Irushi on X: \"GPT-6 Astra is an absolute beast at building 3D games It one shot a full BMX racing game with Astra on High reasoning- Downhill bike physics, tricks,jumps,crashes,dynamic rain,cinematic cameras,insane boost effects. & GPT-6 Astra built ",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.5,
+      "capturedAtUtc": "2026-10-08T03:59:15.305194+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "imirushik-sunbreak-downhill",
+          "field": "sourceUrl"
+        }
+      ],
+      "title": "Irushi on X: \"GPT-6 Astra is an absolute beast at building 3D games It one shot a full BMX racing game with Astra on High reasoning- Downhill bike physics, tricks,jumps,crashes,dynamic rain,cinematic cameras,insane boost effects. & GPT-6 Astra built ",
+      "result": "reachable"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Imirushik/sunbreak-downhill-3D-game/main/media/SUNBREAK-showcase-poster.jpg",
+      "usedBy": [
+        {
+          "caseId": "imirushik-sunbreak-downhill",
+          "field": "imageUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/Imirushik/sunbreak-downhill-3D-game/main/media/SUNBREAK-showcase-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 413730,
+      "contentLength": "413730",
+      "sha256": "3f6947bb5fe80edd0f492dbf5f5d980068aa3b2e7a06d0f4fa60f342ae057e6e",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "JPEG",
+      "width": 1920,
+      "height": 1080,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 3.094,
+      "capturedAtUtc": "2026-10-08T03:59:16.056964+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "imirushik-sunbreak-downhill",
+          "field": "imageUrl"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/Imirushik/sunbreak-downhill-3D-game",
+      "usedBy": [
+        {
+          "caseId": "imirushik-sunbreak-downhill",
+          "field": "repositoryUrl"
+        },
+        {
+          "caseId": "imirushik-sunbreak-downhill",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://github.com/Imirushik/sunbreak-downhill-3D-game",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 306197,
+      "contentLength": null,
+      "sha256": "47eec3a6b1b6b85083b12a3f074ec25bf131f71a60c1140854793bc692e0a027",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "GitHub - Imirushik/sunbreak-downhill-3D-game: A procedural cel-shaded downhill BMX racer built with Three.js—four riders, bike physics, tricks, dynamic weather and wild speed effects. · GitHub",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.766,
+      "capturedAtUtc": "2026-10-08T03:59:16.312370+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "imirushik-sunbreak-downhill",
+          "field": "repositoryUrl"
+        },
+        {
+          "caseId": "imirushik-sunbreak-downhill",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": "GitHub - Imirushik/sunbreak-downhill-3D-game: A procedural cel-shaded downhill BMX racer built with Three.js—four riders, bike physics, tricks, dynamic weather and wild speed effects. · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://x.com/Im_IrushiK/status/2096291038172455124",
+      "usedBy": [
+        {
+          "caseId": "imirushik-sunbreak-downhill",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://x.com/Im_IrushiK/status/2096291038172455124",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 139405,
+      "contentLength": null,
+      "sha256": "24d39a5d83d7695496ada764c7d157ac28241a3dbbe004b8a54fe90ba62ff39a",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "Irushi on X: \"Check the code here: https://t.co/CSHZHXSNOV\" / X",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.547,
+      "capturedAtUtc": "2026-10-08T03:59:16.684536+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "imirushik-sunbreak-downhill",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": "Irushi on X: \"Check the code here: https://t.co/CSHZHXSNOV\" / X",
+      "result": "reachable"
+    },
+    {
+      "url": "https://x.com/CtrlAltDwayne/status/2096365441472209227",
+      "usedBy": [
+        {
+          "caseId": "vheissu-saber-descent",
+          "field": "sourceUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://x.com/CtrlAltDwayne/status/2096365441472209227",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 141452,
+      "contentLength": null,
+      "sha256": "fd2b413b30f8056d2a526b43113b7a02942999a8e4c787095a72f62339355174",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "Dwayne on X: \"Created a dungeon crawler called Saber Descent where you fight your way through and explore with your lightsaber and other weapons. Used GPT-6 Astra, graphics were made using the Image Gen skill and Blender. Code is open source.\" / X",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.5,
+      "capturedAtUtc": "2026-10-08T03:59:17.800244+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "vheissu-saber-descent",
+          "field": "sourceUrl"
+        }
+      ],
+      "title": "Dwayne on X: \"Created a dungeon crawler called Saber Descent where you fight your way through and explore with your lightsaber and other weapons. Used GPT-6 Astra, graphics were made using the Image Gen skill and Blender. Code is open source.\" / X",
+      "result": "reachable"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Vheissu/saber-battle/main/screenshots/03-saber-descent-combat.png",
+      "usedBy": [
+        {
+          "caseId": "vheissu-saber-descent",
+          "field": "imageUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/Vheissu/saber-battle/main/screenshots/03-saber-descent-combat.png",
+      "contentType": "image/png",
+      "bytes": 76900,
+      "contentLength": "76900",
+      "sha256": "72c5e3dd7ceed1840c5ecbce095b7af57284f1bf65020e9798ab61a4d797a074",
+      "attempt": 1,
+      "bodyReadLimit": null,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "imageFormat": "JPEG",
+      "width": 1280,
+      "height": 800,
+      "imageDecodeExit": 0,
+      "validImage": true,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 1.328,
+      "capturedAtUtc": "2026-10-08T03:59:17.393679+00:00",
+      "isImage": true,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "vheissu-saber-descent",
+          "field": "imageUrl"
+        }
+      ],
+      "title": null,
+      "result": "reachable"
+    },
+    {
+      "url": "https://github.com/Vheissu/saber-battle",
+      "usedBy": [
+        {
+          "caseId": "vheissu-saber-descent",
+          "field": "repositoryUrl"
+        },
+        {
+          "caseId": "vheissu-saber-descent",
+          "field": "evidenceUrls"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://github.com/Vheissu/saber-battle",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 299861,
+      "contentLength": null,
+      "sha256": "66af32ed62eab3649cd93e224241e7c741ca5ce44c26474e697afea793d2ddd2",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "GitHub - Vheissu/saber-battle: Saber / Descent: a 3D saber dungeon crawler with glowing combat, fog of war, and explorable temple maps. · GitHub",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 2.375,
+      "capturedAtUtc": "2026-10-08T03:59:18.693704+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "vheissu-saber-descent",
+          "field": "repositoryUrl"
+        },
+        {
+          "caseId": "vheissu-saber-descent",
+          "field": "evidenceUrls"
+        }
+      ],
+      "title": "GitHub - Vheissu/saber-battle: Saber / Descent: a 3D saber dungeon crawler with glowing combat, fog of war, and explorable temple maps. · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://vheissu.github.io/saber-battle/",
+      "usedBy": [
+        {
+          "caseId": "vheissu-saber-descent",
+          "field": "demoUrl"
+        }
+      ],
+      "checkedAt": "2026-10-08",
+      "timezone": "Asia/Shanghai",
+      "method": "GET",
+      "fullBodyRead": true,
+      "status": 200,
+      "finalUrl": "https://vheissu.github.io/saber-battle/",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 913,
+      "contentLength": "913",
+      "sha256": "4b84ff15cb3b79182be906039a84ff2d109e13bb36628b4555f4a603cdba78ab",
+      "attempt": 1,
+      "bodyReadLimit": 524288,
+      "hashScope": "full-response-body",
+      "lfsPointer": false,
+      "retrievalSucceeded": true,
+      "htmlTitle": "Saber / Descent",
+      "possibleAccessChallenge": false,
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": 200,
+          "success": true
+        }
+      ],
+      "elapsedSeconds": 1.062,
+      "capturedAtUtc": "2026-10-08T03:59:17.755849+00:00",
+      "isImage": false,
+      "severity": "OK",
+      "observedAt": "2026-10-08",
+      "uses": [
+        {
+          "caseId": "vheissu-saber-descent",
+          "field": "demoUrl"
+        }
+      ],
+      "title": "Saber / Descent",
+      "result": "reachable"
     }
   ],
   "previousImageUrls": [
@@ -10057,6 +13305,24 @@
       "contentType": "image/jpeg",
       "contentRange": "bytes 0-4095/380188",
       "result": "reachable"
+    }
+  ],
+  "incrementalChecks": [
+    {
+      "checkedAt": "2026-10-08",
+      "scope": "Incremental GET checks for 13 proposed October 8 additions only. Existing 272 cases were not re-audited.",
+      "baselineCases": 272,
+      "caseCount": 13,
+      "uniqueUrls": 66,
+      "imageCount": 24,
+      "validImageCount": 24,
+      "casePreviewImageCount": 13,
+      "validCasePreviewImageCount": 13,
+      "fullGetCount": 63,
+      "boundedGetCount": 3,
+      "blockers": [],
+      "accessLimitations": [],
+      "brokenOrUnverified": []
     }
   ]
 }

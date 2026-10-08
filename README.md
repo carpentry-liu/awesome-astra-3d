@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-10-07（Asia/Shanghai）**：**260 条 Astra 案例** · **73 条源码 / 工程** · **97 个演示入口** · **118 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-10-08（Asia/Shanghai）**：**273 条 Astra 案例** · **80 条源码 / 工程** · **102 个演示入口** · **121 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -44,18 +44,18 @@
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-07.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-08.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-2026-10-07 本轮生产构建实拍。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+2026-10-08 本轮生产构建实拍。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
-<summary>查看案例区、手机与作品详情实拍 · 2026-10-07</summary>
+<summary>查看案例区、手机与作品详情实拍 · 2026-10-08</summary>
 
-[![案例区：筛选与更多作品](docs/media/collection-2026-10-07.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![案例区：筛选与更多作品](docs/media/collection-2026-10-08.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端：精选作品与材料导航](docs/media/mobile-2026-10-07.jpg)
+![手机端：精选作品与材料导航](docs/media/mobile-2026-10-08.jpg)
 
-[![作品详情：Jill 角色、完整录像与工具分工](docs/media/case-2026-10-07.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/852wa-jill-character/)
+[![作品详情：Villa Jelly 双模型成果、完整录像与来源](docs/media/case-2026-10-08.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-villa-jelly/)
 
 </details>
 
@@ -66,14 +66,14 @@
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
-| [Jill 角色：Tripo 分件、Astra 修复与 Opus 动作](https://carpentry-liu.github.io/awesome-astra-3d/cases/852wa-jill-character/) | 852話 / hakoniwa / @8co28 | [原始来源](https://note.com/852wa/n/nb681ba09e336) |
-| [三款浏览器游戏：Tripo 角色与 Astra 游戏代码](https://carpentry-liu.github.io/awesome-astra-3d/cases/routine-tripo-three-games/) | せなお / Routine labo / @rutinelabo | [原始来源](https://note.com/it_rutinelabo/n/n39c9019c2745) |
-| [DeepSeek 鲸鱼摆件：标志轮廓到可编辑打印网格](https://carpentry-liu.github.io/awesome-astra-3d/cases/shyrz-deepseek-whale-cad/) | Shyrz / shyrz | [源码](https://github.com/shyrz/gpt-6-astra-3dp-test) · [原始来源](https://linux.do/t/topic/2860014) |
-| [Guan’s Fencing Club：击剑录像、三维回放与剑尖轨迹](https://carpentry-liu.github.io/awesome-astra-3d/cases/samguan-fencing-replay/) | samguan2020 | [源码](https://github.com/samguan2020/guans-fencing-club) · [原始来源](https://github.com/samguan2020/guans-fencing-club) |
-| [Chess3D Astra：三维 / 二维国际象棋与本地电脑对手](https://carpentry-liu.github.io/awesome-astra-3d/cases/yortch-chess3dastra/) | yortch | [演示](https://yortch.github.io/chess3dastra/) · [源码](https://github.com/yortch/chess3dastra) · [原始来源](https://github.com/yortch/chess3dastra) |
-| [NVIDIA：从输送线过隙到 UR10 机械臂分拣](https://carpentry-liu.github.io/awesome-astra-3d/cases/nvidia-astra-conveyor-robotiq/) | Ashley Goldstein / NVIDIA Omniverse | [原始来源](https://nvidia-omniverse.github.io/omniverse-labs/projects/astra-vscode-simulation/) |
-| [Higgsfield × Astra：椭圆形办公室可重拍三维布景](https://carpentry-liu.github.io/awesome-astra-3d/cases/mashrabov-oval-office/) | Alex Mashrabov / Higgsfield | [原始来源](https://www.linkedin.com/posts/amashrabov_our-team-has-been-testing-gpt-6-astra-on-activity-7503945317143289856-L6x9) |
-| [ちいさな街工房：参数驱动的三维城镇与 GLB 导出](https://carpentry-liu.github.io/awesome-astra-3d/cases/miya-little-city-studio/) | miya / @miya00907380 | [演示](https://little-city-studio.miya333.chatgpt.site/) · [原始来源](https://note.com/miya19/n/nf759594eb209) |
+| [マツダ兔角色：Tripo 分件到 Astra 修复与 VRM](https://carpentry-liu.github.io/awesome-astra-3d/cases/matsuda-tripo-rabbit-vrm/) | マツダ / @Matuda_Familiar | [原始来源](https://note.com/mina0805/n/nc1d8c8f20859) |
+| [前桥育英高校：三种甜甜圈与杯柄修正](https://carpentry-liu.github.io/awesome-astra-3d/cases/maeiku-donut-blender-iterations/) | Maeiku Creation Lab.【前橋育英高校公式】 / スタッフA | [原始来源](https://note.com/maeiku_lab/n/n6dc6b82ff624) |
+| [LATTE Df：FreeCAD 拉花相机从动画到实物修正](https://carpentry-liu.github.io/awesome-astra-3d/cases/shirotsume-latte-df-freecad/) | しろつめくさ | [原始来源](https://note.com/tasty_llama9450/n/n2701e5d8f8ed) |
+| [Aetheris 差分机：层级 CAD 装配与机械算术演示](https://carpentry-liu.github.io/awesome-astra-3d/cases/yuechen-aetheris-difference-engine/) | Yuechen Li / yuechen-li-dev | [演示](https://aetheris-difference-engine-showcase.yuechenli.workers.dev/) · [源码](https://github.com/yuechen-li-dev/Aetheris/tree/master/demos/Aetheris.DifferenceEngine.Showcase) · [原始来源](https://github.com/yuechen-li-dev/Aetheris) |
+| [苍穹交锋：程序化喷气战机与三维空战](https://carpentry-liu.github.io/awesome-astra-3d/cases/flying37520-astra-air-combat/) | FLYING37520 | [演示](https://flying37520.github.io/astra-air-combat/) · [源码](https://github.com/FLYING37520/astra-air-combat) · [原始来源](https://github.com/FLYING37520/astra-air-combat) |
+| [Sunward：Unity 海岸赛车与可导出摄影模式](https://carpentry-liu.github.io/awesome-astra-3d/cases/yjrocks-sunward-racing/) | yjrocks712 | [源码](https://github.com/yjrocks712/Sunward-by-GPT-6-Astra) · [原始来源](https://github.com/yjrocks712/Sunward-by-GPT-6-Astra) |
+| [Rift Chess：可滑动棋盘与程序化三维棋子](https://carpentry-liu.github.io/awesome-astra-3d/cases/hailey-rift-chess/) | HaileyStorm | [演示](https://haileystorm.github.io/rift-chess/) · [源码](https://github.com/HaileyStorm/rift-chess) · [原始来源](https://github.com/HaileyStorm/rift-chess) |
+| [Villa Jelly：热带别墅、果冻海与双模型对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-villa-jelly/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2107617244301664483) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [分享素材与衡量说明](docs/sharing/README.md)

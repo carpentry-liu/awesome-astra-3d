@@ -48,3 +48,4 @@
 - [10 月 5 日：近期工程与可见三维成果](features/F-0031-daily-oct05/README.md)。
 - [10 月 6 日：近期三维案例与可查看材料](features/F-0032-daily-oct06/README.md)。
 - [10 月 7 日：八件可查看作品、五段完整录像与展示更新](features/F-0033-daily-oct07/README.md)。
+- [10 月 8 日：十三件作品、三段完整影片与展示更新](features/F-0034-daily-oct08/README.md)。
