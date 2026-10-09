@@ -5280,6 +5280,4869 @@
       "downloadedFileCount": 8,
       "downloadedBytes": 76127061,
       "allSourceFilesFullyDecoded": true
+    },
+    {
+      "checkedAt": "2026-10-09",
+      "scope": "Full HTTP GET and decoding of all 285 baseline image previews; 282 passed initially, routine recovered on retry, az9713 replaced with a verified author render, WorldGen removed after original repo/README/two images all returned 404. All 13 new previews were fully retrieved, decoded and visually inspected. Source-page and gameplay audit remain separate.",
+      "newPreviewCount": 13,
+      "newPreviews": [
+        {
+          "caseId": "kongo-charakuru-vrm-workflow",
+          "url": "https://assets.st-note.com/img/1791461224-ypQZgqtlYbmDa8nvXKE6LVH5.jpg?width=1200",
+          "observedAt": "2026-10-09",
+          "status": 200,
+          "mime": "image/jpg",
+          "contentLength": "33088",
+          "bytes": 33088,
+          "sha256": "b8484a1be8c95ac13072d85b1bc95ae2656d1e5feec912351ccfdd23265899ab",
+          "dimensions": [
+            1200,
+            229
+          ],
+          "format": "JPEG",
+          "framesDecoded": 1,
+          "finalUrl": "https://assets.st-note.com/img/1791461224-ypQZgqtlYbmDa8nvXKE6LVH5.jpg?width=1200",
+          "decoded": true,
+          "attempts": [
+            {
+              "attempt": 1,
+              "elapsedSeconds": 1.08,
+              "status": 200
+            }
+          ],
+          "fullGet": true,
+          "contentLengthMatched": true,
+          "visuallyViewed": true,
+          "visualTool": "view_image",
+          "actualCaption": "作者 three-vrm 角色动作拼图：黑发黑衣女性角色的正侧视图、抬手和身体倾斜，共七个姿态，灰色三维网格地面。",
+          "sourceAttribution": "原文标注 three-vrmでVRMAを再生，位于骨骼设置、VRM 导出与播放结果段落；不是 Image #1–#3 参考输入。",
+          "recommendedImageKind": "screenshot"
+        },
+        {
+          "caseId": "junya-agent-jp-citygen",
+          "url": "https://assets.st-note.com/img/1790822172-30Fimr2KH8Gb6WgysZzdpTqL.jpg?width=1200",
+          "observedAt": "2026-10-09",
+          "status": 200,
+          "mime": "image/jpg",
+          "contentLength": "429264",
+          "bytes": 429264,
+          "sha256": "24307446b3fade58d4fb590854efc39e3c8e201dae5759ae18fa3581113333a2",
+          "dimensions": [
+            1200,
+            1262
+          ],
+          "format": "JPEG",
+          "framesDecoded": 1,
+          "finalUrl": "https://assets.st-note.com/img/1790822172-30Fimr2KH8Gb6WgysZzdpTqL.jpg?width=1200",
+          "decoded": true,
+          "attempts": [
+            {
+              "attempt": 1,
+              "elapsedSeconds": 1.67,
+              "status": 200
+            }
+          ],
+          "fullGet": true,
+          "contentLengthMatched": true,
+          "visuallyViewed": true,
+          "visualTool": "view_image",
+          "actualCaption": "作者 avenue_500 城市的十五视角渲染拼图，包含玻璃楼宇、道路、人行道、行道树和地铁入口。",
+          "sourceAttribution": "原文说明将 Blender 场景搬到 Unreal Engine 渲染，首张内文图与这段说明对应；不是输入参考。",
+          "recommendedImageKind": "render"
+        },
+        {
+          "caseId": "harayoki-container-bpy-mecha",
+          "url": "https://assets.st-note.com/img/1790981197-8vpxjOfNXyElckKAWBn2eLD7.png?width=1200",
+          "observedAt": "2026-10-09",
+          "status": 200,
+          "mime": "image/png",
+          "contentLength": "453983",
+          "bytes": 453983,
+          "sha256": "cfc22d074b98c1e32b02d583b2e13335897cf0cbbc7e1e92ad5434106dbe9832",
+          "dimensions": [
+            1200,
+            862
+          ],
+          "format": "PNG",
+          "framesDecoded": 1,
+          "finalUrl": "https://assets.st-note.com/img/1790981197-8vpxjOfNXyElckKAWBn2eLD7.png?width=1200",
+          "decoded": true,
+          "attempts": [
+            {
+              "attempt": 1,
+              "elapsedSeconds": 1.72,
+              "status": 200
+            }
+          ],
+          "fullGet": true,
+          "contentLengthMatched": true,
+          "visuallyViewed": true,
+          "visualTool": "view_image",
+          "actualCaption": "作者实际 Blender 视口：机械轮车/机甲、管线、轮毂及座位人物，右侧有 Transform 面板，画面保留坐标轴和选中轮廓。",
+          "sourceAttribution": "原文紧接此内文图说明上方机甲 CG 由参考图在容器 Blender 建模；主图实际为编辑视口，应标截图。",
+          "recommendedImageKind": "screenshot"
+        },
+        {
+          "caseId": "kyownruby-tripo-anime-material",
+          "url": "https://assets.st-note.com/img/1790776029-uWeksXDQYpNlwBjO2bTMVc3F.png?width=1200",
+          "observedAt": "2026-10-09",
+          "status": 200,
+          "mime": "image/png",
+          "contentLength": "241332",
+          "bytes": 241332,
+          "sha256": "b66d009f1ac8ae8a86e2918b6a2d6f0de633a8168a2414fe9f384654bbb67a09",
+          "dimensions": [
+            1104,
+            722
+          ],
+          "format": "PNG",
+          "framesDecoded": 1,
+          "finalUrl": "https://assets.st-note.com/img/1790776029-uWeksXDQYpNlwBjO2bTMVc3F.png?width=1200",
+          "decoded": true,
+          "attempts": [
+            {
+              "attempt": 1,
+              "elapsedSeconds": 1.48,
+              "status": 200
+            }
+          ],
+          "fullGet": true,
+          "contentLengthMatched": true,
+          "visuallyViewed": true,
+          "visualTool": "view_image",
+          "actualCaption": "作者红发角色正面与背面材质成果拼图，绿眼、粉色围巾和上衣，可见三维模型与平涂动漫质感。",
+          "sourceAttribution": "位于なんやかんややってみた結果がこちら段落之后，区别于之前的黏土感旧模型和装饰图。",
+          "recommendedImageKind": "screenshot"
+        },
+        {
+          "caseId": "allegromoltov-relic-unity",
+          "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4318473%2Fd1ca35fd-d4d5-4899-92ad-e58312e3317b.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=cc544efe2d306732c9c7910893340b03",
+          "observedAt": "2026-10-09",
+          "status": 200,
+          "mime": "image/png",
+          "contentLength": "167506",
+          "bytes": 167506,
+          "sha256": "8569c5b1407eff44691fa3f713a15b554e43876763e68d304dd261b8fdcc8a55",
+          "dimensions": [
+            953,
+            535
+          ],
+          "format": "PNG",
+          "framesDecoded": 1,
+          "finalUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4318473%2Fd1ca35fd-d4d5-4899-92ad-e58312e3317b.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=cc544efe2d306732c9c7910893340b03",
+          "decoded": true,
+          "attempts": [
+            {
+              "attempt": 1,
+              "elapsedSeconds": 2.36,
+              "status": 200
+            }
+          ],
+          "fullGet": true,
+          "contentLengthMatched": true,
+          "visuallyViewed": true,
+          "visualTool": "view_image",
+          "actualCaption": "实际 RELIC 游戏运行标题界面：左侧标题和开始按钮，右侧俯视三维遗迹、柱体与发光祭坛；右下角有全屏按钮。",
+          "sourceAttribution": "原文成品游戏与试玩段落的截图；展示启动状态的真实三维背景，非独立广告封面。",
+          "recommendedImageKind": "screenshot"
+        },
+        {
+          "id": "goofykings-octane-arena",
+          "url": "https://raw.githubusercontent.com/Goofykings/Octane-Arena/main/docs/gameplay.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 267259,
+          "width": 1440,
+          "height": 900,
+          "format": "PNG",
+          "sha256": "dad6e481eae6a71fece4f6d3787359da3fa134108cfe4d99e2dbee265e1d0717",
+          "decoded": true,
+          "visuallyInspected": true
+        },
+        {
+          "id": "sushaanth-blender-room-effort",
+          "url": "https://raw.githubusercontent.com/SushaanthSrinivasan/astra-room-test/main/runs/high/autopsy-beauty.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 1525078,
+          "width": 1600,
+          "height": 900,
+          "format": "PNG",
+          "sha256": "c584285016dd0625e1dd9ea8a3fdf2f7c4544ee3cea593a7f6e403882545c73b",
+          "decoded": true,
+          "visuallyInspected": true
+        },
+        {
+          "id": "lucas-wyd-false-ritual",
+          "url": "https://raw.githubusercontent.com/lucas-wyd/False-Ritual/main/art/reference/qa/carter/dusk_exterior_front.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 756028,
+          "width": 1280,
+          "height": 720,
+          "format": "PNG",
+          "sha256": "ed5b94310250e4a22bc9f96dd15793360c947fafa5f9487881b071b7de563d5e",
+          "decoded": true,
+          "visuallyInspected": true
+        },
+        {
+          "id": "w4coder-donify",
+          "url": "https://raw.githubusercontent.com/w4coder/donify/main/docs/media/gameplay-preview.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 378894,
+          "width": 1600,
+          "height": 1000,
+          "format": "JPEG",
+          "sha256": "92b8dc35e1dcdb202884e74a82815b977658ef196b589adf42e16c6d179a0d9d",
+          "decoded": true,
+          "visuallyInspected": true
+        },
+        {
+          "id": "codersusu-seabright",
+          "url": "https://raw.githubusercontent.com/codersusu/game-city-skylines/main/Documentation/Images/skyline.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 2180030,
+          "width": 1600,
+          "height": 1000,
+          "format": "PNG",
+          "sha256": "d0dae622192dadc17ad03420ff05cf3702058ecfdd3f05bf37fc4b95c0b920fe",
+          "decoded": true,
+          "visuallyInspected": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2108336089471557632/img/x9tBYYdbHOuUBZX4.jpg",
+          "httpStatus": 200,
+          "mime": "image/jpeg",
+          "bytes": 95467,
+          "sha256": "7727b4cb2f7a9b6467210111c81a43e4685f22ca5a561786c8532a16153bdca4",
+          "width": 948,
+          "height": 1200,
+          "decoded": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2108081678849830912/img/WkyCYLcULi5EkZ2a.jpg",
+          "httpStatus": 200,
+          "mime": "image/jpeg",
+          "bytes": 74592,
+          "sha256": "bf5d27d8380d000a7e28f2d4b1a68763054e55e9e2fd7c88b5e7b580430c6243",
+          "width": 1200,
+          "height": 675,
+          "decoded": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2107877128494555136/img/9QBFToHVmJSIzZfN.jpg",
+          "httpStatus": 200,
+          "mime": "image/jpeg",
+          "bytes": 79085,
+          "sha256": "f83fa937471dfee3343996de361505d7d754097c8825a07f40fc26e7a442f091",
+          "width": 1080,
+          "height": 1080,
+          "decoded": true
+        }
+      ],
+      "baselinePreviews": [
+        {
+          "caseId": "matsuda-tripo-rabbit-vrm",
+          "url": "https://assets.st-note.com/img/1791008126-lIXJ7eSR6KVFcuGH5CBgTLxU.png?width=1200",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 109585,
+          "sha256": "dcbcdd68d56dc034f0c6fa88ee2b0c35882e202fe199ab79991b4b2f4127c147",
+          "dimensions": [
+            1200,
+            623
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "maeiku-donut-blender-iterations",
+          "url": "https://assets.st-note.com/img/1791121434-MH8oLJp4EgIim3QRynxcUk9j.png?width=1200",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 359465,
+          "sha256": "01fa761dd7d534b3eb0c73d48abe0d1bb7c07a44b3132662f6cb1618d7878f8f",
+          "dimensions": [
+            1200,
+            960
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "shirotsume-latte-df-freecad",
+          "url": "https://assets.st-note.com/img/1790635002-F5fjI3byzmqkAKC0hXw7xUBr.png?width=1200",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 153678,
+          "sha256": "56b1d5275db40411a630baf1852b3689545f6ab94d3ba16522dffbf652e04361",
+          "dimensions": [
+            1200,
+            1012
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "yuechen-aetheris-difference-engine",
+          "url": "https://aetheris-difference-engine-showcase.yuechenli.workers.dev/preview.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 116658,
+          "sha256": "2b66f55f77d934b6b533f24953b193410735d857276afe57f1e2ef5f2fe3e5fd",
+          "dimensions": [
+            1435,
+            1216
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "flying37520-astra-air-combat",
+          "url": "https://raw.githubusercontent.com/FLYING37520/astra-air-combat/main/artifacts/islands-clear.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 108924,
+          "sha256": "e2799bff332cf7df808a50e473557859964beb261690de3e02c90c4262a21e75",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "yjrocks-sunward-racing",
+          "url": "https://raw.githubusercontent.com/yjrocks712/Sunward-by-GPT-6-Astra/main/docs/images/driving.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 939723,
+          "sha256": "77c9a8134aa8c5b27acd1e12d75bee8b136c507bab1715cd2fb42c7d8457c5e9",
+          "dimensions": [
+            1600,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "hailey-rift-chess",
+          "url": "https://raw.githubusercontent.com/HaileyStorm/rift-chess/main/docs/evidence/overhaul/gallery.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 1051673,
+          "sha256": "f95b6a913eff321b3efce4a857e01dee47b1320bb8f533707b1297185f7db969",
+          "dimensions": [
+            1600,
+            1000
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "vib3coded-villa-jelly",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2107617007289937920/img/U87PZ2yFlwt-4M3d.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 106621,
+          "sha256": "862faa173b8996ddd2b3c6003d6c3c41adda9f8729b5bf936747605246e2bc9a",
+          "dimensions": [
+            948,
+            1200
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "tural-four-model-3d-prop",
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQEOPS6O3nW1bQ/feedshare-shrink_800/B4EaEQE0WEI8Ac-/0/1791271061423?e=2147483647&v=beta&t=V5xPnIzh1hfECHD-rRzHVe8QlH2uRjnG5EbItkRvjgM",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 56300,
+          "sha256": "0f2215a4d0c8bd8ed71ba4fba06a4c9e5b0a2d08ed40bcdd3160df11a2e56d44",
+          "dimensions": [
+            800,
+            775
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "retrostyle-four-asset-packs",
+          "url": "https://images.retrostylegames.com/wp-content/uploads/2026/09/gas-station-horror-pack-red-pickup-1024x576.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 126857,
+          "sha256": "7b0d496a4b4b002aaaeb496e7711e0ebe7705f524fe089c4b599e2f94a6f8cb5",
+          "dimensions": [
+            1024,
+            576
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "monstercameron-neural-sight",
+          "url": "https://raw.githubusercontent.com/monstercameron/Neural-Sight/main/docs/images/nelson-ghost-town.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 106377,
+          "sha256": "bdd3d154fe30f769313718c65cc04f0315dd090ac4d6e4f11455f9cdb0578c32",
+          "dimensions": [
+            662,
+            1014
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "imirushik-sunbreak-downhill",
+          "url": "https://raw.githubusercontent.com/Imirushik/sunbreak-downhill-3D-game/main/media/SUNBREAK-showcase-poster.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 413730,
+          "sha256": "3f6947bb5fe80edd0f492dbf5f5d980068aa3b2e7a06d0f4fa60f342ae057e6e",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "vheissu-saber-descent",
+          "url": "https://raw.githubusercontent.com/Vheissu/saber-battle/main/screenshots/03-saber-descent-combat.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 76900,
+          "sha256": "72c5e3dd7ceed1840c5ecbce095b7af57284f1bf65020e9798ab61a4d797a074",
+          "dimensions": [
+            1280,
+            800
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "852wa-jill-character",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2107273036122738688/img/j5Ybmyxp1PhINvBa.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 64496,
+          "sha256": "5f612e018deed819b153f49bdc0d61d1e10a6b1eebf22b88db45e98d5be584a4",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "routine-tripo-three-games",
+          "url": "https://assets.st-note.com/img/1790550577-rVxfn5KXMlQGDqP1eYUFC8dp.png?width=1200",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 255053,
+          "sha256": "0bb960c4fb17221fb9d93f697822f60d399aba0680b46362398daaa38667c6fd",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "shyrz-deepseek-whale-cad",
+          "url": "https://raw.githubusercontent.com/shyrz/gpt-6-astra-3dp-test/02938ed9ab87a1719043c8db151eac75f5b578b3/models/preview-smooth.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 254779,
+          "sha256": "7dd4573b4bd81df12a4abafeda429c6282bf2081b91f27eb486e61e2eb26a3ee",
+          "dimensions": [
+            2250,
+            1320
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "samguan-fencing-replay",
+          "url": "https://raw.githubusercontent.com/samguan2020/guans-fencing-club/main/docs/assets/tip-trails.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 1531435,
+          "sha256": "a377a96c3a5989a4b642f3bd7643f31990377a160f47f59a70fb70d73f339305",
+          "dimensions": [
+            1440,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "yortch-chess3dastra",
+          "url": "https://raw.githubusercontent.com/yortch/chess3dastra/main/docs/screenshots/3d-dark.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 144142,
+          "sha256": "24cb963695d8a50b587c65de5d22ec81a82ca12181727df193baa335f387771e",
+          "dimensions": [
+            1440,
+            960
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "nvidia-astra-conveyor-robotiq",
+          "url": "https://nvidia-omniverse.github.io/omniverse-labs/assets/images/card-astra-vscode-simulation.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 24046,
+          "sha256": "4ff60cb3ce3b99377ff975f411180f8aa44e513f0bb7898a0158ca1fe3d0bf58",
+          "dimensions": [
+            624,
+            351
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "mashrabov-oval-office",
+          "url": "https://media.licdn.com/dms/image/v2/D5605AQEGJc8RhcvirA/videocover-high/B56aCNeeEcHkBM-/0/1789079973198?e=2147483647&v=beta&t=nOXlVE39aasRJtquxfcL0xtPsjsKffpVMRGvum7GlLQ",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 48645,
+          "sha256": "f97e4554c84780b136fdee3b2ad79ce0763a89279052aceeb84e0901680903c7",
+          "dimensions": [
+            720,
+            720
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "miya-little-city-studio",
+          "url": "https://assets.st-note.com/production/uploads/images/319823298/rectangle_large_type_2_6f3efc6d29c72223926bcb6728e99e58.png?width=1200",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 236552,
+          "sha256": "a0cfa875d242a443c300113e6215f90a20e4fb2445a1c787bd08d32c79eb203e",
+          "dimensions": [
+            1200,
+            628
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "anteloc-ldraw-nova-buildings",
+          "url": "https://raw.githubusercontent.com/anteloc/ldraw-nova-docker/master/models-gallery/cathedral.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 97635,
+          "sha256": "caa3dfb875ceed70bb87de9b4d6381fb8f79610292cd2bcb61d9ce9a83efad87",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "lucas-chu-blender-architecture-archive",
+          "url": "https://media.githubusercontent.com/media/lucas-chu/Renders/main/colosseum/v2/output/Colosseum_Hero.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 3073809,
+          "sha256": "5847d72064bb0376515b7ef126afe0440db4299c65401af6718c60981394ce84",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "sourish-mri-brain",
+          "url": "https://pbs.twimg.com/media/HSSh1y1WQAAdvvS.jpg?name=orig",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 2245875,
+          "sha256": "11b593f91383268b29c4ffe9b4a227dfc66a0aa6641b4aac7c1a181433a4957d",
+          "dimensions": [
+            3000,
+            4000
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "meshy-furniture-catalog",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2101682626784571392/img/TyD5PSg5-jkCWjSx.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 68003,
+          "sha256": "9f2e8ecdf0dff4457f5deb63dc0483f67a251852594da5ebea4937489d42b76b",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "humaid-roomplay",
+          "url": "https://media.licdn.com/dms/image/v2/D4E05AQFEXSgMEoIIrA/videocover-high/B4EaC_MF8CIgBM-/0/1789914016509?e=2147483647&v=beta&t=0ldbn9bFKUaIcjmGKdD-1Ud2n09MJjYfOMo8QcD3PQA",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 42416,
+          "sha256": "8baddc069ef3e57ddec0cb69565905eaf49177e30a197fff1273777f173f7e0d",
+          "dimensions": [
+            720,
+            1280
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "polta-kureha-car-print",
+          "url": "https://assets.st-note.com/img/1790166407-SI216Nry9jECzDofZALqaciQ.png?width=1200",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 90878,
+          "sha256": "a8614ba3987bfe4fd76efdb1385ec4a747d2e30c4319f9399068f21d1994b2e3",
+          "dimensions": [
+            1200,
+            632
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "yakumo-yozoneko-blender",
+          "url": "https://assets.st-note.com/img/1788880388-jbFPaxogGfEvHdZVc6l3Ut0q.png?width=1200",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 142229,
+          "sha256": "6df82c2bfcb6188da249a0d09d133cf880be5a3e01639033c8016b4cb14a7aa0",
+          "dimensions": [
+            1200,
+            1031
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "ecooxai-moonlit-pajamas",
+          "url": "https://raw.githubusercontent.com/ecooxai/gpt6-astra-pro-colabdev-blender-moonlit-pajamas/gpt6-astra-pro_mcp-colabdev_refinement95/preview/assets/gpt6-astra-pro_mcp-colabdev_blender_moonlit-pajamas_front.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 735345,
+          "sha256": "dc1617faa1e067444a262d84b800dbca5a7caeea11a04fe03c830616dd18cae7",
+          "dimensions": [
+            720,
+            1260
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "ecooxai-tuxedo-mono-cat",
+          "url": "https://raw.githubusercontent.com/ecooxai/gpt6-astra-pro-blender-tuxedo-cat/GPT-6-Astra-Pro_mcp-colabdev_blender-cat/preview/renders/beauty_r07_hero_cycles_oidn.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 751602,
+          "sha256": "8a08295e711d4a47a1689616210a30871613295377a3d321778f0c37629d38bf",
+          "dimensions": [
+            1100,
+            1100
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "jose-pascualin-trumpet",
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQFIxI8Va8NvXA/feedshare-image-high-res/B4EaB4vAnyH8AU-/0/1788731984614?e=2147483647&v=beta&t=ZHCx5S_1aUo6Bjioz7qfI3MdodG_6wdQtpaeASNfE0g",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 50099,
+          "sha256": "c0c7f04735f056646ba27296b2aa5562f4ab6b62ad0ec7b63de7941c70e572c6",
+          "dimensions": [
+            1000,
+            1100
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "tiago-parliament-3d",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096716075748519937/img/HotLLXGRwjKSe9RY.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 180794,
+          "sha256": "3aa7a4522586b51eeb319e9f828cc61e6e68c6fd00a3b2bc8bf37a4055d3a08b",
+          "dimensions": [
+            1200,
+            818
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "roboparty-real2sim",
+          "url": "https://raw.githubusercontent.com/Roboparty/gpt-6-astra-real2sim-workflow/main/docs/showcase/media/comparison.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 988349,
+          "sha256": "488ab573d9a086de9b584797dd1afff7abfaf35005c2a71b5b694fff76d4b354",
+          "dimensions": [
+            1920,
+            2330
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "yzh119-h3-battle-lab",
+          "url": "https://yzh119.github.io/images/battle-lab-materials/black-knight.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 489511,
+          "sha256": "e3f4a54118eb541b7f0b0e4c3b5580a2a19930466da752250bd16929f8783099",
+          "dimensions": [
+            1440,
+            1000
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "ecooxai-form-001-character",
+          "url": "https://raw.githubusercontent.com/ecooxai/gpt6-astra-pro-colabdev-web-rgirljk/f5779cff2d13ee71f42ec4b499ae1d3ed0548738/public/preview/ui-1440.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 250003,
+          "sha256": "b5bba3c8eec300121957aec482ac49d209039f3ceec98e36a386c16fd0a24140",
+          "dimensions": [
+            1440,
+            1000
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "tianyu-monsoon-funnel",
+          "url": "https://media.licdn.com/dms/image/v2/D5605AQGopE0uDehcOA/videocover-high/B56aD88cYJG4BU-/0/1790950100952?e=2147483647&v=beta&t=d3n9GQgfxcT7ITTVEtQfvmXbJW4NOTtHEjrAX1Kmo_E",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 44052,
+          "sha256": "b257486afdd053d80a0b2d246e01d6e0c04fa002b6378e136f2e42c1e28f2285",
+          "dimensions": [
+            720,
+            720
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "tianyu-painting-cat-action",
+          "url": "https://media.licdn.com/dms/image/v2/D5605AQE_65TmDJ2qNw/videocover-high/B56aDi.j7AGoBU-/0/1790514457157?e=2147483647&v=beta&t=8BKeBcubgbdr3DlpN9QXYHhUp08fxIFcp_m_jMWrZK8",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 55930,
+          "sha256": "f3129b6ff8f50ec673d54ef4169980659dadef2ff960f4b0d7e84eed57f326f0",
+          "dimensions": [
+            720,
+            800
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "wutian-fluffy-grove",
+          "url": "https://i0.hdslb.com/bfs/storyff/_00000qr7ncn9x7ig92uneeuenby394b_firsti.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 88715,
+          "sha256": "9337dae08afc918c3638c9c71a792a01cbe7ee97c4e12a0ef9082e7c9da49fe2",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "andyyuyc-worldgen-unity",
+          "url": "https://raw.githubusercontent.com/andyyuyc/WorldGen_Unity/main/docs/images/generated_buildings.jpg",
+          "archiveCount": 0,
+          "error": "HTTPError: HTTP Error 404: Not Found",
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "machikita-orbit-lab",
+          "url": "https://technewsradio.tokyo/lab/gpt6-vs-opus55/assets/screenshots/orbit-astra-earth-closeup.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 453589,
+          "sha256": "7f8e246d352c5ef5f6bbf2545f98e7e7ee8e9bd2179914b889cfbd47aa7ebe7f",
+          "dimensions": [
+            1440,
+            1000
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "drleeworks-tensile-specimen",
+          "url": "https://drleeworks.com/_astro/image09.CzEabo12_WEcMg.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 5036,
+          "sha256": "7aedaf8efacc5090405e7d4e834067397c833520b01858fa0265cf32eb1a18e5",
+          "dimensions": [
+            962,
+            542
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "yitachen-vancouver-living-atlas",
+          "url": "https://raw.githubusercontent.com/YiTaChen/vancouver-living-atlas/main/docs/visual-quality/city-readability/live-downtown-overcast.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 154470,
+          "sha256": "8d63f608d728c7e60ba573c4980fe46b041bf9af2e1376be4e24330eca594f2c",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "kaloyan-photo-blender-benchmark",
+          "url": "https://kaloyan-stuff.b-cdn.net/blog/eleven-models-in-blender/img/openai-gpt-6-astra-shopfront.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 145832,
+          "sha256": "2c32fcb1d43fd8fa31a881a14d46b35469412ef166903a3b55b8af8dd3399974",
+          "dimensions": [
+            1100,
+            1100
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "abstrakt-agent-dot-splat",
+          "url": "https://s3-eu-west-1.amazonaws.com/images.playcanvas.com/splat/ca6a4c9b/v2/xl.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 96626,
+          "sha256": "d58ad561d794f693548313123567e17fac77a19dc3eaeb0c3bbfe79d70564a48",
+          "dimensions": [
+            960,
+            960
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "danielsobrado-coastal-jungle",
+          "url": "https://raw.githubusercontent.com/danielsobrado/Codex-and-Blender/main/docs/images/forestInterior.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 175219,
+          "sha256": "ebafb8609cfdb2e98d7f9f277ad998cc60c9e0b61222eef7fad8230239b005cf",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "fornhere-three-d-comparison",
+          "url": "https://raw.githubusercontent.com/fornhere/sonnet-vs-astra-benchmark/main/testler/t6-kapadokya/astra/captures/01-opening.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 1170523,
+          "sha256": "95dc14af8e4bb9296e18ffbb78fb9d5235dee4ffe7e1b8f33b2d4e7607a1aebc",
+          "dimensions": [
+            1280,
+            800
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "tkada-jump-run",
+          "url": "https://i.ytimg.com/vi/k7Urv-l5MWk/hqdefault.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 13077,
+          "sha256": "e72f596f77b2c53227ecb43160d2faa289c8a5dc13ea6edc9d392b757e240508",
+          "dimensions": [
+            480,
+            360
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "nob-hi-avatar-workflow",
+          "url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4245119/f7e10dd1-c4cf-4b6a-b484-eed51d9ff253.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 801625,
+          "sha256": "9d250f0fa687fc65601013d19ece55264b40aac1baf4df3424ac093cbf6f7b0a",
+          "dimensions": [
+            715,
+            852
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "chatgpttest-coastal-cat-memory-off",
+          "url": "https://raw.githubusercontent.com/313715295/ChatGPT-Test/main/docs/experiments/2026-10-02-coastal-cat-memory-off/evidence/B-desktop-default.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 235349,
+          "sha256": "fef9b03dda720e29a99e59123257023d3374ed0ff1668722b6ada3d52d54c067",
+          "dimensions": [
+            1440,
+            960
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "bambssquad-jetis-digital-twin",
+          "url": "https://raw.githubusercontent.com/bambssquad/jetis-digital-twin-astra/main/outputs/revision02-overview.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 120937,
+          "sha256": "5c675e50e5c29b06141a77a8e0762c1845e692f8b9e07d32ef0633c011da76cf",
+          "dimensions": [
+            2048,
+            1111
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "az9713-refined-animations",
+          "url": "https://raw.githubusercontent.com/az9713/gpt-6-astra-builds/main/latest/screenshots/04-golden-gate.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 1074038,
+          "sha256": "a471fa7ffc3f2f5095ffe55fc4e5ede03fd0adb784bdb435781075ec431ba507",
+          "dimensions": [
+            1600,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "seiji-miive-gopher-globe",
+          "url": "https://static.zenn.studio/user-upload/3d964b447a46-20260916.gif",
+          "status": 200,
+          "mime": "image/gif",
+          "bytes": 2575937,
+          "sha256": "4de2582ec2cbc7b77ef00760e3ad10bdd9c283e143c2f70d6e224bee24a66ab8",
+          "dimensions": [
+            640,
+            376
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "demon-pyramid-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2105411132437532672/img/Q9bQkVqMAHCwpyVO.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 27781,
+          "sha256": "b1ed0c9b59b4c8a4fb48628ad56441aed5ecc49078d0b18bf932f96d371d7db4",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "paruchh-time-undone",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2105009115906904065/img/n8CMxokwa5BQAVQU.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 93762,
+          "sha256": "ee95289365fb612e7b8bde2276b5c0744017b3bbe013b46a856b00cb4abd9ca2",
+          "dimensions": [
+            1200,
+            1090
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "simonas-human-eye-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2104841490526621696/img/O2EAYUHX6ynpdbAj.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 104229,
+          "sha256": "8502c6ae82a02cae03c639bd0f95cd45392652b2fec20853d84a15e91abebafa",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "marcel-transforming-car",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2104654272591802369/img/Ug9WjTiy5hgxYa_2.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 121347,
+          "sha256": "487b700ccd9ea1cc1b22eefe925d0ca7231c3c4ba70772a05a71cd21dcce91ea",
+          "dimensions": [
+            1200,
+            1102
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "az9713-pelagic-ocean",
+          "url": "https://raw.githubusercontent.com/az9713/gpt-6-astra-3D-ocean/main/public/media/ocean-open-sea.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 1133983,
+          "sha256": "206657e67b7cd17a51556cda59ab14df7ba7f96cfbb15daf941e58c086669832",
+          "dimensions": [
+            1600,
+            1000
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "code4scene-farm-town",
+          "url": "https://arxiv.org/html/2609.36777v1/figures/running_cases/farm_town_astra.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 301795,
+          "sha256": "7632da12bd2f18d351dedf53b56d78eca438c646b617e2ebe6fd9822fc6e56ea",
+          "dimensions": [
+            2590,
+            360
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "charles-isaac-workbench",
+          "url": "https://pbs.twimg.com/media/HTcFeb4aIAADxvZ.jpg?name=orig",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 172771,
+          "sha256": "1229242a8b9c08805d2051e4dbaeaf59b00869cdd8a8575001b38b6ad02f72a5",
+          "dimensions": [
+            1448,
+            1086
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "lego-anything-scene-reconstruction",
+          "url": "https://lego-anything.com/assets/image_main_graph.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 209524,
+          "sha256": "66438423a8b61597e73fff32199c621d08513492f92d112067fe403816bb7bae",
+          "dimensions": [
+            2200,
+            1002
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "openai-ultrafast-rocket",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2104993936112779264/img/lmUTqfZ4cb7RxKfp.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 66819,
+          "sha256": "bb9229bd520b8ed66d154c434b4f648cd2a8d5f5918aaab2056eeed57c102f39",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "lebo-rocket-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2105046869999316992/img/GPoybFW6dU01QR2P.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 57131,
+          "sha256": "8b297757174c79e883f61638f18822d20b93a44443582f60d59fc89779687a41",
+          "dimensions": [
+            1200,
+            683
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "dgreses-f22-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2105026944647458817/img/zRF4MxIV7H9NM2VJ.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 46913,
+          "sha256": "53069c8ca05cdb52390b64d16519e81e5b77f7970af70c6a2e87fa2827406239",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "roman-crispr-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2104604934461161472/img/100I9WF8iPqboN1b.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 94252,
+          "sha256": "e9d956c6cfd11ddef0d83a4351ec53a5a04d44b4e42e72554986def5202e8d4a",
+          "dimensions": [
+            1199,
+            645
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "gptblender-floor-plan-house",
+          "url": "https://raw.githubusercontent.com/qduoduo-hwh/gptblender_demo/main/preview.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 104878,
+          "sha256": "48fc26aae74595eef4cc9a658888400f72e99a40468f94eb632b8b779e772cd1",
+          "dimensions": [
+            2800,
+            2000
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "givros-forest-village",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2103860397027500032/img/MWh231Th4GLRWRJi.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 261420,
+          "sha256": "ed31cdb42a8f2eb8c18d93e49bc070cc4ecfc7865c7f5cbb712bc29fa09a3bbb",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "fuguai-windfield-editor",
+          "url": "https://raw.githubusercontent.com/TripoGrowthLab/awesome-3d-prompts/main/assets/previews/2c3e380b8ff93c61c74421f3217becf171ac346c55ffff41efac5fafb3be3a77.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 35212,
+          "sha256": "2c3e380b8ff93c61c74421f3217becf171ac346c55ffff41efac5fafb3be3a77",
+          "dimensions": [
+            1040,
+            584
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "vortlyn-booster-catch",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2103966892637536256/img/fDFZ2Ru7xcs1TCxB.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 60905,
+          "sha256": "bb6b6c09f4ef1f48696a70e00f481b40cbda21d93b13be919c352e1c47cb4fb7",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "wesche-j-hook",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2104590246398537728/img/R7CFttVwzpqmPhSo.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 59057,
+          "sha256": "643a23b0eaff495333c760e37ddc2036b908363d59f61d886f6598742a59a843",
+          "dimensions": [
+            1199,
+            729
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "keane-melon-jelly",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2104504130563899392/img/de4kRQ4IXZs7Osqh.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 69566,
+          "sha256": "cf4d886fc6e8c499c9fa10a37204272099b89e9ca4336bb62f03dd93220ec069",
+          "dimensions": [
+            1067,
+            1200
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "routine-yohaku",
+          "url": "https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-website-images1.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 45710,
+          "sha256": "a64d59ccc2a461ae8abe7c070d018a7bf36c5af3cd94467499e3b02b64864d69",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "attempts": 2,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "routine-pulse",
+          "url": "https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-website-images3.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 92200,
+          "sha256": "d2d724c166a0fb9e3c8a6c948170a7da56fac1198f75778774a9b8d4e4276fc8",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "routine-desk",
+          "url": "https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-website-images4.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 50762,
+          "sha256": "01976cc88810db73bfb0769a755b0dfe55023243504f291bae95599b6488c356",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "routine-shibuya",
+          "url": "https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-simulator-images6.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 113722,
+          "sha256": "b8d859e78597eb29cd6aa3104f2c8f7fbd66178c1fa8d92922773efd6d636709",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "topology-roman-legionary",
+          "url": "https://i.redd.it/g95irt9is7sh1.jpeg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 145992,
+          "sha256": "2d5a2bb92ba1795e8feeaffdd743d36c256f1b45945468dd0ffa01b92cd1fffe",
+          "dimensions": [
+            1280,
+            1091
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "routine-kyoto",
+          "url": "https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-simulator-images2.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 76860,
+          "sha256": "1674fc0cbcf08cc304be40df5a6e813960f0a24b358f8f1a6679a26b846e023d",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "attempts": 2,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "routine-okehazama",
+          "url": "https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-simulator-images4.webp",
+          "archiveCount": 0,
+          "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>",
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "pantoja-astralod3",
+          "url": "https://arxiv.org/html/2609.28061v1/fig_benchmark_models_04_1_render.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 385822,
+          "sha256": "9287d6aa05a51b8224cfe310ce9b67de1b65e4de9b5ae231c9c483707dfed975",
+          "dimensions": [
+            940,
+            705
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "usnul-old-circle",
+          "url": "https://canada1.discourse-cdn.com/flex035/uploads/threejs/original/3X/9/e/9ea420c0428450136648e842ad208b0fdab46f80.jpeg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 230615,
+          "sha256": "d5736afa044bac56a51083b246eaff95ec5cb79798dffbfecba75fbce4b1d3b2",
+          "dimensions": [
+            1440,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "stackloom-silent-meridian",
+          "url": "https://raw.githubusercontent.com/stackloomdev/silent-meridian/main/docs/screenshots/depth-observatory.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 1458991,
+          "sha256": "0dbe1f42c1b2a3dcc74bdd2b805f1b7999c70831da6f65b2d6948039b5820d5d",
+          "dimensions": [
+            1440,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "breineng-how-to-suck",
+          "url": "https://img.itch.zone/aW1hZ2UvNDk5Mzc4MS8yOTg5NzkxOC5qcGc=/794x1000/0rb4Ox.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 99415,
+          "sha256": "73259eda7de20801889aa2a41a009e2041d6a8814b3c9d18566cf0d71662e0c0",
+          "dimensions": [
+            794,
+            446
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "kenny-stillwater",
+          "url": "https://pbs.twimg.com/media/HSrlP1rXMAAgMWW.jpg?name=orig",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 224901,
+          "sha256": "58c257134a42f58b042a38b298d8d1d8cc2585e5b565a87beb74c0fdf8c539d2",
+          "dimensions": [
+            2048,
+            945
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "ilker-cabsolutely",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2100703084661903360/img/5gq9HvHaSTqlyCTx.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 137027,
+          "sha256": "f8c2cc489be2072036b1dc1ccf0cd90c662539d6f3b0261c3a12458dcbfad92d",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "angello-drone-io",
+          "url": "https://pbs.twimg.com/media/HSszxY4WMAEn773.jpg?name=orig",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 159427,
+          "sha256": "37ed6787cb786bffc755ba957ec81d8f29d02f5392ad41185674f1ba31e5e9c9",
+          "dimensions": [
+            1886,
+            906
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "blendi-saint-orison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2100441933349113856/img/-zcl_oknjJHeAKF8.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 77287,
+          "sha256": "1e692a13b0d2c398191a41e3848361327848bde719d1de165d4b3d5e3fc9d8c1",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "izkimar-crownless",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2100753501940809729/img/f53bBSn0KO5xt3yA.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 102562,
+          "sha256": "f0103374f0a0a4590bfe977169fe61ecff96a646e0c51a4a052cc301fdb6e6dc",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "sldyns-pku-3d",
+          "url": "https://raw.githubusercontent.com/sldyns/PKU-3D/main/docs/media/campus.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 424733,
+          "sha256": "df92340cd740549f2e56626ad1510c9b3762dd9d06e21c243ffd93b447e43d3b",
+          "dimensions": [
+            1600,
+            1000
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "emmtee-paperroute",
+          "url": "https://www.paperroute.lol/art/og.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 819059,
+          "sha256": "ee53782ee1bda56c71c1575f2291cb6d7852af30f9178ec6f38be8d798f27802",
+          "dimensions": [
+            1200,
+            630
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "az9713-three-3d-projects",
+          "url": "https://opengraph.githubassets.com/1/az9713/gpt-6-3d-projects",
+          "archiveCount": 0,
+          "error": "HTTPError: HTTP Error 429: Too Many Requests",
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "gulnoor-openengineering",
+          "url": "https://gulnoorcheema.github.io/OpenEngineering/social/home.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 673844,
+          "sha256": "460f6e0b896a4a4dd7d29005e0c426e8b7641e344cdb0f434ea99d458d5ba51a",
+          "dimensions": [
+            1200,
+            630
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "safaelmali-object-lab",
+          "url": "https://raw.githubusercontent.com/SafaElmali/interactive-3d-lab/main/docs/images/object-lab-cover-15-worlds.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 1679358,
+          "sha256": "7ad5b792f3bea96e8804a2bcc997227621f6dc36bee0c24b946bfd8d665e5ded",
+          "dimensions": [
+            1774,
+            887
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "zenpher-road-to-kufa",
+          "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/assets/screenshots/road-to-kufa/gameplay.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 145141,
+          "sha256": "4327f6e037509c0c8f84f7cf049e439ff7d459e7bf01d23706b987df61da9fe4",
+          "dimensions": [
+            1470,
+            745
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "nightstar-realm-of-seratari",
+          "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/assets/screenshots/realm-of-seratari/gameplay.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 147692,
+          "sha256": "47e75ec12a070d92896b541c2a47f98446e9b9c9a8ef081d950be4a175822409",
+          "dimensions": [
+            1470,
+            801
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "mrtwizzles-glider",
+          "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/assets/screenshots/glider-game/gameplay.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 100881,
+          "sha256": "2d979a47d9ba8fdc0cd3410544c4826874ebe017f8f8f2d9106594ef70b56048",
+          "dimensions": [
+            1470,
+            801
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "thomas-monopoly-city",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097121658750578688/img/mhqTm-uIT4p0ITcm.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 69647,
+          "sha256": "2ffc4473e72f0efc7db997411b951a9133649f1b2831100051bc4239ad6178e2",
+          "dimensions": [
+            552,
+            1199
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "serein-dual-realms",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2098421570503077888/img/pYShAop_a0_-__bl.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 76406,
+          "sha256": "be9dfad8fa65934689da1506bff908a9c505e883cb22615e9aaafea0c45ff1ea",
+          "dimensions": [
+            709,
+            1200
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "marius4lui-nullspace",
+          "url": "https://raw.githubusercontent.com/marius4lui/NULLSPACE/main/docs/images/environment-preview.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 1778577,
+          "sha256": "a436ea9143ff4027d1d59e179584091c080af55dfc3199458d5d16c60e3748b2",
+          "dimensions": [
+            1600,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "akartit-lantern-cove",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096520419826171905/img/CVEMco_7vn0_hUZJ.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 62724,
+          "sha256": "46537e5614ec7b324fef517099b3dabb5d60330f055a2e661290b7e8cf5db537",
+          "dimensions": [
+            1200,
+            704
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "secretseoul-butterball-run",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097315709227597824/img/Q-MvF2J-iFPkbIQ5.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 95406,
+          "sha256": "7ab765359db95566c8c104452f78b22423504e20c4c8aabb399555d81fcaf951",
+          "dimensions": [
+            682,
+            1200
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "wesche-sundrift",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2100041486440058881/img/WCNMhHZQVxK-9bna.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 133396,
+          "sha256": "d858000e17554b512c827098819c85485e538159cba019424d7e4ec03e4584f9",
+          "dimensions": [
+            1200,
+            1200
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "swarnim-duck-off",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2100195153252323328/img/8U5-d0z27NlV2hs5.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 83849,
+          "sha256": "384bf4de2cca140057a9dede9d77defa1949b03cbc4b53658c5707e9a1c4f296",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "defy-wildwake-rally",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2100196373874311168/img/sHjCjcbz9ij8jPPA.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 106076,
+          "sha256": "0209ca0cba37ed62de0005f67bdf370df2351aa8a9b7e9b6365f6a978be71ba5",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "aaron-starship-foundry",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2100381636613275648/img/TMc6B_ZNs0S85RjC.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 88202,
+          "sha256": "8a333eecd4717b30799086b7fc263caf85f81a552ef439ae5dc466158132c3ef",
+          "dimensions": [
+            1200,
+            645
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "timlb-tideglass-hunt",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2100212170671673345/img/1ejhIEp0kM7VVJ1E.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 99427,
+          "sha256": "9b84ef92cfd2767e7e3cb7eb2b6a63779b36a23ffc8495eeff186e61eb300f7d",
+          "dimensions": [
+            1199,
+            633
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "chongdashu-canteen-crashers",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2100206148838387713/img/sdl9vMXOUDJU5_sf.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 50186,
+          "sha256": "8b59046bdbf7d8804c72587cb1ac426eb334b88324a78ced0c5c538e0b80f661",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "berochlu-astrafloor",
+          "url": "https://raw.githubusercontent.com/BEROCHLU/astrafloor/main/.github/image1.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 1380251,
+          "sha256": "f3e4762f058ee69ae864802d6e5c27ef30458a9cf1116e6debff1baa74798d92",
+          "dimensions": [
+            1918,
+            863
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "openai-solace-garden-house",
+          "url": "https://cdn.openai.com/devhub/blog/architectural-visualization/garden-house-exterior-822ca33fb418.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 169862,
+          "sha256": "822ca33fb418903f66b2840038627211f0fc423d449e591f0a9c3e83ac333c39",
+          "dimensions": [
+            1600,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "openai-sunwake",
+          "url": "https://cdn.openai.com/devhub/blog/how-to-build-games/sunwake-water-f1c48b3f7fe8.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 143058,
+          "sha256": "f1c48b3f7fe8706dd558c8378f97863bbab8a21684ec640c38196f404cbeac11",
+          "dimensions": [
+            1440,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "aniket-last-train",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2099651681910992896/img/DF5BMddGcBWIhYbV.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 166319,
+          "sha256": "553e2710a58e4b542f767c8fd6deb050cf559f7e825bb442b04d394b45741c65",
+          "dimensions": [
+            1200,
+            825
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "kiln-abyssal-surveyor",
+          "url": "https://assets.kilnstudio.tools/renders/abyssal-surveyor.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 1337920,
+          "sha256": "e8187a84728395f156870daa912aaaf8876a8470193146dad1c93101d32ea8b5",
+          "dimensions": [
+            1024,
+            1024
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "varun-hot-wheeler",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2099269396233658368/img/J4Xg_RGG6zDTXI7h.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 65485,
+          "sha256": "8a9ed23893eceefe2f77bc5bc035f8ae23d9bc0e0b66d04feba29679379ae6a9",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "kvickan-vesper",
+          "url": "https://i.imgur.com/yGwD5gf.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 1716655,
+          "sha256": "995a20258c49202611ff5c1e44058bf77da0b3d4ea5c21c5e7a185fe803043a8",
+          "dimensions": [
+            1600,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "msd-dead-end",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2099851484175466496/img/J4g8YkopypoCM-rv.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 100710,
+          "sha256": "678f81ed79dc0e218f584486c64a5e8c14977899a59dd392812d0c42c2c19a8d",
+          "dimensions": [
+            1200,
+            913
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "jaynit-samurai-forest",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2099450912301584384/img/U6MEEycgCqcxgO1-.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 89703,
+          "sha256": "b4ad88ddc0ce72ee20be4fe702ab51b4e2c36fbe5adab92de05b1a8ab2b5f5d4",
+          "dimensions": [
+            1200,
+            679
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "noni-veilfall",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2099641039220826112/img/_nd0WW348dlv4gSR.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 83620,
+          "sha256": "e04c897143cf34ea4d6404c02caa05cf8922d4277ed944686813ecf9490aaa72",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "vib3-koi-pond",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2098492548230819840/img/Ef2C6HYFlzwwlNre.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 137702,
+          "sha256": "19d5a2e2e5f9d34380e74a89c0dd5e13503b6da32d02c813e31e7f8c453d9220",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "seoyeon-city-pulse",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2098063330032435201/img/2FzQHs6t_0FG_5o7.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 90459,
+          "sha256": "5d96794ffdfbbd2d258ceafada52e1fbe1baa78da9bd613cb7f66f3d16e369ba",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "sagyo-uv-rebake",
+          "url": "https://pbs.twimg.com/media/HSEQFCuasAATdDP.jpg?name=orig",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 1345876,
+          "sha256": "5111e9392451d19d6cb68006524fe09cb032c582eff0f2d56c998b4ca7b3237e",
+          "dimensions": [
+            3844,
+            2160
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "vib3-squid-shoal",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2098042921576734720/img/8Go_80pnT47iG_p5.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 40373,
+          "sha256": "552888bf6cc9171a3f86f851d5e9b13409a9127872255263c2f507b534d9dc2e",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "aakash-skybound",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2098739148647800832/img/zWopw7KQJmPI7It3.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 99584,
+          "sha256": "cc41c83e2ecb4d3e77d02476e259243389db470101509b700c06dd3af39dd4cb",
+          "dimensions": [
+            1200,
+            750
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "atat-animated-orb",
+          "url": "https://atatapp.com/blog/3d-orb/model-render.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 13926,
+          "sha256": "950fa356978d7e402d012f54c2789a5cb30c86bdd230b06de6fb8f09ea721ea0",
+          "dimensions": [
+            1200,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "dan-chicago-fair",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2098774766777716743/img/xVH1xMaGe1cNhoVU.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 88735,
+          "sha256": "81cc4ab0f0941aecdb4845f4372e0b7375ca0dcef194e05b92384115d8bcb45b",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "rion-temple-diorama",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2098403015669780480/img/48Ok5jAMHEjoZCDR.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 56502,
+          "sha256": "66d1394523ca0e755b767c67c4784666975662070815f63d52e11d5863f84849",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "wada-frame-joints",
+          "url": "https://pbs.twimg.com/media/HSBYGS3bIAADGrc.png?name=orig",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 126000,
+          "sha256": "92b9675f7ef605c4f91460c0788dd84f57cd23d0f75c4482937da6c2c76f34f9",
+          "dimensions": [
+            712,
+            678
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "jonathan-courier-ship",
+          "url": "https://pbs.twimg.com/media/HR5kKkFaIAIrcMw.jpg?name=orig",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 170299,
+          "sha256": "51dc4600d3c7e1df1985b69f47297fec282801e420526507c67fafc4dd7a511d",
+          "dimensions": [
+            1917,
+            1031
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "msb-robot-piano",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2098024329237979136/img/wMFuarfC4XiiGwyM.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 77395,
+          "sha256": "0da92a87e2cfefd4088b226ccf8d5e8dbd5b9938d4a76f0104f7fbdffd12c3fa",
+          "dimensions": [
+            1200,
+            674
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "onihachi-megascans-forest",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096776968574574592/img/VSPIKaokTcUNIx3W.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 125758,
+          "sha256": "5fc4158947330d0635958ac091390728b93aeb42a7a79b5d52c9614f5c881910",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "kingy-fieldnote-rover",
+          "url": "https://kingy.ai/wp-content/uploads/2026/09/drawing-to-editable-3d-astra-before-after.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 459028,
+          "sha256": "8906c8b7ff942c1eb24390d2c9f2eebefda8a86f0eb2ee3ce6fe00ea71350e46",
+          "dimensions": [
+            1400,
+            624
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "simonw-pluribus-egg",
+          "url": "https://static.simonwillison.net/static/2026/pluribus-blender-viewer.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 78424,
+          "sha256": "ca854b85ded6469a824015e1451f0aebee458492662384b4021899cd3ab14d12",
+          "dimensions": [
+            1327,
+            934
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "dara-goblin-bottle",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097110697029103616/img/qNBjMdxnxJ8hoqeF.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 37325,
+          "sha256": "aa76cb2c5f62d3ef66a004b612ba21eb4c05fbeea9b4e8cd34213bdcb7cd00be",
+          "dimensions": [
+            1200,
+            753
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "pcstyle-minecraft-map",
+          "url": "https://pbs.twimg.com/media/HRfsccZbMAAOe5Z.png?name=orig",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 656769,
+          "sha256": "95715a82fcc4c3dd2d447cc5183091747a6d5a9afc40a9a2bd29ad7817da0c82",
+          "dimensions": [
+            768,
+            480
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "asmoyou-toy2game",
+          "url": "https://raw.githubusercontent.com/asmoyou/toy2game/main/docs/images/toy2game-overview.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 457286,
+          "sha256": "793d91e5b5392b4713606812f1d0416b314297f0b7ab1f24d1449bc16c32e9f1",
+          "dimensions": [
+            1600,
+            1280
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "higgsfield-beehive",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097813680964694016/img/dH0hKm5vkcvXQCgq.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 185044,
+          "sha256": "b3e24bbbe59d96f8919d9eecc841787a1302034fac88d1567eaa23832eabc200",
+          "dimensions": [
+            1200,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "sonic-urban-champion",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097600770095132672/img/WGzY-nUYB_2keW-c.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 134442,
+          "sha256": "d35ab8d221f26e394ff5ff5fb8b402ed2ac3fd28fdf3c73e6f65fa977b632974",
+          "dimensions": [
+            1200,
+            1014
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "sokun-houdini-airplane",
+          "url": "https://us1.discourse-cdn.com/openai1/original/4X/b/c/a/bca747bbfbf0c28cbbd8aa082418e4dac3f9d61c.jpeg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 174294,
+          "sha256": "55c67140d5b273bec6504405a5e0666415d33d2b540ea68db2a201e5aa4711dc",
+          "dimensions": [
+            1920,
+            871
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "higgsfield-cartoon-rig",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097797011479330816/img/_TJbjU3DOhPazHAz.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 144597,
+          "sha256": "e47ad9b9fabd657640bce9b258a1ea034a6b54bd55eeaec8afe65d9ce4aa3d74",
+          "dimensions": [
+            1067,
+            1200
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "bootoshi-roblox-village",
+          "url": "https://pbs.twimg.com/media/HRv6kAGbAAAtRSJ.jpg?name=orig",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 135170,
+          "sha256": "d8edc510ae31438d8bb133f0eac421acf73cd69c353c39857ad5273cb8c3c3be",
+          "dimensions": [
+            1614,
+            1152
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "sonic-shells-3d",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097600704353624064/img/swadGmWgXdDyADXP.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 109386,
+          "sha256": "44de25dd60fddf90065489a4744e686f833ff302774fa433213659ab9a9d4ff7",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "higgsfield-dali-world",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097830058509598720/img/vpaMBj9Oxpaq7SB3.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 118887,
+          "sha256": "21e9b8fb8309fed45678907724baabd757ee7a646c8e11282a387405f2c99224",
+          "dimensions": [
+            900,
+            1200
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "airilab-rhino-building",
+          "url": "https://i0.hdslb.com/bfs/archive/2a149d5532231b7b9738c53077b353a87015829e.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 296410,
+          "sha256": "d42fc190c94277f0a95243fe9ea0d51b97f36781d48919471b2390f62e776481",
+          "dimensions": [
+            1440,
+            810
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "laoliu-godot-nightmare",
+          "url": "https://i0.hdslb.com/bfs/archive/1b06293d94e65d4cf308e1ff8283154cc862a823.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 657221,
+          "sha256": "31f518107e975b5d3eee38c15f18146c5becebc20bd72965335ee3ced480db55",
+          "dimensions": [
+            1175,
+            664
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "tucao-stone-tomb",
+          "url": "https://i2.hdslb.com/bfs/archive/dc9cfe54e5240fb14b58326bd18b55a897529463.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 201985,
+          "sha256": "cea2008b9f6b1735e9d3a2bc5eeb1eb1a509e2700fbc7cf06beb7ccfe83fb659",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "aizhuiguang-blender-previs",
+          "url": "https://i2.hdslb.com/bfs/archive/aec3031920627448d8596175da58451f36b36855.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 361054,
+          "sha256": "6995970092f9987f1f5de1e806ac79ec085c2533835a5adbdfa31be9e441b321",
+          "dimensions": [
+            1672,
+            940
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "codonflow-creative-worlds",
+          "url": "https://i.ytimg.com/vi/iEup5H2FxKE/hqdefault.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 17335,
+          "sha256": "150376531b388ca0d9cf98a72972a46bc6bcbbb98b12399ce855aba67d347afa",
+          "dimensions": [
+            480,
+            360
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "realsee-editable-space",
+          "url": "https://raw.githubusercontent.com/realsee-developer/realsee-astra-blender/main/docs/assets/plan.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 1730976,
+          "sha256": "00b1f4e94778b8b366472c9a415098b9f024d3f0c67127fb95e0886e3ae4439a",
+          "dimensions": [
+            1600,
+            1200
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "xinz-xianlin-campus",
+          "url": "https://raw.githubusercontent.com/super-xinz/nju-xianlin-campus-3d/main/photos/03-%E6%9D%9C%E5%8E%A6%E6%B0%B4%E5%B2%B8.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 3705987,
+          "sha256": "70c8e80ad0291056b3d9e3399fc0df876a72809f72888b2ffa5641cf9f5892b7",
+          "dimensions": [
+            3840,
+            2560
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "nick-op1-houdini",
+          "url": "https://pbs.twimg.com/media/HRyqTjEaEAAOKhq.jpg?name=orig",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 240804,
+          "sha256": "46081f1e37dd93dce6129ecf3aa285809149c9d39021f64a2b9c536857c1206b",
+          "dimensions": [
+            3840,
+            2160
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "linfeng-robot-kitchen",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097656955351547904/img/agwXHBaNXy814rkT.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 75745,
+          "sha256": "20989c5b85d8c292b0894f66afade5b2d5a8c61e36f9cdb738424aa7d44debc6",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "miya-komorebi-market",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097110659590922240/img/nRlaHBNYuWDDyaD0.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 147731,
+          "sha256": "05f894e66a5824ea07b44136285e21db39b43bfb99f2202440ce3aa5237bacaf",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "rshhad-backrooms",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097794715576115200/img/a7CUjFL6TO4x06cy.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 63158,
+          "sha256": "55ef89b0701fad0e1f2cf63e89dee1d8615e3971e802081a2472f91937252c4b",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "gokay-neural-rendering",
+          "url": "https://raw.githubusercontent.com/gokayfem/H3-Max-Blender/main/demo/cover.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 470772,
+          "sha256": "0d98c584b4d64f80ee524427bc96515231f9ab213b11049b90a4fe998877fa75",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "cyjj-kicad-board",
+          "url": "https://raw.githubusercontent.com/cyjjjj-21/gpt6-astra-kicad-blind-routing/main/astra/pic_programmer-blind-routed-3d.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 177566,
+          "sha256": "745cb8aa98b88ff2b946cfd207ebf8fcad998ad1358fa2fa430675d85e892260",
+          "dimensions": [
+            2162,
+            1256
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "sayan-genesis-atlas",
+          "url": "https://raw.githubusercontent.com/sayanpersonal123/AI-learning/main/og.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 67124,
+          "sha256": "ae38c46b6b774f2f2373d4b5833a8be22bc67933dff427b6deb4889eb460fe60",
+          "dimensions": [
+            1200,
+            630
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "yuntian-coin-avatar",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097761165216567304/img/IIO5hvay8G9UtGmq.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 64498,
+          "sha256": "5b14bf818877a14a71537e430225594ed6ab56e08917659d1458876388a3c1ca",
+          "dimensions": [
+            1080,
+            1080
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "luijait-vayne-hacker",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097720885188984832/img/KsBY2CjcX5gVbk6_.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 160237,
+          "sha256": "82d3f9159ca4ea4f61fae658f6cd70a66837f84fa0700b06a270e6ed30f9fee6",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "enactra-madison-park",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097777088233439232/img/PlAlh9AKk8hWrOg_.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 266466,
+          "sha256": "b77d4252e0ee9c8d12f52513e2dd73e9b507a3471dd2cc296562328fe22cb356",
+          "dimensions": [
+            1200,
+            648
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "evgeny-ligand-animation",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097757277398921216/img/G27oZoTTDSpQa3Ny.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 95833,
+          "sha256": "d28803f21fc6c69e7f32b1a26394b121244f3f86c9a27bda493fa33abcbb2305",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "gostev-fluid-concepts",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097798486322188293/img/DlcWctBMX7CFNZGl.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 69208,
+          "sha256": "d23a24ae982789557159d6a68cbc83af70d375393fd3dc70d96e53a729e191f1",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "spenser-panthera-splat",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097742247358005249/img/gER_aSRNmErqLxhP.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 47933,
+          "sha256": "3071f5a01f93ddacadc25dfb2509edb852d4cbe22608c1c324f86caf19477840",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "nickson-studio-photos",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097488345542660096/img/AMsWCLAtpDBFC6nu.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 129498,
+          "sha256": "cba7f1dc10baf686d32c4aeb776d536d0aa15c588fff6a80cab36c7eb5f412f5",
+          "dimensions": [
+            1200,
+            1027
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "yokohara-houdini",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097665135863345152/img/s5w6T3ULXiUQpjOR.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 213052,
+          "sha256": "1df641b3349c6f0482d648e607dd2c73672a9a3beb38951bb37c5f1a22e2b1e0",
+          "dimensions": [
+            1080,
+            1080
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "jannn-brick-weather",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097340760001548288/img/uEv8cTvt3-j3Qm0R.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 164153,
+          "sha256": "12f46344191159dfa33b7d7dc0f5efceee03b1bd88470770c590be7797ec3e96",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "flora-shoe-last",
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2097763713864368141/pu/img/mpPMVg5F5JlAuvfv.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 37799,
+          "sha256": "aa3b20c1a0494792febbd2d35d2772a3b11a945d37c4339899e75fb5e1071154",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "will-cube-city",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097505780085993472/img/6zfwunEdVDTWlZK4.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 97264,
+          "sha256": "4a188a5809acc4fd92342a19fdded36923896cafdc258a0f49fd195217420eba",
+          "dimensions": [
+            1200,
+            660
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "yachimat-tallinn",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097809399934849037/img/FOSfG-FzF7eDSuAL.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 129347,
+          "sha256": "74579290240153f65bc77922c76f35981f0e8e9b64420509c5f6c20d7e5511b6",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "songkeys-little-flock",
+          "url": "https://raw.githubusercontent.com/songkeys/little-flock/main/docs/demo-poster.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 326221,
+          "sha256": "8a2a768ccc8467c5cd5cfe7d90764fa58d30010ef34a286ae2eef0a36b9ba8cf",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "kana-flower-shop",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097151136155553792/img/AuzVjF2Jxc14tJqt.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 81483,
+          "sha256": "ecac385562a375d47484397c0d45277de44f41c1bd02ab91144a341e05972e95",
+          "dimensions": [
+            1080,
+            1080
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "givros-wetland",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097343347895525376/img/7BqNRpeoZcou-Xtu.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 194707,
+          "sha256": "23dbba2d83ef0ccef6ab1db4578e1b513eb19d4e0c3571a1509f628963f56423",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "magicyan-room-studio",
+          "url": "https://raw.githubusercontent.com/magicyan418/3D-ROOM-TEST/main/public/reference.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 1542238,
+          "sha256": "32d466f61c632ecc46d2bc63264fb1752191258b0764e76c314cfb21bcac4e6d",
+          "dimensions": [
+            1080,
+            1080
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "goan-temple-heaven",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097323160601546752/img/2k2LggwN0cvh5mVI.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 61022,
+          "sha256": "b96633c15d16a1fad0fe0e700c8bec74e9157a05c86bbf84264cea903f333c4a",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "hahaliu-house-styles",
+          "url": "https://raw.githubusercontent.com/hahaliu1029/house-3d/main/media/images/song-living-comparison.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 727049,
+          "sha256": "b868b0e87318968e6117c29086766417e35e7a6b0154c7519fa56f01d3eae6a3",
+          "dimensions": [
+            1600,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "doomdave-dragon",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096330178276601856/img/JU9wNEWrSNfh5CAK.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 59314,
+          "sha256": "756d0d4859c6a3bec065b9594d7fed7544101b6f6b6fb1e331bbfee059e84738",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "taro-skyrim-village",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097166730498113536/img/7GvqTsPqYabmN0A8.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 142238,
+          "sha256": "9c9cbd259a893444392ed43dcb391e62636358a5f2f570cf4232cc13a2128a63",
+          "dimensions": [
+            1200,
+            1022
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "givros-roblox-kart",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096219608550461440/img/VmSvyEIrRRdukfjg.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 105220,
+          "sha256": "5c294d1c86a0a0be00b87bd42151424304fdcdf32de5352a6db93a471756ea4e",
+          "dimensions": [
+            1200,
+            610
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "badx-photo-building",
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2095982524044541952/pu/img/NojpJgktJm7E-l-F.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 103851,
+          "sha256": "2f3fcea1bed3c18d2ef521d0158ce3122426fa9a053d883345161087234f9683",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "yokohara-street-breakdown",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096619986119016448/img/DnxNHOzY0HSwEHqW.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 224080,
+          "sha256": "d69e7be31217bdd2446796f6b8d962f1b917d6429ccc908fa3f0307953a7907b",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "lexn-verdant-forest",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096262956774490112/img/9UcY8pI6LuZ8v2c_.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 206473,
+          "sha256": "e1df4bba9522e440942d2a20884b993ed9c5ba110050acea74d675401a6d213a",
+          "dimensions": [
+            1200,
+            750
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "dilum-v8-engine",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096278610743304192/img/jZDskFFb29_SDdCk.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 133482,
+          "sha256": "1b37070ebfda309172d13ab0719240e85f63386c78eabfc78a631d2608f452a6",
+          "dimensions": [
+            1200,
+            691
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "jake-rink-life",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096981099964772352/img/V5In6125jJkkEGp0.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 104288,
+          "sha256": "dca999c125093f707fcc4d8a4c196a02147dbd729c8c38cffd7543e44d672ba8",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "anshuc-afterlight",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096580463288803328/img/_S5-VDnQ9RJh9URY.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 148875,
+          "sha256": "0591474f54bcea14008b356d845fb81e0aeed03521f37b4549339cdbd69e79b5",
+          "dimensions": [
+            1200,
+            703
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "sharif-palace-fine-arts",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095652923917361152/img/HLx68_TTVmLK5LJa.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 114850,
+          "sha256": "7c767de5ae8260b92a321471d018d0c3cb4bb93579542294a1d34bdf317ace83",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "chen-hangzhou",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096142969032351744/img/lZvQ1GZMdqznrSqb.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 125735,
+          "sha256": "c3f80407c0f62478e43edddb25c85bf2599181ce0c90e2c48f05ba1fc5b36def",
+          "dimensions": [
+            1200,
+            673
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "birdabo-singapore",
+          "url": "https://pbs.twimg.com/media/HRcLFN8bcAAFP4k.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 220663,
+          "sha256": "600dfb1dd4af38014d5c1fa8475283b8662ca76158ebd4e75898026c1e77a0b7",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "danmana-piata-unirii",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096248939876126720/img/s3bAAUu8zYiJXskz.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 167969,
+          "sha256": "f203aff219a755eead5f2ca77b147a8f677a80a4e759f4c4b6f517d71c4c4670",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "syaripin-tripo-texture",
+          "url": "https://raw.githubusercontent.com/syaripin-i8i/blender-astra-texture-guide/main/images/skirt_before_after.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 298613,
+          "sha256": "ef81aec7f6ca497399424a41b1611b7941277e2344652b9250c1c10de8658924",
+          "dimensions": [
+            1300,
+            1168
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "ehuilanse-hard-surface",
+          "url": "https://i0.hdslb.com/bfs/archive/cc3828cd8882b05f76af5d455e20fa9a78a8e5ab.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 147049,
+          "sha256": "f5776230618fd055a468007658b146794b0be4a796a180a462e94bb4310347be",
+          "dimensions": [
+            1530,
+            861
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "teardownlab-wooden-crate",
+          "url": "https://static.zenn.studio/user-upload/deployed-images/04d136be9d670d9d328e48fe.png?sha=1dfc17af4dcd9827bf353749de3cdab73002002e",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 2055788,
+          "sha256": "54d2491e5000b815bbd8b825b9ec8d0bc32e4d51cf4963c0093bc91b086ed057",
+          "dimensions": [
+            1400,
+            1400
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "lbeilc-rhine-lab",
+          "url": "https://raw.githubusercontent.com/LBEILC/RhineLabUI/main/docs/media/archive.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 209431,
+          "sha256": "be5f98894242bb046f02129b39769110e1f16c33c0b30e6ee27e20a8d46f0024",
+          "dimensions": [
+            1600,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "ashe-model-x",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096008340329627648/img/f7Gt3ww30PLWmsKK.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 58410,
+          "sha256": "59f871cbd2a6f1c56f6fa3da16f724d7534881ef24ae63ce0e09557e598f954d",
+          "dimensions": [
+            1200,
+            655
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "tspy-microduck",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096233778113118208/img/9HOvR6k_Z10CchxV.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 55470,
+          "sha256": "367d472b9030f25f055f858daa3c796f592caa506bad6db72ddd9ff8402ba341",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "cwc-sugarfall",
+          "url": "https://raw.githubusercontent.com/CwC-HydeX/donut-studio/main/docs/images/frame-0170.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 797019,
+          "sha256": "ef4d9f2098fde4324363aa3964fb5a4ae2b84a4d8578f1e542ab720b0f856784",
+          "dimensions": [
+            960,
+            800
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "wengsiong-asteria",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096941837160509440/img/M7XW_FFqqtoslpUW.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 44893,
+          "sha256": "d9ef3d906f48f4166505228c793564d097be6e39a77fa6fe5b9b34c4613dc275",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "hooosberg-gundam",
+          "url": "https://i0.hdslb.com/bfs/archive/d0dc78c2b41bc103f1637e567f016f902da1d019.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 202916,
+          "sha256": "b64f3a1bc0d2d58a9a7bbd124e53e2a439b647b32af00b9b61b176c6ab41ce04",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "mang-aerial-repair",
+          "url": "https://i0.hdslb.com/bfs/archive/cd2bc26ff686695ed2336c7d953a7487737a178c.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 198424,
+          "sha256": "3a742432e7118595246bfa3509ccd8472fcec543adab35588d9d674cafb0fdd7",
+          "dimensions": [
+            1600,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "chimerast-vrm",
+          "url": "https://static.zenn.studio/user-upload/4344310250d6-20260906.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 931689,
+          "sha256": "83a0f29c61288b30fc5a9d642ed38159093657d18c6506e4d3863ec0c348bdab",
+          "dimensions": [
+            1280,
+            1280
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "op7418-moonlit-forge",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096204966549663744/img/Uzdz8t2v75PQhifx.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 64067,
+          "sha256": "c626e112086b487b2766eedd0a1dcdc2f69403a9814c8a7ba7f1d4609c832ce0",
+          "dimensions": [
+            1199,
+            722
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "everett-holo-card",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096765283948187648/img/iCVFvP_KllH3WckA.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 123092,
+          "sha256": "e8f2ca7753de313eb8be518f1df3f8d6dbfc62a2639d89e1fd79b606a184faa7",
+          "dimensions": [
+            1200,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "ashe-human-atlas",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096218474930405376/img/3zH8etf7LevKQRr2.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 45485,
+          "sha256": "d493b3730c507dab74d260f6d20e56ba496312e5afdfa8c8e49d73af995500dc",
+          "dimensions": [
+            1200,
+            655
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "shinboson-clouds",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096568034442027008/img/Qc9iu7MCzMMEK5tl.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 40395,
+          "sha256": "27ed7a00bc2c194e7571448183a8fffeb769e1feb57888b936ae0354a2ce66ef",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "lumina-777-landing",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096943524281286656/img/5zywNFWnlxigq4FG.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 65246,
+          "sha256": "e76e7250eb96a8e3bd0ceb835c29c9f4ca331ee83a576dce0fc5755b35b963a7",
+          "dimensions": [
+            1200,
+            851
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "mollick-zork-3d",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096032513387110400/img/bh7ztfq-14SAT0sQ.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 174467,
+          "sha256": "33023664552e79c5d529aa2c5a435afb67139214b17d89020a791f09187dc4a0",
+          "dimensions": [
+            1200,
+            780
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "rohan-elderwood",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096743123301117952/img/W_anzk30lopccNnJ.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 150137,
+          "sha256": "a3ed120db76eb18e2ec42f98dae104b20812cd25c6dbca7b6caa8148adf9cf49",
+          "dimensions": [
+            1200,
+            918
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "derya-brandenburg-piano",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096090005085077511/img/36OGv0ZYv9Ap7Xgc.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 95535,
+          "sha256": "18af0909674da8bc81fda0c6494c05910f879acfac854dc22dd5f7acb299052a",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "akshdeep-earth-history",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096776491011072000/img/3zm_Z5HY1pAZDQUB.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 69602,
+          "sha256": "a31013737b41f428068087ee6e68e7f01b01f9703d287c08b99f35dfe62bcba6",
+          "dimensions": [
+            1136,
+            720
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "senthil-taj-mahal",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096543002055618560/img/WIZxhaya614q-1u1.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 90833,
+          "sha256": "3442ea67c634750dc4e7ca6ab375f85dfc7d7978664482b00734ce430b979c9e",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "techartist-radial-engine",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096576241038188545/img/OzGNyaFGGhg5OfrD.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 97914,
+          "sha256": "f06451a2ce813666553f74b1453da7f0d36e5be32c6853961c651a5e9abf9c8c",
+          "dimensions": [
+            1200,
+            784
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "waitin4agi-speedtree",
+          "url": "https://pbs.twimg.com/media/HRiFMgzaoAA_i9s.jpg?name=orig",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 1887988,
+          "sha256": "49637a00c7baeed8a073f6f8f336190029a95027c3aa9d171e47def91919aade",
+          "dimensions": [
+            4096,
+            2359
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "mojon-cinema4d",
+          "url": "https://pbs.twimg.com/media/HRcobclb0AAh4Tg.jpg?name=orig",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 542253,
+          "sha256": "a354d1e43968507cf2de1b97f37f31f5d966931c96782bc6aa9bf06a03274f91",
+          "dimensions": [
+            3034,
+            2098
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "mizchi-traveler-walk",
+          "url": "https://raw.githubusercontent.com/mizchi/modeling-playground/main/human/models/traveler/output/traveler-walk.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 1737299,
+          "sha256": "a31d7f954088efcda9031d338a61627fdf492477f7f51c29f76fcd655aa28e24",
+          "dimensions": [
+            1200,
+            1400
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "hooosberg-three-view",
+          "url": "https://i1.hdslb.com/bfs/archive/2f493762a5bd56565e550a4046d223d4a8467bb0.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 221610,
+          "sha256": "2049cbc7f797e24b963b4c761a5d0920de7fa2cc892861812d559647277ba835",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "deepwhite-seedance",
+          "url": "https://i1.hdslb.com/bfs/archive/b8aaadf0163ffd16f4e4758c2b61a44f797ef735.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 193893,
+          "sha256": "d9d99485238c513ade4dc4e9cf31fef3b8e9dce297dea7a3630ae6a86be3a607",
+          "dimensions": [
+            1672,
+            940
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "koher-realitizer",
+          "url": "https://static.zenn.studio/user-upload/deployed-images/1b84b3f627a40aa4359836f5.jpg?sha=11ed12f1fb403709700ad6910d67ef9349c38fb2",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 221527,
+          "sha256": "568eec4444b21b959d5d603a7a76d731ef5c08db2e5a6fc614a9c764d281d594",
+          "dimensions": [
+            2556,
+            1179
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "jin-stylized-bust",
+          "url": "https://static.zenn.studio/user-upload/c1aefe8b4a20-20260907.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 692108,
+          "sha256": "1a4e17ee7a183f2b32d607cdad676d230cfa3088032f9b81eba1316fe8f51c13",
+          "dimensions": [
+            880,
+            1100
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "ipentec-spaceship",
+          "url": "https://www.ipentec.com/document/images/3d-model-generation-using-gpt-6-astra-13?width=480",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 97562,
+          "sha256": "6c2e20765a649a73e62496de6e3bd7dbad3e468d7d213bd4952735d921dcb0b7",
+          "dimensions": [
+            480,
+            300
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "cwc-komorebi-shrine",
+          "url": "https://raw.githubusercontent.com/CwC-HydeX/komorebi-shrine/main/docs/images/sunset.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 949833,
+          "sha256": "2754c1a0fdccbf542ea6f85b679105385ed51936a05d26db9b4fd362f3a92c8d",
+          "dimensions": [
+            900,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "anionex-grand-atelier",
+          "url": "https://raw.githubusercontent.com/Anionex/grand-atelier/main/docs/demo.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 102065,
+          "sha256": "7b2eb4388a6634150695df7bc6f0b4984754d534764e5fd4e59b2a5f0e5fa081",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "rising-bianjing-scroll",
+          "url": "https://raw.githubusercontent.com/Rising1234Sun/qingmingshanghetu/main/docs/images/%E7%BD%91%E9%A1%B5%E5%85%A8%E8%B2%8C.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 442194,
+          "sha256": "c6a77a2bccd04c2749b6ffd94d8e3c726a44828d3aa183aa53daec3edf3bf67f",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "simonw-pelican-bicycle",
+          "url": "https://static.simonwillison.net/static/2026/astra-blender-pelican.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 188558,
+          "sha256": "ca5339dad754ce9be28ba159d8e5168dc48f66f78686d46b65730385e881fcc8",
+          "dimensions": [
+            1000,
+            800
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "astra-union-square-philolabs",
+          "url": "https://raw.githubusercontent.com/PhiloLabs/fable51-worlds/main/union-square-sf-gpt-astra/media/preview.gif",
+          "status": 200,
+          "mime": "image/gif",
+          "bytes": 5064672,
+          "sha256": "56cbdfae540293adafc8d20ba2cd3b24cbc4d24cb5fd6f22855f862edb590798",
+          "dimensions": [
+            800,
+            252
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "openai-living-cell",
+          "url": "https://cdn.openai.com/devhub/showcase/living-cell-cross-section/initial-46501ec49984.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 134896,
+          "sha256": "46501ec49984541edd8ba1f20ad1c97b7d422724b29087089fd4633a9f07755a",
+          "dimensions": [
+            1440,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "astra-orbital-dashboard-ai-kai",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096082301176164361/img/457wlveeD7lEExH4.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 75830,
+          "sha256": "68139eea04fcdd50a7f640e041a8ba34051e0438699662f7bff7ed2b998aa893",
+          "dimensions": [
+            1200,
+            873
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "openai-courtyard-house",
+          "url": "https://developers.openai.com/showcase/courtyard-house/cover-generated-sep4.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 51858,
+          "sha256": "07f562ff00136e44a20bd3fb17952884be10ebe9240bd5fe229cbf9a8a545085",
+          "dimensions": [
+            1586,
+            992
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "openai-stop-motion-desk",
+          "url": "https://cdn.openai.com/devhub/showcase/stop-motion-desk/final-c3c0f3218983.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 160086,
+          "sha256": "c3c0f3218983597c870b8419856b39e46d25ad1f324217c6818c0b6b2e9375d3",
+          "dimensions": [
+            1512,
+            772
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "openai-void-explorer",
+          "url": "https://cdn.openai.com/devhub/blog/how-to-build-games/orbital-flight-579e20d663e3.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 131138,
+          "sha256": "579e20d663e37424677536f6202ce102dcdcc409065d5eb40a7555e99b8d6a10",
+          "dimensions": [
+            1600,
+            1000
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "openai-clockwork-observatory",
+          "url": "https://developers.openai.com/showcase/impossible-kinetic-architecture/cover-generated-sep4.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 131452,
+          "sha256": "c36fbdb3719c2248922d3b8f389b2a7503c6683317c7a29fa37611ac675853c1",
+          "dimensions": [
+            1586,
+            992
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "openai-physics-museum",
+          "url": "https://cdn.openai.com/devhub/showcase/physics-museum/final-50909eb800bd.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 80388,
+          "sha256": "50909eb800bdf82085b15bb1bdb58159bc80400b7cc195a09dc6dc8d8833026d",
+          "dimensions": [
+            1600,
+            1000
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "openai-architecture-studio",
+          "url": "https://developers.openai.com/showcase/architecture-studio/cover.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 143208,
+          "sha256": "c0b1d2c9fca3ad56b6f83857ef44d900fce4978df4c24d9f886e7a1f2d6119c1",
+          "dimensions": [
+            1600,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "openai-abyssal",
+          "url": "https://cdn.openai.com/devhub/showcase/abyssal-bioluminescent-ecosystem/initial-1f2e3f541332.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 79370,
+          "sha256": "1f2e3f541332a0785930a37b2025b7c14f9d34915d6faf0a69acae339693b661",
+          "dimensions": [
+            1440,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "openai-little-ritual",
+          "url": "https://developers.openai.com/showcase/little-ritual/cover-generated-sep4.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 110742,
+          "sha256": "d6171372d4e442eac6285ad043bd0dbd0e69a88ef43f103d655ee73e867ad583",
+          "dimensions": [
+            1586,
+            992
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "openai-velocity-loop",
+          "url": "https://cdn.openai.com/devhub/showcase/velocity-loop/menu-concept-1e513c497d96.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 202526,
+          "sha256": "1e513c497d9636adca95dab91ea84cfe6a18bf0cdb31e2f6e99fad822d17cdea",
+          "dimensions": [
+            1600,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "peter-van-gogh-town",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095776416302280708/img/IzfZe03VWW3gBzC6.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 124143,
+          "sha256": "221cce1dd0110a43d97285db8a69134414c804dd97428347e6413152305c2244",
+          "dimensions": [
+            1200,
+            599
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "peter-gogh-strike",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096012866734501888/img/5Q86-WBXYVk1d-NJ.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 80451,
+          "sha256": "32c38657704794f793119d8159d86ae4868d4cc65a28a8c6e776682dfb8bee6c",
+          "dimensions": [
+            1200,
+            599
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "tom-steam-train",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095754646069354497/img/Pz6DsxqZ529t3QdE.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 149189,
+          "sha256": "dae9a8b1cc39f1ec48f513102c5cf27f84c908499270039d60cf082c009f1d92",
+          "dimensions": [
+            1200,
+            780
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "derya-ship-bottle",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095698775075622912/img/X2vJ3HmhZXcG8lNC.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 21693,
+          "sha256": "c57554bdea6a554002e09323070a6b9b7bee8b9064a94c64a5040b75bd6f21b4",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "feraser-turbocharger",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095769948190801920/img/mGHcR0ny6WoaITEz.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 44336,
+          "sha256": "f01f63dcf4f8cdf15e5d7df57729b5b613ee5f727911e0c3bf07630d835e6502",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "yunfan-zillow-house",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095611898968547328/img/EKCYWcJTBrAMT4e6.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 36555,
+          "sha256": "2241c8ab5c22a1469d15739909393bd2f6350250c121cf413b78347c0be80ee8",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "ben-ship-render",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095600428587298816/img/GM52giA7HpU8xx0h.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 128911,
+          "sha256": "c01c403328dd7c42b023ab121905a8ee1bc274dac54e45b2f7f081ec457cf000",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "anshu-concept-to-game",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096004824751890434/img/fW0IV1fAgJ3b7i-D.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 175025,
+          "sha256": "bb1935134adf7eeb982e5be9c0ebb4ce3572adee7ab1d07c6ce7ca5e316377a9",
+          "dimensions": [
+            1200,
+            702
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "claire-fashion-game",
+          "url": "https://www.chatprd.ai/_next/image?q=75&url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fng65ow1q%2Fproduction%2Ff05d9bcbf963a162b0bfd509cd13bf66baf543fe-854x480.jpg%3Fw%3D854%26auto%3Dformat&w=3840",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 10312,
+          "sha256": "a7afa9237b92c42011cef7bde1121df6c9fff78ab6fe84ea2685164ce651bee7",
+          "dimensions": [
+            854,
+            480
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "claire-family-journey",
+          "url": "https://www.chatprd.ai/_next/image?q=75&url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fng65ow1q%2Fproduction%2F28e76b9de1bb58b8e431e45a40ed3a53b512e5c3-854x480.jpg%3Fw%3D854%26auto%3Dformat&w=3840",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 19828,
+          "sha256": "5ffdf8c5d2a5c1af80821b3b49831fbbedafff79218593dc7d1c3c93cacf1a5a",
+          "dimensions": [
+            854,
+            480
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "aibattle-sonic-godot",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095992908448944130/img/v8BSAp4Xt5knPeV0.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 156398,
+          "sha256": "98895f9ea13b5768341dde1695a82687f878f44f3ecd3dca38a5487483ed8f59",
+          "dimensions": [
+            900,
+            1200
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "reference-freestyle-333",
+          "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case333.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 1502801,
+          "sha256": "0427bad3742cc29d34d4d863cc486ec874c2b20fe627afbd52d8bc9e717201c3",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "reference-freestyle-361",
+          "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case361.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 246715,
+          "sha256": "039834badf59050ce4ea43df3feabe3772c8dcf1b8bf84b9f37c04b390527f3a",
+          "dimensions": [
+            1122,
+            1402
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "reference-freestyle-378",
+          "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case378.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 110927,
+          "sha256": "ec8bffa0e3e9634e42f4c741fc9f78761bf4b0cdd98621c52f805438c16b4e2f",
+          "dimensions": [
+            1320,
+            1650
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "reference-freestyle-390",
+          "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case390.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 370616,
+          "sha256": "a1723c725b4cdfc82afff601679b562810d7ee3d3425a052017299edece3c3da",
+          "dimensions": [
+            1024,
+            1536
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "reference-freestyle-438",
+          "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case438.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 151866,
+          "sha256": "da754ce2372298262678a4b40caf0bdc7664b70652a1353d120913e96db0442a",
+          "dimensions": [
+            768,
+            1376
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "reference-freestyle-439",
+          "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case439.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 103338,
+          "sha256": "b4c871d8351d7396f4523b8d8821a72a8ef700ef01a17e00fabc226e90997b58",
+          "dimensions": [
+            1080,
+            720
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "reference-freestyle-444",
+          "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case444.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 156977,
+          "sha256": "e617751b6dc766bc3000443e0acf493408cb9fe2899d336316262414208f0502",
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "reference-freestyle-489",
+          "url": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case489.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 125137,
+          "sha256": "0853e379b5358d179003a446a1bff5174e217e2c21a43b3e5579f378121f694c",
+          "dimensions": [
+            720,
+            720
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "reference-wuyoscar-isometric-cafe",
+          "url": "https://raw.githubusercontent.com/wuyoscar/GPT-Image2-Skill/main/docs/isometric/isometric-cafe.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 1559853,
+          "sha256": "8cf7ec1909d898f5c4e281418d4fb7fcefeea52172682e087241e5012d2122dd",
+          "dimensions": [
+            1024,
+            1024
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "reference-wuyoscar-isometric-village",
+          "url": "https://raw.githubusercontent.com/wuyoscar/GPT-Image2-Skill/main/docs/isometric/isometric-fantasy-village.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 2500831,
+          "sha256": "0f7999bb4533aea4f990dc5706fcfe441a4a16c637d1bc35d3ff1b08c6fcc79c",
+          "dimensions": [
+            1024,
+            1024
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "reference-wuyoscar-dieline-box",
+          "url": "https://raw.githubusercontent.com/wuyoscar/GPT-Image2-Skill/main/docs/product-food/product-dieline-box.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 2094235,
+          "sha256": "a9b553e856da3f3affa80f9b6cbec5533436c43c34c9ce27379a767c1e788c13",
+          "dimensions": [
+            1024,
+            1536
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "reference-wuyoscar-kitten-cg",
+          "url": "https://raw.githubusercontent.com/wuyoscar/GPT-Image2-Skill/main/docs/cinematic-animation/pixar-kitchen.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 2339366,
+          "sha256": "5e788c6f6adf248ae27d87d70324d75a4d42fe14346e2107124e94a2af08cada",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "mollick-living-ocean",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095673008803241987/img/rkGOb6E0-oOUi5ka.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 91509,
+          "sha256": "09ef137faaeb6e97a34ce07e845a2b0340cbf8d1370e1a2a39df57f4d771cbbd",
+          "dimensions": [
+            1200,
+            484
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "alesha-voidbound-slasher",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095988588534272001/img/LbeL-FX3FW9Ngqwm.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 97723,
+          "sha256": "13c80efc9ab25281f8003751942ad0805806b4e0e43727cc085d6aa406280495",
+          "dimensions": [
+            1200,
+            598
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "alesha-antigravity-racer",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095966450385289216/img/u4EnBwNxU0h3lQgI.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 88128,
+          "sha256": "4ba207d953708cffd80b329f0d3db4413f0bd10e259c6b8cbcf7c6ecb93df226",
+          "dimensions": [
+            1199,
+            601
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "ruofeng-orbital-core",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096549512995368961/img/kyuKVBrCE5i7fHA8.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 61205,
+          "sha256": "65966b46a62edaa2f678169873130cec516ac04b0db149975e71d7c3267102d0",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "danmana-cluj-voxel",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096248939876126720/img/s3bAAUu8zYiJXskz.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 167969,
+          "sha256": "f203aff219a755eead5f2ca77b147a8f677a80a4e759f4c4b6f517d71c4c4670",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "shumer-unreal-society",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095589100539531264/img/Tlsi7uZFwLrLR-51.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 200523,
+          "sha256": "432e36cb90df6bfd2fbfd5a0f2d735709baf0424ebd01e4ad90147347cb13c04",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "majid-kaiju-city",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096251295594135556/img/mkKNAllU4LTzJGME.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 159311,
+          "sha256": "7c8021017b63782123ba20ac1b0b416ccc04f0cde396278dcf5e581f58a5cec9",
+          "dimensions": [
+            1199,
+            779
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "nano-character-expressions",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096524256012316672/img/IDGr9lItOL1yZ3ZR.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 140332,
+          "sha256": "4c0da5c4379eee33a2cc15f8aa0dcaca590db141477d8661a288dd51c9246e43",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "derya-enterprise-cad",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095640960680243200/img/XHJ2aX--CTheLjgN.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 6842,
+          "sha256": "b0b90912f9e8a3cda9f34649df7a5eb5607a35b31af56f944664b87833089f16",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "arda-titan-exhibit",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095986724040290305/img/7G--77xdhynAlqtB.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 53754,
+          "sha256": "6c78b15668c13ba9f236d889e6af9843bb804cce177b6515f1c525efc38c4416",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "bilawal-scan-living-room",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096091625915301888/img/hwJYJ-JHXwUfDM3-.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 223815,
+          "sha256": "feb45a35138483eed6442d2922555129d8afcca9efe8e91acc586415d2824e04",
+          "dimensions": [
+            1067,
+            1200
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "leo-surface-insect",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096457635352698880/img/l8ISZUQdh7BnxxRJ.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 79665,
+          "sha256": "646a9ba4b93aea3de2e18e9656a770b5ace3d50959344ef35a0e4bd44a73be34",
+          "dimensions": [
+            900,
+            1200
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "amsminn-smash-karts",
+          "url": "https://raw.githubusercontent.com/amsminn/gpt-6-astra-smash-karts/main/docs/media/gameplay.gif",
+          "status": 200,
+          "mime": "image/gif",
+          "bytes": 2397545,
+          "sha256": "9ee2ec2e2e60cb43e4f4f5b57a680f8948feb7de07a34738cced5a1ce2796bd1",
+          "dimensions": [
+            720,
+            348
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "ayi-mosswing",
+          "url": "https://raw.githubusercontent.com/Ayi1337/gpt6-astra-one-shot-games/main/mosswing/src/design/desktop-final.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 49622,
+          "sha256": "e48e75f6d576698277fbf38943951dca9b414e6f8a6ec01da83ac63b9df5f829",
+          "dimensions": [
+            908,
+            932
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "goroman-facet-fighter",
+          "url": "https://raw.githubusercontent.com/GOROman/gpt-6-astra-ps1-game-benchmark/main/docs/screenshots/015-arcade-champion.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 60185,
+          "sha256": "8e762593142bcad1c90af7a308f821fc99fd1a0eef1f3475b85b96fb298a5a98",
+          "dimensions": [
+            882,
+            486
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "ian-rain-court",
+          "url": "https://raw.githubusercontent.com/IanOliverU/web-3d-game/main/public/gameplay-movement-fixed.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 1326356,
+          "sha256": "7ecfa1825ba252e657e2374cc15b2552e3acdfb2e616e4c5dfd7e8e4dd615cce",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "cagri-civilization-lab",
+          "url": "https://raw.githubusercontent.com/cagrikacmaz/gpt-6-astra-vs-gemini-3-8-flash/main/media/astra/astra-main-world.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 2676084,
+          "sha256": "4d78cdfadbdd23f8c4c16e25dffde61528a50f10188d39b136cac1073985f77a",
+          "dimensions": [
+            2048,
+            1301
+          ],
+          "attempts": 2,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "guizang-blender-donut",
+          "url": "https://i0.hdslb.com/bfs/archive/6901444a47ab3e89cd6124fb35db51114888c4b9.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 127962,
+          "sha256": "89696d91e2fe8fbf6d733d2a24ec5d6f30191b7658e7df30ab6cc4c2af25fa9d",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "openai-helios-collector",
+          "url": "https://cdn.openai.com/devhub/blog/architectural-visualization/helios-stellar-collector-8f89b625bd2f.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 134656,
+          "sha256": "8f89b625bd2fb0ec4a12e1195b6810cce833d919cd78dc5eff328d4434a9fa78",
+          "dimensions": [
+            1600,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "teshnizi-mechanical-iris",
+          "url": "https://raw.githubusercontent.com/teshnizi2/astra-fable-3d-iris/main/evidence/high/comparison-high.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 1569296,
+          "sha256": "a4b0c1924bc7b7664f31ffb9000656fc50f3d1c407f828bdefa79d1000fe0707",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "scottstts-jelly-baby",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096364109210202112/img/_-nTPLScjLl70avL.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 111405,
+          "sha256": "d66e800964b98b602a0c769a58f6c15a480c04a373f72898a8fec8e0bb83610e",
+          "dimensions": [
+            1200,
+            753
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "synabreu-seoul-atlas",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096557441312034816/img/v3Iur3rDygYBuOdR.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 88871,
+          "sha256": "0e9dbb4551ecae9fe20b9a034bbed1fe2c2712c6bc98ddd34d6954a351e59c5d",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "simonsmith-lego-minifig",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096766389113556999/img/hN9hsB2OZfAAoSY5.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 19844,
+          "sha256": "2ae7fbc834e1546391f3fb60bec3ccb7ddcacc07ebe21f356e2211abf05d9f5b",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "icooper-desktop-exploded",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096578527097421824/img/URU9i3UmgYiA-oul.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 96565,
+          "sha256": "a458ade27a67e8056a77033a3773747c79a821004d83229afc91439a3d318b2b",
+          "dimensions": [
+            1200,
+            697
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "dqlh-room-planner",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096578530561966080/img/h00AqoyEsyqlQzgD.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 70221,
+          "sha256": "e76cb778a414f84ed2dc2b89c90b7fa5a15f0bacc39a081e611687fc587cb09d",
+          "dimensions": [
+            652,
+            1200
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "openai-aurelion-shipyard",
+          "url": "https://cdn.openai.com/devhub/blog/architectural-visualization/aurelion-far-meridian-6f95d4a76080.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 68480,
+          "sha256": "6f95d4a76080e1894ddd2a5d602cd6d27986f83f804541183e33c72ce3d724c7",
+          "dimensions": [
+            1600,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "openai-giverny-garden",
+          "url": "https://cdn.openai.com/devhub/blog/architectural-visualization/giverny-water-garden-cec7107eed5b.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 238934,
+          "sha256": "cec7107eed5b66f0a866b25319c43225a88bb00db13e409ddf6e5f16179577a8",
+          "dimensions": [
+            1600,
+            670
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "yuanyang-softie-webgpu",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096792079976554496/img/3POcd351G7kC4jze.jpg",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 61135,
+          "sha256": "080a768b7958082811553a4d1a4c865caeee6e542e68fe0ba9e32ed478233342",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "cristian-inside-lloyds",
+          "url": "https://raw.githubusercontent.com/cristianexer/Lloyds-of-London-3D-building/main/docs/banner.svg",
+          "status": 200,
+          "mime": "image/svg+xml",
+          "bytes": 904482,
+          "sha256": "cbc1b93688099f4a25856d39d91f43f6cd377833a4fe40418c23d3f8ade7839f",
+          "dimensions": null,
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "sawamura-slider-crank",
+          "url": "https://raw.githubusercontent.com/Sawamura-Jun/Crank-Mech/main/output/assembly_preview.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 147077,
+          "sha256": "14c06d78c8a0b42343a61295874fc3e0a70d0ecc92e143667a641e6e0121620f",
+          "dimensions": [
+            1400,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "xindomusic-pulsebreak",
+          "url": "https://raw.githubusercontent.com/xindomusic/pulsebreak/main/docs/images/title.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 467237,
+          "sha256": "991844f10165377c061ddecdec223ae8db30993f42ef20365d948939035234d0",
+          "dimensions": [
+            1280,
+            800
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        },
+        {
+          "caseId": "az9713-robo-open",
+          "url": "https://raw.githubusercontent.com/az9713/gpt-6-astra-tennis-game/main/docs/media/v2/main-menu.png",
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 594330,
+          "sha256": "caece2aaec47172feec434c83679e5e7d198510274363ed15c00f0a15fe8652b",
+          "dimensions": [
+            1600,
+            900
+          ],
+          "attempts": 1,
+          "decoded": true,
+          "observedAt": "2026-10-09"
+        }
+      ],
+      "historicalResolution": {
+        "keptAfterRetry": {
+          "caseId": "routine-okehazama",
+          "url": "https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-simulator-images4.webp",
+          "observedAt": "2026-10-09",
+          "status": 200,
+          "mime": "image/webp",
+          "contentLength": "116830",
+          "bytes": 116830,
+          "sha256": "139b4618f7887b00cd9990b4645bd43ab69bc298e0fda0f415ed24392b8212f0",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "format": "WEBP",
+          "framesDecoded": 1,
+          "finalUrl": "https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-simulator-images4.webp",
+          "decoded": true,
+          "attempts": [
+            {
+              "attempt": 1,
+              "elapsedSeconds": 25.03,
+              "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+            },
+            {
+              "attempt": 2,
+              "elapsedSeconds": 1.84,
+              "status": 200
+            }
+          ],
+          "fullGet": true,
+          "contentLengthMatched": true,
+          "visuallyViewed": true,
+          "visualTool": "view_image",
+          "actualCaption": "现存桶狭间游戏截图：丘陵、等高线、部队、地形剖面与时间轴，页面标题桶狭間の戦い，三维空间可见。",
+          "sourceAttribution": "原页桶狭間の戦いシミュレーター段落仍引用相同 images4.webp，原图不是失效。",
+          "recommendedImageKind": "gameplay-screenshot"
+        },
+        "replacementCaseId": "az9713-three-3d-projects",
+        "oldImageUrl": "https://opengraph.githubassets.com/1/az9713/gpt-6-3d-projects",
+        "newImageUrl": "https://raw.githubusercontent.com/az9713/gpt-6-3d-projects/main/gpt6_3d_architecture_salmaan/renders/01.png",
+        "removedCaseId": "andyyuyc-worldgen-unity"
+      },
+      "newVideoMediaIds": [
+        "2107877128494555136",
+        "2108081678849830912",
+        "2108336089471557632"
+      ],
+      "downloadedFileCount": 6,
+      "downloadedBytes": 25706631,
+      "allSourceFilesFullyDecoded": true,
+      "sourceVideos": [
+        {
+          "caseId": "luckeyfaraday-sonic-four-model",
+          "filename": "luckeyfaraday-sonic-four-model-1-original.mp4",
+          "kind": "original",
+          "mediaId": "2107877128494555136",
+          "bytes": 4158006,
+          "sha256": "f01ec3bc30bdc7d40d3f1fb1549965f828edf863f69bb010cd038247a9930b42",
+          "durationSeconds": 24.06,
+          "expectedDurationSeconds": 24.007,
+          "contentLength": 4158006,
+          "contentLengthChecked": true,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "strictDecodeExitCode": 0,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-09/luckeyfaraday-sonic-four-model-1-original.mp4"
+        },
+        {
+          "caseId": "luckeyfaraday-sonic-four-model",
+          "filename": "luckeyfaraday-sonic-four-model-1-web.mp4",
+          "kind": "web",
+          "mediaId": "2107877128494555136",
+          "bytes": 895630,
+          "sha256": "e97ff115400dee60e6d30d898a0fe56684f5ab445c99f4af36393d5a2e717e0b",
+          "durationSeconds": 24.06,
+          "expectedDurationSeconds": 24.007,
+          "contentLength": 895630,
+          "contentLengthChecked": true,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "strictDecodeExitCode": 0,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-09/luckeyfaraday-sonic-four-model-1-web.mp4"
+        },
+        {
+          "caseId": "momo-living-signals-rhythm",
+          "filename": "momo-living-signals-rhythm-1-original.mp4",
+          "kind": "original",
+          "mediaId": "2108081678849830912",
+          "bytes": 2965100,
+          "sha256": "380c434c971390a28bbe35fe472a0929613fb10786706c9f68c2b38c8171ebe7",
+          "durationSeconds": 17.23,
+          "expectedDurationSeconds": 17.166,
+          "contentLength": 2965100,
+          "contentLengthChecked": true,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "strictDecodeExitCode": 0,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-09/momo-living-signals-rhythm-1-original.mp4"
+        },
+        {
+          "caseId": "momo-living-signals-rhythm",
+          "filename": "momo-living-signals-rhythm-1-web.mp4",
+          "kind": "web",
+          "mediaId": "2108081678849830912",
+          "bytes": 925482,
+          "sha256": "ae4e198d3a4e32d232e2d4abeebe6aecfe3c0c18cf6955256bdaba56920e15a9",
+          "durationSeconds": 17.23,
+          "expectedDurationSeconds": 17.166,
+          "contentLength": 925482,
+          "contentLengthChecked": true,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "strictDecodeExitCode": 0,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-09/momo-living-signals-rhythm-1-web.mp4"
+        },
+        {
+          "caseId": "vib3coded-pirate-jelly",
+          "filename": "vib3coded-pirate-jelly-1-original.mp4",
+          "kind": "original",
+          "mediaId": "2108336089471557632",
+          "bytes": 15610220,
+          "sha256": "a660a08a02f064301f66372948413e7cd8ca4b8cd05dc9936afbbba5ab69c987",
+          "durationSeconds": 17.05,
+          "expectedDurationSeconds": 17,
+          "contentLength": 15610220,
+          "contentLengthChecked": true,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "strictDecodeExitCode": 0,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-09/vib3coded-pirate-jelly-1-original.mp4"
+        },
+        {
+          "caseId": "vib3coded-pirate-jelly",
+          "filename": "vib3coded-pirate-jelly-1-web.mp4",
+          "kind": "web",
+          "mediaId": "2108336089471557632",
+          "bytes": 1152193,
+          "sha256": "4d4560f53fc29d70d689f4b0ba76e046f34956e88bce9afd9d151ca7a581943d",
+          "durationSeconds": 17.05,
+          "expectedDurationSeconds": 17,
+          "contentLength": 1152193,
+          "contentLengthChecked": true,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "strictDecodeExitCode": 0,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-09/vib3coded-pirate-jelly-1-web.mp4"
+        }
+      ],
+      "browserPreviews": {
+        "pageWidth": 1425,
+        "previews": [
+          {
+            "height": 1200,
+            "loaded": true,
+            "src": "https://pbs.twimg.com/amplify_video_thumb/2108336089471557632/img/x9tBYYdbHOuUBZX4.jpg",
+            "title": "Pirate Jelly：海盗湾、船体细节与双模型对照",
+            "width": 948
+          },
+          {
+            "height": 675,
+            "loaded": true,
+            "src": "https://pbs.twimg.com/amplify_video_thumb/2108081678849830912/img/WkyCYLcULi5EkZ2a.jpg",
+            "title": "Living Signals：REZ 风格三维多人节奏游戏",
+            "width": 1200
+          },
+          {
+            "height": 1080,
+            "loaded": true,
+            "src": "https://pbs.twimg.com/amplify_video_thumb/2107877128494555136/img/9QBFToHVmJSIzZfN.jpg",
+            "title": "Sonic 三维角色：同句提示的四模型对照",
+            "width": 1080
+          },
+          {
+            "height": 900,
+            "loaded": true,
+            "src": "https://raw.githubusercontent.com/Goofykings/Octane-Arena/main/docs/gameplay.png",
+            "title": "Octane Arena：原创三维车球与曲面球场",
+            "width": 1440
+          },
+          {
+            "height": 1000,
+            "loaded": true,
+            "src": "https://raw.githubusercontent.com/codersusu/game-city-skylines/main/Documentation/Images/skyline.png",
+            "title": "Seabright：Unity 海岸小城到天际线",
+            "width": 1600
+          },
+          {
+            "height": 229,
+            "loaded": true,
+            "src": "https://assets.st-note.com/img/1791461224-ypQZgqtlYbmDa8nvXKE6LVH5.jpg?width=1200",
+            "title": "混合順 Charakuru：Tripo 部件分类、朝向修正与 VRM 动作",
+            "width": 1200
+          },
+          {
+            "height": 1262,
+            "loaded": true,
+            "src": "https://assets.st-note.com/img/1790822172-30Fimr2KH8Gb6WgysZzdpTqL.jpg?width=1200",
+            "title": "Junya 日本城市生成器：JSON 路网到 Blender 与 Unreal 渲染",
+            "width": 1200
+          },
+          {
+            "height": 900,
+            "loaded": true,
+            "src": "https://raw.githubusercontent.com/SushaanthSrinivasan/astra-room-test/main/runs/high/autopsy-beauty.png",
+            "title": "同一客厅提示词：Blender 三档推理强度对照",
+            "width": 1600
+          },
+          {
+            "height": 862,
+            "loaded": true,
+            "src": "https://assets.st-note.com/img/1790981197-8vpxjOfNXyElckKAWBn2eLD7.png?width=1200",
+            "title": "Harayoki 机甲：Linux 容器 bpy 建模与渲染",
+            "width": 1200
+          },
+          {
+            "height": 722,
+            "loaded": true,
+            "src": "https://assets.st-note.com/img/1790776029-uWeksXDQYpNlwBjO2bTMVc3F.png?width=1200",
+            "title": "きょん Tripo 角色：从黏土感到动漫材质的反复修正",
+            "width": 1104
+          },
+          {
+            "height": 535,
+            "loaded": true,
+            "src": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4318473%2Fd1ca35fd-d4d5-4899-92ad-e58312e3317b.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=cc544efe2d306732c9c7910893340b03",
+            "title": "RELIC：Unity 遗迹探索、祭坛战斗与人工试游",
+            "width": 953
+          },
+          {
+            "height": 720,
+            "loaded": true,
+            "src": "https://raw.githubusercontent.com/lucas-wyd/False-Ritual/main/art/reference/qa/carter/dusk_exterior_front.png",
+            "title": "False Ritual：Godot 家宅探索与追逐序章",
+            "width": 1280
+          },
+          {
+            "height": 1000,
+            "loaded": true,
+            "src": "https://raw.githubusercontent.com/w4coder/donify/main/docs/media/gameplay-preview.jpg",
+            "title": "Donify：Unreal 无人机与村庄室内飞行",
+            "width": 1600
+          }
+        ],
+        "viewport": [
+          1440,
+          1100
+        ]
+      },
+      "browserPlayback": [
+        {
+          "duration": 17.045333,
+          "ended": true,
+          "error": null,
+          "src": "http://127.0.0.1:3003/videos/vib3coded-pirate-jelly-1-web.mp4",
+          "time": 17.045333,
+          "url": "http://127.0.0.1:3003/cases/vib3coded-pirate-jelly/"
+        },
+        {
+          "duration": 17.229206,
+          "ended": true,
+          "error": null,
+          "src": "http://127.0.0.1:3003/videos/momo-living-signals-rhythm-1-web.mp4",
+          "time": 17.229206,
+          "url": "http://127.0.0.1:3003/cases/momo-living-signals-rhythm/"
+        },
+        {
+          "duration": 24.055873,
+          "ended": true,
+          "error": null,
+          "src": "http://127.0.0.1:3003/videos/luckeyfaraday-sonic-four-model-1-web.mp4",
+          "time": 24.055873,
+          "url": "http://127.0.0.1:3003/cases/luckeyfaraday-sonic-four-model/"
+        }
+      ],
+      "responsive": {
+        "desktop": {
+          "width": 1440,
+          "height": 1100,
+          "pageWidth": 1425
+        },
+        "mobile": {
+          "width": 390,
+          "height": 844,
+          "pageWidth": 375
+        },
+        "narrowHome": {
+          "overflow": false,
+          "pageWidth": 305,
+          "viewport": [
+            320,
+            844
+          ]
+        },
+        "narrowCase": {
+          "overflow": false,
+          "pageWidth": 305,
+          "viewport": [
+            320,
+            844
+          ]
+        }
+      },
+      "browserConsole": {
+        "scope": "Local homepage and three new static-video detail pages",
+        "warnings": 0,
+        "errors": 0
+      },
+      "browserNavigation": {
+        "englishPreservedNewestAndResource": true,
+        "resourceResetChecked": true,
+        "legacyCaseHashOpenedCorrectDialog": true,
+        "englishDetailHeadingChecked": true,
+        "clipboardResult": "Clipboard readback was empty after click; no success claimed. Native independent detail links were opened successfully."
+      },
+      "screenshots": [
+        {
+          "path": "docs\\media\\homepage-2026-10-09.jpg",
+          "pixels": [
+            1425,
+            1089
+          ],
+          "bytes": 191852,
+          "sha256": "5021e0f2fc8f6b4af315511265c3ec518c96c82cd853ddb6475d8ecde3effe35",
+          "source": "Actual browser screenshot of the October 9 production build; native capture excludes the scrollbar gutter."
+        },
+        {
+          "path": "docs\\media\\collection-2026-10-09.jpg",
+          "pixels": [
+            1425,
+            1089
+          ],
+          "bytes": 191565,
+          "sha256": "75ccb123f9484babf72064e7f8ac37a8747eda3e8106bd670714b762d9c97d45",
+          "source": "Actual browser screenshot of the October 9 production build; native capture excludes the scrollbar gutter."
+        },
+        {
+          "path": "docs\\media\\mobile-2026-10-09.jpg",
+          "pixels": [
+            375,
+            812
+          ],
+          "bytes": 49991,
+          "sha256": "6105a84d381345bc4b0ca27ef6ef97425480481f29f3e0ad8d4b1d56d4ea1acd",
+          "source": "Actual browser screenshot of the October 9 production build; native capture excludes the scrollbar gutter."
+        },
+        {
+          "path": "docs\\media\\case-2026-10-09.jpg",
+          "pixels": [
+            1265,
+            4108
+          ],
+          "bytes": 382507,
+          "sha256": "7e51f5c234fbba422092e06e965c7a566edd53457586502f0e1f7cecbf9e50b0",
+          "source": "Actual browser screenshot of the October 9 production build; native capture excludes the scrollbar gutter."
+        }
+      ]
     }
   ]
 }

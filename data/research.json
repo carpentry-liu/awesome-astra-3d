@@ -3426,6 +3426,207 @@
           "reason": "Already collected; no separate new workflow verified in this pass."
         }
       ]
+    },
+    {
+      "observedAt": "2026-10-09",
+      "timezone": "Asia/Shanghai",
+      "scope": "13 distinct additions: 3 exact X mirror posts, 5 author articles and 5 author repositories; 1 historical preview repaired and 1 unavailable case archived. Collection date is not first publication date.",
+      "addedCaseIds": [
+        "vib3coded-pirate-jelly",
+        "momo-living-signals-rhythm",
+        "luckeyfaraday-sonic-four-model",
+        "goofykings-octane-arena",
+        "codersusu-seabright",
+        "kongo-charakuru-vrm-workflow",
+        "junya-agent-jp-citygen",
+        "sushaanth-blender-room-effort",
+        "harayoki-container-bpy-mecha",
+        "kyownruby-tripo-anime-material",
+        "allegromoltov-relic-unity",
+        "lucas-wyd-false-ritual",
+        "w4coder-donify"
+      ],
+      "baselineCount": 285,
+      "resultingCount": 297,
+      "articleCoverage": {
+        "observedAt": "2026-10-09",
+        "timezone": "Asia/Shanghai",
+        "queries": [
+          "\"Astra\" \"3D\" site:note.com 2026",
+          "\"GPT-6\" \"Blender\" site:zenn.dev",
+          "\"Astra\" \"3D\" site:qiita.com",
+          "\"Astra\" \"3D\" site:linux.do",
+          "\"Astra\" \"Blender\" site:note.com \"2026年10月\"",
+          "\"Astra\" \"3D\" site:zenn.dev \"2026/10\"",
+          "\"Astra\" \"3D\" site:qiita.com \"2026-10\"",
+          "\"Astra\" site:bilibili.com \"3D\"",
+          "\"Astra\" \"Blender\" site:zenn.dev after:2026-10-02",
+          "\"Astra\" \"3D\" site:qiita.com after:2026-10-02",
+          "\"Astra\" \"3D\" site:linux.do after:2026-10-02",
+          "\"Astra\" \"三维\" site:bilibili.com after:2026-10-02"
+        ],
+        "acceptedCandidates": [
+          "kongo-charakuru-vrm-workflow",
+          "junya-agent-jp-citygen",
+          "harayoki-container-bpy-mecha",
+          "kyownruby-tripo-anime-material",
+          "allegromoltov-relic-unity"
+        ],
+        "notAdopted": [
+          {
+            "url": "https://linux.do/t/topic/2990176",
+            "reason": "10/7 Astra Max 恩尼格玛前端作品有作者声明，但原页 GET 403，搜索摘要未提供可核查本作品预览和成果地址；不以其他回复的 GLM 图或参考视频代替。"
+          },
+          {
+            "url": "https://zenn.dev/yy7613/articles/c150ef962ccc1f",
+            "reason": "列出 Astra、Fable 与 Opus 试用，但当前详细步骤主要由 Claude Code / Opus 5.5 执行；没有将每张成果归属明确到 Astra，暂不作为独立 Astra 作品计数。"
+          },
+          {
+            "url": "https://note.com/picos_aicreator/n/na7c3a34e3fae",
+            "reason": "近期 Tripo 对称化教程，Astra 对照图引自 Tripo 的比较文章；未把该转引图作为作者自己的 Astra 成果。此前研究已记录这一线索。"
+          },
+          {
+            "url": "https://linux.do/t/topic/2978990",
+            "reason": "10/3 Astra 与 Sol 建模差异问答，没有可见新作品；不能作为新增案例。"
+          }
+        ],
+        "limitations": [
+          "近期 Zenn/Qiita/Bilibili 检索可见结果有限，不等于平台没有新作品；日期过滤仍返回较早文章。",
+          "note 原页可直接 GET，web 工具无法打开混合順文章时以原 HTML 和 JSON-LD 核查；不是从搜索摘要虚构完整访问。",
+          "文章检索阶段未进行媒体核查；随后已对五张主图完整 GET、解码并实际查看，记录于本轮 media-audit。",
+          "GitHub 源码只读取文档，没有执行第三方代码；文章检索阶段 itch.io 只读取作品说明；后续根任务已实际看到游戏启动标题及三维背景，未完成试游。",
+          "首次日期按明确的 JSON-LD 时区换算上海日期，今天收录不代替首发。"
+        ]
+      },
+      "repositoryCoverage": {
+        "observedAt": "2026-10-09",
+        "searches": [
+          "site:github.com \"GPT-6 Astra\" \"Blender\"",
+          "site:github.com \"GPT-6 Astra\" \"Three.js\"",
+          "site:github.com \"GPT-6 Astra\" \"3D\" -awesome -topics -Codex-and-Blender -realsee -skills",
+          "GitHub repository search: \"astra\" \"gpt\" created:>=2026-09-24",
+          "AgentsLoop model index discovery followed by original repository README and artwork verification"
+        ],
+        "selectedIds": [
+          "goofykings-octane-arena",
+          "sushaanth-blender-room-effort",
+          "lucas-wyd-false-ritual",
+          "w4coder-donify",
+          "codersusu-seabright"
+        ],
+        "scope": "仅核对作者模型声明、公开材料与五张成果预览；未下载或执行第三方工程，未完成试玩。新增是今日补充收录，未将较早作品描述为今日首发。",
+        "accessLimits": [
+          "未认证 GitHub REST tree 请求返回 403 rate limit；改读公开仓库 HTML 与原始 README。",
+          "VECTOR RUSH 原始 X 帖读取返回 403，原始 README 不写具体模型，未采用聚合库归因直接入选。"
+        ],
+        "excluded": [
+          {
+            "url": "https://github.com/kubok758/MinecraftRTX-GPT-6-Astra-Ultra",
+            "reason": "仓库只有 README 描述，无可核查成果预览与实现，不收录。"
+          },
+          {
+            "url": "https://github.com/ay07rana-oss/Astra-Blender-Agent",
+            "reason": "模型接入插件，不是明确的 Astra 三维作品。"
+          },
+          {
+            "url": "https://github.com/rita112025-cpu/gpt6-astra-prompts",
+            "reason": "通用提示词方案，非作者已生成成果，且引用作品可能已收录。"
+          },
+          {
+            "url": "https://github.com/eval-forge/threejs-astra-6",
+            "reason": "有作者归因、源码和演示，但未找到已核验的静态成果图，留作研究线索。"
+          },
+          {
+            "url": "https://github.com/kumarutkarshuk/flight-sim-astra",
+            "reason": "有源码与明确归因，但未找到已核验成果预览，且 A320 模型为 CC BY 既有资产；暂不进入展示库。"
+          },
+          {
+            "url": "https://github.com/tristan-spear/b2-sim",
+            "reason": "有源码与明确归因，但 README 说明截图保存在临时目录；没有核查到公开成果图，暂不收录。"
+          },
+          {
+            "url": "https://github.com/ToBeWin/vector-rush",
+            "reason": "真实作品与图片可读，但模型归因需原始 X 声明；本轮原帖 403，不据二手模型评分列表提升为作者证据。"
+          }
+        ]
+      },
+      "socialCoverage": {
+        "discovery": [
+          "https://astrafeed.sharenow.today/?tab=x",
+          "https://astrafeed.sharenow.today/api/more?tab=x&date=2026-10-07"
+        ],
+        "directXAccess": "web tool 原站精确 Pirate Jelly / Living Signals URL 403，不能标成直读原作者页",
+        "sourceEvidence": "精确 FxTwitter 镜像转引，evidenceLevel secondary；非独立复现",
+        "excluded": [
+          {
+            "url": "https://x.com/TheEmbodimentAI/status/2108127398961254718",
+            "reason": "第三方 Video2World 论文评论，非本人新作品；不纳入"
+          },
+          {
+            "url": "https://x.com/vib3coded/status/2107977531726934288",
+            "reason": "Maldives 同系列先保留研究，避免只按新帖重复计数"
+          },
+          {
+            "url": "https://x.com/Alpha10six/status/2107470850865979428",
+            "reason": "有 CAD 模型影片线索，但本轮聚焦三条最清晰案例，未核对影片各段来源，暂不纳入"
+          },
+          {
+            "url": "https://x.com/theparuchh/status/2107706404639318398",
+            "reason": "Rube Goldberg 演示待查作者回复提示和实际物理；本轮不加"
+          },
+          {
+            "url": "https://www.sotwe.com/tamaunity1",
+            "reason": "搜索缓存有东京迪士尼 Blender 线索，但实际 GET 连接超时、无精确帖 ID，本轮不加"
+          }
+        ],
+        "fullVideoVerificationPending": false
+      },
+      "rootCoverage": {
+        "queries": [
+          "\"GPT-6 Astra\" \"3D\" \"October 9\"",
+          "\"GPT-6 Astra\" \"Blender\" \"October 8\"",
+          "\"GPT-6 Astra\" Three.js recent",
+          "site:reddit.com \"Astra\" \"3D\"",
+          "site:note.com \"Astra\" \"Blender\"",
+          "site:bilibili.com \"GPT-6 Astra\"",
+          "site:xiaohongshu.com \"Astra\" 3D"
+        ],
+        "limitations": "Public search and author pages only. X primary access remains restricted where actually attempted; exact FxTwitter is secondary. No logged-in or paywalled content accessed, no unsupported model attribution or date inference.",
+        "rejectedCandidates": [
+          {
+            "sourceUrl": "https://www.reddit.com/r/TopologyAI/comments/1x0desg/cozy_creek_threejs_3d_experience_of_a_creek_made/",
+            "reason": "作者模型声明可读，但成果poster全GET返回403，缺少当前可用展示媒体，未收录。"
+          },
+          {
+            "sourceUrl": "https://blog.rekons.io/from-one-prompt-to-a-playable-3d-prototype-testing-gpt-6-astra",
+            "reason": "原文可读且有作者实验说明，但当前原页只有品牌图与YouTube入口，未核实可用成果预览，暂不收录。"
+          },
+          {
+            "sourceUrl": "https://help.scenario.com/articles/5488601378-gpt-6-astra-3d-the-essentials",
+            "reason": "教程可读且转台MP4可取，但主图目视为宣传示意，不能把其宇宙飞船当六组对照的实际Astra成果图；本轮未建立完整转台/海报收录链路，留研究线索。"
+          }
+        ]
+      },
+      "historicalAvailability": {
+        "baselinePreviewsFullGet": 285,
+        "initialDecoded": 282,
+        "recoveredAfterRetry": [
+          "routine-okehazama"
+        ],
+        "replacedPreview": [
+          "az9713-three-3d-projects"
+        ],
+        "removedCase": [
+          "andyyuyc-worldgen-unity"
+        ],
+        "reason": "WorldGen repository and both output images are publicly unavailable; the unrelated author Hunyuan project was not substituted."
+      },
+      "mediaResult": {
+        "fullClips": 3,
+        "fullyDecodedFiles": 6,
+        "bytes": 25706631,
+        "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-09"
+      }
     }
   ]
 }

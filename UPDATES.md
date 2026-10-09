@@ -2,6 +2,24 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-09 · 13 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Pirate Jelly：海盗湾、船体细节与双模型对照 / Pirate Jelly — A Pirate Cove and Ship Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-pirate-jelly/) | Vib3Coded / @vib3coded | 完整视频 |
+| [Living Signals：REZ 风格三维多人节奏游戏 / Living Signals — A REZ-inspired Multiplayer 3D Rhythm Game](https://carpentry-liu.github.io/awesome-astra-3d/cases/momo-living-signals-rhythm/) | momo_dawn / @mumuuuuumo | 完整视频 |
+| [Sonic 三维角色：同句提示的四模型对照 / Sonic in Three.js — A Four-model One-prompt Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/luckeyfaraday-sonic-four-model/) | Luckey Faraday / @luckeyfaraday | 完整视频 · 提示词 / 过程 |
+| [Octane Arena：原创三维车球与曲面球场 / Octane Arena — Procedural 3D Car Soccer](https://carpentry-liu.github.io/awesome-astra-3d/cases/goofykings-octane-arena/) | Goofykings | 源码 / 工程 |
+| [Seabright：Unity 海岸小城到天际线 / Seabright — A Coastal City Builder](https://carpentry-liu.github.io/awesome-astra-3d/cases/codersusu-seabright/) | codersusu | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [混合順 Charakuru：Tripo 部件分类、朝向修正与 VRM 动作 / Kongo Charakuru — Tripo Parts, Orientation Repairs and VRM Motion](https://carpentry-liu.github.io/awesome-astra-3d/cases/kongo-charakuru-vrm-workflow/) | 混合順 / @jun_kongo | 提示词 / 过程 |
+| [Junya 日本城市生成器：JSON 路网到 Blender 与 Unreal 渲染 / Junya Japanese City Generator — JSON Roads, Blender and Unreal Renders](https://carpentry-liu.github.io/awesome-astra-3d/cases/junya-agent-jp-citygen/) | Junya Tashiro / junya-tashiro | 源码 / 工程 · 提示词 / 过程 |
+| [同一客厅提示词：Blender 三档推理强度对照 / One Living Room Prompt — Three Reasoning Efforts](https://carpentry-liu.github.io/awesome-astra-3d/cases/sushaanth-blender-room-effort/) | Sushaanth Srinivasan / SushaanthSrinivasan | 源码 / 工程 · 提示词 / 过程 |
+| [Harayoki 机甲：Linux 容器 bpy 建模与渲染 / Harayoki Mecha — Blender bpy Modeling and Rendering in a Linux Container](https://carpentry-liu.github.io/awesome-astra-3d/cases/harayoki-container-bpy-mecha/) | Harayoki / @harayoki | 提示词 / 过程 |
+| [きょん Tripo 角色：从黏土感到动漫材质的反复修正 / Kyownruby Tripo Character — Iterating from Clay-like Surfaces to Anime Materials](https://carpentry-liu.github.io/awesome-astra-3d/cases/kyownruby-tripo-anime-material/) | きょん(るびぃ) / kyownruby | 提示词 / 过程 |
+| [RELIC：Unity 遗迹探索、祭坛战斗与人工试游 / RELIC — Unity Ruin Exploration, Altar Battles and Human Playtesting](https://carpentry-liu.github.io/awesome-astra-3d/cases/allegromoltov-relic-unity/) | あれぐろもると / AllegroMoltoV | 演示入口 · 提示词 / 过程 |
+| [False Ritual：Godot 家宅探索与追逐序章 / False Ritual — Carter House Prologue](https://carpentry-liu.github.io/awesome-astra-3d/cases/lucas-wyd-false-ritual/) | lucas-wyd | 源码 / 工程 |
+| [Donify：Unreal 无人机与村庄室内飞行 / Donify — Unreal Drone and Village Flight](https://carpentry-liu.github.io/awesome-astra-3d/cases/w4coder-donify/) | w4coder | 源码 / 工程 |
+
 ## 2026-10-08 · 13 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
@@ -65,11 +83,10 @@
 | [古画楼阁：从建筑模型到猫角色动作游戏 / Painted Pavilion — From Architecture to a Cat Action Game](https://carpentry-liu.github.io/awesome-astra-3d/cases/tianyu-painting-cat-action/) | Tianyu Xu | 提示词 / 过程 |
 | [Fluffy Grove：三轮 Blender 林间小屋 / Fluffy Grove — Three-Round Blender Cottage](https://carpentry-liu.github.io/awesome-astra-3d/cases/wutian-fluffy-grove/) | WuTian / wu_tian吴天 | 提示词 / 过程 |
 
-## 2026-10-03 · 10 个案例
+## 2026-10-03 · 9 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
-| [WorldGen：三种文字场景到 Blender 与 Unity 世界 / WorldGen — Three Text Scenes in Blender and Unity](https://carpentry-liu.github.io/awesome-astra-3d/cases/andyyuyc-worldgen-unity/) | andyyuyc | 源码 / 工程 · 提示词 / 过程 |
 | [Orbit Lab：太阳、地球与月球的四模型对照 / Orbit Lab — Four-Model Sun, Earth and Moon Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/machikita-orbit-lab/) | まちきた / machikita（Tech News Radio） | 演示入口 · 提示词 / 过程 |
 | [拉伸试样：从 Blender 脚本到视图与灯光调整 / Tensile Specimen — Blender Script, View and Lighting Iteration](https://carpentry-liu.github.io/awesome-astra-3d/cases/drleeworks-tensile-specimen/) | DrLeeWorks | 提示词 / 过程 |
 | [Vancouver Living Atlas：五种方式探索温哥华 / Vancouver Living Atlas — Five Ways to Explore the City](https://carpentry-liu.github.io/awesome-astra-3d/cases/yitachen-vancouver-living-atlas/) | YiTaChen | 源码 / 工程 · 演示入口 · 提示词 / 过程 |

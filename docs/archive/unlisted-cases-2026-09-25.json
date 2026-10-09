@@ -1723,5 +1723,82 @@
       ],
       "repositoryUrl": "https://github.com/anisayari/minecrack"
     }
+  },
+  {
+    "removedAt": "2026-10-09",
+    "reason": "Original repository, README and both author preview URLs returned HTTP 404. No verified public preview or archived video for this same Astra workflow; no substitution from the author’s unrelated Hunyuan route. The exact cause of unavailability is unknown.",
+    "checks": [
+      {
+        "key": "worldgen-repo",
+        "url": "https://github.com/andyyuyc/WorldGen_Unity",
+        "status": 404,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "key": "worldgen-readme",
+        "url": "https://raw.githubusercontent.com/andyyuyc/WorldGen_Unity/main/README.md",
+        "status": 404,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "key": "worldgen-original-image",
+        "url": "https://raw.githubusercontent.com/andyyuyc/WorldGen_Unity/main/docs/images/generated_buildings.jpg",
+        "status": 404,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "key": "worldgen-before-after",
+        "url": "https://raw.githubusercontent.com/andyyuyc/WorldGen_Unity/main/docs/images/before_after.jpg",
+        "status": 404,
+        "error": "HTTP Error 404: Not Found"
+      }
+    ],
+    "case": {
+      "id": "andyyuyc-worldgen-unity",
+      "title": "WorldGen：三种文字场景到 Blender 与 Unity 世界",
+      "titleEn": "WorldGen — Three Text Scenes in Blender and Unity",
+      "group": "astra",
+      "category": "程序化场景",
+      "platform": "GitHub",
+      "platforms": [
+        "GitHub"
+      ],
+      "author": "andyyuyc",
+      "sourceUrl": "https://github.com/andyyuyc/WorldGen_Unity",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-10-03",
+      "addedAt": "2026-10-03",
+      "modelLabel": "GPT-6 Astra + 参数化 Blender 生成器 + Unity（作者分工）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "读取作者当前路线、公开布局和实际 Blender 渲染",
+      "evidenceNote": "README 明确 GPT-6 Astra 负责单次结构化场景布局；现行入口及配置也指定 gpt-6-astra。普通模型由本地参数生成器按配方构建，最多三个特制地标交给 Astra 编写 Blender 脚本并接受视觉检查；不能把所有网格都算作模型逐个生成。旧 Claude + SDXL + Hunyuan3D 路线仍在仓库，未混为当前 Astra 路线。",
+      "sourceAccess": "读取作者 README、configs/astra.yaml、generate_scene.py、script_gen.py、完整布局系统提示词，以及日本山寺城镇布局 JSON；该布局含 326 个对象。下载至 ignored 工作目录并实际检查 before_after.jpg 与 generated_buildings.jpg，两张均为可见 Blender 场景/资产渲染。README 仅称实测发生于 October 2026；首次发表日期未确定，保持 null。配置顶部仍留有 Hunyuan/SDXL 的旧注释，但当前开关 image_to_3d:false、use_generators:true 与脚本分支及 README 一致。本次没有执行作者代码、生成新场景或打开 Unity。",
+      "summary": "公开火星研究站、海港小镇和日本山寺城镇的布局、制作代码与前后渲染对照。Astra 安排地形、水体、物件位置和建筑配方；Blender 构建与导出资产，Unity 客户端添加天空、天气、照明和水面。当前公开材料是生成工具与样例布局，生成的 GLB、资产库、场景版本及原始会话没有作为现成工程随此仓库发布。",
+      "outputType": [
+        "Blender 程序化场景与建筑资产",
+        "公开场景布局 JSON 与生成源码",
+        "面向 Unity 的 GLB / manifest 导出流程"
+      ],
+      "promptAvailability": "公开完整布局系统提示词与任务短句，未公开完整生成对话",
+      "promptExcerpt": null,
+      "promptSummary": "根据文字安排全部物体的坐标、尺寸、朝向、场地与环境，为每类物体给出参数配方；例题包括海港小镇、火星研究站与有宝塔、鸟居和锦鲤池的日本山寺城镇。",
+      "promptUrl": "https://github.com/andyyuyc/WorldGen_Unity/blob/main/configs/prompts/scene_layout.txt",
+      "imageUrl": "https://raw.githubusercontent.com/andyyuyc/WorldGen_Unity/main/docs/images/generated_buildings.jpg",
+      "imageKind": "author-render",
+      "imageCaption": "作者日本山寺城镇建筑资产的实际 Blender 渲染联系表；包括参数配方生成物与特制地标，不能将整表描述为 Astra 逐个直接建模。",
+      "demoUrl": null,
+      "videoUrl": null,
+      "repositoryUrl": "https://github.com/andyyuyc/WorldGen_Unity",
+      "evidenceUrls": [
+        "https://github.com/andyyuyc/WorldGen_Unity/blob/main/configs/astra.yaml",
+        "https://github.com/andyyuyc/WorldGen_Unity/blob/main/scripts/generate_scene.py",
+        "https://github.com/andyyuyc/WorldGen_Unity/blob/main/src/stage2_reconstruction/script_gen.py",
+        "https://github.com/andyyuyc/WorldGen_Unity/blob/main/data/layouts/japanese_mountain_temple_town.json",
+        "https://raw.githubusercontent.com/andyyuyc/WorldGen_Unity/main/docs/images/before_after.jpg"
+      ],
+      "licenseNotes": "公开源码仓库未见单独 LICENSE；不能将可读源码等同于获得自由复用许可。图片外链作者仓库并保留署名。旧图像/三维生成路线和 Meshy 角色流程使用各自工具与资产规则。",
+      "outcome": "已实际检查作者的三种场景前后对照与建筑资产渲染。没有独立运行 Unity、验证 GLB 导出、遍历场景或复核作者的成本/用时数据。"
+    }
   }
 ]

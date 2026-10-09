@@ -1,6 +1,6 @@
 {
-  "observedAt": "2026-10-08",
-  "method": "Incremental author-demo GETs only for October 8 additions; historical timestamps preserved. Browser startup observations separately noted; no whole-game or hardware compatibility test.",
+  "observedAt": "2026-10-09",
+  "method": "Incremental full GET of the two new author-demo entry pages; browser startup observations separately noted. Historical demo checks retain original dates; no complete gameplay or hardware compatibility test.",
   "results": [
     {
       "id": "openai-sunwake",
@@ -693,6 +693,30 @@
       "method": "GET; no independent complete gameplay test",
       "browserChecked": true,
       "browserResult": "Clicked Begin descent and visibly observed the 3D chamber, character, glowing blade and HUD. No complete playthrough."
+    },
+    {
+      "id": "codersusu-seabright",
+      "url": "https://codersusu.github.io/game-city-skylines/",
+      "status": 200,
+      "title": "Play Seabright — A City in Balance",
+      "finalUrl": "https://codersusu.github.io/game-city-skylines/",
+      "observedAt": "2026-10-09",
+      "result": "reachable",
+      "method": "Full HTTP GET; not a full gameplay test",
+      "browserChecked": true,
+      "browserResult": "实际点击 Load game 和 Enter Seabright，看到三维城市、道路车辆与建造 HUD；没有完成成长流程或测量性能。"
+    },
+    {
+      "id": "allegromoltov-relic-unity",
+      "url": "https://allegromoltov.itch.io/relic-the-last-light",
+      "status": 200,
+      "title": "RELIC - The Last Light by あれぐろもると",
+      "finalUrl": "https://allegromoltov.itch.io/relic-the-last-light",
+      "observedAt": "2026-10-09",
+      "result": "reachable",
+      "method": "Full HTTP GET; not a full gameplay test",
+      "browserChecked": true,
+      "browserResult": "点击 Run game 后实际看到 RELIC 标题界面和三维遗迹背景；未进入完整关卡或通关。"
     }
   ]
 }

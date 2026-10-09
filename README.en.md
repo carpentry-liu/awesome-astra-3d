@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-08 (Asia/Shanghai)** · **273 Astra examples** · **80 source / project links** · **102 demo links** · **121 complete videos** · **12 separate references**.
+Updated **2026-10-09 (Asia/Shanghai)** · **285 Astra examples** · **85 source / project links** · **104 demo links** · **124 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -44,18 +44,18 @@ Open an image for the case, materials and known limitations. This selection stay
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-08.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-09.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Production build screenshots from this October 8, 2026 iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Production build screenshots from this October 9, 2026 iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
-<summary>Gallery, mobile and case screenshots · October 8, 2026</summary>
+<summary>Gallery, mobile and case screenshots · October 9, 2026</summary>
 
-[![Gallery filters and more works](docs/media/collection-2026-10-08.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Gallery filters and more works](docs/media/collection-2026-10-09.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-10-08.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-10-09.jpg)
 
-[![Villa Jelly case page with complete footage and attribution](docs/media/case-2026-10-08.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-villa-jelly/)
+[![Pirate Jelly case page with complete footage and attribution](docs/media/case-2026-10-09.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-pirate-jelly/)
 
 </details>
 
@@ -63,17 +63,19 @@ Production build screenshots from this October 8, 2026 iteration. Browse in Chin
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
+The October 9 update adds **13 works**: pirate-cove and Sonic comparisons, a multiplayer rhythm game, editable room experiments, a city generator and VRM workflows, with **3 complete clips**. One historical cover was repaired; WorldGen was unlisted after its original project and previews became unavailable.
+
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [Matsuda Rabbit Avatar — Tripo Parts, Astra Repairs and VRM](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/matsuda-tripo-rabbit-vrm/) | マツダ / @Matuda_Familiar | [Original](https://note.com/mina0805/n/nc1d8c8f20859) |
-| [Maeiku Creation Lab — Three Donuts and Targeted Blender Repairs](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/maeiku-donut-blender-iterations/) | Maeiku Creation Lab.【前橋育英高校公式】 / スタッフA | [Original](https://note.com/maeiku_lab/n/n6dc6b82ff624) |
-| [LATTE Df — FreeCAD Mechanism, Printed Prototype and Repairs](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/shirotsume-latte-df-freecad/) | しろつめくさ | [Original](https://note.com/tasty_llama9450/n/n2701e5d8f8ed) |
-| [Aetheris Difference Engine — Hierarchical CAD and Mechanical Arithmetic](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/yuechen-aetheris-difference-engine/) | Yuechen Li / yuechen-li-dev | [Demo](https://aetheris-difference-engine-showcase.yuechenli.workers.dev/) · [Source](https://github.com/yuechen-li-dev/Aetheris/tree/master/demos/Aetheris.DifferenceEngine.Showcase) · [Original](https://github.com/yuechen-li-dev/Aetheris) |
-| [Astra Air Combat — Procedural Jets and a 3D Combat Arena](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/flying37520-astra-air-combat/) | FLYING37520 | [Demo](https://flying37520.github.io/astra-air-combat/) · [Source](https://github.com/FLYING37520/astra-air-combat) · [Original](https://github.com/FLYING37520/astra-air-combat) |
-| [Sunward — Unity Coastal Racing and Photo Mode](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/yjrocks-sunward-racing/) | yjrocks712 | [Source](https://github.com/yjrocks712/Sunward-by-GPT-6-Astra) · [Original](https://github.com/yjrocks712/Sunward-by-GPT-6-Astra) |
-| [Rift Chess — Sliding Tiles and Procedural 3D Pieces](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/hailey-rift-chess/) | HaileyStorm | [Demo](https://haileystorm.github.io/rift-chess/) · [Source](https://github.com/HaileyStorm/rift-chess) · [Original](https://github.com/HaileyStorm/rift-chess) |
-| [Villa Jelly — A Tropical Villa and Jelly Sea Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-villa-jelly/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2107617244301664483) |
+| [Pirate Jelly — A Pirate Cove and Ship Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-pirate-jelly/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2108336208891801999) |
+| [Living Signals — A REZ-inspired Multiplayer 3D Rhythm Game](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/momo-living-signals-rhythm/) | momo_dawn / @mumuuuuumo | [Original](https://x.com/mumuuuuumo/status/2108081947021107210) |
+| [Sonic in Three.js — A Four-model One-prompt Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/luckeyfaraday-sonic-four-model/) | Luckey Faraday / @luckeyfaraday | [Original](https://x.com/luckeyfaraday/status/2107877177303699584) |
+| [Octane Arena — Procedural 3D Car Soccer](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/goofykings-octane-arena/) | Goofykings | [Source](https://github.com/Goofykings/Octane-Arena) · [Original](https://github.com/Goofykings/Octane-Arena) |
+| [Seabright — A Coastal City Builder](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/codersusu-seabright/) | codersusu | [Demo](https://codersusu.github.io/game-city-skylines/) · [Source](https://github.com/codersusu/game-city-skylines) · [Original](https://github.com/codersusu/game-city-skylines) |
+| [Kongo Charakuru — Tripo Parts, Orientation Repairs and VRM Motion](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kongo-charakuru-vrm-workflow/) | 混合順 / @jun_kongo | [Original](https://note.com/kongo_jun/n/n0d90791ef6db) |
+| [Junya Japanese City Generator — JSON Roads, Blender and Unreal Renders](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/junya-agent-jp-citygen/) | Junya Tashiro / junya-tashiro | [Source](https://github.com/junya-tashiro/agent-jp-citygen) · [Original](https://note.com/j_t0310/n/ne60283c638ec) |
+| [One Living Room Prompt — Three Reasoning Efforts](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/sushaanth-blender-room-effort/) | Sushaanth Srinivasan / SushaanthSrinivasan | [Source](https://github.com/SushaanthSrinivasan/astra-room-test) · [Original](https://github.com/SushaanthSrinivasan/astra-room-test) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

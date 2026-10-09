@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-10-08（Asia/Shanghai）**：**273 条 Astra 案例** · **80 条源码 / 工程** · **102 个演示入口** · **121 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-10-09（Asia/Shanghai）**：**285 条 Astra 案例** · **85 条源码 / 工程** · **104 个演示入口** · **124 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -44,18 +44,18 @@
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-08.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-09.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-2026-10-08 本轮生产构建实拍。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+2026-10-09 本轮生产构建实拍。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
-<summary>查看案例区、手机与作品详情实拍 · 2026-10-08</summary>
+<summary>查看案例区、手机与作品详情实拍 · 2026-10-09</summary>
 
-[![案例区：筛选与更多作品](docs/media/collection-2026-10-08.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![案例区：筛选与更多作品](docs/media/collection-2026-10-09.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端：精选作品与材料导航](docs/media/mobile-2026-10-08.jpg)
+![手机端：精选作品与材料导航](docs/media/mobile-2026-10-09.jpg)
 
-[![作品详情：Villa Jelly 双模型成果、完整录像与来源](docs/media/case-2026-10-08.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-villa-jelly/)
+[![作品详情：Pirate Jelly 双模型成果、完整录像与来源](docs/media/case-2026-10-09.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-pirate-jelly/)
 
 </details>
 
@@ -63,17 +63,19 @@
 
 这里按本库收录日期排列；作品首次发布、模型配置与核查日期在各档案中分别记录。稳定精选不随日更替换。
 
+10 月 9 日本轮补充 **13 件作品**：海盗湾与 Sonic 对照、多人节奏游戏、可编辑客厅实验、城市生成器及 VRM 流程等；新增 **3 段完整录像**。同时修复一张历史封面，撤下原工程与预览均已不可达的 WorldGen。
+
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
-| [マツダ兔角色：Tripo 分件到 Astra 修复与 VRM](https://carpentry-liu.github.io/awesome-astra-3d/cases/matsuda-tripo-rabbit-vrm/) | マツダ / @Matuda_Familiar | [原始来源](https://note.com/mina0805/n/nc1d8c8f20859) |
-| [前桥育英高校：三种甜甜圈与杯柄修正](https://carpentry-liu.github.io/awesome-astra-3d/cases/maeiku-donut-blender-iterations/) | Maeiku Creation Lab.【前橋育英高校公式】 / スタッフA | [原始来源](https://note.com/maeiku_lab/n/n6dc6b82ff624) |
-| [LATTE Df：FreeCAD 拉花相机从动画到实物修正](https://carpentry-liu.github.io/awesome-astra-3d/cases/shirotsume-latte-df-freecad/) | しろつめくさ | [原始来源](https://note.com/tasty_llama9450/n/n2701e5d8f8ed) |
-| [Aetheris 差分机：层级 CAD 装配与机械算术演示](https://carpentry-liu.github.io/awesome-astra-3d/cases/yuechen-aetheris-difference-engine/) | Yuechen Li / yuechen-li-dev | [演示](https://aetheris-difference-engine-showcase.yuechenli.workers.dev/) · [源码](https://github.com/yuechen-li-dev/Aetheris/tree/master/demos/Aetheris.DifferenceEngine.Showcase) · [原始来源](https://github.com/yuechen-li-dev/Aetheris) |
-| [苍穹交锋：程序化喷气战机与三维空战](https://carpentry-liu.github.io/awesome-astra-3d/cases/flying37520-astra-air-combat/) | FLYING37520 | [演示](https://flying37520.github.io/astra-air-combat/) · [源码](https://github.com/FLYING37520/astra-air-combat) · [原始来源](https://github.com/FLYING37520/astra-air-combat) |
-| [Sunward：Unity 海岸赛车与可导出摄影模式](https://carpentry-liu.github.io/awesome-astra-3d/cases/yjrocks-sunward-racing/) | yjrocks712 | [源码](https://github.com/yjrocks712/Sunward-by-GPT-6-Astra) · [原始来源](https://github.com/yjrocks712/Sunward-by-GPT-6-Astra) |
-| [Rift Chess：可滑动棋盘与程序化三维棋子](https://carpentry-liu.github.io/awesome-astra-3d/cases/hailey-rift-chess/) | HaileyStorm | [演示](https://haileystorm.github.io/rift-chess/) · [源码](https://github.com/HaileyStorm/rift-chess) · [原始来源](https://github.com/HaileyStorm/rift-chess) |
-| [Villa Jelly：热带别墅、果冻海与双模型对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-villa-jelly/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2107617244301664483) |
+| [Pirate Jelly：海盗湾、船体细节与双模型对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-pirate-jelly/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2108336208891801999) |
+| [Living Signals：REZ 风格三维多人节奏游戏](https://carpentry-liu.github.io/awesome-astra-3d/cases/momo-living-signals-rhythm/) | momo_dawn / @mumuuuuumo | [原始来源](https://x.com/mumuuuuumo/status/2108081947021107210) |
+| [Sonic 三维角色：同句提示的四模型对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/luckeyfaraday-sonic-four-model/) | Luckey Faraday / @luckeyfaraday | [原始来源](https://x.com/luckeyfaraday/status/2107877177303699584) |
+| [Octane Arena：原创三维车球与曲面球场](https://carpentry-liu.github.io/awesome-astra-3d/cases/goofykings-octane-arena/) | Goofykings | [源码](https://github.com/Goofykings/Octane-Arena) · [原始来源](https://github.com/Goofykings/Octane-Arena) |
+| [Seabright：Unity 海岸小城到天际线](https://carpentry-liu.github.io/awesome-astra-3d/cases/codersusu-seabright/) | codersusu | [演示](https://codersusu.github.io/game-city-skylines/) · [源码](https://github.com/codersusu/game-city-skylines) · [原始来源](https://github.com/codersusu/game-city-skylines) |
+| [混合順 Charakuru：Tripo 部件分类、朝向修正与 VRM 动作](https://carpentry-liu.github.io/awesome-astra-3d/cases/kongo-charakuru-vrm-workflow/) | 混合順 / @jun_kongo | [原始来源](https://note.com/kongo_jun/n/n0d90791ef6db) |
+| [Junya 日本城市生成器：JSON 路网到 Blender 与 Unreal 渲染](https://carpentry-liu.github.io/awesome-astra-3d/cases/junya-agent-jp-citygen/) | Junya Tashiro / junya-tashiro | [源码](https://github.com/junya-tashiro/agent-jp-citygen) · [原始来源](https://note.com/j_t0310/n/ne60283c638ec) |
+| [同一客厅提示词：Blender 三档推理强度对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/sushaanth-blender-room-effort/) | Sushaanth Srinivasan / SushaanthSrinivasan | [源码](https://github.com/SushaanthSrinivasan/astra-room-test) · [原始来源](https://github.com/SushaanthSrinivasan/astra-room-test) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)
