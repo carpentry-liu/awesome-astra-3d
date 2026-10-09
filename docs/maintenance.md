@@ -62,18 +62,24 @@ npm start
 
 ## 最近一次内容验证
 
-以下是清理前内容版本 `dab5fe2` 的实测记录，日期为 2026-10-08；本次代码清理的验证另见 [REF-0001](refactoring/REF-0001-repository-cleanup/01-动机与方案.md)。
+内容版本 `6259f38`，实测日期为 2026-10-09（Asia/Shanghai）。本轮新增 13 个案例、修复 1 张历史预览、撤下 1 个无法查看成果的案例；当前 297 条记录包含 285 条 Astra 案例与 12 条独立方法参考。此前代码清理另见 [REF-0001](refactoring/REF-0001-repository-cleanup/01-动机与方案.md)。
 
-| 检查 | 实际结果 |
+| 检查 | 实际命令与结果 |
 | --- | --- |
-| `npm run check` · `npm run lint` | 285 条数据、19 项测试及 TypeScript 通过 |
-| 普通构建与 Pages 构建 | 594 静态页、12,722 本地引用、285 详情 JSON 与 595 sitemap URL 校验通过 |
-| 10 月 8 日新增媒体 | 13 张主预览完整获取、解码并查看；3 段 X 片段的 6 个文件核对时长、字节与 SHA-256 |
-| 本地真实浏览器 | 三段视频完整播放结束且无错误；1440、390、320 视口检查无页面横向溢出，本库控制台无告警或错误 |
-| [Pages 工作流](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/37726634081) | build / deploy success，121 个播放文件下载与 SHA-256 校验通过 |
-| 生产站核对 | 285 条公开事实一致，26 个新增双语详情与 595 sitemap 地址匹配；三段新 MP4 全 GET 的 MIME、字节与 hash 一致 |
+| `npm run check` · `npm run lint` | 297 条数据、24 项测试、TypeScript 与 lint 全部通过 |
+| `npm run build` | 普通构建通过；620 静态页、13,298 本地引用、297 详情 JSON 与 621 sitemap URL 校验通过 |
+| 设置 `GITHUB_PAGES=true` 后 `npm run build` | Pages 子路径构建通过，同一组导出数量与本地引用校验通过 |
+| 历史预览全量 GET / 解码 | 285 张中 282 张首次通过；桶狭间重试恢复，az9713 换成同作品的实际 Blender 渲染。WorldGen 仓库、README 与两张成果图均返回 404，完整原记录留在审核档案 |
+| 本轮新增预览 | 13 张原作者成果图完整 GET、解码并实际查看，网站画廊中均正常加载 |
+| 完整 X 视频 | 3 段录像、6 个原版 / 播放文件，合计 25,706,631 字节；MIME、Content-Length、来源时长与 SHA-256 一致，两版本严格全长 FFmpeg 解码通过。命令逐文件记录在 `data/videos.json`，三个本地播放器实际播放到结尾且无错误 |
+| 本地真实浏览器 | 中文 / 英文、最新收录与材料筛选、独立详情和旧 `#case=` 均检查；1440、390、320 像素视口无页面横向溢出。本库控制台无告警或错误。剪贴板回读为空，未将它记录为复制成功；独立详情链接实际打开正常 |
+| 网站实拍与 Markdown | 四张真实截图已替换，`public/share.jpg` 与当前首页图一致；73 个本地 Markdown 引用均存在；`git diff --check` 通过 |
+| [Pages 工作流](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/37870471232) | build / deploy success；`node scripts/fetch-videos.mjs` 获取并验证全部 124 个完整播放文件后部署 |
+| 生产站全量 GET 核对 | 297 条公开事实与本地完全一致；26 个新增双语详情、621 条 sitemap 地址匹配；三个新 MP4 的 MIME、字节与 hash 一致；四张 GitHub 截图和网站分享图与本地文件 hash 一致 |
 
-生产浏览器实际看到 13 条新增预览与 Villa Jelly 视频完整结束。其余两段已在本地完整播放，生产文件 hash 一致。作者演示只核查启动或成果画面，没有完整通关、认证物理正确性或独立性能复现。
+生产浏览器实际看到 13 张新增预览，并将 Pirate Jelly 的 17 秒双模型录像播放至结尾且无错误。其余两段在本地完整播放，生产文件 hash 一致。作者演示本轮实际检查 Seabright 三维城市与 RELIC 启动标题及遗迹背景，没有完成通关、认证物理正确性或独立性能复现。
+
+本轮仅发布 GitHub Pages，未部署 ChatGPT Site。调研下载、发布脚本、构建产物及迁移材料均留在忽略目录；仓库只保留当前 README 使用的四张截图。
 
 ## 对外引用
 
