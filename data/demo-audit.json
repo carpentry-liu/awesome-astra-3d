@@ -1,6 +1,6 @@
 {
-  "observedAt": "2026-10-09",
-  "method": "Incremental full GET of the two new author-demo entry pages; browser startup observations separately noted. Historical demo checks retain original dates; no complete gameplay or hardware compatibility test.",
+  "observedAt": "2026-10-11",
+  "method": "Incremental full GET of three new demo entry pages. Gulou startup actually viewed in the browser; not a full playthrough or independent physics/hardware validation. Historical entries retain dates.",
   "results": [
     {
       "id": "openai-sunwake",
@@ -717,6 +717,37 @@
       "method": "Full HTTP GET; not a full gameplay test",
       "browserChecked": true,
       "browserResult": "点击 Run game 后实际看到 RELIC 标题界面和三维遗迹背景；未进入完整关卡或通关。"
+    },
+    {
+      "id": "wangjiahao-gulou-campus",
+      "url": "https://wang-jiahao.github.io/gulou/",
+      "status": 200,
+      "title": "鼓楼 Gulou · 南京大学校园漫步",
+      "finalUrl": "https://wang-jiahao.github.io/gulou/",
+      "observedAt": "2026-10-11",
+      "result": "reachable",
+      "method": "Full HTTP GET; not complete gameplay",
+      "browserObservation": "Loaded to100%; clicked Enter Campus and actually viewed avatar, lawn and main building. No comprehensive collision, controls or performance test."
+    },
+    {
+      "id": "generalcontext-3jsbench-restaurant",
+      "url": "https://3jsbench.com",
+      "status": 200,
+      "title": "3JSBench — AI 3D Asset Generation Benchmark",
+      "finalUrl": "https://3jsbench.com",
+      "observedAt": "2026-10-11",
+      "result": "reachable",
+      "method": "Full HTTP GET; not complete gameplay"
+    },
+    {
+      "id": "gamesbyai-bearzerk",
+      "url": "https://gamesbyai.github.io/bearzerk/",
+      "status": 200,
+      "title": "Bearzerk!",
+      "finalUrl": "https://gamesbyai.github.io/bearzerk/",
+      "observedAt": "2026-10-11",
+      "result": "reachable",
+      "method": "Full HTTP GET; not complete gameplay"
     }
   ]
 }

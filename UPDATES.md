@@ -2,6 +2,27 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-11 · 16 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Castle Jelly：糖果岩层城堡、瀑布与双模型对照 / Castle Jelly — A Layered Castle and Waterfall Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-castle-jelly/) | Vib3Coded / @vib3coded | 完整视频 · 提示词 / 过程 |
+| [ORBIT：三维智能手表产品片的四模型对照 / ORBIT — A Four-model 3D Smartwatch Product Reveal](https://carpentry-liu.github.io/awesome-astra-3d/cases/maker-evan-orbit-watch/) | chacha / @maker_evan | 完整视频 · 提示词 / 过程 |
+| [NVIDIA Omniverse：仓库、机器人运动与空间重建仿真合集 / NVIDIA Omniverse — Frontier Agent Simulation Collection](https://carpentry-liu.github.io/awesome-astra-3d/cases/nvidia-frontier-simulation-collection/) | NVIDIA Writers / Frank DeLise、Doyub Kim、Ashley Reid 等 | 提示词 / 过程 |
+| [鼓楼：南大校园步行、骑行与滑翔 / Gulou — Walk, Cycle and Glide Through NJU](https://carpentry-liu.github.io/awesome-astra-3d/cases/wangjiahao-gulou-campus/) | Zackaria / wang-jiahao | 源码 / 工程 · 演示入口 |
+| [Stanford in Blender：五组可编辑校园建筑 / Stanford in Blender — Five Editable Campus Scenes](https://carpentry-liu.github.io/awesome-astra-3d/cases/minsik-stanford-blender/) | Minsik / minsik-ai | 源码 / 工程 |
+| [AH-64E Apache：旋翼、机体与多视角三维展示 / AH-64E Apache — A Rotorcraft 3D Presentation Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/maker-evan-apache/) | chacha / @maker_evan | 完整视频 · 提示词 / 过程 |
+| [Inside a Turbofan：发动机剖面、气流与教学对照 / Inside a Turbofan — A 3D Cutaway and Airflow Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/maker-evan-jet-engine/) | chacha / @maker_evan | 完整视频 · 提示词 / 过程 |
+| [Leave a Way：折尺变桥的两分钟 Blender 音乐短片 / Leave a Way — A Folding Ruler Becomes a Bridge](https://carpentry-liu.github.io/awesome-astra-3d/cases/mika-leave-a-way/) | Mika / u/mika314 / @mika314 | 提示词 / 过程 |
+| [Honeytype：蜂蜜键盘、软体材质与交互对照 / Honeytype — A Honey Keyboard Material Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/harry-honey-keyboard/) | Harry Jackson / @keydol123 | 完整视频 · 提示词 / 过程 |
+| [Gummy Dice：透明软糖骰子与三维抛掷对照 / Gummy Dice — A Translucent 3D Dice Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/maker-evan-gummy-dice/) | chacha / @maker_evan | 完整视频 · 提示词 / 过程 |
+| [3JSBench：意式店面与程序三维检查 / 3JSBench — A Restaurant Storefront and 3D Checks](https://carpentry-liu.github.io/awesome-astra-3d/cases/generalcontext-3jsbench-restaurant/) | General Context / GeneralContext | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [LuminaBench 水上飞机：五档 Astra 配置与三维细节 / LuminaBench Seaplane — Five Astra Configurations](https://carpentry-liu.github.io/awesome-astra-3d/cases/luminabench-seaplane-configurations/) | LuminaBench / @LuminaBench | 作者展示 |
+| [Shion 紫苑：Tripo 角色到 Blender 表情、绑定与摇动物 / Shion — Tripo Character to Blender Facial Shapes and Rigging](https://carpentry-liu.github.io/awesome-astra-3d/cases/sushi-shion-face-rig/) | お寿司職人 / @SushiNFTart | 提示词 / 过程 |
+| [Heine 新衣装：猫耳外套、分层内搭与穿插修正 / Heine Outfit — Cat-Ear Hood and Layered Clothing Iterations](https://carpentry-liu.github.io/awesome-astra-3d/cases/kenta-heine-outfit/) | kenta / テセウス・ノ・ハイネ开发者 / @kenta_shoko | 提示词 / 过程 |
+| [Criet 三叶结：从空场景到 Eevee 金属雕塑 / Criet — Procedural Metallic Trefoil Sculpture](https://carpentry-liu.github.io/awesome-astra-3d/cases/criet-procedural-trefoil/) | Criet / snapreplica | 提示词 / 过程 |
+| [Bearzerk!：透明软糖熊与糖果敌潮 / Bearzerk! — A Gummy Bear Against a Candy Swarm](https://carpentry-liu.github.io/awesome-astra-3d/cases/gamesbyai-bearzerk/) | GamesByAI / gamesbyai | 源码 / 工程 · 演示入口 |
+
 ## 2026-10-09 · 13 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
