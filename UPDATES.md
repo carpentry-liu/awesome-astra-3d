@@ -2,10 +2,17 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
-## 2026-10-12 · 11 个案例
+## 2026-10-12 · 18 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
+| [DXF 到 1LDK：3ds Max 初模与后续分工 / DXF to a 1LDK Interior — 3ds Max Modeling and Handoffs](https://carpentry-liu.github.io/awesome-astra-3d/cases/onemorevision-dxf-3dsmax-interior/) | One More Vision / 入江達也（STUDIO55） | 提示词 / 过程 |
+| [Plush Marlin：毛绒旗鱼与夸张软体变形对照 / Plush Marlin — A Soft Toy Shape and Motion Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-plush-marlin/) | Vib3Coded / @vib3coded | 完整视频 · 提示词 / 过程 |
+| [Hallowmere：火炬村庄、角色战斗与多人暗黑 RPG / Hallowmere — Torchlit Villages, Combat and Cooperative RPG](https://carpentry-liu.github.io/awesome-astra-3d/cases/miguelsolorio-hallowmere/) | Miguel Solorio / miguelsolorio | 源码 / 工程 · 演示入口 |
+| [分体键盘 v3.2：白模外观、内部结构与干涉检查 / Split Keyboard v3.2 — Blender Mockup and Clearance Review](https://carpentry-liu.github.io/awesome-astra-3d/cases/hiroyasu-split-keyboard-blender/) | Hiroyasu / compoundworksjp | 提示词 / 过程 |
+| [One Equation, Three Worlds：同一洛伦兹轨迹的铜雕、水墨与光 / One Equation, Three Worlds — A Lorenz Curve in Copper, Ink and Light](https://carpentry-liu.github.io/awesome-astra-3d/cases/davis-three-worlds-copper/) | Davis / davisbuilds | 源码 / 工程 · 提示词 / 过程 |
+| [Honey Laptop：蜂蜜果冻笔记本与部件切开对照 / Honey Laptop — A Jelly Notebook Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/harry-honey-laptop/) | Harry Jackson / @keydol123 | 完整视频 · 提示词 / 过程 |
+| [照片到拼装摩托：部件修正、装配指引与实物打印 / Photo to a Motorcycle Kit — Fit Revisions and a Physical Print](https://carpentry-liu.github.io/awesome-astra-3d/cases/mori-motorcycle-print-kit/) | もりの工作室 / Mori Kousaku | 提示词 / 过程 |
 | [Plush Penguin：毛绒企鹅、翻倒与双模型材质对照 / Plush Penguin — A WebGPU Soft Toy Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-plush-penguin/) | Vib3Coded / @vib3coded | 完整视频 · 提示词 / 过程 |
 | [Gargantua：可环绕观察的吸积盘与弯曲光线 / Gargantua — An Orbitable Accretion Disk and Curved Light](https://carpentry-liu.github.io/awesome-astra-3d/cases/pedro-gargantua-black-hole/) | Pedro Augusto / pedroaugustonyo | 源码 / 工程 |
 | [同一哥布林任务：Blender 六模型外形与走路对照 / Same Goblin Brief — A Six-model Blender Walking Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/congle-goblin-walk-comparison/) | Cong Le / @CongLe | 完整视频 · 提示词 / 过程 |
@@ -258,7 +265,7 @@
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
-| [锦鲤池：鱼群、涟漪与水面交互 / Interactive Koi Pond](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3-koi-pond/) | Vib3Coded / @vib3coded | 完整视频 |
+| [锦鲤池：鱼群、涟漪与水面交互 / Interactive Koi Pond](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3-koi-pond/) | Vib3Coded / @vib3coded | 完整视频 · 提示词 / 过程 |
 | [City Pulse：纽约出租车的三维时间地图 / City Pulse — NYC Taxi Time Map](https://carpentry-liu.github.io/awesome-astra-3d/cases/seoyeon-city-pulse/) | Seoyeon Jun 📊 / @tableau_viz | 完整视频 |
 | [已有 Tripo 模型：整理 UV 并重新烘焙贴图 / Existing Tripo Model — UV Layout and Rebake](https://carpentry-liu.github.io/awesome-astra-3d/cases/sagyo-uv-rebake/) | さ🥺 / @_sagyoai | 提示词 / 过程 |
 | [鱿鱼群：用方程驱动身体和触手 / Procedural Squid Shoal](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3-squid-shoal/) | Vib3Coded / @vib3coded | 完整视频 |

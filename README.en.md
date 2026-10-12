@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-12 (Asia/Shanghai)** · **313 Astra examples** · **92 source / project links** · **109 demo links** · **135 complete videos** · **12 separate references**.
+Updated **2026-10-12 (Asia/Shanghai)** · **320 Astra examples** · **94 source / project links** · **110 demo links** · **138 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -46,7 +46,7 @@ Open an image for the case, materials and known limitations. This selection stay
 
 [![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Production build screenshots from this October 12, 2026 iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Production build screenshots from the October 12, 2026 afternoon iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
 <summary>Gallery, mobile and case screenshots · October 12, 2026</summary>
@@ -55,7 +55,7 @@ Production build screenshots from this October 12, 2026 iteration. Browse in Chi
 
 ![Mobile featured works and material navigation](docs/media/mobile-2026-10-12.jpg)
 
-[![Plush Penguin case page with complete footage and attribution](docs/media/case-2026-10-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-plush-penguin/)
+[![Plush Marlin case page with complete footage and attribution](docs/media/case-2026-10-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-plush-marlin/)
 
 </details>
 
@@ -63,19 +63,19 @@ Production build screenshots from this October 12, 2026 iteration. Browse in Chi
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The October 12 update adds **11 works**: a plush penguin, a goblin walking comparison, a black-hole shader, the Palm Bay driving sandbox and robot motion, with **5 complete X clips**. It also restores [**one tractor case**](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/yo-tractor-animation/) and repairs **two historical previews**. New additions use collection dates; original publication dates remain separate, and the restored case keeps its original collection date.
+The October 12 afternoon update adds **7 works**: a DXF interior, a split keyboard, a printed motorcycle kit, Hallowmere RPG, a Lorenz copper sculpture, Plush Marlin and Honey Laptop. **Three complete X clips** include a koi-pond comparison attached to its existing case. Today totals **18 additions and 8 complete clips**; the morning update also restored one tractor case and repaired two historical previews. Collection and original publication dates remain separate; later versions do not inflate the case count.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [DXF to a 1LDK Interior — 3ds Max Modeling and Handoffs](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/onemorevision-dxf-3dsmax-interior/) | One More Vision / 入江達也（STUDIO55） | [Original](https://note.com/onemorevision/n/n3ce66cf6ae2f) |
+| [Plush Marlin — A Soft Toy Shape and Motion Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-plush-marlin/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2108850731750940711) |
+| [Hallowmere — Torchlit Villages, Combat and Cooperative RPG](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/miguelsolorio-hallowmere/) | Miguel Solorio / miguelsolorio | [Demo](https://miguelsolorio.github.io/hallowmere/) · [Source](https://github.com/miguelsolorio/hallowmere) · [Original](https://github.com/miguelsolorio/hallowmere) |
+| [Split Keyboard v3.2 — Blender Mockup and Clearance Review](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/hiroyasu-split-keyboard-blender/) | Hiroyasu / compoundworksjp | [Original](https://note.com/compoundworksjp/n/ndcba7effd5b7) |
+| [One Equation, Three Worlds — A Lorenz Curve in Copper, Ink and Light](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/davis-three-worlds-copper/) | Davis / davisbuilds | [Source](https://github.com/davisbuilds/oneshots/tree/main/runs/three-worlds-chatgpt) · [Original](https://github.com/davisbuilds/oneshots/tree/main/runs/three-worlds-chatgpt) |
+| [Honey Laptop — A Jelly Notebook Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/harry-honey-laptop/) | Harry Jackson / @keydol123 | [Original](https://x.com/keydol123/status/2108822897561399764) |
+| [Photo to a Motorcycle Kit — Fit Revisions and a Physical Print](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/mori-motorcycle-print-kit/) | もりの工作室 / Mori Kousaku | [Original](https://note.com/mori_kousaku/n/n3b6c5cf4bb95) |
 | [Plush Penguin — A WebGPU Soft Toy Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-plush-penguin/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2109288662319919127) |
-| [Gargantua — An Orbitable Accretion Disk and Curved Light](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/pedro-gargantua-black-hole/) | Pedro Augusto / pedroaugustonyo | [Source](https://github.com/pedroaugustonyo/gargantua) · [Original](https://github.com/pedroaugustonyo/gargantua) |
-| [Same Goblin Brief — A Six-model Blender Walking Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/congle-goblin-walk-comparison/) | Cong Le / @CongLe | [Original](https://x.com/CongLe/status/2109268147068862675) |
-| [Tidepool Jelly — A Miniature Coastal Ecosystem Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-tidepool-jelly/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2109015574177075610) |
-| [Palm Bay — The Preserved One-Shot Driving Sandbox](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/nitzan-palm-bay-one-shot/) | Nitzan / nitzangames | [Demo](https://nitzan.games/experiments/one-shot-gta/astra/index.html) · [Source](https://github.com/nitzangames/PalmBayOneShot) · [Original](https://github.com/nitzangames/PalmBayOneShot) |
-| [Cozy Creek / Hiroshi’s Island — A Woodland Browser Scene](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/chetan-cozy-creek/) | Chetan Ankola / @chetanankola | [Original](https://x.com/chetanankola/status/2107996576228753545) |
-| [G1 Stage Burpee — Carrying, Push-Ups and Jumping in MuJoCo](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/siriuslala-g1-burpee/) | Siriuslala | [Demo](https://siriuslala.github.io/g1-robot-burpee/) · [Source](https://github.com/Siriuslala/g1-robot-burpee) · [Original](https://github.com/Siriuslala/g1-robot-burpee) |
-| [Highway Car — A Browser 3D Scene Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/sgarlen-highway-car-comparison/) | sgarlen / @sgarlen01 | [Original](https://x.com/sgarlen01/status/2108981890493358527) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

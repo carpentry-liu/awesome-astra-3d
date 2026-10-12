@@ -1,5 +1,340 @@
 [
   {
+    "group": "astra",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-12",
+    "addedAt": "2026-10-12",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "promptExcerpt": null,
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "licenseNotes": "作品、图片和第三方素材保留各权利人的权利；仅链接原站媒体，不纳入本库 MIT 许可。",
+    "id": "onemorevision-dxf-3dsmax-interior",
+    "title": "DXF 到 1LDK：3ds Max 初模与后续分工",
+    "titleEn": "DXF to a 1LDK Interior — 3ds Max Modeling and Handoffs",
+    "category": "建筑与室内",
+    "platform": "note",
+    "platforms": [
+      "note"
+    ],
+    "author": "One More Vision / 入江達也（STUDIO55）",
+    "sourceUrl": "https://note.com/onemorevision/n/n3ce66cf6ae2f",
+    "sourceDate": "2026-10-12",
+    "modelLabel": "Astra 初模 + 3ds Max MCP；6.1 Sol 后续修正与镜头；imagegen 最终概念图",
+    "evidenceNote": "作者明确 Astra 从 DXF 创建墙、地板、门窗和家具。后续检查修改切换到 6.1 Sol（轻），相机阶段切换到 6.1 Sol（高）；不能把所有阶段都归给 Astra。",
+    "sourceAccess": "note 原文完整 GET 200 / 921,133 字节。JSON-LD 首发 2026-10-12T08:50:19+09:00，对应上海07:50:19。初始 Astra 轴测视口图 GET 200 / 76,690 字节，1186×893；3ds Max 操作图也完整获取，均核对 MIME、长度、SHA-256，Pillow 完整解码并实际查看。未取得或运行 .max 工程。",
+    "summary": "从整理过的 1LDK DXF 图生成室内几何，按建筑、家具等图层组织；之后由另一模型接手检查修改和构图。主预览保留 Astra 初始成果。",
+    "outputType": [
+      "3ds Max 室内建模",
+      "DXF 图纸重建",
+      "分阶段修正记录"
+    ],
+    "promptAvailability": "full-linked",
+    "promptSummary": "文章公开初模、检查修改与镜头请求；输入 DXF 和输出工程未公开。",
+    "promptUrl": "https://note.com/onemorevision/n/n3ce66cf6ae2f",
+    "imageUrl": "https://assets.st-note.com/img/1791187181-gkjB9w46H5RNzqCvsLEMKIaF.png?width=1200",
+    "imageKind": "author-screenshot",
+    "imageCaption": "Astra 初始 AGENT VIEWPORT：去顶轴测室内、厨房、四座餐桌、沙发、床与阳台。不是后续 Sol 修正图，也不是 imagegen 精装效果图。",
+    "evidenceUrls": [
+      "https://assets.st-note.com/img/1791187158-cZf0azDrNx4ypSHgo9LIbu1O.png?width=1200"
+    ],
+    "outcome": "作者自报初模约11分钟，未独立复现。原文明确 V-Ray 尚未渲染，最后精装图来自 imagegen；图纸尺寸、几何精度与后续交付能力未独立验证。"
+  },
+  {
+    "id": "vib3coded-plush-marlin",
+    "title": "Plush Marlin：毛绒旗鱼与夸张软体变形对照",
+    "titleEn": "Plush Marlin — A Soft Toy Shape and Motion Comparison",
+    "category": "产品与角色",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（独立对照）+ WebGPU",
+    "summary": "同一旗鱼任务产生两份独立毛绒玩具。上方 Astra 有大眼、长吻、蓝色背部和银白肚子，录像中会明显卷曲变形；下方 Opus 保留另一种细长鱼身与游动外形。",
+    "outputType": [
+      "WebGPU 三维毛绒玩具",
+      "独立双模型对照",
+      "作者交互录像",
+      "完整运行录像"
+    ],
+    "promptAvailability": "linked",
+    "promptExcerpt": null,
+    "promptSummary": "原作者在同线程公开完整旗鱼提示，包含程序几何、软体、壳层毛发、进食与游动行为等要求。链接原文；其中物理算法、功能目标与帧率不等于本库验证成果。",
+    "promptUrl": "https://x.com/vib3coded/status/2108852066655351202",
+    "imageCaption": "原作者完整录像封面：上半 GPT-6 Astra，大眼蓝色毛绒旗鱼；下半 Claude Opus 5.5，细长旗鱼外形。 附原帖完整录像与原版下载。",
+    "outcome": "可查看两种旗鱼外形、不同颜色与明显软体变形的完整录像。Astra 的夸张变形如实保留，不作为真实旗鱼解剖或稳定物理的验证；未取得源码，未独立确认 XPBD、SDF、梳毛及帧率。费用和作者偏好仅为作者报告。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Vib3Coded / @vib3coded",
+    "sourceUrl": "https://x.com/vib3coded/status/2108850731750940711",
+    "sourceDate": "2026-10-10",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-12",
+    "addedAt": "2026-10-12",
+    "evidenceLevel": "author",
+    "evidenceStatus": "原创 X 完整 GET 200；原作者模型声明与可见成果，精确 FxTwitter 辅助媒体元数据",
+    "evidenceNote": "直接读取原创 X 页面并比对同一原帖的作者和时间戳。模型归属依原作者声明及画面标注，不依据整理站分类；作者时间、费用、技术与偏好不是独立复现结论。作品首发日期与本库本轮补收日期分别记录。",
+    "sourceAccess": "原创 X 完整 GET 200 / text/html / 149,877 字节，作者、模型声明与 created_at_ms 已同精确 FxTwitter 主帖核对；上海帖文日期 2026-10-10。成果图完整 GET 200 / image/jpeg / 948×1200 / 72,639 字节，Content-Length 与实际一致，Pillow 完整解码并实际用 view_image 查看。已完整下载同主帖最高平台原版和较小平台播放版，核对媒体 ID、MIME、Content-Length、SHA-256、时长；严格全长 FFmpeg 解码通过，未裁剪或转码，中段画面实际查看。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2108850565274804225/img/hk-90kzXl0_VznJf.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/vib3coded/status/2108850731750940711",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/vib3coded/status/2108850731750940711",
+      "https://api.fxtwitter.com/vib3coded/status/2108852066655351202"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库 MIT。保留原创来源与移除入口，媒体归档不代表另行取得作者再发布许可。 原版和平台较小完整版本保存至公开 Release，未剪辑或转码；时长、字节与 SHA-256 见媒体清单。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-plush-marlin-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-12-afternoon/vib3coded-plush-marlin-1-original.mp4",
+        "durationSeconds": 18.05,
+        "bytes": 9608929,
+        "sha256": "66d434e6ef9ded2c7bbfcac8858779e112dbef45c14877f7bae150cc24b19e4b",
+        "sourceUrl": "https://x.com/vib3coded/status/2108850731750940711",
+        "label": "Plush Marlin — A Soft Toy Shape and Motion Comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2108850565274804225/img/hk-90kzXl0_VznJf.jpg"
+      }
+    ]
+  },
+  {
+    "id": "miguelsolorio-hallowmere",
+    "title": "Hallowmere：火炬村庄、角色战斗与多人暗黑 RPG",
+    "titleEn": "Hallowmere — Torchlit Villages, Combat and Cooperative RPG",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "Miguel Solorio / miguelsolorio",
+    "sourceUrl": "https://github.com/miguelsolorio/hallowmere",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-12",
+    "addedAt": "2026-10-12",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "已完整 GET 原作者说明与成果媒体，核对 Content-Length、SHA-256、Pillow 全帧解码，并通过 view_image 实际查看。未安装、执行或从源码独立重建第三方工程。",
+    "promptAvailability": "not-found",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "demoUrl": "https://miguelsolorio.github.io/hallowmere/",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/miguelsolorio/hallowmere",
+    "modelLabel": "Astra（作者仓库 About；具体模型标识与推理配置未公开）",
+    "evidenceNote": "原作者仓库 About 明确称该暗黑 RPG 使用 Astra 制作；同仓 README 将预览标为实际运行画面，公开 Three.js 程序场景、GLB 角色生成脚本与游戏规则。README 未列完整模型标识、制作分工或推理档位，不能把所有后续修订归因于同一配置。",
+    "summary": "俯视三维角色在火炬村庄、森林和地下通道探索、对话、拾取与战斗；公开程序角色、场景、合成效果音和单人 / 合作实现。",
+    "outputType": [
+      "Three.js / WebGL2",
+      "程序化 GLB 角色",
+      "暗黑动作 RPG",
+      "单人 / 合作游戏"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/miguelsolorio/hallowmere/main/screenshots/gameplay.jpg",
+    "imageKind": "screenshot",
+    "imageCaption": "作者 README 的实际游戏截图：Ashwick 火炬村庄、角色与 NPC、任务栏、小地图和战斗技能；未使用 ImageGen 应用图标作为成果。",
+    "evidenceUrls": [
+      "https://raw.githubusercontent.com/miguelsolorio/hallowmere/main/README.md",
+      "https://raw.githubusercontent.com/miguelsolorio/hallowmere/main/scripts/generate-assets.mjs",
+      "https://raw.githubusercontent.com/miguelsolorio/hallowmere/main/package.json"
+    ],
+    "licenseNotes": "未核实覆盖全部游戏代码与媒体的开放许可。作者另列 Three.js MIT、Scott Buckley 配乐 CC BY 4.0 与字体条款；ImageGen 仅用于应用图标与宣传卡，不替代实际游戏截图。本库 MIT 不覆盖这些素材。",
+    "outcome": "1280×720 实际成果图完整 GET / 解码 / 目视通过；作者 Pages HTML 返回 200 仅证明入口可达，未在本轮完整试玩、验收关卡或多人服务器。源码已有单人本地仿真；合作模式需要另行部署兼容 WebSocket 后端。作者功能与测试说明不等于本库独立验证，未知首次公开日期保留 null。"
+  },
+  {
+    "group": "astra",
+    "secondaryPublishedAt": "2026-10-02",
+    "observedAt": "2026-10-12",
+    "addedAt": "2026-10-12",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "promptExcerpt": null,
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "licenseNotes": "作品、图片和第三方素材保留各权利人的权利；仅链接原站媒体，不纳入本库 MIT 许可。",
+    "id": "hiroyasu-split-keyboard-blender",
+    "title": "分体键盘 v3.2：白模外观、内部结构与干涉检查",
+    "titleEn": "Split Keyboard v3.2 — Blender Mockup and Clearance Review",
+    "category": "产品与角色",
+    "platform": "note",
+    "platforms": [
+      "note"
+    ],
+    "author": "Hiroyasu / compoundworksjp",
+    "sourceUrl": "https://note.com/compoundworksjp/n/ndcba7effd5b7",
+    "sourceDate": null,
+    "modelLabel": "Astra + Blender；Claude Opus 5.5 规划与检查；人工 Figma 设计",
+    "evidenceNote": "作者将 Codex / GPT-6 Astra 与 Blender 明确分配给立体制作，Claude 负责尺寸、请求和检查；此前一轮尺寸白模由 Claude 制作。所选图来自后续 Astra 段落。",
+    "sourceAccess": "note 原文完整 GET 200 / 574,626 字节。文章 JSON-LD 首发 2026-10-02T14:16:34+09:00，上海13:16:34；正文提10月1日已发 X 作品，但无确切原帖，sourceDate 保留 null，文章日期另记。Astra 外观图 GET 200 / 37,401 字节，内部图 50,570 字节，均1200×720，MIME、长度、SHA-256 与 Pillow 全解码及实际查看通过。",
+    "summary": "将手绘和 Figma 设计做成左右分体键盘白模，展示键帽、轨迹球、外壳与开壳结构，并检查组件间隙。实体功能完成仍是后续计划。",
+    "outputType": [
+      "Blender 产品白模",
+      "分体键盘内部结构",
+      "尺寸与干涉检查"
+    ],
+    "promptAvailability": "author-description",
+    "promptSummary": "公开手绘到 Figma、尺寸与请求准备、建模及人工试配的过程；未公开完整请求或工程。",
+    "promptUrl": "https://note.com/compoundworksjp/n/ndcba7effd5b7",
+    "imageUrl": "https://assets.st-note.com/img/1790918189-gUCGt8HmsN.jpeg?width=1200",
+    "imageKind": "author-render",
+    "imageCaption": "作者标明 Astra / Blender 制作的左右分体键盘 v3.2 外观白模；不是先前 Claude 尺寸试作、Figma 平面图或实体成品。",
+    "evidenceUrls": [
+      "https://assets.st-note.com/img/1790918190-o3Sxt5WdOc.jpeg?width=1200"
+    ],
+    "outcome": "作者仍需处理邻键干涉等问题；Touch ID 移植、无线电路和最终日用键盘属于计划。未取得工程或独立验证尺寸、人体工学与电路功能。"
+  },
+  {
+    "id": "davis-three-worlds-copper",
+    "title": "One Equation, Three Worlds：同一洛伦兹轨迹的铜雕、水墨与光",
+    "titleEn": "One Equation, Three Worlds — A Lorenz Curve in Copper, Ink and Light",
+    "group": "astra",
+    "category": "科学与教育",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "Davis / davisbuilds",
+    "sourceUrl": "https://github.com/davisbuilds/oneshots/tree/main/runs/three-worlds-chatgpt",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-12",
+    "addedAt": "2026-10-12",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "已完整 GET 原作者说明与成果媒体，核对 Content-Length、SHA-256、Pillow 全帧解码，并通过 view_image 实际查看。未安装、执行或从源码独立重建第三方工程。",
+    "promptAvailability": "full-linked",
+    "promptExcerpt": null,
+    "promptSummary": "原始创作请求要求先数值积分洛伦兹系统，再把同一数据转成铜雕、水墨与移动光，保留几何与制作过程。",
+    "promptUrl": "https://github.com/davisbuilds/oneshots/blob/main/runs/three-worlds-chatgpt/brief.md",
+    "demoUrl": null,
+    "videoUrl": "https://github.com/davisbuilds/oneshots/releases/download/run-three-worlds-chatgpt/One-Equation-Three-Worlds.mp4",
+    "repositoryUrl": "https://github.com/davisbuilds/oneshots/tree/main/runs/three-worlds-chatgpt",
+    "modelLabel": "GPT-6 Astra Medium（作者确认，精确 API 标识未记录）",
+    "evidenceNote": "子工程 README 与 run.toml 将这份 ChatGPT Work 独立作品明确标为 GPT-6 Astra Medium；同一仓库另一份 three-worlds 是 Claude Opus 5.5，不混用其媒体。Astra 生成代码把一段数值洛伦兹轨迹做成 Blender 铜雕、Python 墨画与发光合成；后两项并非三维路径追踪。",
+    "summary": "同一条混沌轨迹在三个媒介中保持形状：可编辑铜丝雕塑、程序墨迹和移动光线，合成一幅三联画与 28 秒无声影片；公开原始数据、代码和 Blender 工程。",
+    "outputType": [
+      "Blender 4.0.2 / Cycles 铜雕",
+      "数值洛伦兹轨迹",
+      "Python 程序水墨 / 光效",
+      "28 秒无声艺术影片"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/davisbuilds/oneshots/main/runs/three-worlds-chatgpt/preview/matter.webp",
+    "imageKind": "render",
+    "imageCaption": "作者保留的原始铜雕渲染缩略图：悬挂铜丝、石质台座与实际 Blender 灯光；来自 Astra 子工程，不是 Claude 对照版本。",
+    "evidenceUrls": [
+      "https://raw.githubusercontent.com/davisbuilds/oneshots/main/runs/three-worlds-chatgpt/README.md",
+      "https://raw.githubusercontent.com/davisbuilds/oneshots/main/runs/three-worlds-chatgpt/run.toml",
+      "https://raw.githubusercontent.com/davisbuilds/oneshots/main/runs/three-worlds-chatgpt/process/PROGRESS.md",
+      "https://github.com/davisbuilds/oneshots/releases/tag/run-three-worlds-chatgpt"
+    ],
+    "licenseNotes": "仓库声明 MIT；字体保留各自权利与许可。本库署名并外链作者作品，不将第三方字体或媒体改授本库 MIT。",
+    "outcome": "原始铜雕与三联画预览均完整 GET、解码并实际查看。作者 Release 的重建影片完整取得 5,285,374 字节，SHA-256 匹配作者清单，严格 FFmpeg 全片解码无错误，实测 28.00 秒；已查看 2 / 8 / 16 / 25 秒实际画面，未纳入本库 Release 或站内录像数量。该 Release 提供可编辑 .blend，但本轮未下载打开或重建工程；重建版本不能声称与原始渲染全部逐字节相同。9 月 26 日是制作日，10 月 4 日是作者托管重建日，未知首次公开日期保留 null。轨迹开放而非闭环，墨画非流体仿真，光效非体积路径追踪。"
+  },
+  {
+    "id": "harry-honey-laptop",
+    "title": "Honey Laptop：蜂蜜果冻笔记本与部件切开对照",
+    "titleEn": "Honey Laptop — A Jelly Notebook Comparison",
+    "category": "产品与角色",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（独立对照）+ 浏览器三维玩具",
+    "summary": "同句蜂蜜果冻笔记本任务展示两份三维网页玩具。右侧 Astra 的深色 honeytype 界面中有琥珀色屏幕、键盘与触摸板；完整录像可见机身部件切开和位置变化，左侧是 Opus 的另一份成果。",
+    "outputType": [
+      "浏览器三维果冻笔记本",
+      "独立双模型对照",
+      "作者交互录像",
+      "完整运行录像"
+    ],
+    "promptAvailability": "excerpt",
+    "promptExcerpt": "Build an interactive laptop made entirely of honey jelly.",
+    "promptSummary": "原作者在主帖公开单句任务，并称两模型都从头制作且没有额外指令。这里记录作者报告与可见画面，未独立重建同提示。",
+    "promptUrl": "https://x.com/keydol123/status/2108822897561399764",
+    "imageCaption": "原作者完整录像封面：左侧 Opus，右侧 Astra；Astra 的琥珀色蜂蜜果冻笔记本位于深色界面。 附原帖完整录像与原版下载。",
+    "outcome": "可查看约31秒完整对照与笔记本部件分离变化；未取得源文件或作者演示入口，未逐项验证刀具、咬合、加热、结晶、输入与物理参数。页面读数和费用是画面及作者报告，不是统一性能测试。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Harry Jackson / @keydol123",
+    "sourceUrl": "https://x.com/keydol123/status/2108822897561399764",
+    "sourceDate": "2026-10-10",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-12",
+    "addedAt": "2026-10-12",
+    "evidenceLevel": "author",
+    "evidenceStatus": "原创 X 完整 GET 200；原作者模型声明与可见成果，精确 FxTwitter 辅助媒体元数据",
+    "evidenceNote": "直接读取原创 X 页面并比对同一原帖的作者和时间戳。模型归属依原作者声明及画面标注，不依据整理站分类；作者时间、费用、技术与偏好不是独立复现结论。作品首发日期与本库本轮补收日期分别记录。",
+    "sourceAccess": "原创 X 完整 GET 200 / text/html / 143,855 字节，作者、模型声明与 created_at_ms 已同精确 FxTwitter 主帖核对；上海帖文日期 2026-10-10。成果图完整 GET 200 / image/jpeg / 1200×790 / 76,693 字节，Content-Length 与实际一致，Pillow 完整解码并实际用 view_image 查看。已完整下载同主帖最高平台原版和较小平台播放版，核对媒体 ID、MIME、Content-Length、SHA-256、时长；严格全长 FFmpeg 解码通过，未裁剪或转码，中段画面实际查看。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2108822585249280000/img/2iOKyRgjMmknarjV.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/keydol123/status/2108822897561399764",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/keydol123/status/2108822897561399764"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库 MIT。保留原创来源与移除入口，媒体归档不代表另行取得作者再发布许可。 原版和平台较小完整版本保存至公开 Release，未剪辑或转码；时长、字节与 SHA-256 见媒体清单。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/harry-honey-laptop-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-12-afternoon/harry-honey-laptop-1-original.mp4",
+        "durationSeconds": 30.8,
+        "bytes": 5119183,
+        "sha256": "9ede2c6e8ef8a8e68a62f7acc62831388eaccb388d30b1d1b16225b7ce713bd0",
+        "sourceUrl": "https://x.com/keydol123/status/2108822897561399764",
+        "label": "Honey Laptop — A Jelly Notebook Comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2108822585249280000/img/2iOKyRgjMmknarjV.jpg"
+      }
+    ]
+  },
+  {
+    "group": "astra",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-12",
+    "addedAt": "2026-10-12",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "promptExcerpt": null,
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "licenseNotes": "作品、图片和第三方素材保留各权利人的权利；仅链接原站媒体，不纳入本库 MIT 许可。",
+    "id": "mori-motorcycle-print-kit",
+    "title": "照片到拼装摩托：部件修正、装配指引与实物打印",
+    "titleEn": "Photo to a Motorcycle Kit — Fit Revisions and a Physical Print",
+    "category": "拆解与剖面",
+    "platform": "note",
+    "platforms": [
+      "note"
+    ],
+    "author": "もりの工作室 / Mori Kousaku",
+    "sourceUrl": "https://note.com/mori_kousaku/n/n3b6c5cf4bb95",
+    "sourceDate": "2026-09-28",
+    "modelLabel": "Astra 初模 + Claude / Astra 交替修改；Bambu Lab A1 打印与人工装配",
+    "evidenceNote": "作者明确八张照片交给 Astra 得到初模；支撑尝试及后续修正与 Claude 分工。Tripo 是先前流程和原计划，不能记为这台摩托的已用网格生成器。人工试印、试配和胶粘保留独立职责。",
+    "sourceAccess": "note 公开原文完整 GET 200 / 502,099 字节。JSON-LD 首发 2026-09-28T20:59:14+09:00，上海同日19:59:14；9月30日更新和介绍页10月12日预告不是首发。实际成品照片 GET 200 / 123,348 字节，1200×675；初期装配 CG 帧也完整获取，MIME、长度、SHA-256、Pillow 完整解码及实际查看通过。未取得私有仓库或工程。",
+    "summary": "从照片制作摩托模型，反复处理细件折断、过紧配合与部件分拆，最后打印并手工组装为礼物。展示真实成品和初期装配 CG 帧。",
+    "outputType": [
+      "照片到三维模型",
+      "拼装部件与指引",
+      "实体3D打印"
+    ],
+    "promptAvailability": "author-description",
+    "promptSummary": "文章公开分件和局部修正的思路；代码与记录在作者私有仓库，完整工程和装配视频未公开。",
+    "promptUrl": "https://note.com/mori_kousaku/n/n3b6c5cf4bb95",
+    "imageUrl": "https://assets.st-note.com/img/1790595529-4u1fAqb0NlxaYeRImOzZd53g.jpg?width=1200",
+    "imageKind": "author-photo",
+    "imageCaption": "作者父亲拍摄的已打印、组装摩托模型：白色车身、灰色轮胎与箱体，置于展示支架。不是输入摩托照片或标题插画。",
+    "evidenceUrls": [
+      "https://assets.st-note.com/img/1790592490-NEsygGvW3kVZnpt2aFUmTlfK.png?width=1200"
+    ],
+    "outcome": "作者记录多轮试印后完成，部分零件仍靠胶粘，带回后镜子又折断。照片可见成品，未独立打印或检验配合、强度；不将初期装配单帧记为完整录像。"
+  },
+  {
     "id": "vib3coded-plush-penguin",
     "title": "Plush Penguin：毛绒企鹅、翻倒与双模型材质对照",
     "titleEn": "Plush Penguin — A WebGPU Soft Toy Comparison",
@@ -7443,25 +7778,25 @@
     ],
     "author": "Vib3Coded / @vib3coded",
     "sourceUrl": "https://x.com/vib3coded/status/2098492771170722032",
-    "sourceDate": "2026-09-11",
-    "secondaryPublishedAt": null,
-    "observedAt": "2026-09-25",
+    "sourceDate": "2026-09-12",
+    "secondaryPublishedAt": "2026-10-10",
+    "observedAt": "2026-10-12",
     "addedAt": "2026-09-14",
-    "modelLabel": "GPT-6 Astra + Three.js / WebGL",
-    "evidenceLevel": "secondary",
-    "evidenceStatus": "原帖镜像已核对，原站待复核",
-    "evidenceNote": "按精确原帖 ID 读取 FxTwitter 镜像，核对作者、正文、时间与媒体；仍保留转引级别，不冒充已直接读取 X 页面。",
-    "sourceAccess": "FxTwitter 原帖镜像；未通过登录读取 X 原站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
-    "summary": "Vib3Coded 展示 Astra 制作的 Three.js / WebGL 锦鲤池：四种鱼、水面涟漪、降雨与漩涡，并可切换水声。原帖提供交互录像，没有公开可直接试玩的网址或完整工程；本条保存完整演示，不把录像当作已经开放的在线应用。",
+    "modelLabel": "GPT-6 Astra + Three.js / WebGL；后续 Claude Opus 5.5 独立对照",
+    "evidenceLevel": "author",
+    "evidenceStatus": "原始作品及后续双模型对照的原创 X 完整 GET 200；作者和时间戳核对",
+    "evidenceNote": "原始作品与10月10日后续对照都直接完整读取原始 X，作者、模型声明与精确镜像时间戳匹配。原主帖 UTC 9月11日19:23:59，上海日期为9月12日，按统一日期口径更正；保留9月14日收录日。后续画面名称变化不构成新作品证据，作为同作材料补充，不重复计数。",
+    "sourceAccess": "原始 X 完整 GET 200 / text/html / 136,497 字节，作者、Astra声明、created_at_ms 已同精确镜像核对。原始成果封面完整 GET 200 / image/jpeg / 1200×675 / 137,702 字节，Content-Length 与实际一致，Pillow 完整解码并用 view_image 实际查看。后续10月10日对照原 X 完整 GET 200 / 155,705 字节；新增原平台最高原版与较小完整播放版完整下载，长度、SHA-256与全时长严格FFmpeg通过，未剪辑转码，中帧实际查看。既有9月原版录像保留历史核查日期；本轮为本地浏览器完整获取并核对了播放版 hash，未重新下载或全片解码原版。",
+    "summary": "Vib3Coded 展示 Astra 的 Three.js / WebGL 锦鲤池，可投放鱼群、产生涟漪、降雨与漩涡；未公开可独立运行的工程。另附作者10月10日完整双模型对照：上方 Opus，下方 Astra 的青绿水池标为 Stillwater。与9月原作是否重新生成未核实，保留在同一档案。",
     "outputType": [
       "Three.js 水面",
       "程序化鱼群",
       "交互演示"
     ],
-    "promptAvailability": "未公开完整提示词",
+    "promptAvailability": "linked",
     "promptExcerpt": null,
-    "promptSummary": null,
-    "promptUrl": null,
+    "promptSummary": "原始作品主帖称提示在回复；另附同作者10月10日同类锦鲤池对照线程的完整任务。该后续提示描述鱼投放、水面波纹、雨、漩涡与声音；未取得工程确认前后两次是否独立重新生成。",
+    "promptUrl": "https://x.com/vib3coded/status/2108927154650038409",
     "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2098492548230819840/img/Ef2C6HYFlzwwlNre.jpg",
     "imageKind": "video-poster",
     "imageCaption": "作者锦鲤池交互录像的实际封面。 附完整视频及最高码率下载。",
@@ -7470,10 +7805,15 @@
     "repositoryUrl": null,
     "evidenceUrls": [
       "https://x.com/vib3coded/status/2098492771170722032",
-      "https://api.fxtwitter.com/status/2098492771170722032"
+      "https://api.fxtwitter.com/status/2098492771170722032",
+      "https://api.fxtwitter.com/vib3coded/status/2098492771170722032",
+      "https://x.com/vib3coded/status/2108926847442378848",
+      "https://x.com/vib3coded/status/2108927154650038409",
+      "https://api.fxtwitter.com/vib3coded/status/2108926847442378848",
+      "https://api.fxtwitter.com/vib3coded/status/2108927154650038409"
     ],
     "licenseNotes": "作品与媒体归原作者；公开可见不等于自由再分发，具体复用按来源许可。 视频版权归原作者，不适用本库 MIT 许可。保存原平台公开的完整 MP4，未裁剪、未转码；不代表作者另行授权重新分发。来源、时长与校验值见媒体清单。",
-    "outcome": "作者展示；未独立复现。",
+    "outcome": "可查看原始完整演示及后续完整双模型对照；未取得源文件或独立复现。后续鱼群和水面变化是可见成果，作者偏好与费用不是统一性能结论。",
     "archivedVideos": [
       {
         "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3-koi-pond-1-web.mp4",
@@ -7484,6 +7824,16 @@
         "sourceUrl": "https://x.com/vib3coded/status/2098492771170722032",
         "label": "锦鲤池完整交互演示",
         "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2098492548230819840/img/Ef2C6HYFlzwwlNre.jpg"
+      },
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3-koi-pond-2-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-12-afternoon/vib3-koi-pond-2-original.mp4",
+        "durationSeconds": 15.06,
+        "bytes": 20245505,
+        "sha256": "eb41ba6f33da8b59eb036460d70440a8b8030430e8c3323c892056b3b5ed6f01",
+        "sourceUrl": "https://x.com/vib3coded/status/2108926847442378848",
+        "label": "Stillwater / Koi Pond — A Fish and Water Comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2108926603006722049/img/4Yh8ay7U9JvPZGd5.jpg"
       }
     ]
   },

@@ -1,6 +1,6 @@
 {
   "observedAt": "2026-10-12",
-  "method": "Incremental full GET of two new author demo entry pages; not complete playthrough or independent simulation validation. Historical observations keep their dates.",
+  "method": "Afternoon incremental full GET of 1 new author demo entries; availability observations only, not complete playthrough or independent reproduction. Historical dates retained.",
   "results": [
     {
       "id": "openai-sunwake",
@@ -768,6 +768,17 @@
       "observedAt": "2026-10-12",
       "result": "reachable",
       "method": "Full HTTP GET; no gameplay or independent simulation verification"
+    },
+    {
+      "id": "miguelsolorio-hallowmere",
+      "url": "https://miguelsolorio.github.io/hallowmere/",
+      "status": 200,
+      "title": "Hallowmere — The Ashen Vigil",
+      "finalUrl": "https://miguelsolorio.github.io/hallowmere/",
+      "observedAt": "2026-10-12",
+      "checkedAtUtc": "2026-10-12T07:37:21.191766+00:00",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not independently rebuilt or fully played"
     }
   ]
 }
