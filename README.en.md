@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-11 (Asia/Shanghai)** · **301 Astra examples** · **89 source / project links** · **107 demo links** · **130 complete videos** · **12 separate references**.
+Updated **2026-10-12 (Asia/Shanghai)** · **313 Astra examples** · **92 source / project links** · **109 demo links** · **135 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -44,18 +44,18 @@ Open an image for the case, materials and known limitations. This selection stay
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Production build screenshots from this October 11, 2026 iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Production build screenshots from this October 12, 2026 iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
-<summary>Gallery, mobile and case screenshots · October 11, 2026</summary>
+<summary>Gallery, mobile and case screenshots · October 12, 2026</summary>
 
-[![Gallery filters and more works](docs/media/collection-2026-10-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Gallery filters and more works](docs/media/collection-2026-10-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-10-11.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-10-12.jpg)
 
-[![Castle Jelly case page with complete footage and attribution](docs/media/case-2026-10-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-castle-jelly/)
+[![Plush Penguin case page with complete footage and attribution](docs/media/case-2026-10-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-plush-penguin/)
 
 </details>
 
@@ -63,19 +63,19 @@ Production build screenshots from this October 11, 2026 iteration. Browse in Chi
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The October 11 update adds **16 works**: a candy castle and product-reveal comparisons, NVIDIA simulations, an NJU campus walkthrough, editable Stanford scenes and a Blender music video. It also archives **6 complete X clips**. Previews for all **297 existing records** were fetched and decoded again; none required removal. These are new additions to the collection, with original publication dates recorded separately.
+The October 12 update adds **11 works**: a plush penguin, a goblin walking comparison, a black-hole shader, the Palm Bay driving sandbox and robot motion, with **5 complete X clips**. It also restores [**one tractor case**](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/yo-tractor-animation/) and repairs **two historical previews**. New additions use collection dates; original publication dates remain separate, and the restored case keeps its original collection date.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [Castle Jelly — A Layered Castle and Waterfall Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-castle-jelly/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2108649845405929924) |
-| [ORBIT — A Four-model 3D Smartwatch Product Reveal](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/maker-evan-orbit-watch/) | chacha / @maker_evan | [Original](https://x.com/maker_evan/status/2108438685184401904) |
-| [NVIDIA Omniverse — Frontier Agent Simulation Collection](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/nvidia-frontier-simulation-collection/) | NVIDIA Writers / Frank DeLise、Doyub Kim、Ashley Reid 等 | [Original](https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/) |
-| [Gulou — Walk, Cycle and Glide Through NJU](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/wangjiahao-gulou-campus/) | Zackaria / wang-jiahao | [Demo](https://wang-jiahao.github.io/gulou/) · [Source](https://github.com/wang-jiahao/gulou) · [Original](https://github.com/wang-jiahao/gulou) |
-| [Stanford in Blender — Five Editable Campus Scenes](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/minsik-stanford-blender/) | Minsik / minsik-ai | [Source](https://github.com/minsik-ai/stanford-in-blender) · [Original](https://github.com/minsik-ai/stanford-in-blender) |
-| [AH-64E Apache — A Rotorcraft 3D Presentation Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/maker-evan-apache/) | chacha / @maker_evan | [Original](https://x.com/maker_evan/status/2108475056082850278) |
-| [Inside a Turbofan — A 3D Cutaway and Airflow Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/maker-evan-jet-engine/) | chacha / @maker_evan | [Original](https://x.com/maker_evan/status/2108459952683811167) |
-| [Leave a Way — A Folding Ruler Becomes a Bridge](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/mika-leave-a-way/) | Mika / u/mika314 / @mika314 | [Original](https://www.reddit.com/r/AgentsOfAI/comments/1x19gzq/one_3kword_prompt_no_steering_gpt6_astra_ultra/) |
+| [Plush Penguin — A WebGPU Soft Toy Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-plush-penguin/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2109288662319919127) |
+| [Gargantua — An Orbitable Accretion Disk and Curved Light](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/pedro-gargantua-black-hole/) | Pedro Augusto / pedroaugustonyo | [Source](https://github.com/pedroaugustonyo/gargantua) · [Original](https://github.com/pedroaugustonyo/gargantua) |
+| [Same Goblin Brief — A Six-model Blender Walking Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/congle-goblin-walk-comparison/) | Cong Le / @CongLe | [Original](https://x.com/CongLe/status/2109268147068862675) |
+| [Tidepool Jelly — A Miniature Coastal Ecosystem Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-tidepool-jelly/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2109015574177075610) |
+| [Palm Bay — The Preserved One-Shot Driving Sandbox](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/nitzan-palm-bay-one-shot/) | Nitzan / nitzangames | [Demo](https://nitzan.games/experiments/one-shot-gta/astra/index.html) · [Source](https://github.com/nitzangames/PalmBayOneShot) · [Original](https://github.com/nitzangames/PalmBayOneShot) |
+| [Cozy Creek / Hiroshi’s Island — A Woodland Browser Scene](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/chetan-cozy-creek/) | Chetan Ankola / @chetanankola | [Original](https://x.com/chetanankola/status/2107996576228753545) |
+| [G1 Stage Burpee — Carrying, Push-Ups and Jumping in MuJoCo](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/siriuslala-g1-burpee/) | Siriuslala | [Demo](https://siriuslala.github.io/g1-robot-burpee/) · [Source](https://github.com/Siriuslala/g1-robot-burpee) · [Original](https://github.com/Siriuslala/g1-robot-burpee) |
+| [Highway Car — A Browser 3D Scene Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/sgarlen-highway-car-comparison/) | sgarlen / @sgarlen01 | [Original](https://x.com/sgarlen01/status/2108981890493358527) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

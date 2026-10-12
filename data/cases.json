@@ -1,5 +1,557 @@
 [
   {
+    "id": "vib3coded-plush-penguin",
+    "title": "Plush Penguin：毛绒企鹅、翻倒与双模型材质对照",
+    "titleEn": "Plush Penguin — A WebGPU Soft Toy Comparison",
+    "category": "产品与角色",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（独立对照）+ WebGPU",
+    "summary": "同一毛绒企鹅任务生成两份独立网页玩具。上方 Astra 是蓝背、奶油色肚子与圆眼企鹅；录像展示它翻倒在桌面的姿态，下方保留 Opus 的另一份材质与动作成果。",
+    "outputType": [
+      "WebGPU 三维毛绒玩具",
+      "独立双模型对照",
+      "作者交互录像",
+      "完整运行录像"
+    ],
+    "promptAvailability": "linked",
+    "promptExcerpt": null,
+    "promptSummary": "原作者同线程公开完整提示，包含毛绒体、软体与布料、梳毛、走路、滑行及翻倒等要求。链接原文；提示中的技术和性能目标不能视为本库验证结论。",
+    "promptUrl": "https://x.com/vib3coded/status/2109288858701455535",
+    "imageCaption": "原作者完整录像封面：GPT-6 Astra 在上半，Claude Opus 5.5 在下半；大眼、奶油色肚子的 Astra 毛绒企鹅。 附原帖完整录像与原版下载。",
+    "outcome": "可查看不同材质和动作的完整对照录像；未取得单文件源码，未独立验证 XPBD、shell fur、梳毛功能或帧率。图中费用及作者偏好属于作者报告。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Vib3Coded / @vib3coded",
+    "sourceUrl": "https://x.com/vib3coded/status/2109288662319919127",
+    "sourceDate": "2026-10-11",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-12",
+    "addedAt": "2026-10-12",
+    "evidenceLevel": "author",
+    "evidenceStatus": "原创 X 完整 GET 200；原作者模型声明与可见成果，精确 FxTwitter 辅助媒体元数据",
+    "evidenceNote": "直接读取原创 X 页面并比对同一原帖的作者和时间戳。模型归属依原作者声明及画面标注，未将第三方汇编分类当作证据；作者的时间、费用、技术或导出检查属于作者报告。",
+    "sourceAccess": "原创 X 完整 GET 200 / text/html / 154,514 字节，作者、模型声明与 created_at_ms 已同精确 FxTwitter 主帖核对；上海帖文日期 2026-10-11。成果图完整 GET 200 / image/jpeg / 948×1200 / 73,047 字节，Content-Length 与实际一致，Pillow 完整解码并实际用 view_image 查看。 已完整下载同主帖最高平台原版和较小平台播放版，核对媒体 ID、MIME、Content-Length、SHA-256、时长；严格全长 FFmpeg 解码通过，未裁剪或转码，中段画面实际查看。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2109288603134095361/img/qa9H95s_BaCqmnYg.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/vib3coded/status/2109288662319919127",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/vib3coded/status/2109288662319919127",
+      "https://api.fxtwitter.com/vib3coded/status/2109288858701455535"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库 MIT。保留原创来源与移除入口，媒体归档不代表另行取得作者再发布许可。 原版和平台较小完整版本保存至公开 Release，未剪辑或转码；时长、字节与 SHA-256 见媒体清单。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-plush-penguin-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-12/vib3coded-plush-penguin-1-original.mp4",
+        "durationSeconds": 18.05,
+        "bytes": 12434986,
+        "sha256": "8c81321df4788113968bec5d344b49164382e027c3f83aab13f0a914d32422d6",
+        "sourceUrl": "https://x.com/vib3coded/status/2109288662319919127",
+        "label": "Plush Penguin — A WebGPU Soft Toy Comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2109288603134095361/img/qa9H95s_BaCqmnYg.jpg"
+      }
+    ]
+  },
+  {
+    "id": "pedro-gargantua-black-hole",
+    "title": "Gargantua：可环绕观察的吸积盘与弯曲光线",
+    "titleEn": "Gargantua — An Orbitable Accretion Disk and Curved Light",
+    "group": "astra",
+    "category": "科学与教育",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "Pedro Augusto / pedroaugustonyo",
+    "sourceUrl": "https://github.com/pedroaugustonyo/gargantua",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-12",
+    "addedAt": "2026-10-12",
+    "modelLabel": "GPT-6 Astra（作者明确声明）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "已完整读取原作者 README 与制作说明；成果媒体完整 GET、核对字节数与 SHA-256、Pillow 全帧解码并通过 view_image 实际查看。未安装、运行或独立重建第三方工程。",
+    "promptAvailability": "not-found",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/pedroaugustonyo/gargantua",
+    "evidenceNote": "原作者 README 明确通过 Codex 的 gpt-6-astra 制作 Three.js 与 shader 实验。项目说明将相机变换传给全屏 GLSL，用近似弯曲射线、吸积盘和程序星空生成画面；不是黑洞三角网格或数值 Kerr 时空求解。作者称约 20 分钟，未独立复核。",
+    "summary": "以电影 Gargantua 为视觉参考，用程序着色器绘制吸积盘、光线弯曲与星空，提供环绕相机、顶视/侧视预设和亮度控制。",
+    "outputType": [
+      "Three.js / WebGL2",
+      "GLSL 程序场景",
+      "近似弯曲射线",
+      "交互相机"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/pedroaugustonyo/gargantua/main/docs/images/gargantua-demo.gif",
+    "imageKind": "screenshot",
+    "imageCaption": "作者 README 的实际浏览器动态截图；发光吸积盘、暗中心与星空，GIF 共 90 帧已完整解码。",
+    "evidenceUrls": [
+      "https://raw.githubusercontent.com/pedroaugustonyo/gargantua/main/README.md",
+      "https://raw.githubusercontent.com/pedroaugustonyo/gargantua/main/docs/index.md",
+      "https://raw.githubusercontent.com/pedroaugustonyo/gargantua/main/src/scene.js"
+    ],
+    "licenseNotes": "当前 README 与根文件未核实覆盖整个作品的开放许可；Three.js 与字体依赖各保留原条款。电影设计与作者 GIF 不受本库 MIT 授权。",
+    "outcome": "已查看作者实际 90 帧 GIF；未执行 WebGL 工程或测量交互与持续性能。画面为艺术近似，吸积盘尺度、光子环与等离子运动非经验证的物理结果；未知首次发布日保持 null。"
+  },
+  {
+    "id": "congle-goblin-walk-comparison",
+    "title": "同一哥布林任务：Blender 六模型外形与走路对照",
+    "titleEn": "Same Goblin Brief — A Six-model Blender Walking Comparison",
+    "category": "角色与动画",
+    "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / Claude Opus 5.5 / Gemini / Muse（独立对照）+ Blender",
+    "summary": "原作者用新会话比较同一持杖哥布林建模和走路任务，合并为一件对照作品。Astra 位于左下，紫帽绿脸角色在录像中有不同姿态；其他五格的完成情况分别标注。",
+    "outputType": [
+      "Blender 三维角色",
+      "独立六模型对照",
+      "作者走路动画录像",
+      "完整运行录像"
+    ],
+    "promptAvailability": "excerpt",
+    "promptExcerpt": "Build a goblin in Blender (with walking animation).",
+    "promptSummary": "原帖直接公开同句任务，并说明每个模型在新会话中使用十五分钟窗口。该窗口和输出检查由作者报告，不代表本库独立重建或统一跑分。",
+    "promptUrl": "https://x.com/CongLe/status/2109268147068862675",
+    "imageCaption": "原作者六格哥布林录像封面：左下 GPT-6 Astra，右侧及上排保留其他模型；费用标为适配阶段估算，未含建模成本。 附原帖完整录像与原版下载。",
+    "outcome": "录像可见 Astra 角色与走路姿态变化；导出检查通过是作者标注，未提供并复核原始 .blend 或动画工程。不同格仍有超时、导出失败、动作名或仅身体摆动等限制，不能统一当作完成成果。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Cong Le / @CongLe",
+    "sourceUrl": "https://x.com/CongLe/status/2109268147068862675",
+    "sourceDate": "2026-10-11",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-12",
+    "addedAt": "2026-10-12",
+    "evidenceLevel": "author",
+    "evidenceStatus": "原创 X 完整 GET 200；原作者模型声明与可见成果，精确 FxTwitter 辅助媒体元数据",
+    "evidenceNote": "直接读取原创 X 页面并比对同一原帖的作者和时间戳。模型归属依原作者声明及画面标注，未将第三方汇编分类当作证据；作者的时间、费用、技术或导出检查属于作者报告。",
+    "sourceAccess": "原创 X 完整 GET 200 / text/html / 139,311 字节，作者、模型声明与 created_at_ms 已同精确 FxTwitter 主帖核对；上海帖文日期 2026-10-11。成果图完整 GET 200 / image/jpeg / 720×720 / 70,702 字节，Content-Length 与实际一致，Pillow 完整解码并实际用 view_image 查看。 已完整下载同主帖最高平台原版和较小平台播放版，核对媒体 ID、MIME、Content-Length、SHA-256、时长；严格全长 FFmpeg 解码通过，未裁剪或转码，中段画面实际查看。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2109267581756456960/img/ZPs-UcuA3Sgqh8RD.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/CongLe/status/2109268147068862675",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/CongLe/status/2109268147068862675"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库 MIT。保留原创来源与移除入口，媒体归档不代表另行取得作者再发布许可。 原版和平台较小完整版本保存至公开 Release，未剪辑或转码；时长、字节与 SHA-256 见媒体清单。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/congle-goblin-walk-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-12/congle-goblin-walk-comparison-1-original.mp4",
+        "durationSeconds": 12.0,
+        "bytes": 298804,
+        "sha256": "a9c1ee567a2b46696331a06787e71997886c771f6ccf1358475448644bf55107",
+        "sourceUrl": "https://x.com/CongLe/status/2109268147068862675",
+        "label": "Same Goblin Brief — A Six-model Blender Walking Comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2109267581756456960/img/ZPs-UcuA3Sgqh8RD.jpg"
+      }
+    ]
+  },
+  {
+    "id": "vib3coded-tidepool-jelly",
+    "title": "Tidepool Jelly：潮池海岸切片与三维生态对照",
+    "titleEn": "Tidepool Jelly — A Miniature Coastal Ecosystem Comparison",
+    "category": "等距与微缩",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（独立对照）+ Three.js / WebGPU",
+    "summary": "海岸剖面包含浅水、岩台、岸边植被和小型海洋生物。下方 Astra 使用彩色地层与集中潮池组织场景，上方 Opus 展示另一种水面与岸线；只描述各自可见区域。",
+    "outputType": [
+      "三维微缩海岸切片",
+      "独立双模型对照",
+      "作者交互录像",
+      "完整运行录像"
+    ],
+    "promptAvailability": "linked",
+    "promptExcerpt": null,
+    "promptSummary": "原作者在同线程公开完整潮池任务，描述潮汐、波纹、物种、镜头和环境控件。回链原始提示，不用第三方整理站分类替代模型归属证据。",
+    "promptUrl": "https://x.com/vib3coded/status/2109016138030141473",
+    "imageCaption": "原作者潮池录像封面：上半 Claude Opus 5.5；下半 GPT-6 Astra，浅水、彩色岩层和岸边小生物。 附原帖完整录像与原版下载。",
+    "outcome": "可查看两份独立成果和作者完整交互录像；未取得源码或独立运行全部物种、潮汐、日夜控件。作者对水面品质的评价和成本属于个例报告。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Vib3Coded / @vib3coded",
+    "sourceUrl": "https://x.com/vib3coded/status/2109015574177075610",
+    "sourceDate": "2026-10-11",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-12",
+    "addedAt": "2026-10-12",
+    "evidenceLevel": "author",
+    "evidenceStatus": "原创 X 完整 GET 200；原作者模型声明与可见成果，精确 FxTwitter 辅助媒体元数据",
+    "evidenceNote": "直接读取原创 X 页面并比对同一原帖的作者和时间戳。模型归属依原作者声明及画面标注，未将第三方汇编分类当作证据；作者的时间、费用、技术或导出检查属于作者报告。",
+    "sourceAccess": "原创 X 完整 GET 200 / text/html / 152,779 字节，作者、模型声明与 created_at_ms 已同精确 FxTwitter 主帖核对；上海帖文日期 2026-10-11。成果图完整 GET 200 / image/jpeg / 948×1200 / 93,202 字节，Content-Length 与实际一致，Pillow 完整解码并实际用 view_image 查看。 已完整下载同主帖最高平台原版和较小平台播放版，核对媒体 ID、MIME、Content-Length、SHA-256、时长；严格全长 FFmpeg 解码通过，未裁剪或转码，中段画面实际查看。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2109015456447180800/img/YP5NEgWDtz4eyy9C.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/vib3coded/status/2109015574177075610",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/vib3coded/status/2109015574177075610",
+      "https://api.fxtwitter.com/vib3coded/status/2109016138030141473"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库 MIT。保留原创来源与移除入口，媒体归档不代表另行取得作者再发布许可。 原版和平台较小完整版本保存至公开 Release，未剪辑或转码；时长、字节与 SHA-256 见媒体清单。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-tidepool-jelly-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-12/vib3coded-tidepool-jelly-1-original.mp4",
+        "durationSeconds": 18.05,
+        "bytes": 16420138,
+        "sha256": "4c5369a0a8c98d9c4c47b8c0708577fcf610e4bea66ddb8d32b91e4e5d7b137c",
+        "sourceUrl": "https://x.com/vib3coded/status/2109015574177075610",
+        "label": "Tidepool Jelly — A Miniature Coastal Ecosystem Comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2109015456447180800/img/YP5NEgWDtz4eyy9C.jpg"
+      }
+    ]
+  },
+  {
+    "id": "nitzan-palm-bay-one-shot",
+    "title": "Palm Bay：驾驶、撞毁与换车的原始开放城市沙盒",
+    "titleEn": "Palm Bay — The Preserved One-Shot Driving Sandbox",
+    "group": "astra",
+    "category": "3D 游戏",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub",
+      "作者网站"
+    ],
+    "author": "Nitzan / nitzangames",
+    "sourceUrl": "https://github.com/nitzangames/PalmBayOneShot",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-12",
+    "addedAt": "2026-10-12",
+    "modelLabel": "GPT-6 Astra xhigh（作者明确声明；其他模型为独立对照）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "已完整读取原作者 README 与制作说明；成果媒体完整 GET、核对字节数与 SHA-256、Pillow 全帧解码并通过 view_image 实际查看。未安装、运行或独立重建第三方工程。",
+    "promptAvailability": "linked",
+    "promptExcerpt": null,
+    "promptSummary": "原始任务要求可在浏览器完整运行的开放城市驾驶沙盒，自行构建、测试并查看截图；保留完整短任务文件，不摘录长篇英文。",
+    "promptUrl": "https://github.com/nitzangames/PalmBayOneShot/blob/main/prompt.txt",
+    "demoUrl": "https://nitzan.games/experiments/one-shot-gta/astra/index.html",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/nitzangames/PalmBayOneShot",
+    "evidenceNote": "原作者比较页将 Palm Bay 明确标为 Codex Astra 6、xhigh，其他三份为 Fable / Opus 的独立实现。作者区分 55 分 28 秒活跃制作和 4 小时 20 分钟配额暂停；token 含大量缓存输入，各模型计量方法不同，不能当成本或效率公平对照。",
+    "summary": "在粉彩海滨低多边形城市中步行、驾驶、撞毁后换车；公开原始提示、恢复的 JavaScript 工程、保留构建、校验清单与制作记录。",
+    "outputType": [
+      "Three.js / WebGL2",
+      "JavaScript",
+      "程序化低多边形城市",
+      "浏览器驾驶沙盒",
+      "原始工程与保留构建"
+    ],
+    "imageUrl": "https://nitzan.games/experiments/one-shot-gta/astra-preview.png",
+    "imageKind": "scene-screenshot",
+    "imageCaption": "作者比较页明确标为 Astra 6 的 Palm Bay 实际游戏截图：珊瑚色汽车、海滨旅馆与棕榈街道；不是 Fable 或 Opus 的成果。",
+    "evidenceUrls": [
+      "https://nitzan.games/OneShotGTA.html",
+      "https://raw.githubusercontent.com/nitzangames/PalmBayOneShot/main/README.md",
+      "https://raw.githubusercontent.com/nitzangames/PalmBayOneShot/main/source/README.md",
+      "https://github.com/nitzangames/PalmBayOneShot/blob/main/SOURCE_RECOVERY.md",
+      "https://github.com/nitzangames/PalmBayOneShot/blob/main/THIRD_PARTY.md"
+    ],
+    "licenseNotes": "作者公开原始可编辑工程和校验文件，未提供覆盖全部游戏的统一开放许可。Three.js 使用 MIT，DM Sans 与 Barlow Condensed 使用 OFL；这些条款不自动授权整个游戏或媒体。",
+    "outcome": "实际游戏截图完整 GET 并解码查看，演示 HTML 200；未执行源码、独立重建十八项输出或完整试玩。作者称源码由历史工具文件补丁恢复、原始构建按字节保存；此为作者复原证据，不能当本库独立复现。原始版本不含后续多人、行人或武器修改。作者制作时间在 9 月 4 日 PDT、上海 9 月 5 日，但制作完成并非公开首发，sourceDate 留空。"
+  },
+  {
+    "id": "chetan-cozy-creek",
+    "title": "Cozy Creek / Hiroshi’s Island：林间溪流与网页漫游",
+    "titleEn": "Cozy Creek / Hiroshi’s Island — A Woodland Browser Scene",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra（原帖声明）+ Blender + Three.js",
+    "summary": "原作者将这段网页三维场景称作 Cozy Creek，画面左上标为 Hiroshi’s Island。青瓦屋、石桥、树木与溪流构成林间环境，完整录像展示光照和观察位置变化。",
+    "outputType": [
+      "Three.js 三维林间环境",
+      "Blender 资产作者声明",
+      "作者网页漫游录像",
+      "完整运行录像"
+    ],
+    "promptAvailability": "not-found",
+    "promptExcerpt": null,
+    "promptSummary": "原帖未公开完整制作提示，明确说使用 Astra，场景材料在 Blender 制作。没有用其他帖文或转述补造本作提示。",
+    "promptUrl": null,
+    "imageCaption": "精确原创 X 视频封面：溪流、石桥、青瓦屋与树木；界面标题 Hiroshi’s Island，原帖正文称 Cozy Creek。 附原帖完整录像与原版下载。",
+    "outcome": "可查看原帖约59秒完整录像；未取得可独立重建的 Blender 工程、Three.js 源码或已核实的演示入口。命名差异如实保留，未套用另一张成本图或额外模型声明，未验证声音、漫游输入或照明全部功能。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Chetan Ankola / @chetanankola",
+    "sourceUrl": "https://x.com/chetanankola/status/2107996576228753545",
+    "sourceDate": "2026-10-08",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-12",
+    "addedAt": "2026-10-12",
+    "evidenceLevel": "author",
+    "evidenceStatus": "原创 X 完整 GET 200；原作者模型声明与可见成果，精确 FxTwitter 辅助媒体元数据",
+    "evidenceNote": "直接读取原创 X 页面并比对同一原帖的作者和时间戳。模型归属依原作者声明及画面标注，未将第三方汇编分类当作证据；作者的时间、费用、技术或导出检查属于作者报告。",
+    "sourceAccess": "原创 X 完整 GET 200 / text/html / 144,306 字节，作者、模型声明与 created_at_ms 已同精确 FxTwitter 主帖核对；上海帖文日期 2026-10-08。成果图完整 GET 200 / image/jpeg / 1200×1046 / 242,463 字节，Content-Length 与实际一致，Pillow 完整解码并实际用 view_image 查看。 已完整下载同主帖最高平台原版和较小平台播放版，核对媒体 ID、MIME、Content-Length、SHA-256、时长；严格全长 FFmpeg 解码通过，未裁剪或转码，中段画面实际查看。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2107995518244929536/img/zh4SjNGhMe8dPRvs.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/chetanankola/status/2107996576228753545",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/chetanankola/status/2107996576228753545"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库 MIT。保留原创来源与移除入口，媒体归档不代表另行取得作者再发布许可。 原版和平台较小完整版本保存至公开 Release，未剪辑或转码；时长、字节与 SHA-256 见媒体清单。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/chetan-cozy-creek-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-12/chetan-cozy-creek-1-original.mp4",
+        "durationSeconds": 58.79,
+        "bytes": 200279449,
+        "sha256": "4a33e090d8762b3f2d374aed87f2e828216cc68af5252ebd1301d6a45afe51d9",
+        "sourceUrl": "https://x.com/chetanankola/status/2107996576228753545",
+        "label": "Cozy Creek / Hiroshi’s Island — A Woodland Browser Scene",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2107995518244929536/img/zh4SjNGhMe8dPRvs.jpg"
+      }
+    ]
+  },
+  {
+    "id": "siriuslala-g1-burpee",
+    "title": "G1 舞台波比跳：搬运支架、俯卧撑与跳跃仿真",
+    "titleEn": "G1 Stage Burpee — Carrying, Push-Ups and Jumping in MuJoCo",
+    "group": "astra",
+    "category": "科学与教育",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "Siriuslala",
+    "sourceUrl": "https://github.com/Siriuslala/g1-robot-burpee",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-12",
+    "addedAt": "2026-10-12",
+    "modelLabel": "GPT-6 Astra（控制代码与反馈迭代，作者自述）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "已完整读取原作者 README 与制作说明；成果媒体完整 GET、核对字节数与 SHA-256、Pillow 全帧解码并通过 view_image 实际查看。未安装、运行或独立重建第三方工程。 两段原片共 9,372,628 字节严格 FFmpeg 解码无错误；作者 Pages HTML 200 只证明入口可达，未独立完整交互试玩。",
+    "promptAvailability": "not-found",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "demoUrl": "https://siriuslala.github.io/g1-robot-burpee/",
+    "videoUrl": "https://siriuslala.github.io/g1-robot-burpee/assets/media/transition.mp4",
+    "repositoryUrl": "https://github.com/Siriuslala/g1-robot-burpee",
+    "evidenceNote": "原作者 README 与静态页面明确 Astra 在 Codex 中编写控制程序、运行 MuJoCo 并依据实验反馈修改；执行依赖已有预训练行走策略与全身控制，Unitree G1 本体并非 Astra 创建。展示视频重放保存状态；render.json 明确 strict_physics_audit_passed 为 false。",
+    "summary": "将登台搬运、支架展示、俯卧撑与摆臂跳跃组成一段机器人舞台表演，公开双视角完整录像、时间轴、渲染记录和播放器实现。",
+    "outputType": [
+      "MuJoCo 仿真",
+      "机器人动作控制",
+      "保存状态序列重放",
+      "双视角表演录像"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/Siriuslala/g1-robot-burpee/main/assets/media/transition_poster.png",
+    "imageKind": "video-poster",
+    "imageCaption": "作者完整运镜录像的实际封面：G1 双手撑在橙色支架上。",
+    "evidenceUrls": [
+      "https://raw.githubusercontent.com/Siriuslala/g1-robot-burpee/main/README.md",
+      "https://raw.githubusercontent.com/Siriuslala/g1-robot-burpee/main/assets/data/render.json",
+      "https://raw.githubusercontent.com/Siriuslala/g1-robot-burpee/main/assets/media/fixed.mp4"
+    ],
+    "licenseNotes": "当前公开资料未核实覆盖全部内容的开放许可；机器人本体、预训练策略与作者媒体分别保留原权利。本库外链并署名，不以 MIT 替代这些条款。",
+    "outcome": "两段作者 MP4 均完整 GET、SHA-256 与严格 FFmpeg 解码通过，实测时长均 156.35 秒，已查看 108 秒实际画面。作者 Pages 两视频完整 GET 与已解码原片哈希一致。未执行原控制器、独立验收稳定性或在真实 G1 上测试；严格物理审计未通过。这份仓库公开播放器、录像和审计数据，原 MuJoCo 控制工程未见公开；外站视频未纳入本库 Release / 站内完整视频数。"
+  },
+  {
+    "id": "sgarlen-highway-car-comparison",
+    "title": "高速公路：红色跑车、摄像机与双模型网页场景",
+    "titleEn": "Highway Car — A Browser 3D Scene Comparison",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（独立对照）+ 浏览器三维场景",
+    "summary": "同句高速公路任务展示红色跑车、路边树木、护栏与跟随镜头。上方 Astra 画面和下方 Opus 画面各自呈现道路场景；录像中可见镜头从车辆后方切换到前方。",
+    "outputType": [
+      "浏览器三维道路场景",
+      "独立双模型对照",
+      "作者运行录像",
+      "完整运行录像"
+    ],
+    "promptAvailability": "excerpt",
+    "promptExcerpt": "build a realistic 3D scene of a car on a highway at high speed, make it interactive",
+    "promptSummary": "原作者公开单句三维道路任务，另外描述六个摄像机、日夜与声音功能。这里区分原始任务和作者结果描述，未逐项独立核验。",
+    "promptUrl": "https://x.com/sgarlen01/status/2108981890493358527",
+    "imageCaption": "原作者道路录像封面：GPT Astra 在上半、Opus 5.5 在下半；车后视角与道路。230 km/h 为画面读数，不是实际物理测量。 附原帖完整录像与原版下载。",
+    "outcome": "可查看完整双模型录像与镜头变化；未取得 HTML 源文件，没有独立确认车辆速度、驾驶输入、声音或费用。主帖日期已核实，媒体 ID 较旧，不从 ID 推断首次生成或首次发布日。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "sgarlen / @sgarlen01",
+    "sourceUrl": "https://x.com/sgarlen01/status/2108981890493358527",
+    "sourceDate": "2026-10-11",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-12",
+    "addedAt": "2026-10-12",
+    "evidenceLevel": "author",
+    "evidenceStatus": "原创 X 完整 GET 200；原作者模型声明与可见成果，精确 FxTwitter 辅助媒体元数据",
+    "evidenceNote": "直接读取原创 X 页面并比对同一原帖的作者和时间戳。模型归属依原作者声明及画面标注，未将第三方汇编分类当作证据；作者的时间、费用、技术或导出检查属于作者报告。 主帖日期为2026-10-11；其较旧媒体 ID 不用于推断首次产出时间。",
+    "sourceAccess": "原创 X 完整 GET 200 / text/html / 111,789 字节，作者、模型声明与 created_at_ms 已同精确 FxTwitter 主帖核对；上海帖文日期 2026-10-11。成果图完整 GET 200 / image/jpeg / 960×1200 / 134,633 字节，Content-Length 与实际一致，Pillow 完整解码并实际用 view_image 查看。 已完整下载同主帖最高平台原版和较小平台播放版，核对媒体 ID、MIME、Content-Length、SHA-256、时长；严格全长 FFmpeg 解码通过，未裁剪或转码，中段画面实际查看。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2108570633617465344/img/lBxwslhXRuLoyyb0.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/sgarlen01/status/2108981890493358527",
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/sgarlen01/status/2108981890493358527"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库 MIT。保留原创来源与移除入口，媒体归档不代表另行取得作者再发布许可。 原版和平台较小完整版本保存至公开 Release，未剪辑或转码；时长、字节与 SHA-256 见媒体清单。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/sgarlen-highway-car-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-12/sgarlen-highway-car-comparison-1-original.mp4",
+        "durationSeconds": 20.0,
+        "bytes": 11190511,
+        "sha256": "a39474cb6ed784b57bbc648392aff560000b36a23cab58e43534796afdfae64f",
+        "sourceUrl": "https://x.com/sgarlen01/status/2108981890493358527",
+        "label": "Highway Car — A Browser 3D Scene Comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2108570633617465344/img/lBxwslhXRuLoyyb0.jpg"
+      }
+    ]
+  },
+  {
+    "id": "equacc-gaussian-splat-editor",
+    "title": "Gaussian Splat 编辑器：灯塔场景与作者工作流展示",
+    "titleEn": "Gaussian Splat Editor — An Author-shared Lighthouse Scene",
+    "category": "交互与工具",
+    "modelLabel": "GPT-6 Astra（作者工具开发声明）+ Gaussian Splat 场景",
+    "summary": "作者说明自己借助 Astra 开发类似图像编辑器的 Gaussian Splat 工具，并附一张岩岸灯塔场景。图像用于查看公开的三维场景外观，不能证明灯塔模型由 Astra 从零生成。",
+    "outputType": [
+      "Gaussian Splat 三维场景预览",
+      "作者工具开发记录"
+    ],
+    "promptAvailability": "excerpt",
+    "promptExcerpt": "hey, let's build photoshop for gaussian splats",
+    "promptSummary": "原作者给出开发三维 splat 编辑器的请求短句；提到的 SuperSplat 是已有工具参照，不作为本案例演示或 Astra 实现链接。",
+    "promptUrl": "https://x.com/equacc/status/2108711089827647965",
+    "imageCaption": "原作者实际附图：黑底的岩岸与灯塔 Gaussian Splat 场景；该图未展示编辑器完整工具界面。",
+    "outcome": "可查看作者公开成果场景；未公开并独立核查编辑器源码、完整工具 UI、资产归属或可运行入口。没有将既有场景的摄影重建归因于 Astra，也没有把作者一晚的开发描述当作性能结论。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "duck engineer / @equacc",
+    "sourceUrl": "https://x.com/equacc/status/2108711089827647965",
+    "sourceDate": "2026-10-10",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-12",
+    "addedAt": "2026-10-12",
+    "evidenceLevel": "author",
+    "evidenceStatus": "原创 X 完整 GET 200；原作者模型声明与可见成果，精确 FxTwitter 辅助媒体元数据",
+    "evidenceNote": "直接读取原创 X 页面并比对同一原帖的作者和时间戳。模型归属依原作者声明及画面标注，未将第三方汇编分类当作证据；作者的时间、费用、技术或导出检查属于作者报告。",
+    "sourceAccess": "原创 X 完整 GET 200 / text/html / 115,163 字节，作者、模型声明与 created_at_ms 已同精确 FxTwitter 主帖核对；上海帖文日期 2026-10-10。成果图完整 GET 200 / image/jpeg / 2444×1478 / 318,975 字节，Content-Length 与实际一致，Pillow 完整解码并实际用 view_image 查看。",
+    "imageUrl": "https://pbs.twimg.com/media/HUOkMvkWMAAzykq.jpg?name=orig",
+    "imageKind": "screenshot",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/equacc/status/2108711089827647965"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库 MIT。保留原创来源与移除入口，媒体归档不代表另行取得作者再发布许可。"
+  },
+  {
+    "group": "astra",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-12",
+    "addedAt": "2026-10-12",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "promptExcerpt": null,
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "licenseNotes": "作品与媒体归原作者及所用资产的权利人；只链接原站媒体，不纳入本库 MIT 许可。",
+    "id": "hayashimon-chibi-base-iterations",
+    "title": "护目镜小角色：素体、关节与衣装的多轮修正",
+    "titleEn": "Goggled Chibi — Body, Joint and Outfit Iterations",
+    "category": "角色与动画",
+    "platform": "note",
+    "platforms": [
+      "note"
+    ],
+    "author": "ハヤシモン / Hayashimon",
+    "sourceUrl": "https://note.com/limber_newt6087/n/n9aa3f59656cd",
+    "sourceDate": "2026-09-15",
+    "modelLabel": "Astra + Blender / Blender MCP；参考素体与衣装图由作者提供",
+    "evidenceNote": "作者标题明确 Astra，正文记录重建新素体、调整拓扑、骨骼权重、形态键、衣装与烘焙纹理；参考模型只用于观察，作者声明未直接复用为成品。人工逐轮检查与参考输入保留独立职责。",
+    "sourceAccess": "note 公开正文完整 GET 200 / 480,996 字节；JSON-LD 首发 2026-09-15T21:44:29+09:00，对应上海同日20:44:29。最终角色图 GET 200 / 351,468 字节，960×1100，Content-Length 一致，Pillow 完整解码并实际查看；蹲姿对照图也已完整获取、解码及查看。未取得工程或独立运行角色。",
+    "summary": "从身体厚度、肘膝连接与手指弯曲开始，逐轮加表情、紫色头发、护目镜和装甲衣装。作者以关节弯曲和穿衣后的动作再检查质量，保留仍有折痕等缺陷。",
+    "outputType": [
+      "Blender 角色建模",
+      "关节与表情形态键",
+      "衣装权重与纹理烘焙"
+    ],
+    "promptAvailability": "author-description",
+    "promptSummary": "作者公开局部修正目标与版本对照；未提供完整请求、会话或可下载 .blend。",
+    "promptUrl": "https://note.com/limber_newt6087/n/n9aa3f59656cd",
+    "imageUrl": "https://assets.st-note.com/img/1789400912-TzR6WDPEat23ivAQSZNyXmqc.png?width=1200",
+    "imageKind": "render",
+    "imageCaption": "作者最终阶段三维角色：紫发、蓝色护目镜、围巾与分层装甲，双臂展开。原图是角色渲染，并非前文素体参考图。",
+    "evidenceUrls": [
+      "https://assets.st-note.com/img/1789400904-Slems1zJIL9Eu3kP7x2DhTYQ.png?width=1200"
+    ],
+    "outcome": "作者记录多轮修正与九种动作测试；数量、网格合并和材质分辨率均是制作记录，不是本库独立测试。静态图不证明所有姿态都可用。"
+  },
+  {
+    "group": "astra",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-12",
+    "addedAt": "2026-10-12",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "promptExcerpt": null,
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "licenseNotes": "作品与媒体归原作者及所用资产的权利人；只链接原站媒体，不纳入本库 MIT 许可。",
+    "id": "takosumi-lowpoly-character-failures",
+    "title": "黑外套低模角色：两轮建模失败与分工反思",
+    "titleEn": "Hooded Low-Poly Character — Two Failed Modeling Attempts",
+    "category": "角色与动画",
+    "platform": "note",
+    "platforms": [
+      "note"
+    ],
+    "author": "たこすみ / Takosumi",
+    "sourceUrl": "https://note.com/takosumisann/n/n0dd12bcbbce0",
+    "sourceDate": "2026-09-16",
+    "modelLabel": "Astra + Blender MCP；ChatGPT 设计参考与作者自制低模输入",
+    "evidenceNote": "作者明确两次让 Astra 经 Blender MCP 建模。先用已有手制角色构思，再以 ChatGPT 设定图和三视图作输入。文章末的本地生成 AI / Tripo 分工只是后续计划，不能记成已实现结果。",
+    "sourceAccess": "note 公开正文完整 GET 200 / 442,861 字节；JSON-LD 首发 2026-09-16T04:24:05+09:00，对应上海同日03:24:05。第二轮实际成果图 GET 200 / 183,776 字节，1128×908，Content-Length 一致，Pillow 完整解码并实际查看；第一轮实际成果图也已完整获取、解码及查看。未运行工程。",
+    "summary": "黑色连帽外套角色先出现颈部脱离、手臂缺失等问题；加入具体建模要求与三视图后仍不符合作者的游戏角色目标。两次结果合为一条，展示失误及输入变化。",
+    "outputType": [
+      "Blender 低模角色",
+      "两轮成果对照",
+      "结构与比例失败分析"
+    ],
+    "promptAvailability": "author-description",
+    "promptSummary": "作者描述由简单图像请求改成细化形状、面数与脸部约束，未公开完整原始指令。",
+    "promptUrl": "https://note.com/takosumisann/n/n0dd12bcbbce0",
+    "imageUrl": "https://assets.st-note.com/img/1789496981-BTSNWPZH8bCJ7GEvKwmAFuq2.png?width=1200",
+    "imageKind": "render",
+    "imageCaption": "作者第二轮实际三维输出：黑色连帽外套角色的远近对照，颈部连接和比例仍有问题；不是前文设计三视图。",
+    "evidenceUrls": [
+      "https://assets.st-note.com/img/1789496745-vknXBpz1c2QKDJy3EqsabeI7.png?width=1200"
+    ],
+    "outcome": "作者认为两轮都未达到能直接用于游戏的标准。该个例用于观察失败和工作拆分，不作为模型整体能力结论；后续 UV / 绑定分工未验证。"
+  },
+  {
     "id": "vib3coded-castle-jelly",
     "title": "Castle Jelly：糖果岩层城堡、瀑布与双模型对照",
     "titleEn": "Castle Jelly — A Layered Castle and Waterfall Comparison",
@@ -2608,13 +3160,13 @@
     "sourceUrl": "https://x.com/sourishsharma17/status/2099981891512242496",
     "sourceDate": "2026-09-16",
     "secondaryPublishedAt": null,
-    "observedAt": "2026-10-06",
+    "observedAt": "2026-10-12",
     "addedAt": "2026-10-06",
     "modelLabel": "GPT-6 Astra + MRI 输入 + Bambu Lab P1S（作者声明）",
     "evidenceLevel": "author",
     "evidenceStatus": "原作者帖子元数据、两张实物照片与完整打印录像已核查",
     "evidenceNote": "作者明确 MRI → GPT-6 Astra → Bambu Lab P1S，并展示脑模型实物与打印机内成形过程。1:1、life-sized、accurate、35 小时和 400 克均为作者报告；没有公开 MRI 原始数据、分割算法、工程或尺寸/解剖精度测量，不能据此验证解剖准确性或用于诊断。Astra 在分割、修复或导出各步骤中的具体职责未公开，也不称为从文字凭空建模。",
-    "sourceAccess": "X 原帖 web 403；普通公开 FxTwitter 原帖镜像返回 HTTP 200，核对作者、原帖 ID、3 个媒体 ID、正文和 created_at=2026-09-15T22:01:13Z，换算上海 9 月 16 日。两张 pbs 原图与录像封面下载并 view_image 检查；实物照片清晰展示作者持有的黑色脑模型与底面。完整 20.875 秒原帖打印录像的最高码率原版与 832kbps 完整播放版均已下载并核对字节、Content-Length、SHA256、时长和严格全帧解码；20 秒抽帧显示成形脑模型。未取得或处理私人 MRI 数据、运行生成代码或独立检验模型。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "sourceAccess": "X 原帖 web 403；普通公开 FxTwitter 原帖镜像返回 HTTP 200，核对作者、原帖 ID、3 个媒体 ID、正文和 created_at=2026-09-15T22:01:13Z，换算上海 9 月 16 日。两张 pbs 原图与录像封面下载并 view_image 检查；实物照片清晰展示作者持有的黑色脑模型与底面。完整 20.875 秒原帖打印录像的最高码率原版与 832kbps 完整播放版均已下载并核对字节、Content-Length、SHA256、时长和严格全帧解码；20 秒抽帧显示成形脑模型。未取得或处理私人 MRI 数据、运行生成代码或独立检验模型。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。 本轮原预览地址持续发生传输错误，已换为同一原作者图片的完整可达版本；GET 200、Content-Length、SHA-256 与 Pillow 解码通过，实际查看内容一致。",
     "summary": "作者用自己的 MRI 扫描，在 Astra 协助下准备脑模型，再以 P1S 打印成可手持实物。可查看顶部脑回、底部结构和打印过程；比例、用料与制作耗时仅保留作者说法。",
     "outputType": [
       "MRI 衍生脑模型",
@@ -2626,7 +3178,7 @@
     "promptExcerpt": null,
     "promptSummary": "仅公开 MRI → Astra → 3D 打印的流程，没有公开原始输入、分割参数或逐轮提示词。",
     "promptUrl": "https://x.com/sourishsharma17/status/2099981891512242496",
-    "imageUrl": "https://pbs.twimg.com/media/HSSh1y1WQAAdvvS.jpg?name=orig",
+    "imageUrl": "https://pbs.twimg.com/media/HSSh1y1WQAAdvvS.jpg?name=large",
     "imageKind": "author-photo",
     "imageCaption": "作者实际拍摄的脑模型底面与小脑区域；展示打印实物，不是输入扫描或精度验证图。 附完整视频及最高码率下载。",
     "demoUrl": null,
@@ -2666,13 +3218,13 @@
     "sourceUrl": "https://x.com/MeshyAI/status/2101683299550925127",
     "sourceDate": "2026-09-20",
     "secondaryPublishedAt": null,
-    "observedAt": "2026-10-06",
+    "observedAt": "2026-10-12",
     "addedAt": "2026-10-06",
     "modelLabel": "GPT-6 Astra Medium（录像界面）+ Meshy 生成与 Part Segmentation API",
     "evidenceLevel": "author",
     "evidenceStatus": "供应商原帖与完整演示的实际家具目录、旋转和拆解成果已检查",
     "evidenceNote": "Meshy 官方账号明确三段分工：Astra 调用 Meshy 生成资产，Meshy Part Segmentation API 切分椅子框架、坐垫、靠背与横梁，Astra 制作浏览和旋转网站。录像约 30 秒的任务栏显示 GPT-6 Astra Medium。模型几何与分件不能全部归为 Astra 自建；一次会话完成是供应商声明。没有公开目录的独立部署地址、源码或工程，亦不说明已上线销售或具备制造精度。",
-    "sourceAccess": "X 原帖 web 403；公开 FxTwitter 原帖镜像 HTTP 200，核对 MeshyAI、原帖/媒体 ID、正文与 2026-09-20T14:42:00Z。pbs 封面 HTTP 200 并 view_image 查看真实沙发、椅子和桌子目录。完整 54.1 秒原帖演示的最高码率 1080p 原版与 832kbps 完整播放版下载后，字节/Content-Length/SHA256、时长差<=0.2 秒与严格全帧解码均通过。另检查 2、15、30、43、52 秒抽帧，分别包含实际目录、旋转椅子、Astra Medium 任务栏、六部件拆解界面及结尾；未执行模型生成或独立操作作者网站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。",
+    "sourceAccess": "X 原帖 web 403；公开 FxTwitter 原帖镜像 HTTP 200，核对 MeshyAI、原帖/媒体 ID、正文与 2026-09-20T14:42:00Z。pbs 封面 HTTP 200 并 view_image 查看真实沙发、椅子和桌子目录。完整 54.1 秒原帖演示的最高码率 1080p 原版与 832kbps 完整播放版下载后，字节/Content-Length/SHA256、时长差<=0.2 秒与严格全帧解码均通过。另检查 2、15、30、43、52 秒抽帧，分别包含实际目录、旋转椅子、Astra Medium 任务栏、六部件拆解界面及结尾；未执行模型生成或独立操作作者网站。 MP4 直接从对应 X 媒体 ID 下载；播放版本完成全长解码检查。 本轮原预览地址持续发生传输错误，已换为同一原作者图片的完整可达版本；GET 200、Content-Length、SHA-256 与 Pillow 解码通过，实际查看内容一致。",
     "summary": "从生成木椅出发，扩展为沙发、座椅和桌子目录，再将一把框架椅拆成六个部件，用网页展示旋转与组装。适合参考资产生成服务与 Astra 网站编排如何分工，实际成果由两类工具共同完成。",
     "outputType": [
       "Meshy 家具资产",
@@ -2684,7 +3236,7 @@
     "promptExcerpt": null,
     "promptSummary": "录像可见要求扩展为不同类别的 20 件家具和将框架椅拆成六个部件的任务片段；没有完整会话或所有模型提示词。",
     "promptUrl": "https://x.com/MeshyAI/status/2101683299550925127",
-    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2101682626784571392/img/TyD5PSg5-jkCWjSx.jpg",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2101682626784571392/img/TyD5PSg5-jkCWjSx.jpg?format=jpg&name=orig",
     "imageKind": "video-poster",
     "imageCaption": "供应商原帖实际家具目录封面：沙发、扶手椅与桌子的网页展示；几何来自 Meshy，Astra 负责调用和页面。 附完整视频及最高码率下载。",
     "demoUrl": null,
@@ -2704,7 +3256,7 @@
         "sha256": "38893822f0b32ca5eed968736aa2159d19e7c0d74cb89d10d8fd08fec1b56c81",
         "sourceUrl": "https://x.com/MeshyAI/status/2101683299550925127",
         "label": "Meshy Furniture Catalog — Generation, Segmentation and Web Showcase",
-        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2101682626784571392/img/TyD5PSg5-jkCWjSx.jpg"
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2101682626784571392/img/TyD5PSg5-jkCWjSx.jpg?format=jpg&name=orig"
       }
     ]
   },
@@ -15186,5 +15738,48 @@
       "开发记录"
     ],
     "repositoryUrl": "https://github.com/az9713/gpt-6-astra-tennis-game"
+  },
+  {
+    "group": "astra",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-12",
+    "addedAt": "2026-09-10",
+    "evidenceLevel": "author",
+    "evidenceStatus": "public-reader-author-statement",
+    "promptExcerpt": null,
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "licenseNotes": "作品与媒体归原作者及所用资产的权利人；只链接原站媒体，不纳入本库 MIT 许可。",
+    "id": "yo-tractor-animation",
+    "title": "拖拉机总成：长时间建模与动画实验",
+    "titleEn": "Tractor Modeling and Animation",
+    "category": "Blender 建模",
+    "platform": "Reddit",
+    "platforms": [
+      "Reddit"
+    ],
+    "author": "yo_hello_123",
+    "sourceUrl": "https://www.reddit.com/r/codex/comments/1wb8wgr/gpt6_astra_max_spent_7_hours_building_a_fully/",
+    "sourceDate": null,
+    "modelLabel": "GPT-6 Astra Max + Blender CLI；图像生成辅助材质",
+    "evidenceNote": "Reddit 原作者明确 Astra Max，经命令行操作 Blender，并用图像生成辅助材质；作者公开先研究工具流程、搜真实参考，再多轮建模与纹理的请求。不是七小时无修改单次生成。",
+    "sourceAccess": "公开网页读取器可读原作者正文和同一作者回复；本机原帖 GET 403，未绕过。原帖明确链接的实际成果 GIF GET 200 / 4,101,360 字节，720×540 / 129 帧 / 8.60 秒，Content-Length 一致，Pillow 全部帧解码，实际查看中帧及首中尾对照。恢复 2026-09-25 因无可显示媒体而下架的同 ID，保留原 09-10 收录日期。首次准确时间未知，保持 null；未取得工程或核验作者部件、动画和成本统计。",
+    "summary": "绿色现代拖拉机的轮胎、驾驶室和机械构件三维展示。作者记录长时间迭代和材质生成，同时承认自己不是拖拉机专家；不能把外观渲染视作工程正确或适合量产。",
+    "outputType": [
+      "Blender 拖拉机模型",
+      "机械构件展示",
+      "多轮材质与动画实验"
+    ],
+    "promptAvailability": "full-linked",
+    "promptSummary": "原作者评论公开研究 Blender CLI / MCP，再按真实照片细化现代拖拉机内外部的请求；完整会话与 .blend 未公开。",
+    "promptUrl": "https://www.reddit.com/r/codex/comments/1wb8wgr/gpt6_astra_max_spent_7_hours_building_a_fully/",
+    "imageUrl": "https://i.redd.it/cogftwb0oeoh1.gif",
+    "imageKind": "render",
+    "imageCaption": "原作者 Blender 成果动图：绿车身、白色车顶、黑色轮胎的现代拖拉机。129 帧完整解码；只表示这个公开片段。",
+    "evidenceUrls": [
+      "https://i.redd.it/cogftwb0oeoh1.gif"
+    ],
+    "outcome": "七小时、三千余部件、百余动画与消耗量是作者自报，未独立核验；8.60 秒 GIF 不代表展示了所有动画，也不计入站内完整 MP4 归档。"
   }
 ]

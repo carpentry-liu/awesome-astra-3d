@@ -1,11 +1,12 @@
 {
-  "observedAt": "2026-10-11",
-  "method": "Full GET/decoding of 297 baseline previews and 16 new previews; full GET of 24 new source/repository/demo/prompt URLs. Five historical transport failures recovered, one new prompt transfer retried successfully. Reddit original returned403 locally but author text was readable through the public web reader. Historical source/demo dates retained.",
-  "checkedUrls": 771,
+  "observedAt": "2026-10-12",
+  "method": "Full GET and complete decoding of 313 historical previews and 12 new/restored previews; two historical image URLs replaced by verified source variants. Full GET of16 new source/repository/demo/prompt URLs. Historical source/demo dates retained.",
+  "checkedUrls": 801,
   "counts": {
-    "reachable": 756,
+    "reachable": 784,
     "restricted": 7,
-    "http-error": 8
+    "http-error": 8,
+    "transport-error": 2
   },
   "results": [
     {
@@ -16,8 +17,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 169862,
@@ -49,8 +50,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 143058,
@@ -116,8 +117,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 3705987,
@@ -132,8 +133,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 240804,
@@ -148,8 +149,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 75757,
@@ -164,12 +165,12 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
-      "bytes": 147729,
-      "sha256": "a964714504c1a29b659bff8b826cd988abade31ae7f1c9da38f87719faa9db82",
+      "bytes": 147731,
+      "sha256": "05f894e66a5824ea07b44136285e21db39b43bfb99f2202440ce3aa5237bacaf",
       "result": "reachable"
     },
     {
@@ -180,8 +181,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 63158,
@@ -213,8 +214,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 470772,
@@ -246,8 +247,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 177566,
@@ -296,8 +297,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 67124,
@@ -312,8 +313,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 64498,
@@ -328,12 +329,12 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
-      "bytes": 160378,
-      "sha256": "5cca14c7687fd1de25851248a5b9b05528c72f5876936e8a8f9b71ec0769e40d",
+      "bytes": 160237,
+      "sha256": "82d3f9159ca4ea4f61fae658f6cd70a66837f84fa0700b06a270e6ed30f9fee6",
       "result": "reachable"
     },
     {
@@ -344,8 +345,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 266466,
@@ -360,8 +361,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 95833,
@@ -393,12 +394,12 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
-      "bytes": 69193,
-      "sha256": "1616a29d6d5d0bdc94de86ca031afdbc9b29f11f3f2f20a7dbb65fc67659a7cb",
+      "bytes": 69208,
+      "sha256": "d23a24ae982789557159d6a68cbc83af70d375393fd3dc70d96e53a729e191f1",
       "result": "reachable"
     },
     {
@@ -426,8 +427,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 47933,
@@ -442,8 +443,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 129498,
@@ -494,8 +495,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 213052,
@@ -546,8 +547,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 164153,
@@ -598,8 +599,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 37799,
@@ -650,8 +651,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 97264,
@@ -702,8 +703,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 129347,
@@ -860,8 +861,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 326221,
@@ -912,8 +913,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 81483,
@@ -964,8 +965,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 194707,
@@ -1050,8 +1051,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 1542238,
@@ -1066,12 +1067,12 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
-      "bytes": 61017,
-      "sha256": "80965635f0ed1863d0b21af2232e7e2632877e9c3f01f49ecdb13657c875cd91",
+      "bytes": 61022,
+      "sha256": "b96633c15d16a1fad0fe0e700c8bec74e9157a05c86bbf84264cea903f333c4a",
       "result": "reachable"
     },
     {
@@ -1152,8 +1153,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 727049,
@@ -1185,8 +1186,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 59314,
@@ -1237,8 +1238,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 142238,
@@ -1289,8 +1290,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 105220,
@@ -1341,12 +1342,12 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
-      "bytes": 103908,
-      "sha256": "243a1df3d0b091e2aceae8bea4be99674d390b1336643ef1bbf179a8fcde3bae",
+      "bytes": 103851,
+      "sha256": "2f3fcea1bed3c18d2ef521d0158ce3122426fa9a053d883345161087234f9683",
       "result": "reachable"
     },
     {
@@ -1393,8 +1394,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 224080,
@@ -1462,8 +1463,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 206473,
@@ -1514,8 +1515,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 133482,
@@ -1583,8 +1584,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 104288,
@@ -1635,8 +1636,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 148875,
@@ -1687,8 +1688,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 114850,
@@ -1739,8 +1740,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 125735,
@@ -1791,8 +1792,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 220663,
@@ -1881,8 +1882,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 167969,
@@ -1933,8 +1934,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 298613,
@@ -1983,8 +1984,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 147049,
@@ -1999,12 +2000,12 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
-      "bytes": 2055788,
-      "sha256": "54d2491e5000b815bbd8b825b9ec8d0bc32e4d51cf4963c0093bc91b086ed057",
+      "bytes": 1553364,
+      "sha256": "cb1d9165bfae99ccf514e2644814783d1634459b970e3a30ab23f0eef82e8ea5",
       "result": "reachable"
     },
     {
@@ -2049,8 +2050,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 209431,
@@ -2099,8 +2100,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 58410,
@@ -2168,12 +2169,12 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
-      "bytes": 55494,
-      "sha256": "89d9ddaecd0b44258947752b34001994e736eb56da38bac0422c5f18168195f7",
+      "bytes": 55470,
+      "sha256": "367d472b9030f25f055f858daa3c796f592caa506bad6db72ddd9ff8402ba341",
       "result": "reachable"
     },
     {
@@ -2237,8 +2238,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 797019,
@@ -2270,8 +2271,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 44893,
@@ -2322,8 +2323,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 202916,
@@ -2338,8 +2339,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 198424,
@@ -2354,12 +2355,12 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
-      "bytes": 931689,
-      "sha256": "83a0f29c61288b30fc5a9d642ed38159093657d18c6506e4d3863ec0c348bdab",
+      "bytes": 811341,
+      "sha256": "e3a7c7f5b0093f2e3b93e8e758ac58d53af7a35589b8c6279c563cc09647c383",
       "result": "reachable"
     },
     {
@@ -2387,8 +2388,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 64067,
@@ -2456,8 +2457,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 123092,
@@ -2525,12 +2526,12 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 45485,
-      "sha256": "d493b3730c507dab74d260f6d20e56ba496312e5afdfa8c8e49d73af995500dc",
+      "sha256": "8dfce6ea9fa5a5e9397365d0c2bbac62ae87987bd5d574fe015bf13325e4a14c",
       "result": "reachable"
     },
     {
@@ -2594,8 +2595,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 40395,
@@ -2646,8 +2647,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 65246,
@@ -2715,8 +2716,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 174467,
@@ -2767,8 +2768,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 150137,
@@ -2836,8 +2837,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 95535,
@@ -2905,8 +2906,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 69602,
@@ -2957,8 +2958,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 90833,
@@ -3009,8 +3010,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 97914,
@@ -3061,8 +3062,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 1887988,
@@ -3077,8 +3078,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 542253,
@@ -3178,8 +3179,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 1737299,
@@ -3194,8 +3195,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 221610,
@@ -3210,8 +3211,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 193893,
@@ -3243,12 +3244,12 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
-      "bytes": 221527,
-      "sha256": "568eec4444b21b959d5d603a7a76d731ef5c08db2e5a6fc614a9c764d281d594",
+      "bytes": 218571,
+      "sha256": "5a0b79dd6c7338e34ddbee1fc3c9f3e638f26753afea9e54cc457d2d2a0c72fd",
       "result": "reachable"
     },
     {
@@ -3259,8 +3260,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 615940,
@@ -3275,8 +3276,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 97562,
@@ -3308,8 +3309,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 949833,
@@ -3358,8 +3359,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 102065,
@@ -3408,8 +3409,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 442194,
@@ -3441,8 +3442,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 188558,
@@ -3474,8 +3475,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/gif",
       "bytes": 5064672,
@@ -3507,8 +3508,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 134896,
@@ -3540,8 +3541,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 75830,
@@ -3609,8 +3610,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 51858,
@@ -3642,8 +3643,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 160086,
@@ -3675,8 +3676,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 131138,
@@ -3708,8 +3709,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 131452,
@@ -3741,8 +3742,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 80388,
@@ -3774,8 +3775,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 143208,
@@ -3807,8 +3808,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 79370,
@@ -3840,8 +3841,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 110742,
@@ -3873,8 +3874,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 202526,
@@ -3923,8 +3924,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 124143,
@@ -4009,8 +4010,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 80451,
@@ -4061,8 +4062,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 149189,
@@ -4113,8 +4114,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 21693,
@@ -4165,12 +4166,12 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
-      "bytes": 44331,
-      "sha256": "8e161684db05217738f17be2d2b461cabb54ca1e4fba9abaedd0c2ea9f1ece44",
+      "bytes": 44336,
+      "sha256": "f01f63dcf4f8cdf15e5d7df57729b5b613ee5f727911e0c3bf07630d835e6502",
       "result": "reachable"
     },
     {
@@ -4217,8 +4218,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 36555,
@@ -4269,8 +4270,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 128911,
@@ -4321,8 +4322,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 175025,
@@ -4404,8 +4405,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 10312,
@@ -4420,8 +4421,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 19828,
@@ -4464,8 +4465,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 156398,
@@ -4516,8 +4517,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 1502801,
@@ -4532,8 +4533,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 246715,
@@ -4548,8 +4549,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 110927,
@@ -4564,8 +4565,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 370616,
@@ -4580,8 +4581,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 151866,
@@ -4596,8 +4597,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 103338,
@@ -4612,8 +4613,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 156977,
@@ -4628,8 +4629,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 125137,
@@ -4644,8 +4645,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 1559853,
@@ -4660,8 +4661,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 2500831,
@@ -4676,8 +4677,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 2094235,
@@ -4692,8 +4693,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 2339366,
@@ -4742,8 +4743,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 91509,
@@ -4828,8 +4829,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 97723,
@@ -4914,8 +4915,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 88128,
@@ -5000,12 +5001,12 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
-      "bytes": 61209,
-      "sha256": "9ed923c731859cbe3c32ce17184f8e98b106d33f488925cc5d077c46a9312b8e",
+      "bytes": 61205,
+      "sha256": "65966b46a62edaa2f678169873130cec516ac04b0db149975e71d7c3267102d0",
       "result": "reachable"
     },
     {
@@ -5122,8 +5123,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 200523,
@@ -5191,8 +5192,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 159517,
@@ -5243,12 +5244,12 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
-      "bytes": 140311,
-      "sha256": "5881351d03e6d1815090561d33a18b628da9c0bed76ef100000c63a857821f93",
+      "bytes": 140332,
+      "sha256": "4c0da5c4379eee33a2cc15f8aa0dcaca590db141477d8661a288dd51c9246e43",
       "result": "reachable"
     },
     {
@@ -5295,8 +5296,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 6842,
@@ -5347,12 +5348,12 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
-      "bytes": 53675,
-      "sha256": "e14f5a9265d18626eca8e35646dd08bdbba7dcf3bb3b9cee199d4d64af5c0d50",
+      "bytes": 53754,
+      "sha256": "6c78b15668c13ba9f236d889e6af9843bb804cce177b6515f1c525efc38c4416",
       "result": "reachable"
     },
     {
@@ -5399,8 +5400,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 223815,
@@ -5468,8 +5469,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 79665,
@@ -5537,8 +5538,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/gif",
       "bytes": 2397545,
@@ -5587,8 +5588,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 49622,
@@ -5620,8 +5621,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 60185,
@@ -5653,8 +5654,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 1326356,
@@ -5669,8 +5670,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 2676084,
@@ -5685,8 +5686,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 127962,
@@ -5701,8 +5702,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 134656,
@@ -5734,8 +5735,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 1569296,
@@ -5784,8 +5785,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 111405,
@@ -5853,8 +5854,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 88871,
@@ -5939,8 +5940,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 19844,
@@ -6042,8 +6043,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 96565,
@@ -6094,8 +6095,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 70221,
@@ -6146,8 +6147,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 68480,
@@ -6162,8 +6163,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 238934,
@@ -6314,8 +6315,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 61065,
@@ -6364,8 +6365,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/svg+xml",
       "bytes": 904482,
@@ -6431,8 +6432,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 147077,
@@ -6464,8 +6465,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 467237,
@@ -6497,8 +6498,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 594330,
@@ -6785,8 +6786,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 1730976,
@@ -6801,8 +6802,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 185044,
@@ -6852,8 +6853,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 134442,
@@ -6886,8 +6887,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 174294,
@@ -6902,8 +6903,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 144597,
@@ -6936,8 +6937,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 135170,
@@ -6969,8 +6970,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 109386,
@@ -7003,8 +7004,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 118887,
@@ -7037,8 +7038,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 296410,
@@ -7053,8 +7054,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 657221,
@@ -7069,8 +7070,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 201985,
@@ -7085,8 +7086,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 361054,
@@ -7152,8 +7153,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 17335,
@@ -7168,8 +7169,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 125758,
@@ -7219,8 +7220,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 459028,
@@ -7269,8 +7270,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 78424,
@@ -7285,8 +7286,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 37325,
@@ -7319,8 +7320,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 656769,
@@ -7369,8 +7370,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 457286,
@@ -7385,8 +7386,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 99584,
@@ -7436,8 +7437,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 13926,
@@ -7452,8 +7453,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 88735,
@@ -7486,12 +7487,12 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
-      "bytes": 56517,
-      "sha256": "9a97238739cc797edca0a86618a4fff4ff856a8685f56a2e6aa1867e52699f32",
+      "bytes": 56502,
+      "sha256": "66d1394523ca0e755b767c67c4784666975662070815f63d52e11d5863f84849",
       "result": "reachable"
     },
     {
@@ -7520,8 +7521,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 126000,
@@ -7536,8 +7537,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 170299,
@@ -7552,12 +7553,12 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 77395,
-      "sha256": "70d12968dba2b69252706a38744e32507e9a89805d101548889780caff983d58",
+      "sha256": "0da92a87e2cfefd4088b226ccf8d5e8dbd5b9938d4a76f0104f7fbdffd12c3fa",
       "result": "reachable"
     },
     {
@@ -7586,8 +7587,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 137702,
@@ -7648,12 +7649,12 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
-      "bytes": 90472,
-      "sha256": "3811f94ca42f5cbd4ecb99ba199f8e8277854bab0600236fa2d32c875c1ed294",
+      "bytes": 90459,
+      "sha256": "5d96794ffdfbbd2d258ceafada52e1fbe1baa78da9bd613cb7f66f3d16e369ba",
       "result": "reachable"
     },
     {
@@ -7682,8 +7683,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 1345876,
@@ -7698,8 +7699,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 40373,
@@ -7766,8 +7767,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 166319,
@@ -7834,8 +7835,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 1337920,
@@ -7867,8 +7868,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 65485,
@@ -7918,8 +7919,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 1716655,
@@ -7951,8 +7952,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 100710,
@@ -7985,8 +7986,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 89703,
@@ -8036,8 +8037,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 83620,
@@ -8087,8 +8088,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 224901,
@@ -8134,8 +8135,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 137027,
@@ -8185,8 +8186,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 159427,
@@ -8218,8 +8219,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 77287,
@@ -8269,8 +8270,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 102562,
@@ -8337,8 +8338,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 1380251,
@@ -8473,8 +8474,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 154470,
@@ -8544,8 +8545,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 145832,
@@ -8581,8 +8582,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 96626,
@@ -8631,8 +8632,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 175219,
@@ -8698,8 +8699,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 1170523,
@@ -8769,8 +8770,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 13077,
@@ -8806,8 +8807,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 801625,
@@ -8884,8 +8885,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 453589,
@@ -8955,8 +8956,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 5036,
@@ -8991,8 +8992,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 489511,
@@ -9111,8 +9112,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 44052,
@@ -9147,8 +9148,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 55930,
@@ -9179,8 +9180,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 88715,
@@ -9228,8 +9229,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 735345,
@@ -9280,8 +9281,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 751602,
@@ -9348,8 +9349,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 50099,
@@ -9384,8 +9385,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 180794,
@@ -9436,8 +9437,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 988349,
@@ -9484,8 +9485,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 97635,
@@ -9552,8 +9553,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 3073809,
@@ -9598,19 +9599,16 @@
     },
     {
       "url": "https://pbs.twimg.com/media/HSSh1y1WQAAdvvS.jpg?name=orig",
-      "uses": [
-        {
-          "caseId": "sourish-mri-brain",
-          "field": "imageUrl"
-        }
-      ],
-      "observedAt": "2026-10-11",
+      "uses": [],
+      "observedAt": "2026-10-12",
       "method": "Full GET and complete image decoding; new previews also actually viewed",
-      "status": 200,
+      "status": null,
       "contentType": "image/jpeg",
       "bytes": 2245875,
       "sha256": "11b593f91383268b29c4ffe9b4a227dfc66a0aa6641b4aac7c1a181433a4957d",
-      "result": "reachable"
+      "result": "transport-error",
+      "error": "Repeated incomplete TLS/connection transport; same image alternative fully fetched and verified",
+      "replacedBy": "https://pbs.twimg.com/media/HSSh1y1WQAAdvvS.jpg?name=large"
     },
     {
       "url": "https://x.com/MeshyAI/status/2101683299550925127",
@@ -9634,19 +9632,16 @@
     },
     {
       "url": "https://pbs.twimg.com/amplify_video_thumb/2101682626784571392/img/TyD5PSg5-jkCWjSx.jpg",
-      "uses": [
-        {
-          "caseId": "meshy-furniture-catalog",
-          "field": "imageUrl"
-        }
-      ],
-      "observedAt": "2026-10-11",
+      "uses": [],
+      "observedAt": "2026-10-12",
       "method": "Full GET and complete image decoding; new previews also actually viewed",
-      "status": 200,
+      "status": null,
       "contentType": "image/jpeg",
       "bytes": 68003,
       "sha256": "9f2e8ecdf0dff4457f5deb63dc0483f67a251852594da5ebea4937489d42b76b",
-      "result": "reachable"
+      "result": "transport-error",
+      "error": "Repeated incomplete TLS/connection transport; same image alternative fully fetched and verified",
+      "replacedBy": "https://pbs.twimg.com/amplify_video_thumb/2101682626784571392/img/TyD5PSg5-jkCWjSx.jpg?format=jpg&name=orig"
     },
     {
       "url": "https://www.linkedin.com/posts/humaidobaidhussain_in-the-past-7-days-ive-been-exploring-gpt-activity-7507717917245923328-fOrF",
@@ -9676,8 +9671,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 42416,
@@ -9712,8 +9707,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 90878,
@@ -9748,8 +9743,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 142229,
@@ -9826,8 +9821,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 109585,
@@ -10002,8 +9997,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 359465,
@@ -10129,8 +10124,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 153678,
@@ -10338,8 +10333,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 116658,
@@ -10740,8 +10735,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 108924,
@@ -11051,8 +11046,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 939723,
@@ -11322,8 +11317,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 1051673,
@@ -11666,8 +11661,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 106621,
@@ -11780,8 +11775,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 56300,
@@ -11842,8 +11837,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 126857,
@@ -12151,8 +12146,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 106377,
@@ -12305,8 +12300,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 413730,
@@ -12467,8 +12462,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 76900,
@@ -12583,8 +12578,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 64496,
@@ -12599,8 +12594,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 255053,
@@ -12615,8 +12610,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 254779,
@@ -12631,8 +12626,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 1531435,
@@ -12647,8 +12642,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 144142,
@@ -12663,8 +12658,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 24046,
@@ -12679,8 +12674,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 48645,
@@ -12695,8 +12690,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 236552,
@@ -12711,8 +12706,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 250003,
@@ -12727,8 +12722,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 235349,
@@ -12743,8 +12738,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 120937,
@@ -12759,8 +12754,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 1074038,
@@ -12775,12 +12770,12 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/gif",
-      "bytes": 2575937,
-      "sha256": "4de2582ec2cbc7b77ef00760e3ad10bdd9c283e143c2f70d6e224bee24a66ab8",
+      "bytes": 2505856,
+      "sha256": "56b13f62e5e28cbb40b10768eda45826a1ad9246d3c8e6ca82c79f72b34c1666",
       "result": "reachable"
     },
     {
@@ -12791,8 +12786,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 27781,
@@ -12807,8 +12802,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 93762,
@@ -12823,8 +12818,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 104229,
@@ -12839,8 +12834,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 121347,
@@ -12855,8 +12850,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 1133983,
@@ -12871,8 +12866,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 301795,
@@ -12887,8 +12882,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 172771,
@@ -12903,8 +12898,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 209524,
@@ -12919,8 +12914,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 66819,
@@ -12935,8 +12930,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 57131,
@@ -12951,8 +12946,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 46913,
@@ -12967,8 +12962,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 94252,
@@ -12983,8 +12978,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 104878,
@@ -12999,8 +12994,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 261420,
@@ -13015,8 +13010,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 35212,
@@ -13031,8 +13026,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 60905,
@@ -13047,8 +13042,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 59057,
@@ -13063,8 +13058,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 69566,
@@ -13079,8 +13074,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 45710,
@@ -13095,8 +13090,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 92200,
@@ -13111,8 +13106,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 50762,
@@ -13127,8 +13122,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 113722,
@@ -13143,8 +13138,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 145992,
@@ -13159,8 +13154,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 76860,
@@ -13175,8 +13170,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 116830,
@@ -13191,8 +13186,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 385822,
@@ -13207,8 +13202,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 230615,
@@ -13223,8 +13218,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 1458991,
@@ -13239,8 +13234,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 99415,
@@ -13255,8 +13250,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 424733,
@@ -13271,8 +13266,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 819059,
@@ -13304,8 +13299,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 673844,
@@ -13320,8 +13315,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 1679358,
@@ -13336,8 +13331,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 145141,
@@ -13352,8 +13347,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 147692,
@@ -13368,8 +13363,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 100881,
@@ -13384,12 +13379,12 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
-      "bytes": 69068,
-      "sha256": "a843664ed508e8490683a1263c3ebf0facbf7ec6e120b9a0191fdba2ea5512ed",
+      "bytes": 69647,
+      "sha256": "2ffc4473e72f0efc7db997411b951a9133649f1b2831100051bc4239ad6178e2",
       "result": "reachable"
     },
     {
@@ -13400,12 +13395,12 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
-      "bytes": 76352,
-      "sha256": "e235adb163fc98ea921327f734a2804761ede350ff2755565e6f93f38832a6af",
+      "bytes": 76406,
+      "sha256": "be9dfad8fa65934689da1506bff908a9c505e883cb22615e9aaafea0c45ff1ea",
       "result": "reachable"
     },
     {
@@ -13416,8 +13411,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 1778577,
@@ -13432,8 +13427,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 62724,
@@ -13448,8 +13443,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 95406,
@@ -13464,8 +13459,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 133396,
@@ -13480,8 +13475,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 83849,
@@ -13496,8 +13491,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 106076,
@@ -13512,8 +13507,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 88202,
@@ -13528,8 +13523,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 99427,
@@ -13544,8 +13539,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 50186,
@@ -13560,8 +13555,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpg",
       "bytes": 33088,
@@ -13576,8 +13571,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpg",
       "bytes": 429264,
@@ -13592,8 +13587,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 453983,
@@ -13608,8 +13603,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 241332,
@@ -13624,8 +13619,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 167506,
@@ -13640,8 +13635,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 267259,
@@ -13656,8 +13651,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 1525078,
@@ -13672,8 +13667,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 756028,
@@ -13688,8 +13683,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 378894,
@@ -13704,8 +13699,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 2180030,
@@ -13720,8 +13715,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 95467,
@@ -13736,8 +13731,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 74592,
@@ -13752,8 +13747,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 79085,
@@ -14037,8 +14032,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 1903452,
@@ -14053,8 +14048,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 100447,
@@ -14069,8 +14064,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 81642,
@@ -14085,8 +14080,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 132885,
@@ -14101,8 +14096,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 160596,
@@ -14117,8 +14112,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 133124,
@@ -14133,8 +14128,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 73276,
@@ -14149,8 +14144,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 4290745,
@@ -14165,8 +14160,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 1666991,
@@ -14181,8 +14176,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 21921,
@@ -14197,8 +14192,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 74268,
@@ -14213,8 +14208,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 2464723,
@@ -14229,8 +14224,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 117398,
@@ -14245,8 +14240,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/gif",
       "bytes": 3602003,
@@ -14261,8 +14256,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 387540,
@@ -14277,8 +14272,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/png",
       "bytes": 262547,
@@ -14293,8 +14288,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-11",
-      "method": "Full GET and complete image decoding; new previews also actually viewed",
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
       "status": 200,
       "contentType": "image/webp",
       "bytes": 111350,
@@ -14767,6 +14762,542 @@
       "title": "3D Seaplane · LuminaBench",
       "result": "reachable",
       "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HSSh1y1WQAAdvvS.jpg?name=large",
+      "uses": [
+        {
+          "caseId": "sourish-mri-brain",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 292190,
+      "sha256": "e604121696b28f3e8f6f96cadf9785c7d1c37bc9efe04b072b62c9e2fdaa1b09",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2101682626784571392/img/TyD5PSg5-jkCWjSx.jpg?format=jpg&name=orig",
+      "uses": [
+        {
+          "caseId": "meshy-furniture-catalog",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 117351,
+      "sha256": "214dc4438c9d85f4ca00f752f7c4ce85c001d70dd197ecbfac9c8d915ca644c2",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2109288603134095361/img/qa9H95s_BaCqmnYg.jpg",
+      "uses": [
+        {
+          "caseId": "vib3coded-plush-penguin",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 73047,
+      "sha256": "a8d43c8ee628e55bffdfb3f4038ceb33a76ad2f959f5a3f4861135dd2e8b7fd2",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2109267581756456960/img/ZPs-UcuA3Sgqh8RD.jpg",
+      "uses": [
+        {
+          "caseId": "congle-goblin-walk-comparison",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 70702,
+      "sha256": "ebf163b3e1d01f3a9a0571d7a0fb1a03020518d7e20db952e56e161ab071beaf",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2109015456447180800/img/YP5NEgWDtz4eyy9C.jpg",
+      "uses": [
+        {
+          "caseId": "vib3coded-tidepool-jelly",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 93202,
+      "sha256": "2c30633f7bcda16b7c0efd2c6c9e3641f6e6fbed39460f26df37eb304ca7831c",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2108570633617465344/img/lBxwslhXRuLoyyb0.jpg",
+      "uses": [
+        {
+          "caseId": "sgarlen-highway-car-comparison",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 134633,
+      "sha256": "cc06e0cb614b7c3e46b27123aa4704e11465367098809d2570d81eb5ffba6124",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HUOkMvkWMAAzykq.jpg?name=orig",
+      "uses": [
+        {
+          "caseId": "equacc-gaussian-splat-editor",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 318975,
+      "sha256": "e4a8a5736364159c7ecec0953e1bb2f9d19b0b191d5f2a721e3288f25c32674a",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2107995518244929536/img/zh4SjNGhMe8dPRvs.jpg",
+      "uses": [
+        {
+          "caseId": "chetan-cozy-creek",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 242463,
+      "sha256": "2d2b850ff9ba97c5ab07a1b9d61aac04e6fb2d8b626a8f2150aadf85d9da152a",
+      "result": "reachable"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pedroaugustonyo/gargantua/main/docs/images/gargantua-demo.gif",
+      "uses": [
+        {
+          "caseId": "pedro-gargantua-black-hole",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
+      "status": 200,
+      "contentType": "image/gif",
+      "bytes": 9394791,
+      "sha256": "0d492c138394c4b28c8ed1f59dd7024dc08371444a9e96ada7e039518039b9f6",
+      "result": "reachable"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Siriuslala/g1-robot-burpee/main/assets/media/transition_poster.png",
+      "uses": [
+        {
+          "caseId": "siriuslala-g1-burpee",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 22487,
+      "sha256": "b212576f3ac2dba0731091908bc688150e59ccc30faae73dd9729d5ad122119f",
+      "result": "reachable"
+    },
+    {
+      "url": "https://nitzan.games/experiments/one-shot-gta/astra-preview.png",
+      "uses": [
+        {
+          "caseId": "nitzan-palm-bay-one-shot",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 354273,
+      "sha256": "ff9896a852afbf37bb06b579657d88853afcc02d87a6b0c08505cc6fc3864716",
+      "result": "reachable"
+    },
+    {
+      "url": "https://assets.st-note.com/img/1789400912-TzR6WDPEat23ivAQSZNyXmqc.png?width=1200",
+      "uses": [
+        {
+          "caseId": "hayashimon-chibi-base-iterations",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 351468,
+      "sha256": "7f1d164a46b3b81debafbeaef8b25e080aa9eeb9d509b68d28b23d399228aa77",
+      "result": "reachable"
+    },
+    {
+      "url": "https://assets.st-note.com/img/1789496981-BTSNWPZH8bCJ7GEvKwmAFuq2.png?width=1200",
+      "uses": [
+        {
+          "caseId": "takosumi-lowpoly-character-failures",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 183776,
+      "sha256": "337e68ae13a492dc462bb758cb19f10b930ccbaf0096f9237977426f94cc80f4",
+      "result": "reachable"
+    },
+    {
+      "url": "https://i.redd.it/cogftwb0oeoh1.gif",
+      "uses": [
+        {
+          "caseId": "yo-tractor-animation",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "method": "Full GET and complete image decoding; new/restored/variant previews actually viewed",
+      "status": 200,
+      "contentType": "image/gif",
+      "bytes": 4101360,
+      "sha256": "aa1aa3cfc23d142321db12dec95073ae3c918d8ccf01482c5e56ac42e37de842",
+      "result": "reachable"
+    },
+    {
+      "url": "https://x.com/vib3coded/status/2109288662319919127",
+      "uses": [
+        {
+          "caseId": "vib3coded-plush-penguin",
+          "field": "sourceUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 154515,
+      "sha256": "a144d41001215b8011b208c2398cedc3381a5342aecaaea0f52a0601d3e8ba5e",
+      "finalUrl": "https://x.com/vib3coded/status/2109288662319919127",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://x.com/vib3coded/status/2109288858701455535",
+      "uses": [
+        {
+          "caseId": "vib3coded-plush-penguin",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 132526,
+      "sha256": "9b88787a98b99495e9b65ec1af12113c695ad974e0320832396b34fceeab5ce4",
+      "finalUrl": "https://x.com/vib3coded/status/2109288858701455535",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://x.com/CongLe/status/2109268147068862675",
+      "uses": [
+        {
+          "caseId": "congle-goblin-walk-comparison",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "congle-goblin-walk-comparison",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 139311,
+      "sha256": "b4d2cd1908cabf29c008b498ba70bbf6a41cbe42c57d0b32aa5e164da1702f03",
+      "finalUrl": "https://x.com/CongLe/status/2109268147068862675",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://x.com/vib3coded/status/2109015574177075610",
+      "uses": [
+        {
+          "caseId": "vib3coded-tidepool-jelly",
+          "field": "sourceUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 152780,
+      "sha256": "89ae69e261afed31e210bbee9b5dabca715c171a951d28c0e4d0251563ba5a4f",
+      "finalUrl": "https://x.com/vib3coded/status/2109015574177075610",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://x.com/vib3coded/status/2109016138030141473",
+      "uses": [
+        {
+          "caseId": "vib3coded-tidepool-jelly",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 134394,
+      "sha256": "45f298b6d815683124c8e765a83b41f21f2d35a0514af8d8492b1871cc174d60",
+      "finalUrl": "https://x.com/vib3coded/status/2109016138030141473",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://x.com/sgarlen01/status/2108981890493358527",
+      "uses": [
+        {
+          "caseId": "sgarlen-highway-car-comparison",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "sgarlen-highway-car-comparison",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 111789,
+      "sha256": "2146a077b170d4a4f27e79864b7c30a2365f0ee170b8a924da135d8ed4408a99",
+      "finalUrl": "https://x.com/sgarlen01/status/2108981890493358527",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://x.com/equacc/status/2108711089827647965",
+      "uses": [
+        {
+          "caseId": "equacc-gaussian-splat-editor",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "equacc-gaussian-splat-editor",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 115163,
+      "sha256": "71fb2c19e225a9f8b6387c5415855333c443cb374ae234ea7536db214c44df54",
+      "finalUrl": "https://x.com/equacc/status/2108711089827647965",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://x.com/chetanankola/status/2107996576228753545",
+      "uses": [
+        {
+          "caseId": "chetan-cozy-creek",
+          "field": "sourceUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 144305,
+      "sha256": "6a687a7a4b7440d96c511c7f222d92440a06c1b26f15fc2427aae1f88c95b9b7",
+      "finalUrl": "https://x.com/chetanankola/status/2107996576228753545",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://github.com/pedroaugustonyo/gargantua",
+      "uses": [
+        {
+          "caseId": "pedro-gargantua-black-hole",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "pedro-gargantua-black-hole",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 279502,
+      "sha256": "b28ae9ecc67c6a5da93fa61fce303be6940fd633c1dab3dd1ba9de042331f888",
+      "finalUrl": "https://github.com/pedroaugustonyo/gargantua",
+      "title": "GitHub - pedroaugustonyo/gargantua: Interactive Three.js black hole visualization inspired by Interstellar, with an animated accretion disk, approximate gravitational lensing and camera controls. · GitHub",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://github.com/Siriuslala/g1-robot-burpee",
+      "uses": [
+        {
+          "caseId": "siriuslala-g1-burpee",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "siriuslala-g1-burpee",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 263357,
+      "sha256": "c187fb7d7b720b54152dfbabc93e178d6c7a21de9b7dcff7c7656730fc9ce64c",
+      "finalUrl": "https://github.com/Siriuslala/g1-robot-burpee",
+      "title": "GitHub - Siriuslala/g1-robot-burpee: G1 Robot Performance created by GPT-6-Astra · GitHub",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://siriuslala.github.io/g1-robot-burpee/",
+      "uses": [
+        {
+          "caseId": "siriuslala-g1-burpee",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 5069,
+      "sha256": "a900f68c5f8be3fbcfb17aeb8f0ce5f37e87affe1ed217e2be6250fa3da0dcd6",
+      "finalUrl": "https://siriuslala.github.io/g1-robot-burpee/",
+      "title": "G1 Robot Performance created by GPT-6-Astra",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://github.com/nitzangames/PalmBayOneShot",
+      "uses": [
+        {
+          "caseId": "nitzan-palm-bay-one-shot",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "nitzan-palm-bay-one-shot",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 289431,
+      "sha256": "ffa40afbb672ec7b43628d74a530a594eb0a29b8d6051abb2c7d2a5b51c191f3",
+      "finalUrl": "https://github.com/nitzangames/PalmBayOneShot",
+      "title": "GitHub - nitzangames/PalmBayOneShot: Original Astra 6 one-shot Palm Bay: recovered original source, byte-identical reproducible build, and exact prompt. No later multiplayer changes. · GitHub",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://nitzan.games/experiments/one-shot-gta/astra/index.html",
+      "uses": [
+        {
+          "caseId": "nitzan-palm-bay-one-shot",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 5892,
+      "sha256": "ecdfd51f7ce44020beff348b899026ca4231835f4b2e9547ff01b8a4fcb9de28",
+      "finalUrl": "https://nitzan.games/experiments/one-shot-gta/astra/index.html",
+      "title": "Palm Bay — Take the long way.",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://github.com/nitzangames/PalmBayOneShot/blob/main/prompt.txt",
+      "uses": [
+        {
+          "caseId": "nitzan-palm-bay-one-shot",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 221521,
+      "sha256": "7386050f1628deaa74ff2f36c4c4fa4fd8b8211584107ac59080e2c1f39bb004",
+      "finalUrl": "https://github.com/nitzangames/PalmBayOneShot/blob/main/prompt.txt",
+      "title": "PalmBayOneShot/prompt.txt at main · nitzangames/PalmBayOneShot · GitHub",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://note.com/limber_newt6087/n/n9aa3f59656cd",
+      "uses": [
+        {
+          "caseId": "hayashimon-chibi-base-iterations",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "hayashimon-chibi-base-iterations",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 480996,
+      "sha256": "773efc8b0d4b311ac35fbd38a216e392281111fa053c25c779a5c7b1c266b1fd",
+      "finalUrl": "https://note.com/limber_newt6087/n/n9aa3f59656cd",
+      "title": "AstraだけでBlenderで3Dちびキャラをつくって検証してみた｜ハヤシモン/AIで3Dとアプリ開発",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://note.com/takosumisann/n/n0dd12bcbbce0",
+      "uses": [
+        {
+          "caseId": "takosumi-lowpoly-character-failures",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "takosumi-lowpoly-character-failures",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-12",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 442861,
+      "sha256": "00a7adafbdea1f431683ba5e89db3edada4774b12c1ac3fcfaf2311a171ce15f",
+      "finalUrl": "https://note.com/takosumisann/n/n0dd12bcbbce0",
+      "title": "貧乏人がAstraにゲーム用3Dキャラクターを作ってもらおうとした話｜たこすみ",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
     }
   ],
   "previousImageUrls": [
@@ -14923,6 +15454,22 @@
       "accessLimitations": [
         "Reddit original localGET403; public web reader and matching author YouTube provided attribution. X direct originalGET200 with author/model/timestamp matches; media metadata from exact FxTwitter secondary endpoints."
       ]
+    },
+    {
+      "checkedAt": "2026-10-12",
+      "scope": "313 baseline previews,11 new cases,1 restored case,2 source-image variant repairs;16 new source/repository/demo/prompt URLs. Not full historical source or gameplay re-audit.",
+      "baselineCases": 313,
+      "newCaseCount": 11,
+      "restoredCaseIds": [
+        "yo-tractor-animation"
+      ],
+      "repairedCaseIds": [
+        "sourish-mri-brain",
+        "meshy-furniture-catalog"
+      ],
+      "removedCaseIds": [],
+      "resultingCases": 325,
+      "validatedCurrentCasePreviews": 325
     }
   ]
 }

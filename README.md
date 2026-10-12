@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-10-11（Asia/Shanghai）**：**301 条 Astra 案例** · **89 条源码 / 工程** · **107 个演示入口** · **130 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-10-12（Asia/Shanghai）**：**313 条 Astra 案例** · **92 条源码 / 工程** · **109 个演示入口** · **135 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -44,18 +44,18 @@
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-2026-10-11 本轮生产构建实拍。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+2026-10-12 本轮生产构建实拍。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
-<summary>查看案例区、手机与作品详情实拍 · 2026-10-11</summary>
+<summary>查看案例区、手机与作品详情实拍 · 2026-10-12</summary>
 
-[![案例区：筛选与更多作品](docs/media/collection-2026-10-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![案例区：筛选与更多作品](docs/media/collection-2026-10-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端：精选作品与材料导航](docs/media/mobile-2026-10-11.jpg)
+![手机端：精选作品与材料导航](docs/media/mobile-2026-10-12.jpg)
 
-[![作品详情：Castle Jelly 双模型成果、完整录像与来源](docs/media/case-2026-10-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-castle-jelly/)
+[![作品详情：Plush Penguin 双模型成果、完整录像与来源](docs/media/case-2026-10-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-plush-penguin/)
 
 </details>
 
@@ -63,19 +63,19 @@
 
 这里按本库收录日期排列；作品首次发布、模型配置与核查日期在各档案中分别记录。稳定精选不随日更替换。
 
-10 月 11 日本轮新增收录 **16 件作品**：糖果城堡与产品片对照、NVIDIA 仿真合集、南大校园漫游、Stanford 可编辑建筑及 Blender 音乐短片等；新增 **6 段完整 X 录像**。既有 **297 条记录的成果预览**已完成全量 GET 与解码复查，本轮无需下架。新增指本库收录，作品首发日期另行标注。
+10 月 12 日本轮新增收录 **11 件作品**：毛绒企鹅、哥布林走路对照、黑洞着色器、Palm Bay 驾驶沙盒及机器人动作等；新增 **5 段完整 X 录像**。同时恢复 [**1 件拖拉机案例**](https://carpentry-liu.github.io/awesome-astra-3d/cases/yo-tractor-animation/)，修复 **2 张历史预览**。这里的新增指本库收录，作品首发日期分别记录；恢复记录保留原收录日。
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
-| [Castle Jelly：糖果岩层城堡、瀑布与双模型对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-castle-jelly/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2108649845405929924) |
-| [ORBIT：三维智能手表产品片的四模型对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/maker-evan-orbit-watch/) | chacha / @maker_evan | [原始来源](https://x.com/maker_evan/status/2108438685184401904) |
-| [NVIDIA Omniverse：仓库、机器人运动与空间重建仿真合集](https://carpentry-liu.github.io/awesome-astra-3d/cases/nvidia-frontier-simulation-collection/) | NVIDIA Writers / Frank DeLise、Doyub Kim、Ashley Reid 等 | [原始来源](https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/) |
-| [鼓楼：南大校园步行、骑行与滑翔](https://carpentry-liu.github.io/awesome-astra-3d/cases/wangjiahao-gulou-campus/) | Zackaria / wang-jiahao | [演示](https://wang-jiahao.github.io/gulou/) · [源码](https://github.com/wang-jiahao/gulou) · [原始来源](https://github.com/wang-jiahao/gulou) |
-| [Stanford in Blender：五组可编辑校园建筑](https://carpentry-liu.github.io/awesome-astra-3d/cases/minsik-stanford-blender/) | Minsik / minsik-ai | [源码](https://github.com/minsik-ai/stanford-in-blender) · [原始来源](https://github.com/minsik-ai/stanford-in-blender) |
-| [AH-64E Apache：旋翼、机体与多视角三维展示](https://carpentry-liu.github.io/awesome-astra-3d/cases/maker-evan-apache/) | chacha / @maker_evan | [原始来源](https://x.com/maker_evan/status/2108475056082850278) |
-| [Inside a Turbofan：发动机剖面、气流与教学对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/maker-evan-jet-engine/) | chacha / @maker_evan | [原始来源](https://x.com/maker_evan/status/2108459952683811167) |
-| [Leave a Way：折尺变桥的两分钟 Blender 音乐短片](https://carpentry-liu.github.io/awesome-astra-3d/cases/mika-leave-a-way/) | Mika / u/mika314 / @mika314 | [原始来源](https://www.reddit.com/r/AgentsOfAI/comments/1x19gzq/one_3kword_prompt_no_steering_gpt6_astra_ultra/) |
+| [Plush Penguin：毛绒企鹅、翻倒与双模型材质对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-plush-penguin/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2109288662319919127) |
+| [Gargantua：可环绕观察的吸积盘与弯曲光线](https://carpentry-liu.github.io/awesome-astra-3d/cases/pedro-gargantua-black-hole/) | Pedro Augusto / pedroaugustonyo | [源码](https://github.com/pedroaugustonyo/gargantua) · [原始来源](https://github.com/pedroaugustonyo/gargantua) |
+| [同一哥布林任务：Blender 六模型外形与走路对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/congle-goblin-walk-comparison/) | Cong Le / @CongLe | [原始来源](https://x.com/CongLe/status/2109268147068862675) |
+| [Tidepool Jelly：潮池海岸切片与三维生态对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-tidepool-jelly/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2109015574177075610) |
+| [Palm Bay：驾驶、撞毁与换车的原始开放城市沙盒](https://carpentry-liu.github.io/awesome-astra-3d/cases/nitzan-palm-bay-one-shot/) | Nitzan / nitzangames | [演示](https://nitzan.games/experiments/one-shot-gta/astra/index.html) · [源码](https://github.com/nitzangames/PalmBayOneShot) · [原始来源](https://github.com/nitzangames/PalmBayOneShot) |
+| [Cozy Creek / Hiroshi’s Island：林间溪流与网页漫游](https://carpentry-liu.github.io/awesome-astra-3d/cases/chetan-cozy-creek/) | Chetan Ankola / @chetanankola | [原始来源](https://x.com/chetanankola/status/2107996576228753545) |
+| [G1 舞台波比跳：搬运支架、俯卧撑与跳跃仿真](https://carpentry-liu.github.io/awesome-astra-3d/cases/siriuslala-g1-burpee/) | Siriuslala | [演示](https://siriuslala.github.io/g1-robot-burpee/) · [源码](https://github.com/Siriuslala/g1-robot-burpee) · [原始来源](https://github.com/Siriuslala/g1-robot-burpee) |
+| [高速公路：红色跑车、摄像机与双模型网页场景](https://carpentry-liu.github.io/awesome-astra-3d/cases/sgarlen-highway-car-comparison/) | sgarlen / @sgarlen01 | [原始来源](https://x.com/sgarlen01/status/2108981890493358527) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)

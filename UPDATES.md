@@ -2,6 +2,22 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-12 · 11 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Plush Penguin：毛绒企鹅、翻倒与双模型材质对照 / Plush Penguin — A WebGPU Soft Toy Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-plush-penguin/) | Vib3Coded / @vib3coded | 完整视频 · 提示词 / 过程 |
+| [Gargantua：可环绕观察的吸积盘与弯曲光线 / Gargantua — An Orbitable Accretion Disk and Curved Light](https://carpentry-liu.github.io/awesome-astra-3d/cases/pedro-gargantua-black-hole/) | Pedro Augusto / pedroaugustonyo | 源码 / 工程 |
+| [同一哥布林任务：Blender 六模型外形与走路对照 / Same Goblin Brief — A Six-model Blender Walking Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/congle-goblin-walk-comparison/) | Cong Le / @CongLe | 完整视频 · 提示词 / 过程 |
+| [Tidepool Jelly：潮池海岸切片与三维生态对照 / Tidepool Jelly — A Miniature Coastal Ecosystem Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-tidepool-jelly/) | Vib3Coded / @vib3coded | 完整视频 · 提示词 / 过程 |
+| [Palm Bay：驾驶、撞毁与换车的原始开放城市沙盒 / Palm Bay — The Preserved One-Shot Driving Sandbox](https://carpentry-liu.github.io/awesome-astra-3d/cases/nitzan-palm-bay-one-shot/) | Nitzan / nitzangames | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [Cozy Creek / Hiroshi’s Island：林间溪流与网页漫游 / Cozy Creek / Hiroshi’s Island — A Woodland Browser Scene](https://carpentry-liu.github.io/awesome-astra-3d/cases/chetan-cozy-creek/) | Chetan Ankola / @chetanankola | 完整视频 |
+| [G1 舞台波比跳：搬运支架、俯卧撑与跳跃仿真 / G1 Stage Burpee — Carrying, Push-Ups and Jumping in MuJoCo](https://carpentry-liu.github.io/awesome-astra-3d/cases/siriuslala-g1-burpee/) | Siriuslala | 源码 / 工程 · 演示入口 |
+| [高速公路：红色跑车、摄像机与双模型网页场景 / Highway Car — A Browser 3D Scene Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/sgarlen-highway-car-comparison/) | sgarlen / @sgarlen01 | 完整视频 · 提示词 / 过程 |
+| [Gaussian Splat 编辑器：灯塔场景与作者工作流展示 / Gaussian Splat Editor — An Author-shared Lighthouse Scene](https://carpentry-liu.github.io/awesome-astra-3d/cases/equacc-gaussian-splat-editor/) | duck engineer / @equacc | 提示词 / 过程 |
+| [护目镜小角色：素体、关节与衣装的多轮修正 / Goggled Chibi — Body, Joint and Outfit Iterations](https://carpentry-liu.github.io/awesome-astra-3d/cases/hayashimon-chibi-base-iterations/) | ハヤシモン / Hayashimon | 提示词 / 过程 |
+| [黑外套低模角色：两轮建模失败与分工反思 / Hooded Low-Poly Character — Two Failed Modeling Attempts](https://carpentry-liu.github.io/awesome-astra-3d/cases/takosumi-lowpoly-character-failures/) | たこすみ / Takosumi | 提示词 / 过程 |
+
 ## 2026-10-11 · 16 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
@@ -308,7 +324,7 @@
 | [立方体城市：图像参考与 Blender 建模 / Cube City from an Image Reference](https://carpentry-liu.github.io/awesome-astra-3d/cases/will-cube-city/) | いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram / @old_pgmrs_will | 完整视频 |
 | [塔林旧城：场景资产、三维预演与 H3 成片 / Tallinn Scene and Previsualization](https://carpentry-liu.github.io/awesome-astra-3d/cases/yachimat-tallinn/) | yachimat - AI Short Anime / @yachimat_manga | 完整视频 |
 
-## 2026-09-10 · 22 个案例
+## 2026-09-10 · 23 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
@@ -334,6 +350,7 @@
 | [Tripo 角色：服装 UV 与贴图修整 / Tripo Character Texture Repair](https://carpentry-liu.github.io/awesome-astra-3d/cases/syaripin-tripo-texture/) | syaripin-i8i | 提示词 / 过程 |
 | [硬表面与曲面：多类 Blender 建模实测 / Hard Surface and Curved Modeling Tests](https://carpentry-liu.github.io/awesome-astra-3d/cases/ehuilanse-hard-surface/) | E灰蓝色 | 作者展示 |
 | [木箱到 Unity：建模、烘焙与导入 / Wooden Crate to Unity](https://carpentry-liu.github.io/awesome-astra-3d/cases/teardownlab-wooden-crate/) | teardownlab | 提示词 / 过程 |
+| [拖拉机总成：长时间建模与动画实验 / Tractor Modeling and Animation](https://carpentry-liu.github.io/awesome-astra-3d/cases/yo-tractor-animation/) | yo_hello_123 | 提示词 / 过程 |
 
 ## 2026-09-09 · 36 个案例
 

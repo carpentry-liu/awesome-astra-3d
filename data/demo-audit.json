@@ -1,6 +1,6 @@
 {
-  "observedAt": "2026-10-11",
-  "method": "Incremental full GET of three new demo entry pages. Gulou startup actually viewed in the browser; not a full playthrough or independent physics/hardware validation. Historical entries retain dates.",
+  "observedAt": "2026-10-12",
+  "method": "Incremental full GET of two new author demo entry pages; not complete playthrough or independent simulation validation. Historical observations keep their dates.",
   "results": [
     {
       "id": "openai-sunwake",
@@ -748,6 +748,26 @@
       "observedAt": "2026-10-11",
       "result": "reachable",
       "method": "Full HTTP GET; not complete gameplay"
+    },
+    {
+      "id": "siriuslala-g1-burpee",
+      "url": "https://siriuslala.github.io/g1-robot-burpee/",
+      "status": 200,
+      "title": "G1 Robot Performance created by GPT-6-Astra",
+      "finalUrl": "https://siriuslala.github.io/g1-robot-burpee/",
+      "observedAt": "2026-10-12",
+      "result": "reachable",
+      "method": "Full HTTP GET; no gameplay or independent simulation verification"
+    },
+    {
+      "id": "nitzan-palm-bay-one-shot",
+      "url": "https://nitzan.games/experiments/one-shot-gta/astra/index.html",
+      "status": 200,
+      "title": "Palm Bay — Take the long way.",
+      "finalUrl": "https://nitzan.games/experiments/one-shot-gta/astra/index.html",
+      "observedAt": "2026-10-12",
+      "result": "reachable",
+      "method": "Full HTTP GET; no gameplay or independent simulation verification"
     }
   ]
 }
