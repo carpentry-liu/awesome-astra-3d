@@ -78,7 +78,11 @@ npm start
 | 网站实拍与 Markdown | 双语 README 共用四张新真实截图，原生像素未修改；`public/share.jpg` 与首页图完全一致；76 个本地 Markdown 引用均存在；`git diff --check` 通过 |
 | 历史事实与文件边界 | 311 条旧案例事实保持不变；另外两条只修正预览版本、核查日期及说明，既有 260 个视频文件、hash 与下载 / 播放地址保持不变，仅同步家具封面的 poster 地址。MP4、调研与发布脚本、构建产物及迁移材料不提交，当前仅保留四张 README 截图 |
 
-本地检查与媒体归档已完成，Pages 工作流及生产站发布结果在实际部署后回写。本轮未部署 ChatGPT Site。
+内容版本 `b091c72` 已由 [Pages 工作流](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/38192292384) 发布，build / deploy 均成功；工作流获取并校验全部 135 个完整播放文件。
+
+生产站完整 GET 核对通过：325 条公开事实与本地一致，11 件新增、1 件恢复和2张修复预览对应的 28 个中英详情均匹配当前来源、日期与模型说明；679 个 sitemap 地址一致。五个新 MP4 的 MIME、字节与 SHA-256 匹配，既有 260 个媒体文件的 hash 未改写；四张 GitHub 截图、两份 README 和网站分享图与本地一致。生产文件检查与本地实际播放分别记录，不代表本库重建作者工程。
+
+常规 Git HTTPS 推送发生连接重置与超时后，改用 GitHub API 上传完全相同的 Git blob、tree 和 commit；提交 SHA 与已审查的本地提交一致，远程父提交核对后以 `force=false` 更新，未改写历史。调研与发布辅助脚本仍留在忽略目录。本轮未部署 ChatGPT Site。
 
 ## 对外引用
 
