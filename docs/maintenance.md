@@ -79,7 +79,9 @@ npm start
 | 网站实拍与 Markdown | 四张真实截图已替换，原生像素未修改；`public/share.jpg` 与当前首页图一致；76 个本地 Markdown 引用均存在；`git diff --check` 通过 |
 | 历史事实与仓库边界 | 297 条旧案例事实与 248 条旧视频清单逐项保持不变；MP4、调研下载、发布脚本、构建产物及迁移材料均位于忽略目录，仓库只保留当前 README 使用的四张截图 |
 
-本地检查已完成。GitHub Pages 工作流与生产站发布结果在实际部署后回写；本轮未部署 ChatGPT Site。
+内容版本 `ff845b3` 已由 [Pages 工作流](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/38149133982) 发布，build / deploy 均成功，工作流获取并校验全部 130 个完整播放文件。生产站完整 GET 核对通过：313 条公开事实与本地一致，32 个新增双语详情及 653 个 sitemap 地址匹配，六个新 MP4 的 MIME、字节与 hash 一致，四张 GitHub 截图、双语 README 与网站分享图也与本地一致。首次详情传输不完整已拒用，独立重试后完整检查通过。
+
+本轮未部署 ChatGPT Site。视频已在本地真实浏览器完整播放；上述生产检查属于文件与页面核对，不代表独立复现第三方工程。
 
 ## 对外引用
 
