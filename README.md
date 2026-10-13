@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-10-12（Asia/Shanghai）**：**320 条 Astra 案例** · **94 条源码 / 工程** · **110 个演示入口** · **138 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-10-13（Asia/Shanghai）**：**326 条 Astra 案例** · **95 条源码 / 工程** · **111 个演示入口** · **140 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -44,18 +44,18 @@
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-2026-10-12 下午生产构建实拍。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+2026-10-13 本轮生产构建实拍。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
-<summary>查看案例区、手机与作品详情实拍 · 2026-10-12</summary>
+<summary>查看案例区、手机与作品详情实拍 · 2026-10-13</summary>
 
-[![案例区：筛选与更多作品](docs/media/collection-2026-10-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![案例区：筛选与更多作品](docs/media/collection-2026-10-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端：精选作品与材料导航](docs/media/mobile-2026-10-12.jpg)
+![手机端：精选作品与材料导航](docs/media/mobile-2026-10-13.jpg)
 
-[![作品详情：Plush Marlin 双模型成果、完整录像与来源](docs/media/case-2026-10-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-plush-marlin/)
+[![作品详情：Plush Octopus 章鱼交互成果、完整录像与来源](docs/media/case-2026-10-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/shmopix-plush-octopus/)
 
 </details>
 
@@ -63,19 +63,19 @@
 
 这里按本库收录日期排列；作品首次发布、模型配置与核查日期在各档案中分别记录。稳定精选不随日更替换。
 
-10 月 12 日下午补充 **7 件作品**：DXF 室内初模、分体键盘、拼装摩托、Hallowmere RPG、洛伦兹铜雕、毛绒旗鱼和蜂蜜笔记本；新增 **3 段完整 X 录像**，其中锦鲤池对照并入原案例。今日累计收录 **18 件作品、8 段完整录像**；上午恢复 1 件拖拉机案例并修复 2 张历史预览。收录日与作品首发日分别记录，迭代视频不重复计为新作。
+10 月 13 日新增收录 **6 件作品**：毛绒章鱼、锤头鲨、Corner Mart 经营游戏、NOA BOT 设备显示、角色 IK 与陶龙近似建模，保存 **2 段完整 X 录像**。另为已有 LEGO-Anything 补充 Explorer 和两张 Astra 实际重建图，保留原收录日期。部分作品为此前漏收；首发日期与模型、人工分工分别记录，不把迭代材料重复计为新作。
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
+| [Plush Octopus：绒面章鱼、触腕弯折与软体翻倒](https://carpentry-liu.github.io/awesome-astra-3d/cases/shmopix-plush-octopus/) | shmopix / @shmopixbzn | [原始来源](https://x.com/shmopixbzn/status/2109323102912156142) |
+| [Corner Mart：可编辑便利店、顾客清单与三分钟经营](https://carpentry-liu.github.io/awesome-astra-3d/cases/ericyanpek-corner-mart/) | ericyanpek | [源码](https://github.com/ericyanpek/game-sample-corner-mart) · [原始来源](https://github.com/ericyanpek/game-sample-corner-mart) |
+| [Plush Hammerhead：大眼锤头鲨与双模型软体对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-plush-hammerhead/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2108486895344767283) |
+| [NOA BOT：Blender 机器人到 VRM 与 CODE27 显示](https://carpentry-liu.github.io/awesome-astra-3d/cases/kawachan-noa-bot-code27/) | カワちゃん / Kawa-chan / NOA工房 | [原始来源](https://note.com/jinken777/n/n8bdf2c2e1dfa) |
+| [Mika 换脚姿态：初模、IK 与放弃的制作路线](https://carpentry-liu.github.io/awesome-astra-3d/cases/kinshikou-mika-ik-workflow/) | キンシコウ研究所 / Kinshikou Lab | [原始来源](https://note.com/kinshikou_lab/n/n22880f781568) |
+| [四张陶龙照片到近似几何：Astra 初模与 Sol 接手](https://carpentry-liu.github.io/awesome-astra-3d/cases/uzura-ceramic-dragon-phase1/) | 高垣うずら / Takagaki Uzura | [原始来源](https://note.com/glad_frog1869/n/ncf626de0c303) |
 | [DXF 到 1LDK：3ds Max 初模与后续分工](https://carpentry-liu.github.io/awesome-astra-3d/cases/onemorevision-dxf-3dsmax-interior/) | One More Vision / 入江達也（STUDIO55） | [原始来源](https://note.com/onemorevision/n/n3ce66cf6ae2f) |
 | [Plush Marlin：毛绒旗鱼与夸张软体变形对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-plush-marlin/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2108850731750940711) |
-| [Hallowmere：火炬村庄、角色战斗与多人暗黑 RPG](https://carpentry-liu.github.io/awesome-astra-3d/cases/miguelsolorio-hallowmere/) | Miguel Solorio / miguelsolorio | [演示](https://miguelsolorio.github.io/hallowmere/) · [源码](https://github.com/miguelsolorio/hallowmere) · [原始来源](https://github.com/miguelsolorio/hallowmere) |
-| [分体键盘 v3.2：白模外观、内部结构与干涉检查](https://carpentry-liu.github.io/awesome-astra-3d/cases/hiroyasu-split-keyboard-blender/) | Hiroyasu / compoundworksjp | [原始来源](https://note.com/compoundworksjp/n/ndcba7effd5b7) |
-| [One Equation, Three Worlds：同一洛伦兹轨迹的铜雕、水墨与光](https://carpentry-liu.github.io/awesome-astra-3d/cases/davis-three-worlds-copper/) | Davis / davisbuilds | [源码](https://github.com/davisbuilds/oneshots/tree/main/runs/three-worlds-chatgpt) · [原始来源](https://github.com/davisbuilds/oneshots/tree/main/runs/three-worlds-chatgpt) |
-| [Honey Laptop：蜂蜜果冻笔记本与部件切开对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/harry-honey-laptop/) | Harry Jackson / @keydol123 | [原始来源](https://x.com/keydol123/status/2108822897561399764) |
-| [照片到拼装摩托：部件修正、装配指引与实物打印](https://carpentry-liu.github.io/awesome-astra-3d/cases/mori-motorcycle-print-kit/) | もりの工作室 / Mori Kousaku | [原始来源](https://note.com/mori_kousaku/n/n3b6c5cf4bb95) |
-| [Plush Penguin：毛绒企鹅、翻倒与双模型材质对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-plush-penguin/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2109288662319919127) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)

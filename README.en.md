@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-12 (Asia/Shanghai)** · **320 Astra examples** · **94 source / project links** · **110 demo links** · **138 complete videos** · **12 separate references**.
+Updated **2026-10-13 (Asia/Shanghai)** · **326 Astra examples** · **95 source / project links** · **111 demo links** · **140 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -44,18 +44,18 @@ Open an image for the case, materials and known limitations. This selection stay
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Production build screenshots from the October 12, 2026 afternoon iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Production build screenshots from the October 13, 2026 iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
-<summary>Gallery, mobile and case screenshots · October 12, 2026</summary>
+<summary>Gallery, mobile and case screenshots · October 13, 2026</summary>
 
-[![Gallery filters and more works](docs/media/collection-2026-10-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Gallery filters and more works](docs/media/collection-2026-10-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-10-12.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-10-13.jpg)
 
-[![Plush Marlin case page with complete footage and attribution](docs/media/case-2026-10-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-plush-marlin/)
+[![Plush Octopus case page with complete footage and attribution](docs/media/case-2026-10-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/shmopix-plush-octopus/)
 
 </details>
 
@@ -63,19 +63,19 @@ Production build screenshots from the October 12, 2026 afternoon iteration. Brow
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The October 12 afternoon update adds **7 works**: a DXF interior, a split keyboard, a printed motorcycle kit, Hallowmere RPG, a Lorenz copper sculpture, Plush Marlin and Honey Laptop. **Three complete X clips** include a koi-pond comparison attached to its existing case. Today totals **18 additions and 8 complete clips**; the morning update also restored one tractor case and repaired two historical previews. Collection and original publication dates remain separate; later versions do not inflate the case count.
+The October 13 update adds **6 works**: Plush Octopus, Plush Hammerhead, Corner Mart, NOA BOT, an IK workflow and a ceramic-dragon approximation, with **2 complete X clips**. The existing LEGO-Anything case gains an Explorer and two actual Astra reconstruction images while keeping its original collection date. Some works were previously missed; publication dates, model roles and human work remain separate, and later materials do not inflate case totals.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [Plush Octopus — A Velvet Toy and Bendable Arms](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/shmopix-plush-octopus/) | shmopix / @shmopixbzn | [Original](https://x.com/shmopixbzn/status/2109323102912156142) |
+| [Corner Mart — Editable Storefront, Shopping Lists and Three-Minute Trading](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ericyanpek-corner-mart/) | ericyanpek | [Source](https://github.com/ericyanpek/game-sample-corner-mart) · [Original](https://github.com/ericyanpek/game-sample-corner-mart) |
+| [Plush Hammerhead — A Wide-Eyed Soft Toy Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-plush-hammerhead/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2108486895344767283) |
+| [NOA BOT — Blender Robot to VRM and a CODE27 Display](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kawachan-noa-bot-code27/) | カワちゃん / Kawa-chan / NOA工房 | [Original](https://note.com/jinken777/n/n8bdf2c2e1dfa) |
+| [Mika Foot-Swap Pose — Initial Model, IK and an Abandoned Workflow](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kinshikou-mika-ik-workflow/) | キンシコウ研究所 / Kinshikou Lab | [Original](https://note.com/kinshikou_lab/n/n22880f781568) |
+| [Four Ceramic Dragon Photos to Approximate Geometry — Astra and a Sol Handoff](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/uzura-ceramic-dragon-phase1/) | 高垣うずら / Takagaki Uzura | [Original](https://note.com/glad_frog1869/n/ncf626de0c303) |
 | [DXF to a 1LDK Interior — 3ds Max Modeling and Handoffs](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/onemorevision-dxf-3dsmax-interior/) | One More Vision / 入江達也（STUDIO55） | [Original](https://note.com/onemorevision/n/n3ce66cf6ae2f) |
 | [Plush Marlin — A Soft Toy Shape and Motion Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-plush-marlin/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2108850731750940711) |
-| [Hallowmere — Torchlit Villages, Combat and Cooperative RPG](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/miguelsolorio-hallowmere/) | Miguel Solorio / miguelsolorio | [Demo](https://miguelsolorio.github.io/hallowmere/) · [Source](https://github.com/miguelsolorio/hallowmere) · [Original](https://github.com/miguelsolorio/hallowmere) |
-| [Split Keyboard v3.2 — Blender Mockup and Clearance Review](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/hiroyasu-split-keyboard-blender/) | Hiroyasu / compoundworksjp | [Original](https://note.com/compoundworksjp/n/ndcba7effd5b7) |
-| [One Equation, Three Worlds — A Lorenz Curve in Copper, Ink and Light](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/davis-three-worlds-copper/) | Davis / davisbuilds | [Source](https://github.com/davisbuilds/oneshots/tree/main/runs/three-worlds-chatgpt) · [Original](https://github.com/davisbuilds/oneshots/tree/main/runs/three-worlds-chatgpt) |
-| [Honey Laptop — A Jelly Notebook Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/harry-honey-laptop/) | Harry Jackson / @keydol123 | [Original](https://x.com/keydol123/status/2108822897561399764) |
-| [Photo to a Motorcycle Kit — Fit Revisions and a Physical Print](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/mori-motorcycle-print-kit/) | もりの工作室 / Mori Kousaku | [Original](https://note.com/mori_kousaku/n/n3b6c5cf4bb95) |
-| [Plush Penguin — A WebGPU Soft Toy Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-plush-penguin/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2109288662319919127) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

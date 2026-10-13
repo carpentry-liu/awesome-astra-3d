@@ -5168,6 +5168,477 @@
         "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-12-afternoon",
         "externalAuthorVideosArchived": false
       }
+    },
+    {
+      "observedAt": "2026-10-13",
+      "checkedAtUtc": "2026-10-13T12:35:58.166540+00:00",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "addedCaseIds": [
+        "shmopix-plush-octopus",
+        "ericyanpek-corner-mart",
+        "vib3coded-plush-hammerhead",
+        "kawachan-noa-bot-code27",
+        "kinshikou-mika-ik-workflow",
+        "uzura-ceramic-dragon-phase1"
+      ],
+      "updatedCaseIds": [
+        "lego-anything-scene-reconstruction"
+      ],
+      "removedCaseIds": [],
+      "baselineCount": 332,
+      "resultingCount": 338,
+      "socialCoverage": {
+        "date": "2026-10-13",
+        "timezone": "Asia/Shanghai",
+        "baselineRecords": 332,
+        "baselineAstraCases": 320,
+        "newCases": 2,
+        "queries": [
+          "site:x.com \"Astra\" \"3D\" \"Oct 13, 2026\"",
+          "site:x.com \"Astra\" \"Blender\" \"Oct 12\"",
+          "site:x.com \"Astra\" \"Three.js\" latest",
+          "\"Astra\" \"vib3coded\"",
+          "\"GPT-6 Astra\" \"3D\"",
+          "\"Astra\" \"keydol123\"",
+          "site:3d-prompt.com Astra latest",
+          "\"GPT-6 Astra\" \"Oct 12, 2026\"",
+          "\"GPT-6 Astra\" \"Oct 13, 2026\"",
+          "\"Astra\" \"plush\" \"shmopix\""
+        ],
+        "discoveryPages": [
+          "https://3d-prompt.com/",
+          "https://3d-prompt.com/page/2",
+          "https://3d-prompt.com/page/3",
+          "https://3d-prompt.com/page/4",
+          "https://hyper3d.ai/3d-prompts/models/gpt-6-astra",
+          "https://3d-prompt.com/prompts/interactive-plush-octopus-webgpu-experience",
+          "https://3d-prompt.com/prompts/plush-hammerhead-webgpu-soft-body"
+        ],
+        "acceptedSourceUrls": [
+          "https://x.com/shmopixbzn/status/2109323102912156142",
+          "https://x.com/vib3coded/status/2108486895344767283"
+        ],
+        "sourceDateLimit": "章鱼上海首发2026-10-12，锤头鲨首发2026-10-09；均2026-10-13收录及核查，未证实10月13日首发新X作品。",
+        "deduplication": "332条事实、276个视频清单中精确主帖与媒体ID不重复。章鱼无已有同作；锤头鲨宽锤头和双眼不同于毛绒旗鱼、企鹅，提示及原帖独立；同任务两模型结果只计一case。Honey Keyboard、潮池、企鹅、车道和哥布林已收录，不重复计数。",
+        "rejected": [
+          {
+            "url": "https://x.com/eliancodex/status/2108976915449012592",
+            "reason": "整理页误标Astra，原主帖实际GPT-6 Luna与Grok4.7"
+          },
+          {
+            "url": "https://x.com/itsfazley/status/2108574047948656981",
+            "reason": "整理页误标Astra，原主帖实际Sonnet5.5与GPT-6 Luna"
+          },
+          {
+            "url": "https://x.com/ashebytes/status/2109060292667982172",
+            "reason": "原主帖泛提Astra或Opus建议，没有确认录像采用哪模型，归属不明"
+          },
+          {
+            "url": "https://x.com/adxtyahq/status/2081022802593984646",
+            "reason": "整理页误标Astra，原作7月25日KimiK3与Opus5"
+          },
+          {
+            "url": "https://x.com/thebuggeddev/status/2096467585785286808",
+            "reason": "原作者Astra归属明确，但首发9月6日，属于早期历史遗漏，未为本轮近期更新扩大收录范围；不将jared10月12日重建日期代替原作日期"
+          }
+        ],
+        "limitations": [
+          "web普通搜索查询为空；search_service和可达整理页仅用作发现，归属从原始X完整GET与精确同帖元数据核对。",
+          "Tripo官网及Twstalker本轮访问受限，原始X页面完整GET200并保留，不能以公共搜索读不到推断原帖删除。",
+          "未取得工程文件，也没有执行作者代码；提示词中的全部算法、交互和性能不作为独立已验证功能。",
+          "章鱼平台低码率文件的null输出告警已记录；严格rawvideo/framemd5全长解码零错，根须另做真实原生播放器至ended检查后再发布。"
+        ]
+      },
+      "repositoryCoverage": {
+        "observedAt": "2026-10-13",
+        "timezone": "Asia/Shanghai",
+        "scope": "332条基线全字段作品/来源去重；GitHub原作者About/README、近期项目网站、科研评估成果与媒体。",
+        "queries": [
+          {
+            "method": "GitHub repository API",
+            "query": "\"gpt-6-astra\" in:readme blender",
+            "totalResults": 369,
+            "fetchedPageSize": 100
+          },
+          {
+            "method": "GitHub repository API",
+            "query": "\"GPT-6 Astra\" in:readme three.js",
+            "totalResults": 485,
+            "fetchedPageSize": 100
+          },
+          {
+            "method": "GitHub repository API",
+            "query": "\"Astra\" in:readme \"screenshot\" 3d pushed:>=2026-10-12",
+            "totalResults": 178,
+            "fetchedPageSize": 100
+          },
+          {
+            "method": "GitHub repository API",
+            "query": "\"Astra\" 3D in:description pushed:>=2026-10-10",
+            "totalResults": 10,
+            "fetchedPageSize": 10
+          },
+          {
+            "method": "GitHub repository API",
+            "query": "\"GPT-6 Astra\" godot in:readme pushed:>=2026-10-09",
+            "totalResults": 53,
+            "fetchedPageSize": 53
+          },
+          {
+            "method": "GitHub repository API",
+            "query": "\"GPT-6 Astra\" shader in:readme pushed:>=2026-10-10",
+            "totalResults": 80,
+            "fetchedPageSize": 80
+          },
+          {
+            "method": "GitHub repository API",
+            "query": "\"GPT-6 Astra\" screenshot in:readme created:>=2026-10-01",
+            "totalResults": 214,
+            "fetchedPageSize": 100
+          },
+          {
+            "method": "web search",
+            "query": "\"GPT-6 Astra\" \"3D\" \"GitHub\" after:2026-10-11"
+          },
+          {
+            "method": "web search",
+            "query": "\"Astra\" \"Blender\" \"2026-10-13\""
+          },
+          {
+            "method": "web search",
+            "query": "\"Astra\" \"Three.js\" \"github\" \"October\""
+          },
+          {
+            "method": "web search",
+            "query": "\"GPT-6 Astra\" \"3D\" \"github\" -\"awesome\" -\"skill\" -\"prompt\" after:2026-10-11"
+          },
+          {
+            "method": "web search",
+            "query": "\"GPT-6 Astra\" \"project\" \"screenshots\" -awesome"
+          },
+          {
+            "method": "web search",
+            "query": "\"GPT-6 Astra\" \"Blender\" \"github\" -awesome -skill after:2026-10-08"
+          }
+        ],
+        "selected": [
+          {
+            "caseId": "ericyanpek-corner-mart",
+            "source": "https://github.com/ericyanpek/game-sample-corner-mart",
+            "reason": "原作者明确说明：人提出需求，GPT-6 Astra 编写游戏代码和 Blender Python 生成脚本，Blender 生成店铺、角色、货架与货箱等可编辑资产，TypeScript / Three.js 负责浏览器运行。作者称没有下载模型或贴图包；这仍是作者工作流声明，本库未独立重建。"
+          }
+        ],
+        "updated": [
+          {
+            "caseId": "lego-anything-scene-reconstruction",
+            "source": "https://arxiv.org/abs/2609.36380",
+            "reason": "同作新公开Explorer与两张明确Astra run01实际输出追加，保留旧主图与收录日；论文UTC首发转为上海日期。"
+          }
+        ],
+        "excluded": [
+          {
+            "source": "https://github.com/helenhshim/eclisse-light-study",
+            "reason": "作者明确灯光交互是Canvas2D与ImageGen静态图叠层，不是体积/光度仿真；不能算Astra生成三维几何。"
+          },
+          {
+            "source": "https://github.com/TheOrcDev/4elements",
+            "reason": "Astra Ultra单独程序归属明确，已读其真实程序场景说明；仅能获得全项目og宣传封面，无可核对Astra成果截图，因此不收录。"
+          },
+          {
+            "source": "https://github.com/bytebymint/gravity-gpt6-astra-webgl",
+            "reason": "原作者明确Astra编写WebGL黑洞体验；目前媒体只有行星输入贴图，未得到对应成果截图，不以输入资产替代成果。"
+          },
+          {
+            "source": "https://github.com/DingHungD/roomweaver-studio",
+            "reason": "本轮明确Astra证据只是CLI文字连接成功，不证明展示的室内场景实际由Astra创建。"
+          },
+          {
+            "source": "https://github.com/kblood/universe-atlas",
+            "reason": "README中的明确Astra职责为审查和测试基础设施；尚未核实具体展示三维几何的Astra生成分工，不一概归属。"
+          },
+          {
+            "source": "https://github.com/Bambijow/Gearbox",
+            "reason": "只是3D任务路由与read-only Astra review流程，没有对应实际Astra生成几何成果。"
+          },
+          {
+            "source": "https://github.com/philhandley/astra-architect",
+            "reason": "Astra是项目名，原README未明确GPT-6 Astra模型与实际生成角色，不据同名归属。"
+          },
+          {
+            "source": "https://github.com/vnmoorthy/starbound",
+            "reason": "Astra实际职责是政策提案而非创建所展示三维几何，项目背景AI assistance不足以证明全部场景归Astra。"
+          },
+          {
+            "source": "https://github.com/enactra-ai/building-bench",
+            "reason": "Astra真实重建评估有记录，但公开图像为基准参考输入/真值、排行榜和宣传封面；未核实对应Astra生成输出，暂不收。"
+          },
+          {
+            "source": "https://github.com/viktorkav/metal4-shooter",
+            "reason": "原游戏始于Kimi，舰船Tripo，Astra负责集成；不能把Tripo网格归Astra生成。"
+          },
+          {
+            "source": "https://github.com/andy5090/lowsky",
+            "reason": "原README模型列表只代表可选状况代理，实测记录为Sol；未证明Astra生成具体Godot场景。"
+          },
+          {
+            "source": "https://github.com/epicodix/astra-naval-lab",
+            "reason": "作者模型与战斗逻辑Astra分工明确，但无独立可外链成果媒体；本轮不执行第三方场景或用代码入口冒充成果。"
+          },
+          {
+            "source": "https://github.com/RanvirSinghN/LastTrainHome",
+            "reason": "线索已找到作者README，但本轮收束后未完整核查成果与三维属性，保留待核查而不靠摘要收录。"
+          },
+          {
+            "source": "https://github.com/SSHdotCodes/bhbench",
+            "reason": "检索追到对应Astra源码与captures路径，但本轮收束后未继续完整核查其原始帧与模型职责，留下一轮。"
+          }
+        ],
+        "limits": [
+          "仅1件可靠新作品；同研究Explorer不拆新数量。",
+          "CornerMart与新增Explorer首次公开日期无法从仓库创建/提交时间确认；CornerMart sourceDate保持null；已有LEGO论文首发由原arXiv精确UTC时间统一上海口径。",
+          "原作者网站HTML200只表示入口可达；未安装运行第三方源码、打开Blender工程或重算论文指标。",
+          "GitHub非登录读取曾返回403 rate limit exceeded，已保留原失败记录，固定api.github.com凭据只用于后续公开读取；raw媒体GET不附账号凭据。",
+          "LEGO研究源码API404表示本账号此次不能取得，不宣称仓库不存在或永不公开；网站查看器实现不替代完整场景生成工程。",
+          "没有外部视频下载/归档；仅外链作者实际截图，不上传作者媒体进代码仓库。"
+        ]
+      },
+      "articleCoverage": {
+        "date": "2026-10-13",
+        "timezone": "Asia/Shanghai",
+        "checkedAtUtc": "2026-10-13T12:25:56.433440+00:00",
+        "scope": "Public author note articles plus indexed Qiita, Zenn, developer blogs, Reddit, YouTube and Bilibili discovery. No login, account access, third-party code execution or social messages.",
+        "queries": [
+          "\"GPT-6 Astra\" site:note.com \"2026年10月13日\"",
+          "\"Astra\" \"Blender\" site:note.com \"2026年10月12日\"",
+          "\"Astra\" \"3D\" site:zenn.dev",
+          "\"Astra\" \"Blender\" site:qiita.com",
+          "\"Astra\" \"3D\" site:note.com \"10月\" -\"ニュース\" -\"深掘り\" -\"最新AI\"",
+          "\"Astra\" \"Blender\" \"October 12\" \"2026\"",
+          "\"Astra\" \"3D\" site:reddit.com \"Oct\" 2026",
+          "\"Astra\" \"Blender\" site:bilibili.com \"10-12\"",
+          "\"Astra\" \"Blender\" site:note.com \"2026年10月13日\"",
+          "\"Astra\" \"3D\" site:note.com \"2026年10月12日\" -onemorevision -news -ニュース -深掘り",
+          "\"Astra\" \"Blender\" site:note.com \"2026年10月11日\"",
+          "\"GPT-6 Astra\" \"3D\" after:2026-10-11 -site:x.com -site:github.com -site:tempodimare.com",
+          "\"Astra\" \"Blender\" site:note.com \"2026年10月10日\"",
+          "\"Astra\" \"Blender\" site:note.com \"2026年10月9日\"",
+          "\"Astra\" \"3D\" site:qiita.com \"10月\"",
+          "\"Astra\" \"3D\" \"October 13, 2026\"",
+          "\"GPT-6 Astra\" \"Blender\" site:medium.com",
+          "\"Astra\" \"Blender\" site:note.com \"2026年10月\" -onemorevision -852wa -kongo_jun -maeiku_lab -it_rutinelabo -akiyoshisanbass -eizouyak -news -ニュース -su_sin8473 -saera_ai -nexus_ai -chihirodesign",
+          "\"GPT-6 Astra\" \"3D\" site:dev.to",
+          "\"GPT-6 Astra\" \"3D\" site:bilibili.com"
+        ],
+        "accepted": [
+          "kinshikou-mika-ik-workflow",
+          "uzura-ceramic-dragon-phase1",
+          "kawachan-noa-bot-code27"
+        ],
+        "newRecords": [
+          "kinshikou-mika-ik-workflow",
+          "uzura-ceramic-dragon-phase1",
+          "kawachan-noa-bot-code27"
+        ],
+        "restorations": [],
+        "sourceFetch": [
+          {
+            "key": "starfall",
+            "url": "https://note.com/rom_0001/n/n330ac01f0665",
+            "status": 200,
+            "bytes": 341464,
+            "mime": "text/html; charset=utf-8",
+            "contentLength": null,
+            "sha256": "3c0b02c84ee3162315f7c1559a095acee13c33b6a0c1ba38efb83a607f720765"
+          },
+          {
+            "key": "kinshikou",
+            "url": "https://note.com/kinshikou_lab/n/n22880f781568",
+            "status": 200,
+            "bytes": 428436,
+            "mime": "text/html; charset=utf-8",
+            "contentLength": null,
+            "sha256": "7b989df3ed9203581e9c3b43d18225f22274ae80c0f5d9dd9cacc19d39e710f7"
+          },
+          {
+            "key": "dragon",
+            "url": "https://note.com/glad_frog1869/n/ncf626de0c303",
+            "status": 200,
+            "bytes": 412033,
+            "mime": "text/html; charset=utf-8",
+            "contentLength": null,
+            "sha256": "984b238f56dd6ca02b0c5d1cf390542be026cbe64889c3e60a725dca8faf2294"
+          },
+          {
+            "key": "code27",
+            "url": "https://note.com/jinken777/n/n8bdf2c2e1dfa",
+            "status": 200,
+            "bytes": 487287,
+            "mime": "text/html; charset=utf-8",
+            "contentLength": null,
+            "sha256": "0d79f52cb6b162cb737ff6c09dd11bb72cbb52326ba1f5ba76a39f775b935c29"
+          },
+          {
+            "key": "kongo",
+            "url": "https://note.com/kongo_jun/n/n0d90791ef6db",
+            "status": 200,
+            "bytes": 495827,
+            "mime": "text/html; charset=utf-8",
+            "contentLength": null,
+            "sha256": "9ba8cda6b54523716f4ab791a82a574271493108625c65211a0890e0c032e418"
+          }
+        ],
+        "dates": [
+          "No distinct October12-13 author article work with verified result was found in this search; selected three previously missed works retain their real September source dates and October13 added/observed dates.",
+          "Kinshikou JSON-LD first publication 2026-10-01T00:47:38+09:00 is 2026-09-30T23:47:38+08:00. Japan article date must not override Shanghai date.",
+          "Uzura article JSON-LD first publication 2026-09-06T22:05:47+09:00 is Shanghai Sep6 21:05:47. NOA BOT article first 2026-09-07T22:43:52+09:00 is Shanghai Sep7 21:43:52. Dates are article publication, not media upload or Git dates."
+        ],
+        "exclusions": [
+          {
+            "url": "https://note.com/rom_0001/n/n330ac01f0665",
+            "reason": "Oct7 STARFALL author article explicitly credits Astra, but only visible body image is an improvement timeline, not a 3D outcome. Text describes rotating/fixing sprite images and depth presentation; actual 3D geometry renderer and corresponding outcome not verified. Do not adopt only because title says 3D."
+          },
+          {
+            "url": "https://note.com/kongo_jun/n/n0d90791ef6db",
+            "reason": "Already kongo-charakuru-vrm-workflow; repeated Charakuru model article is one work."
+          },
+          {
+            "url": "https://note.com/saera_ai/n/n93a7a67df6a1",
+            "reason": "Article explicitly assigns main making to Claude Code, image generation to Codex CLI and Tripo browser operation to Claude. Generic kit README says Astra/Sol supported but does not establish Astra actually made this avatar."
+          },
+          {
+            "url": "https://note.com/saooooto/n/n6da4758c64de",
+            "reason": "Actual Petitpolis city is explicitly Claude Opus5.5; Astra is background discussion only."
+          },
+          {
+            "url": "https://note.com/hirokimiyano/n/n031a32279643",
+            "reason": "Oct13 news digest contains benchmark comparisons, no distinct author-made Astra 3D result."
+          },
+          {
+            "url": "https://note.com/onemorevision/n/n3ce66cf6ae2f",
+            "reason": "Already onemorevision-dxf-3dsmax-interior from Oct12; no separate work."
+          },
+          {
+            "url": "https://note.com/852wa/n/nb681ba09e336",
+            "reason": "Existing Jill workflow; secondary translations and Oct9 tools-summary article do not make a second work."
+          },
+          {
+            "url": "https://zenn.dev/tkada/articles/d0c31e6533fb62",
+            "reason": "Existing tkada-jump-run; Japanese/English mirrors are same work."
+          },
+          {
+            "url": "https://zenn.dev/miive/articles/d4a1675553d53c",
+            "reason": "Existing seiji-miive-gopher-globe."
+          },
+          {
+            "url": "https://zenn.dev/koher/articles/code-first-3d-modeling",
+            "reason": "Existing koher-realitizer."
+          },
+          {
+            "url": "https://zenn.dev/jinsights/articles/65514a07c8b091",
+            "reason": "Existing Jinsights photo-based torso modeling article."
+          },
+          {
+            "url": "https://www.reddit.com/r/TopologyAI/comments/1x0desg/cozy_creek_threejs_3d_experience_of_a_creek_made/",
+            "reason": "Existing chetan-cozy-creek; new comments are not new outcomes."
+          },
+          {
+            "url": "https://www.reddit.com/r/codex/comments/1x3pifc/what_happened_to_astra/",
+            "reason": "Oct12 author mentions service-landscape/traffic request, but no verified viewable corresponding 3D outcome obtained."
+          },
+          {
+            "url": "https://assets.st-note.com/img/1788788935-BQwI9Yy4go3PLKXpvcHUTMlC.png?width=1200",
+            "reason": "Downloaded, decoded and viewed. NOA BOT character reference sheet with text/turnarounds is not a confirmed Blender result; excluded in favor of actual CODE27 device photo."
+          },
+          {
+            "url": "https://assets.st-note.com/img/1790782502-im0zkQ4sRJAHeOfU6vqw78gZ.png?width=1200",
+            "reason": "Downloaded, decoded and viewed initial Astra character appearance image, but author discusses appearance images and completed visuals alongside model files. Selected final Blender pose image as less ambiguous actual 3D outcome; initial image not required as accepted media proof."
+          },
+          {
+            "url": "https://www.bilibili.com/video/BV1HGbK6hEfC/",
+            "reason": "Older translated canyon previs/Seedance tutorial; original creator workflow/actual Astra-only white model frame not newly verified. Not using translated thumbnail as mesh proof."
+          },
+          {
+            "url": "https://www.bilibili.com/video/BV1h5aq6gET2/",
+            "reason": "Older translated Dan Kieft video; promotional/tutorial preview not a newly checked distinct Astra3D outcome."
+          }
+        ],
+        "limitations": [
+          "Public web search date windows can return older indexed works and updates; did not relabel them as today first published.",
+          "No exact earlier post is mentioned or exposed for the three adopted note works; dates use verified original author article JSON-LD. This does not independently establish earliest offline production time.",
+          "Selected device photo and gray renders establish visible outcomes, not independently reproduced files, measured dimensions or functional animation.",
+          "No full author video was archived in this article-only batch. Original media remain hosted by note; no third-party images submitted to repository.",
+          "No Xiaohongshu search, login or account access performed in this article search."
+        ]
+      },
+      "originalXEvidenceChecks": [
+        {
+          "caseId": "shmopix-plush-octopus",
+          "sourceUrl": "https://x.com/shmopixbzn/status/2109323102912156142",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 131846,
+          "sha256": "b3c677cc90d6bf5e05d23880cd2a2e2f50fb1e62529e100e56063fffc5278299",
+          "createdAtMs": 1791736791000,
+          "createdAtUtc": "Sun Oct 11 16:39:51 +0000 2026",
+          "createdAtShanghai": "2026-10-12T00:39:51+08:00",
+          "authorMatched": true,
+          "modelStatementMatched": true,
+          "mirrorTimestampMatched": true,
+          "secondaryMetadataUrl": "https://api.fxtwitter.com/shmopixbzn/status/2109323102912156142",
+          "promptReplyProof": {
+            "sourceUrl": "https://x.com/shmopixbzn/status/2109323105617281235",
+            "httpStatus": 200,
+            "contentType": "text/html",
+            "bytes": 135700,
+            "sha256": "cc258b761409eef6d39d12ab0cb53043d399abd78a094a5df633041370d827e9",
+            "authorMatched": true,
+            "parentPostMatched": true,
+            "createdAtMs": 1791736792000,
+            "mirrorTimestampMatched": true
+          }
+        },
+        {
+          "caseId": "vib3coded-plush-hammerhead",
+          "sourceUrl": "https://x.com/vib3coded/status/2108486895344767283",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 148710,
+          "sha256": "a20953c5fe5003817f67cd008922a3252150a174434b038d55494c749a7938db",
+          "createdAtMs": 1791537424000,
+          "createdAtUtc": "Fri Oct 09 09:17:04 +0000 2026",
+          "createdAtShanghai": "2026-10-09T17:17:04+08:00",
+          "authorMatched": true,
+          "modelStatementMatched": true,
+          "mirrorTimestampMatched": true,
+          "secondaryMetadataUrl": "https://api.fxtwitter.com/vib3coded/status/2108486895344767283",
+          "promptReplyProof": {
+            "sourceUrl": "https://x.com/vib3coded/status/2108487206155194794",
+            "httpStatus": 200,
+            "contentType": "text/html",
+            "bytes": 134074,
+            "sha256": "ae43f4177f0cdc411ef5602172283a31202824db0dc8779e24c081775c803adc",
+            "authorMatched": true,
+            "parentPostMatched": true,
+            "createdAtMs": 1791537498000,
+            "mirrorTimestampMatched": true
+          }
+        }
+      ],
+      "historicalAvailability": {
+        "baselinePreviewsFullGet": 332,
+        "initialDecoded": 326,
+        "retryRecovered": 6,
+        "decoded": 332,
+        "validatedCurrentPreviews": 338
+      },
+      "mediaResult": {
+        "fullClips": 2,
+        "fullyDecodedFiles": 4,
+        "bytes": 18617660,
+        "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-13",
+        "externalAuthorVideosArchived": false
+      }
     }
   ]
 }

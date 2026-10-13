@@ -2,6 +2,17 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-13 · 6 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Plush Octopus：绒面章鱼、触腕弯折与软体翻倒 / Plush Octopus — A Velvet Toy and Bendable Arms](https://carpentry-liu.github.io/awesome-astra-3d/cases/shmopix-plush-octopus/) | shmopix / @shmopixbzn | 完整视频 · 提示词 / 过程 |
+| [Corner Mart：可编辑便利店、顾客清单与三分钟经营 / Corner Mart — Editable Storefront, Shopping Lists and Three-Minute Trading](https://carpentry-liu.github.io/awesome-astra-3d/cases/ericyanpek-corner-mart/) | ericyanpek | 源码 / 工程 |
+| [Plush Hammerhead：大眼锤头鲨与双模型软体对照 / Plush Hammerhead — A Wide-Eyed Soft Toy Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-plush-hammerhead/) | Vib3Coded / @vib3coded | 完整视频 · 提示词 / 过程 |
+| [NOA BOT：Blender 机器人到 VRM 与 CODE27 显示 / NOA BOT — Blender Robot to VRM and a CODE27 Display](https://carpentry-liu.github.io/awesome-astra-3d/cases/kawachan-noa-bot-code27/) | カワちゃん / Kawa-chan / NOA工房 | 提示词 / 过程 |
+| [Mika 换脚姿态：初模、IK 与放弃的制作路线 / Mika Foot-Swap Pose — Initial Model, IK and an Abandoned Workflow](https://carpentry-liu.github.io/awesome-astra-3d/cases/kinshikou-mika-ik-workflow/) | キンシコウ研究所 / Kinshikou Lab | 提示词 / 过程 |
+| [四张陶龙照片到近似几何：Astra 初模与 Sol 接手 / Four Ceramic Dragon Photos to Approximate Geometry — Astra and a Sol Handoff](https://carpentry-liu.github.io/awesome-astra-3d/cases/uzura-ceramic-dragon-phase1/) | 高垣うずら / Takagaki Uzura | 提示词 / 过程 |
+
 ## 2026-10-12 · 18 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
@@ -161,7 +172,7 @@
 | [Pelagic：程序化海洋与帆船探索 / Pelagic — Procedural Ocean Exploration](https://carpentry-liu.github.io/awesome-astra-3d/cases/az9713-pelagic-ocean/) | az9713 | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
 | [Code4Scene：城镇构建与场景修复 / Code4Scene — Town Construction and Scene Repair](https://carpentry-liu.github.io/awesome-astra-3d/cases/code4scene-farm-town/) | Xiaokang Ye 等 / Code4Scene | 提示词 / 过程 |
 | [Isaac Sim：工作台场景重建 / Isaac Sim — Workbench Reconstruction](https://carpentry-liu.github.io/awesome-astra-3d/cases/charles-isaac-workbench/) | Charles Wong / @charleswongzx | 提示词 / 过程 |
-| [LEGO-Anything：单图到可查询三维场景 / LEGO-Anything — Image to Queryable Scene](https://carpentry-liu.github.io/awesome-astra-3d/cases/lego-anything-scene-reconstruction/) | Xirui Li 等 / LEGO-Anything | 提示词 / 过程 |
+| [LEGO-Anything：单图到可查询三维场景 / LEGO-Anything — Image to Queryable Scene](https://carpentry-liu.github.io/awesome-astra-3d/cases/lego-anything-scene-reconstruction/) | Xirui Li 等 / LEGO-Anything | 演示入口 · 提示词 / 过程 |
 | [Ultrafast：三维制作与火箭发射对照 / Ultrafast — 3D Build and Rocket Launch Showcase](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-ultrafast-rocket/) | OpenAI / @OpenAI | 完整视频 · 提示词 / 过程 |
 | [Rocket Launch：三个模型的发射场景对照 / Rocket Launch — Three-model Scene Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/lebo-rocket-comparison/) | Matthew Lebo / @MatthewLebo_ | 完整视频 · 提示词 / 过程 |
 | [F-22：Blender 到 Godot 飞行对照 / F-22 — Blender to Godot Flight Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/dgreses-f22-comparison/) | Demetrius Greses Jr / @dgresesjr | 完整视频 · 提示词 / 过程 |

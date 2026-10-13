@@ -1,6 +1,6 @@
 {
-  "observedAt": "2026-10-12",
-  "method": "Afternoon incremental full GET of 1 new author demo entries; availability observations only, not complete playthrough or independent reproduction. Historical dates retained.",
+  "observedAt": "2026-10-13",
+  "method": "Incremental complete GET of new author demo entry pages; no full gameplay or independent reproduction. Historical observations retain their dates.",
   "results": [
     {
       "id": "openai-sunwake",
@@ -779,6 +779,17 @@
       "checkedAtUtc": "2026-10-12T07:37:21.191766+00:00",
       "result": "reachable",
       "method": "Full HTTP GET; author project not independently rebuilt or fully played"
+    },
+    {
+      "id": "lego-anything-scene-reconstruction",
+      "url": "https://xirui-li.github.io/lego-anything-website/#explorer",
+      "status": 200,
+      "title": "LEGO-Anything · Coding Agents for 3D Scene Reconstruction",
+      "finalUrl": "https://lego-anything.com/",
+      "observedAt": "2026-10-13",
+      "checkedAtUtc": "2026-10-13T12:35:58.166540+00:00",
+      "result": "reachable",
+      "method": "Full HTTP GET; no independent playthrough or reproduction"
     }
   ]
 }
