@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-13 (Asia/Shanghai)** · **326 Astra examples** · **95 source / project links** · **111 demo links** · **140 complete videos** · **12 separate references**.
+Updated **2026-10-14 (Asia/Shanghai)** · **328 Astra examples** · **97 source / project links** · **114 demo links** · **143 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -44,18 +44,18 @@ Open an image for the case, materials and known limitations. This selection stay
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-14.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Production build screenshots from the October 13, 2026 iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Production build screenshots from the October 14, 2026 iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
-<summary>Gallery, mobile and case screenshots · October 13, 2026</summary>
+<summary>Gallery, mobile and case screenshots · October 14, 2026</summary>
 
-[![Gallery filters and more works](docs/media/collection-2026-10-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Gallery filters and more works](docs/media/collection-2026-10-14.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-10-13.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-10-14.jpg)
 
-[![Plush Octopus case page with complete footage and attribution](docs/media/case-2026-10-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/shmopix-plush-octopus/)
+[![Torii at High Tide — A Shrine Island Comparison case page with complete footage and attribution](docs/media/case-2026-10-14.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-torii-high-tide/)
 
 </details>
 
@@ -63,19 +63,19 @@ Production build screenshots from the October 13, 2026 iteration. Browse in Chin
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The October 13 update adds **6 works**: Plush Octopus, Plush Hammerhead, Corner Mart, NOA BOT, an IK workflow and a ceramic-dragon approximation, with **2 complete X clips**. The existing LEGO-Anything case gains an Explorer and two actual Astra reconstruction images while keeping its original collection date. Some works were previously missed; publication dates, model roles and human work remain separate, and later materials do not inflate case totals.
+The October 14 update adds **7 works** and **3 complete X clips**, covering shrine and cove scenes, black-hole and physics materials, the Guilford engine house and a dinosaur-professor product viewer. The existing Oval Office preview is repaired and gains a full clip while keeping its original collection date. **5 records** without a verified usable preview are temporarily unlisted and preserved in the audit archive. Publication and collection dates remain separate, with external assets, model outputs and research-verifier roles identified.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [Torii at High Tide — A Shrine Island Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-torii-high-tide/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2110014604524896392) |
+| [Guilford Engine House — Measured Drawings and a Meshy Reference](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/meshy-guilford-engine-house/) | Serafin Sanchez / Meshy Developer Experience | [Original](https://www.meshy.ai/developers/blog/engine-house-from-four-drawings/) |
+| [Tropical Cove — A Limestone Bay in a Water Block](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-tropical-cove/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2109345073703862419) |
+| [Fukui Dinosaur Professor — Photo to a Color-Customizable GLB Viewer](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/sfp-fukui-dino-professor/) | sfp / 清水あかり / South Field Planning | [Demo](https://estimator.jp/sample/fukui-dino-professor/) · [Original](https://note.com/sfp_note/n/naa76041df57b) |
+| [AA-3D Scene Outputs — Astra Kerr Black Hole and Interactive Task Collection](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/artificial-analysis-aa3d-scenes/) | Artificial Analysis | [Demo](https://artificialanalysiscdn.com/media-arena/87d0885e-c3d6-4403-9fcf-d5fb39eb7437/index.html) · [Original](https://artificialanalysis.ai/articles/aa-3d) |
+| [BHBench — Astra Native Black Hole, Ray Integration and Curvature Grid](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/sshcodes-bhbench-astra/) | SSHdotCodes / BHBench | [Demo](https://bhbench.ssh.codes/model/astra6) · [Source](https://github.com/SSHdotCodes/bhbench/tree/main/submissions/gpt-6-astra-xhigh) · [Original](https://github.com/SSHdotCodes/bhbench) |
+| [PhysCodeGym — Newton Cradle Reconstruction and Measured Physics Failures](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/physcodegym-astra-reconstruction/) | Shuai Shao 等 / PhysCodeGym 研究团队 | [Source](https://github.com/ShaoShuai0605/PhysCodeGym) · [Original](https://github.com/ShaoShuai0605/PhysCodeGym) |
 | [Plush Octopus — A Velvet Toy and Bendable Arms](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/shmopix-plush-octopus/) | shmopix / @shmopixbzn | [Original](https://x.com/shmopixbzn/status/2109323102912156142) |
-| [Corner Mart — Editable Storefront, Shopping Lists and Three-Minute Trading](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ericyanpek-corner-mart/) | ericyanpek | [Source](https://github.com/ericyanpek/game-sample-corner-mart) · [Original](https://github.com/ericyanpek/game-sample-corner-mart) |
-| [Plush Hammerhead — A Wide-Eyed Soft Toy Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-plush-hammerhead/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2108486895344767283) |
-| [NOA BOT — Blender Robot to VRM and a CODE27 Display](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kawachan-noa-bot-code27/) | カワちゃん / Kawa-chan / NOA工房 | [Original](https://note.com/jinken777/n/n8bdf2c2e1dfa) |
-| [Mika Foot-Swap Pose — Initial Model, IK and an Abandoned Workflow](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kinshikou-mika-ik-workflow/) | キンシコウ研究所 / Kinshikou Lab | [Original](https://note.com/kinshikou_lab/n/n22880f781568) |
-| [Four Ceramic Dragon Photos to Approximate Geometry — Astra and a Sol Handoff](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/uzura-ceramic-dragon-phase1/) | 高垣うずら / Takagaki Uzura | [Original](https://note.com/glad_frog1869/n/ncf626de0c303) |
-| [DXF to a 1LDK Interior — 3ds Max Modeling and Handoffs](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/onemorevision-dxf-3dsmax-interior/) | One More Vision / 入江達也（STUDIO55） | [Original](https://note.com/onemorevision/n/n3ce66cf6ae2f) |
-| [Plush Marlin — A Soft Toy Shape and Motion Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-plush-marlin/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2108850731750940711) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

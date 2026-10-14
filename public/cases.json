@@ -1,5 +1,348 @@
 [
   {
+    "id": "vib3coded-torii-high-tide",
+    "title": "Torii at High Tide：海中鸟居、神社微缩岛与双模型对照",
+    "titleEn": "Torii at High Tide — A Shrine Island Comparison",
+    "summary": "同一任务分别生成日本神社水景：下方 Astra 将红色鸟居、架空神社、五层塔与樱花岛置于浅色水块中；上方 Opus 是另一份结果。完整录像展示转动与水色调节，作者另称偏爱 Astra 夜间灯光和水面花瓣。",
+    "imageCaption": "原作者完整录像封面：上方 Claude Opus 5.5，下方 ChatGPT-6 Astra。Astra 的朱红鸟居与神社、五层塔和樱花岛均位于下半画面。 附原帖完整录像与原版下载。",
+    "outcome": "可查看约17秒完整原作者对照录像及 Astra 神社微缩岛。Astra 与 Opus 各自为独立结果，只计一个对照任务；上方 Opus 的水面效果不归于 Astra。夜景灯光、季节、潮汐、GPU波动、SSR反射、材质算法与性能属于作者报告或公开任务要求，未取得源码或独立复现。",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Vib3Coded / @vib3coded",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（独立对照）+ Three.js 场景",
+    "sourceUrl": "https://x.com/vib3coded/status/2110014604524896392",
+    "sourceDate": "2026-10-13",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-14",
+    "addedAt": "2026-10-14",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者 X 主帖完整 GET 200，作者及 Astra 声明与精确同帖 FxTwitter 辅助元数据一致；封面与中帧均标明下方为 ChatGPT-6 Astra，上方 Opus 不归于 Astra。作者公开提示词回复的父帖与署名已核对，不以整理站标签确定模型。作者功能、费用与偏好不作为独立复现。",
+    "sourceAccess": "原创 X 完整 GET 200 / text/html / 161,246 字节，作者、Astra 声明与 created_at_ms 同精确主帖元数据匹配；上海首发 2026-10-13，10月14日收录与核查。成果预览完整 GET 200 / image/jpeg / 947×1200 / 80,947 字节，Content-Length、SHA-256、Pillow完整解码与实际view_image目视通过。最高平台原版与较小完整平台版核对同帖媒体 ID、MIME、字节、SHA-256 和时长，未裁剪或转码；两版严格 FFmpeg null 全长解码均 exit 0 且 stderr 空，封面和中帧实际查看。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2110014349251084288/img/uC_b9kCbqLuK6swA.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/vib3coded/status/2110014604524896392",
+    "repositoryUrl": null,
+    "outputType": [
+      "Three.js 微缩水景",
+      "独立双模型对照",
+      "作者完整交互录像",
+      "完整运行录像"
+    ],
+    "promptAvailability": "linked",
+    "promptExcerpt": null,
+    "promptSummary": "原作者同线程公开完整任务，要求程序化地形与水体渲染、可调参数和响应式控制。只链接回原文；算法、全部功能与性能目标未由本库独立重建核验。",
+    "promptUrl": "https://x.com/vib3coded/status/2110014758548078979",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/vib3coded/status/2110014604524896392",
+      "https://api.fxtwitter.com/vib3coded/status/2110014758548078979"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库 MIT。保留原创来源与移除入口，媒体归档不代表另行取得再发布许可。 平台原版与较小完整播放版保存至公开 Release，未剪辑或转码。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-torii-high-tide-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-14/vib3coded-torii-high-tide-1-original.mp4",
+        "durationSeconds": 17.05,
+        "bytes": 8939449,
+        "sha256": "6e8dbfdb1d97a0f22bd5d16c77160bdb9c9f39d003756347116992552567eeb2",
+        "sourceUrl": "https://x.com/vib3coded/status/2110014604524896392",
+        "label": "Torii at High Tide — A Shrine Island Comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2110014349251084288/img/uC_b9kCbqLuK6swA.jpg"
+      }
+    ]
+  },
+  {
+    "group": "astra",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-14",
+    "addedAt": "2026-10-14",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "promptExcerpt": null,
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "licenseNotes": "作品、图片和第三方素材保留各权利人的权利；原站媒体不纳入本库 MIT 许可。",
+    "id": "meshy-guilford-engine-house",
+    "title": "Guilford 机车库：实测图纸与 Meshy 空间参考",
+    "titleEn": "Guilford Engine House — Measured Drawings and a Meshy Reference",
+    "category": "建筑与室内",
+    "platform": "开发者博客",
+    "platforms": [
+      "Meshy Developer Blog",
+      "Blender"
+    ],
+    "author": "Serafin Sanchez / Meshy Developer Experience",
+    "sourceUrl": "https://www.meshy.ai/developers/blog/engine-house-from-four-drawings/",
+    "sourceDate": "2026-10-13",
+    "modelLabel": "GPT-6 Astra + Blender Python；Meshy-7 仅作空间参考",
+    "evidenceNote": "作者明确 Astra 根据图纸新写 Blender 几何，Meshy GLB 只作参考，未复制进最终模型；彩色屋顶与拆解位移为讲解后加。",
+    "sourceAccess": "原文完整 GET 200 / 54,548 字节；主成果 PNG 2000×1500 / 1,937,102 字节，MIME、长度、SHA-256 与完整解码通过并实际查看。另检查75帧/10秒拆解 GIF 和真实 Blender 工作区。文章10月13日发布，9月29日为实验完成日。未取得或执行完整 Blender 工程。",
+    "summary": "对比图纸独立建模和加入 Meshy 参考的六次 Astra 建模，呈现门窗修正、木构屋架和拆解效果。",
+    "outputType": [
+      "Blender 图纸重建",
+      "参考辅助建模对照",
+      "拆解 GIF"
+    ],
+    "promptAvailability": "public-text",
+    "promptSummary": "原文链接保留精确实验基础请求；面向读者的流程请求另作改写，不能混称原始实验输入。",
+    "promptUrl": "https://www.meshy.ai/developers/blog/engine-house-from-four-drawings/prompts/base-exact.txt",
+    "imageUrl": "https://www.meshy.ai/developers/blog/engine-house-from-four-drawings/assets/assembled-color.png",
+    "imageKind": "author-render",
+    "imageCaption": "实际保留几何的成果展示：灰色墙体、双拱门、侧窗与青绿色屋顶；颜色为讲解添加，不是输入蓝图或 Meshy 参考网格。",
+    "evidenceUrls": [
+      "https://www.meshy.ai/developers/blog/engine-house-from-four-drawings/assets/exploded-clean.gif",
+      "https://www.meshy.ai/developers/blog/engine-house-from-four-drawings/assets/07-blender-workspace.webp",
+      "https://www.meshy.ai/developers/blog/engine-house-from-four-drawings/assets/final-line-measurements.csv"
+    ],
+    "outcome": "作者小样本对照显示平面线精度改善但无速度收益；不是通用建筑正确率或独立复现。"
+  },
+  {
+    "id": "vib3coded-tropical-cove",
+    "title": "Tropical Cove：石灰岩湾、水体切片与双模型对照",
+    "titleEn": "Tropical Cove — A Limestone Bay in a Water Block",
+    "summary": "下方 Astra 以石灰岩弧形崖壁、树冠和浅滩组成水块内的热带小湾；上方 Opus 是同提示词独立结果。完整录像展示旋转视角与颜色调节，作者指出 Astra 调色只改变部分水体。",
+    "imageCaption": "原作者完整录像封面：上方 Claude Opus 5.5，下方 ChatGPT-6 Astra。Astra 的浅色弧形岩壁、树冠与水体截面在下半画面。 附原帖完整录像与原版下载。",
+    "outcome": "可查看约18秒完整作者对照录像，Astra 成果位于下方，模型边界在封面与中帧均有明确标签。作者指出水块调色不完整；不同模型费用与偏好不作为客观质量评分。生成地形、折射、波动方程、潮位和手机适配是公开任务的要求，未取得源码或独立核验全部功能。",
+    "group": "astra",
+    "category": "程序化场景",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Vib3Coded / @vib3coded",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（独立对照）+ Three.js 场景",
+    "sourceUrl": "https://x.com/vib3coded/status/2109345073703862419",
+    "sourceDate": "2026-10-12",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-14",
+    "addedAt": "2026-10-14",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者 X 主帖完整 GET 200，作者及 Astra 声明与精确同帖 FxTwitter 辅助元数据一致；封面与中帧均标明下方为 ChatGPT-6 Astra，上方 Opus 不归于 Astra。作者公开提示词回复的父帖与署名已核对，不以整理站标签确定模型。作者功能、费用与偏好不作为独立复现。",
+    "sourceAccess": "原创 X 完整 GET 200 / text/html / 156,747 字节，作者、Astra 声明与 created_at_ms 同精确主帖元数据匹配；上海首发 2026-10-12，10月14日收录与核查。成果预览完整 GET 200 / image/jpeg / 948×1200 / 84,261 字节，Content-Length、SHA-256、Pillow完整解码与实际view_image目视通过。最高平台原版与较小完整平台版核对同帖媒体 ID、MIME、字节、SHA-256 和时长，未裁剪或转码；两版严格 FFmpeg null 全长解码均 exit 0 且 stderr 空，封面和中帧实际查看。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2109344288899297281/img/v7EB8BkDpWNuvCsa.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/vib3coded/status/2109345073703862419",
+    "repositoryUrl": null,
+    "outputType": [
+      "Three.js 微缩水景",
+      "独立双模型对照",
+      "作者完整交互录像",
+      "完整运行录像"
+    ],
+    "promptAvailability": "linked",
+    "promptExcerpt": null,
+    "promptSummary": "原作者同线程公开完整任务，要求程序化地形与水体渲染、可调参数和响应式控制。只链接回原文；算法、全部功能与性能目标未由本库独立重建核验。",
+    "promptUrl": "https://x.com/vib3coded/status/2109345365761696119",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/vib3coded/status/2109345073703862419",
+      "https://api.fxtwitter.com/vib3coded/status/2109345365761696119"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库 MIT。保留原创来源与移除入口，媒体归档不代表另行取得再发布许可。 平台原版与较小完整播放版保存至公开 Release，未剪辑或转码。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-tropical-cove-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-14/vib3coded-tropical-cove-1-original.mp4",
+        "durationSeconds": 18.05,
+        "bytes": 11556321,
+        "sha256": "8abf5554af850acc923fe8c08b58008b1427da2e36afb7af8f710089b5f32d85",
+        "sourceUrl": "https://x.com/vib3coded/status/2109345073703862419",
+        "label": "Tropical Cove — A Limestone Bay in a Water Block",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2109344288899297281/img/v7EB8BkDpWNuvCsa.jpg"
+      }
+    ]
+  },
+  {
+    "group": "astra",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-14",
+    "addedAt": "2026-10-14",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "promptExcerpt": null,
+    "demoUrl": "https://estimator.jp/sample/fukui-dino-professor/",
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "licenseNotes": "作品、图片和第三方素材保留各权利人的权利；原站媒体不纳入本库 MIT 许可。",
+    "id": "sfp-fukui-dino-professor",
+    "title": "恐龙博士：照片到可换色 GLB 商品展示",
+    "titleEn": "Fukui Dinosaur Professor — Photo to a Color-Customizable GLB Viewer",
+    "category": "产品与角色",
+    "platform": "note",
+    "platforms": [
+      "note",
+      "見積太郎3"
+    ],
+    "author": "sfp / 清水あかり / South Field Planning",
+    "sourceUrl": "https://note.com/sfp_note/n/naa76041df57b",
+    "sourceDate": "2026-10-12",
+    "modelLabel": "ChatGPT Astra 制作 GLB；見積太郎3 准备指示 ZIP 与商品展示",
+    "evidenceNote": "作者用恐龙博士雕像照片制作样例，明确先由工具准备指示与图片 ZIP，再交 ChatGPT Astra 制作 GLB；商品查看器与估价系统属于见积太郎3。",
+    "sourceAccess": "原文完整 GET 200 / 350,198 字节。JSON-LD 2026-10-13T00:38:15+09:00 对应上海10月12日23:38:15。成果截图完整 GET 200 / 144,240 字节，1200×780，MIME、长度、SHA-256 与完整解码及实际查看通过。作者演示 HTML 200 / 19,617,928 字节；仅确认入口可达，未操作、重建或核验 GLB 精度。",
+    "summary": "将白衣恐龙博士雕像转为三维商品展示，可在作者页面选择肤色、尺寸与数量。",
+    "outputType": [
+      "照片到 GLB",
+      "商品颜色定制",
+      "三维商品展示"
+    ],
+    "promptAvailability": "author-description",
+    "promptSummary": "作者描述把指示 ZIP 交给 Astra 生成适配平台的 GLB；本文未公开具体样例的完整对话或建模脚本。",
+    "promptUrl": "https://note.com/sfp_note/n/naa76041df57b",
+    "imageUrl": "https://assets.st-note.com/img/1791818996-wqC3VrRKlu0tTF8zpDEgcjPx.png?width=1200",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者实际商品查看器截图，白衣恐龙博士坐在长椅上，左侧提供肤色选项；不是原始实物照片。",
+    "evidenceUrls": [],
+    "outcome": "约五分钟为作者流程说明，未独立计时；单照片不能证明背面几何准确，展示系统不统一归为 Astra 编写。"
+  },
+  {
+    "group": "astra",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-14",
+    "addedAt": "2026-10-14",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "promptExcerpt": null,
+    "demoUrl": "https://artificialanalysiscdn.com/media-arena/87d0885e-c3d6-4403-9fcf-d5fb39eb7437/index.html",
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "licenseNotes": "作品、图片和第三方素材保留各权利人的权利；原站媒体不纳入本库 MIT 许可。",
+    "id": "artificial-analysis-aa3d-scenes",
+    "title": "AA-3D 任务输出：Astra 黑洞与交互场景合集",
+    "titleEn": "AA-3D Scene Outputs — Astra Kerr Black Hole and Interactive Task Collection",
+    "category": "科学与教育",
+    "platform": "开发者博客",
+    "platforms": [
+      "Artificial Analysis",
+      "Three.js"
+    ],
+    "author": "Artificial Analysis",
+    "sourceUrl": "https://artificialanalysis.ai/articles/aa-3d",
+    "sourceDate": "2026-10-12",
+    "modelLabel": "GPT-6 Astra Max / Stirrup；其他模型输出分别标注",
+    "evidenceNote": "评测作者按模型公开任务输出。官方页面与构建回放把 Astra 模型 ID 对应到 Kerr 黑洞场景及所选截图；其他模型结果不归入 Astra。",
+    "sourceAccess": "发布文章完整 GET 200 / 912,458 字节；公开页面与回放代码只读取未执行。回放 astra-kerr 的 step 0070（4016秒、turn45）截图完整 GET 200 / 41,912 字节，1280×720，MIME、长度、SHA-256 与完整解码和实际查看通过。对应成品 HTML 200 / 17,380 字节。原文只给10月12日日历日期；未独立复现评测或试玩场景。",
+    "summary": "浏览同一任务在不同模型下的三维成果和构建回放；主预览为 Astra 的 Kerr 黑洞，合集整体只计一条。",
+    "outputType": [
+      "Three.js 任务输出合集",
+      "交互黑洞",
+      "构建过程回放"
+    ],
+    "promptAvailability": "public-text",
+    "promptSummary": "作者展示任务请求与统一交付约束，具体任务和方法回源；没有替作者补写或声称复现。",
+    "promptUrl": "https://artificialanalysis.ai/evaluations/aa-3d",
+    "imageUrl": "https://artificialanalysiscdn.com/article-assets/2026/aa-3d/build-replay/astra-kerr/0070.webp",
+    "imageKind": "author-screenshot",
+    "imageCaption": "明确对应 Astra 的实际黑洞网页构建截图：吸积盘、透镜效果和参数控件；是完成前最后保留画面，不是排行榜封面。",
+    "evidenceUrls": [
+      "https://artificialanalysis.ai/evaluations/aa-3d"
+    ],
+    "outcome": "黑洞页面标注近似光线传输；视觉与作者评测不等于物理精度验证，Elo 是特定盲评体系的相对成绩。"
+  },
+  {
+    "group": "astra",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-14",
+    "addedAt": "2026-10-14",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "promptExcerpt": "a scientifically accurate, real-time 3D black hole in C++",
+    "promptSummary": "作者公开统一任务要求：C++ 实时三维黑洞，每个像素反向积分光子，令透镜、阴影与吸积盘由所建物理模型形成；完整措辞与评估范围回原站查看。",
+    "promptUrl": "https://bhbench.ssh.codes/model/astra6",
+    "demoUrl": "https://bhbench.ssh.codes/model/astra6",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/SSHdotCodes/bhbench/tree/main/submissions/gpt-6-astra-xhigh",
+    "id": "sshcodes-bhbench-astra",
+    "title": "BHBench：Astra 原生黑洞、光线积分与曲率网格",
+    "titleEn": "BHBench — Astra Native Black Hole, Ray Integration and Curvature Grid",
+    "category": "科学与教育",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub",
+      "Website"
+    ],
+    "author": "SSHdotCodes / BHBench",
+    "sourceUrl": "https://github.com/SSHdotCodes/bhbench",
+    "sourceAccess": "本轮完整 GET 原作者模型归属表、Astra 原始工程 README / 物理说明与模型演示入口；两张原生输出 PNG 校验 MIME、Content-Length、SHA-256、完整解码并通过 view_image 实际查看。演示 HTML 200 只证明入口可达，未执行源码或独立复算。",
+    "promptAvailability": "excerpt",
+    "modelLabel": "GPT-6 Astra · xhigh（作者归属表；Codex 原生工程）",
+    "evidenceNote": "作者归属表明确 gpt-6-astra-xhigh 是 Codex / xhigh 生成的独立黑洞工程。预览直接来自该提交的 captures 目录，展示原生 C++17 / OpenGL 4.1 光线积分与曲率网格。网上 WebGL2 为另行移植的展示层，不把移植、基准管理或其他模型结果一并归给 Astra。",
+    "summary": "可切换观测者与空间曲率视图，查看吸积盘、光线弯曲和频移，或关闭单项效果比较。作者保存模型生成的完整 C++ / GLSL 工程、物理说明、测试与原生截图，适合研究程序渲染怎样连接几何与数值假设。",
+    "outputType": [
+      "C++17 / OpenGL 4.1 原生交互程序",
+      "GLSL 光线积分与程序化吸积盘",
+      "Flamm 空间曲率网格",
+      "另行适配的 WebGL2 演示"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/SSHdotCodes/bhbench/main/submissions/gpt-6-astra-xhigh/captures/observer-fine.png",
+    "imageKind": "screenshot",
+    "imageCaption": "Astra 原始提交的 Fine 原生截图：琥珀伪色吸积盘、背景透镜与参数面板；补充图为同一工程的空间曲率网格。",
+    "evidenceUrls": [
+      "https://raw.githubusercontent.com/SSHdotCodes/bhbench/main/README.md",
+      "https://raw.githubusercontent.com/SSHdotCodes/bhbench/main/submissions/gpt-6-astra-xhigh/README.md",
+      "https://raw.githubusercontent.com/SSHdotCodes/bhbench/main/submissions/gpt-6-astra-xhigh/docs/PHYSICS.md",
+      "https://raw.githubusercontent.com/SSHdotCodes/bhbench/main/submissions/gpt-6-astra-xhigh/captures/curvature.png"
+    ],
+    "licenseNotes": "作者档案明确不对所有提交统一施加仓库级许可证；复用须另查提交与依赖条款。截图保留原作者权利，本库外链不改授 MIT。",
+    "outcome": "两张 2880×1920 原生 PNG 完整获取、解码与目视通过。保留非旋转 Schwarzschild、薄盘与合成星场等限制；曲率嵌入高度是示意坐标，琥珀是显示伪色，不是天文实拍或流体磁场模拟。作者的性能与物理测试声明未在本库复算。运行记录9月4日是实验日，不能据此确定首次公开日期，sourceDate 保持 null；同作品多视图与各模型比较不拆数量。"
+  },
+  {
+    "group": "astra",
+    "sourceDate": null,
+    "secondaryPublishedAt": "2026-10-12",
+    "observedAt": "2026-10-14",
+    "addedAt": "2026-10-14",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/ShaoShuai0605/PhysCodeGym",
+    "id": "physcodegym-astra-reconstruction",
+    "title": "PhysCodeGym：牛顿摆重建与被测出的物理违例",
+    "titleEn": "PhysCodeGym — Newton Cradle Reconstruction and Measured Physics Failures",
+    "category": "科学与教育",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "Shuai Shao 等 / PhysCodeGym 研究团队",
+    "sourceUrl": "https://github.com/ShaoShuai0605/PhysCodeGym",
+    "sourceAccess": "完整 GET 原研究团队 README、发布说明、参考素材许可和两份资产 manifest；Astra 牛顿摆 GIF 与两张研究证据图完成 MIME / Content-Length / SHA-256 核对、Pillow 全帧解码及 view_image 实际查看，hash 与作者 manifest 一致。未运行 Blender、实验代码或评测器。",
+    "promptAvailability": "not-found",
+    "modelLabel": "GPT-6 Astra · Codex（原团队明确对应重建样本；配置未独立复核）",
+    "evidenceNote": "原 README 与 physics manifest 将 physics_iq_0160_single_cradle 重建明确标为 GPT-6-Astra；Astra 用代码创建可执行 Blender 场景，研究团队的验证器渲染、测量并制作对比图与回放。GIF 上方是原参考视频，下方才是 Astra 重建；图表与框架、其他模型实验不统一归因于 Astra。",
+    "summary": "从参考视频重建可执行三维场景，并对外观、运动和物理行为分别检查。牛顿摆看似复原了物体与事件，作者测量却显示松手后势能超过初始总能量；台球补充证据展示越过桌沿后仍悬空的支撑边界缺陷。",
+    "outputType": [
+      "Blender 程序三维 / 时序重建",
+      "96 帧 / 8 秒作者证据回放 GIF",
+      "牛顿摆能量检查",
+      "台球反事实支撑检查"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/ShaoShuai0605/PhysCodeGym/main/docs/assets/physics/astra_cradle.gif",
+    "imageKind": "screenshot",
+    "imageCaption": "作者 8 秒证据回放：上方 Reference 是输入视频，下方 GPT-6-Astra 是重建输出，右侧为研究团队测量曲线；末尾停留在见证帧供观察。不是全实验原始录像。",
+    "evidenceUrls": [
+      "https://raw.githubusercontent.com/ShaoShuai0605/PhysCodeGym/main/README.md",
+      "https://raw.githubusercontent.com/ShaoShuai0605/PhysCodeGym/main/docs/assets/physics/manifest.json",
+      "https://raw.githubusercontent.com/ShaoShuai0605/PhysCodeGym/main/docs/assets/paper/manifest.json",
+      "https://raw.githubusercontent.com/ShaoShuai0605/PhysCodeGym/main/docs/assets/paper/validity_energy.png",
+      "https://raw.githubusercontent.com/ShaoShuai0605/PhysCodeGym/main/docs/assets/paper/counterfactual_support.png",
+      "https://raw.githubusercontent.com/ShaoShuai0605/PhysCodeGym/main/THIRD_PARTY_NOTICES.md"
+    ],
+    "licenseNotes": "工程保留原 MIT 贡献者通知；Harbor / Physics-IQ 代码和参考视频另有 Apache-2.0、CC-BY-4.0 等来源条款，其他素材按 THIRD_PARTY_NOTICES 与任务清单独立许可。本库仅外链原图，不将第三方媒体改授 MIT。",
+    "outcome": "主 GIF 960×540、96 帧、8 秒完整获取与全帧解码；两张 PNG 2200×859 / 2000×1489 完整解码并目视，通过三份媒体 hash 与作者 manifest 对照。作者报告牛顿摆势能约9.44 mJ高于估计初始总能约4.97 mJ，台球反事实场景越过桌沿仍悬空；这些是作者测量，不是本库独立复现。公开工程为任务与评测框架，不能等同每个原 Astra 生成场景已可下载。10月12日是 CHANGELOG 记录的独立源码发布日，原研究图首次公开日未核实，sourceDate 保持 null；回放从原帧85开始并停留236，不计入完整录像统计。"
+  },
+  {
     "id": "shmopix-plush-octopus",
     "title": "Plush Octopus：绒面章鱼、触腕弯折与软体翻倒",
     "titleEn": "Plush Octopus — A Velvet Toy and Bendable Arms",
@@ -2970,48 +3313,6 @@
     ]
   },
   {
-    "id": "tural-four-model-3d-prop",
-    "title": "同图重建道具：Astra、Sol、Sonnet 与 Opus 四格对照",
-    "titleEn": "Four-model 3D Prop Reconstruction — Astra, Sol, Sonnet and Opus",
-    "group": "astra",
-    "category": "CAD / Blender",
-    "platform": "LinkedIn",
-    "platforms": [
-      "LinkedIn"
-    ],
-    "author": "Tural Dzhalilov / QuadcodeAI",
-    "sourceUrl": "https://www.linkedin.com/posts/tural-dzhalilov_which-ai-model-understands-3d-best-gpt-astra-activity-7513161546236227584-L1lc",
-    "sourceDate": "2026-10-06",
-    "secondaryPublishedAt": null,
-    "observedAt": "2026-10-08",
-    "addedAt": "2026-10-08",
-    "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / Claude Sonnet 5.5 / Opus 5.5（独立对照，作者称 XHigh）",
-    "evidenceLevel": "author",
-    "evidenceStatus": "读取原作者说明并目视检查真实成果媒体",
-    "evidenceNote": "发布者称四模型同一参考对象、提示和环境，均为 XHigh。Astra 结果位于左上角；其余格分别属于独立模型。未公开会话、工程或完整版本标识，也不能由单次样例推出普遍排名。帖子含 QuadcodeAI 促销信息。",
-    "sourceAccess": "直接读取原帖 HTML 与 JSON-LD（datePublished 2026-10-06T09:01:40.413Z，上海 10 月 6 日），完整 GET 800×775 JPEG（56,300 字节）并用 view_image 核查四格不同的三维长枪游戏道具渲染和模型标签；HTML 未暴露可保存的完整录像 URL。",
-    "summary": "同一参考道具的四模型三维重建对照，比较形体、细节和资源消耗。Astra 图标旁作者报告 15 分 51 秒、688K tokens、估算 $2.22；这些是一次展示的作者数据，没有独立核验计费口径。",
-    "outputType": [
-      "三维游戏道具渲染",
-      "四模型独立视觉对照"
-    ],
-    "promptAvailability": "author-description",
-    "promptExcerpt": null,
-    "promptSummary": "帖子说明相同任务和输入条件，但未提供原始提示全文或工程。",
-    "promptUrl": null,
-    "imageUrl": "https://media.licdn.com/dms/image/v2/D4E22AQEOPS6O3nW1bQ/feedshare-shrink_800/B4EaEQE0WEI8Ac-/0/1791271061423?e=2147483647&v=beta&t=V5xPnIzh1hfECHD-rRzHVe8QlH2uRjnG5EbItkRvjgM",
-    "imageKind": "author-comparison",
-    "imageCaption": "作者四格实际三维渲染对照，左上为 GPT Astra；其他格是独立 Sol、Sonnet 与 Opus 结果。",
-    "demoUrl": null,
-    "videoUrl": null,
-    "repositoryUrl": null,
-    "evidenceUrls": [
-      "https://www.linkedin.com/posts/tural-dzhalilov_which-ai-model-understands-3d-best-gpt-astra-activity-7513161546236227584-L1lc"
-    ],
-    "licenseNotes": "作品和第三方媒体保留原作者权利；公开可见不等于自由再分发，不纳入本仓库 MIT。",
-    "outcome": "成果图可查看；没有公开网格或可试玩地址，模型、耗时和成本均属于发布者自述。"
-  },
-  {
     "id": "retrostyle-four-asset-packs",
     "title": "四套资产包：美术师主导、Astra 辅助 Blender 流程",
     "titleEn": "Four Asset Packs — Artist-led Blender Work with Astra Assistance",
@@ -3568,40 +3869,56 @@
     "category": "建筑与室内",
     "platform": "LinkedIn",
     "platforms": [
-      "LinkedIn"
+      "LinkedIn",
+      "X"
     ],
     "author": "Alex Mashrabov / Higgsfield",
     "sourceUrl": "https://www.linkedin.com/posts/amashrabov_our-team-has-been-testing-gpt-6-astra-on-activity-7503945317143289856-L6x9",
     "sourceDate": "2026-09-11",
     "secondaryPublishedAt": null,
-    "observedAt": "2026-10-07",
+    "observedAt": "2026-10-14",
     "addedAt": "2026-10-07",
     "modelLabel": "GPT-6 Astra scene code + Higgsfield / Blender / Cycles",
     "evidenceLevel": "author",
     "evidenceStatus": "原作者模型声明、准确发布日期、实际 Blender 与 Cycles 对照图已核查",
-    "evidenceNote": "Higgsfield 作者声明 Astra 生成场景代码，Higgsfield 在 Blender 构建布景并使用 Cycles 渲染。不是把所有建模与渲染都称为 Astra 单独完成；“数分钟”是作者报告。没有公开完整代码、工程、精确模型配置或生成会话，未核实椭圆形办公室的测量准确性。",
-    "sourceAccess": "原 LinkedIn 帖 HTTP 200，VideoObject JSON-LD datePublished=2026-09-10T22:39:40.102Z，换算上海 9 月 11 日。720×720 原作者封面 image/jpeg 48,645 字节，view_image 确认顶部完成渲染与底部 Blender 编辑视图。源 30 秒录像 HTTP 200 / video/mp4 / 2,529,588 字节，核查 8、20、28 秒抽帧，桌面、门窗、壁炉与相应模型持续可见；录像仅供核查，不计完整站内归档。未运行生成代码、取得 .blend 或独立重建布景。",
+    "evidenceNote": "Higgsfield 作者声明 Astra 生成场景代码，Higgsfield 在 Blender 构建布景并使用 Cycles 渲染。不是把所有建模与渲染都称为 Astra 单独完成；“数分钟”是作者报告。没有公开完整代码、工程、精确模型配置或生成会话，未核实椭圆形办公室的测量准确性。 2026-10-14补查团队更早X原帖，作者明确相同Astra代码→Higgsfield / Blender / Cycles流程；原帖时间戳与精确Fx元数据一致，上海首发9月4日。保留LinkedIn主来源、9月11日sourceDate、secondaryPublishedAt和10月7日原收录日；更早团队X展示9月4日只作为补充证据日期。同一作品只修复旧档案，不新增重复case。",
+    "sourceAccess": "2026-10-14原LinkedIn页面完整GET200，当前旧media.licdn封面及dms.licdn同帖备用缩略图在保留证书与hostname验证时失败，未关闭TLS校验。回溯Higgsfield团队精确X原帖完整GET200/text/html/167,529B，作者/Astra声明/created_at_ms与同帖Fx元数据匹配，上海2026-09-04 05:49:08；与原LinkedIn9月11日发布日期分开。新X同作封面fullGET200/image/jpeg/1080×1080/155,588B，Content-Length/SHA-256/Pillow完整解码通过，实际view_image查看并与10月7日旧LinkedIn封面确认完全相同布景与上下渲染/灰模构成。X原帖30秒完整录像的最高平台原版和小平台版已完整下载，时长均30.06秒，MIME、字节、SHA和媒体ID核对，两版严格FFmpeg null全长解码exit0/空stderr，未裁剪或转码；封面及中帧实际查看。未执行第三方代码、打开Blender或独立复现工程。",
     "summary": "从场景描述制作完整室内布景，录像以完成渲染和 Blender 灰模同步漫游展示门窗、桌椅与壁炉。适合参考同一三维场景如何换镜头和光照；可编辑性是作者描述，公开素材限原帖图与录像。",
     "outputType": [
       "Blender 室内场景",
       "Cycles 建筑渲染",
-      "渲染与灰模同步巡览"
+      "渲染与灰模同步巡览",
+      "完整运行录像"
     ],
     "promptAvailability": "author-description",
     "promptExcerpt": null,
     "promptSummary": "作者只描述文字布景需求和后续换镜头/灯光用途；没有公开精确提示词或完整对话。",
     "promptUrl": "https://www.linkedin.com/posts/amashrabov_our-team-has-been-testing-gpt-6-astra-on-activity-7503945317143289856-L6x9",
-    "imageUrl": "https://media.licdn.com/dms/image/v2/D5605AQEGJc8RhcvirA/videocover-high/B56aCNeeEcHkBM-/0/1789079973198?e=2147483647&v=beta&t=nOXlVE39aasRJtquxfcL0xtPsjsKffpVMRGvum7GlLQ",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2095629993678344192/img/oeJjkRnaLqUwLQp3.jpg",
     "imageKind": "video-poster",
-    "imageCaption": "作者原帖完成室内渲染（上）与 Blender 编辑视图（下）的实际对照成果。",
+    "imageCaption": "Higgsfield 团队原始 X 完整录像封面：上方完成室内渲染，下方 Blender 编辑视图；与原 LinkedIn 封面明确为同一布景，采用1080×1080版本恢复可查看预览。",
     "demoUrl": null,
     "videoUrl": "https://www.linkedin.com/posts/amashrabov_our-team-has-been-testing-gpt-6-astra-on-activity-7503945317143289856-L6x9",
     "repositoryUrl": null,
     "evidenceUrls": [
-      "https://media.licdn.com/dms/image/v2/D5605AQEGJc8RhcvirA/videocover-high/B56aCNeeEcHkBM-/0/1789079973198?e=2147483647&v=beta&t=nOXlVE39aasRJtquxfcL0xtPsjsKffpVMRGvum7GlLQ"
+      "https://media.licdn.com/dms/image/v2/D5605AQEGJc8RhcvirA/videocover-high/B56aCNeeEcHkBM-/0/1789079973198?e=2147483647&v=beta&t=nOXlVE39aasRJtquxfcL0xtPsjsKffpVMRGvum7GlLQ",
+      "https://x.com/higgsfield_ai/status/2095630197257367857",
+      "https://api.fxtwitter.com/higgsfield_ai/status/2095630197257367857"
     ],
     "licenseNotes": "Higgsfield 演示、Blender 场景和照片/模型资产保留各自权利，原帖未发布工程或开放媒体许可证。外链成果并署名，不表示可自由复制整套布景。",
-    "outcome": "实际室内渲染、灰模和源录像画面已查看；代码、工程和独立试玩未公开，不把原帖视频当作交互部署或独立复现。"
+    "outcome": "实际室内渲染、灰模和源录像画面已查看；代码、工程和独立试玩未公开，不把原帖视频当作交互部署或独立复现。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/mashrabov-oval-office-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-14/mashrabov-oval-office-1-original.mp4",
+        "durationSeconds": 30.06,
+        "bytes": 10403594,
+        "sha256": "22c3abe82b2d361d0bcf9e9510bd1a238a8737d3594afbb11d881e73580484b7",
+        "sourceUrl": "https://x.com/higgsfield_ai/status/2095630197257367857",
+        "label": "Higgsfield × Astra — A Reshootable Oval Office 3D Set",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2095629993678344192/img/oeJjkRnaLqUwLQp3.jpg"
+      }
+    ]
   },
   {
     "id": "miya-little-city-studio",
@@ -3879,49 +4196,6 @@
     ]
   },
   {
-    "id": "humaid-roomplay",
-    "title": "Roomplay：房屋漫游与家具尺寸、配色原型",
-    "titleEn": "Roomplay — Home Walkthrough and Furniture Layout Prototype",
-    "group": "astra",
-    "category": "建筑与室内",
-    "platform": "LinkedIn",
-    "platforms": [
-      "LinkedIn"
-    ],
-    "author": "Humaid Hussain",
-    "sourceUrl": "https://www.linkedin.com/posts/humaidobaidhussain_in-the-past-7-days-ive-been-exploring-gpt-activity-7507717917245923328-fOrF",
-    "sourceDate": "2026-09-21",
-    "secondaryPublishedAt": null,
-    "observedAt": "2026-10-06",
-    "addedAt": "2026-10-06",
-    "modelLabel": "GPT-6 Astra（作者声明；未公开精确配置）",
-    "evidenceLevel": "author",
-    "evidenceStatus": "原作者原帖、准确日期、真实房屋效果封面及三个运行画面已核查",
-    "evidenceNote": "作者明确过去七天使用 GPT-6 Astra 迭代三维网站，制作房屋漫游与家具摆放/尺寸原型；经历多轮测试和修正，不能称为一提示词完成。原帖录像展示第三人称室内、家具照片与 approximate 3D shape 标签、墙面换色。作者展示的是近似家具形状与演示尺寸；未公开尺寸校准、平面图还原准确率或完整工程，不能当作施工或家具采购精度保证。没有独立验证实际交互。",
-    "sourceAccess": "原作者 LinkedIn 原帖 HTTP 200，VideoObject JSON-LD datePublished=2026-09-21T08:30:38.049Z（上海 9 月 21 日）。作者 720×1280 房屋泳池封面 HTTP 200 / image/jpeg，下载并 view_image 查看；源录像 HTTP 200 / video/mp4，仅供来源视觉核查，8、18、27 秒抽帧检查室内漫游、近似椅子摆放与墙面颜色页面，不计入完整归档视频数。原帖所附 lnkd.in/ejNDubqh 短链普通请求失败/连接重置，未得到可核查部署地址，demoUrl 保持 null。平台图片签名名义期限 e=2147483647，不保证未来可达。未运行第三方代码或复制工程。",
-    "summary": "把平面房屋概念做成可漫游空间，展示第三人称室内、试放家具与墙面配色。录像清楚标注家具形状和尺寸为近似值；公开效果可看，作者试玩短链在本次核查中未能解析。",
-    "outputType": [
-      "三维房屋与室内原型",
-      "家具近似模型与摆放展示",
-      "墙面配色展示"
-    ],
-    "promptAvailability": "author-description",
-    "promptExcerpt": null,
-    "promptSummary": "作者公开需求和迭代过程描述：从平面图理解房间，加入家具摆放、尺寸与颜色试验；没有完整模型输入和对话。",
-    "promptUrl": "https://www.linkedin.com/posts/humaidobaidhussain_in-the-past-7-days-ive-been-exploring-gpt-activity-7507717917245923328-fOrF",
-    "imageUrl": "https://media.licdn.com/dms/image/v2/D4E05AQFEXSgMEoIIrA/videocover-high/B4EaC_MF8CIgBM-/0/1789914016509?e=2147483647&v=beta&t=0ldbn9bFKUaIcjmGKdD-1Ud2n09MJjYfOMo8QcD3PQA",
-    "imageKind": "video-poster",
-    "imageCaption": "原作者 Roomplay 原型的实际房屋与泳池效果封面；录像另外展示内部漫游、近似家具和换色。",
-    "demoUrl": null,
-    "videoUrl": "https://www.linkedin.com/posts/humaidobaidhussain_in-the-past-7-days-ive-been-exploring-gpt-activity-7507717917245923328-fOrF",
-    "repositoryUrl": null,
-    "evidenceUrls": [
-      "https://lnkd.in/ejNDubqh"
-    ],
-    "licenseNotes": "作者网站、房屋场景、人物和家具参考图依各自权利；未公开工程或单独素材许可证。仅引用原帖封面与来源，不将照片推导出的家具模型视为精确复刻或开放资产。",
-    "outcome": "showcase"
-  },
-  {
     "group": "astra",
     "platform": "note",
     "platforms": [
@@ -4108,50 +4382,6 @@
     ],
     "licenseNotes": "两仓库未见覆盖全部原创工程的开放许可；MONO NOTICE 明确参考图版权未知。Three.js/meshoptimizer 依赖许可不涵盖参考、工程和作者截图；本库只外链并署名，不纳入本库 MIT。",
     "outcome": "Blender 美术图与两张 Three.js 截图实际可查看，公开模型文件头有效。毛发、眼睛、绑定和整体网格未独立验收；相似度与浏览器测试属于作者评审。公开 Pages 可达性不等于所有设备完成试玩，跨轮退步已保留。 MONO 工作台已实际显示三维猫，属于有限展示检查，未验证所有交互或设备。"
-  },
-  {
-    "id": "jose-pascualin-trumpet",
-    "title": "Pascualín：吹小号人物的 Blender 三视图",
-    "titleEn": "Pascualín — A Trumpet-Playing Figure in Blender",
-    "group": "astra",
-    "category": "角色与动画",
-    "platform": "LinkedIn",
-    "platforms": [
-      "LinkedIn"
-    ],
-    "author": "José Daniel García Espinel",
-    "sourceUrl": "https://www.linkedin.com/posts/jose-daniel-garcia-espinel_gpt-astra-blender-activity-7502485726295482368-a7EO",
-    "sourceDate": "2026-09-07",
-    "secondaryPublishedAt": null,
-    "observedAt": "2026-10-05",
-    "addedAt": "2026-10-05",
-    "modelLabel": "GPT-6 Astra + Blender；ChatGPT 生成角色参考图（作者自述）",
-    "evidenceLevel": "author",
-    "evidenceStatus": "直接读取原作者声明、原帖时间元数据与三张成果视图",
-    "evidenceNote": "作者先让 ChatGPT 生成角色多角度参考图，再交给 GPT-6 Astra 建立 Blender 人物模型，并追加可打印要求；作者称 Astra 直接操作程序而未用 MCP 或连接器。原帖四图中的第一张明确标为 REFERENCIA，属于输入参考；后面三张是作者说明中的成果视图，模型的脸部、鞋和背包细节与输入图不同。作者提及 30 厘米和可打印，但没有公开网格、导出文件、切片结果或实体打印照片，不能据此认证尺寸、封闭性或打印可用性，也未独立核实其程序操作方式。",
-    "sourceAccess": "原作者 LinkedIn 页面 HTTPS 200；SocialMediaPosting JSON-LD 的 datePublished 为 2026-09-06T21:59:46.529Z，换算上海时间 9 月 7 日 05:59:46。原帖四张 image metadata 均成功下载 HTTP 200 / image/jpeg 至 ignored work/refresh-2026-10-05/pascualin-0.jpg 至 -3.jpg，并用 view_image 逐张查看。第 0 张为输入参考板，未用作案例封面；第 1 至 3 张为吹小号人物正斜侧、侧面、背面输出图。封面签名链接 e=2147483647 名义有效期至 2038 年，但平台删除和签名撤回仍会使其失效。未打开 Blender、下载模型或独立复现。",
-    "summary": "作者把 ChatGPT 生成的角色参考板交给 Astra，在 Blender 中制作穿背带裤、背书包并吹小号的儿童人偶。公开三张成果视图，可比较头发、小号、衣物和背包；可打印性尚无文件或实物验证。",
-    "outputType": [
-      "Blender 人物模型",
-      "多视角渲染图"
-    ],
-    "promptAvailability": "公开任务与流程描述，未公开完整提示词或对话",
-    "promptExcerpt": null,
-    "promptSummary": "先生成角色的多角度参考图，再要求 Astra 建立三维模型，随后提出可打印要求；作者没有公开逐轮输入，流程转述不充作原始提示词。",
-    "promptUrl": "https://www.linkedin.com/posts/jose-daniel-garcia-espinel_gpt-astra-blender-activity-7502485726295482368-a7EO",
-    "imageUrl": "https://media.licdn.com/dms/image/v2/D4E22AQFIxI8Va8NvXA/feedshare-image-high-res/B4EaB4vAnyH8AU-/0/1788731984614?e=2147483647&v=beta&t=ZHCx5S_1aUo6Bjioz7qfI3MdodG_6wdQtpaeASNfE0g",
-    "imageKind": "author-render",
-    "imageCaption": "作者原帖第二张图：穿蓝色背带裤、背书包的 Pascualín 在底座上吹小号；使用成果视图，未使用第一张标注 REFERENCIA 的输入参考板。",
-    "demoUrl": null,
-    "videoUrl": null,
-    "repositoryUrl": null,
-    "evidenceUrls": [
-      "https://es.linkedin.com/posts/jose-daniel-garcia-espinel_gpt-astra-blender-activity-7502485726295482368-a7EO",
-      "https://media.licdn.com/dms/image/v2/D4E22AQEsrhftLOL2HA/feedshare-shrink_1280/B4EaB4vAnGJwAM-/0/1788731984620?e=2147483647&v=beta&t=sASi5gd1IO0CO29JGT1q4L5Kf6Dl4n_gqFWboOb02CQ",
-      "https://media.licdn.com/dms/image/v2/D4E22AQHqGafIDz443A/feedshare-image-high-res/B4EaB4vAm9G8AU-/0/1788731984554?e=2147483647&v=beta&t=aWSh3y-68pKFjWIY8Trj28bfB3efTA5GauOQMRqT3YU"
-    ],
-    "licenseNotes": "角色参考图、成果图与模型保留作者及相关权利人的权利；未发现公开源码、模型文件或单独复用许可证，图片外链原平台。",
-    "outcome": "原作者模型声明、准确原帖日期和三张实际成果图已核查；不是独立复现，不声称已打印，也没有公开试玩或工程入口。"
   },
   {
     "id": "tiago-parliament-3d",
@@ -4359,93 +4589,6 @@
     ],
     "licenseNotes": "根目录未见该原创工程统一 LICENSE；THIRD_PARTY_NOTICES 只保留 Three.js、gltfpack、Playwright 等软件依赖许可。公开源码与 GLB 不等于自动取得自由再分发许可，参考照片继续归其权利人。效果图外链作者原仓库并保留署名，不纳入本库 MIT。",
     "outcome": "实际打开作者工作台并查看正面人物、11 轮记录，Back 与 Clay 切换后确认背面与黏土材质，控制台 warn/error 为空。未测试下载按钮、手机或全部交互，未完整验证 GLB 或独立复现；技术校验不能证明照片相似度或达到视觉目标。"
-  },
-  {
-    "id": "tianyu-monsoon-funnel",
-    "title": "Monsoon Funnel：庭院建筑与雨水循环模拟",
-    "titleEn": "Monsoon Funnel — Courtyard Architecture and Rainwater Simulation",
-    "group": "astra",
-    "category": "建筑与室内",
-    "platform": "LinkedIn",
-    "platforms": [
-      "LinkedIn"
-    ],
-    "author": "Tianyu Xu + Ar. June Chow",
-    "sourceUrl": "https://www.linkedin.com/posts/tianyuxu_a-3d-model-unlimited-exploration-storytelling-activity-7511789216536625152-3nwC",
-    "sourceDate": "2026-10-02",
-    "secondaryPublishedAt": null,
-    "observedAt": "2026-10-04",
-    "addedAt": "2026-10-04",
-    "modelLabel": "GPT-6 Astra + Claude Opus 5.5 + Blender；后续 Codex 水循环模拟（作者自述）",
-    "evidenceLevel": "author",
-    "evidenceStatus": "直接读取原作者帖子、视频元数据并检查原始输出封面",
-    "evidenceNote": "原作者明确将 GPT-6 Astra 与 Opus 5.5 列为建筑模型的主要模型，由本人和建筑师 June Chow 使用截图标注持续反馈，AI 工具操作 Blender。雨水收集至循环的模拟是之后与 June 和 Codex 讨论再添加的；帖子没有说明这一模拟使用的具体模型，也没有逐个拆分 Astra 和 Opus 的建筑部件责任，不能把全部建筑和水模拟都归为 Astra 单独完成。",
-    "sourceAccess": "原作者 LinkedIn 页面 HTTP 200，JSON-LD VideoObject 的 datePublished/uploadDate 均为 2026-10-02T14:08:31.516Z（上海时间 22:08:31），duration 为 PT41S。页面暴露原始 720p/640p MP4 地址及作者视频封面。封面已下载至 ignored work/refresh-2026-10-04/tianyu-living.jpg，并用 view_image 实际查看；可见 Monsoon Funnel 建筑庭院、水流、Explore/Walk/Explode/Camera/Simulation 页签和照明控制。未下载、播放或独立验证完整视频、交互、Blender 工程与水系统物理准确性。页面中的 luma.com/3d4design 是讲座报名入口，未作为作品试玩入口。 LinkedIn 封面当前为带 CDN 签名的公开外链，e=2147483647 名义有效期至 2038-01-19T03:14:07Z；作品删除、签名撤回或平台变化仍可使链接失效，未找到作者控制的永久无签名图片地址。",
-    "summary": "作者与建筑师把庭院建筑做成三维模型，再加入雨水收集与循环的模拟，展示建筑空间与水流。作者署名的实际封面可见庭院座椅、树木、水池、顶部落水和模型控制界面；具体建模分工与模拟物理精度未公开。",
-    "outputType": [
-      "Blender 建筑模型",
-      "建筑空间与雨水模拟展示",
-      "作者视频片段"
-    ],
-    "promptAvailability": "公开工作流程描述，未公开完整提示词与对话",
-    "promptExcerpt": null,
-    "promptSummary": "用截图标注反馈调整建筑模型，随后添加从雨水收集到循环的水系统模拟。未把这段流程描述当作原始输入提示词。",
-    "promptUrl": "https://www.linkedin.com/posts/tianyuxu_a-3d-model-unlimited-exploration-storytelling-activity-7511789216536625152-3nwC",
-    "imageUrl": "https://media.licdn.com/dms/image/v2/D5605AQGopE0uDehcOA/videocover-high/B56aD88cYJG4BU-/0/1790950100952?e=2147483647&v=beta&t=d3n9GQgfxcT7ITTVEtQfvmXbJW4NOTtHEjrAX1Kmo_E",
-    "imageKind": "video-poster",
-    "imageCaption": "作者原始视频封面：Monsoon Funnel 庭院、水池与顶部落水，画面署名 June Chow / Tianyu Xu，并展示漫游、拆解、镜头、模拟和照明控制；混合 Astra/Opus 建模。",
-    "demoUrl": null,
-    "videoUrl": "https://www.linkedin.com/posts/tianyuxu_a-3d-model-unlimited-exploration-storytelling-activity-7511789216536625152-3nwC",
-    "repositoryUrl": null,
-    "evidenceUrls": [
-      "https://www.linkedin.com/feed/update/urn:li:activity:7511789216536625152/"
-    ],
-    "licenseNotes": "第三方建筑、图片、录像与模型保留 Tianyu Xu、June Chow 及相关权利人的权利；未查到公开源码、模型下载或单独复用许可证。封面外链原平台并保留署名，活动报名入口不等于作品分发。",
-    "outcome": "已核查直接作者模型声明、精确原帖时间与实际三维输出封面；完整片段尚未由本轮核查下载或播放，未试玩、打开 Blender 或独立复现建筑和模拟。"
-  },
-  {
-    "id": "tianyu-painting-cat-action",
-    "title": "古画楼阁：从建筑模型到猫角色动作游戏",
-    "titleEn": "Painted Pavilion — From Architecture to a Cat Action Game",
-    "group": "astra",
-    "category": "3D 游戏",
-    "platform": "LinkedIn",
-    "platforms": [
-      "LinkedIn"
-    ],
-    "author": "Tianyu Xu",
-    "sourceUrl": "https://www.linkedin.com/posts/tianyuxu_this-is-a-three-weekend-project-thanks-activity-7509962135574089728-5sIG",
-    "sourceDate": "2026-09-27",
-    "secondaryPublishedAt": null,
-    "observedAt": "2026-10-04",
-    "addedAt": "2026-10-04",
-    "modelLabel": "GPT-6 Astra / Codex + Blender 建筑与网页；Claude Opus 5.5 动画与游戏迭代，Seedance 2.5 视频支线",
-    "evidenceLevel": "author",
-    "evidenceStatus": "直接读取原作者帖子、精确视频元数据并查看作者流程图与游戏封面",
-    "evidenceNote": "原作者明确感谢 GPT-6 Astra、Opus 5.5 和 Blender，并称在三周末里从建筑模型扩展到猫角色、动画和三维动作游戏。实际封面的作者流程图进一步把 Codex GPT-6 Astra → Blender Headless → 3D model + site 和 Flight-path tool 标注为 Astra 路线；后面的 Blender Animation、2D/3D Animation、视频合成分支标为 Claude Code Opus 5.5，video-to-video 支线标为 Seedance 2.5。游戏是这一混合项目的后续产物，不能把角色、全部动画或成片都称为 Astra 独立生成。",
-    "sourceAccess": "原作者 LinkedIn 页面 HTTP 200；datePublished/uploadDate 均为 2026-09-27T13:08:21.468Z（上海时间 21:08:21），duration 为 PT12M46S。页面的 data-sources 提供 720p 和 640p 原始 MP4 变体，JSON-LD contentUrl 指向 640p。下载作者原始视频封面至 ignored work/refresh-2026-10-04/tianyu-game.jpg 并用 view_image 查看：上半图为有模型标签的真实制作流程图，下半图为猫角色、楼阁、桥梁和血量界面的游戏画面。封面还注明 Painting: Li Song / NPM / CC BY 4.0，以及 Yingzao Fashi 书页属于 public domain，均为作者标注而未另行独立核证。未下载、播放全部录像，未确认公开试玩、源码或工程分发入口。 LinkedIn 封面当前为带 CDN 签名的公开外链，e=2147483647 名义有效期至 2038-01-19T03:14:07Z；作品删除、签名撤回或平台变化仍可使链接失效，未找到作者控制的永久无签名图片地址。",
-    "summary": "以古画和建筑书页为参考做出楼阁模型、网页探索与镜头路径工具，再通过 Opus 等工具扩展动画和猫角色动作游戏。作者封面同时展示工具分工和实际桥面战斗画面，公开材料是作者演示录像，尚未确认对外试玩或可下载工程。",
-    "outputType": [
-      "Blender 楼阁建筑模型",
-      "三维网页探索与镜头路径",
-      "混合工具动作游戏展示",
-      "作者制作过程视频"
-    ],
-    "promptAvailability": "公开工作流程与探索问题，未公开完整原始生成对话",
-    "promptExcerpt": null,
-    "promptSummary": "从古画及建筑书页建立三维模型和网页，添加拆解、飞行镜头路径，再扩展猫角色、动画与游戏。这是作者公开的步骤概述，未重建为所谓原始完整提示词。",
-    "promptUrl": "https://www.linkedin.com/posts/tianyuxu_this-is-a-three-weekend-project-thanks-activity-7509962135574089728-5sIG",
-    "imageUrl": "https://media.licdn.com/dms/image/v2/D5605AQE_65TmDJ2qNw/videocover-high/B56aDi.j7AGoBU-/0/1790514457157?e=2147483647&v=beta&t=8BKeBcubgbdr3DlpN9QXYHhUp08fxIFcp_m_jMWrZK8",
-    "imageKind": "video-poster",
-    "imageCaption": "原作者视频封面：Astra 建筑模型与飞行路径、Opus 动画和 Seedance 视频支线的工具流程，以及桥梁楼阁中的猫角色战斗画面。",
-    "demoUrl": null,
-    "videoUrl": "https://www.linkedin.com/posts/tianyuxu_this-is-a-three-weekend-project-thanks-activity-7509962135574089728-5sIG",
-    "repositoryUrl": null,
-    "evidenceUrls": [
-      "https://sg.linkedin.com/in/tianyuxu"
-    ],
-    "licenseNotes": "作者视频、模型和游戏未查到单独复用许可证。封面标注古画参考为 Li Song / NPM / CC BY 4.0、Yingzao Fashi 书页为 public domain；这些参考材料许可不覆盖作者衍生游戏、动画或录像。第三方工具及各部分输出保留各自权利。",
-    "outcome": "已实际查看原作者流程图和游戏封面、核查混合模型声明和精确发布时间；未独立试玩或复现，未检查完整录像的每一阶段，也未确认角色建模归属。"
   },
   {
     "id": "wutian-fluffy-grove",

@@ -1808,5 +1808,241 @@
       "licenseNotes": "公开源码仓库未见单独 LICENSE；不能将可读源码等同于获得自由复用许可。图片外链作者仓库并保留署名。旧图像/三维生成路线和 Meshy 角色流程使用各自工具与资产规则。",
       "outcome": "已实际检查作者的三种场景前后对照与建筑资产渲染。没有独立运行 Unity、验证 GLB 导出、遍历场景或复核作者的成本/用时数据。"
     }
+  },
+  {
+    "removedAt": "2026-10-14",
+    "reason": "Temporarily unlisted: the current LinkedIn media preview and exact author alternatives failed TLS hostname validation during full GET, including an independent curl retry; no archived playable video or usable same-work preview was verified. Original source records are retained for restoration.",
+    "case": {
+      "id": "tural-four-model-3d-prop",
+      "title": "同图重建道具：Astra、Sol、Sonnet 与 Opus 四格对照",
+      "titleEn": "Four-model 3D Prop Reconstruction — Astra, Sol, Sonnet and Opus",
+      "group": "astra",
+      "category": "CAD / Blender",
+      "platform": "LinkedIn",
+      "platforms": [
+        "LinkedIn"
+      ],
+      "author": "Tural Dzhalilov / QuadcodeAI",
+      "sourceUrl": "https://www.linkedin.com/posts/tural-dzhalilov_which-ai-model-understands-3d-best-gpt-astra-activity-7513161546236227584-L1lc",
+      "sourceDate": "2026-10-06",
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-10-08",
+      "addedAt": "2026-10-08",
+      "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / Claude Sonnet 5.5 / Opus 5.5（独立对照，作者称 XHigh）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "读取原作者说明并目视检查真实成果媒体",
+      "evidenceNote": "发布者称四模型同一参考对象、提示和环境，均为 XHigh。Astra 结果位于左上角；其余格分别属于独立模型。未公开会话、工程或完整版本标识，也不能由单次样例推出普遍排名。帖子含 QuadcodeAI 促销信息。",
+      "sourceAccess": "直接读取原帖 HTML 与 JSON-LD（datePublished 2026-10-06T09:01:40.413Z，上海 10 月 6 日），完整 GET 800×775 JPEG（56,300 字节）并用 view_image 核查四格不同的三维长枪游戏道具渲染和模型标签；HTML 未暴露可保存的完整录像 URL。",
+      "summary": "同一参考道具的四模型三维重建对照，比较形体、细节和资源消耗。Astra 图标旁作者报告 15 分 51 秒、688K tokens、估算 $2.22；这些是一次展示的作者数据，没有独立核验计费口径。",
+      "outputType": [
+        "三维游戏道具渲染",
+        "四模型独立视觉对照"
+      ],
+      "promptAvailability": "author-description",
+      "promptExcerpt": null,
+      "promptSummary": "帖子说明相同任务和输入条件，但未提供原始提示全文或工程。",
+      "promptUrl": null,
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D4E22AQEOPS6O3nW1bQ/feedshare-shrink_800/B4EaEQE0WEI8Ac-/0/1791271061423?e=2147483647&v=beta&t=V5xPnIzh1hfECHD-rRzHVe8QlH2uRjnG5EbItkRvjgM",
+      "imageKind": "author-comparison",
+      "imageCaption": "作者四格实际三维渲染对照，左上为 GPT Astra；其他格是独立 Sol、Sonnet 与 Opus 结果。",
+      "demoUrl": null,
+      "videoUrl": null,
+      "repositoryUrl": null,
+      "evidenceUrls": [
+        "https://www.linkedin.com/posts/tural-dzhalilov_which-ai-model-understands-3d-best-gpt-astra-activity-7513161546236227584-L1lc"
+      ],
+      "licenseNotes": "作品和第三方媒体保留原作者权利；公开可见不等于自由再分发，不纳入本仓库 MIT。",
+      "outcome": "成果图可查看；没有公开网格或可试玩地址，模型、耗时和成本均属于发布者自述。"
+    }
+  },
+  {
+    "removedAt": "2026-10-14",
+    "reason": "Temporarily unlisted: the current LinkedIn media preview and exact author alternatives failed TLS hostname validation during full GET, including an independent curl retry; no archived playable video or usable same-work preview was verified. Original source records are retained for restoration.",
+    "case": {
+      "id": "humaid-roomplay",
+      "title": "Roomplay：房屋漫游与家具尺寸、配色原型",
+      "titleEn": "Roomplay — Home Walkthrough and Furniture Layout Prototype",
+      "group": "astra",
+      "category": "建筑与室内",
+      "platform": "LinkedIn",
+      "platforms": [
+        "LinkedIn"
+      ],
+      "author": "Humaid Hussain",
+      "sourceUrl": "https://www.linkedin.com/posts/humaidobaidhussain_in-the-past-7-days-ive-been-exploring-gpt-activity-7507717917245923328-fOrF",
+      "sourceDate": "2026-09-21",
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-10-06",
+      "addedAt": "2026-10-06",
+      "modelLabel": "GPT-6 Astra（作者声明；未公开精确配置）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "原作者原帖、准确日期、真实房屋效果封面及三个运行画面已核查",
+      "evidenceNote": "作者明确过去七天使用 GPT-6 Astra 迭代三维网站，制作房屋漫游与家具摆放/尺寸原型；经历多轮测试和修正，不能称为一提示词完成。原帖录像展示第三人称室内、家具照片与 approximate 3D shape 标签、墙面换色。作者展示的是近似家具形状与演示尺寸；未公开尺寸校准、平面图还原准确率或完整工程，不能当作施工或家具采购精度保证。没有独立验证实际交互。",
+      "sourceAccess": "原作者 LinkedIn 原帖 HTTP 200，VideoObject JSON-LD datePublished=2026-09-21T08:30:38.049Z（上海 9 月 21 日）。作者 720×1280 房屋泳池封面 HTTP 200 / image/jpeg，下载并 view_image 查看；源录像 HTTP 200 / video/mp4，仅供来源视觉核查，8、18、27 秒抽帧检查室内漫游、近似椅子摆放与墙面颜色页面，不计入完整归档视频数。原帖所附 lnkd.in/ejNDubqh 短链普通请求失败/连接重置，未得到可核查部署地址，demoUrl 保持 null。平台图片签名名义期限 e=2147483647，不保证未来可达。未运行第三方代码或复制工程。",
+      "summary": "把平面房屋概念做成可漫游空间，展示第三人称室内、试放家具与墙面配色。录像清楚标注家具形状和尺寸为近似值；公开效果可看，作者试玩短链在本次核查中未能解析。",
+      "outputType": [
+        "三维房屋与室内原型",
+        "家具近似模型与摆放展示",
+        "墙面配色展示"
+      ],
+      "promptAvailability": "author-description",
+      "promptExcerpt": null,
+      "promptSummary": "作者公开需求和迭代过程描述：从平面图理解房间，加入家具摆放、尺寸与颜色试验；没有完整模型输入和对话。",
+      "promptUrl": "https://www.linkedin.com/posts/humaidobaidhussain_in-the-past-7-days-ive-been-exploring-gpt-activity-7507717917245923328-fOrF",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D4E05AQFEXSgMEoIIrA/videocover-high/B4EaC_MF8CIgBM-/0/1789914016509?e=2147483647&v=beta&t=0ldbn9bFKUaIcjmGKdD-1Ud2n09MJjYfOMo8QcD3PQA",
+      "imageKind": "video-poster",
+      "imageCaption": "原作者 Roomplay 原型的实际房屋与泳池效果封面；录像另外展示内部漫游、近似家具和换色。",
+      "demoUrl": null,
+      "videoUrl": "https://www.linkedin.com/posts/humaidobaidhussain_in-the-past-7-days-ive-been-exploring-gpt-activity-7507717917245923328-fOrF",
+      "repositoryUrl": null,
+      "evidenceUrls": [
+        "https://lnkd.in/ejNDubqh"
+      ],
+      "licenseNotes": "作者网站、房屋场景、人物和家具参考图依各自权利；未公开工程或单独素材许可证。仅引用原帖封面与来源，不将照片推导出的家具模型视为精确复刻或开放资产。",
+      "outcome": "showcase"
+    }
+  },
+  {
+    "removedAt": "2026-10-14",
+    "reason": "Temporarily unlisted: the current LinkedIn media preview and exact author alternatives failed TLS hostname validation during full GET, including an independent curl retry; no archived playable video or usable same-work preview was verified. Original source records are retained for restoration.",
+    "case": {
+      "id": "jose-pascualin-trumpet",
+      "title": "Pascualín：吹小号人物的 Blender 三视图",
+      "titleEn": "Pascualín — A Trumpet-Playing Figure in Blender",
+      "group": "astra",
+      "category": "角色与动画",
+      "platform": "LinkedIn",
+      "platforms": [
+        "LinkedIn"
+      ],
+      "author": "José Daniel García Espinel",
+      "sourceUrl": "https://www.linkedin.com/posts/jose-daniel-garcia-espinel_gpt-astra-blender-activity-7502485726295482368-a7EO",
+      "sourceDate": "2026-09-07",
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-10-05",
+      "addedAt": "2026-10-05",
+      "modelLabel": "GPT-6 Astra + Blender；ChatGPT 生成角色参考图（作者自述）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "直接读取原作者声明、原帖时间元数据与三张成果视图",
+      "evidenceNote": "作者先让 ChatGPT 生成角色多角度参考图，再交给 GPT-6 Astra 建立 Blender 人物模型，并追加可打印要求；作者称 Astra 直接操作程序而未用 MCP 或连接器。原帖四图中的第一张明确标为 REFERENCIA，属于输入参考；后面三张是作者说明中的成果视图，模型的脸部、鞋和背包细节与输入图不同。作者提及 30 厘米和可打印，但没有公开网格、导出文件、切片结果或实体打印照片，不能据此认证尺寸、封闭性或打印可用性，也未独立核实其程序操作方式。",
+      "sourceAccess": "原作者 LinkedIn 页面 HTTPS 200；SocialMediaPosting JSON-LD 的 datePublished 为 2026-09-06T21:59:46.529Z，换算上海时间 9 月 7 日 05:59:46。原帖四张 image metadata 均成功下载 HTTP 200 / image/jpeg 至 ignored work/refresh-2026-10-05/pascualin-0.jpg 至 -3.jpg，并用 view_image 逐张查看。第 0 张为输入参考板，未用作案例封面；第 1 至 3 张为吹小号人物正斜侧、侧面、背面输出图。封面签名链接 e=2147483647 名义有效期至 2038 年，但平台删除和签名撤回仍会使其失效。未打开 Blender、下载模型或独立复现。",
+      "summary": "作者把 ChatGPT 生成的角色参考板交给 Astra，在 Blender 中制作穿背带裤、背书包并吹小号的儿童人偶。公开三张成果视图，可比较头发、小号、衣物和背包；可打印性尚无文件或实物验证。",
+      "outputType": [
+        "Blender 人物模型",
+        "多视角渲染图"
+      ],
+      "promptAvailability": "公开任务与流程描述，未公开完整提示词或对话",
+      "promptExcerpt": null,
+      "promptSummary": "先生成角色的多角度参考图，再要求 Astra 建立三维模型，随后提出可打印要求；作者没有公开逐轮输入，流程转述不充作原始提示词。",
+      "promptUrl": "https://www.linkedin.com/posts/jose-daniel-garcia-espinel_gpt-astra-blender-activity-7502485726295482368-a7EO",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D4E22AQFIxI8Va8NvXA/feedshare-image-high-res/B4EaB4vAnyH8AU-/0/1788731984614?e=2147483647&v=beta&t=ZHCx5S_1aUo6Bjioz7qfI3MdodG_6wdQtpaeASNfE0g",
+      "imageKind": "author-render",
+      "imageCaption": "作者原帖第二张图：穿蓝色背带裤、背书包的 Pascualín 在底座上吹小号；使用成果视图，未使用第一张标注 REFERENCIA 的输入参考板。",
+      "demoUrl": null,
+      "videoUrl": null,
+      "repositoryUrl": null,
+      "evidenceUrls": [
+        "https://es.linkedin.com/posts/jose-daniel-garcia-espinel_gpt-astra-blender-activity-7502485726295482368-a7EO",
+        "https://media.licdn.com/dms/image/v2/D4E22AQEsrhftLOL2HA/feedshare-shrink_1280/B4EaB4vAnGJwAM-/0/1788731984620?e=2147483647&v=beta&t=sASi5gd1IO0CO29JGT1q4L5Kf6Dl4n_gqFWboOb02CQ",
+        "https://media.licdn.com/dms/image/v2/D4E22AQHqGafIDz443A/feedshare-image-high-res/B4EaB4vAm9G8AU-/0/1788731984554?e=2147483647&v=beta&t=aWSh3y-68pKFjWIY8Trj28bfB3efTA5GauOQMRqT3YU"
+      ],
+      "licenseNotes": "角色参考图、成果图与模型保留作者及相关权利人的权利；未发现公开源码、模型文件或单独复用许可证，图片外链原平台。",
+      "outcome": "原作者模型声明、准确原帖日期和三张实际成果图已核查；不是独立复现，不声称已打印，也没有公开试玩或工程入口。"
+    }
+  },
+  {
+    "removedAt": "2026-10-14",
+    "reason": "Temporarily unlisted: the current LinkedIn media preview and exact author alternatives failed TLS hostname validation during full GET, including an independent curl retry; no archived playable video or usable same-work preview was verified. Original source records are retained for restoration.",
+    "case": {
+      "id": "tianyu-monsoon-funnel",
+      "title": "Monsoon Funnel：庭院建筑与雨水循环模拟",
+      "titleEn": "Monsoon Funnel — Courtyard Architecture and Rainwater Simulation",
+      "group": "astra",
+      "category": "建筑与室内",
+      "platform": "LinkedIn",
+      "platforms": [
+        "LinkedIn"
+      ],
+      "author": "Tianyu Xu + Ar. June Chow",
+      "sourceUrl": "https://www.linkedin.com/posts/tianyuxu_a-3d-model-unlimited-exploration-storytelling-activity-7511789216536625152-3nwC",
+      "sourceDate": "2026-10-02",
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-10-04",
+      "addedAt": "2026-10-04",
+      "modelLabel": "GPT-6 Astra + Claude Opus 5.5 + Blender；后续 Codex 水循环模拟（作者自述）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "直接读取原作者帖子、视频元数据并检查原始输出封面",
+      "evidenceNote": "原作者明确将 GPT-6 Astra 与 Opus 5.5 列为建筑模型的主要模型，由本人和建筑师 June Chow 使用截图标注持续反馈，AI 工具操作 Blender。雨水收集至循环的模拟是之后与 June 和 Codex 讨论再添加的；帖子没有说明这一模拟使用的具体模型，也没有逐个拆分 Astra 和 Opus 的建筑部件责任，不能把全部建筑和水模拟都归为 Astra 单独完成。",
+      "sourceAccess": "原作者 LinkedIn 页面 HTTP 200，JSON-LD VideoObject 的 datePublished/uploadDate 均为 2026-10-02T14:08:31.516Z（上海时间 22:08:31），duration 为 PT41S。页面暴露原始 720p/640p MP4 地址及作者视频封面。封面已下载至 ignored work/refresh-2026-10-04/tianyu-living.jpg，并用 view_image 实际查看；可见 Monsoon Funnel 建筑庭院、水流、Explore/Walk/Explode/Camera/Simulation 页签和照明控制。未下载、播放或独立验证完整视频、交互、Blender 工程与水系统物理准确性。页面中的 luma.com/3d4design 是讲座报名入口，未作为作品试玩入口。 LinkedIn 封面当前为带 CDN 签名的公开外链，e=2147483647 名义有效期至 2038-01-19T03:14:07Z；作品删除、签名撤回或平台变化仍可使链接失效，未找到作者控制的永久无签名图片地址。",
+      "summary": "作者与建筑师把庭院建筑做成三维模型，再加入雨水收集与循环的模拟，展示建筑空间与水流。作者署名的实际封面可见庭院座椅、树木、水池、顶部落水和模型控制界面；具体建模分工与模拟物理精度未公开。",
+      "outputType": [
+        "Blender 建筑模型",
+        "建筑空间与雨水模拟展示",
+        "作者视频片段"
+      ],
+      "promptAvailability": "公开工作流程描述，未公开完整提示词与对话",
+      "promptExcerpt": null,
+      "promptSummary": "用截图标注反馈调整建筑模型，随后添加从雨水收集到循环的水系统模拟。未把这段流程描述当作原始输入提示词。",
+      "promptUrl": "https://www.linkedin.com/posts/tianyuxu_a-3d-model-unlimited-exploration-storytelling-activity-7511789216536625152-3nwC",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D5605AQGopE0uDehcOA/videocover-high/B56aD88cYJG4BU-/0/1790950100952?e=2147483647&v=beta&t=d3n9GQgfxcT7ITTVEtQfvmXbJW4NOTtHEjrAX1Kmo_E",
+      "imageKind": "video-poster",
+      "imageCaption": "作者原始视频封面：Monsoon Funnel 庭院、水池与顶部落水，画面署名 June Chow / Tianyu Xu，并展示漫游、拆解、镜头、模拟和照明控制；混合 Astra/Opus 建模。",
+      "demoUrl": null,
+      "videoUrl": "https://www.linkedin.com/posts/tianyuxu_a-3d-model-unlimited-exploration-storytelling-activity-7511789216536625152-3nwC",
+      "repositoryUrl": null,
+      "evidenceUrls": [
+        "https://www.linkedin.com/feed/update/urn:li:activity:7511789216536625152/"
+      ],
+      "licenseNotes": "第三方建筑、图片、录像与模型保留 Tianyu Xu、June Chow 及相关权利人的权利；未查到公开源码、模型下载或单独复用许可证。封面外链原平台并保留署名，活动报名入口不等于作品分发。",
+      "outcome": "已核查直接作者模型声明、精确原帖时间与实际三维输出封面；完整片段尚未由本轮核查下载或播放，未试玩、打开 Blender 或独立复现建筑和模拟。"
+    }
+  },
+  {
+    "removedAt": "2026-10-14",
+    "reason": "Temporarily unlisted: the current LinkedIn media preview and exact author alternatives failed TLS hostname validation during full GET, including an independent curl retry; no archived playable video or usable same-work preview was verified. Original source records are retained for restoration.",
+    "case": {
+      "id": "tianyu-painting-cat-action",
+      "title": "古画楼阁：从建筑模型到猫角色动作游戏",
+      "titleEn": "Painted Pavilion — From Architecture to a Cat Action Game",
+      "group": "astra",
+      "category": "3D 游戏",
+      "platform": "LinkedIn",
+      "platforms": [
+        "LinkedIn"
+      ],
+      "author": "Tianyu Xu",
+      "sourceUrl": "https://www.linkedin.com/posts/tianyuxu_this-is-a-three-weekend-project-thanks-activity-7509962135574089728-5sIG",
+      "sourceDate": "2026-09-27",
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-10-04",
+      "addedAt": "2026-10-04",
+      "modelLabel": "GPT-6 Astra / Codex + Blender 建筑与网页；Claude Opus 5.5 动画与游戏迭代，Seedance 2.5 视频支线",
+      "evidenceLevel": "author",
+      "evidenceStatus": "直接读取原作者帖子、精确视频元数据并查看作者流程图与游戏封面",
+      "evidenceNote": "原作者明确感谢 GPT-6 Astra、Opus 5.5 和 Blender，并称在三周末里从建筑模型扩展到猫角色、动画和三维动作游戏。实际封面的作者流程图进一步把 Codex GPT-6 Astra → Blender Headless → 3D model + site 和 Flight-path tool 标注为 Astra 路线；后面的 Blender Animation、2D/3D Animation、视频合成分支标为 Claude Code Opus 5.5，video-to-video 支线标为 Seedance 2.5。游戏是这一混合项目的后续产物，不能把角色、全部动画或成片都称为 Astra 独立生成。",
+      "sourceAccess": "原作者 LinkedIn 页面 HTTP 200；datePublished/uploadDate 均为 2026-09-27T13:08:21.468Z（上海时间 21:08:21），duration 为 PT12M46S。页面的 data-sources 提供 720p 和 640p 原始 MP4 变体，JSON-LD contentUrl 指向 640p。下载作者原始视频封面至 ignored work/refresh-2026-10-04/tianyu-game.jpg 并用 view_image 查看：上半图为有模型标签的真实制作流程图，下半图为猫角色、楼阁、桥梁和血量界面的游戏画面。封面还注明 Painting: Li Song / NPM / CC BY 4.0，以及 Yingzao Fashi 书页属于 public domain，均为作者标注而未另行独立核证。未下载、播放全部录像，未确认公开试玩、源码或工程分发入口。 LinkedIn 封面当前为带 CDN 签名的公开外链，e=2147483647 名义有效期至 2038-01-19T03:14:07Z；作品删除、签名撤回或平台变化仍可使链接失效，未找到作者控制的永久无签名图片地址。",
+      "summary": "以古画和建筑书页为参考做出楼阁模型、网页探索与镜头路径工具，再通过 Opus 等工具扩展动画和猫角色动作游戏。作者封面同时展示工具分工和实际桥面战斗画面，公开材料是作者演示录像，尚未确认对外试玩或可下载工程。",
+      "outputType": [
+        "Blender 楼阁建筑模型",
+        "三维网页探索与镜头路径",
+        "混合工具动作游戏展示",
+        "作者制作过程视频"
+      ],
+      "promptAvailability": "公开工作流程与探索问题，未公开完整原始生成对话",
+      "promptExcerpt": null,
+      "promptSummary": "从古画及建筑书页建立三维模型和网页，添加拆解、飞行镜头路径，再扩展猫角色、动画与游戏。这是作者公开的步骤概述，未重建为所谓原始完整提示词。",
+      "promptUrl": "https://www.linkedin.com/posts/tianyuxu_this-is-a-three-weekend-project-thanks-activity-7509962135574089728-5sIG",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D5605AQE_65TmDJ2qNw/videocover-high/B56aDi.j7AGoBU-/0/1790514457157?e=2147483647&v=beta&t=8BKeBcubgbdr3DlpN9QXYHhUp08fxIFcp_m_jMWrZK8",
+      "imageKind": "video-poster",
+      "imageCaption": "原作者视频封面：Astra 建筑模型与飞行路径、Opus 动画和 Seedance 视频支线的工具流程，以及桥梁楼阁中的猫角色战斗画面。",
+      "demoUrl": null,
+      "videoUrl": "https://www.linkedin.com/posts/tianyuxu_this-is-a-three-weekend-project-thanks-activity-7509962135574089728-5sIG",
+      "repositoryUrl": null,
+      "evidenceUrls": [
+        "https://sg.linkedin.com/in/tianyuxu"
+      ],
+      "licenseNotes": "作者视频、模型和游戏未查到单独复用许可证。封面标注古画参考为 Li Song / NPM / CC BY 4.0、Yingzao Fashi 书页为 public domain；这些参考材料许可不覆盖作者衍生游戏、动画或录像。第三方工具及各部分输出保留各自权利。",
+      "outcome": "已实际查看原作者流程图和游戏封面、核查混合模型声明和精确发布时间；未独立试玩或复现，未检查完整录像的每一阶段，也未确认角色建模归属。"
+    }
   }
 ]

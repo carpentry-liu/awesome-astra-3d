@@ -1,5 +1,5 @@
 {
-  "observedAt": "2026-10-13",
+  "observedAt": "2026-10-14",
   "method": "Incremental complete GET of new author demo entry pages; no full gameplay or independent reproduction. Historical observations retain their dates.",
   "results": [
     {
@@ -788,6 +788,39 @@
       "finalUrl": "https://lego-anything.com/",
       "observedAt": "2026-10-13",
       "checkedAtUtc": "2026-10-13T12:35:58.166540+00:00",
+      "result": "reachable",
+      "method": "Full HTTP GET; no independent playthrough or reproduction"
+    },
+    {
+      "id": "sfp-fukui-dino-professor",
+      "url": "https://estimator.jp/sample/fukui-dino-professor/",
+      "status": 200,
+      "title": "3D見積もりシミュレーターサンプル｜ふくい恐竜博士（デモ用）",
+      "finalUrl": "https://estimator.jp/sample/fukui-dino-professor/",
+      "observedAt": "2026-10-14",
+      "checkedAtUtc": "2026-10-14T01:27:00.521003+00:00",
+      "result": "reachable",
+      "method": "Full HTTP GET; no independent playthrough or reproduction"
+    },
+    {
+      "id": "artificial-analysis-aa3d-scenes",
+      "url": "https://artificialanalysiscdn.com/media-arena/87d0885e-c3d6-4403-9fcf-d5fb39eb7437/index.html",
+      "status": 200,
+      "title": "Ergosphere — A Kerr observatory",
+      "finalUrl": "https://artificialanalysiscdn.com/media-arena/87d0885e-c3d6-4403-9fcf-d5fb39eb7437/index.html",
+      "observedAt": "2026-10-14",
+      "checkedAtUtc": "2026-10-14T01:27:00.521003+00:00",
+      "result": "reachable",
+      "method": "Full HTTP GET; no independent playthrough or reproduction"
+    },
+    {
+      "id": "sshcodes-bhbench-astra",
+      "url": "https://bhbench.ssh.codes/model/astra6",
+      "status": 200,
+      "title": "GPT 6 Astra Black Hole — BHBench",
+      "finalUrl": "https://bhbench.ssh.codes/model/astra6",
+      "observedAt": "2026-10-14",
+      "checkedAtUtc": "2026-10-14T01:27:00.521003+00:00",
       "result": "reachable",
       "method": "Full HTTP GET; no independent playthrough or reproduction"
     }
