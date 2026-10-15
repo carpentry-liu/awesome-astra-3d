@@ -1,5 +1,5 @@
 {
-  "observedAt": "2026-10-14",
+  "observedAt": "2026-10-15",
   "method": "Incremental complete GET of new author demo entry pages; no full gameplay or independent reproduction. Historical observations retain their dates.",
   "results": [
     {
@@ -821,6 +821,28 @@
       "finalUrl": "https://bhbench.ssh.codes/model/astra6",
       "observedAt": "2026-10-14",
       "checkedAtUtc": "2026-10-14T01:27:00.521003+00:00",
+      "result": "reachable",
+      "method": "Full HTTP GET; no independent playthrough or reproduction"
+    },
+    {
+      "id": "ohmyunicorn-cruiser-comparison",
+      "url": "https://ohmyunicorn.com/labs/dream-loop/blender-cruiser-astra-vs-gemini4/",
+      "status": 200,
+      "title": "GPT-6 Astra vs Gemini 4 Argon: directing Blender to build a warship from one picture · OhMyUnicorn",
+      "finalUrl": "https://ohmyunicorn.com/labs/dream-loop/blender-cruiser-astra-vs-gemini4/",
+      "observedAt": "2026-10-15",
+      "checkedAtUtc": "2026-10-15T02:39:29.943205+00:00",
+      "result": "reachable",
+      "method": "Full HTTP GET; no independent playthrough or reproduction"
+    },
+    {
+      "id": "kayou-morrow-menagerie",
+      "url": "https://kayou-31.github.io/moonlit-plush-gallery/morrow.html",
+      "status": 200,
+      "title": "Morrow — The Midnight Menagerie",
+      "finalUrl": "https://kayou-31.github.io/moonlit-plush-gallery/morrow.html",
+      "observedAt": "2026-10-15",
+      "checkedAtUtc": "2026-10-15T02:39:29.943205+00:00",
       "result": "reachable",
       "method": "Full HTTP GET; no independent playthrough or reproduction"
     }

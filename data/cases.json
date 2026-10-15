@@ -1,5 +1,527 @@
 [
   {
+    "id": "shmopix-gaming-mouse",
+    "category": "拆解与剖面",
+    "title": "Inside the Superlight：透明鼠标、内部拆解与信号流",
+    "titleEn": "Inside the Superlight — A Mouse Explainer",
+    "modelLabel": "GPT-6 Astra + Codex（作者自述的纯代码三维演示）",
+    "summary": "作者将鼠标移动、点击、滚轮与电源过程做成三维讲解：透明外壳与分解组件连接到传感器、微控制器和电脑信号。作者称由 Astra 纯代码构建，未使用预制模型；录像中有简化示意与加速演示标注。",
+    "imageCaption": "原作者录像封面：Inside the Superlight 鼠标三维总览，画面底部标注 Simplified schematics / Accelerated demonstration。 附原帖完整录像与原版下载。",
+    "outcome": "可查看约19秒完整作者录像；中帧展示微控制器和报告生成的简化流程。未取得作者源码或在线体验，不将示意模型当作真实硬件拆机、电子工程验证或全部交互已独立测试。",
+    "promptSummary": "作者同帖公开一句任务：解释鼠标操作如何传到电脑。原文回源，不根据录像重建完整原始提示词。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "shmopix / @shmopixbzn",
+    "sourceUrl": "https://x.com/shmopixbzn/status/2110371046071382042",
+    "sourceDate": "2026-10-14",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-15",
+    "addedAt": "2026-10-15",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者X完整HTML、精确同帖元数据、作者、时间和来源视频ID核对；实际封面与中帧确认Astra结果及其他模型边界。作者报告、示意过程、费用与任务要求不等于独立复现。",
+    "sourceAccess": "X原创完整GET 200 / text/html / 128,739字节，作者与created_at_ms同精确FxTwitter辅助元数据匹配。上海日期2026-10-14，10月15日收录及核查。成果预览完整GET 200 / image/jpeg / 1200×675 / 33,703字节，Content-Length、SHA-256、Pillow全帧解码和实际view_image通过。同帖平台最高码率原版与较小完整平台版下载，媒体ID、MIME、字节、SHA-256和时长匹配；严格FFmpeg全长null解码均exit0且stderr空，封面与中帧实际查看，未裁剪或转码。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2110370413700116480/img/mjSfgvJDkEl92_OY.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/shmopixbzn/status/2110371046071382042",
+    "repositoryUrl": null,
+    "outputType": [
+      "三维交互演示",
+      "作者完整录像",
+      "完整运行录像"
+    ],
+    "promptAvailability": "linked",
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/shmopixbzn/status/2110371046071382042",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/shmopixbzn/status/2110371046071382042"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库MIT。保存原平台完整MP4未剪辑或转码，保留原创来源及移除入口；归档不代表另行取得再发布许可。 平台原版与较小完整播放版保存至公开 Release，未剪辑或转码。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/shmopix-gaming-mouse-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-15/shmopix-gaming-mouse-1-original.mp4",
+        "durationSeconds": 19.05,
+        "bytes": 2314581,
+        "sha256": "bc04525b4e9a9ba6e270941ac017243141d04d4e915fd7845fa32a9f0454705f",
+        "sourceUrl": "https://x.com/shmopixbzn/status/2110371046071382042",
+        "label": "Inside the Superlight — A Mouse Explainer",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2110370413700116480/img/mjSfgvJDkEl92_OY.jpg"
+      }
+    ]
+  },
+  {
+    "group": "astra",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-15",
+    "addedAt": "2026-10-15",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "promptExcerpt": null,
+    "demoUrl": "https://ohmyunicorn.com/labs/dream-loop/blender-cruiser-astra-vs-gemini4/",
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "licenseNotes": "作品、图片和第三方素材保留各权利人的权利；原站媒体不纳入本库 MIT 许可。",
+    "id": "ohmyunicorn-cruiser-comparison",
+    "title": "单图巡洋舰：Astra 三档推理与不同工具环境对照",
+    "titleEn": "One-Image Cruiser — Three Astra Effort Levels and Harness Comparisons",
+    "category": "产品与角色",
+    "platform": "开发者博客",
+    "platforms": [
+      "OhMyUnicorn Lab",
+      "Blender",
+      "Codex CLI"
+    ],
+    "author": "OhMyUnicorn",
+    "sourceUrl": "https://ohmyunicorn.com/labs/dream-loop/blender-cruiser-astra-vs-gemini4/",
+    "sourceDate": "2026-10-14",
+    "modelLabel": "GPT-6 Astra / Codex CLI + Blender Python；Gemini 对照单列",
+    "evidenceNote": "实验作者逐项标注 Astra 三档模型、渲染和 GLB。同日另换 Antigravity 复测 Gemini，不能将首轮工具链故障当作纯模型结论。",
+    "sourceAccess": "原实验页完整 GET 200 / 29,190 字节。3张明确标注 Astra 的成果图完整 GET、MIME/长度/hash/解码及实际查看通过；3个 GLB 完整 GET 并检查 glTF 2 容器与 JSON，不运行几何。网页首发标注10月14日，未公开时区。",
+    "summary": "用同一张虚构巡洋舰参考图比较三档推理成果，查看桅杆、舷侧小艇、甲板和独立部件。",
+    "outputType": [
+      "Blender 巡洋舰",
+      "三档推理对照",
+      "可查看 GLB"
+    ],
+    "promptAvailability": "public-text",
+    "promptSummary": "同图逐轮写 Blender 脚本、检查渲染并保存 GLB；原始任务回源。",
+    "promptUrl": "https://ohmyunicorn.com/labs/dream-loop/blender-cruiser-astra-vs-gemini4/",
+    "imageUrl": "https://ohmyunicorn.com/labs/dream-loop/blender-cruiser-astra-vs-gemini4/img/cruiser_astra_high.jpg",
+    "imageKind": "author-render",
+    "imageCaption": "明确标为 Astra high 的实际 Cycles 渲染：灰色舰体、格构桅杆、甲板与小艇；输入图由 GPT Image 2 生成，不作为成果。",
+    "evidenceUrls": [
+      "https://ohmyunicorn.com/labs/dream-loop/blender-cruiser-astra-vs-gemini4/img/cruiser_astra_low.jpg",
+      "https://ohmyunicorn.com/labs/dream-loop/blender-cruiser-astra-vs-gemini4/img/cruiser_astra_medium.jpg",
+      "https://ohmyunicorn.com/labs/dream-loop/blender-cruiser-astra-vs-gemini4/models/cruiser_astra_high.glb"
+    ],
+    "outcome": "单次设置实验且工具环境不同；作者时间、价格与质量观察未独立复现，订阅的等价 API 价格不等于实付账单。"
+  },
+  {
+    "id": "joh-lighthouse-dusk",
+    "category": "程序化场景",
+    "title": "North Point：黄昏灯塔与单次生成对照",
+    "titleEn": "North Point — A Lighthouse at Dusk",
+    "modelLabel": "GPT-6 Astra xhigh / Gemini 4 Argon（独立对照）+ Three.js",
+    "summary": "同一任务分别生成海上礁岛灯塔：下方 Astra 展示石砌塔身、栏杆、风向标与守塔小屋，上方 Gemini 展示更明显的扫光。作者称各只生成一次且未修改，Astra 的光束仍不明显。",
+    "imageCaption": "原作者完整对照封面：上方 Gemini 4 Argon，下方 GPT-6 Astra xhigh；Astra 的 North Point 灯塔及小屋在下半画面。 附原帖完整录像与原版下载。",
+    "outcome": "可查看15秒完整双模型对照录像，封面与中帧明确对应各模型。作者报告的耗时、细节和光束差异不作为独立性能评测；提示词中的浪花、海鸥、光束等要求不等于本库已核验实现。",
+    "promptSummary": "作者同线程公开灯塔、守塔小屋、曲折小路和海浪等任务，要求单个 index.html 与 Three.js。只链接完整原文，未复刻作者运行。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "JOH / @JeurgenHubatsch",
+    "sourceUrl": "https://x.com/JeurgenHubatsch/status/2110054195734982817",
+    "sourceDate": "2026-10-14",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-15",
+    "addedAt": "2026-10-15",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者X完整HTML、精确同帖元数据、作者、时间和来源视频ID核对；实际封面与中帧确认Astra结果及其他模型边界。作者报告、示意过程、费用与任务要求不等于独立复现。",
+    "sourceAccess": "X原创完整GET 200 / text/html / 114,860字节，作者与created_at_ms同精确FxTwitter辅助元数据匹配。上海日期2026-10-14，10月15日收录及核查。成果预览完整GET 200 / image/jpeg / 720×900 / 106,168字节，Content-Length、SHA-256、Pillow全帧解码和实际view_image通过。同帖平台最高码率原版与较小完整平台版下载，媒体ID、MIME、字节、SHA-256和时长匹配；严格FFmpeg全长null解码均exit0且stderr空，封面与中帧实际查看，未裁剪或转码。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2110053969594843136/img/PdvK4PmQON2_NeIR.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/JeurgenHubatsch/status/2110054195734982817",
+    "repositoryUrl": null,
+    "outputType": [
+      "三维交互演示",
+      "作者完整录像",
+      "完整运行录像"
+    ],
+    "promptAvailability": "linked",
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/JeurgenHubatsch/status/2110054584769302982",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/JeurgenHubatsch/status/2110054195734982817",
+      "https://api.fxtwitter.com/JeurgenHubatsch/status/2110054584769302982"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库MIT。保存原平台完整MP4未剪辑或转码，保留原创来源及移除入口；归档不代表另行取得再发布许可。 平台原版与较小完整播放版保存至公开 Release，未剪辑或转码。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/joh-lighthouse-dusk-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-15/joh-lighthouse-dusk-1-original.mp4",
+        "durationSeconds": 15.0,
+        "bytes": 1333204,
+        "sha256": "1d559e86d1c607f6a0c1b25983165502bbe6b2eb8176f691c775e1ff671a5697",
+        "sourceUrl": "https://x.com/JeurgenHubatsch/status/2110054195734982817",
+        "label": "North Point — A Lighthouse at Dusk",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2110053969594843136/img/PdvK4PmQON2_NeIR.jpg"
+      }
+    ]
+  },
+  {
+    "id": "ivana-flappy-bird-3d",
+    "category": "3D 游戏",
+    "title": "Sunlit Skipper：三维海岛小鸟与单文件游戏对照",
+    "titleEn": "Sunlit Skipper — A 3D Flappy Bird Comparison",
+    "modelLabel": "GPT-6 Astra / Gemini 4（独立对照）+ Three.js / WebGL",
+    "summary": "同一提示词让两模型制作三维小鸟闯管道游戏：上方 Astra 的 Sunlit Skipper 用金色小鸟、翠绿管道与海岛构成侧视三维场景，下方为 Gemini 独立结果。录像可见自动演示、计分与重启控制。",
+    "imageCaption": "原作者完整对照封面：上方 Astra 6 / Sunlit Skipper，下方 Gemini 4；Astra 成果仅指上半画面。 附原帖完整录像与原版下载。",
+    "outcome": "可查看约27秒完整作者对照录像，中帧两个游戏计分均已变化。侧视玩法包含三维几何与空间环境，但不写成可自由漫游的3D世界；碰撞、确定性种子、自动控制和性能目标来自公开任务，未取得实现或独立试玩。",
+    "promptSummary": "作者同线程公开完整单HTML任务，包括三维热带环境、统一物理参数、碰撞计分及自动演示。只回源链接，未以任务要求冒充独立验证结果。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Ivana / @ivanainai",
+    "sourceUrl": "https://x.com/ivanainai/status/2110069699597971828",
+    "sourceDate": "2026-10-14",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-15",
+    "addedAt": "2026-10-15",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者X完整HTML、精确同帖元数据、作者、时间和来源视频ID核对；实际封面与中帧确认Astra结果及其他模型边界。作者报告、示意过程、费用与任务要求不等于独立复现。",
+    "sourceAccess": "X原创完整GET 200 / text/html / 132,963字节，作者与created_at_ms同精确FxTwitter辅助元数据匹配。上海日期2026-10-14，10月15日收录及核查。成果预览完整GET 200 / image/jpeg / 1061×1200 / 102,146字节，Content-Length、SHA-256、Pillow全帧解码和实际view_image通过。同帖平台最高码率原版与较小完整平台版下载，媒体ID、MIME、字节、SHA-256和时长匹配；严格FFmpeg全长null解码均exit0且stderr空，封面与中帧实际查看，未裁剪或转码。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2110069488410345472/img/9NnlxtQk1NSC5tXx.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/ivanainai/status/2110069699597971828",
+    "repositoryUrl": null,
+    "outputType": [
+      "三维交互演示",
+      "作者完整录像",
+      "完整运行录像"
+    ],
+    "promptAvailability": "linked",
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/ivanainai/status/2110073220946592038",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/ivanainai/status/2110069699597971828",
+      "https://api.fxtwitter.com/ivanainai/status/2110073220946592038"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库MIT。保存原平台完整MP4未剪辑或转码，保留原创来源及移除入口；归档不代表另行取得再发布许可。 平台原版与较小完整播放版保存至公开 Release，未剪辑或转码。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/ivana-flappy-bird-3d-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-15/ivana-flappy-bird-3d-1-original.mp4",
+        "durationSeconds": 26.53,
+        "bytes": 16906435,
+        "sha256": "567dedb39e39f98cf4b8e27b324b3410caf96c5b07a2ef40971aeee514f32639",
+        "sourceUrl": "https://x.com/ivanainai/status/2110069699597971828",
+        "label": "Sunlit Skipper — A 3D Flappy Bird Comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2110069488410345472/img/9NnlxtQk1NSC5tXx.jpg"
+      }
+    ]
+  },
+  {
+    "id": "congle-ogre-comparison",
+    "category": "角色与动画",
+    "title": "五个食人魔：Blender 建模与步行对照",
+    "titleEn": "Five Ogres — Blender Modeling and Walking",
+    "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / Opus 5.5 / Gemini 3.8 Flash / Muse Spark 1.3（独立对照）",
+    "summary": "作者给五个独立新会话同一食人魔建模和步行任务，完整录像并排显示绿色低多边形角色。Astra 位于下排左侧，带木棒、红色护腕和肩甲；其他四模型结果单独标注。",
+    "imageCaption": "原作者五模型步行录像封面：GPT-6 Astra 位于下排左侧；右侧为 GPT-6.1 Sol，上排为其他三个模型，不能统一归于 Astra。 附原帖完整录像与原版下载。",
+    "outcome": "可查看12秒完整步行对照录像，封面与中帧模型标签清晰。录像标注费用仅为原始尝试估算且排除修复工作；不当作全流程实付或独立速度评测。正文粗称 Gemini Pro，具体对照版本以录像明确标签 Gemini 3.8 Flash 为准；未取得工程或完整原始提示词。",
+    "promptSummary": null,
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Cong Le / @CongLe",
+    "sourceUrl": "https://x.com/CongLe/status/2110139804805693469",
+    "sourceDate": "2026-10-14",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-15",
+    "addedAt": "2026-10-15",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者X完整HTML、精确同帖元数据、作者、时间和来源视频ID核对；实际封面与中帧确认Astra结果及其他模型边界。作者报告、示意过程、费用与任务要求不等于独立复现。",
+    "sourceAccess": "X原创完整GET 200 / text/html / 103,593字节，作者与created_at_ms同精确FxTwitter辅助元数据匹配。上海日期2026-10-14，10月15日收录及核查。成果预览完整GET 200 / image/jpeg / 720×720 / 59,954字节，Content-Length、SHA-256、Pillow全帧解码和实际view_image通过。同帖平台最高码率原版与较小完整平台版下载，媒体ID、MIME、字节、SHA-256和时长匹配；严格FFmpeg全长null解码均exit0且stderr空，封面与中帧实际查看，未裁剪或转码。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2110139415133560832/img/MfuKcrMWGPcRJBT0.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/CongLe/status/2110139804805693469",
+    "repositoryUrl": null,
+    "outputType": [
+      "Blender角色建模",
+      "五模型独立对照",
+      "作者完整步行录像",
+      "完整运行录像"
+    ],
+    "promptAvailability": "unpublished",
+    "promptExcerpt": null,
+    "promptUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/CongLe/status/2110139804805693469"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库MIT。保存原平台完整MP4未剪辑或转码，保留原创来源及移除入口；归档不代表另行取得再发布许可。 平台原版与较小完整播放版保存至公开 Release，未剪辑或转码。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/congle-ogre-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-15/congle-ogre-comparison-1-original.mp4",
+        "durationSeconds": 12.0,
+        "bytes": 360479,
+        "sha256": "19519b349b5da98484b0e545e59925434446befbd566bf07dae10640c8818dec",
+        "sourceUrl": "https://x.com/CongLe/status/2110139804805693469",
+        "label": "Five Ogres — Blender Modeling and Walking",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2110139415133560832/img/MfuKcrMWGPcRJBT0.jpg"
+      }
+    ]
+  },
+  {
+    "id": "bluumik-watch-comparison",
+    "category": "拆解与剖面",
+    "title": "机械腕表：深绿表盘与分层爆炸视图",
+    "titleEn": "A Mechanical Watch — An Exploded-View Comparison",
+    "modelLabel": "GPT-6 Astra high / Claude Opus 5.5 high（独立对照）",
+    "summary": "同一句腕表爆炸视图任务分别生成两套展示：上方 Astra 用深绿表盘、金色按钮和分离部件呈现腕表结构；下方 Opus 是蓝色表盘的另一份实现。封面与完整录像明确标注模型。",
+    "imageCaption": "原作者完整对照封面：上方 GPT-6 Astra (High) 为深绿腕表，下方 Opus 5.5 (High) 为蓝色腕表，两份结果各自独立。 附原帖完整录像与原版下载。",
+    "outcome": "可查看约12秒完整对照录像，中帧两表均分离为多个层级。正文仅简写GPT-6，录像标签直接明确GPT-6 Astra；作者设计报价与小样本偏好不视为独立价值评估。角色为风格参考，不声称品牌授权、准确复刻机芯或可制造的机械模型。",
+    "promptSummary": "作者同帖公开简短任务：制作 Rolex 风格腕表的爆炸视图。只链接原文，不将品牌风格参考写成品牌合作或制造设计。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "bluumik / @bluumik",
+    "sourceUrl": "https://x.com/bluumik/status/2110070382002921482",
+    "sourceDate": "2026-10-14",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-15",
+    "addedAt": "2026-10-15",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者X完整HTML、精确同帖元数据、作者、时间和来源视频ID核对；实际封面与中帧确认Astra结果及其他模型边界。作者报告、示意过程、费用与任务要求不等于独立复现。",
+    "sourceAccess": "X原创完整GET 200 / text/html / 111,445字节，作者与created_at_ms同精确FxTwitter辅助元数据匹配。上海日期2026-10-14，10月15日收录及核查。成果预览完整GET 200 / image/jpeg / 954×1200 / 90,258字节，Content-Length、SHA-256、Pillow全帧解码和实际view_image通过。同帖平台最高码率原版与较小完整平台版下载，媒体ID、MIME、字节、SHA-256和时长匹配；严格FFmpeg全长null解码均exit0且stderr空，封面与中帧实际查看，未裁剪或转码。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2110069562582454272/img/eGFNJYnb3hBLHHCj.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/bluumik/status/2110070382002921482",
+    "repositoryUrl": null,
+    "outputType": [
+      "三维交互演示",
+      "作者完整录像",
+      "完整运行录像"
+    ],
+    "promptAvailability": "linked",
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/bluumik/status/2110070382002921482",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/bluumik/status/2110070382002921482"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库MIT。保存原平台完整MP4未剪辑或转码，保留原创来源及移除入口；归档不代表另行取得再发布许可。 平台原版与较小完整播放版保存至公开 Release，未剪辑或转码。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/bluumik-watch-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-15/bluumik-watch-comparison-1-original.mp4",
+        "durationSeconds": 12.14,
+        "bytes": 2628357,
+        "sha256": "70a243be1196aaf80647161672d35b371c7592b2ff559c346a2aa089743fbdb5",
+        "sourceUrl": "https://x.com/bluumik/status/2110070382002921482",
+        "label": "A Mechanical Watch — An Exploded-View Comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2110069562582454272/img/eGFNJYnb3hBLHHCj.jpg"
+      }
+    ]
+  },
+  {
+    "id": "yokohara-ai-workstation",
+    "category": "建筑与室内",
+    "title": "AI 书房：日间光照与混合建模流程",
+    "titleEn": "An AI Workroom — Daylight and Mixed Modeling",
+    "modelLabel": "GPT-6 Astra + Claude Opus + 未命名图像/3D生成器 + Blender（作者混合流程）",
+    "summary": "东京三维艺术家展示同一杂物书房的日间版本：百叶窗光线、书架、双屏桌面和雾感形成可连续观察的空间。作者解释由 Astra 与 Opus 按物体选择直接建模或图像→3D→Blender修整，人持续给出反馈。",
+    "imageCaption": "原作者书房日间录像封面：百叶窗、书架与工作桌。场景属于 Astra / Opus 及未命名资产生成器共同流程，不能把全部网格归给 Astra。 附原帖完整录像与原版下载。",
+    "outcome": "可查看约28秒完整日间摄像机录像。与本库旧 Houdini 程序化模型及九月街景均为不同作品；同书房十月九日初始夜景和十月十三日日间阶段合并为一条，不按光照多计。作者明确有人工反馈及外部图像/3D生成步骤；此原文未命名3D资产生成器，不据Reddit评论推定Tripo，也未获得场景工程、完整提示词或独立复现。",
+    "promptSummary": null,
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Hirokazu Yokohara / @Yokohara_h",
+    "sourceUrl": "https://x.com/Yokohara_h/status/2109984552286609651",
+    "sourceDate": "2026-10-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-15",
+    "addedAt": "2026-10-15",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者X完整HTML、精确同帖元数据、作者、时间和来源视频ID核对；实际封面与中帧确认Astra结果及其他模型边界。作者报告、示意过程、费用与任务要求不等于独立复现。 Astra/Opus由同书房初始原帖的精确作者回复直接证实；外部资产和人工反馈逐项保留。",
+    "sourceAccess": "X原创完整GET 200 / text/html / 132,820字节，作者与created_at_ms同精确FxTwitter辅助元数据匹配。上海日期2026-10-09，10月15日收录及核查。成果预览完整GET 200 / image/jpeg / 1200×675 / 86,791字节，Content-Length、SHA-256、Pillow全帧解码和实际view_image通过。同帖平台最高码率原版与较小完整平台版下载，媒体ID、MIME、字节、SHA-256和时长匹配；严格FFmpeg全长null解码均exit0且stderr空，封面与中帧实际查看，未裁剪或转码。 同书房最早可核实10月9日初始夜景，10月13日日间片不是新作品首发；首发与本次视频发布日期分开。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2109982381025460224/img/_nCeB59Ptbhk4c3q.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/Yokohara_h/status/2109984552286609651",
+    "repositoryUrl": null,
+    "outputType": [
+      "Blender混合场景",
+      "作者完整日间录像",
+      "完整运行录像"
+    ],
+    "promptAvailability": "unpublished",
+    "promptExcerpt": null,
+    "promptUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/Yokohara_h/status/2109984552286609651",
+      "https://x.com/Yokohara_h/status/2108580996761493865",
+      "https://x.com/Yokohara_h/status/2108589346022666484",
+      "https://api.fxtwitter.com/Yokohara_h/status/2108580996761493865",
+      "https://api.fxtwitter.com/Yokohara_h/status/2108589346022666484"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库MIT。保存原平台完整MP4未剪辑或转码，保留原创来源及移除入口；归档不代表另行取得再发布许可。 平台原版与较小完整播放版保存至公开 Release，未剪辑或转码。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/yokohara-ai-workstation-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-15/yokohara-ai-workstation-1-original.mp4",
+        "durationSeconds": 28.42,
+        "bytes": 12177038,
+        "sha256": "3b5a399adadd55304e0da9b31914298a83e3a4f28f474c30449761a0dc7175c3",
+        "sourceUrl": "https://x.com/Yokohara_h/status/2109984552286609651",
+        "label": "An AI Workroom — Daylight and Mixed Modeling",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2109982381025460224/img/_nCeB59Ptbhk4c3q.jpg"
+      }
+    ]
+  },
+  {
+    "group": "astra",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-15",
+    "addedAt": "2026-10-15",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "promptExcerpt": null,
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "licenseNotes": "作品、图片和第三方素材保留各权利人的权利；原站媒体不纳入本库 MIT 许可。",
+    "id": "rikei-blender-classroom-washitsu",
+    "title": "放课后教室与和室：Blender MCP 双场景实验",
+    "titleEn": "After-School Classroom and Washitsu — Two Blender MCP Scenes",
+    "category": "建筑与室内",
+    "platform": "note",
+    "platforms": [
+      "note",
+      "Blender MCP"
+    ],
+    "author": "株式会社理経 次世代事業開発部 / Rikei NBD",
+    "sourceUrl": "https://note.com/rikei_nbd/n/nfa023a1404f8",
+    "sourceDate": "2026-10-09",
+    "modelLabel": "GPT-6 Astra 中 / Codex + Blender MCP；Opus 5.5 另列",
+    "evidenceNote": "原文将 Astra 的日本教室、夏日六畳和室及各自 Blender/线框视图单独标注；同文 Opus 结果不归入 Astra。",
+    "sourceAccess": "原文完整 GET 200 / 490,352 字节。3张明确归属于 Astra 的教室、和室及线框成果完整 GET，MIME/长度/hash/全图解码并实际查看通过。JSON-LD 2026-10-09T12:00:00+09:00 对应上海同日11:00；未公开下载工程，未复现。",
+    "summary": "分别使用细化教室规格与一句和室请求，展示布局、家具、柔和光照及可编辑网格的实际成果。",
+    "outputType": [
+      "Blender 教室",
+      "六畳和室",
+      "线框与场景截图"
+    ],
+    "promptAvailability": "public-text",
+    "promptSummary": "原文提供教室详细规格与一句和室请求；两组场景作为同一实验合集收录。",
+    "promptUrl": "https://note.com/rikei_nbd/n/nfa023a1404f8",
+    "imageUrl": "https://assets.st-note.com/img/1790745246-jBmPDzLYgp5IeQUhZGwXfu6o.png?width=1200",
+    "imageKind": "author-render",
+    "imageCaption": "明确标为 Codex（GPT-6 Astra）的实际教室成果，黑板、桌椅与右侧窗户可见；同实验另附和室与线框。",
+    "evidenceUrls": [
+      "https://assets.st-note.com/img/1790745384-QkRMfWoa7bjVuAEX30grl29q.png?width=1200",
+      "https://assets.st-note.com/img/1790745348-XMr0ZzHQUkFCxR2ePcg7JG6A.png?width=1200"
+    ],
+    "outcome": "作者指出窗户方向与物件形状仍需修正；不同订阅额度百分比不能直接比较，未将作者评价写成通用能力结论。"
+  },
+  {
+    "group": "astra",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-15",
+    "addedAt": "2026-10-15",
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "provider-stated-astra",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "demoUrl": "https://kayou-31.github.io/moonlit-plush-gallery/morrow.html",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/Kayou-31/moonlit-plush-gallery/blob/main/morrow.html",
+    "id": "kayou-morrow-menagerie",
+    "title": "Morrow：月光毛绒幽灵与可交互软体展厅",
+    "titleEn": "Morrow — Interactive Moonlit Plush Ghost",
+    "category": "角色与动画",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub",
+      "Website"
+    ],
+    "author": "作品提供者（未公开姓名）/ Kayou-31（整理发布）",
+    "sourceUrl": "https://github.com/Kayou-31/moonlit-plush-gallery",
+    "sourceAccess": "完整 GET 发布者 README、展厅、Morrow HTML 与独立演示；Morrow 实机 WEBP 预览核对 MIME / Content-Length / SHA-256、Pillow 完整解码并通过 view_image 实际查看。HTML 200 只证明演示入口可达，未声称本库完成互动试玩。",
+    "promptAvailability": "not-found",
+    "modelLabel": "GPT-6 Astra · max（作品提供者标注；发布者转述）",
+    "evidenceNote": "发布者表格将 Morrow 单独标为6 Astra max，说明模型信息按作品提供者标注，原始创作会话未公开。Kayou-31 负责展厅与发布，保留提供文件的主体实现；同展厅 Boo 属6.1 Sol，未计入该 Astra 案例。",
+    "summary": "一只紫色毛绒幽灵置于月夜展台，页面提供抓握、轻戳、梳毛、调色和动作按钮。公开独立 HTML 便于研究程序毛发、软体形变与作品展示如何结合。",
+    "outputType": [
+      "Three.js 三维毛绒角色",
+      "可交互软体与梳毛展示",
+      "独立 HTML / 静态展厅"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/Kayou-31/moonlit-plush-gallery/main/assets/morrow-preview.webp",
+    "imageKind": "screenshot",
+    "imageCaption": "发布者标注为 Morrow 实际运行画面的 WEBP：紫色毛绒幽灵、月牙、南瓜与月光展台；不是同站 Sol 制作的 Boo。",
+    "evidenceUrls": [
+      "https://raw.githubusercontent.com/Kayou-31/moonlit-plush-gallery/main/README.md",
+      "https://raw.githubusercontent.com/Kayou-31/moonlit-plush-gallery/main/morrow.html",
+      "https://kayou-31.github.io/moonlit-plush-gallery/"
+    ],
+    "licenseNotes": "作品未另行声明开源许可；Three.js 保留 MIT 通知。原作品、发布者截图和其他素材分别保留原权利，本库外链不改授 MIT。",
+    "outcome": "877×760 原成果 WEBP 完整 GET、解码与实际查看通过，公开 Morrow 演示与源码逐字节一致。发布者说明只替换 Three.js 加载路径和提示，保留主体实现；不能将展厅整合工作归给 Astra。首次发布日期与原提示词未核实，保持缺失。交互说明按作者页面记录，不代表本库已独立完成所有动作、移动兼容或性能测试。"
+  },
+  {
+    "group": "astra",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-15",
+    "addedAt": "2026-10-15",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "promptExcerpt": null,
+    "promptSummary": "统一任务要求程序化构建可在浏览器运行的动物生态：模型自行选择物种，实现骨架、动画、足部贴地、需求行为、环境和核查；完整任务回原仓库查看。",
+    "promptUrl": "https://github.com/hdnng/ai-3d-animal-astra-vs-argon-vs-opus/blob/main/PROMPT.md",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/hdnng/ai-3d-animal-astra-vs-argon-vs-opus/tree/main/astra",
+    "id": "hdnng-moss-moon",
+    "title": "Moss & Moon：程序赤狐、林地生态与三模型对照",
+    "titleEn": "Moss & Moon — Procedural Fox and Woodland Ecosystem Comparison",
+    "category": "角色与动画",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "hdnng",
+    "sourceUrl": "https://github.com/hdnng/ai-3d-animal-astra-vs-argon-vs-opus",
+    "sourceAccess": "完整 GET 原作者报告、Astra 提交 README、统一任务、基准结果和角色源码；两张 Astra 子目录成果 PNG 核对 MIME / Content-Length / SHA-256、Pillow 完整解码并通过 view_image 实际查看。未执行作者工程或重跑基准。",
+    "promptAvailability": "linked",
+    "modelLabel": "GPT-6 Astra · xhigh（原作者归属表）",
+    "evidenceNote": "原作者三模型报告将 astra/ 明确对应 Astra 6 xhigh，保存程序赤狐与生态场景的独立交付。Gemini Argon 与 Opus 是同题独立结果，未参与该 Astra 场景；报告排位和性能是作者分析，不能当作本库复现结论。",
+    "summary": "跟随赤狐 Ember 在林间探索、饮水和休息，或改用手动控制。程序骨架、足部 IK、需求驱动寻路和昼夜天气连接为同一 Three.js 生态场景，可读取源码、原始任务及作者保存的核查文件。",
+    "outputType": [
+      "Three.js / TypeScript 程序三维生态场景",
+      "赤狐骨架与地形足部 IK",
+      "需求驱动寻路与手动控制",
+      "作者基准和成果截图"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/hdnng/ai-3d-animal-astra-vs-argon-vs-opus/main/astra/screenshots/01-afternoon.png",
+    "imageKind": "screenshot",
+    "imageCaption": "Astra 子目录的实际运行截图：赤狐 Ember、程序林地、需求栏与相机控制；补充图展示同一作品夜景。不是 Opus 或 Argon 对照图。",
+    "evidenceUrls": [
+      "https://raw.githubusercontent.com/hdnng/ai-3d-animal-astra-vs-argon-vs-opus/main/README.md",
+      "https://raw.githubusercontent.com/hdnng/ai-3d-animal-astra-vs-argon-vs-opus/main/astra/README.md",
+      "https://raw.githubusercontent.com/hdnng/ai-3d-animal-astra-vs-argon-vs-opus/main/astra/bench-results.json",
+      "https://raw.githubusercontent.com/hdnng/ai-3d-animal-astra-vs-argon-vs-opus/main/astra/screenshots/03-moonlight.png"
+    ],
+    "licenseNotes": "未确认项目级源码许可；公开可读不等于可任意复用。Three.js 及其他依赖各按原条款，截图保留原作者权利，不纳入本库 MIT。",
+    "outcome": "两张 1440×900 PNG 完整获取、解码与实际查看通过。作者记录10月14日实验，仓库10月15日上海时间创建均不能确定最早公开日，sourceDate 保持 null。作者保存的30秒基准约32 FPS、最低帧率明显下降，且设备与其他模型测量条件有差异，未达到稳定60 FPS；不把评分当作通用排名。未独立安装、试玩或复算。"
+  },
+  {
     "id": "vib3coded-torii-high-tide",
     "title": "Torii at High Tide：海中鸟居、神社微缩岛与双模型对照",
     "titleEn": "Torii at High Tide — A Shrine Island Comparison",

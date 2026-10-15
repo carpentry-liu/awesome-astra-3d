@@ -2,6 +2,21 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-15 · 10 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Inside the Superlight：透明鼠标、内部拆解与信号流 / Inside the Superlight — A Mouse Explainer](https://carpentry-liu.github.io/awesome-astra-3d/cases/shmopix-gaming-mouse/) | shmopix / @shmopixbzn | 完整视频 · 提示词 / 过程 |
+| [单图巡洋舰：Astra 三档推理与不同工具环境对照 / One-Image Cruiser — Three Astra Effort Levels and Harness Comparisons](https://carpentry-liu.github.io/awesome-astra-3d/cases/ohmyunicorn-cruiser-comparison/) | OhMyUnicorn | 演示入口 · 提示词 / 过程 |
+| [North Point：黄昏灯塔与单次生成对照 / North Point — A Lighthouse at Dusk](https://carpentry-liu.github.io/awesome-astra-3d/cases/joh-lighthouse-dusk/) | JOH / @JeurgenHubatsch | 完整视频 · 提示词 / 过程 |
+| [Sunlit Skipper：三维海岛小鸟与单文件游戏对照 / Sunlit Skipper — A 3D Flappy Bird Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/ivana-flappy-bird-3d/) | Ivana / @ivanainai | 完整视频 · 提示词 / 过程 |
+| [五个食人魔：Blender 建模与步行对照 / Five Ogres — Blender Modeling and Walking](https://carpentry-liu.github.io/awesome-astra-3d/cases/congle-ogre-comparison/) | Cong Le / @CongLe | 完整视频 |
+| [机械腕表：深绿表盘与分层爆炸视图 / A Mechanical Watch — An Exploded-View Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/bluumik-watch-comparison/) | bluumik / @bluumik | 完整视频 · 提示词 / 过程 |
+| [AI 书房：日间光照与混合建模流程 / An AI Workroom — Daylight and Mixed Modeling](https://carpentry-liu.github.io/awesome-astra-3d/cases/yokohara-ai-workstation/) | Hirokazu Yokohara / @Yokohara_h | 完整视频 |
+| [放课后教室与和室：Blender MCP 双场景实验 / After-School Classroom and Washitsu — Two Blender MCP Scenes](https://carpentry-liu.github.io/awesome-astra-3d/cases/rikei-blender-classroom-washitsu/) | 株式会社理経 次世代事業開発部 / Rikei NBD | 提示词 / 过程 |
+| [Morrow：月光毛绒幽灵与可交互软体展厅 / Morrow — Interactive Moonlit Plush Ghost](https://carpentry-liu.github.io/awesome-astra-3d/cases/kayou-morrow-menagerie/) | 作品提供者（未公开姓名）/ Kayou-31（整理发布） | 源码 / 工程 · 演示入口 |
+| [Moss & Moon：程序赤狐、林地生态与三模型对照 / Moss & Moon — Procedural Fox and Woodland Ecosystem Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/hdnng-moss-moon/) | hdnng | 源码 / 工程 · 提示词 / 过程 |
+
 ## 2026-10-14 · 7 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-14 (Asia/Shanghai)** · **328 Astra examples** · **97 source / project links** · **114 demo links** · **143 complete videos** · **12 separate references**.
+Updated **2026-10-15 (Asia/Shanghai)** · **338 Astra examples** · **99 source / project links** · **116 demo links** · **149 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -44,18 +44,18 @@ Open an image for the case, materials and known limitations. This selection stay
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-14.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-15.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Production build screenshots from the October 14, 2026 iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Production build screenshots from the October 15, 2026 iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
-<summary>Gallery, mobile and case screenshots · October 14, 2026</summary>
+<summary>Gallery, mobile and case screenshots · October 15, 2026</summary>
 
-[![Gallery filters and more works](docs/media/collection-2026-10-14.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Gallery filters and more works](docs/media/collection-2026-10-15.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-10-14.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-10-15.jpg)
 
-[![Torii at High Tide — A Shrine Island Comparison case page with complete footage and attribution](docs/media/case-2026-10-14.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-torii-high-tide/)
+[![One-Image Cruiser — Three Astra Effort Levels and Harness Comparisons — result and sources](docs/media/case-2026-10-15.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ohmyunicorn-cruiser-comparison/)
 
 </details>
 
@@ -63,19 +63,19 @@ Production build screenshots from the October 14, 2026 iteration. Browse in Chin
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The October 14 update adds **7 works** and **3 complete X clips**, covering shrine and cove scenes, black-hole and physics materials, the Guilford engine house and a dinosaur-professor product viewer. The existing Oval Office preview is repaired and gains a full clip while keeping its original collection date. **5 records** without a verified usable preview are temporarily unlisted and preserved in the audit archive. Publication and collection dates remain separate, with external assets, model outputs and research-verifier roles identified.
+The October 15 update adds **10 works** and **6 complete X clips**, including Inside the Superlight, One-Image Cruiser, North Point, Sunlit Skipper, Five Ogres, A Mechanical Watch and more. Existing previews passed this round of full retrieval and decoding. Publication and collection dates remain separate; external assets, tools and different model roles are identified.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [Torii at High Tide — A Shrine Island Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-torii-high-tide/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2110014604524896392) |
-| [Guilford Engine House — Measured Drawings and a Meshy Reference](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/meshy-guilford-engine-house/) | Serafin Sanchez / Meshy Developer Experience | [Original](https://www.meshy.ai/developers/blog/engine-house-from-four-drawings/) |
-| [Tropical Cove — A Limestone Bay in a Water Block](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-tropical-cove/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2109345073703862419) |
-| [Fukui Dinosaur Professor — Photo to a Color-Customizable GLB Viewer](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/sfp-fukui-dino-professor/) | sfp / 清水あかり / South Field Planning | [Demo](https://estimator.jp/sample/fukui-dino-professor/) · [Original](https://note.com/sfp_note/n/naa76041df57b) |
-| [AA-3D Scene Outputs — Astra Kerr Black Hole and Interactive Task Collection](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/artificial-analysis-aa3d-scenes/) | Artificial Analysis | [Demo](https://artificialanalysiscdn.com/media-arena/87d0885e-c3d6-4403-9fcf-d5fb39eb7437/index.html) · [Original](https://artificialanalysis.ai/articles/aa-3d) |
-| [BHBench — Astra Native Black Hole, Ray Integration and Curvature Grid](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/sshcodes-bhbench-astra/) | SSHdotCodes / BHBench | [Demo](https://bhbench.ssh.codes/model/astra6) · [Source](https://github.com/SSHdotCodes/bhbench/tree/main/submissions/gpt-6-astra-xhigh) · [Original](https://github.com/SSHdotCodes/bhbench) |
-| [PhysCodeGym — Newton Cradle Reconstruction and Measured Physics Failures](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/physcodegym-astra-reconstruction/) | Shuai Shao 等 / PhysCodeGym 研究团队 | [Source](https://github.com/ShaoShuai0605/PhysCodeGym) · [Original](https://github.com/ShaoShuai0605/PhysCodeGym) |
-| [Plush Octopus — A Velvet Toy and Bendable Arms](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/shmopix-plush-octopus/) | shmopix / @shmopixbzn | [Original](https://x.com/shmopixbzn/status/2109323102912156142) |
+| [Inside the Superlight — A Mouse Explainer](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/shmopix-gaming-mouse/) | shmopix / @shmopixbzn | [Original](https://x.com/shmopixbzn/status/2110371046071382042) |
+| [One-Image Cruiser — Three Astra Effort Levels and Harness Comparisons](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ohmyunicorn-cruiser-comparison/) | OhMyUnicorn | [Demo](https://ohmyunicorn.com/labs/dream-loop/blender-cruiser-astra-vs-gemini4/) · [Original](https://ohmyunicorn.com/labs/dream-loop/blender-cruiser-astra-vs-gemini4/) |
+| [North Point — A Lighthouse at Dusk](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/joh-lighthouse-dusk/) | JOH / @JeurgenHubatsch | [Original](https://x.com/JeurgenHubatsch/status/2110054195734982817) |
+| [Sunlit Skipper — A 3D Flappy Bird Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ivana-flappy-bird-3d/) | Ivana / @ivanainai | [Original](https://x.com/ivanainai/status/2110069699597971828) |
+| [Five Ogres — Blender Modeling and Walking](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/congle-ogre-comparison/) | Cong Le / @CongLe | [Original](https://x.com/CongLe/status/2110139804805693469) |
+| [A Mechanical Watch — An Exploded-View Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/bluumik-watch-comparison/) | bluumik / @bluumik | [Original](https://x.com/bluumik/status/2110070382002921482) |
+| [An AI Workroom — Daylight and Mixed Modeling](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/yokohara-ai-workstation/) | Hirokazu Yokohara / @Yokohara_h | [Original](https://x.com/Yokohara_h/status/2109984552286609651) |
+| [After-School Classroom and Washitsu — Two Blender MCP Scenes](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/rikei-blender-classroom-washitsu/) | 株式会社理経 次世代事業開発部 / Rikei NBD | [Original](https://note.com/rikei_nbd/n/nfa023a1404f8) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

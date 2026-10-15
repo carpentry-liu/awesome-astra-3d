@@ -6138,6 +6138,544 @@
         "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-14",
         "externalAuthorVideosArchived": false
       }
+    },
+    {
+      "observedAt": "2026-10-15",
+      "checkedAtUtc": "2026-10-15T02:39:29.943205+00:00",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "addedCaseIds": [
+        "shmopix-gaming-mouse",
+        "ohmyunicorn-cruiser-comparison",
+        "joh-lighthouse-dusk",
+        "ivana-flappy-bird-3d",
+        "congle-ogre-comparison",
+        "bluumik-watch-comparison",
+        "yokohara-ai-workstation",
+        "rikei-blender-classroom-washitsu",
+        "kayou-morrow-menagerie",
+        "hdnng-moss-moon"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "baselineCount": 340,
+      "resultingCount": 350,
+      "socialCoverage": {
+        "date": "2026-10-15",
+        "timezone": "Asia/Shanghai",
+        "baselineRecords": 340,
+        "baselineAstraCases": 328,
+        "newCases": 6,
+        "queries": [
+          "site:x.com \"Astra\" \"3D\" \"Oct 14\" \"2026\"",
+          "site:x.com \"Astra\" \"3D\" \"Oct 15\" \"2026\"",
+          "\"GPT-6 Astra\" \"3D\" after:2026-10-13",
+          "site:3d-prompt.com \"Astra\"",
+          "site:x.com \"Astra\" \"water\" \"2026\"",
+          "site:3d-prompt.com/prompts \"Astra\" \"Oct 14\"",
+          "site:x.com/vib3coded \"Astra\"",
+          "\"GPT-6 Astra\" \"October 14\" 3D",
+          "site:x.com \"Astra\" \"3D\" since:2026-10-14",
+          "site:x.com \"Astra\" \"Blender\" since:2026-10-13",
+          "\"Yokohara_h\" \"Astra\" \"Blender\" \"October\"",
+          "\"Yokohara_h\" \"2109984552286609651\"",
+          "\"ecsamuraigold\" \"Astra\" \"太陽系\"",
+          "\"bluumik\" \"Rolex\" \"Astra\"",
+          "\"Yokohara_h\" \"Blenderを自分では\" \"Astra\"",
+          "\"Blenderを自分では\" \"210\"",
+          "\"Yokohara_h\" \"三日\" \"Astra\" \"Opus\"",
+          "\"ecsamuraigold\" \"スクリュー\" \"Astra\""
+        ],
+        "discoveryPages": [
+          "https://3d-prompt.com/",
+          "https://hyper3d.ai/3d-prompts/models/gpt-6-astra",
+          "https://www.reddit.com/r/TopologyAI/comments/1x5kq0a/gpt6_astra_claude_opus_three_days_a_room_nobody/",
+          "https://search.yahoo.co.jp/realtime/search/tweet/2108580996761493865?detail=1&ifr=tl_quotedtw&rkf=1"
+        ],
+        "acceptedSourceUrls": [
+          "https://x.com/shmopixbzn/status/2110371046071382042",
+          "https://x.com/JeurgenHubatsch/status/2110054195734982817",
+          "https://x.com/ivanainai/status/2110069699597971828",
+          "https://x.com/CongLe/status/2110139804805693469",
+          "https://x.com/bluumik/status/2110070382002921482",
+          "https://x.com/Yokohara_h/status/2109984552286609651"
+        ],
+        "sourceDateLimit": "新增6件中鼠标为上海10月14日，灯塔/Flappy/食人魔/腕表为10月14日；书房同作最早10月9日，采用10月13日日间录像。10月15日为本库收录与核查日，没有把新抓取或Reddit回复日期当今天首发。",
+        "deduplication": "340条既有事实、下架档案和286个视频清单均按精确原帖ID/媒体ID/文件名去重。旧Yokohara仅九月Houdini模型及街景，本次书房不同；同书房初始夜景和日间版只计1件，各模型对照不按模型或阶段多计。",
+        "rejected": [
+          {
+            "url": "https://x.com/ecsamuraigold/status/2110380365269639613",
+            "reason": "整理站标Astra但原作者主帖视频明确是Gemini4，下一条2110380367685530023明确Opus5.5；Astra仅出现在评价，未找到实际Astra输出，排除"
+          },
+          {
+            "url": "https://3d-prompt.com/prompts/wright-flyer-through-a-japanese-forest-2096467585785286808",
+            "reason": "旧线索、整理站重建与真实原作者Astra流程未证，不把Jared重建日期当原作品首发"
+          },
+          {
+            "url": "https://3d-prompt.com/prompts/jelly-jungle-3d-browser-game-2081024333120733188",
+            "reason": "原帖为7月且未建立Astra归属；整理站模型标签不能证明"
+          },
+          {
+            "url": "https://3d-prompt.com/prompts/electric-motor-cinematic-3d-animation",
+            "reason": "原作者为Opus5.5，不是Astra"
+          },
+          {
+            "url": "https://3d-prompt.com/prompts/interactive-holographic-cd-tilt-shatter",
+            "reason": "原作者为Opus5.5，不是Astra"
+          },
+          {
+            "url": "https://3d-prompt.com/prompts/interactive-gummy-bear-physics-playground",
+            "reason": "原作者为Opus5.5，不是Astra"
+          },
+          {
+            "url": "https://3d-prompt.com/prompts/voxel-pelican-fighter-jet-scene",
+            "reason": "原作者为Opus5.5，不是Astra"
+          },
+          {
+            "url": "https://3d-prompt.com/prompts/galerie-nocturne-css-3d-museum",
+            "reason": "原作者为Opus5.5，不是Astra"
+          },
+          {
+            "url": "https://3d-prompt.com/prompts/procedural-sdf-cheetah-walk-cycle",
+            "reason": "原作者为Opus5.5，不是Astra"
+          }
+        ],
+        "delegated": [
+          {
+            "url": "https://ohmyunicorn.com/labs/dream-loop/blender-cruiser-astra-vs-gemini4/",
+            "reason": "原作者Oct14战舰实验已交root/文章分支核查，不在social重复增加"
+          },
+          {
+            "url": "https://www.reddit.com/r/hyper3d_rodin/comments/1x1m6du/built_this_3d_game_with_gpt6_astra/",
+            "reason": "Astra编程+Rodin资产原作者线索交root协调其他分支核查，不在social重复增加"
+          }
+        ],
+        "limitations": [
+          "搜索工具仅用于发现，归属以X原始完整GET与精确同帖元数据及视频实际标签核对，不凭整理站标签。",
+          "web工具读取Yokohara原帖403，直接完整X HTML GET200可核对作者与时间，访问方式差异保留。Tripo官网与Twstalker发现页403，不宣称删除。",
+          "6段/12文件全片严格null解码均exit0且stderr空，无DTS精度例外，合计39,601,603字节；根需另做原生播放器完整ended核验。",
+          "只复查本轮候选与作者回复，没有将日期改成全库原帖均今日重新访问。",
+          "未执行作者工程、未取得未公开提示词，不验证硬件准确性、全部功能、价格偏好或商业授权。"
+        ]
+      },
+      "repositoryCoverage": {
+        "observedAt": "2026-10-15",
+        "timezone": "Asia/Shanghai",
+        "scope": "340 条基线与下架档案按来源 / 仓库 / 标题去重；原作者 GitHub 近期工程、Hugging Face 公开3D场景评测与原始成果媒体。",
+        "queries": [
+          {
+            "method": "web search",
+            "query": "\"GPT-6 Astra\" \"3D\" \"October 14\""
+          },
+          {
+            "method": "web search",
+            "query": "\"Astra\" \"3D\" \"October 15\" github"
+          },
+          {
+            "method": "web search",
+            "query": "site:github.com \"GPT-6\" \"3D\" \"Astra\""
+          },
+          {
+            "method": "web search",
+            "query": "site:github.com \"astra\" \"3d\" \"2026-10-14\""
+          },
+          {
+            "method": "web search",
+            "query": "site:github.com \"astra\" \"Blender\" \"2026\""
+          },
+          {
+            "method": "web search",
+            "query": "site:github.com \"astra\" \"Three.js\" \"GPT-6\""
+          },
+          {
+            "method": "web search",
+            "query": "site:github.com \"gpt-6-astra\" \"screenshot\" -\"awesome\" -Ni-Cobra -bhbench -az9713"
+          },
+          {
+            "method": "GitHub repository connector",
+            "query": "\"GPT-6 Astra\" in:readme pushed:>=2026-10-14",
+            "requestedPageSize": 100
+          },
+          {
+            "method": "GitHub repository connector",
+            "query": "\"GPT-6 Astra\" in:readme three.js pushed:>=2026-10-14",
+            "requestedPageSize": 100
+          },
+          {
+            "method": "GitHub repository connector",
+            "query": "\"GPT-6 Astra\" in:readme blender pushed:>=2026-10-14",
+            "requestedPageSize": 100
+          },
+          {
+            "method": "GitHub repository connector",
+            "query": "\"Astra\" \"3D\" created:>=2026-10-10",
+            "requestedPageSize": 100
+          }
+        ],
+        "selected": [
+          {
+            "caseId": "hdnng-moss-moon",
+            "source": "https://github.com/hdnng/ai-3d-animal-astra-vs-argon-vs-opus",
+            "reason": "原作者三模型报告将 astra/ 明确对应 Astra 6 xhigh，保存程序赤狐与生态场景的独立交付。Gemini Argon 与 Opus 是同题独立结果，未参与该 Astra 场景；报告排位和性能是作者分析，不能当作本库复现结论。"
+          },
+          {
+            "caseId": "kayou-morrow-menagerie",
+            "source": "https://github.com/Kayou-31/moonlit-plush-gallery",
+            "reason": "发布者表格将 Morrow 单独标为6 Astra max，说明模型信息按作品提供者标注，原始创作会话未公开。Kayou-31 负责展厅与发布，保留提供文件的主体实现；同展厅 Boo 属6.1 Sol，未计入该 Astra 案例。"
+          }
+        ],
+        "updated": [],
+        "excluded": [
+          {
+            "url": "https://github.com/ToHaveADream/astra-vibe-coding-lunar-surveyor",
+            "reason": "Onward0131 既有下架 Lunar Surveyor 的分叉 / 相同材料，未找到新的可核成果图；不新增或仅凭源码恢复。"
+          },
+          {
+            "url": "https://github.com/danielsobrado/Codex-and-Blender",
+            "reason": "coastal-jungle 既有作品与模型职责已收，不重复计数。"
+          },
+          {
+            "url": "https://github.com/Ni-Cobra/Bad-Apple-ThreeJS",
+            "reason": "历史素材候选，不是今日首发；本轮优先近期真工程，未为凑数量重复入库。"
+          },
+          {
+            "url": "https://huggingface.co/spaces/3d-arena/llm-3d-worlds-arena",
+            "reason": "原作者 Reddit 与HF实时目录可读取，明确包括Astra/Blender和Three.js；静态配置仍含draft，真实线上已激活，二者不能混用。公开 release Dataset GET 401，尚未取得明确对应 Astra 的独立成果图；不以输入参考图、模型配置或650+泛指样本数作为收录依据。"
+          },
+          {
+            "url": "https://github.com/Kayou-31/moonlit-plush-gallery/blob/main/boo.html",
+            "reason": "同展厅 Boo 明确由6.1 Sol制作，不并入 Astra 数量。"
+          }
+        ],
+        "accessNotes": [
+          "GitHub About 匿名完整 GET 一次403限流已如实保留；原作者README、源码和成果原图均成功完整GET。",
+          "不执行第三方工程，不将作者测试结果写成独立复现；日期未知null。",
+          "Morrow模型信息是作品提供者标注，由发布者转述，未有创作会话；已在候选显著说明。"
+        ]
+      },
+      "articleCoverage": {
+        "date": "2026-10-15",
+        "timezone": "Asia/Shanghai",
+        "checkedAtUtc": "2026-10-15T02:15:09.273517+00:00",
+        "scope": "Original developer blogs and note articles; indexed Zenn/Qiita/Reddit discovery. Original author sources and exact attributed output media checked, no source execution or account access.",
+        "queries": [
+          "\"Astra\" \"3D\" \"October 14, 2026\"",
+          "\"Astra\" \"Blender\" \"2026年10月14日\"",
+          "\"Astra\" \"3D\" site:note.com \"2026年10月15日\"",
+          "\"GPT-6\" \"3D\" site:zenn.dev",
+          "\"Astra\" \"3D\" \"2026/10/14\"",
+          "\"Astra\" \"Blender\" \"October 2026\" -site:twstalker.com",
+          "\"Astra\" \"3D\" \"2026年10月14日\" -site:twstalker.com",
+          "\"Astra\" \"3D\" \"2026/10/15\"",
+          "\"Astra\" \"Blender\" \"October 14\" \"2026\"",
+          "\"Astra\" \"Blender\" \"Oct 14\" \"2026\"",
+          "\"Astra\" \"3D\" site:note.com \"2026年10月\"",
+          "\"Astra\" \"3D\" site:qiita.com \"2026-10\"",
+          "\"Astra\" \"3D\" \"2026年10月14日\" note -site:twstalker.com",
+          "\"Astra\" \"Blender\" \"2026年10月15日\"",
+          "\"Astra\" \"3D\" \"2026/10/14\" -site:twstalker.com"
+        ],
+        "accepted": [
+          "ohmyunicorn-cruiser-comparison",
+          "rikei-blender-classroom-washitsu"
+        ],
+        "newRecords": [
+          "ohmyunicorn-cruiser-comparison",
+          "rikei-blender-classroom-washitsu"
+        ],
+        "existingUpdates": [],
+        "restorations": [],
+        "sourceFetch": [
+          {
+            "key": "cruiser",
+            "url": "https://ohmyunicorn.com/labs/dream-loop/blender-cruiser-astra-vs-gemini4/",
+            "status": 200,
+            "mime": "text/html",
+            "bytes": 29190,
+            "sha256": "0bb4fc645c7f0a910d997a218dca16a56a8f75ca263bf7dfdb299c9d371d9c54",
+            "contentLength": null,
+            "contentLengthRecorded": false
+          },
+          {
+            "key": "rikei",
+            "url": "https://note.com/rikei_nbd/n/nfa023a1404f8",
+            "status": 200,
+            "mime": "text/html",
+            "bytes": 490352,
+            "sha256": "0c781e062f477ab48a4d7ebb29856ab3492528a90d4d46a91ee52e513319cdea",
+            "contentLength": null,
+            "contentLengthRecorded": false
+          },
+          {
+            "key": "eizouyak",
+            "url": "https://note.com/eizouyak/n/n3e48171e62fd",
+            "status": 200,
+            "mime": "text/html",
+            "bytes": 313368,
+            "sha256": "7b30e6eacd0b86139b27052404406c97d9dc3fbc39240a3d764b2be81e0e85f3",
+            "contentLength": null,
+            "contentLengthRecorded": false
+          },
+          {
+            "key": "yusuke",
+            "url": "https://note.com/yusuke723/n/n1bf3507b3140",
+            "status": 200,
+            "mime": "text/html",
+            "bytes": 401805,
+            "sha256": "f78c1f7f19bccb913297f9d9bc3c3672b964db4e4138d12a3604c45107257670",
+            "contentLength": null,
+            "contentLengthRecorded": false
+          }
+        ],
+        "notAdopted": [
+          {
+            "url": "https://www.reddit.com/r/hyper3d_rodin/comments/1x1m6du/built_this_3d_game_with_gpt6_astra/",
+            "reason": "Indexed author post clearly separates Astra game coding from Rodin assets, but raw post and .json return 403 and exact poster full GET returns 403. No usable verified outcome media; retain as research, not a displayed case. No access restriction bypass."
+          },
+          {
+            "url": "https://note.com/eizouyak/n/n3e48171e62fd",
+            "reason": "Public text says Astra built circus geometry and Sol later handled Unreal work, but only a generic header image is publicly embedded. Paywall not accessed; no clearly attributed outcome preview selected."
+          },
+          {
+            "url": "https://note.com/yusuke723/n/n1bf3507b3140",
+            "reason": "Mixed Sol/Astra discussion; exact panel-to-model assignment remains uncertain. Do not label ambiguous tree/fire panels as Astra output."
+          },
+          {
+            "url": "https://kaloyan.blog/ai-models-rebuild-a-photo-in-blender",
+            "reason": "Already catalogued as kaloyan-photo-blender-benchmark."
+          },
+          {
+            "url": "https://note.com/onemorevision/n/n3ce66cf6ae2f",
+            "reason": "Already catalogued as onemorevision-dxf-3dsmax-interior; Astra initial geometry and Sol camera/refinement remain separate."
+          },
+          {
+            "url": "https://note.com/miya19/n/nf759594eb209",
+            "reason": "Already catalogued as miya-little-city-studio."
+          },
+          {
+            "url": "https://zenn.dev/tkada/articles/d0c31e6533fb62",
+            "reason": "Already catalogued as tkada-jump-run."
+          },
+          {
+            "url": "https://zenn.dev/machikita/articles/5fb78e45b55e84",
+            "reason": "Already catalogued as machikita-orbit-lab."
+          },
+          {
+            "url": "https://zenn.dev/koher/articles/code-first-3d-modeling",
+            "reason": "Already catalogued as koher-realitizer."
+          },
+          {
+            "url": "https://news-japan.ai/4976/",
+            "reason": "Secondary Higgsfield story; no new individually attributed author-made 3D outcome collected."
+          }
+        ],
+        "limitations": [
+          "Search does not guarantee all October15 publications are indexed. October15 collection date is distinct from original publication.",
+          "Cruiser public date is October14 calendar date; source timezone is not disclosed. Rikei JSON-LD Japan noon is Shanghai11:00 on October9.",
+          "Three cruiser effort settings and same-day Gemini Antigravity rerun are one experiment, not separate new works. Results and subscription-equivalent costs are author observations, not an independent replication.",
+          "GLB checks inspected binary headers and JSON only; no geometry rendering, code execution or independent playability claim.",
+          "No XHS access or login was performed."
+        ],
+        "mediaProof": "article-media-proof.json",
+        "geometryProof": "cruiser-glb-proof.json"
+      },
+      "crossPlatformDiscovery": {
+        "observedAt": "2026-10-15",
+        "timezone": "Asia/Shanghai",
+        "method": "Web search; original author candidates sent to social/repository reviewers",
+        "queries": [
+          "\"GPT-6 Astra\" \"3D\" \"October 14\" 2026",
+          "\"GPT-6 Astra\" \"3D\" site:xiaohongshu.com",
+          "\"GPT-6 Astra\" \"Blender\" after:2026-10-13"
+        ],
+        "platformFindings": {
+          "Xiaohongshu": "No usable case returned by this focused query; this is not a logged-in platform-wide audit."
+        },
+        "candidateUrls": [
+          "https://www.reddit.com/r/TopologyAI/comments/1x5kq0a/gpt6_astra_claude_opus_three_days_a_room_nobody/",
+          "https://www.reddit.com/r/ClaudeCode/comments/1x5mnrd/opus_55_orchestrating_gpt6_astra_vs_gemini_4/",
+          "https://www.reddit.com/r/hyper3d_rodin/comments/1x1m6du/built_this_3d_game_with_gpt6_astra/",
+          "https://www.reddit.com/r/generativeAI/comments/1x5y1r5/llm_3d_world_arena_comparing_llmgenerated_3d/"
+        ],
+        "acceptance": "Unverified at discovery; model attribution and actual author outcome media must be independently checked."
+      },
+      "originalXEvidenceChecks": [
+        {
+          "sourceUrl": "https://x.com/shmopixbzn/status/2110371046071382042",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 128739,
+          "sha256": "79a17badc02d077e24907ed0820c99fbfa2cbdff1768bd5eda3cdd67bdacef19",
+          "createdAtMs": 1791986640000,
+          "createdAtUtc": "Wed Oct 14 14:04:00 +0000 2026",
+          "createdAtShanghai": "2026-10-14T22:04:00+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "secondaryMetadataUrl": "https://api.fxtwitter.com/shmopixbzn/status/2110371046071382042",
+          "caseId": "shmopix-gaming-mouse",
+          "astraRegion": "entire single-model work",
+          "modelStatementMatched": true,
+          "modelEvidence": "作者正文明确Astra及原片标签",
+          "promptInMainPost": true
+        },
+        {
+          "sourceUrl": "https://x.com/JeurgenHubatsch/status/2110054195734982817",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 114860,
+          "sha256": "71c27ba0173c2be4a2dfc2422cdbfe0c9f764b5e2f30e4a5ac32ead5f0c236b1",
+          "createdAtMs": 1791911097000,
+          "createdAtUtc": "Tue Oct 13 17:04:57 +0000 2026",
+          "createdAtShanghai": "2026-10-14T01:04:57+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "secondaryMetadataUrl": "https://api.fxtwitter.com/JeurgenHubatsch/status/2110054195734982817",
+          "caseId": "joh-lighthouse-dusk",
+          "astraRegion": "lower",
+          "modelStatementMatched": true,
+          "modelEvidence": "作者正文明确Astra及原片标签",
+          "promptReplyProof": {
+            "sourceUrl": "https://x.com/JeurgenHubatsch/status/2110054584769302982",
+            "httpStatus": 200,
+            "contentType": "text/html",
+            "bytes": 109006,
+            "sha256": "b791453c35f156f303777c855a57bedef3830d5e7d286b4a53f3bb54ff96d6bf",
+            "createdAtMs": 1791911190000,
+            "createdAtUtc": "Tue Oct 13 17:06:30 +0000 2026",
+            "createdAtShanghai": "2026-10-14T01:06:30+08:00",
+            "authorMatched": true,
+            "mirrorTimestampMatched": true,
+            "secondaryMetadataUrl": "https://api.fxtwitter.com/JeurgenHubatsch/status/2110054584769302982",
+            "parentPostMatched": true
+          }
+        },
+        {
+          "sourceUrl": "https://x.com/ivanainai/status/2110069699597971828",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 132963,
+          "sha256": "622c5949558549979b5a2997feb0c688a11937f0306ea1b289373a3881fa47ea",
+          "createdAtMs": 1791914794000,
+          "createdAtUtc": "Tue Oct 13 18:06:34 +0000 2026",
+          "createdAtShanghai": "2026-10-14T02:06:34+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "secondaryMetadataUrl": "https://api.fxtwitter.com/ivanainai/status/2110069699597971828",
+          "caseId": "ivana-flappy-bird-3d",
+          "astraRegion": "upper",
+          "modelStatementMatched": true,
+          "modelEvidence": "作者正文明确Astra及原片标签",
+          "promptReplyProof": {
+            "sourceUrl": "https://x.com/ivanainai/status/2110073220946592038",
+            "httpStatus": 200,
+            "contentType": "text/html",
+            "bytes": 158515,
+            "sha256": "5f41481e2af63fc68c851a1ece9c262bf637fadf0a215985e5190486d1ae989b",
+            "createdAtMs": 1791915633000,
+            "createdAtUtc": "Tue Oct 13 18:20:33 +0000 2026",
+            "createdAtShanghai": "2026-10-14T02:20:33+08:00",
+            "authorMatched": true,
+            "mirrorTimestampMatched": true,
+            "secondaryMetadataUrl": "https://api.fxtwitter.com/ivanainai/status/2110073220946592038",
+            "parentPostMatched": true
+          }
+        },
+        {
+          "sourceUrl": "https://x.com/CongLe/status/2110139804805693469",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 103593,
+          "sha256": "1be6145512683d53e8656a03cf50ede5a9f7ff1c877b1c597bfc5e86252afa76",
+          "createdAtMs": 1791931508000,
+          "createdAtUtc": "Tue Oct 13 22:45:08 +0000 2026",
+          "createdAtShanghai": "2026-10-14T06:45:08+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "secondaryMetadataUrl": "https://api.fxtwitter.com/CongLe/status/2110139804805693469",
+          "caseId": "congle-ogre-comparison",
+          "astraRegion": "bottom-left",
+          "modelStatementMatched": true,
+          "modelEvidence": "作者正文明确Astra及原片标签"
+        },
+        {
+          "sourceUrl": "https://x.com/bluumik/status/2110070382002921482",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 111445,
+          "sha256": "c667bddc9e2aea29ab7d386c07d9c55866335d8b91d2daf406caf3c041994182",
+          "createdAtMs": 1791914956000,
+          "createdAtUtc": "Tue Oct 13 18:09:16 +0000 2026",
+          "createdAtShanghai": "2026-10-14T02:09:16+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "secondaryMetadataUrl": "https://api.fxtwitter.com/bluumik/status/2110070382002921482",
+          "caseId": "bluumik-watch-comparison",
+          "astraRegion": "upper",
+          "modelStatementMatched": true,
+          "modelEvidence": "正文GPT-6简写，原片封面及中帧明确GPT-6 Astra (High)",
+          "promptInMainPost": true
+        },
+        {
+          "sourceUrl": "https://x.com/Yokohara_h/status/2109984552286609651",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 132820,
+          "sha256": "a53161831cbac019df98a5912df94d1d32d9454b1734d1e89e701fcf29599311",
+          "createdAtMs": 1791894493000,
+          "createdAtUtc": "Tue Oct 13 12:28:13 +0000 2026",
+          "createdAtShanghai": "2026-10-13T20:28:13+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "secondaryMetadataUrl": "https://api.fxtwitter.com/Yokohara_h/status/2109984552286609651",
+          "caseId": "yokohara-ai-workstation",
+          "astraRegion": "mixed Astra / Opus workflow, not separable by object",
+          "modelStatementMatched": true,
+          "modelEvidence": "精确同作者初始书房回复明确Astra+Opus；日间帖子明确为同一场景日间版本",
+          "sameWorkInitialPost": {
+            "sourceUrl": "https://x.com/Yokohara_h/status/2108580996761493865",
+            "httpStatus": 200,
+            "contentType": "text/html",
+            "bytes": 133845,
+            "sha256": "e4848f13720498b079ffe0517229db7564e5a06d5a5c2d3ffb8fa2ba6587d2ec",
+            "createdAtMs": 1791559859000,
+            "createdAtUtc": "Fri Oct 09 15:30:59 +0000 2026",
+            "createdAtShanghai": "2026-10-09T23:30:59+08:00",
+            "authorMatched": true,
+            "mirrorTimestampMatched": true,
+            "secondaryMetadataUrl": "https://api.fxtwitter.com/Yokohara_h/status/2108580996761493865"
+          },
+          "sameWorkAuthorModelReply": {
+            "sourceUrl": "https://x.com/Yokohara_h/status/2108589346022666484",
+            "httpStatus": 200,
+            "contentType": "text/html",
+            "bytes": 155568,
+            "sha256": "c0400c89a09e16acfea55d92d5919ac42a5fdf64332dd7f162bd917af26b2abb",
+            "createdAtMs": 1791561850000,
+            "createdAtUtc": "Fri Oct 09 16:04:10 +0000 2026",
+            "createdAtShanghai": "2026-10-10T00:04:10+08:00",
+            "authorMatched": true,
+            "mirrorTimestampMatched": true,
+            "secondaryMetadataUrl": "https://api.fxtwitter.com/Yokohara_h/status/2108589346022666484"
+          },
+          "daylightPostDate": "2026-10-13",
+          "firstPublicationBasis": "原作者日间版本措辞、同书房原始夜景与日间成果封面实际比较；同一书架/百叶窗/桌面几何，不计两个case。"
+        }
+      ],
+      "historicalAvailability": {
+        "baselinePreviewsFullGet": 340,
+        "initialDecoded": 336,
+        "retryRecovered": 4,
+        "temporarilyUnlisted": 0,
+        "decodedSurvivingBaseline": 340,
+        "validatedCurrentPreviews": 350
+      },
+      "mediaResult": {
+        "fullClips": 6,
+        "fullyDecodedFiles": 12,
+        "bytes": 39601603,
+        "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-15",
+        "externalAuthorVideosArchived": false
+      }
     }
   ]
 }
