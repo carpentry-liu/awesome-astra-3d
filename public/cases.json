@@ -1,5 +1,476 @@
 [
   {
+    "id": "vib3coded-jelly-punching-bag",
+    "title": "Jelly Bag：可以挥拳的果冻沙袋",
+    "titleEn": "Jelly Bag — A Soft-Body Punching Bag",
+    "category": "交互与工具",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（独立对照）",
+    "summary": "同题制作可变形的悬挂沙袋：下方 Astra 将半透明果冻包体、吊环与击打计数结合，录像中可见沙袋受击后摆动和变色；上方是 Opus 的独立结果。",
+    "imageCaption": "原作者完整对照封面：上方 Claude Opus 5.5，下方 ChatGPT-6 Astra；只有下半画面属于 Astra。 附原帖完整录像与原版下载。",
+    "outcome": "可查看18秒完整作者对照录像，中帧下方 Astra 沙袋已摆向左侧并显示553的击打读数。作者报告的费用和偏好不作为独立评测；未取得源码、演示入口或完整原始提示词，未验证控制参数、物理真实性及性能。",
+    "promptSummary": null,
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Vib3Coded / @vib3coded",
+    "sourceUrl": "https://x.com/vib3coded/status/2110850396864369001",
+    "sourceDate": "2026-10-16",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-16",
+    "addedAt": "2026-10-16",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者X完整HTML、精确FxTwitter辅助元数据、作者、UTC/上海日期和来源视频ID一致。实际封面与中帧查看并标明Astra/Opus独立输出，不把作者费用或偏好当独立评测。",
+    "sourceAccess": "原作者X完整GET200 / text/html / 159,807字节，作者及时间与精确同帖辅助元数据一致。主成果图完整GET200 / image/jpeg / 948×1200 / 72,198字节，Content-Length、SHA-256、Pillow完整解码与实际查看通过。同帖最高平台原版及较小完整平台版保存全部时长，来源媒体ID、时长、MIME、字节与SHA-256匹配；严格FFmpeg全长null解码exit0且stderr空，封面及中帧实际查看，未剪辑或转码。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2110850272238985216/img/4Tefh3VkOD9T3GS5.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/vib3coded/status/2110850396864369001",
+    "repositoryUrl": null,
+    "outputType": [
+      "三维互动对照",
+      "作者完整录像",
+      "完整运行录像"
+    ],
+    "promptAvailability": "unpublished",
+    "promptExcerpt": null,
+    "promptUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/vib3coded/status/2110850396864369001"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库MIT。保存原平台完整MP4未剪辑或转码，保留原创来源及移除入口；归档不代表另行取得再发布许可。 平台原版与较小完整播放版保存至公开 Release，未剪辑或转码。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-jelly-punching-bag-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-16/vib3coded-jelly-punching-bag-1-original.mp4",
+        "durationSeconds": 18.05,
+        "bytes": 8225693,
+        "sha256": "41adf15c318c26a89d5417ea661fc9574d7ee1a5cb54c774031883220d6f8998",
+        "sourceUrl": "https://x.com/vib3coded/status/2110850396864369001",
+        "label": "Jelly Bag — A Soft-Body Punching Bag",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2110850272238985216/img/4Tefh3VkOD9T3GS5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "shmopix-halloween-pumpkin",
+    "title": "万圣节南瓜灯：雕刻表情与弹性互动对照",
+    "titleEn": "A Halloween Pumpkin — A Squishy Jack-o-Lantern",
+    "category": "交互与工具",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（独立对照）",
+    "summary": "作者用万圣节南瓜灯比较两模型：左侧 Astra 是橙色雕刻笑脸与简洁紫色背景，右侧 Opus 使用发光半透明材质和底座。完整录像展示两份南瓜的弹性与旋转。",
+    "imageCaption": "原作者录像封面：左侧 GPT-6 Astra，右侧 Claude 5.5 Opus，两个完整南瓜灯各自独立。 附原帖完整录像与原版下载。",
+    "outcome": "可查看约18.6秒完整对照录像，封面和中帧均明确模型。未公开工程、在线演示或原始任务文本；只核查作者演示，不将其他作者的南瓜切片任务或右侧 Opus 发光细节归给 Astra。",
+    "promptSummary": null,
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "shmopix / @shmopixbzn",
+    "sourceUrl": "https://x.com/shmopixbzn/status/2110851186005782691",
+    "sourceDate": "2026-10-16",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-16",
+    "addedAt": "2026-10-16",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者X完整HTML、精确FxTwitter辅助元数据、作者、UTC/上海日期和来源视频ID一致。实际封面与中帧查看并标明Astra/Opus独立输出，不把作者费用或偏好当独立评测。",
+    "sourceAccess": "原作者X完整GET200 / text/html / 129,486字节，作者及时间与精确同帖辅助元数据一致。主成果图完整GET200 / image/jpeg / 1200×675 / 48,253字节，Content-Length、SHA-256、Pillow完整解码与实际查看通过。同帖最高平台原版及较小完整平台版保存全部时长，来源媒体ID、时长、MIME、字节与SHA-256匹配；严格FFmpeg全长null解码exit0且stderr空，封面及中帧实际查看，未剪辑或转码。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2110850807423815682/img/F3gjQ9FFzkXUAV8s.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/shmopixbzn/status/2110851186005782691",
+    "repositoryUrl": null,
+    "outputType": [
+      "三维互动对照",
+      "作者完整录像",
+      "完整运行录像"
+    ],
+    "promptAvailability": "unpublished",
+    "promptExcerpt": null,
+    "promptUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/shmopixbzn/status/2110851186005782691"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库MIT。保存原平台完整MP4未剪辑或转码，保留原创来源及移除入口；归档不代表另行取得再发布许可。 平台原版与较小完整播放版保存至公开 Release，未剪辑或转码。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/shmopix-halloween-pumpkin-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-16/shmopix-halloween-pumpkin-1-original.mp4",
+        "durationSeconds": 18.56,
+        "bytes": 9335743,
+        "sha256": "ccc944a5dc7b812acc09ab67253a05c51658de6b418874bdcd3dd6f6eeb12987",
+        "sourceUrl": "https://x.com/shmopixbzn/status/2110851186005782691",
+        "label": "A Halloween Pumpkin — A Squishy Jack-o-Lantern",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2110850807423815682/img/F3gjQ9FFzkXUAV8s.jpg"
+      }
+    ]
+  },
+  {
+    "id": "vib3coded-jelly-pumpkin",
+    "title": "Pumpkin Jelly：带瓜籽的南瓜切片软体",
+    "titleEn": "Pumpkin Jelly — A Squishy Pumpkin Wedge",
+    "category": "交互与工具",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（独立对照）",
+    "summary": "南瓜切片成为可揉捏的软体：下方 Astra 显示橙色果肉、瓜籽和可调整硬度的面板，中帧可见切片明显拉扯。上方 Opus 是独立版本；完整对照不拆成两件作品。",
+    "imageCaption": "原作者完整对照封面：上方 Claude Opus 5.5，下方 ChatGPT-6 Astra，Astra 的瓜籽与切片位于下半画面。 附原帖完整录像与原版下载。",
+    "outcome": "可查看18秒完整作者录像，中帧下方 Astra 切片已经被拉成长形。此作品是南瓜切片，与 shmopix 的完整雕刻南瓜灯不同；没有获得实现源码或演示，未独立核验软体稳定性、参数或费用。",
+    "promptSummary": null,
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Vib3Coded / @vib3coded",
+    "sourceUrl": "https://x.com/vib3coded/status/2110438822085312714",
+    "sourceDate": "2026-10-15",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-16",
+    "addedAt": "2026-10-16",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者X完整HTML、精确FxTwitter辅助元数据、作者、UTC/上海日期和来源视频ID一致。实际封面与中帧查看并标明Astra/Opus独立输出，不把作者费用或偏好当独立评测。",
+    "sourceAccess": "原作者X完整GET200 / text/html / 157,655字节，作者及时间与精确同帖辅助元数据一致。主成果图完整GET200 / image/jpeg / 948×1200 / 74,326字节，Content-Length、SHA-256、Pillow完整解码与实际查看通过。同帖最高平台原版及较小完整平台版保存全部时长，来源媒体ID、时长、MIME、字节与SHA-256匹配；严格FFmpeg全长null解码exit0且stderr空，封面及中帧实际查看，未剪辑或转码。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2110438725301739522/img/Df5cDb5m7oRlXxdP.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/vib3coded/status/2110438822085312714",
+    "repositoryUrl": null,
+    "outputType": [
+      "三维互动对照",
+      "作者完整录像",
+      "完整运行录像"
+    ],
+    "promptAvailability": "unpublished",
+    "promptExcerpt": null,
+    "promptUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/vib3coded/status/2110438822085312714"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库MIT。保存原平台完整MP4未剪辑或转码，保留原创来源及移除入口；归档不代表另行取得再发布许可。 平台原版与较小完整播放版保存至公开 Release，未剪辑或转码。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-jelly-pumpkin-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-16/vib3coded-jelly-pumpkin-1-original.mp4",
+        "durationSeconds": 18.05,
+        "bytes": 8245468,
+        "sha256": "2e0d1ec1586681aec4ba5496a0dc3f9a0356e73a28e5c4de052cf8a10542ce9a",
+        "sourceUrl": "https://x.com/vib3coded/status/2110438822085312714",
+        "label": "Pumpkin Jelly — A Squishy Pumpkin Wedge",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2110438725301739522/img/Df5cDb5m7oRlXxdP.jpg"
+      }
+    ]
+  },
+  {
+    "id": "vib3coded-jelly-pineapple",
+    "title": "Pineapple Jelly：可抓取的菠萝果冻圈",
+    "titleEn": "Pineapple Jelly — A Grabbable Soft-Body Ring",
+    "category": "交互与工具",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（独立对照）",
+    "summary": "同题生成菠萝果冻圈：下方 Astra 用亮黄色环形软体与材质控制面板展示抓取、变形和回弹，上方 Opus 的独立作品具有更明显的纤维纹理。作者指出 Astra 的变形感觉仍偏硬。",
+    "imageCaption": "原作者完整对照封面：上方 Claude Opus 5.5，下方 ChatGPT-6 Astra 的黄色果冻圈，不能把上方纤维细节归给 Astra。 附原帖完整录像与原版下载。",
+    "outcome": "可查看18秒完整对照录像，中帧下方 Astra 果冻轮廓和内孔相较封面发生变化。费用、主观软硬评价和控制标签来自作者，未独立测量材料或物理正确性；没有取得实现源码或完整试玩。",
+    "promptSummary": "同作者精确回复公开菠萝软体任务，包含原生 WebGPU、内联 JavaScript、程序材质和自制物理等要求。原文回源，任务规格不等于本站已独立核验所有特性。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Vib3Coded / @vib3coded",
+    "sourceUrl": "https://x.com/vib3coded/status/2110744617918304744",
+    "sourceDate": "2026-10-15",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-16",
+    "addedAt": "2026-10-16",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者X完整HTML、精确FxTwitter辅助元数据、作者、UTC/上海日期和来源视频ID一致。实际封面与中帧查看并标明Astra/Opus独立输出，不把作者费用或偏好当独立评测。",
+    "sourceAccess": "原作者X完整GET200 / text/html / 149,872字节，作者及时间与精确同帖辅助元数据一致。主成果图完整GET200 / image/jpeg / 948×1200 / 63,160字节，Content-Length、SHA-256、Pillow完整解码与实际查看通过。同帖最高平台原版及较小完整平台版保存全部时长，来源媒体ID、时长、MIME、字节与SHA-256匹配；严格FFmpeg全长null解码exit0且stderr空，封面及中帧实际查看，未剪辑或转码。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2110744234701594624/img/t2-z0uOhlroJGeKU.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/vib3coded/status/2110744617918304744",
+    "repositoryUrl": null,
+    "outputType": [
+      "三维互动对照",
+      "作者完整录像",
+      "完整运行录像"
+    ],
+    "promptAvailability": "linked",
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/vib3coded/status/2110744893295386702",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/vib3coded/status/2110744617918304744",
+      "https://x.com/vib3coded/status/2110744893295386702",
+      "https://api.fxtwitter.com/vib3coded/status/2110744893295386702"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库MIT。保存原平台完整MP4未剪辑或转码，保留原创来源及移除入口；归档不代表另行取得再发布许可。 平台原版与较小完整播放版保存至公开 Release，未剪辑或转码。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-jelly-pineapple-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-16/vib3coded-jelly-pineapple-1-original.mp4",
+        "durationSeconds": 18.05,
+        "bytes": 9597683,
+        "sha256": "a3f30181ef80cba27feb2f87e9a570b6c1d9b981d34c102c05ec9d0462547e06",
+        "sourceUrl": "https://x.com/vib3coded/status/2110744617918304744",
+        "label": "Pineapple Jelly — A Grabbable Soft-Body Ring",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2110744234701594624/img/t2-z0uOhlroJGeKU.jpg"
+      }
+    ]
+  },
+  {
+    "id": "vib3coded-jelly-iceberg",
+    "title": "Iceberg Jelly：冰山与企鹅的软体微缩海湾",
+    "titleEn": "Iceberg Jelly — A Soft-Body Polar Bay",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（独立对照）",
+    "summary": "冰山、浮冰、小船、岸边房屋和企鹅装进透明海湾底座。下方 Astra 用分层冰块构成场景，录像展示水体变色与漂浮元素变化；上方 Opus 为另一份独立实现。",
+    "imageCaption": "原作者完整双模型封面：上方 Opus 5.5，下方 ChatGPT-6 Astra；Astra 企鹅尺寸偏大的观察来自原作者。 附原帖完整录像与原版下载。",
+    "outcome": "可查看18秒完整对照录像，中帧两海湾已切为紫色水体，Astra 在下半。冰块、企鹅与船是三维微缩场景，不当作真实极地尺度或物理模拟验证；费用和作者偏好不代表独立性能评测，未获得源码或在线演示。",
+    "promptSummary": null,
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Vib3Coded / @vib3coded",
+    "sourceUrl": "https://x.com/vib3coded/status/2110517313413796092",
+    "sourceDate": "2026-10-15",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-16",
+    "addedAt": "2026-10-16",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者X完整HTML、精确FxTwitter辅助元数据、作者、UTC/上海日期和来源视频ID一致。实际封面与中帧查看并标明Astra/Opus独立输出，不把作者费用或偏好当独立评测。",
+    "sourceAccess": "原作者X完整GET200 / text/html / 152,466字节，作者及时间与精确同帖辅助元数据一致。主成果图完整GET200 / image/jpeg / 948×1200 / 97,413字节，Content-Length、SHA-256、Pillow完整解码与实际查看通过。同帖最高平台原版及较小完整平台版保存全部时长，来源媒体ID、时长、MIME、字节与SHA-256匹配；严格FFmpeg全长null解码exit0且stderr空，封面及中帧实际查看，未剪辑或转码。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2110517241489788928/img/6__KQNFYFxyXRh64.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/vib3coded/status/2110517313413796092",
+    "repositoryUrl": null,
+    "outputType": [
+      "三维互动对照",
+      "作者完整录像",
+      "完整运行录像"
+    ],
+    "promptAvailability": "unpublished",
+    "promptExcerpt": null,
+    "promptUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/vib3coded/status/2110517313413796092"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库MIT。保存原平台完整MP4未剪辑或转码，保留原创来源及移除入口；归档不代表另行取得再发布许可。 平台原版与较小完整播放版保存至公开 Release，未剪辑或转码。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-jelly-iceberg-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-16/vib3coded-jelly-iceberg-1-original.mp4",
+        "durationSeconds": 18.05,
+        "bytes": 19062931,
+        "sha256": "c774282079aae5174d3c0b9fb260287866490b180b584629086a07fad7b5b6b0",
+        "sourceUrl": "https://x.com/vib3coded/status/2110517313413796092",
+        "label": "Iceberg Jelly — A Soft-Body Polar Bay",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2110517241489788928/img/6__KQNFYFxyXRh64.jpg"
+      }
+    ]
+  },
+  {
+    "id": "sac-little-prince-explorable-game",
+    "title": "The Little Prince：跨越星球的三维剧情游戏",
+    "titleEn": "The Little Prince — Across the Stars",
+    "category": "3D 游戏",
+    "modelLabel": "Opus 5.5核心代码 + Astra迭代修复 + Image 2.5 / Tripo资产 + Blender / Unity（作者混合流程）",
+    "summary": "原作者将小王子的星际旅行做成三维剧情游戏，预告展示草地、狐狸、宫殿与天文书房。制作流程明确由 Opus 组织核心代码和场景、Astra 迭代优化与修 bug，外部图像和3D工具负责参考图与资产。",
+    "imageCaption": "原作者制作文章中的实际游戏预告截图：小王子与狐狸相对站在草地树下。属于混合制作成果，不是 Image 2.5 输入参考图，也不把全部资产归于 Astra。 附原帖完整录像与原版下载。",
+    "outcome": "可查看约63.5秒完整原帖预告以及作者公开的制作流程和游戏入口。Fable 5.1梳理PRD，Image 2.5生成参考图，Tripo生成核心资产，Opus 5.5搭建核心代码，Astra做迭代和修复；Auto-Rig Pro与Mixamo参与绑骨动作。公开演示入口和原作者16天陈述不等于独立复现；截至本轮只见后续开源承诺，未填虚构仓库。",
+    "promptSummary": "作者公开场景拆解、Blender/Unity多视角校对、绑骨和动作适配等分步任务。只链接原文，不把其中 Opus 工作流统一写成 Astra 原始提示词。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X",
+      "RobotWorld"
+    ],
+    "author": "Sac / @Saccc_c",
+    "sourceUrl": "https://x.com/Saccc_c/status/2109962425512734739",
+    "sourceDate": "2026-10-13",
+    "secondaryPublishedAt": "2026-10-15",
+    "observedAt": "2026-10-16",
+    "addedAt": "2026-10-16",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者10/13预告和10/15同作制作文章建立Astra参与证据，明确仅迭代优化与bug修复；保留Opus、Fable、Image2.5、Tripo及绑骨动作工具职责。首发和文章日期分开记录。",
+    "sourceAccess": "原作者X完整GET200 / text/html / 186,009字节，作者及时间与精确同帖辅助元数据一致。主成果图完整GET200 / image/webp / 1280×720 / 73,672字节，Content-Length、SHA-256、Pillow完整解码与实际查看通过。同帖最高平台原版及较小完整平台版保存全部时长，来源媒体ID、时长、MIME、字节与SHA-256匹配；严格FFmpeg全长null解码exit0且stderr空，封面及中帧实际查看，未剪辑或转码。 4K原版157,360,315字节以完整HTTP206范围并发获取，范围无缺口无重叠并按原偏移组合；各段Content-Range总长、MIME和字节均匹配，最终原文件完整解码。文章成果截图与预告同作对照，未以输入参考图代替成果。",
+    "imageUrl": "https://robot.agientry.com/static/img/blog/little-prince-3d-game-opus-astra-tripo/fig1-trailer.body.webp",
+    "imageKind": "screenshot",
+    "demoUrl": "https://littleprince.dev/",
+    "videoUrl": "https://x.com/Saccc_c/status/2109962425512734739",
+    "repositoryUrl": null,
+    "outputType": [
+      "Unity三维剧情游戏",
+      "混合模型制作流程",
+      "作者完整预告",
+      "完整运行录像"
+    ],
+    "promptAvailability": "linked",
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/Saccc_c/status/2110694725640474759",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/Saccc_c/status/2109962425512734739",
+      "https://x.com/Saccc_c/status/2110694725640474759",
+      "https://api.fxtwitter.com/Saccc_c/status/2110694725640474759",
+      "https://robot.agientry.com/en/articles/little-prince-3d-game-opus-astra-tripo"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库MIT。保存原平台完整MP4未剪辑或转码，保留原创来源及移除入口；归档不代表另行取得再发布许可。 平台原版与较小完整播放版保存至公开 Release，未剪辑或转码。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/sac-little-prince-explorable-game-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-16/sac-little-prince-explorable-game-1-original.mp4",
+        "durationSeconds": 63.46,
+        "bytes": 157360315,
+        "sha256": "5e0fe42b79659604031807fecf8a0c1c366aab3b6e6575a9e06140022c7c4aae",
+        "sourceUrl": "https://x.com/Saccc_c/status/2109962425512734739",
+        "label": "The Little Prince — Across the Stars",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2109941568253927424/img/mZUBc3N5H9TqmjEJ.jpg"
+      }
+    ]
+  },
+  {
+    "group": "astra",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-16",
+    "addedAt": "2026-10-16",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "promptExcerpt": null,
+    "promptSummary": "雪山任务要求保留参考布局，构建可编辑场景并改为夕照；其他任务各有原始说明，回官方作品页查阅。",
+    "promptUrl": "https://blenderworld.github.io/#showcase",
+    "demoUrl": "https://blenderworld.github.io/#showcase",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/QwenLM/BlenderWorld",
+    "id": "qwen-blenderworld-astra",
+    "title": "BlenderWorld：雪山缆车重建与可编辑三维作品集",
+    "titleEn": "BlenderWorld — Alpine Reconstruction and Editable 3D Showcase",
+    "category": "Blender 建模",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub",
+      "Website",
+      "Hugging Face"
+    ],
+    "author": "BlenderWorld 团队 / QwenLM",
+    "sourceUrl": "https://github.com/QwenLM/BlenderWorld",
+    "sourceAccess": "完整 GET 官方 README、公开作品数据与评测入口；明确匹配 bw_0064 的 GPT-6-Astra 输出，成果 WEBP 和总览 JPEG 均核对 MIME / Content-Length / SHA-256、Pillow 全帧解码并实际查看。未安装工程或重跑评测。",
+    "promptAvailability": "linked",
+    "modelLabel": "GPT-6 Astra（官方逐任务输出归属）",
+    "evidenceNote": "官方逐任务数据将雪山缆车 bw_0064 的成果图与 GLB 单独对应 GPT-6-Astra；输入照片、Opus / Sol 等对照结果及 GPT-5.6-terra 评审各有独立职责。223 个任务按一件公开基准作品集收录，未拆成223件案例。",
+    "summary": "从参考照片重建金色夕照下的雪山、冰湖、树林和红色缆车，并可继续查看产品、建筑、角色等公开三维成果及逐任务说明。",
+    "outputType": [
+      "Blender 可编辑三维场景评测作品集",
+      "Astra 雪山缆车成果渲染",
+      "公开任务与 GLB 观察入口"
+    ],
+    "imageUrl": "https://blenderworld.github.io/media/bw_0064/gpt-6-astra/render-0.webp",
+    "imageKind": "render",
+    "imageCaption": "官方逐任务数据明确标注的 bw_0064 Astra 成果渲染：夕照雪山、冰湖与红色缆车。补充总览同时含参考输入和输出，不能将所有画面都算作生成结果。",
+    "evidenceUrls": [
+      "https://raw.githubusercontent.com/QwenLM/BlenderWorld/main/README.md",
+      "https://blenderworld.github.io/data/site-data.js?v=20261014-intro-video",
+      "https://raw.githubusercontent.com/QwenLM/BlenderWorld/main/docs/assets/benchmark-overview.jpg",
+      "https://huggingface.co/datasets/Qwen/BlenderWorld"
+    ],
+    "licenseNotes": "官方工程和数据集标注 MIT；参考照片、第三方素材及成果媒体仍须核对各自权利。本库外链不改变原素材许可。",
+    "outcome": "1600×900 成果 WEBP 与2200×1236总览 JPEG 完整获取、解码并实际查看。官方评审指出：最终机位效果较好，但其他角度暴露有限地形切片与简化树木；成绩属于作者评测。源码、作品页与任务数据可达，未将入口可达写成独立复现。最早公开日期未确认，保持 null。"
+  },
+  {
+    "group": "astra",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-16",
+    "addedAt": "2026-10-16",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": null,
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/ITzNomadic/koenigsegg-gemera-blender",
+    "id": "itznomadic-gemera-collaboration",
+    "title": "Gemera：Astra 参与材质与资产管线的 Blender 协作工程",
+    "titleEn": "Gemera — Astra-Assisted Materials and Asset Pipeline",
+    "category": "Blender 建模",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "ITzNomadic / Jefry Blanco（@HexNomad23）",
+    "sourceUrl": "https://github.com/ITzNomadic/koenigsegg-gemera-blender",
+    "sourceAccess": "完整 GET 原作者 README、源码树、渲染脚本及许可；两张真实4K PNG 核对 MIME / Content-Length / SHA-256、Pillow 全帧解码并实际查看。只读材料，未执行第三方脚本。",
+    "promptAvailability": "not-found",
+    "modelLabel": "GPT-6 Astra · 人工 / Flash 3.8 协作",
+    "evidenceNote": "作者将 Astra 的职责限定为协同架构、数据集资产整合及 PBR 材质逻辑校准；Jefry 负责几何与修整，Flash 3.8 负责代理管线、轮胎及渲染，Turn 10 提供参考几何和纹理。不是 Astra 从零独立生成整车。",
+    "summary": "一套公开的 Gemera Blender 车辆场景与多角度渲染，展示人工建模、已有车辆资产和多模型协作的分工，可研究材质整合与批量出图管线。",
+    "outputType": [
+      "Blender 车辆协作工程",
+      "4K / 12K 渲染管线源码",
+      "既有几何与程序材质整合"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/ITzNomadic/koenigsegg-gemera-blender/main/renders_4k/01_Gemera_Front_ThreeQuarter_4K.png",
+    "imageKind": "render",
+    "imageCaption": "原工程白色 Gemera 的实际前侧渲染。Astra 参与管线和材质，整车几何含人工及已有资产；补充图是另一整车角度，虽源文件名含 Wheel_Tire_Detail，并非轮胎微距。",
+    "evidenceUrls": [
+      "https://raw.githubusercontent.com/ITzNomadic/koenigsegg-gemera-blender/main/README.md",
+      "https://raw.githubusercontent.com/ITzNomadic/koenigsegg-gemera-blender/main/scripts/batch_render_4k.py",
+      "https://raw.githubusercontent.com/ITzNomadic/koenigsegg-gemera-blender/main/renders_4k/05_Gemera_Wheel_Tire_Detail_4K.png"
+    ],
+    "licenseNotes": "仓库标注 MIT；Koenigsegg 设计及 Turn 10 参考几何、纹理保留各自权利，仓库许可不能自动代表第三方素材商业授权。",
+    "outcome": "两张3840×2160 PNG 完整获取、解码并实际查看，主图可直接展示。保留工程、素材和人工职责，不把作者“写实”及渲染效率描述当作本库测量；未下载或执行 .blend / 脚本，原始提示词与首次发布日期未公开。"
+  },
+  {
+    "id": "amasuki-office-riser-print",
+    "title": "办公室增高件：Astra 辅助设计的一件实物打印",
+    "titleEn": "Office Riser — One Physical Print from an Astra-Assisted Design",
+    "group": "astra",
+    "category": "产品与角色",
+    "platform": "note",
+    "platforms": [
+      "note",
+      "3D printing"
+    ],
+    "author": "amazon大好きさん / amasuki",
+    "sourceUrl": "https://note.com/amasuki/n/n4895f6bc6fb9",
+    "sourceDate": null,
+    "secondaryPublishedAt": "2026-10-13",
+    "observedAt": "2026-10-16",
+    "addedAt": "2026-10-16",
+    "modelLabel": "GPT-6 Astra（作者设计咨询）+ 实物3D打印；具体建模软件未公开",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者明确将蓝色办公室增高件归于自己与 GPT-6 Astra 的设计咨询，并提供已完成的一件实物照片；未将同文黑色电脑支架或下载的工具箱一并归为 Astra 成果。",
+    "sourceAccess": "原文完整 GET 200 / 文章JSON-LD首发2026-10-13T03:26:56+09:00（上海同日02:26）。文字明确这是以前制作的一件实物，故作品首次发布日期未知、保持null，文章日期单列。对应蓝色增高件照片完整 GET 200，MIME/长度/SHA-256/全图解码及实际查看通过。",
+    "summary": "从实际办公室的尺寸需求出发，以蓝色增高件实物展示设计咨询到打印的结果，也保留仍在改良的说明。",
+    "outputType": [
+      "办公室增高件",
+      "3D打印实物照片"
+    ],
+    "promptAvailability": "not-public",
+    "promptExcerpt": null,
+    "promptSummary": "未公开这件增高件的原始对话、具体尺寸或建模代码；原文的通用尺寸建议不当作该作品提示词。",
+    "promptUrl": null,
+    "imageUrl": "https://assets.st-note.com/img/1791829495-WArdGfp5tNUHMBVnghkEv10O.jpg?width=1200",
+    "imageKind": "author-photo",
+    "imageCaption": "作者以前完成的一件蓝色办公室增高件实物；可见打印层纹和嵌合凹槽，原文注明当时仍在改良。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [],
+    "licenseNotes": "照片与设计保留原作者权利；原文含Amazon关联推广，不将第三方照片或设计纳入本库MIT许可。",
+    "outcome": "仅核对作者自述和实物照片，未取得STL/CAD工程、独立复现或验证承重与尺寸；不把一种可采用的OpenSCAD流程误写为本作已确认工具链。"
+  },
+  {
     "id": "shmopix-gaming-mouse",
     "category": "拆解与剖面",
     "title": "Inside the Superlight：透明鼠标、内部拆解与信号流",
@@ -6386,7 +6857,7 @@
   },
   {
     "id": "gptblender-floor-plan-house",
-    "title": "GPTBlender：平面图到可下载房屋模型",
+    "title": "GPTBlender：平面图到四卧室住宅",
     "titleEn": "GPTBlender — Floor Plan to Furnished Home",
     "group": "astra",
     "category": "建筑与室内",
@@ -6399,36 +6870,35 @@
     "sourceUrl": "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/",
     "sourceDate": null,
     "secondaryPublishedAt": null,
-    "observedAt": "2026-09-30",
+    "observedAt": "2026-10-16",
     "addedAt": "2026-09-30",
     "modelLabel": "GPT-6 Astra（Blender 场景）+ BlenderKit（部分家具）",
     "evidenceLevel": "author",
     "evidenceStatus": "已读取作者教程、仓库与模型溯源",
     "evidenceNote": "作者明确声明 Astra 通过 Blender 脚本生成并组装场景；家具含第三方 BlenderKit 资产，未独立复现建模过程。",
-    "sourceAccess": "已读取教程与仓库；实际加载模型并切换俯视，下载轻量 GLB 并核对 provenance SHA-256。原始创作日期未知，9 月 7 日为仓库注明的渲染更新日期。",
-    "summary": "由平面图搭建四卧室住宅，教程对照白模、材质版及 BlenderKit 家具版。公开全分辨率和轻量 GLB，并提供八阶段模型回放与渲染图；已检查模型加载及俯视切换。家具包含第三方资产，作者估算耗时不等于完整回放时长。",
+    "sourceAccess": "已读取教程与仓库；实际加载模型并切换俯视，下载轻量 GLB 并核对 provenance SHA-256。原始创作日期未知，9 月 7 日为仓库注明的渲染更新日期。 2026-10-16 原 GitHub preview.webp 完整 GET 返回404，替换为原作者教程直接公布的同作 overview 成果图；另核对客餐厅渲染，均完整 GET、MIME/长度/SHA-256/解码和实际查看通过。本轮未重做旧模型加载或生成实验。 原 GitHub 工程入口本轮完整 GET 返回404，已撤掉当前源码与其失效证据跳转；历史 GLB 与交互观察保留原核查日期，不代表当前可用。",
+    "summary": "从平面图搭建四卧室住宅，教程对照白模、材质版及 BlenderKit 家具版，并展示分阶段成果。当前可查看作者全屋与客餐厅渲染；旧仓库已返回404，本轮未复查历史 GLB 下载或交互功能。",
     "outputType": [
       "Blender 房屋场景",
-      "可下载 GLB 模型",
-      "八阶段交互回放"
+      "作者分阶段建模教程",
+      "实际 Cycles 成果渲染"
     ],
     "promptAvailability": "作者教程公开任务提示词",
     "promptExcerpt": null,
     "promptSummary": "将平面图转为暖色现代住宅，使用 Blender CLI、BlenderKit 家具与 Cycles 渲染，并逐步核对布局。",
     "promptUrl": "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/",
-    "imageUrl": "https://raw.githubusercontent.com/qduoduo-hwh/gptblender_demo/main/preview.webp",
-    "imageKind": "author-screenshot",
-    "imageCaption": "作者仓库实际 Cycles 全屋渲染；部分家具来自 BlenderKit。",
+    "imageUrl": "https://gptblender.com/assets/floor-plan-guide/optimized/04-apartment-overview-soft-warm-1280.webp",
+    "imageKind": "author-render",
+    "imageCaption": "作者教程中同一四卧室住宅的实际 Cycles 全屋俯视渲染；部分家具来自 BlenderKit。",
     "demoUrl": "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/#interactive-demo",
     "videoUrl": null,
-    "repositoryUrl": "https://github.com/qduoduo-hwh/gptblender_demo",
+    "repositoryUrl": null,
     "evidenceUrls": [
       "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/",
-      "https://github.com/qduoduo-hwh/gptblender_demo",
-      "https://github.com/qduoduo-hwh/gptblender_demo/blob/main/provenance.json"
+      "https://gptblender.com/assets/floor-plan-guide/optimized/01-living-dining-soft-warm-1280.webp"
     ],
-    "licenseNotes": "项目原创部分 MIT；GLB 内嵌 BlenderKit 第三方资产保留原许可，完整模型为混合许可证。请核对仓库 THIRD_PARTY_NOTICES.md 与 asset-manifest.json。图片与媒体不适用本库 MIT。",
-    "outcome": "作者工程与演示可检查；核对 GLB 文件和模型查看器，未独立复现建模过程。"
+    "licenseNotes": "原工程历史标注 MIT；家具含 BlenderKit 第三方资产，仍受各自许可约束。旧仓库当前404，资产许可文件本轮未重新获取；不据此主张模型商业授权。图片等媒体不适用本库 MIT。",
+    "outcome": "本轮作者教程与两张同作品实际成果渲染完整获取、解码并查看。原 GitHub 仓库返回404，已撤掉失效源码入口；既有 GLB 文件和模型查看器核查属于历史观察，本轮未重新下载、操作或独立重做建模。"
   },
   {
     "id": "givros-forest-village",
@@ -14028,45 +14498,6 @@
     "addedAt": "2026-09-06"
   },
   {
-    "id": "openai-courtyard-house",
-    "title": "Courtyard House：可剖切的庭院住宅",
-    "titleEn": "Courtyard House",
-    "group": "astra",
-    "category": "建筑与室内",
-    "platform": "OpenAI",
-    "platforms": [
-      "OpenAI"
-    ],
-    "author": "Katia Gil Guzman, OpenAI",
-    "sourceUrl": "https://developers.openai.com/showcase/courtyard-house",
-    "sourceDate": null,
-    "secondaryPublishedAt": null,
-    "observedAt": "2026-09-25",
-    "modelLabel": "GPT-6 Astra",
-    "evidenceLevel": "official",
-    "evidenceStatus": "official-astra",
-    "evidenceNote": "详情标题下直接标注 GPT-6 Astra；首轮要求统一可编辑 3D 几何，页面提供在线体验。展示用途为虚构建筑项目。",
-    "sourceAccess": "来源页面已读取；未重新运行作品",
-    "summary": "围绕同一几何模型展示住宅外观、去顶剖面和平面图；支持房间选择、剖切、时间与材料切换，用交互解释空间和采光关系。",
-    "outputType": [
-      "交互 3D 网页"
-    ],
-    "promptAvailability": "官方详情页公开首轮提示词与后续步骤",
-    "promptExcerpt": "Build a single geometrically coherent model and use it throughout the page.",
-    "promptSummary": null,
-    "promptUrl": "https://developers.openai.com/showcase/courtyard-house",
-    "imageUrl": "https://developers.openai.com/showcase/courtyard-house/cover-generated-sep4.webp",
-    "imageKind": "edited-screenshot",
-    "imageCaption": "官方注明：以实机截图编辑的封面，移除了界面叠层。",
-    "demoUrl": "https://alder-courtyard-house.openai.chatgpt.site/",
-    "videoUrl": null,
-    "repositoryUrl": null,
-    "evidenceUrls": [],
-    "licenseNotes": "原图归原权利人；保留原站链接和署名，未取得素材重新分发授权。",
-    "outcome": "showcase",
-    "addedAt": "2026-09-06"
-  },
-  {
     "id": "openai-stop-motion-desk",
     "title": "Stop-Motion Desk：三维定格动画工作台",
     "titleEn": "Stop-Motion Desk",
@@ -14145,45 +14576,6 @@
     "addedAt": "2026-09-06"
   },
   {
-    "id": "openai-clockwork-observatory",
-    "title": "Clockwork Observatory：机械天文台",
-    "titleEn": "Clockwork Observatory",
-    "group": "astra",
-    "category": "程序化场景",
-    "platform": "OpenAI",
-    "platforms": [
-      "OpenAI"
-    ],
-    "author": "VB Srivastav, OpenAI",
-    "sourceUrl": "https://developers.openai.com/showcase/impossible-kinetic-architecture",
-    "sourceDate": null,
-    "secondaryPublishedAt": null,
-    "observedAt": "2026-09-25",
-    "modelLabel": "GPT-6 Astra",
-    "evidenceLevel": "official",
-    "evidenceStatus": "official-astra",
-    "evidenceNote": "官方详情直接标注 GPT-6 Astra。首轮提示词指定浏览器原生 WebGL、程序化几何与材质、离线单 HTML；未将 URL 中日期当作发布日期。",
-    "sourceAccess": "来源页面已读取；未重新运行作品",
-    "summary": "单文件 WebGL 构造齿轮、阶梯、桥梁和浑天仪的机械空间；通过变形进度、速度与镜头控制观察连续重组的建筑结构。",
-    "outputType": [
-      "交互 3D 网页"
-    ],
-    "promptAvailability": "官方详情页公开首轮提示词与后续步骤",
-    "promptExcerpt": "Build this interactive 3D experience as a single self-contained index.html that works offline.",
-    "promptSummary": null,
-    "promptUrl": "https://developers.openai.com/showcase/impossible-kinetic-architecture",
-    "imageUrl": "https://developers.openai.com/showcase/impossible-kinetic-architecture/cover-generated-sep4.webp",
-    "imageKind": "edited-screenshot",
-    "imageCaption": "官方注明：由机械天文台截图编辑的封面，移除了界面叠层。",
-    "demoUrl": "https://kinetic-architecture-astra-20260901.openai.chatgpt.site/",
-    "videoUrl": null,
-    "repositoryUrl": null,
-    "evidenceUrls": [],
-    "licenseNotes": "原图归原权利人；保留原站链接和署名，未取得素材重新分发授权。",
-    "outcome": "showcase",
-    "addedAt": "2026-09-06"
-  },
-  {
     "id": "openai-physics-museum",
     "title": "Physics museum：五个可操作的物理展项",
     "titleEn": "Physics museum",
@@ -14236,12 +14628,12 @@
     "sourceUrl": "https://developers.openai.com/showcase/architecture-studio",
     "sourceDate": null,
     "secondaryPublishedAt": null,
-    "observedAt": "2026-09-25",
+    "observedAt": "2026-10-16",
     "modelLabel": "GPT-6 Astra",
     "evidenceLevel": "official",
     "evidenceStatus": "official-astra",
     "evidenceNote": "详情页直接标注 GPT-6 Astra，公开提示词明确要求共享文档驱动 2D 和 3D。所收封面来自该页真实 img 标签，未假设其本身一定为 3D 实机截图。",
-    "sourceAccess": "来源页面已读取；未重新运行作品",
+    "sourceAccess": "来源页面已读取；未重新运行作品 10月16日旧预览返回403，经独立curl复查仍受限；官方展示页已改用CDN上的实际规划器截图。新图完整GET200 / image/webp / 1512×716 / 145,700字节，Content-Length、SHA-256、完整解码与实际目视通过。主图为二维规划页面，不据此宣称独立验证三维交互。 本轮官方主页面 Python 完整 GET 返回403；检索浏览工具可读取官方正文，实际成果 CDN 图片与公开演示 HTML 可达。来源访问限制单独记录，未将其记作HTTP200。 随后独立重试主页面完整 GET 恢复200，当前来源核查记录为实际成功响应，保留先前403观察。",
     "summary": "用同一房间数据同步尺寸平面图与 3D 视图；摆放和旋转家具、改变饰面、撤销编辑，并导出对应的平面与图像。",
     "outputType": [
       "交互 3D 网页"
@@ -14250,13 +14642,15 @@
     "promptExcerpt": "Connect an editable floor plan to the same room in 3D.",
     "promptSummary": null,
     "promptUrl": "https://developers.openai.com/showcase/architecture-studio",
-    "imageUrl": "https://developers.openai.com/showcase/architecture-studio/cover.webp",
-    "imageKind": "official-cover",
-    "imageCaption": "官方案例封面；项目同时提供二维平面与三维视图。",
+    "imageUrl": "https://cdn.openai.com/devhub/showcase/architecture-studio/floor-plan-76fc791a641c.webp",
+    "imageKind": "official-screenshot",
+    "imageCaption": "官方实际运行的二维规划视图，包含家具模型缩略图、尺寸与三维切换控件；三维房间效果见原作者演示。",
     "demoUrl": "https://architecture-studio.openai.chatgpt.site/",
     "videoUrl": null,
     "repositoryUrl": null,
-    "evidenceUrls": [],
+    "evidenceUrls": [
+      "https://cdn.openai.com/devhub/showcase/architecture-studio/floor-plan-76fc791a641c.webp"
+    ],
     "licenseNotes": "封面和家具资产归原权利人；保留原站链接和署名，未取得素材重新分发授权。",
     "outcome": "showcase",
     "addedAt": "2026-09-06"
@@ -14297,45 +14691,6 @@
     "repositoryUrl": null,
     "evidenceUrls": [],
     "licenseNotes": "原图归原权利人；保留原站链接和署名，未取得素材重新分发授权。",
-    "outcome": "showcase",
-    "addedAt": "2026-09-06"
-  },
-  {
-    "id": "openai-little-ritual",
-    "title": "Little Ritual：小星球咖啡配送",
-    "titleEn": "Little Ritual",
-    "group": "astra",
-    "category": "3D 游戏",
-    "platform": "OpenAI",
-    "platforms": [
-      "OpenAI"
-    ],
-    "author": "Jeff Wang, OpenAI",
-    "sourceUrl": "https://developers.openai.com/showcase/little-ritual",
-    "sourceDate": null,
-    "secondaryPublishedAt": null,
-    "observedAt": "2026-09-25",
-    "modelLabel": "GPT-6 Astra",
-    "evidenceLevel": "official",
-    "evidenceStatus": "official-astra",
-    "evidenceNote": "详情页直接标注 GPT-6 Astra，首轮明确要求球形世界的 3D 浏览器游戏；后续记录包含角色和 Blender 资产制作。封面类型由页面图像替代文本确认。",
-    "sourceAccess": "来源页面已读取；未重新运行作品",
-    "summary": "在曲面小星球上的咖啡配送游戏，围绕角色建模、可步行街区、楼梯桥梁与探索路线逐步迭代，并保留可编辑 Blender 资产。",
-    "outputType": [
-      "交互 3D 网页"
-    ],
-    "promptAvailability": "官方详情页公开首轮提示词与后续步骤",
-    "promptExcerpt": "Build an original single-player 3D browser game about delivering coffee",
-    "promptSummary": null,
-    "promptUrl": "https://developers.openai.com/showcase/little-ritual",
-    "imageUrl": "https://developers.openai.com/showcase/little-ritual/cover-generated-sep4.webp",
-    "imageKind": "generated-cover",
-    "imageCaption": "官方生成的宣传封面插画，不是游戏实机截图。",
-    "demoUrl": "https://little-ritual.openai.chatgpt.site/",
-    "videoUrl": null,
-    "repositoryUrl": null,
-    "evidenceUrls": [],
-    "licenseNotes": "封面与游戏资产归原权利人；保留原站链接和署名，未取得素材重新分发授权。",
     "outcome": "showcase",
     "addedAt": "2026-09-06"
   },

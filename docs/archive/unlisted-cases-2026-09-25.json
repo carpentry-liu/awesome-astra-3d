@@ -2044,5 +2044,134 @@
       "licenseNotes": "作者视频、模型和游戏未查到单独复用许可证。封面标注古画参考为 Li Song / NPM / CC BY 4.0、Yingzao Fashi 书页为 public domain；这些参考材料许可不覆盖作者衍生游戏、动画或录像。第三方工具及各部分输出保留各自权利。",
       "outcome": "已实际查看原作者流程图和游戏封面、核查混合模型声明和精确发布时间；未独立试玩或复现，未检查完整录像的每一阶段，也未确认角色建模归属。"
     }
+  },
+  {
+    "removedAt": "2026-10-16",
+    "reason": "Temporarily unlisted: the previous preview returned HTTP 403 in both Python and independent curl. The official replacement is a generated or edited showcase cover, and the live OG assets are title/illustration material rather than a verified actual result preview; no archived playable clip was available. Original case retained for restoration.",
+    "case": {
+      "id": "openai-courtyard-house",
+      "title": "Courtyard House：可剖切的庭院住宅",
+      "titleEn": "Courtyard House",
+      "group": "astra",
+      "category": "建筑与室内",
+      "platform": "OpenAI",
+      "platforms": [
+        "OpenAI"
+      ],
+      "author": "Katia Gil Guzman, OpenAI",
+      "sourceUrl": "https://developers.openai.com/showcase/courtyard-house",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-25",
+      "modelLabel": "GPT-6 Astra",
+      "evidenceLevel": "official",
+      "evidenceStatus": "official-astra",
+      "evidenceNote": "详情标题下直接标注 GPT-6 Astra；首轮要求统一可编辑 3D 几何，页面提供在线体验。展示用途为虚构建筑项目。",
+      "sourceAccess": "来源页面已读取；未重新运行作品",
+      "summary": "围绕同一几何模型展示住宅外观、去顶剖面和平面图；支持房间选择、剖切、时间与材料切换，用交互解释空间和采光关系。",
+      "outputType": [
+        "交互 3D 网页"
+      ],
+      "promptAvailability": "官方详情页公开首轮提示词与后续步骤",
+      "promptExcerpt": "Build a single geometrically coherent model and use it throughout the page.",
+      "promptSummary": null,
+      "promptUrl": "https://developers.openai.com/showcase/courtyard-house",
+      "imageUrl": "https://developers.openai.com/showcase/courtyard-house/cover-generated-sep4.webp",
+      "imageKind": "edited-screenshot",
+      "imageCaption": "官方注明：以实机截图编辑的封面，移除了界面叠层。",
+      "demoUrl": "https://alder-courtyard-house.openai.chatgpt.site/",
+      "videoUrl": null,
+      "repositoryUrl": null,
+      "evidenceUrls": [],
+      "licenseNotes": "原图归原权利人；保留原站链接和署名，未取得素材重新分发授权。",
+      "outcome": "showcase",
+      "addedAt": "2026-09-06"
+    }
+  },
+  {
+    "removedAt": "2026-10-16",
+    "reason": "Temporarily unlisted: the previous preview returned HTTP 403 in both Python and independent curl. The official replacement is a generated or edited showcase cover, and the live OG assets are title/illustration material rather than a verified actual result preview; no archived playable clip was available. Original case retained for restoration.",
+    "case": {
+      "id": "openai-clockwork-observatory",
+      "title": "Clockwork Observatory：机械天文台",
+      "titleEn": "Clockwork Observatory",
+      "group": "astra",
+      "category": "程序化场景",
+      "platform": "OpenAI",
+      "platforms": [
+        "OpenAI"
+      ],
+      "author": "VB Srivastav, OpenAI",
+      "sourceUrl": "https://developers.openai.com/showcase/impossible-kinetic-architecture",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-25",
+      "modelLabel": "GPT-6 Astra",
+      "evidenceLevel": "official",
+      "evidenceStatus": "official-astra",
+      "evidenceNote": "官方详情直接标注 GPT-6 Astra。首轮提示词指定浏览器原生 WebGL、程序化几何与材质、离线单 HTML；未将 URL 中日期当作发布日期。",
+      "sourceAccess": "来源页面已读取；未重新运行作品",
+      "summary": "单文件 WebGL 构造齿轮、阶梯、桥梁和浑天仪的机械空间；通过变形进度、速度与镜头控制观察连续重组的建筑结构。",
+      "outputType": [
+        "交互 3D 网页"
+      ],
+      "promptAvailability": "官方详情页公开首轮提示词与后续步骤",
+      "promptExcerpt": "Build this interactive 3D experience as a single self-contained index.html that works offline.",
+      "promptSummary": null,
+      "promptUrl": "https://developers.openai.com/showcase/impossible-kinetic-architecture",
+      "imageUrl": "https://developers.openai.com/showcase/impossible-kinetic-architecture/cover-generated-sep4.webp",
+      "imageKind": "edited-screenshot",
+      "imageCaption": "官方注明：由机械天文台截图编辑的封面，移除了界面叠层。",
+      "demoUrl": "https://kinetic-architecture-astra-20260901.openai.chatgpt.site/",
+      "videoUrl": null,
+      "repositoryUrl": null,
+      "evidenceUrls": [],
+      "licenseNotes": "原图归原权利人；保留原站链接和署名，未取得素材重新分发授权。",
+      "outcome": "showcase",
+      "addedAt": "2026-09-06"
+    }
+  },
+  {
+    "removedAt": "2026-10-16",
+    "reason": "Temporarily unlisted: the previous preview returned HTTP 403 in both Python and independent curl. The official replacement is a generated or edited showcase cover, and the live OG assets are title/illustration material rather than a verified actual result preview; no archived playable clip was available. Original case retained for restoration.",
+    "case": {
+      "id": "openai-little-ritual",
+      "title": "Little Ritual：小星球咖啡配送",
+      "titleEn": "Little Ritual",
+      "group": "astra",
+      "category": "3D 游戏",
+      "platform": "OpenAI",
+      "platforms": [
+        "OpenAI"
+      ],
+      "author": "Jeff Wang, OpenAI",
+      "sourceUrl": "https://developers.openai.com/showcase/little-ritual",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-09-25",
+      "modelLabel": "GPT-6 Astra",
+      "evidenceLevel": "official",
+      "evidenceStatus": "official-astra",
+      "evidenceNote": "详情页直接标注 GPT-6 Astra，首轮明确要求球形世界的 3D 浏览器游戏；后续记录包含角色和 Blender 资产制作。封面类型由页面图像替代文本确认。",
+      "sourceAccess": "来源页面已读取；未重新运行作品",
+      "summary": "在曲面小星球上的咖啡配送游戏，围绕角色建模、可步行街区、楼梯桥梁与探索路线逐步迭代，并保留可编辑 Blender 资产。",
+      "outputType": [
+        "交互 3D 网页"
+      ],
+      "promptAvailability": "官方详情页公开首轮提示词与后续步骤",
+      "promptExcerpt": "Build an original single-player 3D browser game about delivering coffee",
+      "promptSummary": null,
+      "promptUrl": "https://developers.openai.com/showcase/little-ritual",
+      "imageUrl": "https://developers.openai.com/showcase/little-ritual/cover-generated-sep4.webp",
+      "imageKind": "generated-cover",
+      "imageCaption": "官方生成的宣传封面插画，不是游戏实机截图。",
+      "demoUrl": "https://little-ritual.openai.chatgpt.site/",
+      "videoUrl": null,
+      "repositoryUrl": null,
+      "evidenceUrls": [],
+      "licenseNotes": "封面与游戏资产归原权利人；保留原站链接和署名，未取得素材重新分发授权。",
+      "outcome": "showcase",
+      "addedAt": "2026-09-06"
+    }
   }
 ]

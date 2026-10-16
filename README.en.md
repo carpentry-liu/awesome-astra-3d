@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-15 (Asia/Shanghai)** · **338 Astra examples** · **99 source / project links** · **116 demo links** · **149 complete videos** · **12 separate references**.
+Updated **2026-10-16 (Asia/Shanghai)** · **344 Astra examples** · **100 source / project links** · **115 demo links** · **155 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -44,18 +44,18 @@ Open an image for the case, materials and known limitations. This selection stay
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-15.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Production build screenshots from the October 15, 2026 iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Production build screenshots from the October 16, 2026 iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
-<summary>Gallery, mobile and case screenshots · October 15, 2026</summary>
+<summary>Gallery, mobile and case screenshots · October 16, 2026</summary>
 
-[![Gallery filters and more works](docs/media/collection-2026-10-15.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Gallery filters and more works](docs/media/collection-2026-10-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-10-15.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-10-16.jpg)
 
-[![One-Image Cruiser — Three Astra Effort Levels and Harness Comparisons — result and sources](docs/media/case-2026-10-15.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ohmyunicorn-cruiser-comparison/)
+[![The Little Prince — Across the Stars — result and sources](docs/media/case-2026-10-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/sac-little-prince-explorable-game/)
 
 </details>
 
@@ -63,19 +63,19 @@ Production build screenshots from the October 15, 2026 iteration. Browse in Chin
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The October 15 update adds **10 works** and **6 complete X clips**, including Inside the Superlight, One-Image Cruiser, North Point, Sunlit Skipper, Five Ogres, A Mechanical Watch and more. Existing previews passed this round of full retrieval and decoding. Publication and collection dates remain separate; external assets, tools and different model roles are identified.
+The October 16 update adds **9 works** and **6 complete X clips**, including Jelly Bag, A Halloween Pumpkin, Pumpkin Jelly, Pineapple Jelly, Iceberg Jelly, The Little Prince and more. Verified materials are updated for **2 existing works**, retaining their original publication and collection dates. **3 records** without a verified usable preview are temporarily unlisted and preserved in the audit archive. Publication and collection dates remain separate; external assets, tools and different model roles are identified.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [Inside the Superlight — A Mouse Explainer](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/shmopix-gaming-mouse/) | shmopix / @shmopixbzn | [Original](https://x.com/shmopixbzn/status/2110371046071382042) |
-| [One-Image Cruiser — Three Astra Effort Levels and Harness Comparisons](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ohmyunicorn-cruiser-comparison/) | OhMyUnicorn | [Demo](https://ohmyunicorn.com/labs/dream-loop/blender-cruiser-astra-vs-gemini4/) · [Original](https://ohmyunicorn.com/labs/dream-loop/blender-cruiser-astra-vs-gemini4/) |
-| [North Point — A Lighthouse at Dusk](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/joh-lighthouse-dusk/) | JOH / @JeurgenHubatsch | [Original](https://x.com/JeurgenHubatsch/status/2110054195734982817) |
-| [Sunlit Skipper — A 3D Flappy Bird Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ivana-flappy-bird-3d/) | Ivana / @ivanainai | [Original](https://x.com/ivanainai/status/2110069699597971828) |
-| [Five Ogres — Blender Modeling and Walking](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/congle-ogre-comparison/) | Cong Le / @CongLe | [Original](https://x.com/CongLe/status/2110139804805693469) |
-| [A Mechanical Watch — An Exploded-View Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/bluumik-watch-comparison/) | bluumik / @bluumik | [Original](https://x.com/bluumik/status/2110070382002921482) |
-| [An AI Workroom — Daylight and Mixed Modeling](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/yokohara-ai-workstation/) | Hirokazu Yokohara / @Yokohara_h | [Original](https://x.com/Yokohara_h/status/2109984552286609651) |
-| [After-School Classroom and Washitsu — Two Blender MCP Scenes](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/rikei-blender-classroom-washitsu/) | 株式会社理経 次世代事業開発部 / Rikei NBD | [Original](https://note.com/rikei_nbd/n/nfa023a1404f8) |
+| [Jelly Bag — A Soft-Body Punching Bag](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-jelly-punching-bag/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2110850396864369001) |
+| [A Halloween Pumpkin — A Squishy Jack-o-Lantern](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/shmopix-halloween-pumpkin/) | shmopix / @shmopixbzn | [Original](https://x.com/shmopixbzn/status/2110851186005782691) |
+| [Pumpkin Jelly — A Squishy Pumpkin Wedge](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-jelly-pumpkin/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2110438822085312714) |
+| [Pineapple Jelly — A Grabbable Soft-Body Ring](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-jelly-pineapple/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2110744617918304744) |
+| [Iceberg Jelly — A Soft-Body Polar Bay](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-jelly-iceberg/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2110517313413796092) |
+| [The Little Prince — Across the Stars](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/sac-little-prince-explorable-game/) | Sac / @Saccc_c | [Demo](https://littleprince.dev/) · [Original](https://x.com/Saccc_c/status/2109962425512734739) |
+| [BlenderWorld — Alpine Reconstruction and Editable 3D Showcase](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/qwen-blenderworld-astra/) | BlenderWorld 团队 / QwenLM | [Demo](https://blenderworld.github.io/#showcase) · [Source](https://github.com/QwenLM/BlenderWorld) · [Original](https://github.com/QwenLM/BlenderWorld) |
+| [Gemera — Astra-Assisted Materials and Asset Pipeline](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/itznomadic-gemera-collaboration/) | ITzNomadic / Jefry Blanco（@HexNomad23） | [Source](https://github.com/ITzNomadic/koenigsegg-gemera-blender) · [Original](https://github.com/ITzNomadic/koenigsegg-gemera-blender) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

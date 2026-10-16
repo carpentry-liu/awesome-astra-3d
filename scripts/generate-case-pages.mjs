@@ -147,7 +147,7 @@ export const TOPICS = [
       'Explore public Blender-related projects and author processes for modeling, rigging, materials and cameras.',
     ids: [
       'simonw-pelican-bicycle',
-      'gptblender-floor-plan-house',
+      'qwen-blenderworld-astra',
       'realsee-editable-space',
       'magicyan-room-studio',
       'cwc-komorebi-shrine',

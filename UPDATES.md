@@ -2,6 +2,20 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-16 · 9 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Jelly Bag：可以挥拳的果冻沙袋 / Jelly Bag — A Soft-Body Punching Bag](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-jelly-punching-bag/) | Vib3Coded / @vib3coded | 完整视频 |
+| [万圣节南瓜灯：雕刻表情与弹性互动对照 / A Halloween Pumpkin — A Squishy Jack-o-Lantern](https://carpentry-liu.github.io/awesome-astra-3d/cases/shmopix-halloween-pumpkin/) | shmopix / @shmopixbzn | 完整视频 |
+| [Pumpkin Jelly：带瓜籽的南瓜切片软体 / Pumpkin Jelly — A Squishy Pumpkin Wedge](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-jelly-pumpkin/) | Vib3Coded / @vib3coded | 完整视频 |
+| [Pineapple Jelly：可抓取的菠萝果冻圈 / Pineapple Jelly — A Grabbable Soft-Body Ring](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-jelly-pineapple/) | Vib3Coded / @vib3coded | 完整视频 · 提示词 / 过程 |
+| [Iceberg Jelly：冰山与企鹅的软体微缩海湾 / Iceberg Jelly — A Soft-Body Polar Bay](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-jelly-iceberg/) | Vib3Coded / @vib3coded | 完整视频 |
+| [The Little Prince：跨越星球的三维剧情游戏 / The Little Prince — Across the Stars](https://carpentry-liu.github.io/awesome-astra-3d/cases/sac-little-prince-explorable-game/) | Sac / @Saccc_c | 演示入口 · 完整视频 · 提示词 / 过程 |
+| [BlenderWorld：雪山缆车重建与可编辑三维作品集 / BlenderWorld — Alpine Reconstruction and Editable 3D Showcase](https://carpentry-liu.github.io/awesome-astra-3d/cases/qwen-blenderworld-astra/) | BlenderWorld 团队 / QwenLM | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [Gemera：Astra 参与材质与资产管线的 Blender 协作工程 / Gemera — Astra-Assisted Materials and Asset Pipeline](https://carpentry-liu.github.io/awesome-astra-3d/cases/itznomadic-gemera-collaboration/) | ITzNomadic / Jefry Blanco（@HexNomad23） | 源码 / 工程 |
+| [办公室增高件：Astra 辅助设计的一件实物打印 / Office Riser — One Physical Print from an Astra-Assisted Design](https://carpentry-liu.github.io/awesome-astra-3d/cases/amasuki-office-riser-print/) | amazon大好きさん / amasuki | 作者展示 |
+
 ## 2026-10-15 · 10 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
@@ -204,7 +218,7 @@
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
-| [GPTBlender：平面图到可下载房屋模型 / GPTBlender — Floor Plan to Furnished Home](https://carpentry-liu.github.io/awesome-astra-3d/cases/gptblender-floor-plan-house/) | GPTBlender / qduoduo-hwh | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [GPTBlender：平面图到四卧室住宅 / GPTBlender — Floor Plan to Furnished Home](https://carpentry-liu.github.io/awesome-astra-3d/cases/gptblender-floor-plan-house/) | GPTBlender / qduoduo-hwh | 演示入口 · 提示词 / 过程 |
 | [Clairval：森林湖泊与法式村庄 / Clairval — Forest Lake Village](https://carpentry-liu.github.io/awesome-astra-3d/cases/givros-forest-village/) | Givros / @givros | 完整视频 · 提示词 / 过程 |
 | [Windfield：三维冒险与地形编辑器 / Windfield — Adventure and Terrain Editor](https://carpentry-liu.github.io/awesome-astra-3d/cases/fuguai-windfield-editor/) | ふぐあい(ふぐおん) / @fuguai1 | 提示词 / 过程 |
 | [Super Heavy：Blender 火箭捕获对照 / Super Heavy — Blender Catch Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/vortlyn-booster-catch/) | Vortlyn / @Vortlyn | 完整视频 · 提示词 / 过程 |
@@ -469,7 +483,7 @@
 | [AURELION-07：可编辑科幻巡洋舰 / AURELION-07 Shipyard](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-aurelion-shipyard/) | Thomas Ricouard | 提示词 / 过程 |
 | [Giverny：莫奈花园灵感的三维场景 / Giverny Water Garden](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-giverny-garden/) | Thomas Ricouard | 提示词 / 过程 |
 
-## 2026-09-06 · 26 个案例
+## 2026-09-06 · 23 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
@@ -479,14 +493,11 @@
 | [旧金山联合广场：可漫游的 Three.js 城市场景](https://carpentry-liu.github.io/awesome-astra-3d/cases/astra-union-square-philolabs/) | PhiloLabs / VerizonCao | 源码 / 工程 · 提示词 / 过程 |
 | [Living Cell：可检查的细胞剖面 / Living Cell](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-living-cell/) | VB Srivastav, OpenAI | 演示入口 · 提示词 / 过程 |
 | [Orbital Logistics：截图转可拖动 3D 地球仪](https://carpentry-liu.github.io/awesome-astra-3d/cases/astra-orbital-dashboard-ai-kai/) | Kai Wang (AI Kai) / @hqmank | 演示入口 · 完整视频 · 提示词 / 过程 |
-| [Courtyard House：可剖切的庭院住宅 / Courtyard House](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-courtyard-house/) | Katia Gil Guzman, OpenAI | 演示入口 · 提示词 / 过程 |
 | [Stop-Motion Desk：三维定格动画工作台 / Stop-Motion Desk](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-stop-motion-desk/) | Katia Gil Guzman, OpenAI | 演示入口 · 提示词 / 过程 |
 | [Void Explorer：可降落的程序化宇宙 / Void Explorer](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-void-explorer/) | Thomas Ricouard, OpenAI | 演示入口 · 提示词 / 过程 |
-| [Clockwork Observatory：机械天文台 / Clockwork Observatory](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-clockwork-observatory/) | VB Srivastav, OpenAI | 演示入口 · 提示词 / 过程 |
 | [Physics museum：五个可操作的物理展项 / Physics museum](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-physics-museum/) | Katia Gil Guzman, OpenAI | 演示入口 · 提示词 / 过程 |
 | [Architecture Studio：平面图与三维联动 / Architecture Studio](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-architecture-studio/) | Katia Gil Guzman, OpenAI | 演示入口 · 提示词 / 过程 |
 | [Abyssal：生物发光的深海生态 / Abyssal](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-abyssal/) | VB Srivastav, OpenAI | 演示入口 · 提示词 / 过程 |
-| [Little Ritual：小星球咖啡配送 / Little Ritual](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-little-ritual/) | Jeff Wang, OpenAI | 演示入口 · 提示词 / 过程 |
 | [Velocity Loop：微缩车间赛车 / Velocity Loop](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-velocity-loop/) | VB Srivastav, OpenAI | 演示入口 · 提示词 / 过程 |
 | [走进梵高画作：可连续漫步的 Three.js 小镇](https://carpentry-liu.github.io/awesome-astra-3d/cases/peter-van-gogh-town/) | Peter Gostev (@petergostev) | 源码 / 工程 · 演示入口 · 完整视频 · 提示词 / 过程 |
 | [Gogh Strike：梵高小镇里的画家对战游戏](https://carpentry-liu.github.io/awesome-astra-3d/cases/peter-gogh-strike/) | Peter Gostev (@petergostev) | 源码 / 工程 · 演示入口 · 完整视频 |

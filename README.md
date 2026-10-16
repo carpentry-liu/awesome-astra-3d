@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-10-15（Asia/Shanghai）**：**338 条 Astra 案例** · **99 条源码 / 工程** · **116 个演示入口** · **149 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-10-16（Asia/Shanghai）**：**344 条 Astra 案例** · **100 条源码 / 工程** · **115 个演示入口** · **155 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -44,18 +44,18 @@
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-15.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-2026-10-15 本轮生产构建实拍。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+2026-10-16 本轮生产构建实拍。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
-<summary>查看案例区、手机与作品详情实拍 · 2026-10-15</summary>
+<summary>查看案例区、手机与作品详情实拍 · 2026-10-16</summary>
 
-[![案例区：筛选与更多作品](docs/media/collection-2026-10-15.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![案例区：筛选与更多作品](docs/media/collection-2026-10-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端：精选作品与材料导航](docs/media/mobile-2026-10-15.jpg)
+![手机端：精选作品与材料导航](docs/media/mobile-2026-10-16.jpg)
 
-[![作品详情：单图巡洋舰：Astra 三档推理与不同工具环境对照、成果与来源](docs/media/case-2026-10-15.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/ohmyunicorn-cruiser-comparison/)
+[![作品详情：The Little Prince：跨越星球的三维剧情游戏、成果与来源](docs/media/case-2026-10-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/sac-little-prince-explorable-game/)
 
 </details>
 
@@ -63,19 +63,19 @@
 
 这里按本库收录日期排列；作品首次发布、模型配置与核查日期在各档案中分别记录。稳定精选不随日更替换。
 
-10 月 15 日新增收录 **10 件作品**，包括Inside the Superlight、单图巡洋舰、North Point、Sunlit Skipper、五个食人魔、机械腕表等；新增 **6 段完整 X 录像**。既有预览本轮获取与解码核验通过。作品首发与今日收录日期分开，外部素材、工具链和不同模型的职责分别注明。
+10 月 16 日新增收录 **9 件作品**，包括Jelly Bag、万圣节南瓜灯、Pumpkin Jelly、Pineapple Jelly、Iceberg Jelly、The Little Prince等；新增 **6 段完整 X 录像**。补充 **2 件既有作品**的核实材料，保留原始首发与收录日期。**3 条**缺少可核验预览的记录暂移出展示库，原记录保存在审核档案。作品首发与今日收录日期分开，外部素材、工具链和不同模型的职责分别注明。
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
-| [Inside the Superlight：透明鼠标、内部拆解与信号流](https://carpentry-liu.github.io/awesome-astra-3d/cases/shmopix-gaming-mouse/) | shmopix / @shmopixbzn | [原始来源](https://x.com/shmopixbzn/status/2110371046071382042) |
-| [单图巡洋舰：Astra 三档推理与不同工具环境对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/ohmyunicorn-cruiser-comparison/) | OhMyUnicorn | [演示](https://ohmyunicorn.com/labs/dream-loop/blender-cruiser-astra-vs-gemini4/) · [原始来源](https://ohmyunicorn.com/labs/dream-loop/blender-cruiser-astra-vs-gemini4/) |
-| [North Point：黄昏灯塔与单次生成对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/joh-lighthouse-dusk/) | JOH / @JeurgenHubatsch | [原始来源](https://x.com/JeurgenHubatsch/status/2110054195734982817) |
-| [Sunlit Skipper：三维海岛小鸟与单文件游戏对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/ivana-flappy-bird-3d/) | Ivana / @ivanainai | [原始来源](https://x.com/ivanainai/status/2110069699597971828) |
-| [五个食人魔：Blender 建模与步行对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/congle-ogre-comparison/) | Cong Le / @CongLe | [原始来源](https://x.com/CongLe/status/2110139804805693469) |
-| [机械腕表：深绿表盘与分层爆炸视图](https://carpentry-liu.github.io/awesome-astra-3d/cases/bluumik-watch-comparison/) | bluumik / @bluumik | [原始来源](https://x.com/bluumik/status/2110070382002921482) |
-| [AI 书房：日间光照与混合建模流程](https://carpentry-liu.github.io/awesome-astra-3d/cases/yokohara-ai-workstation/) | Hirokazu Yokohara / @Yokohara_h | [原始来源](https://x.com/Yokohara_h/status/2109984552286609651) |
-| [放课后教室与和室：Blender MCP 双场景实验](https://carpentry-liu.github.io/awesome-astra-3d/cases/rikei-blender-classroom-washitsu/) | 株式会社理経 次世代事業開発部 / Rikei NBD | [原始来源](https://note.com/rikei_nbd/n/nfa023a1404f8) |
+| [Jelly Bag：可以挥拳的果冻沙袋](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-jelly-punching-bag/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2110850396864369001) |
+| [万圣节南瓜灯：雕刻表情与弹性互动对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/shmopix-halloween-pumpkin/) | shmopix / @shmopixbzn | [原始来源](https://x.com/shmopixbzn/status/2110851186005782691) |
+| [Pumpkin Jelly：带瓜籽的南瓜切片软体](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-jelly-pumpkin/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2110438822085312714) |
+| [Pineapple Jelly：可抓取的菠萝果冻圈](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-jelly-pineapple/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2110744617918304744) |
+| [Iceberg Jelly：冰山与企鹅的软体微缩海湾](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-jelly-iceberg/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2110517313413796092) |
+| [The Little Prince：跨越星球的三维剧情游戏](https://carpentry-liu.github.io/awesome-astra-3d/cases/sac-little-prince-explorable-game/) | Sac / @Saccc_c | [演示](https://littleprince.dev/) · [原始来源](https://x.com/Saccc_c/status/2109962425512734739) |
+| [BlenderWorld：雪山缆车重建与可编辑三维作品集](https://carpentry-liu.github.io/awesome-astra-3d/cases/qwen-blenderworld-astra/) | BlenderWorld 团队 / QwenLM | [演示](https://blenderworld.github.io/#showcase) · [源码](https://github.com/QwenLM/BlenderWorld) · [原始来源](https://github.com/QwenLM/BlenderWorld) |
+| [Gemera：Astra 参与材质与资产管线的 Blender 协作工程](https://carpentry-liu.github.io/awesome-astra-3d/cases/itznomadic-gemera-collaboration/) | ITzNomadic / Jefry Blanco（@HexNomad23） | [源码](https://github.com/ITzNomadic/koenigsegg-gemera-blender) · [原始来源](https://github.com/ITzNomadic/koenigsegg-gemera-blender) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)

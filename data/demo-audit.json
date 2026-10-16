@@ -1,5 +1,5 @@
 {
-  "observedAt": "2026-10-15",
+  "observedAt": "2026-10-16",
   "method": "Incremental complete GET of new author demo entry pages; no full gameplay or independent reproduction. Historical observations retain their dates.",
   "results": [
     {
@@ -843,6 +843,50 @@
       "finalUrl": "https://kayou-31.github.io/moonlit-plush-gallery/morrow.html",
       "observedAt": "2026-10-15",
       "checkedAtUtc": "2026-10-15T02:39:29.943205+00:00",
+      "result": "reachable",
+      "method": "Full HTTP GET; no independent playthrough or reproduction"
+    },
+    {
+      "id": "sac-little-prince-explorable-game",
+      "url": "https://littleprince.dev/",
+      "status": 200,
+      "title": "小王子：星辰之旅",
+      "finalUrl": "https://littleprince.dev/",
+      "observedAt": "2026-10-16",
+      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "result": "reachable",
+      "method": "Full HTTP GET; no independent playthrough or reproduction"
+    },
+    {
+      "id": "qwen-blenderworld-astra",
+      "url": "https://blenderworld.github.io/#showcase",
+      "status": 200,
+      "title": "BlenderWorld · A benchmark for 3D creation agents",
+      "finalUrl": "https://blenderworld.github.io/#showcase",
+      "observedAt": "2026-10-16",
+      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "result": "reachable",
+      "method": "Full HTTP GET; no independent playthrough or reproduction"
+    },
+    {
+      "id": "gptblender-floor-plan-house",
+      "url": "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/#interactive-demo",
+      "status": 200,
+      "title": "How to Turn a Floor Plan Into a 3D Model in Blender With GPT-6 Astra (Step-by-Step)",
+      "finalUrl": "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/#interactive-demo",
+      "observedAt": "2026-10-16",
+      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "result": "reachable",
+      "method": "Full HTTP GET; no independent playthrough or reproduction"
+    },
+    {
+      "id": "openai-architecture-studio",
+      "url": "https://architecture-studio.openai.chatgpt.site/",
+      "status": 200,
+      "title": "Architecture Studio",
+      "finalUrl": "https://architecture-studio.openai.chatgpt.site/",
+      "observedAt": "2026-10-16",
+      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
       "result": "reachable",
       "method": "Full HTTP GET; no independent playthrough or reproduction"
     }
