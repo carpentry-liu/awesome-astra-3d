@@ -79,6 +79,12 @@ npm start
 
 媒体已发布至[本轮 Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-18-second)，上传响应和发布后的附件清单尺寸 / SHA-256 digest一致。另一匿名重复查询遇API限流，未当作第二次独立服务器核验。内容提交 `6228881` 已推送至 `main`，[Pages工作流](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/39108160641) 的检查、构建、全部160段播放文件下载校验和部署均成功。生产端34项完整GET核对通过，包括367条公开目录、6条详情JSON、12个中英文详情页、3段新MP4、2张成果截帧、765项sitemap、当前截图与分享封面；8个Release附件的尺寸、digest和正式地址再次核对一致。GitHub将两JPEG作为 `application/octet-stream` 返回，实际文件签名、完整解码、字节与hash均正确；RAW文本以发布提交的Git blob逐字节比对，保留初次MIME和Windows行尾断言误报及修正证据。正式浏览器页面6张新成果图也均加载成功。本轮不部署 ChatGPT Site。
 
+## 小王子制作流程复核（2026-10-18）
+
+本轮仅补核既有 `sac-little-prince-explorable-game` 的制作过程，不增加案例、录像或宣传指标。核对[作者流程帖](https://x.com/Saccc_c/status/2110694725640474759)与当前文章文本，并实际查看署名转载提供的场景多视角参考、角色四视图和持壶绑定截图。前两类是制作输入，未作为新案例成果或媒体提交。Astra仍只归于作者明确的迭代优化与修复；当前原文没有转载中的独立agent盲审句，未将其归为作者原话。未取得可核验的公开小王子工程，仓库字段保持空。
+
+实际运行 `npm run catalog`、`npm run check`、`npm run lint`、`npm run build`，以及设置 `GITHUB_PAGES=true` 后的 `npm run build`，均通过：24项行为测试、TypeScript、764静态页、16,394本地引用、367详情JSON与765项sitemap。独立差异核查确认另外366条案例逐字段不变、视频清单完全不变，首发与初次收录日期保持原值。仅修改案例事实、研究记录及相应生成数据，无UI代码或截图变化；作者全文、研究图片、本地脚本和原创项目制作方案均不上传此仓库。
+
 ## 对外引用
 
 分享时使用当前统计与真实截图，保留作品名、原作者和来源链接；自己的练习建议不能当成原作者提示词或已经执行的实验。公开可看和署名不等于取得再发布许可。现阶段无网站点击分析系统，不虚构访问量或转化率；GitHub 流量与 Star 比较须使用相同观察窗口，不据累计数字归因于某篇帖子。

@@ -9016,6 +9016,150 @@
         ],
         "previewEnvironment": "Regular production build used for interactive browser checks. Pages build was separately verified: its absolute asset base points to production and is not treated as a hydrated localhost preview."
       }
+    },
+    {
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T11:47:47.058616+00:00",
+      "timezone": "Asia/Shanghai",
+      "round": "little-prince-process-review",
+      "baselineCommit": "42e1ca0fc49f70bb0e344b78b1b7b00d307628ee",
+      "baselineCount": 367,
+      "resultingCount": 367,
+      "addedCaseIds": [],
+      "updatedCaseIds": [
+        "sac-little-prince-explorable-game"
+      ],
+      "removedCaseIds": [],
+      "scope": "One existing work: verify current author process, separate adaptation from original, and keep source/collection dates and all video files unchanged. No new cases, video downloads or whole-catalog recheck.",
+      "sourceVerification": {
+        "observedAt": "2026-10-18",
+        "author": "Sac / @Saccc_c",
+        "sources": [
+          {
+            "role": "author-production-process",
+            "url": "https://x.com/Saccc_c/status/2110694725640474759",
+            "articleUrl": "https://x.com/i/article/2110601994578866176",
+            "auxiliaryUrl": "https://api.fxtwitter.com/Saccc_c/status/2110694725640474759",
+            "articleId": "2110601994578866176",
+            "createdAt": "2026-10-15T11:30:12.000Z",
+            "modifiedAt": "2026-10-17T19:18:39.000Z",
+            "directHtml": {
+              "status": 200,
+              "bytes": 430546,
+              "sha256": "51d5072dfbdac221d1d02a5ae0eb0fd51ecb8a33349d7dd983a81e8c72a8a5c9"
+            },
+            "auxiliaryJson": {
+              "status": 200,
+              "bytes": 23110,
+              "sha256": "17cc974e6aa0a3478b561cbe52562614be52eb48861f9a99a68ec5d2735969da"
+            },
+            "accessLimit": "Web search reader returned 403 for X. Separate direct HTTP GET returned 200 HTML and exact-post auxiliary JSON. Auxiliary service is not independent reproduction."
+          },
+          {
+            "role": "author-launch",
+            "url": "https://x.com/Saccc_c/status/2109962425512734739",
+            "auxiliaryUrl": "https://api.fxtwitter.com/Saccc_c/status/2109962425512734739",
+            "createdAt": "2026-10-13T11:00:18Z",
+            "directHtml": {
+              "status": 200,
+              "bytes": 190479,
+              "sha256": "4ffa8c125d4f66a82be718b83ebb2179091299609c433890f357507515049aac"
+            },
+            "auxiliaryJson": {
+              "status": 200,
+              "bytes": 7478,
+              "sha256": "648b42413f2018a14f9718bd59fff05e117b17de6ff55b200a1d63c7e0fee6b6"
+            }
+          },
+          {
+            "role": "adaptation-not-primary",
+            "url": "https://robotworld.top/en/articles/little-prince-3d-game-opus-astra-tripo",
+            "zhUrl": "https://robotworld.top/zh/articles/little-prince-3d-game-opus-astra-tripo",
+            "limitation": "Labels itself a full adaptation; details not present in current author article must not be promoted to author claims."
+          }
+        ],
+        "roles": {
+          "Fable 5.1": "PRD: scenes, characters and narrative",
+          "Image 2.5": "scene reference boards and consistent T-pose character views",
+          "Tripo": "core 3D props and character assets; author recommends H3.1 for props and P2.0 for game character workflow",
+          "Opus 5.5": "Blender/Unity operation, modeling integration and core code",
+          "Astra": "iteration, optimization and bug fixing",
+          "Blender": "asset cleanup, scene modeling and complex action/contact adjustment",
+          "Unity": "game engine integration",
+          "Auto-Rig Pro": "character rigging and skinning",
+          "Mixamo": "base FBX motions adapted to character skeleton"
+        },
+        "methods": [
+          "Approve a hero scene image before extending to overhead, oblique and detail references.",
+          "Mark asset responsibilities before generation; place assets with reference-based scale and layout.",
+          "Keep character details consistent across four views; inspect white mesh before texture work.",
+          "After rigging, test arm raise, knee bend and turn; repair deformation and clipping.",
+          "For object contact, adapt a nearby base motion and fix arm IK, fingers and prop placement.",
+          "Compare screenshots from front, side and gameplay cameras, then iterate against the reference."
+        ],
+        "mirrorDifference": {
+          "currentAuthorArticle": "Multi-camera checks and screenshot feedback are explicit. No independent review agent/blind-review instruction occurs in the current retrieved article body.",
+          "adaptation": "Includes independent agent blind review. It may be editorial expansion or an older version; this retrieval cannot establish which.",
+          "reuseRule": "Independent review may be our own acceptance method; do not attribute it to current author instructions."
+        },
+        "repositoryCheck": {
+          "profile": "https://github.com/Sac-Y",
+          "identityEvidence": "Profile links @Saccc_c.",
+          "query": "user:Sac-Y",
+          "method": "GitHub connected repository search, per_page=100",
+          "publicRepositoriesReturned": 8,
+          "littlePrinceRepositoryObtained": false,
+          "conclusion": "This check did not obtain an author-published Little Prince source repository. Current retrieved author article promises future GitHub publication. No claim of an exhaustive web-wide absence."
+        },
+        "limits": [
+          "Author workflow only; no independent build reproduction.",
+          "Duration, views, cost and generation quality are author claims unless independently measured.",
+          "Author tool choices are not an independently verified official product specification.",
+          "No change to catalog count, first publication, added date or archived videos is warranted by this process update."
+        ],
+        "applicationCorrection": "For our original lighthouse slice, translate reference-first assets and motion/contact acceptance into a small Three.js deliverable. Do not copy the Little Prince narrative or migrate the runtime to Unity merely to imitate the tool list. A 12-second clip length and wind-chime tree mechanism are our own design constraints, not author-reported facts."
+      },
+      "visualReferenceReview": {
+        "boards": [
+          {
+            "url": "https://robotworld.top/static/img/blog/little-prince-3d-game-opus-astra-tripo/fig2-scene-multiview.body.webp",
+            "status": 200,
+            "contentType": "image/webp",
+            "bytes": 200086,
+            "sha256": "a694b540364fa17296180b2063b4b4e3ea189cf5f291bfe307107f1770f416f2",
+            "dimensions": [
+              1280,
+              960
+            ],
+            "fullyDecoded": true
+          },
+          {
+            "url": "https://robotworld.top/static/img/blog/little-prince-3d-game-opus-astra-tripo/fig5-prince-fourview.body.webp",
+            "status": 200,
+            "contentType": "image/webp",
+            "bytes": 25182,
+            "sha256": "b27dd0fe63ad04153699893012281e799a707796ed8d3d2e5efec50b1ecb756e",
+            "dimensions": [
+              1280,
+              479
+            ],
+            "fullyDecoded": true
+          },
+          {
+            "url": "https://robotworld.top/static/img/blog/little-prince-3d-game-opus-astra-tripo/fig9-kettle.body.webp",
+            "status": 200,
+            "contentType": "image/webp",
+            "bytes": 45116,
+            "sha256": "eefe13a043aba9f75cbf2ee781c2ede3e7e2dd5e59bd03040776221cf6ffbb8a",
+            "dimensions": [
+              1280,
+              842
+            ],
+            "fullyDecoded": true
+          }
+        ],
+        "usage": "Private visual study: scene design reference, character input four-view and Blender rig screenshot. Not displayed as finished Astra outputs and not committed as third-party media."
+      }
     }
   ]
 }

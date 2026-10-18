@@ -841,8 +841,8 @@
     "modelLabel": "Opus 5.5核心代码 + Astra迭代修复 + Image 2.5 / Tripo资产 + Blender / Unity（作者混合流程）",
     "summary": "原作者将小王子的星际旅行做成三维剧情游戏，预告展示草地、狐狸、宫殿与天文书房。制作流程明确由 Opus 组织核心代码和场景、Astra 迭代优化与修 bug，外部图像和3D工具负责参考图与资产。",
     "imageCaption": "原作者制作文章中的实际游戏预告截图：小王子与狐狸相对站在草地树下。属于混合制作成果，不是 Image 2.5 输入参考图，也不把全部资产归于 Astra。 附原帖完整录像与原版下载。",
-    "outcome": "可查看约63.5秒完整原帖预告以及作者公开的制作流程和游戏入口。Fable 5.1梳理PRD，Image 2.5生成参考图，Tripo生成核心资产，Opus 5.5搭建核心代码，Astra做迭代和修复；Auto-Rig Pro与Mixamo参与绑骨动作。公开演示入口和原作者16天陈述不等于独立复现；截至本轮只见后续开源承诺，未填虚构仓库。",
-    "promptSummary": "作者公开场景拆解、Blender/Unity多视角校对、绑骨和动作适配等分步任务。只链接原文，不把其中 Opus 工作流统一写成 Astra 原始提示词。",
+    "outcome": "可查看约63.5秒完整原帖预告以及作者公开的制作流程和游戏入口。Fable 5.1梳理PRD，Image 2.5生成参考图，Tripo生成核心资产，Opus 5.5搭建核心代码，Astra做迭代和修复；Auto-Rig Pro与Mixamo参与绑骨动作。公开演示入口和原作者16天陈述不等于独立复现；10/18本次检查作者公开仓库未取得小王子工程，当前原文仍预告后续开源，repositoryUrl保持null；这不是对其他账号或私有工程的穷尽判断。",
+    "promptSummary": "公开过程分为场景与角色两条制作线：场景先固定主视觉、俯视及斜侧参考，标注独立生成资产，再摆放并用多机位截图校对；角色先统一T-pose四视图、检查白模，再绑骨、适配动作，最后细调手掌与道具接触。本文链接原作者过程，不将其他模型的制作任务改称Astra原始提示词。",
     "group": "astra",
     "platform": "X",
     "platforms": [
@@ -853,12 +853,12 @@
     "sourceUrl": "https://x.com/Saccc_c/status/2109962425512734739",
     "sourceDate": "2026-10-13",
     "secondaryPublishedAt": "2026-10-15",
-    "observedAt": "2026-10-16",
+    "observedAt": "2026-10-18",
     "addedAt": "2026-10-16",
     "evidenceLevel": "author",
     "evidenceStatus": "explicit-astra",
-    "evidenceNote": "原作者10/13预告和10/15同作制作文章建立Astra参与证据，明确仅迭代优化与bug修复；保留Opus、Fable、Image2.5、Tripo及绑骨动作工具职责。首发和文章日期分开记录。",
-    "sourceAccess": "原作者X完整GET200 / text/html / 186,009字节，作者及时间与精确同帖辅助元数据一致。主成果图完整GET200 / image/webp / 1280×720 / 73,672字节，Content-Length、SHA-256、Pillow完整解码与实际查看通过。同帖最高平台原版及较小完整平台版保存全部时长，来源媒体ID、时长、MIME、字节与SHA-256匹配；严格FFmpeg全长null解码exit0且stderr空，封面及中帧实际查看，未剪辑或转码。 4K原版157,360,315字节以完整HTTP206范围并发获取，范围无缺口无重叠并按原偏移组合；各段Content-Range总长、MIME和字节均匹配，最终原文件完整解码。文章成果截图与预告同作对照，未以输入参考图代替成果。",
+    "evidenceNote": "原作者10/13预告和10/15同作制作文章建立Astra参与证据，明确仅迭代优化与bug修复；保留Opus、Fable、Image2.5、Tripo及绑骨动作工具职责。首发和文章日期分开记录。 10/18增量核对作者流程原帖及精确同帖辅助文章文本（文章ID2110601994578866176，当前修改时间10/17 19:18:39 UTC）。当前原文明确多机位截图迭代；RobotWorld署名转载中的独立agent盲审句不在本次取得的原文中，不归为当前作者原话。",
+    "sourceAccess": "原作者X完整GET200 / text/html / 186,009字节，作者及时间与精确同帖辅助元数据一致。主成果图完整GET200 / image/webp / 1280×720 / 73,672字节，Content-Length、SHA-256、Pillow完整解码与实际查看通过。同帖最高平台原版及较小完整平台版保存全部时长，来源媒体ID、时长、MIME、字节与SHA-256匹配；严格FFmpeg全长null解码exit0且stderr空，封面及中帧实际查看，未剪辑或转码。 4K原版157,360,315字节以完整HTTP206范围并发获取，范围无缺口无重叠并按原偏移组合；各段Content-Range总长、MIME和字节均匹配，最终原文件完整解码。文章成果截图与预告同作对照，未以输入参考图代替成果。 10/18本轮完整获取流程原帖HTML430,546字节、首发HTML190,479字节，并以同帖辅助JSON核对文章正文、作者及时间；网页阅读器403与直接GET200分别记录。既有预览和归档视频保留原核查证据，本轮只补核制作过程，未重下载录像。",
     "imageUrl": "https://robot.agientry.com/static/img/blog/little-prince-3d-game-opus-astra-tripo/fig1-trailer.body.webp",
     "imageKind": "screenshot",
     "demoUrl": "https://littleprince.dev/",
@@ -877,7 +877,9 @@
       "https://api.fxtwitter.com/Saccc_c/status/2109962425512734739",
       "https://x.com/Saccc_c/status/2110694725640474759",
       "https://api.fxtwitter.com/Saccc_c/status/2110694725640474759",
-      "https://robot.agientry.com/en/articles/little-prince-3d-game-opus-astra-tripo"
+      "https://robot.agientry.com/en/articles/little-prince-3d-game-opus-astra-tripo",
+      "https://x.com/i/article/2110601994578866176",
+      "https://robotworld.top/zh/articles/little-prince-3d-game-opus-astra-tripo"
     ],
     "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库MIT。保存原平台完整MP4未剪辑或转码，保留原创来源及移除入口；归档不代表另行取得再发布许可。 平台原版与较小完整播放版保存至公开 Release，未剪辑或转码。",
     "archivedVideos": [
