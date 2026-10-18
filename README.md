@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-10-18（Asia/Shanghai）**：**349 条 Astra 案例** · **102 条源码 / 工程** · **117 个演示入口** · **157 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-10-18（Asia/Shanghai）**：**355 条 Astra 案例** · **103 条源码 / 工程** · **117 个演示入口** · **160 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -55,7 +55,7 @@
 
 ![手机端：精选作品与材料导航](docs/media/mobile-2026-10-18.jpg)
 
-[![作品详情：Hina：撑伞角色的程序建模与四面检查、成果与来源](docs/media/case-2026-10-18.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/ecooxai-hina-procedural-character/)
+[![LUMEN ISLES：灯塔海岛冒险、完整录像与来源](docs/media/case-2026-10-18.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/tokengremlin-lumen-isles/)
 
 </details>
 
@@ -63,19 +63,19 @@
 
 这里按本库收录日期排列；作品首次发布、模型配置与核查日期在各档案中分别记录。稳定精选不随日更替换。
 
-10 月 18 日新增收录 **5 件作品**，包括Bloom Pool、Ocean Shallows、A Frontier for the Zeros、Hina、LegoBench；新增 **2 段完整 X 录像**。既有预览本轮获取与解码核验通过。作品首发与今日收录日期分开，外部素材、工具链和不同模型的职责分别注明。
+10 月 18 日共新增收录 **11 件作品**、**5 段完整 X 录像**。本轮补充 LUMEN ISLES 灯塔海岛冒险、747 装配、滨海湾赛道、单图桌面重建、Real2Gym 和中文 Blender 建模实验；3 段新增录像均保留原帖全部时长。黑屏与空场景封面改用注明时间的原片成果截帧。作品首发与今日收录日期分开，Tripo 资产、声音工具和混合重建系统的职责分别标注。
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
+| [LUMEN ISLES：Astra 编排的灯塔海岛冒险](https://carpentry-liu.github.io/awesome-astra-3d/cases/tokengremlin-lumen-isles/) | Token Gremlin / @TokenGremlin | [原始来源](https://x.com/TokenGremlin/status/2110756756200587414) |
+| [Boeing 747-400：从骨架到整机的装配动画](https://carpentry-liu.github.io/awesome-astra-3d/cases/misat0x-boeing747-assembly/) | Misato / @misat0x | [原始来源](https://x.com/misat0x/status/2108510836981445009) |
+| [滨海湾夜赛：Blender 城市与 F1 整圈漫游](https://carpentry-liu.github.io/awesome-astra-3d/cases/darren-marina-bay-f1/) | Darren Tjan / @DarrenTjan | [原始来源](https://x.com/DarrenTjan/status/2108466187529314717) |
+| [单张桌面照片重建：遮挡物体与 Blender 迭代](https://carpentry-liu.github.io/awesome-astra-3d/cases/anhao-single-image-tabletop-reconstruction/) | anhao-zhang | [原始来源](https://github.com/anhao-zhang/gpt6-blender-reconstruction) |
+| [Real2Gym：机器人与人手视频的场景重建对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/real2gym-astra-scene-reconstruction/) | Kerui Ren、Yingxiang Xu、Kaiwen Song、Linning Xu、Bo Dai、Mulin Yu、Tao Lu / Real2Gym 团队 | [源码](https://github.com/real2gym/Real2Gym) · [原始来源](https://github.com/real2gym/Real2Gym) |
+| [老居民楼、配电箱与行星发动机：三组 Blender 建模](https://carpentry-liu.github.io/awesome-astra-3d/cases/supermadmax-blender-three-studies/) | supermadmax / LINUX DO | [原始来源](https://linux.do/t/topic/2859908) |
 | [Bloom Pool：漂浮花朵与池水互动对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-flower-pool/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2111609680057270501) |
 | [Ocean Shallows：浅海鳐鱼与水母场景对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-ocean-rays-jellyfish/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2111169828958449863) |
-| [A Frontier for the Zeros：ζ函数曲面的三维镜头讲解](https://carpentry-liu.github.io/awesome-astra-3d/cases/harleycoops-astra-zeta-landscapes/) | HarleyCoops / Math-To-Manim | [源码](https://github.com/HarleyCoops/Math-To-Manim/tree/main/papers/quasi-riemann) · [原始来源](https://github.com/HarleyCoops/Math-To-Manim/tree/main/papers/quasi-riemann) |
-| [Hina：撑伞角色的程序建模与四面检查](https://carpentry-liu.github.io/awesome-astra-3d/cases/ecooxai-hina-procedural-character/) | ecooxai | [演示](https://ecooxai.github.io/hina-gpt6-astra-pro-chatgpt-threejs/) · [源码](https://github.com/ecooxai/hina-gpt6-astra-pro-chatgpt-threejs) · [原始来源](https://github.com/ecooxai/hina-gpt6-astra-pro-chatgpt-threejs) |
-| [LegoBench：从说明书重建的积木 Chiron](https://carpentry-liu.github.io/awesome-astra-3d/cases/dalrupnik-legobench-chiron/) | Dal Rupnik / Unified Sense（Reddit: TheLegoless） | [演示](https://legobench.net/runs/20261008-093809-16eaa2/lego-pdf/75878-bugatti-chiron/0) · [原始来源](https://unifiedsense.com/blog/legobench) |
-| [Jelly Bag：可以挥拳的果冻沙袋](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-jelly-punching-bag/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2110850396864369001) |
-| [万圣节南瓜灯：雕刻表情与弹性互动对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/shmopix-halloween-pumpkin/) | shmopix / @shmopixbzn | [原始来源](https://x.com/shmopixbzn/status/2110851186005782691) |
-| [Pumpkin Jelly：带瓜籽的南瓜切片软体](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-jelly-pumpkin/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2110438822085312714) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)

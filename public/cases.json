@@ -1,5 +1,310 @@
 [
   {
+    "id": "tokengremlin-lumen-isles",
+    "title": "LUMEN ISLES：Astra 编排的灯塔海岛冒险",
+    "titleEn": "LUMEN ISLES — A Lighthouse Island Adventure",
+    "category": "3D 游戏",
+    "modelLabel": "GPT-6 Astra + Tripo CLI（资产与角色动画）",
+    "summary": "角色沿小屋、路灯和木桥探索海岛，最后镜头拉远展示亮起的灯塔与岛屿。作者先用 Astra 制作可玩原型，再以 Tripo 生成的资产替换占位模型，由 Astra 集成并调整灯光、移动、镜头和灯塔终章。",
+    "imageCaption": "本库从原帖完整录像第87秒提取的实际成果帧：海岛、灯塔、小屋、木桥和灯塔旁的角色。原帖默认封面为黑画面，截帧没有改动原录像；角色、资产与动画由 Tripo 生成，Astra 负责原型与集成。",
+    "outcome": "保留约96秒完整原帖录像，可看到第三人称探索和灯塔终章。作者称不到一小时完成，这是作者自述；Tripo 负责三维资产、主角绑定和动画，不能把这些资产当成 Astra 原生建模。尚未取得公开试玩、源码和完整原始提示词，也未独立复现制作时长或玩法。",
+    "promptSummary": "作者仅概述了温馨海岛、灯塔、小屋、灯笼和探索体验等目标，未公开完整原始提示词。",
+    "outputType": [
+      "三维游戏展示",
+      "混合资产工作流",
+      "作者完整录像",
+      "完整运行录像"
+    ],
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Token Gremlin / @TokenGremlin",
+    "sourceUrl": "https://x.com/TokenGremlin/status/2110756756200587414",
+    "sourceDate": "2026-10-15",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-18",
+    "addedAt": "2026-10-18",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者X完整HTML与精确同帖FxTwitter辅助元数据的作者、时间、媒体ID交叉一致。Astra：可玩原型、资产集成、灯光、移动、镜头、灯塔终章。Tripo CLI：三维资产、主角骨骼绑定与动画、替换占位模型。 模型归属为作者声明，未独立复现。",
+    "sourceAccess": "原作者X完整GET200 / text/html / 176,983字节，作者及created_at_ms与同帖辅助元数据一致。原帖封面完整GET200、MIME/Content-Length/SHA-256和Pillow全图解码通过并实际查看。最高平台原版及较小完整平台MP4核对媒体ID、来源时长、MIME、字节和SHA-256，严格FFmpeg全长null解码exit0且stderr空；封面与录像中帧实际查看，未剪辑或转码。 原帖默认封面为黑画面，预览改为有明确时间与来源记录的原版录像实际截帧，单独JPEG归档，不改动MP4。",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-18-second/tokengremlin-lumen-isles-frame-87s.jpg",
+    "imageKind": "video-frame",
+    "demoUrl": null,
+    "repositoryUrl": null,
+    "videoUrl": "https://x.com/TokenGremlin/status/2110756756200587414",
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/TokenGremlin/status/2110756756200587414",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/TokenGremlin/status/2110756756200587414"
+    ],
+    "licenseNotes": "作品、资产与第三方媒体保留原作者及相关权利人权利，不纳入本库MIT。公开可见不等于自由再分发或已取得商业许可；完整MP4归档未剪辑或转码，必要预览仅为注明时间与来源的实际录像截帧，保留原创来源及移除入口。 原平台最高码率版本与较小完整播放版本均有归档。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/tokengremlin-lumen-isles-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-18-second/tokengremlin-lumen-isles-1-original.mp4",
+        "durationSeconds": 96.03999999999999,
+        "bytes": 52143176,
+        "sha256": "3deb4caefec49f7bbe0c817980f6f5419769cbba4506febfbd307bb78fb6a935",
+        "sourceUrl": "https://x.com/TokenGremlin/status/2110756756200587414",
+        "label": "LUMEN ISLES — A Lighthouse Island Adventure",
+        "posterUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-18-second/tokengremlin-lumen-isles-frame-87s.jpg"
+      }
+    ]
+  },
+  {
+    "id": "misat0x-boeing747-assembly",
+    "title": "Boeing 747-400：从骨架到整机的装配动画",
+    "titleEn": "Boeing 747-400 — From Airframe to Assembly",
+    "category": "拆解与剖面",
+    "modelLabel": "GPT-6 Astra High（作者自述）",
+    "summary": "一分钟三维装配动画从空机库开始，逐步呈现机身骨架、客舱系统和整机外壳，最后出现完整的747-400。画面计数从零递增，末段显示23,610；这是作品中的UI数据，未独立核算零件或几何对象。",
+    "imageCaption": "本库从原帖完整4K录像第57秒提取的实际成果帧：747-400整机与右上23,610计数。原帖封面是装配前空机库；这张截帧没有改动原录像，画面计数不等于本库独立核实的零件总数。",
+    "outcome": "保留60秒完整原帖录像与最高码率4K原版。作者明确为 Astra High，并称先生成动画、再补一轮零件计数；没有取得源码、可编辑工程或原始提示词，不能确认真实独立零件数、建模过程、工时或航空工程准确性。",
+    "promptSummary": "作者仅说明要求制作747装配动画，随后追加零件计数，完整提示词未公开。",
+    "outputType": [
+      "三维装配动画",
+      "内部结构展示",
+      "作者完整录像",
+      "完整运行录像"
+    ],
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Misato / @misat0x",
+    "sourceUrl": "https://x.com/misat0x/status/2108510836981445009",
+    "sourceDate": "2026-10-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-18",
+    "addedAt": "2026-10-18",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者X完整HTML与精确同帖FxTwitter辅助元数据的作者、时间、媒体ID交叉一致。作者明确使用 Astra High；同帖展示三维装配动画。未从画面推断使用了Blender、CAD或某个具体渲染器。 模型归属为作者声明，未独立复现。",
+    "sourceAccess": "原作者X完整GET200 / text/html / 144,558字节，作者及created_at_ms与同帖辅助元数据一致。原帖封面完整GET200、MIME/Content-Length/SHA-256和Pillow全图解码通过并实际查看。最高平台原版及较小完整平台MP4核对媒体ID、来源时长、MIME、字节和SHA-256，严格FFmpeg全长null解码exit0且stderr空；封面与录像中帧实际查看，未剪辑或转码。 原帖默认封面为空机库，预览改为有明确时间与来源记录的原版录像实际截帧，单独JPEG归档，不改动MP4。",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-18-second/misat0x-boeing747-assembly-frame-57s.jpg",
+    "imageKind": "video-frame",
+    "demoUrl": null,
+    "repositoryUrl": null,
+    "videoUrl": "https://x.com/misat0x/status/2108510836981445009",
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/misat0x/status/2108510836981445009",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/misat0x/status/2108510836981445009"
+    ],
+    "licenseNotes": "作品、资产与第三方媒体保留原作者及相关权利人权利，不纳入本库MIT。公开可见不等于自由再分发或已取得商业许可；完整MP4归档未剪辑或转码，必要预览仅为注明时间与来源的实际录像截帧，保留原创来源及移除入口。 原平台最高码率版本与较小完整播放版本均有归档。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/misat0x-boeing747-assembly-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-18-second/misat0x-boeing747-assembly-1-original.mp4",
+        "durationSeconds": 60.0,
+        "bytes": 43929561,
+        "sha256": "9d515d089b0caec420c20cb953c20fa59e87611c6aaa8ad5694fe09ae06724a6",
+        "sourceUrl": "https://x.com/misat0x/status/2108510836981445009",
+        "label": "Boeing 747-400 — From Airframe to Assembly",
+        "posterUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-18-second/misat0x-boeing747-assembly-frame-57s.jpg"
+      }
+    ]
+  },
+  {
+    "id": "darren-marina-bay-f1",
+    "title": "滨海湾夜赛：Blender 城市与 F1 整圈漫游",
+    "titleEn": "Marina Bay Night Race — A Blender Circuit Fly-Through",
+    "category": "建筑与室内",
+    "modelLabel": "GPT-6 Astra + Blender MCP + Magnific（声音）",
+    "summary": "从Blender里的滨海湾城市模型进入夜间赛车视角，沿道路驶过金沙酒店周边和市中心建筑。作者描述由 Astra 经 Blender MCP 扩建城市、查找实际赛道并制作整圈漫游，再通过 Magnific MCP 寻找和同步音效。",
+    "imageCaption": "原作者原帖封面：Blender界面里的滨海湾三维模型，包含金沙酒店、湾区建筑、道路和水面。附136秒完整原帖夜间赛道录像；不是本库生成的宣传图。",
+    "outcome": "保留约136秒完整录像，包含城市模型展示与夜间车载视角漫游。Astra 参与建模、赛道查询和镜头制作，Magnific 用于声音；作者也明确模拟可能并非一比一。尚无公开工程、试玩或完整提示词，未验证赛道长度、建筑尺寸、真实路线、物理和地图精度。",
+    "promptSummary": "作者公开了从金沙酒店模型扩展到滨海湾、整圈赛道漫游和音效同步的任务过程，未公开完整原始提示词。",
+    "outputType": [
+      "三维城市建模",
+      "赛道镜头漫游",
+      "作者完整录像",
+      "完整运行录像"
+    ],
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Darren Tjan / @DarrenTjan",
+    "sourceUrl": "https://x.com/DarrenTjan/status/2108466187529314717",
+    "sourceDate": "2026-10-09",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-18",
+    "addedAt": "2026-10-18",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者X完整HTML与精确同帖FxTwitter辅助元数据的作者、时间、媒体ID交叉一致。Astra经Blender MCP建立/扩建滨海湾模型、查找赛道布局并制作镜头漫游；Magnific MCP用于寻找/同步音效。不能把音效归为Astra原生生成。 模型归属为作者声明，未独立复现。",
+    "sourceAccess": "原作者X完整GET200 / text/html / 120,798字节，作者及created_at_ms与同帖辅助元数据一致。原帖封面完整GET200、MIME/Content-Length/SHA-256和Pillow全图解码通过并实际查看。最高平台原版及较小完整平台MP4核对媒体ID、来源时长、MIME、字节和SHA-256，严格FFmpeg全长null解码exit0且stderr空；封面与录像中帧实际查看，未剪辑或转码。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2108464071578460161/img/3aA_z5KjwfFH92DL.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "repositoryUrl": null,
+    "videoUrl": "https://x.com/DarrenTjan/status/2108466187529314717",
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/DarrenTjan/status/2108466187529314717",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/DarrenTjan/status/2108466187529314717"
+    ],
+    "licenseNotes": "作品、资产与第三方媒体保留原作者及相关权利人权利，不纳入本库MIT。公开可见不等于自由再分发或已取得商业许可；完整MP4归档未剪辑或转码，必要预览仅为注明时间与来源的实际录像截帧，保留原创来源及移除入口。 原平台最高码率版本与较小完整播放版本均有归档。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/darren-marina-bay-f1-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-18-second/darren-marina-bay-f1-1-original.mp4",
+        "durationSeconds": 136.09,
+        "bytes": 97947366,
+        "sha256": "6c9983aee8332fc55fd7da4ac69674485a20f770b639492201cd41afb47167a3",
+        "sourceUrl": "https://x.com/DarrenTjan/status/2108466187529314717",
+        "label": "Marina Bay Night Race — A Blender Circuit Fly-Through",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2108464071578460161/img/3aA_z5KjwfFH92DL.jpg"
+      }
+    ]
+  },
+  {
+    "group": "astra",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-18",
+    "addedAt": "2026-10-18",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "GitHub",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "videoUrl": null,
+    "demoUrl": null,
+    "id": "anhao-single-image-tabletop-reconstruction",
+    "title": "单张桌面照片重建：遮挡物体与 Blender 迭代",
+    "titleEn": "Single-Image Tabletop Reconstruction — Occlusion and Blender Refinement",
+    "category": "Blender 建模",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "anhao-zhang",
+    "sourceUrl": "https://github.com/anhao-zhang/gpt6-blender-reconstruction",
+    "repositoryUrl": null,
+    "modelLabel": "GPT-6 Astra（low） / Codex / Blender MCP",
+    "summary": "从单张 RGB 图像推断桌面物体、相对位置与视角，再通过 Blender MCP 建模、渲染和修改。封面展示遮挡案例的蓝色线圈本、黑笔、眼镜、笔袋与手机；作者另公开多物体桌面实验。",
+    "imageUrl": "https://raw.githubusercontent.com/anhao-zhang/gpt6-blender-reconstruction/main/experiments/reconstruct_001/previews/image_occ8_render_final.png",
+    "imageKind": "render",
+    "imageCaption": "作者 experiments/reconstruct_001/previews/image_occ8_render_final.png 最终 Blender 渲染，非 inputs/image_occ8.png 输入参考图。遮挡后的结构来自推断，不是实际扫描。",
+    "evidenceNote": "当前作者 README 与 metadata.json 都明确模型 gpt-6-astra、low 和最多5轮修改；Codex CLI 与 Blender MCP 负责工具调用，Blender 负责几何与渲染。作者说明本次未使用外部三维资产、三维生成模型、深度、分割、点云和配准。上述流程归属依据作者材料，未独立重跑。",
+    "sourceAccess": "匿名完整 GET GitHub API 中作者 README、提示词及 metadata；GitHub 网页直取返回403，浏览检索可读，不把403页当作品内容。成果 PNG 直接完整 GET 200 / image/png / 941,408字节 / 1000×750，Content-Length一致，SHA-256 e859d473c4f48d858ea73c7ac5dc85e344e239f2b7100063878349fe0193f4d5，Pillow Image.load 全图解码并实际查看。未执行第三方代码。",
+    "outcome": "作者公开两组输入/最终渲染、提示词、模型配置和部分执行轨迹；文件树只有会话启动与轨迹提取工具，未公开可直接打开的场景工程或独立建模脚本，不计源码/工程入口，当前也不是一键端到端重建包。几何、尺度、不可见面与物理一致性存在偏差，可能互相穿插；不将可见外观当精确测量。首发日期未确认，sourceDate 保持 null。",
+    "outputType": [
+      "单图到 Blender 场景重建",
+      "最终三维渲染",
+      "提示词与执行轨迹"
+    ],
+    "promptAvailability": "linked",
+    "promptUrl": "https://github.com/anhao-zhang/gpt6-blender-reconstruction/blob/main/prompts/reconstruction_occlusion.md",
+    "evidenceUrls": [
+      "https://github.com/anhao-zhang/gpt6-blender-reconstruction/blob/main/experiments/reconstruct_001/metadata.json",
+      "https://github.com/anhao-zhang/gpt6-blender-reconstruction/blob/main/configs/environment.md",
+      "https://github.com/anhao-zhang/gpt6-blender-reconstruction/tree/main/experiments/reconstruct_001/previews"
+    ],
+    "licenseNotes": "本轮 GitHub API 未返回仓库许可证；公开可见不等于自由复用。代码、输入图、最终成果图及相关权利分别归原权利人，预览外链原作者，不纳入本库 MIT。"
+  },
+  {
+    "group": "astra",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-18",
+    "addedAt": "2026-10-18",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "GitHub",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "videoUrl": null,
+    "demoUrl": null,
+    "id": "real2gym-astra-scene-reconstruction",
+    "title": "Real2Gym：机器人与人手视频的场景重建对照",
+    "titleEn": "Real2Gym — Scene Reconstruction from Robot and Human Videos",
+    "category": "科学与教育",
+    "platforms": [
+      "GitHub",
+      "Website"
+    ],
+    "author": "Kerui Ren、Yingxiang Xu、Kaiwen Song、Linning Xu、Bo Dai、Mulin Yu、Tao Lu / Real2Gym 团队",
+    "sourceUrl": "https://github.com/real2gym/Real2Gym",
+    "repositoryUrl": "https://github.com/real2gym/Real2Gym",
+    "modelLabel": "GPT-6 Astra（直接基线与混合流程分别标注）",
+    "summary": "将真实机器人或人手操作视频与三维场景重建、动作执行连接起来。完整对照图同时展示 Astra 直接基线、Real2Gym 混合流程及源视频；项目站提供多视角 Real / Blender / MuJoCo 录像供观察。",
+    "imageUrl": "https://real2gym.github.io/assets/media/e89ffc949fd4f3d224dcb20170373b83636398ebe4ca88e84565dda9ed8f3311.png",
+    "imageKind": "author-comparison",
+    "imageCaption": "作者实际重建对照图，依次为 GPT-5.6 Sol、GPT-6 Astra、Ours（Real2Gym）与 Source Video。只有第二行为直接 Astra 基线；第三行是另含视觉初始化与反馈迭代的混合系统，第四行为输入视频。",
+    "evidenceNote": "作者 README 明确 GPT6 Astra 协调 Blender 场景重建、MuJoCo 动作适配和反馈修改；项目站另区分直接 Astra 基线与 Real2Gym。后者使用 Pi3X / SAM2 初始化几何，并在代理执行中引入 SAM3 / GraspNet，不能把整张图或混合流程优势统一归因于 Astra。",
+    "sourceAccess": "匿名完整 GET 原团队项目站及 GitHub API 的 README、提示词；GitHub 网页直取返回403，浏览检索可读，不当作公开仓库不可用。实际对照 PNG 完整 GET 200 / image/png / 1,400,416字节 / 2290×1036，Content-Length一致，SHA-256 e89ffc949fd4f3d224dcb20170373b83636398ebe4ca88e84565dda9ed8f3311，Pillow Image.load 全图解码并实际查看。项目站为成果展示，不计实际交互演示。未执行 Blender、MuJoCo 或机器人。",
+    "outcome": "本轮确认作者公开的完整对照图及项目站可达，并保留各行职责边界；项目站列出24项重建任务与研究结果，但未独立复现模型、任务成功率、物理或真机执行。examples/ 目录属于可编辑请求模板，不能作为预计算成功结果。最早公开日期未确认，sourceDate 保持 null。",
+    "outputType": [
+      "机器人 / 人手视频到三维场景",
+      "作者重建对照图",
+      "Blender / MuJoCo 流程源码"
+    ],
+    "promptAvailability": "linked",
+    "promptUrl": "https://github.com/real2gym/Real2Gym/blob/main/Real2Sim%20Prompt.md",
+    "evidenceUrls": [
+      "https://real2gym.github.io/",
+      "https://github.com/real2gym/Real2Gym/blob/main/examples/README.md",
+      "https://github.com/real2gym/Real2Gym/blob/main/docs/README.zh-CN.md"
+    ],
+    "licenseNotes": "本轮 GitHub API 未返回仓库许可证；原论文、源数据、机器人资产、代码与结果媒体按各自权利和原仓库第三方说明核对。预览保留原图与各方法标注，外链团队站点，不纳入本库 MIT。"
+  },
+  {
+    "id": "supermadmax-blender-three-studies",
+    "title": "老居民楼、配电箱与行星发动机：三组 Blender 建模",
+    "titleEn": "Three Blender Studies — An Apartment Block, Cabinet and Planetary Engine",
+    "group": "astra",
+    "category": "Blender 建模",
+    "platform": "Forum",
+    "platforms": [
+      "Forum",
+      "Website"
+    ],
+    "author": "supermadmax / LINUX DO",
+    "sourceUrl": "https://linux.do/t/topic/2859908",
+    "sourceDate": "2026-09-05",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-18",
+    "addedAt": "2026-10-18",
+    "modelLabel": "GPT-6 Astra · Blender（作者建模实验）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者 Astra 主题帖展示三组模型；住宅成果在作者第14楼，发动机含单轮与多轮阶段。10月17日同作者的 DeepSeek 测试仅用于发现，不混入这组 Astra 成果。同帖多题材合并一条。",
+    "sourceAccess": "原作者论坛原文通过网页阅读器可读，显示作者与9月5日绝对日期；本机原帖完整 GET 返回403，如实保留访问限制。三张实际成果 JPEG 从原站 CDN 完整 GET200，核对 Content-Type、Content-Length、字节和 SHA-256，Pillow 完整解码并实际查看。未运行 Blender 工程。",
+    "summary": "旧楼微缩场景带屋顶水箱、阳台与院落；同帖还展示锈蚀配电箱内部和行星发动机的地面镜头，保留单轮与多轮的差别。",
+    "imageUrl": "https://cdn3.ldstatic.com/original/4X/8/0/0/8000f4795529d1178346af5e80d3ab902bf854f4.jpeg",
+    "imageKind": "render",
+    "imageCaption": "原作者第14楼的 Astra / Blender 居民楼成果全景；配电箱和行星发动机成果从证据链接查看。不是10月17日的 DeepSeek 对照图。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "outputType": [
+      "Blender 建模成果",
+      "住宅与硬表面渲染",
+      "原作者多轮过程"
+    ],
+    "promptAvailability": "linked",
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "promptUrl": "https://linux.do/t/topic/2859908",
+    "evidenceUrls": [
+      "https://cdn3.ldstatic.com/original/4X/3/b/9/3b9e208e5d987d14697cdd625a9a9bb186a3708e.jpeg",
+      "https://cdn3.ldstatic.com/original/4X/d/0/5/d05f8028988a6c017e1c93b42389a6b0c9e8e7c2.jpeg",
+      "https://linux.do/t/topic/2859908/14"
+    ],
+    "licenseNotes": "效果图与相关影视设计保留原作者和相关权利人权利，本库仅署名外链，不纳入仓库 MIT。",
+    "outcome": "三张成果均已完整获取并目视。作者指出住宅近景存在穿模；没有可编辑工程或独立复现记录，不将视觉细节等同于结构正确或工程可用。"
+  },
+  {
     "id": "vib3coded-flower-pool",
     "title": "Bloom Pool：漂浮花朵与池水互动对照",
     "titleEn": "Bloom Pool — Floating Flowers and Water",

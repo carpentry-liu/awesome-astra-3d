@@ -18655,6 +18655,265 @@
       "validatedCurrentCasePreviews": 361,
       "sourceUrlCount": 9,
       "scope": "Availability of current previews and new material sources; not a complete historical source or gameplay re-audit."
+    },
+    {
+      "checkedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T07:19:19.510101+00:00",
+      "round": "daily-second",
+      "baselineCases": 361,
+      "newCaseCount": 6,
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "resultingCases": 367,
+      "scope": "Original X author HTML200, exact-post auxiliary metadata and media IDs; original-author repository API and project site; Linux.do via web reader with direct HTML403 and original CDN200. No full historical-link recheck claimed.",
+      "sourceChecks": [
+        {
+          "name": "anhao-repository",
+          "url": "https://github.com/anhao-zhang/gpt6-blender-reconstruction",
+          "status": 403,
+          "mime": "text/html; charset=utf-8",
+          "declaredBytes": "1812",
+          "bytes": 1812,
+          "sha256": "31efc27e58d71b9e3b3cb8b2a2291b4098f19d33d5a77b2a7caf3fb585f01795",
+          "finalUrl": "https://github.com/anhao-zhang/gpt6-blender-reconstruction"
+        },
+        {
+          "name": "anhao-metadata",
+          "url": "https://api.github.com/repos/anhao-zhang/gpt6-blender-reconstruction/contents/experiments/reconstruct_001/metadata.json",
+          "status": 200,
+          "mime": "application/json; charset=utf-8",
+          "declaredBytes": "2112",
+          "bytes": 2112,
+          "sha256": "c8841596496dce1b64cb0bb58b15602592c4e4b5a5cc231fb688f63ace9c2f69",
+          "finalUrl": "https://api.github.com/repos/anhao-zhang/gpt6-blender-reconstruction/contents/experiments/reconstruct_001/metadata.json"
+        },
+        {
+          "name": "anhao-prompt",
+          "url": "https://github.com/anhao-zhang/gpt6-blender-reconstruction/blob/main/prompts/reconstruction_occlusion.md",
+          "status": 403,
+          "mime": "text/html; charset=utf-8",
+          "declaredBytes": "1812",
+          "bytes": 1812,
+          "sha256": "31efc27e58d71b9e3b3cb8b2a2291b4098f19d33d5a77b2a7caf3fb585f01795",
+          "finalUrl": "https://github.com/anhao-zhang/gpt6-blender-reconstruction/blob/main/prompts/reconstruction_occlusion.md"
+        },
+        {
+          "name": "real2gym-repository",
+          "url": "https://github.com/real2gym/Real2Gym",
+          "status": 403,
+          "mime": "text/html; charset=utf-8",
+          "declaredBytes": "1812",
+          "bytes": 1812,
+          "sha256": "31efc27e58d71b9e3b3cb8b2a2291b4098f19d33d5a77b2a7caf3fb585f01795",
+          "finalUrl": "https://github.com/real2gym/Real2Gym"
+        },
+        {
+          "name": "real2gym-project",
+          "url": "https://real2gym.github.io/",
+          "status": 200,
+          "mime": "text/html; charset=utf-8",
+          "declaredBytes": "4093",
+          "bytes": 11155,
+          "sha256": "1e5397645fbd15acbf8a8af8abfd89c8fc7dc0aa5b9b66c2a64bdcd2fa163212",
+          "finalUrl": "https://real2gym.github.io/"
+        },
+        {
+          "name": "real2gym-prompt",
+          "url": "https://github.com/real2gym/Real2Gym/blob/main/Real2Sim%20Prompt.md",
+          "status": 403,
+          "mime": "text/html; charset=utf-8",
+          "declaredBytes": "1812",
+          "bytes": 1812,
+          "sha256": "31efc27e58d71b9e3b3cb8b2a2291b4098f19d33d5a77b2a7caf3fb585f01795",
+          "finalUrl": "https://github.com/real2gym/Real2Gym/blob/main/Real2Sim%20Prompt.md"
+        },
+        {
+          "name": "anhao-readme-api",
+          "url": "https://api.github.com/repos/anhao-zhang/gpt6-blender-reconstruction/readme",
+          "status": 200,
+          "mime": "application/json; charset=utf-8",
+          "declaredBytes": null,
+          "bytes": 9025,
+          "sha256": "b67d814a04eabb66afcbee1eb319f148e83fc4156707e59c48b0265f88fe6585",
+          "finalUrl": "https://api.github.com/repos/anhao-zhang/gpt6-blender-reconstruction/readme"
+        },
+        {
+          "name": "anhao-prompt-api",
+          "url": "https://api.github.com/repos/anhao-zhang/gpt6-blender-reconstruction/contents/prompts/reconstruction_occlusion.md",
+          "status": 200,
+          "mime": "application/json; charset=utf-8",
+          "declaredBytes": "3813",
+          "bytes": 3813,
+          "sha256": "09192eee0359906fc7f6124af5bd784c1f4e71144b733322a8c371d73648bfac",
+          "finalUrl": "https://api.github.com/repos/anhao-zhang/gpt6-blender-reconstruction/contents/prompts/reconstruction_occlusion.md"
+        },
+        {
+          "name": "real2gym-readme-api",
+          "url": "https://api.github.com/repos/real2gym/Real2Gym/readme",
+          "status": 200,
+          "mime": "application/json; charset=utf-8",
+          "declaredBytes": "4486",
+          "bytes": 8793,
+          "sha256": "04e5187ba3d94132f7a3e3d162176dac1bc4271c1d660210dc829a3f9752d207",
+          "finalUrl": "https://api.github.com/repos/real2gym/Real2Gym/readme"
+        },
+        {
+          "name": "real2gym-prompt-api",
+          "url": "https://api.github.com/repos/real2gym/Real2Gym/contents/Real2Sim%20Prompt.md",
+          "status": 200,
+          "mime": "application/json; charset=utf-8",
+          "declaredBytes": "38465",
+          "bytes": 38465,
+          "sha256": "be9e89103081850fe395a4453026635396fbc255cb057e493868f479bebcb9bd",
+          "finalUrl": "https://api.github.com/repos/real2gym/Real2Gym/contents/Real2Sim%20Prompt.md"
+        }
+      ],
+      "newCasePreviews": [
+        {
+          "caseId": "tokengremlin-lumen-isles",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-18-second/tokengremlin-lumen-isles-frame-87s.jpg",
+          "proof": {
+            "caseId": "tokengremlin-lumen-isles",
+            "filename": "tokengremlin-lumen-isles-frame-87s.jpg",
+            "bytes": 270945,
+            "sha256": "d95ecccbc5b00c73c90118369f3ca15aea408d470ae54881991803f1fe36e7fb",
+            "contentType": "image/jpeg",
+            "sourceUrl": "https://x.com/TokenGremlin/status/2110756756200587414",
+            "sourceMediaId": "2110756598847078400",
+            "sourceFilename": "tokengremlin-lumen-isles-1-original.mp4",
+            "sourceSHA256": "3deb4caefec49f7bbe0c817980f6f5419769cbba4506febfbd307bb78fb6a935",
+            "frameSeconds": 87,
+            "dimensions": [
+              1920,
+              1080
+            ],
+            "decoded": true,
+            "visuallyReviewed": true,
+            "viewedWith": "view_image",
+            "observation": "完整游戏后段拉远镜头：海岛、灯塔扫光、木桥、树木和小屋，角色站在灯塔旁，三道彩色光柱可见。",
+            "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-18-second/tokengremlin-lumen-isles-frame-87s.jpg",
+            "extractionCommand": "ffmpeg -v error -ss 87 -i ORIGINAL -frames:v 1 -q:v 2 FRAME.jpg",
+            "videoModified": false,
+            "assetId": 652783838
+          },
+          "decoded": true,
+          "visuallyViewed": true
+        },
+        {
+          "caseId": "misat0x-boeing747-assembly",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-18-second/misat0x-boeing747-assembly-frame-57s.jpg",
+          "proof": {
+            "caseId": "misat0x-boeing747-assembly",
+            "filename": "misat0x-boeing747-assembly-frame-57s.jpg",
+            "bytes": 449999,
+            "sha256": "f2509fc12a52688d188d56d7f089dc7db984c4b9397d2c3023b15c9e6dc13792",
+            "contentType": "image/jpeg",
+            "sourceUrl": "https://x.com/misat0x/status/2108510836981445009",
+            "sourceMediaId": "2108508044682215424",
+            "sourceFilename": "misat0x-boeing747-assembly-1-original.mp4",
+            "sourceSHA256": "9d515d089b0caec420c20cb953c20fa59e87611c6aaa8ad5694fe09ae06724a6",
+            "frameSeconds": 57,
+            "dimensions": [
+              3840,
+              2160
+            ],
+            "decoded": true,
+            "visuallyReviewed": true,
+            "viewedWith": "view_image",
+            "observation": "装配末段可见完成外形的747-400、四具发动机、起落架和画面右上23,610计数；计数仅为录像内UI，未独立核算对象数。",
+            "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-18-second/misat0x-boeing747-assembly-frame-57s.jpg",
+            "extractionCommand": "ffmpeg -v error -ss 57 -i ORIGINAL -frames:v 1 -q:v 2 FRAME.jpg",
+            "videoModified": false,
+            "assetId": 652782768
+          },
+          "decoded": true,
+          "visuallyViewed": true
+        },
+        {
+          "caseId": "darren-marina-bay-f1",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2108464071578460161/img/3aA_z5KjwfFH92DL.jpg",
+          "proof": {
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2108464071578460161/img/3aA_z5KjwfFH92DL.jpg",
+            "httpStatus": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 124545,
+            "bytes": 124545,
+            "sha256": "43d1c07ec96397f33122c7853fbf153980686de9c3a887a91928e59f3d176ab6",
+            "fullGet": true,
+            "caseId": "darren-marina-bay-f1",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "frames": 1,
+            "decoded": true,
+            "visuallyReviewed": true,
+            "viewedWith": "view_image",
+            "observation": "原帖封面是Blender界面中的滨海湾三维模型，金沙酒店、摩天楼、滨海湾和道路清楚可见。"
+          },
+          "decoded": true,
+          "visuallyViewed": true
+        },
+        {
+          "caseId": "anhao-single-image-tabletop-reconstruction",
+          "url": "https://raw.githubusercontent.com/anhao-zhang/gpt6-blender-reconstruction/main/experiments/reconstruct_001/previews/image_occ8_render_final.png",
+          "proof": {
+            "name": "anhao-occlusion",
+            "url": "https://raw.githubusercontent.com/anhao-zhang/gpt6-blender-reconstruction/main/experiments/reconstruct_001/previews/image_occ8_render_final.png",
+            "status": 200,
+            "mime": "image/png",
+            "declaredBytes": "941408",
+            "bytes": 941408,
+            "width": 1000,
+            "height": 750,
+            "sha256": "e859d473c4f48d858ea73c7ac5dc85e344e239f2b7100063878349fe0193f4d5",
+            "decode": "Pillow Image.load complete",
+            "independentDecodeRecheck": "Pillow Image.load complete"
+          },
+          "decoded": true,
+          "visuallyViewed": true
+        },
+        {
+          "caseId": "real2gym-astra-scene-reconstruction",
+          "url": "https://real2gym.github.io/assets/media/e89ffc949fd4f3d224dcb20170373b83636398ebe4ca88e84565dda9ed8f3311.png",
+          "proof": {
+            "name": "real2gym-method",
+            "url": "https://real2gym.github.io/assets/media/e89ffc949fd4f3d224dcb20170373b83636398ebe4ca88e84565dda9ed8f3311.png",
+            "status": 200,
+            "mime": "image/png",
+            "declaredBytes": "1400416",
+            "bytes": 1400416,
+            "width": 2290,
+            "height": 1036,
+            "sha256": "e89ffc949fd4f3d224dcb20170373b83636398ebe4ca88e84565dda9ed8f3311",
+            "decode": "Pillow Image.load complete",
+            "independentDecodeRecheck": "Pillow Image.load complete"
+          },
+          "decoded": true,
+          "visuallyViewed": true
+        },
+        {
+          "caseId": "supermadmax-blender-three-studies",
+          "url": "https://cdn3.ldstatic.com/original/4X/8/0/0/8000f4795529d1178346af5e80d3ab902bf854f4.jpeg",
+          "proof": {
+            "name": "building",
+            "url": "https://cdn3.ldstatic.com/original/4X/8/0/0/8000f4795529d1178346af5e80d3ab902bf854f4.jpeg",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": "420332",
+            "bytes": 420332,
+            "sha256": "197f84c3947c34e67cf8a433e86790d9e5f6fb29cb3d2c376421761c0ca4b9f8",
+            "dimensions": [
+              1920,
+              1714
+            ],
+            "format": "JPEG",
+            "decoded": true
+          },
+          "decoded": true,
+          "visuallyViewed": true
+        }
+      ]
     }
   ]
 }

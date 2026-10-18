@@ -2,10 +2,16 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
-## 2026-10-18 · 5 个案例
+## 2026-10-18 · 11 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
+| [LUMEN ISLES：Astra 编排的灯塔海岛冒险 / LUMEN ISLES — A Lighthouse Island Adventure](https://carpentry-liu.github.io/awesome-astra-3d/cases/tokengremlin-lumen-isles/) | Token Gremlin / @TokenGremlin | 完整视频 · 提示词 / 过程 |
+| [Boeing 747-400：从骨架到整机的装配动画 / Boeing 747-400 — From Airframe to Assembly](https://carpentry-liu.github.io/awesome-astra-3d/cases/misat0x-boeing747-assembly/) | Misato / @misat0x | 完整视频 · 提示词 / 过程 |
+| [滨海湾夜赛：Blender 城市与 F1 整圈漫游 / Marina Bay Night Race — A Blender Circuit Fly-Through](https://carpentry-liu.github.io/awesome-astra-3d/cases/darren-marina-bay-f1/) | Darren Tjan / @DarrenTjan | 完整视频 · 提示词 / 过程 |
+| [单张桌面照片重建：遮挡物体与 Blender 迭代 / Single-Image Tabletop Reconstruction — Occlusion and Blender Refinement](https://carpentry-liu.github.io/awesome-astra-3d/cases/anhao-single-image-tabletop-reconstruction/) | anhao-zhang | 提示词 / 过程 |
+| [Real2Gym：机器人与人手视频的场景重建对照 / Real2Gym — Scene Reconstruction from Robot and Human Videos](https://carpentry-liu.github.io/awesome-astra-3d/cases/real2gym-astra-scene-reconstruction/) | Kerui Ren、Yingxiang Xu、Kaiwen Song、Linning Xu、Bo Dai、Mulin Yu、Tao Lu / Real2Gym 团队 | 源码 / 工程 · 提示词 / 过程 |
+| [老居民楼、配电箱与行星发动机：三组 Blender 建模 / Three Blender Studies — An Apartment Block, Cabinet and Planetary Engine](https://carpentry-liu.github.io/awesome-astra-3d/cases/supermadmax-blender-three-studies/) | supermadmax / LINUX DO | 提示词 / 过程 |
 | [Bloom Pool：漂浮花朵与池水互动对照 / Bloom Pool — Floating Flowers and Water](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-flower-pool/) | Vib3Coded / @vib3coded | 完整视频 |
 | [Ocean Shallows：浅海鳐鱼与水母场景对照 / Ocean Shallows — Rays and Jellyfish](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-ocean-rays-jellyfish/) | Vib3Coded / @vib3coded | 完整视频 |
 | [A Frontier for the Zeros：ζ函数曲面的三维镜头讲解 / A Frontier for the Zeros — A 3D Journey Through Zeta Landscapes](https://carpentry-liu.github.io/awesome-astra-3d/cases/harleycoops-astra-zeta-landscapes/) | HarleyCoops / Math-To-Manim | 源码 / 工程 · 提示词 / 过程 |

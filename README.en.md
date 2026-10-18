@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-18 (Asia/Shanghai)** · **349 Astra examples** · **102 source / project links** · **117 demo links** · **157 complete videos** · **12 separate references**.
+Updated **2026-10-18 (Asia/Shanghai)** · **355 Astra examples** · **103 source / project links** · **117 demo links** · **160 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -55,7 +55,7 @@ Production build screenshots from the October 18, 2026 iteration. Browse in Chin
 
 ![Mobile featured works and material navigation](docs/media/mobile-2026-10-18.jpg)
 
-[![Hina — Procedural Character with Umbrella and Four-Side Inspection — result and sources](docs/media/case-2026-10-18.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ecooxai-hina-procedural-character/)
+[![LUMEN ISLES — lighthouse islands, full recording and sources](docs/media/case-2026-10-18.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/tokengremlin-lumen-isles/)
 
 </details>
 
@@ -63,19 +63,19 @@ Production build screenshots from the October 18, 2026 iteration. Browse in Chin
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The October 18 update adds **5 works** and **2 complete X clips**, including Bloom Pool, Ocean Shallows, A Frontier for the Zeros, Hina, LegoBench. Existing previews passed this round of full retrieval and decoding. Publication and collection dates remain separate; external assets, tools and different model roles are identified.
+The October 18 updates add **11 works** and **5 complete X clips** in total. This second round adds LUMEN ISLES, a 747 assembly, Marina Bay, single-image tabletop reconstruction, Real2Gym and three Blender studies grouped as one entry, with **3 new full-length clips**. Black or empty starting posters use labeled outcome frames from the same complete recordings. Publication and collection dates stay separate; Tripo assets, sound tools and hybrid reconstruction roles are identified.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [LUMEN ISLES — A Lighthouse Island Adventure](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/tokengremlin-lumen-isles/) | Token Gremlin / @TokenGremlin | [Original](https://x.com/TokenGremlin/status/2110756756200587414) |
+| [Boeing 747-400 — From Airframe to Assembly](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/misat0x-boeing747-assembly/) | Misato / @misat0x | [Original](https://x.com/misat0x/status/2108510836981445009) |
+| [Marina Bay Night Race — A Blender Circuit Fly-Through](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/darren-marina-bay-f1/) | Darren Tjan / @DarrenTjan | [Original](https://x.com/DarrenTjan/status/2108466187529314717) |
+| [Single-Image Tabletop Reconstruction — Occlusion and Blender Refinement](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/anhao-single-image-tabletop-reconstruction/) | anhao-zhang | [Original](https://github.com/anhao-zhang/gpt6-blender-reconstruction) |
+| [Real2Gym — Scene Reconstruction from Robot and Human Videos](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/real2gym-astra-scene-reconstruction/) | Kerui Ren、Yingxiang Xu、Kaiwen Song、Linning Xu、Bo Dai、Mulin Yu、Tao Lu / Real2Gym 团队 | [Source](https://github.com/real2gym/Real2Gym) · [Original](https://github.com/real2gym/Real2Gym) |
+| [Three Blender Studies — An Apartment Block, Cabinet and Planetary Engine](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/supermadmax-blender-three-studies/) | supermadmax / LINUX DO | [Original](https://linux.do/t/topic/2859908) |
 | [Bloom Pool — Floating Flowers and Water](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-flower-pool/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2111609680057270501) |
 | [Ocean Shallows — Rays and Jellyfish](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-ocean-rays-jellyfish/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2111169828958449863) |
-| [A Frontier for the Zeros — A 3D Journey Through Zeta Landscapes](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/harleycoops-astra-zeta-landscapes/) | HarleyCoops / Math-To-Manim | [Source](https://github.com/HarleyCoops/Math-To-Manim/tree/main/papers/quasi-riemann) · [Original](https://github.com/HarleyCoops/Math-To-Manim/tree/main/papers/quasi-riemann) |
-| [Hina — Procedural Character with Umbrella and Four-Side Inspection](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ecooxai-hina-procedural-character/) | ecooxai | [Demo](https://ecooxai.github.io/hina-gpt6-astra-pro-chatgpt-threejs/) · [Source](https://github.com/ecooxai/hina-gpt6-astra-pro-chatgpt-threejs) · [Original](https://github.com/ecooxai/hina-gpt6-astra-pro-chatgpt-threejs) |
-| [LegoBench — A Brick-Built Chiron from Instructions](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/dalrupnik-legobench-chiron/) | Dal Rupnik / Unified Sense（Reddit: TheLegoless） | [Demo](https://legobench.net/runs/20261008-093809-16eaa2/lego-pdf/75878-bugatti-chiron/0) · [Original](https://unifiedsense.com/blog/legobench) |
-| [Jelly Bag — A Soft-Body Punching Bag](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-jelly-punching-bag/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2110850396864369001) |
-| [A Halloween Pumpkin — A Squishy Jack-o-Lantern](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/shmopix-halloween-pumpkin/) | shmopix / @shmopixbzn | [Original](https://x.com/shmopixbzn/status/2110851186005782691) |
-| [Pumpkin Jelly — A Squishy Pumpkin Wedge](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-jelly-pumpkin/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2110438822085312714) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)
