@@ -2,6 +2,16 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-18 · 5 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Bloom Pool：漂浮花朵与池水互动对照 / Bloom Pool — Floating Flowers and Water](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-flower-pool/) | Vib3Coded / @vib3coded | 完整视频 |
+| [Ocean Shallows：浅海鳐鱼与水母场景对照 / Ocean Shallows — Rays and Jellyfish](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-ocean-rays-jellyfish/) | Vib3Coded / @vib3coded | 完整视频 |
+| [A Frontier for the Zeros：ζ函数曲面的三维镜头讲解 / A Frontier for the Zeros — A 3D Journey Through Zeta Landscapes](https://carpentry-liu.github.io/awesome-astra-3d/cases/harleycoops-astra-zeta-landscapes/) | HarleyCoops / Math-To-Manim | 源码 / 工程 · 提示词 / 过程 |
+| [Hina：撑伞角色的程序建模与四面检查 / Hina — Procedural Character with Umbrella and Four-Side Inspection](https://carpentry-liu.github.io/awesome-astra-3d/cases/ecooxai-hina-procedural-character/) | ecooxai | 源码 / 工程 · 演示入口 |
+| [LegoBench：从说明书重建的积木 Chiron / LegoBench — A Brick-Built Chiron from Instructions](https://carpentry-liu.github.io/awesome-astra-3d/cases/dalrupnik-legobench-chiron/) | Dal Rupnik / Unified Sense（Reddit: TheLegoless） | 演示入口 |
+
 ## 2026-10-16 · 9 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

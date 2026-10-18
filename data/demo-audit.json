@@ -1,5 +1,5 @@
 {
-  "observedAt": "2026-10-16",
+  "observedAt": "2026-10-18",
   "method": "Incremental complete GET of new author demo entry pages; no full gameplay or independent reproduction. Historical observations retain their dates.",
   "results": [
     {
@@ -887,6 +887,28 @@
       "finalUrl": "https://architecture-studio.openai.chatgpt.site/",
       "observedAt": "2026-10-16",
       "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "result": "reachable",
+      "method": "Full HTTP GET; no independent playthrough or reproduction"
+    },
+    {
+      "id": "ecooxai-hina-procedural-character",
+      "url": "https://ecooxai.github.io/hina-gpt6-astra-pro-chatgpt-threejs/",
+      "status": 200,
+      "title": "Hina · GPT-6 Astra Pro · Three.js",
+      "finalUrl": "https://ecooxai.github.io/hina-gpt6-astra-pro-chatgpt-threejs/",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
+      "result": "reachable",
+      "method": "Full HTTP GET; no independent playthrough or reproduction"
+    },
+    {
+      "id": "dalrupnik-legobench-chiron",
+      "url": "https://legobench.net/runs/20261008-093809-16eaa2/lego-pdf/75878-bugatti-chiron/0",
+      "status": 200,
+      "title": "LegoBench - Bugatti Chiron from instructions — GPT 6 Astra (Ultra) build",
+      "finalUrl": "https://legobench.net/runs/20261008-093809-16eaa2/lego-pdf/75878-bugatti-chiron/0",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "result": "reachable",
       "method": "Full HTTP GET; no independent playthrough or reproduction"
     }

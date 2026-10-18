@@ -1,9 +1,9 @@
 {
-  "observedAt": "2026-10-16",
-  "method": "Full GET attempted for all 350 baseline previews: 345 decoded initially, 0 independently recovered. 9 distinct new works, 2 existing material updates and 3 temporarily unlisted records. All current previews decoded; new and supplementary results actually viewed. No third-party project independently rebuilt. 17 new/updated source URLs. Historical source and demo dates retained.",
-  "checkedUrls": 937,
+  "observedAt": "2026-10-18",
+  "method": "Full GET attempted for all 356 baseline previews: 356 decoded initially, 0 independently recovered. 5 distinct new works, 0 existing material updates and 0 temporarily unlisted records. All current previews decoded; new and supplementary results actually viewed. No third-party project independently rebuilt. 9 new/updated source URLs. Historical source and demo dates retained.",
+  "checkedUrls": 953,
   "counts": {
-    "reachable": 909,
+    "reachable": 925,
     "transport-error": 13,
     "restricted": 7,
     "http-error": 8
@@ -17,8 +17,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -51,8 +51,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -119,8 +119,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -136,8 +136,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -153,8 +153,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -170,8 +170,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -187,8 +187,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -221,8 +221,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -255,8 +255,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -306,8 +306,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -323,8 +323,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -340,8 +340,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -357,8 +357,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -374,8 +374,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -408,8 +408,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -442,8 +442,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -459,8 +459,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -512,8 +512,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -565,8 +565,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -618,8 +618,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -671,8 +671,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -724,8 +724,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -883,8 +883,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -936,8 +936,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -989,8 +989,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -1076,8 +1076,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -1093,8 +1093,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -1180,8 +1180,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -1214,8 +1214,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -1267,8 +1267,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -1320,8 +1320,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -1373,8 +1373,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -1426,8 +1426,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -1496,8 +1496,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -1549,8 +1549,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -1619,8 +1619,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -1672,8 +1672,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -1725,8 +1725,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -1778,8 +1778,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -1831,8 +1831,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -1922,8 +1922,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -1975,8 +1975,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -2026,8 +2026,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -2043,8 +2043,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -2094,8 +2094,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -2145,8 +2145,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -2215,8 +2215,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -2285,8 +2285,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -2319,8 +2319,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -2372,8 +2372,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -2389,8 +2389,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -2406,8 +2406,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -2440,8 +2440,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -2510,8 +2510,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -2580,13 +2580,13 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 45485,
-      "sha256": "d493b3730c507dab74d260f6d20e56ba496312e5afdfa8c8e49d73af995500dc",
+      "sha256": "8dfce6ea9fa5a5e9397365d0c2bbac62ae87987bd5d574fe015bf13325e4a14c",
       "result": "reachable"
     },
     {
@@ -2650,13 +2650,13 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
-      "bytes": 40395,
-      "sha256": "27ed7a00bc2c194e7571448183a8fffeb769e1feb57888b936ae0354a2ce66ef",
+      "bytes": 40381,
+      "sha256": "19622aaa7c1018a33542ae96de5e0eb417c0725f91874e57deefc040ef4a85bb",
       "result": "reachable"
     },
     {
@@ -2703,8 +2703,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -2773,8 +2773,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -2826,8 +2826,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -2896,13 +2896,13 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
-      "bytes": 95499,
-      "sha256": "1569a0fe90509ad6bc44d7fe51c4f95006038146ff0f1f265139813838fb880f",
+      "bytes": 95535,
+      "sha256": "18af0909674da8bc81fda0c6494c05910f879acfac854dc22dd5f7acb299052a",
       "result": "reachable"
     },
     {
@@ -2966,8 +2966,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -3019,8 +3019,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -3072,8 +3072,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -3125,8 +3125,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -3142,8 +3142,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -3244,8 +3244,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -3261,8 +3261,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -3278,8 +3278,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -3312,8 +3312,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -3329,8 +3329,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -3346,8 +3346,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -3380,8 +3380,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -3431,8 +3431,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -3482,8 +3482,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -3516,8 +3516,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -3550,8 +3550,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/gif",
@@ -3584,8 +3584,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -3618,8 +3618,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -3716,8 +3716,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -3750,8 +3750,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -3812,8 +3812,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -3875,8 +3875,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -3937,8 +3937,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -3988,8 +3988,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -4075,8 +4075,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -4128,8 +4128,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -4181,8 +4181,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -4234,8 +4234,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -4287,8 +4287,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -4340,8 +4340,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -4393,8 +4393,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -4477,8 +4477,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -4494,8 +4494,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -4539,8 +4539,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -4592,8 +4592,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -4609,8 +4609,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -4626,8 +4626,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -4643,8 +4643,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -4660,8 +4660,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -4677,8 +4677,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -4694,8 +4694,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -4711,8 +4711,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -4728,8 +4728,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -4745,8 +4745,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -4762,8 +4762,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -4779,8 +4779,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -4830,8 +4830,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -4917,8 +4917,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -5004,8 +5004,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -5091,8 +5091,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -5214,8 +5214,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -5284,8 +5284,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -5337,13 +5337,13 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
-      "bytes": 140311,
-      "sha256": "5881351d03e6d1815090561d33a18b628da9c0bed76ef100000c63a857821f93",
+      "bytes": 140332,
+      "sha256": "4c0da5c4379eee33a2cc15f8aa0dcaca590db141477d8661a288dd51c9246e43",
       "result": "reachable"
     },
     {
@@ -5390,8 +5390,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -5443,8 +5443,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -5496,8 +5496,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -5566,8 +5566,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -5636,8 +5636,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/gif",
@@ -5687,8 +5687,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -5721,8 +5721,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -5755,8 +5755,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -5772,8 +5772,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -5789,8 +5789,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -5806,8 +5806,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -5840,8 +5840,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -5891,8 +5891,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -5961,8 +5961,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -6048,8 +6048,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -6152,8 +6152,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -6205,8 +6205,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -6258,8 +6258,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -6275,8 +6275,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -6428,8 +6428,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -6479,8 +6479,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/svg+xml",
@@ -6547,8 +6547,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -6581,8 +6581,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -6615,8 +6615,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -6904,8 +6904,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -6921,8 +6921,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -6973,8 +6973,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -7008,8 +7008,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -7025,8 +7025,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -7060,8 +7060,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -7094,8 +7094,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -7129,8 +7129,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -7164,8 +7164,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -7181,8 +7181,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -7198,8 +7198,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -7215,8 +7215,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -7283,8 +7283,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -7300,8 +7300,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -7352,8 +7352,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -7403,8 +7403,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -7420,8 +7420,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -7455,8 +7455,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -7506,8 +7506,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -7523,8 +7523,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -7575,8 +7575,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -7592,8 +7592,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -7627,8 +7627,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -7662,8 +7662,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -7679,8 +7679,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -7696,13 +7696,13 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
       "bytes": 77395,
-      "sha256": "0da92a87e2cfefd4088b226ccf8d5e8dbd5b9938d4a76f0104f7fbdffd12c3fa",
+      "sha256": "70d12968dba2b69252706a38744e32507e9a89805d101548889780caff983d58",
       "result": "reachable"
     },
     {
@@ -7731,8 +7731,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -7794,8 +7794,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -7829,8 +7829,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -7846,8 +7846,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -7915,8 +7915,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -7984,8 +7984,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -8018,8 +8018,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -8070,8 +8070,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -8104,8 +8104,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -8139,8 +8139,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -8191,8 +8191,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -8243,8 +8243,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -8291,8 +8291,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -8343,8 +8343,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -8377,8 +8377,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -8429,8 +8429,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -8498,8 +8498,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -8635,8 +8635,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -8707,8 +8707,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -8745,8 +8745,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -8796,8 +8796,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -8864,8 +8864,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -8936,8 +8936,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -8974,8 +8974,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -9053,8 +9053,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -9125,8 +9125,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -9162,8 +9162,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -9341,8 +9341,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -9391,8 +9391,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -9444,8 +9444,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -9544,8 +9544,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -9597,8 +9597,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -9646,8 +9646,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -9715,8 +9715,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -9865,8 +9865,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -9902,8 +9902,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -9981,8 +9981,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -10158,8 +10158,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -10286,8 +10286,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -10496,8 +10496,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -10899,8 +10899,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -11211,8 +11211,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -11483,8 +11483,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -11828,8 +11828,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -12000,8 +12000,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -12310,8 +12310,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -12465,8 +12465,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -12628,8 +12628,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -12745,8 +12745,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -12762,8 +12762,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -12779,8 +12779,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -12796,8 +12796,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -12813,8 +12813,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -12830,8 +12830,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -12858,8 +12858,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -12875,8 +12875,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -12892,8 +12892,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -12909,8 +12909,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -12926,8 +12926,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -12943,8 +12943,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/gif",
@@ -12960,8 +12960,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -12977,8 +12977,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -12994,8 +12994,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13011,8 +13011,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13028,8 +13028,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -13045,8 +13045,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13062,8 +13062,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13079,8 +13079,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -13096,8 +13096,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13113,8 +13113,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13130,8 +13130,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13147,8 +13147,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13175,8 +13175,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13192,8 +13192,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -13209,8 +13209,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13226,8 +13226,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13243,8 +13243,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13260,8 +13260,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -13277,8 +13277,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -13294,8 +13294,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -13311,8 +13311,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -13328,8 +13328,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13345,8 +13345,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -13362,8 +13362,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -13379,8 +13379,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -13396,8 +13396,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13413,8 +13413,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -13430,8 +13430,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13447,8 +13447,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13464,8 +13464,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -13498,8 +13498,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -13515,8 +13515,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -13532,8 +13532,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13549,8 +13549,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13566,8 +13566,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13583,8 +13583,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13600,8 +13600,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13617,8 +13617,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -13634,8 +13634,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13651,8 +13651,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13668,8 +13668,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13685,8 +13685,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13702,8 +13702,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13719,8 +13719,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13736,8 +13736,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13753,8 +13753,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13770,8 +13770,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpg",
@@ -13787,8 +13787,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpg",
@@ -13804,8 +13804,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -13821,8 +13821,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -13838,8 +13838,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -13855,8 +13855,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -13872,8 +13872,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -13889,8 +13889,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -13906,8 +13906,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13923,8 +13923,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -13940,8 +13940,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13957,8 +13957,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -13974,8 +13974,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -14260,8 +14260,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -14277,8 +14277,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -14294,8 +14294,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -14311,8 +14311,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -14328,8 +14328,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -14345,8 +14345,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -14362,8 +14362,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -14379,8 +14379,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -14396,8 +14396,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -14413,8 +14413,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -14430,8 +14430,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -14447,8 +14447,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -14464,8 +14464,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -14481,8 +14481,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/gif",
@@ -14498,8 +14498,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -14515,8 +14515,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -14532,8 +14532,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -15016,8 +15016,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -15033,8 +15033,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -15050,8 +15050,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -15067,8 +15067,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -15084,8 +15084,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -15101,8 +15101,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -15118,8 +15118,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -15135,8 +15135,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -15152,8 +15152,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/gif",
@@ -15169,8 +15169,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -15186,8 +15186,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -15203,8 +15203,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -15220,8 +15220,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -15237,8 +15237,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/gif",
@@ -15566,8 +15566,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -15583,8 +15583,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -15617,8 +15617,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -15634,8 +15634,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -15651,8 +15651,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -15685,8 +15685,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -15719,8 +15719,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpg",
@@ -16039,8 +16039,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -16056,8 +16056,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -16073,8 +16073,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -16141,8 +16141,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -16158,8 +16158,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -16175,8 +16175,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpg",
@@ -16410,8 +16410,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -16427,8 +16427,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -16444,8 +16444,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -16461,8 +16461,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -16495,8 +16495,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/gif",
@@ -16546,8 +16546,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -16597,8 +16597,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -16614,8 +16614,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -16943,8 +16943,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -16960,8 +16960,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -16977,8 +16977,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -16994,8 +16994,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -17011,8 +17011,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -17028,8 +17028,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -17045,8 +17045,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -17079,8 +17079,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -17096,8 +17096,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -17147,8 +17147,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -17539,8 +17539,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -17556,8 +17556,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -17573,8 +17573,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -17590,8 +17590,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -17607,8 +17607,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -17624,8 +17624,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -17641,8 +17641,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -17658,8 +17658,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpeg",
@@ -17675,8 +17675,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/webp",
@@ -17709,8 +17709,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/png",
@@ -17760,8 +17760,8 @@
           "field": "imageUrl"
         }
       ],
-      "observedAt": "2026-10-16",
-      "checkedAtUtc": "2026-10-16T02:59:15.457249+00:00",
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
       "status": 200,
       "contentType": "image/jpg",
@@ -18092,6 +18092,301 @@
       "title": "OpenAI showcase - Architecture Studio",
       "result": "reachable",
       "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2111169739309424640/img/mg4gVVzScgHVi6gB.jpg",
+      "uses": [
+        {
+          "caseId": "vib3coded-ocean-rays-jellyfish",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
+      "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 136904,
+      "sha256": "4418112261f67e3c5d2131bb760e060856ab819e36371059eac1701e3c3b2660",
+      "result": "reachable"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2111609458598055936/img/e0gl94LtUCvlggIM.jpg",
+      "uses": [
+        {
+          "caseId": "vib3coded-flower-pool",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
+      "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 207884,
+      "sha256": "b04e4319153f067340b7dd91da79f4c4e2182d7ac6141922227989aad532b0e0",
+      "result": "reachable"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ecooxai/hina-gpt6-astra-pro-chatgpt-threejs/gpt6-astra-pro-chatgpt-hina-release/showcase/Hina_GPT6_Astra_Pro_ChatGPT_ThreeJS_front.png",
+      "uses": [
+        {
+          "caseId": "ecooxai-hina-procedural-character",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
+      "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 412912,
+      "sha256": "90f8ced7e59f1918d482b66249b0aec1bf5b41dc513e25b80b8005b6fb0e2527",
+      "result": "reachable"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ecooxai/hina-gpt6-astra-pro-chatgpt-threejs/gpt6-astra-pro-chatgpt-hina-release/showcase/Hina_GPT6_Astra_Pro_ChatGPT_ThreeJS_four_views_character.png",
+      "uses": [
+        {
+          "caseId": "ecooxai-hina-procedural-character",
+          "field": "evidenceUrls"
+        }
+      ],
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
+      "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 623472,
+      "sha256": "8a104a811ef836a6eaaf6d613dfc9b7453afc245e5374d9bf6dc70b981266e67",
+      "result": "reachable"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/HarleyCoops/Math-To-Manim/main/docs/assets/quasi-riemann-execution-landscape.png",
+      "uses": [
+        {
+          "caseId": "harleycoops-astra-zeta-landscapes",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
+      "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 522936,
+      "sha256": "6beab84246bf5157de50945dc725b5ed70da0f529c2de81211b8f56615660e14",
+      "result": "reachable"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/HarleyCoops/Math-To-Manim/main/docs/assets/quasi-riemann-film-contact-sheet.png",
+      "uses": [
+        {
+          "caseId": "harleycoops-astra-zeta-landscapes",
+          "field": "evidenceUrls"
+        }
+      ],
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
+      "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 438699,
+      "sha256": "c8ef63796739f35350f6fad96b41f49135de40cec529348659547893ab5f5dfd",
+      "result": "reachable"
+    },
+    {
+      "url": "https://legobench.net/api/artifacts/20261008-093809-16eaa2/lego-pdf/75878-bugatti-chiron/0/canonical/iso.png",
+      "uses": [
+        {
+          "caseId": "dalrupnik-legobench-chiron",
+          "field": "imageUrl"
+        }
+      ],
+      "observedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
+      "method": "Full GET and complete image decoding; new and supplementary images actually viewed",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 153133,
+      "sha256": "1aef41afd8c0ded007a15b0ceeca77c6e502e5b6fdd47f20c9649539013a9083",
+      "result": "reachable"
+    },
+    {
+      "url": "https://x.com/vib3coded/status/2111609680057270501",
+      "uses": [
+        {
+          "caseId": "vib3coded-flower-pool",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "vib3coded-flower-pool",
+          "field": "videoUrl"
+        }
+      ],
+      "observedAt": "2026-10-18",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 151292,
+      "sha256": "08d172f461a043292dd86ecbc90d5001892a5fc53410397b6bfd21a0a1fc2d41",
+      "finalUrl": "https://x.com/vib3coded/status/2111609680057270501",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://x.com/vib3coded/status/2111169828958449863",
+      "uses": [
+        {
+          "caseId": "vib3coded-ocean-rays-jellyfish",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "vib3coded-ocean-rays-jellyfish",
+          "field": "videoUrl"
+        }
+      ],
+      "observedAt": "2026-10-18",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 157434,
+      "sha256": "e1e35134c9e88df21e3476c7a416edfe1a7b7d1bc1d77b8e1b074ec6d82cfa35",
+      "finalUrl": "https://x.com/vib3coded/status/2111169828958449863",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://github.com/HarleyCoops/Math-To-Manim/tree/main/papers/quasi-riemann",
+      "uses": [
+        {
+          "caseId": "harleycoops-astra-zeta-landscapes",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "harleycoops-astra-zeta-landscapes",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-10-18",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 259326,
+      "sha256": "8d72debd52784f7bd3d3c1fd9a4027ef7cad37f4d376b9e9302156fcce3a43f1",
+      "finalUrl": "https://github.com/HarleyCoops/Math-To-Manim/tree/main/papers/quasi-riemann",
+      "title": "Math-To-Manim/papers/quasi-riemann at main · HarleyCoops/Math-To-Manim · GitHub",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://github.com/HarleyCoops/Math-To-Manim/blob/main/papers/quasi-riemann/prompt.txt",
+      "uses": [
+        {
+          "caseId": "harleycoops-astra-zeta-landscapes",
+          "field": "promptUrl"
+        }
+      ],
+      "observedAt": "2026-10-18",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 234515,
+      "sha256": "beceb5a85771b1653f8612f9d2a03ba46bdc8178e37001d97b5aadb07600b03b",
+      "finalUrl": "https://github.com/HarleyCoops/Math-To-Manim/blob/main/papers/quasi-riemann/prompt.txt",
+      "title": "Math-To-Manim/papers/quasi-riemann/prompt.txt at main · HarleyCoops/Math-To-Manim · GitHub",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://github.com/HarleyCoops/Math-To-Manim/releases/download/quasi-riemann-film-2026-10-07/quasi-riemann-720p.mp4",
+      "uses": [
+        {
+          "caseId": "harleycoops-astra-zeta-landscapes",
+          "field": "videoUrl"
+        }
+      ],
+      "observedAt": "2026-10-18",
+      "status": 200,
+      "contentType": "application/octet-stream",
+      "bytes": 18765621,
+      "sha256": "8fa639ed242e14f9224add6c7da6464af0f0ab20ccc2933a3b26da7e725dd142",
+      "finalUrl": "https://github.com/HarleyCoops/Math-To-Manim/releases/download/quasi-riemann-film-2026-10-07/quasi-riemann-720p.mp4",
+      "title": null,
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://github.com/ecooxai/hina-gpt6-astra-pro-chatgpt-threejs",
+      "uses": [
+        {
+          "caseId": "ecooxai-hina-procedural-character",
+          "field": "sourceUrl"
+        },
+        {
+          "caseId": "ecooxai-hina-procedural-character",
+          "field": "repositoryUrl"
+        }
+      ],
+      "observedAt": "2026-10-18",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 318192,
+      "sha256": "195d5875bf29475fdedee237ab0a95864fef4d5bf86d7ad9a93db02b581e9452",
+      "finalUrl": "https://github.com/ecooxai/hina-gpt6-astra-pro-chatgpt-threejs",
+      "title": "GitHub - ecooxai/hina-gpt6-astra-pro-chatgpt-threejs: Original procedural Hina character viewer, models and credited showcases built in Three.js. · GitHub",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://ecooxai.github.io/hina-gpt6-astra-pro-chatgpt-threejs/",
+      "uses": [
+        {
+          "caseId": "ecooxai-hina-procedural-character",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-10-18",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 5181,
+      "sha256": "e784050627c5aada7c1c3fe21e4091b6f1bf390c31bd1c7840c49e9e1d5fe8ed",
+      "finalUrl": "https://ecooxai.github.io/hina-gpt6-astra-pro-chatgpt-threejs/",
+      "title": "Hina · GPT-6 Astra Pro · Three.js",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://unifiedsense.com/blog/legobench",
+      "uses": [
+        {
+          "caseId": "dalrupnik-legobench-chiron",
+          "field": "sourceUrl"
+        }
+      ],
+      "observedAt": "2026-10-18",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 33360,
+      "sha256": "eedd7443f96be1905c4f5d6a8252fc9507431fda680da16f1284cdf55c6f3f92",
+      "finalUrl": "https://unifiedsense.com/blog/legobench",
+      "title": "LegoBench - AI agents building LEGO cars | Unified Sense",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
+    },
+    {
+      "url": "https://legobench.net/runs/20261008-093809-16eaa2/lego-pdf/75878-bugatti-chiron/0",
+      "uses": [
+        {
+          "caseId": "dalrupnik-legobench-chiron",
+          "field": "demoUrl"
+        }
+      ],
+      "observedAt": "2026-10-18",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 147042,
+      "sha256": "0dcae1c5b149dc49254b9986635b46caa14657005ce1aa121b5e587c94a54c51",
+      "finalUrl": "https://legobench.net/runs/20261008-093809-16eaa2/lego-pdf/75878-bugatti-chiron/0",
+      "title": "LegoBench - Bugatti Chiron from instructions — GPT 6 Astra (Ultra) build",
+      "result": "reachable",
+      "method": "Full HTTP GET; author project not reproduced"
     }
   ],
   "previousImageUrls": [
@@ -18346,6 +18641,19 @@
       "resultingCases": 356,
       "validatedCurrentCasePreviews": 356,
       "sourceUrlCount": 17,
+      "scope": "Availability of current previews and new material sources; not a complete historical source or gameplay re-audit."
+    },
+    {
+      "checkedAt": "2026-10-18",
+      "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
+      "round": "daily",
+      "baselineCases": 356,
+      "newCaseCount": 5,
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "resultingCases": 361,
+      "validatedCurrentCasePreviews": 361,
+      "sourceUrlCount": 9,
       "scope": "Availability of current previews and new material sources; not a complete historical source or gameplay re-audit."
     }
   ]

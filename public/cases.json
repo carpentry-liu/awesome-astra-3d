@@ -1,5 +1,257 @@
 [
   {
+    "id": "vib3coded-flower-pool",
+    "title": "Bloom Pool：漂浮花朵与池水互动对照",
+    "titleEn": "Bloom Pool — Floating Flowers and Water",
+    "category": "交互与工具",
+    "summary": "花朵漂浮在带瓷砖边框的三维泳池中。上方 Astra 场景展示多种花朵、池底焦散和添加花朵的控制面板；下方 Opus 是同题独立结果。中帧花朵数量增多，记录可见的画面变化。",
+    "imageCaption": "原作者完整对照封面：上方 ChatGPT-6 Astra，下方 Claude Opus 5.5；池水和花朵分别来自两份独立实现。 附原帖完整录像与原版下载。",
+    "outcome": "可查看约18秒完整原帖录像，封面与中帧的 Astra 花朵数量不同。作者主观认为 Opus 水体运动更自然；费用与偏好仅是作者这次任务陈述，未独立测量物理、性能或费用，也未取得源码、完整提示词和在线试玩。",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（独立对照）",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Vib3Coded / @vib3coded",
+    "sourceUrl": "https://x.com/vib3coded/status/2111609680057270501",
+    "sourceDate": "2026-10-18",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-18",
+    "addedAt": "2026-10-18",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者X完整HTML、精确同帖FxTwitter辅助元数据、作者、UTC/上海日期和来源视频ID一致。封面及中帧上方为Astra，下方Opus为独立实现；不把作者费用、偏好或任务排名当独立评测。",
+    "sourceAccess": "原作者X完整GET200 / text/html / 151,275字节，作者及时间与精确同帖辅助元数据一致。主成果图完整GET200 / image/jpeg / 948×1200 / 207,884字节，Content-Length、SHA-256、Pillow完整解码与实际查看通过。同帖最高平台原版及较小完整平台版保存全部时长，来源媒体ID、时长、MIME、字节与SHA-256匹配；严格FFmpeg全长null解码exit0且stderr空，封面及中帧实际查看，未剪辑或转码。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2111609458598055936/img/e0gl94LtUCvlggIM.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/vib3coded/status/2111609680057270501",
+    "repositoryUrl": null,
+    "outputType": [
+      "三维互动对照",
+      "作者完整录像",
+      "完整运行录像"
+    ],
+    "promptAvailability": "unpublished",
+    "promptExcerpt": null,
+    "promptUrl": null,
+    "promptSummary": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/vib3coded/status/2111609680057270501"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库MIT。保存原平台完整MP4未剪辑或转码，保留原创来源及移除入口；归档不代表另行取得再发布许可。 平台原版与较小完整播放版保存至公开 Release，未剪辑或转码。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-flower-pool-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-18/vib3coded-flower-pool-1-original.mp4",
+        "durationSeconds": 18.05,
+        "bytes": 24918545,
+        "sha256": "6a64178f5db1256fd9b323408151da24af8a1cef402a0f6b240f6ff0297c5128",
+        "sourceUrl": "https://x.com/vib3coded/status/2111609680057270501",
+        "label": "Bloom Pool — Floating Flowers and Water",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111609458598055936/img/e0gl94LtUCvlggIM.jpg"
+      }
+    ]
+  },
+  {
+    "id": "vib3coded-ocean-rays-jellyfish",
+    "title": "Ocean Shallows：浅海鳐鱼与水母场景对照",
+    "titleEn": "Ocean Shallows — Rays and Jellyfish",
+    "category": "程序化场景",
+    "summary": "俯视浅海里包含沙岸、海草、鳐鱼与水母。上方 Astra 使用淡蓝水体和生物卡片控制面板，下方 Opus 是独立实现。原作者记录了 Astra 追加一轮水下观感修改的过程。",
+    "imageCaption": "原作者完整对照封面：上方 ChatGPT-6 Astra，下方 Claude Opus 5.5；只把上半浅海、生物和控制面板归于 Astra。 附原帖完整录像与原版下载。",
+    "outcome": "可查看约18秒完整对照录像，中帧上方鳐鱼、水母位置变化；下方更强的水面高光和飞溅属于 Opus。作者称 Astra 经一次追加修改，并给出任务费用和个人偏好；不当作独立模型排名、水下物理验证或可复现成本，尚无源码、在线试玩或原始提示词。",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（独立对照）",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Vib3Coded / @vib3coded",
+    "sourceUrl": "https://x.com/vib3coded/status/2111169828958449863",
+    "sourceDate": "2026-10-17",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-18",
+    "addedAt": "2026-10-18",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者X完整HTML、精确同帖FxTwitter辅助元数据、作者、UTC/上海日期和来源视频ID一致。封面及中帧上方为Astra，下方Opus为独立实现；不把作者费用、偏好或任务排名当独立评测。",
+    "sourceAccess": "原作者X完整GET200 / text/html / 157,434字节，作者及时间与精确同帖辅助元数据一致。主成果图完整GET200 / image/jpeg / 948×1200 / 136,904字节，Content-Length、SHA-256、Pillow完整解码与实际查看通过。同帖最高平台原版及较小完整平台版保存全部时长，来源媒体ID、时长、MIME、字节与SHA-256匹配；严格FFmpeg全长null解码exit0且stderr空，封面及中帧实际查看，未剪辑或转码。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2111169739309424640/img/mg4gVVzScgHVi6gB.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/vib3coded/status/2111169828958449863",
+    "repositoryUrl": null,
+    "outputType": [
+      "三维互动对照",
+      "作者完整录像",
+      "完整运行录像"
+    ],
+    "promptAvailability": "unpublished",
+    "promptExcerpt": null,
+    "promptUrl": null,
+    "promptSummary": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/vib3coded/status/2111169828958449863"
+    ],
+    "licenseNotes": "作品与第三方媒体保留原作者及相关权利人权利，公开可见不等于自由再分发，不纳入本库MIT。保存原平台完整MP4未剪辑或转码，保留原创来源及移除入口；归档不代表另行取得再发布许可。 平台原版与较小完整播放版保存至公开 Release，未剪辑或转码。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-ocean-rays-jellyfish-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-18/vib3coded-ocean-rays-jellyfish-1-original.mp4",
+        "durationSeconds": 18.05,
+        "bytes": 19430182,
+        "sha256": "7f81d44478d3d942a3f3cf6c05df05eaaa9c2d6812e291ac0563274be285c870",
+        "sourceUrl": "https://x.com/vib3coded/status/2111169828958449863",
+        "label": "Ocean Shallows — Rays and Jellyfish",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111169739309424640/img/mg4gVVzScgHVi6gB.jpg"
+      }
+    ]
+  },
+  {
+    "group": "astra",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-18",
+    "addedAt": "2026-10-18",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub",
+      "Website"
+    ],
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "videoUrl": "https://github.com/HarleyCoops/Math-To-Manim/releases/download/quasi-riemann-film-2026-10-07/quasi-riemann-720p.mp4",
+    "id": "harleycoops-astra-zeta-landscapes",
+    "title": "A Frontier for the Zeros：ζ函数曲面的三维镜头讲解",
+    "titleEn": "A Frontier for the Zeros — A 3D Journey Through Zeta Landscapes",
+    "category": "科学与教育",
+    "author": "HarleyCoops / Math-To-Manim",
+    "sourceUrl": "https://github.com/HarleyCoops/Math-To-Manim/tree/main/papers/quasi-riemann",
+    "repositoryUrl": "https://github.com/HarleyCoops/Math-To-Manim/tree/main/papers/quasi-riemann",
+    "demoUrl": null,
+    "modelLabel": "GPT-6 Astra（场景创作）· Manim（确定性渲染）",
+    "evidenceNote": "作者剧集说明、场景与完成清单将创作归属 GPT-6 Astra，Manim 在无新模型调用的流程中渲染影片；清单 review_status 为 not_reviewed，Jev 关闭。作者关于数学手稿的归属、定理与证明不作为本库核定事实；只收录三维可视化作品，不验证相关数学结论。",
+    "summary": "以青色曲面、金色轨迹和空间平面呈现复函数数值景观，相机穿行于曲面与公式之间；公开场景代码、执行静帧和221秒完整影片。",
+    "sourceAccess": "完整 GET 作者剧集说明、Manim 场景、执行静帧清单、云渲染清单与完整 MP4；成果图核对 MIME / 长度 / SHA-256、Pillow 全帧解码并实际查看。18,765,621字节影片 SHA-256 与作者完成清单完全一致，FFmpeg 严格完整解码退出0、stderr空。未运行作者 Python 或验证数学证明。",
+    "promptAvailability": "linked",
+    "promptUrl": "https://github.com/HarleyCoops/Math-To-Manim/blob/main/papers/quasi-riemann/prompt.txt",
+    "imageUrl": "https://raw.githubusercontent.com/HarleyCoops/Math-To-Manim/main/docs/assets/quasi-riemann-execution-landscape.png",
+    "imageKind": "render",
+    "imageCaption": "作者实际 Manim 执行静帧：函数值高度曲面与轨迹。补充图为完成影片的12个采样时刻；不是参考输入、宣传插画或数学证明。",
+    "outputType": [
+      "Manim 三维函数曲面影片",
+      "可编辑 Python 场景",
+      "221秒原作者完整影片入口"
+    ],
+    "evidenceUrls": [
+      "https://raw.githubusercontent.com/HarleyCoops/Math-To-Manim/main/papers/quasi-riemann/README.md",
+      "https://raw.githubusercontent.com/HarleyCoops/Math-To-Manim/main/papers/quasi-riemann/production/cloud-render-manifest.json",
+      "https://raw.githubusercontent.com/HarleyCoops/Math-To-Manim/main/papers/quasi-riemann/scene.py",
+      "https://raw.githubusercontent.com/HarleyCoops/Math-To-Manim/main/papers/quasi-riemann/production/execution-stills.json",
+      "https://raw.githubusercontent.com/HarleyCoops/Math-To-Manim/main/docs/assets/quasi-riemann-film-contact-sheet.png"
+    ],
+    "licenseNotes": "源码按原仓库 MIT 说明，数学手稿、第三方材料与成果媒体保留各自权利；本库署名外链，不把它们纳入本库 MIT。",
+    "outcome": "实际查看1920×1080曲面静帧与1280×816影片采样图，确认具有空间曲面和镜头构图。完整影片字节与作者清单一致并严格解码通过，未进行原生浏览器连续播放或独立复现。影片完成时间10月7日仅代表完成记录，不推断首次公开日期；sourceDate 保持 null。"
+  },
+  {
+    "group": "astra",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-18",
+    "addedAt": "2026-10-18",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub",
+      "Website"
+    ],
+    "promptExcerpt": null,
+    "promptSummary": null,
+    "videoUrl": null,
+    "id": "ecooxai-hina-procedural-character",
+    "title": "Hina：撑伞角色的程序建模与四面检查",
+    "titleEn": "Hina — Procedural Character with Umbrella and Four-Side Inspection",
+    "category": "产品与角色",
+    "author": "ecooxai",
+    "sourceUrl": "https://github.com/ecooxai/hina-gpt6-astra-pro-chatgpt-threejs",
+    "repositoryUrl": "https://github.com/ecooxai/hina-gpt6-astra-pro-chatgpt-threejs",
+    "demoUrl": "https://ecooxai.github.io/hina-gpt6-astra-pro-chatgpt-threejs/",
+    "modelLabel": "GPT-6 Astra Pro · ChatGPT · Three.js",
+    "evidenceNote": "作者 README 与导出清单明确 Astra Pro 经 ChatGPT 生成角色及雨伞的 JavaScript 几何。单张插画是参考输入，侧背面为程序构造；转台只移动相机，主 GLB 是静态姿态，未含骨骼、蒙皮或动画。作者视觉自评分和参数拟合次数不代表本库测量。",
+    "summary": "浅蓝雨伞、双马尾与短裤球鞋构成可环绕检查的三维角色；公开查看器可切换四面和人像取景，工程提供静态 GLB 导出与校验记录。",
+    "sourceAccess": "完整 GET 作者 README、查看器 HTML、导出清单、主 GLB 及两张成果 PNG；核对8,925,984字节 GLB 的 v2 容器、声明长度与作者 SHA-256。两张成果图核对 MIME / Content-Length / SHA-256、Pillow 全帧解码并实际查看。未运行作者工程或独立验证几何与性能。",
+    "promptAvailability": "not-found",
+    "promptUrl": null,
+    "imageUrl": "https://raw.githubusercontent.com/ecooxai/hina-gpt6-astra-pro-chatgpt-threejs/gpt6-astra-pro-chatgpt-hina-release/showcase/Hina_GPT6_Astra_Pro_ChatGPT_ThreeJS_front.png",
+    "imageKind": "render",
+    "imageCaption": "作者程序角色的实际正面渲染：Hina 持浅蓝雨伞；补充四视图隐藏雨伞以便看身体。参考插画未作为成果图，转台也不是角色骨骼动画。",
+    "outputType": [
+      "Three.js 程序角色",
+      "静态姿态 GLB",
+      "四面检查与相机转台"
+    ],
+    "evidenceUrls": [
+      "https://raw.githubusercontent.com/ecooxai/hina-gpt6-astra-pro-chatgpt-threejs/gpt6-astra-pro-chatgpt-hina-release/README.md",
+      "https://raw.githubusercontent.com/ecooxai/hina-gpt6-astra-pro-chatgpt-threejs/gpt6-astra-pro-chatgpt-hina-release/exports/model-manifest.json",
+      "https://raw.githubusercontent.com/ecooxai/hina-gpt6-astra-pro-chatgpt-threejs/gpt6-astra-pro-chatgpt-hina-release/exports/Hina_GPT6_Astra_Pro_ChatGPT_ThreeJS.glb",
+      "https://raw.githubusercontent.com/ecooxai/hina-gpt6-astra-pro-chatgpt-threejs/gpt6-astra-pro-chatgpt-hina-release/showcase/Hina_GPT6_Astra_Pro_ChatGPT_ThreeJS_four_views_character.png"
+    ],
+    "licenseNotes": "角色与媒体保留原作者及参考插画权利；本轮未找到工程独立许可，公开源码不等于可任意商用或再分发。Three.js 按其自身许可保留署名。",
+    "outcome": "实际查看850×1200正面与1600×1600四视图。主 GLB 完整下载及 SHA-256 与作者清单一致，容器检查不等于本库重载或验证全部343,720三角形。源码和演示入口可达，未独立试玩；最早公开日期未确认，保留 null。"
+  },
+  {
+    "id": "dalrupnik-legobench-chiron",
+    "title": "LegoBench：从说明书重建的积木 Chiron",
+    "titleEn": "LegoBench — A Brick-Built Chiron from Instructions",
+    "group": "astra",
+    "category": "CAD / Blender",
+    "platform": "Blog",
+    "platforms": [
+      "Blog",
+      "Website",
+      "Reddit"
+    ],
+    "author": "Dal Rupnik / Unified Sense（Reddit: TheLegoless）",
+    "sourceUrl": "https://unifiedsense.com/blog/legobench",
+    "sourceDate": null,
+    "secondaryPublishedAt": "2026-10-15",
+    "observedAt": "2026-10-18",
+    "addedAt": "2026-10-18",
+    "modelLabel": "GPT-6 Astra Ultra · Codex · LeoCAD / LDraw（独立模型对照中的一次运行）",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "基准作者文章明确 Astra 经 Codex 生成该 Bugatti Chiron；精确运行页标注 gpt-6-astra / Ultra、Codex v0.160.1，并将成果图连接至同一运行。全站其他模型与车辆不全部归于 Astra，也不按每次运行重复计数。",
+    "sourceAccess": "原作者博客、结果画廊和精确运行页完整 GET200；同次实际成果 PNG 为1024×768、153,133字节，MIME / Content-Length / SHA-256 / Pillow全帧解码与实际查看通过。作者博客直接嵌入的PNG与精确运行成果逐字节hash相同。博客JSON-LD首发2026-10-15T12:00:00Z，上海同日20:00；运行页10月8日时间仅视为运行记录，最早公开日期未确认，sourceDate保持null。",
+    "summary": "以蓝黑色 Chiron 积木车展示说明书到 LDraw 模型的重建任务；同一基准还区分说明书、成品照片与实车照片三种输入，以及结构匹配与外观相似度两种评价。",
+    "outputType": [
+      "LDraw 积木 CAD 重建",
+      "实际等距成果渲染",
+      "原作者运行记录与多角度查看器"
+    ],
+    "promptAvailability": "not-public",
+    "promptExcerpt": null,
+    "promptSummary": "原文说明任务目标和LeoCAD/LDraw沙箱交付要求；运行页提供输入说明书及结果，未确认公开逐字完整原始提示词。",
+    "promptUrl": null,
+    "imageUrl": "https://legobench.net/api/artifacts/20261008-093809-16eaa2/lego-pdf/75878-bugatti-chiron/0/canonical/iso.png",
+    "imageKind": "render",
+    "imageCaption": "该次 Astra Ultra / Codex 实际等距成果：蓝黑色积木 Chiron，含半透明座舱与可见积木边线。不是官方说明书输入图，也不是全站其他模型的输出。",
+    "demoUrl": "https://legobench.net/runs/20261008-093809-16eaa2/lego-pdf/75878-bugatti-chiron/0",
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "evidenceUrls": [
+      "https://legobench.net/",
+      "https://cdn.unifiedsense.com/legobench-bugatti.png",
+      "https://www.reddit.com/r/claude/comments/1x6s6bu/how_good_does_ai_build_real_lego_models_opus_is/"
+    ],
+    "licenseNotes": "成果图、LDraw零件、车型及LEGO相关商标保留原权利人权利；本库仅署名外链，未取得独立商业许可，亦不表示LEGO或汽车品牌认可。",
+    "outcome": "作者报告该运行89.1%结构匹配、56分钟和19.14美元，均为该工具链与评判方式下的作者数据，不作为本库独立排名、通用成本或实体可拼装验证。实际看过完整成果PNG，未运行LeoCAD、下载或复算LDraw、操作三维查看器或验证碰撞和连接。"
+  },
+  {
     "id": "vib3coded-jelly-punching-bag",
     "title": "Jelly Bag：可以挥拳的果冻沙袋",
     "titleEn": "Jelly Bag — A Soft-Body Punching Bag",

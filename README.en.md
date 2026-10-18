@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-16 (Asia/Shanghai)** · **344 Astra examples** · **100 source / project links** · **115 demo links** · **155 complete videos** · **12 separate references**.
+Updated **2026-10-18 (Asia/Shanghai)** · **349 Astra examples** · **102 source / project links** · **117 demo links** · **157 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -44,18 +44,18 @@ Open an image for the case, materials and known limitations. This selection stay
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-18.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Production build screenshots from the October 16, 2026 iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Production build screenshots from the October 18, 2026 iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
-<summary>Gallery, mobile and case screenshots · October 16, 2026</summary>
+<summary>Gallery, mobile and case screenshots · October 18, 2026</summary>
 
-[![Gallery filters and more works](docs/media/collection-2026-10-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Gallery filters and more works](docs/media/collection-2026-10-18.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-10-16.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-10-18.jpg)
 
-[![The Little Prince — Across the Stars — result and sources](docs/media/case-2026-10-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/sac-little-prince-explorable-game/)
+[![Hina — Procedural Character with Umbrella and Four-Side Inspection — result and sources](docs/media/case-2026-10-18.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ecooxai-hina-procedural-character/)
 
 </details>
 
@@ -63,19 +63,19 @@ Production build screenshots from the October 16, 2026 iteration. Browse in Chin
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The October 16 update adds **9 works** and **6 complete X clips**, including Jelly Bag, A Halloween Pumpkin, Pumpkin Jelly, Pineapple Jelly, Iceberg Jelly, The Little Prince and more. Verified materials are updated for **2 existing works**, retaining their original publication and collection dates. **3 records** without a verified usable preview are temporarily unlisted and preserved in the audit archive. Publication and collection dates remain separate; external assets, tools and different model roles are identified.
+The October 18 update adds **5 works** and **2 complete X clips**, including Bloom Pool, Ocean Shallows, A Frontier for the Zeros, Hina, LegoBench. Existing previews passed this round of full retrieval and decoding. Publication and collection dates remain separate; external assets, tools and different model roles are identified.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [Bloom Pool — Floating Flowers and Water](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-flower-pool/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2111609680057270501) |
+| [Ocean Shallows — Rays and Jellyfish](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-ocean-rays-jellyfish/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2111169828958449863) |
+| [A Frontier for the Zeros — A 3D Journey Through Zeta Landscapes](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/harleycoops-astra-zeta-landscapes/) | HarleyCoops / Math-To-Manim | [Source](https://github.com/HarleyCoops/Math-To-Manim/tree/main/papers/quasi-riemann) · [Original](https://github.com/HarleyCoops/Math-To-Manim/tree/main/papers/quasi-riemann) |
+| [Hina — Procedural Character with Umbrella and Four-Side Inspection](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ecooxai-hina-procedural-character/) | ecooxai | [Demo](https://ecooxai.github.io/hina-gpt6-astra-pro-chatgpt-threejs/) · [Source](https://github.com/ecooxai/hina-gpt6-astra-pro-chatgpt-threejs) · [Original](https://github.com/ecooxai/hina-gpt6-astra-pro-chatgpt-threejs) |
+| [LegoBench — A Brick-Built Chiron from Instructions](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/dalrupnik-legobench-chiron/) | Dal Rupnik / Unified Sense（Reddit: TheLegoless） | [Demo](https://legobench.net/runs/20261008-093809-16eaa2/lego-pdf/75878-bugatti-chiron/0) · [Original](https://unifiedsense.com/blog/legobench) |
 | [Jelly Bag — A Soft-Body Punching Bag](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-jelly-punching-bag/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2110850396864369001) |
 | [A Halloween Pumpkin — A Squishy Jack-o-Lantern](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/shmopix-halloween-pumpkin/) | shmopix / @shmopixbzn | [Original](https://x.com/shmopixbzn/status/2110851186005782691) |
 | [Pumpkin Jelly — A Squishy Pumpkin Wedge](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-jelly-pumpkin/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2110438822085312714) |
-| [Pineapple Jelly — A Grabbable Soft-Body Ring](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-jelly-pineapple/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2110744617918304744) |
-| [Iceberg Jelly — A Soft-Body Polar Bay](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-jelly-iceberg/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2110517313413796092) |
-| [The Little Prince — Across the Stars](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/sac-little-prince-explorable-game/) | Sac / @Saccc_c | [Demo](https://littleprince.dev/) · [Original](https://x.com/Saccc_c/status/2109962425512734739) |
-| [BlenderWorld — Alpine Reconstruction and Editable 3D Showcase](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/qwen-blenderworld-astra/) | BlenderWorld 团队 / QwenLM | [Demo](https://blenderworld.github.io/#showcase) · [Source](https://github.com/QwenLM/BlenderWorld) · [Original](https://github.com/QwenLM/BlenderWorld) |
-| [Gemera — Astra-Assisted Materials and Asset Pipeline](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/itznomadic-gemera-collaboration/) | ITzNomadic / Jefry Blanco（@HexNomad23） | [Source](https://github.com/ITzNomadic/koenigsegg-gemera-blender) · [Original](https://github.com/ITzNomadic/koenigsegg-gemera-blender) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)
