@@ -77,7 +77,7 @@ npm start
 | 网站与GitHub实拍 | 四张当前截图以真实浏览器重新拍摄，保留原生像素；双语README、详情链接与媒体说明同步。分享封面与首页截图逐字节相同；不新增重复截图、迁移说明或调研下载到代码仓库 |
 | 数据边界与独立复核 | 361条旧案例逐字段与顺序不变，314个旧视频条目完全不变。本轮只追加6件案例、6个视频文件与2张截帧证据；未把本轮日期写成全库复查。单图重建未公开场景工程，故不计源码入口；Real2Gym项目介绍不计可交互演示 |
 
-媒体已发布至[本轮 Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-18-second)，上传响应和发布后的附件清单尺寸 / SHA-256 digest一致。另一匿名重复查询遇API限流，未当作第二次独立服务器核验。内容发布与生产检查结果在实际部署完成后补记。本轮不部署 ChatGPT Site。
+媒体已发布至[本轮 Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-18-second)，上传响应和发布后的附件清单尺寸 / SHA-256 digest一致。另一匿名重复查询遇API限流，未当作第二次独立服务器核验。内容提交 `6228881` 已推送至 `main`，[Pages工作流](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/39108160641) 的检查、构建、全部160段播放文件下载校验和部署均成功。生产端34项完整GET核对通过，包括367条公开目录、6条详情JSON、12个中英文详情页、3段新MP4、2张成果截帧、765项sitemap、当前截图与分享封面；8个Release附件的尺寸、digest和正式地址再次核对一致。GitHub将两JPEG作为 `application/octet-stream` 返回，实际文件签名、完整解码、字节与hash均正确；RAW文本以发布提交的Git blob逐字节比对，保留初次MIME和Windows行尾断言误报及修正证据。正式浏览器页面6张新成果图也均加载成功。本轮不部署 ChatGPT Site。
 
 ## 对外引用
 
