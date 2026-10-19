@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-18 (Asia/Shanghai)** · **355 Astra examples** · **103 source / project links** · **117 demo links** · **160 complete videos** · **12 separate references**.
+Updated **2026-10-19 (Asia/Shanghai)** · **360 Astra examples** · **106 source / project links** · **120 demo links** · **161 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -44,18 +44,18 @@ Open an image for the case, materials and known limitations. This selection stay
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-18.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-19.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Production build screenshots from the October 18, 2026 iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Production build screenshots from the October 19, 2026 iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
-<summary>Gallery, mobile and case screenshots · October 18, 2026</summary>
+<summary>Gallery, mobile and case screenshots · October 19, 2026</summary>
 
-[![Gallery filters and more works](docs/media/collection-2026-10-18.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Gallery filters and more works](docs/media/collection-2026-10-19.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-10-18.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-10-19.jpg)
 
-[![LUMEN ISLES — lighthouse islands, full recording and sources](docs/media/case-2026-10-18.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/tokengremlin-lumen-isles/)
+[![Sunline — railway islands, full recording and source project](docs/media/case-2026-10-19.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/givros-sunline-city/)
 
 </details>
 
@@ -63,19 +63,19 @@ Production build screenshots from the October 18, 2026 iteration. Browse in Chin
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The October 18 updates add **11 works** and **5 complete X clips** in total. This second round adds LUMEN ISLES, a 747 assembly, Marina Bay, single-image tabletop reconstruction, Real2Gym and three Blender studies grouped as one entry, with **3 new full-length clips**. Black or empty starting posters use labeled outcome frames from the same complete recordings. Publication and collection dates stay separate; Tripo assets, sound tools and hybrid reconstruction roles are identified.
+The October 19 update adds **5 works** and **1 complete X recording**: Sunline railway islands, a five-model Adizero reconstruction comparison, WorldBench voxel worlds, Digital Reset and AHa-3D indoor reconstruction. It adds **3 source / project links** and **3 demo links**. The Sunline clip retains the complete approximately 102-second source recording. Other model outputs, input photographs, specialized AHa tools and the later Sol video remain separately attributed. Collection dates are distinct from publication dates.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [Sunline Archipelago — A Railway Between Tropical Islands](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/givros-sunline-city/) | Givros / @givros | [Demo](https://givros.github.io/sunline-archipelago/) · [Source](https://github.com/givros/sunline-archipelago) · [Original](https://x.com/givros/status/2107806947110220069) |
+| [Adizero Product Page — A Five-Model Blender Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/cedric-adizero-five-model-comparison/) | cedric / @cedric_chee | [Original](https://x.com/cedric_chee/status/2111559444207456366) |
+| [WorldBench — Voxel Biomes and Dual-Evidence Evaluation](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/krishbakshi-worldbench-voxel-island/) | Krish Bakshi / WorldBench | [Demo](https://worldbench.krishbakshi.com/tests/gpt-6-astra) · [Source](https://github.com/KrishBakshi/worldbench/blob/main/outputs/gpt-6-astra/world.html) · [Original](https://github.com/KrishBakshi/worldbench) |
+| [Digital Reset — Daylight City and Toon Rendering](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/jonathanmorales-digital-reset/) | Jonathan Morales / Agent Game Jams | [Original](https://jonathanmorales.com/lab/agent-game-jams/pages/digital-reset.html) |
+| [AHa-3D — Indoor Video to Editable Scenes and Contact Motion](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kevinxu02-aha3d-real2sim/) | Congrong Xu、Siyuan Bian、Jiawei Wang、Haowei Sun、Jun Gao / AHa-3D | [Demo](https://kevinxu02.github.io/real2sim-indoor-site/demos/open-concept/demo-fast.html) · [Source](https://github.com/KevinXu02/aha-3d) · [Original](https://github.com/KevinXu02/aha-3d) |
 | [LUMEN ISLES — A Lighthouse Island Adventure](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/tokengremlin-lumen-isles/) | Token Gremlin / @TokenGremlin | [Original](https://x.com/TokenGremlin/status/2110756756200587414) |
 | [Boeing 747-400 — From Airframe to Assembly](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/misat0x-boeing747-assembly/) | Misato / @misat0x | [Original](https://x.com/misat0x/status/2108510836981445009) |
 | [Marina Bay Night Race — A Blender Circuit Fly-Through](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/darren-marina-bay-f1/) | Darren Tjan / @DarrenTjan | [Original](https://x.com/DarrenTjan/status/2108466187529314717) |
-| [Single-Image Tabletop Reconstruction — Occlusion and Blender Refinement](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/anhao-single-image-tabletop-reconstruction/) | anhao-zhang | [Original](https://github.com/anhao-zhang/gpt6-blender-reconstruction) |
-| [Real2Gym — Scene Reconstruction from Robot and Human Videos](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/real2gym-astra-scene-reconstruction/) | Kerui Ren、Yingxiang Xu、Kaiwen Song、Linning Xu、Bo Dai、Mulin Yu、Tao Lu / Real2Gym 团队 | [Source](https://github.com/real2gym/Real2Gym) · [Original](https://github.com/real2gym/Real2Gym) |
-| [Three Blender Studies — An Apartment Block, Cabinet and Planetary Engine](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/supermadmax-blender-three-studies/) | supermadmax / LINUX DO | [Original](https://linux.do/t/topic/2859908) |
-| [Bloom Pool — Floating Flowers and Water](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-flower-pool/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2111609680057270501) |
-| [Ocean Shallows — Rays and Jellyfish](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-ocean-rays-jellyfish/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2111169828958449863) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

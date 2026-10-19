@@ -7831,9 +7831,67 @@
       "downloadMethod": "complete HTTP GET",
       "assetId": 652783722,
       "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-18-second/tokengremlin-lumen-isles-1-web.mp4"
+    },
+    {
+      "caseId": "givros-sunline-city",
+      "sourceUrl": "https://x.com/givros/status/2107806947110220069",
+      "kind": "original",
+      "filename": "givros-sunline-city-1-original.mp4",
+      "downloadUrl": "https://video.twimg.com/amplify_video/2107806254584184833/vid/avc1/1920x1080/ZfL_lGkc_cKQAACz.mp4?tag=29",
+      "mediaId": "2107806254584184833",
+      "expectedDurationSeconds": 102.368,
+      "bitrate": 10368000,
+      "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2107806254584184833/img/CXQsjUeeqK7McJJ_.jpg",
+      "metadataSource": "https://api.fxtwitter.com/givros/status/2107806947110220069",
+      "label": "Sunline Archipelago — A Railway Between Tropical Islands",
+      "durationSeconds": 102.42,
+      "bytes": 113559075,
+      "contentLength": 113559075,
+      "contentLengthChecked": true,
+      "contentType": "video/mp4",
+      "httpStatus": 200,
+      "sha256": "5eb2ef1ba6575d6da4d263692270b1f58ec04dad06b96ddfda2e9be8163c850b",
+      "downloadedAt": "2026-10-19",
+      "complete": true,
+      "transcoded": false,
+      "decodeChecked": true,
+      "strictDecodeExitCode": 0,
+      "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+      "downloadMethod": "complete HTTP GET",
+      "assetId": 654888566,
+      "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-19/givros-sunline-city-1-original.mp4"
+    },
+    {
+      "caseId": "givros-sunline-city",
+      "sourceUrl": "https://x.com/givros/status/2107806947110220069",
+      "kind": "web",
+      "filename": "givros-sunline-city-1-web.mp4",
+      "downloadUrl": "https://video.twimg.com/amplify_video/2107806254584184833/vid/avc1/640x360/tkFItn-L78HpodNZ.mp4?tag=29",
+      "mediaId": "2107806254584184833",
+      "expectedDurationSeconds": 102.368,
+      "bitrate": 832000,
+      "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2107806254584184833/img/CXQsjUeeqK7McJJ_.jpg",
+      "metadataSource": "https://api.fxtwitter.com/givros/status/2107806947110220069",
+      "label": "Sunline Archipelago — A Railway Between Tropical Islands",
+      "durationSeconds": 102.42,
+      "bytes": 6410840,
+      "contentLength": 6410840,
+      "contentLengthChecked": true,
+      "contentType": "video/mp4",
+      "httpStatus": 200,
+      "sha256": "f8c2ce007ea7b58f3a3c8e4b233344e5f5398a0fa84b60c8e1786d87a2c16bec",
+      "downloadedAt": "2026-10-19",
+      "complete": true,
+      "transcoded": false,
+      "decodeChecked": true,
+      "strictDecodeExitCode": 0,
+      "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+      "downloadMethod": "complete HTTP GET",
+      "assetId": 654889159,
+      "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-19/givros-sunline-city-1-web.mp4"
     }
   ],
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-10-19",
   "releases": [
     {
       "tag": "media-2026-09-06",
@@ -7954,6 +8012,10 @@
     {
       "tag": "media-2026-10-18-second",
       "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-18-second"
+    },
+    {
+      "tag": "media-2026-10-19",
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-19"
     }
   ]
 }

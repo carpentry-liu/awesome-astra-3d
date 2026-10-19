@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-10-18（Asia/Shanghai）**：**355 条 Astra 案例** · **103 条源码 / 工程** · **117 个演示入口** · **160 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-10-19（Asia/Shanghai）**：**360 条 Astra 案例** · **106 条源码 / 工程** · **120 个演示入口** · **161 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -44,18 +44,18 @@
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-18.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-19.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-2026-10-18 本轮生产构建实拍。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+2026-10-19 本轮生产构建实拍。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
-<summary>查看案例区、手机与作品详情实拍 · 2026-10-18</summary>
+<summary>查看案例区、手机与作品详情实拍 · 2026-10-19</summary>
 
-[![案例区：筛选与更多作品](docs/media/collection-2026-10-18.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![案例区：筛选与更多作品](docs/media/collection-2026-10-19.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端：精选作品与材料导航](docs/media/mobile-2026-10-18.jpg)
+![手机端：精选作品与材料导航](docs/media/mobile-2026-10-19.jpg)
 
-[![LUMEN ISLES：灯塔海岛冒险、完整录像与来源](docs/media/case-2026-10-18.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/tokengremlin-lumen-isles/)
+[![Sunline：铁路群岛、完整录像与源工程](docs/media/case-2026-10-19.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/givros-sunline-city/)
 
 </details>
 
@@ -63,19 +63,19 @@
 
 这里按本库收录日期排列；作品首次发布、模型配置与核查日期在各档案中分别记录。稳定精选不随日更替换。
 
-10 月 18 日共新增收录 **11 件作品**、**5 段完整 X 录像**。本轮补充 LUMEN ISLES 灯塔海岛冒险、747 装配、滨海湾赛道、单图桌面重建、Real2Gym 和中文 Blender 建模实验；3 段新增录像均保留原帖全部时长。黑屏与空场景封面改用注明时间的原片成果截帧。作品首发与今日收录日期分开，Tripo 资产、声音工具和混合重建系统的职责分别标注。
+10 月 19 日新增收录 **5 件作品**、**1 段完整 X 录像**：Sunline 铁路群岛、Adizero 五模型同题重建、WorldBench 体素世界、Digital Reset 原生都市与 AHa-3D 室内重建。新增 3 个源码 / 工程入口和 3 个演示入口；Sunline 约102秒原帖录像保留全部时长。鞋图中的其他模型与输入照片、AHa的感知和动作工具、后续Sol录像均分别标注。收录日期与原始发布日期分开。
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
+| [Sunline Archipelago：铁路连接的热带群岛](https://carpentry-liu.github.io/awesome-astra-3d/cases/givros-sunline-city/) | Givros / @givros | [演示](https://givros.github.io/sunline-archipelago/) · [源码](https://github.com/givros/sunline-archipelago) · [原始来源](https://x.com/givros/status/2107806947110220069) |
+| [Adizero三维产品页：五模型同题重建对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/cedric-adizero-five-model-comparison/) | cedric / @cedric_chee | [原始来源](https://x.com/cedric_chee/status/2111559444207456366) |
+| [WorldBench：体素浮岛与代码／画面对照检查](https://carpentry-liu.github.io/awesome-astra-3d/cases/krishbakshi-worldbench-voxel-island/) | Krish Bakshi / WorldBench | [演示](https://worldbench.krishbakshi.com/tests/gpt-6-astra) · [源码](https://github.com/KrishBakshi/worldbench/blob/main/outputs/gpt-6-astra/world.html) · [原始来源](https://github.com/KrishBakshi/worldbench) |
+| [Digital Reset：白昼都市与卡通渲染的双端实验](https://carpentry-liu.github.io/awesome-astra-3d/cases/jonathanmorales-digital-reset/) | Jonathan Morales / Agent Game Jams | [原始来源](https://jonathanmorales.com/lab/agent-game-jams/pages/digital-reset.html) |
+| [AHa-3D：从室内视频到可编辑房间与接触动作](https://carpentry-liu.github.io/awesome-astra-3d/cases/kevinxu02-aha3d-real2sim/) | Congrong Xu、Siyuan Bian、Jiawei Wang、Haowei Sun、Jun Gao / AHa-3D | [演示](https://kevinxu02.github.io/real2sim-indoor-site/demos/open-concept/demo-fast.html) · [源码](https://github.com/KevinXu02/aha-3d) · [原始来源](https://github.com/KevinXu02/aha-3d) |
 | [LUMEN ISLES：Astra 编排的灯塔海岛冒险](https://carpentry-liu.github.io/awesome-astra-3d/cases/tokengremlin-lumen-isles/) | Token Gremlin / @TokenGremlin | [原始来源](https://x.com/TokenGremlin/status/2110756756200587414) |
 | [Boeing 747-400：从骨架到整机的装配动画](https://carpentry-liu.github.io/awesome-astra-3d/cases/misat0x-boeing747-assembly/) | Misato / @misat0x | [原始来源](https://x.com/misat0x/status/2108510836981445009) |
 | [滨海湾夜赛：Blender 城市与 F1 整圈漫游](https://carpentry-liu.github.io/awesome-astra-3d/cases/darren-marina-bay-f1/) | Darren Tjan / @DarrenTjan | [原始来源](https://x.com/DarrenTjan/status/2108466187529314717) |
-| [单张桌面照片重建：遮挡物体与 Blender 迭代](https://carpentry-liu.github.io/awesome-astra-3d/cases/anhao-single-image-tabletop-reconstruction/) | anhao-zhang | [原始来源](https://github.com/anhao-zhang/gpt6-blender-reconstruction) |
-| [Real2Gym：机器人与人手视频的场景重建对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/real2gym-astra-scene-reconstruction/) | Kerui Ren、Yingxiang Xu、Kaiwen Song、Linning Xu、Bo Dai、Mulin Yu、Tao Lu / Real2Gym 团队 | [源码](https://github.com/real2gym/Real2Gym) · [原始来源](https://github.com/real2gym/Real2Gym) |
-| [老居民楼、配电箱与行星发动机：三组 Blender 建模](https://carpentry-liu.github.io/awesome-astra-3d/cases/supermadmax-blender-three-studies/) | supermadmax / LINUX DO | [原始来源](https://linux.do/t/topic/2859908) |
-| [Bloom Pool：漂浮花朵与池水互动对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-flower-pool/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2111609680057270501) |
-| [Ocean Shallows：浅海鳐鱼与水母场景对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-ocean-rays-jellyfish/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2111169828958449863) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)

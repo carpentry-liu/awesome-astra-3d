@@ -2,6 +2,16 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-19 · 5 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Sunline Archipelago：铁路连接的热带群岛 / Sunline Archipelago — A Railway Between Tropical Islands](https://carpentry-liu.github.io/awesome-astra-3d/cases/givros-sunline-city/) | Givros / @givros | 源码 / 工程 · 演示入口 · 完整视频 · 提示词 / 过程 |
+| [Adizero三维产品页：五模型同题重建对照 / Adizero Product Page — A Five-Model Blender Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/cedric-adizero-five-model-comparison/) | cedric / @cedric_chee | 提示词 / 过程 |
+| [WorldBench：体素浮岛与代码／画面对照检查 / WorldBench — Voxel Biomes and Dual-Evidence Evaluation](https://carpentry-liu.github.io/awesome-astra-3d/cases/krishbakshi-worldbench-voxel-island/) | Krish Bakshi / WorldBench | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [Digital Reset：白昼都市与卡通渲染的双端实验 / Digital Reset — Daylight City and Toon Rendering](https://carpentry-liu.github.io/awesome-astra-3d/cases/jonathanmorales-digital-reset/) | Jonathan Morales / Agent Game Jams | 提示词 / 过程 |
+| [AHa-3D：从室内视频到可编辑房间与接触动作 / AHa-3D — Indoor Video to Editable Scenes and Contact Motion](https://carpentry-liu.github.io/awesome-astra-3d/cases/kevinxu02-aha3d-real2sim/) | Congrong Xu、Siyuan Bian、Jiawei Wang、Haowei Sun、Jun Gao / AHa-3D | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+
 ## 2026-10-18 · 11 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
