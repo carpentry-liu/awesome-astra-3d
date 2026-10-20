@@ -78,7 +78,9 @@ npm start
 | 历史媒体抽样 | 最新30条加其余分散10条，共40张封面完整GET、长度匹配和实际解码通过；10段既有视频的Pages/Release共20端点均为有效MP4范围响应，长度与清单匹配。未发现需下架样本，未标为全库复核、全视频完整解码或全部浏览器试玩。两张Release封面MIME为octet-stream但实际为有效JPEG，未误判；Gopher GIF116帧完整解码，CDN重取字节变化如实保留 |
 | 独立差异复核 | 旧372条案例逐字段及相对顺序不变，旧322个视频条目完全不变；只增加6例、6文件及本次审核证据。公开JSON一致，三个未知日期保持null，视频original/web对应正确；新增行无本机路径、临时签名URL、凭据或完整作者文章 |
 
-完整录像已发布至[10月20日Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-20)。源码和Pages尚待本轮发布后核对；不在此记录尚未发生的线上验证。本轮不重新部署案例库的ChatGPT Site，不上传本地迁移说明、研究下载或MP4到代码目录。
+完整录像已发布至[10月20日Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-20)。内容提交 `2b7a209` 已推送至 `main`，[Pages工作流](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/39363844296) 检查、构建、全部164段播放文件下载校验和部署成功。发布后32项完整GET核对全部通过：378条公开目录、首页统计、787项sitemap、6条详情JSON、12个双语详情、3段新MP4、四张当前截图、分享封面及双语README/视频清单；详情另核对canonical、语言、作者与原始来源。三个播放文件完整字节与SHA-256匹配，Release六附件尺寸/digest再次核对一致。RAW文件按已发布提交的Git blob逐字节比较，避免Windows行尾误报。
+
+线上浏览器已读到366案例标题与本次新增作品；随后截图/控制台读取超时，未声称生产浏览器交互全部复核成功。上述搜索、响应布局、完整原生播放、截图及控制台证据来自发布前的本地生产构建；线上文件验证以完整GET为准。本轮不重新部署案例库的ChatGPT Site，不上传本地迁移说明、研究下载或MP4到代码目录。
 
 ## 小王子制作流程复核（2026-10-18）
 
