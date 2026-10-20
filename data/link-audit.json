@@ -19173,6 +19173,797 @@
           "browser_download_url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-19/givros-sunline-city-1-web.mp4"
         }
       ]
+    },
+    {
+      "checkedAt": "2026-10-20",
+      "round": "daily",
+      "scope": "Six new works and three complete source clips. Historical sample: latest 30 plus 10 distributed Astra previews, and 10 existing clips at both Pages and Release endpoints. Not a full-catalogue re-audit.",
+      "addedCaseIds": [
+        "agentsky-steampunk-clock-tower",
+        "harry-koi-pond-comparison",
+        "lkuczborski-astra-gallery",
+        "dylan-apartment-daylight-tour",
+        "eymndev-klein-bottle-blender",
+        "shimecki-apartment-tile-walkthrough"
+      ],
+      "previews": [
+        {
+          "caseId": "agentsky-steampunk-clock-tower",
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2112137744931831808/pu/img/apBGUgWwwhBDvpd9.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 45313,
+          "contentLength": 45313,
+          "sha256": "808aee55eda00c6e97663d5af667bc2e7d186cffa4a08e6b2b80692e579b76f9",
+          "dimensions": [
+            720,
+            720
+          ],
+          "fullGet": true,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "harry-koi-pond-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2111817451415719937/img/xwNsTTgf7_II2x1D.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 131198,
+          "contentLength": 131198,
+          "sha256": "e4e7df34ede661a5265b6197b50151548e235aa852f375ad1af8c25b80141059",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "fullGet": true,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "lkuczborski-astra-gallery",
+          "url": "https://raw.githubusercontent.com/lkuczborski/AstraGallery/main/documentation/images/hall-of-fame.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 67641,
+          "contentLength": 67641,
+          "sha256": "071513cf9eef9950820bf61db6052a35104c8b036487dc2f1c21f7fcbc207326",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "fullGet": true,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "dylan-apartment-daylight-tour",
+          "url": "https://raw.githubusercontent.com/dylanxzthomas/apartment-virtual-tour/main/public/preview.png",
+          "status": 200,
+          "contentType": "image/png",
+          "bytes": 1235221,
+          "contentLength": 1235221,
+          "sha256": "d42d7241d0bb859a01094586f8d99c59829874d0798f47351a840e606138395a",
+          "dimensions": [
+            1120,
+            840
+          ],
+          "fullGet": true,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "eymndev-klein-bottle-blender",
+          "url": "https://github.com/user-attachments/assets/1163449d-0d1b-45ec-9843-dc5f83e61452",
+          "status": 200,
+          "contentType": "image/png",
+          "bytes": 1933690,
+          "contentLength": 1933690,
+          "sha256": "c82949a7455672e0f34ba1d857e855e4e306535a115aa596dabdcd8ad115bb94",
+          "dimensions": [
+            1300,
+            1300
+          ],
+          "fullGet": true,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "shimecki-apartment-tile-walkthrough",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2100220843775156224/img/QCFfTKkNlB-R01D9.jpg",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "bytes": 101567,
+          "contentLength": 101567,
+          "sha256": "0653f3d309b3aa21c54ae9b90fb1def11f410764b84d7c3bf0493febf985d364",
+          "dimensions": [
+            1140,
+            674
+          ],
+          "fullGet": true,
+          "decoded": true,
+          "visuallyReviewed": true
+        }
+      ],
+      "historicalChecks": [
+        {
+          "caseId": "givros-sunline-city",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2107806254584184833/img/CXQsjUeeqK7McJJ_.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:30.639063+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 72591,
+          "contentLength": "72591",
+          "decoded": true
+        },
+        {
+          "caseId": "cedric-adizero-five-model-comparison",
+          "url": "https://pbs.twimg.com/media/HU2_mPQaYAAsfPK.jpg?name=orig",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:30.639685+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 3194806,
+          "contentLength": "3194806",
+          "decoded": true
+        },
+        {
+          "caseId": "krishbakshi-worldbench-voxel-island",
+          "url": "https://arxiv.org/html/2610.10622v1/burst.png",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:30.640175+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 249024,
+          "contentLength": "249024",
+          "decoded": true
+        },
+        {
+          "caseId": "jonathanmorales-digital-reset",
+          "url": "https://jonathanmorales.com/lab/agent-game-jams/images/digital-reset/astra-codex-daylight.webp",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:30.640802+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 103934,
+          "contentLength": "103934",
+          "decoded": true
+        },
+        {
+          "caseId": "kevinxu02-aha3d-real2sim",
+          "url": "https://kevinxu02.github.io/real2sim-indoor-site/media/motivation-office48/after.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:30.641437+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 35828,
+          "contentLength": "35828",
+          "decoded": true
+        },
+        {
+          "caseId": "tokengremlin-lumen-isles",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-18-second/tokengremlin-lumen-isles-frame-87s.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:31.969920+00:00",
+          "status": 200,
+          "result": "real-image-unexpected-mime",
+          "bytes": 270945,
+          "contentLength": "270945",
+          "decoded": true
+        },
+        {
+          "caseId": "misat0x-boeing747-assembly",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-18-second/misat0x-boeing747-assembly-frame-57s.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:32.047115+00:00",
+          "status": 200,
+          "result": "real-image-unexpected-mime",
+          "bytes": 449999,
+          "contentLength": "449999",
+          "decoded": true
+        },
+        {
+          "caseId": "darren-marina-bay-f1",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2108464071578460161/img/3aA_z5KjwfFH92DL.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:32.738955+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 124545,
+          "contentLength": "124545",
+          "decoded": true
+        },
+        {
+          "caseId": "anhao-single-image-tabletop-reconstruction",
+          "url": "https://raw.githubusercontent.com/anhao-zhang/gpt6-blender-reconstruction/main/experiments/reconstruct_001/previews/image_occ8_render_final.png",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:33.052907+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 941408,
+          "contentLength": "941408",
+          "decoded": true
+        },
+        {
+          "caseId": "real2gym-astra-scene-reconstruction",
+          "url": "https://real2gym.github.io/assets/media/e89ffc949fd4f3d224dcb20170373b83636398ebe4ca88e84565dda9ed8f3311.png",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:34.239347+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 1400416,
+          "contentLength": "1400416",
+          "decoded": true
+        },
+        {
+          "caseId": "supermadmax-blender-three-studies",
+          "url": "https://cdn3.ldstatic.com/original/4X/8/0/0/8000f4795529d1178346af5e80d3ab902bf854f4.jpeg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:35.078500+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 420332,
+          "contentLength": "420332",
+          "decoded": true
+        },
+        {
+          "caseId": "vib3coded-flower-pool",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2111609458598055936/img/e0gl94LtUCvlggIM.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:35.407683+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 207884,
+          "contentLength": "207884",
+          "decoded": true
+        },
+        {
+          "caseId": "vib3coded-ocean-rays-jellyfish",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2111169739309424640/img/mg4gVVzScgHVi6gB.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:36.010944+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 136904,
+          "contentLength": "136904",
+          "decoded": true
+        },
+        {
+          "caseId": "harleycoops-astra-zeta-landscapes",
+          "url": "https://raw.githubusercontent.com/HarleyCoops/Math-To-Manim/main/docs/assets/quasi-riemann-execution-landscape.png",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:36.871059+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 522936,
+          "contentLength": "522936",
+          "decoded": true
+        },
+        {
+          "caseId": "ecooxai-hina-procedural-character",
+          "url": "https://raw.githubusercontent.com/ecooxai/hina-gpt6-astra-pro-chatgpt-threejs/gpt6-astra-pro-chatgpt-hina-release/showcase/Hina_GPT6_Astra_Pro_ChatGPT_ThreeJS_front.png",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:36.872909+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 412912,
+          "contentLength": "412912",
+          "decoded": true
+        },
+        {
+          "caseId": "dalrupnik-legobench-chiron",
+          "url": "https://legobench.net/api/artifacts/20261008-093809-16eaa2/lego-pdf/75878-bugatti-chiron/0/canonical/iso.png",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:37.351026+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 153133,
+          "contentLength": "153133",
+          "decoded": true
+        },
+        {
+          "caseId": "vib3coded-jelly-punching-bag",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110850272238985216/img/4Tefh3VkOD9T3GS5.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:37.644390+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 72198,
+          "contentLength": "72198",
+          "decoded": true
+        },
+        {
+          "caseId": "shmopix-halloween-pumpkin",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110850807423815682/img/F3gjQ9FFzkXUAV8s.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:38.796330+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 48253,
+          "contentLength": "48253",
+          "decoded": true
+        },
+        {
+          "caseId": "vib3coded-jelly-pumpkin",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110438725301739522/img/Df5cDb5m7oRlXxdP.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:38.855675+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 74326,
+          "contentLength": "74326",
+          "decoded": true
+        },
+        {
+          "caseId": "vib3coded-jelly-pineapple",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110744234701594624/img/t2-z0uOhlroJGeKU.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:39.107442+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 63160,
+          "contentLength": "63160",
+          "decoded": true
+        },
+        {
+          "caseId": "vib3coded-jelly-iceberg",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110517241489788928/img/6__KQNFYFxyXRh64.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:39.675399+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 97413,
+          "contentLength": "97413",
+          "decoded": true
+        },
+        {
+          "caseId": "sac-little-prince-explorable-game",
+          "url": "https://robot.agientry.com/static/img/blog/little-prince-3d-game-opus-astra-tripo/fig1-trailer.body.webp",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:39.887112+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 73672,
+          "contentLength": "73672",
+          "decoded": true
+        },
+        {
+          "caseId": "qwen-blenderworld-astra",
+          "url": "https://blenderworld.github.io/media/bw_0064/gpt-6-astra/render-0.webp",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:40.012212+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 226642,
+          "contentLength": "226642",
+          "decoded": true
+        },
+        {
+          "caseId": "itznomadic-gemera-collaboration",
+          "url": "https://raw.githubusercontent.com/ITzNomadic/koenigsegg-gemera-blender/main/renders_4k/01_Gemera_Front_ThreeQuarter_4K.png",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:40.057208+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 5896084,
+          "contentLength": "5896084",
+          "decoded": true
+        },
+        {
+          "caseId": "amasuki-office-riser-print",
+          "url": "https://assets.st-note.com/img/1791829495-WArdGfp5tNUHMBVnghkEv10O.jpg?width=1200",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:40.329312+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 115258,
+          "contentLength": "115258",
+          "decoded": true
+        },
+        {
+          "caseId": "shmopix-gaming-mouse",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110370413700116480/img/mjSfgvJDkEl92_OY.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:40.396886+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 33703,
+          "contentLength": "33703",
+          "decoded": true
+        },
+        {
+          "caseId": "ohmyunicorn-cruiser-comparison",
+          "url": "https://ohmyunicorn.com/labs/dream-loop/blender-cruiser-astra-vs-gemini4/img/cruiser_astra_high.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:40.894452+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 99629,
+          "contentLength": "99629",
+          "decoded": true
+        },
+        {
+          "caseId": "joh-lighthouse-dusk",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110053969594843136/img/PdvK4PmQON2_NeIR.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:41.476189+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 106168,
+          "contentLength": "106168",
+          "decoded": true
+        },
+        {
+          "caseId": "ivana-flappy-bird-3d",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110069488410345472/img/9NnlxtQk1NSC5tXx.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:41.703644+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 102146,
+          "contentLength": "102146",
+          "decoded": true
+        },
+        {
+          "caseId": "congle-ogre-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110139415133560832/img/MfuKcrMWGPcRJBT0.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:41.713290+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 59954,
+          "contentLength": "59954",
+          "decoded": true
+        },
+        {
+          "caseId": "bluumik-watch-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110069562582454272/img/eGFNJYnb3hBLHHCj.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:43.411416+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 90258,
+          "contentLength": "90258",
+          "decoded": true
+        },
+        {
+          "caseId": "maker-evan-orbit-watch",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2108437640672690177/img/H-pbuiD66G7u2TqK.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:43.712918+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 81642,
+          "contentLength": "81642",
+          "decoded": true
+        },
+        {
+          "caseId": "retrostyle-four-asset-packs",
+          "url": "https://images.retrostylegames.com/wp-content/uploads/2026/09/gas-station-horror-pack-red-pickup-1024x576.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:43.880542+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 126857,
+          "contentLength": "126857",
+          "decoded": true
+        },
+        {
+          "caseId": "seiji-miive-gopher-globe",
+          "url": "https://static.zenn.studio/user-upload/3d964b447a46-20260916.gif",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:43.891513+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 2575937,
+          "contentLength": "2575937",
+          "decoded": true
+        },
+        {
+          "caseId": "emmtee-paperroute",
+          "url": "https://www.paperroute.lol/art/og.png",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:44.111099+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 819059,
+          "contentLength": "819059",
+          "decoded": true
+        },
+        {
+          "caseId": "onihachi-megascans-forest",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096776968574574592/img/VSPIKaokTcUNIx3W.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:44.678266+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 125758,
+          "contentLength": "125758",
+          "decoded": true
+        },
+        {
+          "caseId": "flora-shoe-last",
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2097763713864368141/pu/img/mpPMVg5F5JlAuvfv.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:45.066158+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 37799,
+          "contentLength": "37799",
+          "decoded": true
+        },
+        {
+          "caseId": "shinboson-clouds",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096568034442027008/img/Qc9iu7MCzMMEK5tl.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:46.119701+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 40395,
+          "contentLength": "40395",
+          "decoded": true
+        },
+        {
+          "caseId": "majid-kaiju-city",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096251295594135556/img/mkKNAllU4LTzJGME.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:46.247672+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 159517,
+          "contentLength": "159517",
+          "decoded": true
+        },
+        {
+          "caseId": "aibattle-sonic-godot",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095992908448944130/img/v8BSAp4Xt5knPeV0.jpg",
+          "method": "complete HTTP GET, MIME check, Pillow verify and full image decode",
+          "checkedAt": "2026-10-20T02:58:46.329404+00:00",
+          "status": 200,
+          "result": "image-verified",
+          "bytes": 156398,
+          "contentLength": "156398",
+          "decoded": true
+        },
+        {
+          "caseId": "givros-sunline-city",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/givros-sunline-city-1-web.mp4",
+          "method": "HTTP range GET bytes=0-4095; inspect ftyp and content headers; no full download/decode/browser playback",
+          "checkedAt": "2026-10-20T02:58:48.103148+00:00",
+          "status": 206,
+          "result": "mp4-endpoint-verified",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/6410840"
+        },
+        {
+          "caseId": "givros-sunline-city",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-19/givros-sunline-city-1-web.mp4",
+          "method": "HTTP range GET bytes=0-4095; inspect ftyp and content headers; no full download/decode/browser playback",
+          "checkedAt": "2026-10-20T02:58:48.103795+00:00",
+          "status": 206,
+          "result": "mp4-endpoint-verified",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/6410840"
+        },
+        {
+          "caseId": "tokengremlin-lumen-isles",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/tokengremlin-lumen-isles-1-web.mp4",
+          "method": "HTTP range GET bytes=0-4095; inspect ftyp and content headers; no full download/decode/browser playback",
+          "checkedAt": "2026-10-20T02:58:48.104126+00:00",
+          "status": 206,
+          "result": "mp4-endpoint-verified",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/3770710"
+        },
+        {
+          "caseId": "tokengremlin-lumen-isles",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-18-second/tokengremlin-lumen-isles-1-web.mp4",
+          "method": "HTTP range GET bytes=0-4095; inspect ftyp and content headers; no full download/decode/browser playback",
+          "checkedAt": "2026-10-20T02:58:48.104444+00:00",
+          "status": 206,
+          "result": "mp4-endpoint-verified",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/3770710"
+        },
+        {
+          "caseId": "misat0x-boeing747-assembly",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/misat0x-boeing747-assembly-1-web.mp4",
+          "method": "HTTP range GET bytes=0-4095; inspect ftyp and content headers; no full download/decode/browser playback",
+          "checkedAt": "2026-10-20T02:58:49.519812+00:00",
+          "status": 206,
+          "result": "mp4-endpoint-verified",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/1380966"
+        },
+        {
+          "caseId": "misat0x-boeing747-assembly",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-18-second/misat0x-boeing747-assembly-1-web.mp4",
+          "method": "HTTP range GET bytes=0-4095; inspect ftyp and content headers; no full download/decode/browser playback",
+          "checkedAt": "2026-10-20T02:58:50.081883+00:00",
+          "status": 206,
+          "result": "mp4-endpoint-verified",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/1380966"
+        },
+        {
+          "caseId": "darren-marina-bay-f1",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/darren-marina-bay-f1-1-web.mp4",
+          "method": "HTTP range GET bytes=0-4095; inspect ftyp and content headers; no full download/decode/browser playback",
+          "checkedAt": "2026-10-20T02:58:50.253078+00:00",
+          "status": 206,
+          "result": "mp4-endpoint-verified",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/9042469"
+        },
+        {
+          "caseId": "darren-marina-bay-f1",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-18-second/darren-marina-bay-f1-1-web.mp4",
+          "method": "HTTP range GET bytes=0-4095; inspect ftyp and content headers; no full download/decode/browser playback",
+          "checkedAt": "2026-10-20T02:58:50.492983+00:00",
+          "status": 206,
+          "result": "mp4-endpoint-verified",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/9042469"
+        },
+        {
+          "caseId": "vib3coded-flower-pool",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-flower-pool-1-web.mp4",
+          "method": "HTTP range GET bytes=0-4095; inspect ftyp and content headers; no full download/decode/browser playback",
+          "checkedAt": "2026-10-20T02:58:50.510125+00:00",
+          "status": 206,
+          "result": "mp4-endpoint-verified",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/2174765"
+        },
+        {
+          "caseId": "vib3coded-flower-pool",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-18/vib3coded-flower-pool-1-web.mp4",
+          "method": "HTTP range GET bytes=0-4095; inspect ftyp and content headers; no full download/decode/browser playback",
+          "checkedAt": "2026-10-20T02:58:51.381805+00:00",
+          "status": 206,
+          "result": "mp4-endpoint-verified",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/2174765"
+        },
+        {
+          "caseId": "vib3coded-ocean-rays-jellyfish",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-ocean-rays-jellyfish-1-web.mp4",
+          "method": "HTTP range GET bytes=0-4095; inspect ftyp and content headers; no full download/decode/browser playback",
+          "checkedAt": "2026-10-20T02:58:51.581909+00:00",
+          "status": 206,
+          "result": "mp4-endpoint-verified",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/1477005"
+        },
+        {
+          "caseId": "vib3coded-ocean-rays-jellyfish",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-18/vib3coded-ocean-rays-jellyfish-1-web.mp4",
+          "method": "HTTP range GET bytes=0-4095; inspect ftyp and content headers; no full download/decode/browser playback",
+          "checkedAt": "2026-10-20T02:58:52.374730+00:00",
+          "status": 206,
+          "result": "mp4-endpoint-verified",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/1477005"
+        },
+        {
+          "caseId": "routine-tripo-three-games",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/routine-tripo-three-games-1-web.mp4",
+          "method": "HTTP range GET bytes=0-4095; inspect ftyp and content headers; no full download/decode/browser playback",
+          "checkedAt": "2026-10-20T02:58:52.424452+00:00",
+          "status": 206,
+          "result": "mp4-endpoint-verified",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/1519748"
+        },
+        {
+          "caseId": "routine-tripo-three-games",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-07/routine-tripo-three-games-1-web.mp4",
+          "method": "HTTP range GET bytes=0-4095; inspect ftyp and content headers; no full download/decode/browser playback",
+          "checkedAt": "2026-10-20T02:58:52.731154+00:00",
+          "status": 206,
+          "result": "mp4-endpoint-verified",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/1519748"
+        },
+        {
+          "caseId": "higgsfield-cartoon-rig",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/higgsfield-cartoon-rig-1-web.mp4",
+          "method": "HTTP range GET bytes=0-4095; inspect ftyp and content headers; no full download/decode/browser playback",
+          "checkedAt": "2026-10-20T02:58:53.353337+00:00",
+          "status": 206,
+          "result": "mp4-endpoint-verified",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/2862748"
+        },
+        {
+          "caseId": "higgsfield-cartoon-rig",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-12/higgsfield-cartoon-rig-1-web.mp4",
+          "method": "HTTP range GET bytes=0-4095; inspect ftyp and content headers; no full download/decode/browser playback",
+          "checkedAt": "2026-10-20T02:58:53.654166+00:00",
+          "status": 206,
+          "result": "mp4-endpoint-verified",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/2862748"
+        },
+        {
+          "caseId": "op7418-moonlit-forge",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/op7418-moonlit-forge-1-web.mp4",
+          "method": "HTTP range GET bytes=0-4095; inspect ftyp and content headers; no full download/decode/browser playback",
+          "checkedAt": "2026-10-20T02:58:54.326168+00:00",
+          "status": 206,
+          "result": "mp4-endpoint-verified",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/941870"
+        },
+        {
+          "caseId": "op7418-moonlit-forge",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-09-expansion/op7418-moonlit-forge-1-web.mp4",
+          "method": "HTTP range GET bytes=0-4095; inspect ftyp and content headers; no full download/decode/browser playback",
+          "checkedAt": "2026-10-20T02:58:55.291748+00:00",
+          "status": 206,
+          "result": "mp4-endpoint-verified",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/941870"
+        },
+        {
+          "caseId": "aibattle-sonic-godot",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/aibattle-sonic-godot-1-web.mp4",
+          "method": "HTTP range GET bytes=0-4095; inspect ftyp and content headers; no full download/decode/browser playback",
+          "checkedAt": "2026-10-20T02:58:55.502507+00:00",
+          "status": 206,
+          "result": "mp4-endpoint-verified",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/8289737"
+        },
+        {
+          "caseId": "aibattle-sonic-godot",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-06/aibattle-sonic-godot-1-web.mp4",
+          "method": "HTTP range GET bytes=0-4095; inspect ftyp and content headers; no full download/decode/browser playback",
+          "checkedAt": "2026-10-20T02:58:56.538900+00:00",
+          "status": 206,
+          "result": "mp4-endpoint-verified",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/8289737"
+        }
+      ],
+      "newVideoFiles": [
+        {
+          "filename": "agentsky-steampunk-clock-tower-1-original.mp4",
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-20/agentsky-steampunk-clock-tower-1-original.mp4",
+          "bytes": 799992,
+          "releaseDigestMatched": true
+        },
+        {
+          "filename": "agentsky-steampunk-clock-tower-1-web.mp4",
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-20/agentsky-steampunk-clock-tower-1-web.mp4",
+          "bytes": 502309,
+          "releaseDigestMatched": true
+        },
+        {
+          "filename": "harry-koi-pond-comparison-1-original.mp4",
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-20/harry-koi-pond-comparison-1-original.mp4",
+          "bytes": 15912340,
+          "releaseDigestMatched": true
+        },
+        {
+          "filename": "harry-koi-pond-comparison-1-web.mp4",
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-20/harry-koi-pond-comparison-1-web.mp4",
+          "bytes": 930007,
+          "releaseDigestMatched": true
+        },
+        {
+          "filename": "shimecki-apartment-tile-walkthrough-1-original.mp4",
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-20/shimecki-apartment-tile-walkthrough-1-original.mp4",
+          "bytes": 9620936,
+          "releaseDigestMatched": true
+        },
+        {
+          "filename": "shimecki-apartment-tile-walkthrough-1-web.mp4",
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-20/shimecki-apartment-tile-walkthrough-1-web.mp4",
+          "bytes": 3630833,
+          "releaseDigestMatched": true
+        }
+      ]
     }
   ]
 }

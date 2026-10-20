@@ -2,6 +2,17 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-20 · 6 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [午夜钟楼：Astra、Fable 与 DeepSeek 的 Three.js 对照 / The Midnight Meridian — Three Agents Build a Clock-Tower Night Scene](https://carpentry-liu.github.io/awesome-astra-3d/cases/agentsky-steampunk-clock-tower/) | AgentSky / @agentsky_dev | 完整视频 · 提示词 / 过程 |
+| [同一句话，两座锦鲤池：Astra 与 Opus 对照 / Two Koi Ponds — Astra and Opus from the Same Brief](https://carpentry-liu.github.io/awesome-astra-3d/cases/harry-koi-pond-comparison/) | Harry Jackson / @keydol123 | 完整视频 · 提示词 / 过程 |
+| [Astra Gallery：把社区海报变成可探索的三维展馆 / Astra Gallery — Community Billboards as a 3D Exhibition](https://carpentry-liu.github.io/awesome-astra-3d/cases/lkuczborski-astra-gallery/) | Łukasz Kuczborski / @lkuczborski | 源码 / 工程 |
+| [Apartment Virtual Tour：12张室内照片到日光公寓漫游 / Apartment Virtual Tour — Photos to a Daylight Apartment](https://carpentry-liu.github.io/awesome-astra-3d/cases/dylan-apartment-daylight-tour/) | Dylan Szeto / @dylan_szeto | 源码 / 工程 |
+| [Klein Bottle：透明克莱因瓶与可编辑Blender模型 / Klein Bottle — A Glass Form and Editable Blender Model](https://carpentry-liu.github.io/awesome-astra-3d/cases/eymndev-klein-bottle-blender/) | Eymen Yıldırım / eymndev | 源码 / 工程 |
+| [选砖前先漫游：公寓 Blender 模型与饰面切换 / Apartment Studio — A Walkthrough for Choosing Tiles](https://carpentry-liu.github.io/awesome-astra-3d/cases/shimecki-apartment-tile-walkthrough/) | Shimecki / @scheemunai | 完整视频 · 提示词 / 过程 |
+
 ## 2026-10-19 · 5 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

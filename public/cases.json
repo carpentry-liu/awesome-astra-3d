@@ -1,5 +1,310 @@
 [
   {
+    "id": "agentsky-steampunk-clock-tower",
+    "title": "午夜钟楼：Astra、Fable 与 DeepSeek 的 Three.js 对照",
+    "titleEn": "The Midnight Meridian — Three Agents Build a Clock-Tower Night Scene",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra / Claude Fable 5.1 / DeepSeek V4.1 Flash（分栏对照）",
+    "summary": "蒸汽朋克钟楼立在雾夜小城之上，黄铜飞艇绕塔飞行，灯窗和钟面点亮城市。原作者用同一 Three.js 任务分别运行三套代理；封面中间一栏为 Codex / GPT-6 Astra，左右为 Fable 与 DeepSeek。",
+    "imageCaption": "原作者完整录像的默认封面展示三份真实场景；从左到右为 Claude Code / Fable 5.1、Codex / GPT-6 Astra、DeepSeek Harness / V4.1 Flash。录像1秒和5秒明确标注分栏归属，13秒另展示 Astra 单独镜头；不是三份都由 Astra 生成。 附完整原帖比较或运行录像及最高码率原版下载。",
+    "outcome": "保留20秒完整比较录像。作者记录每个模型仅一次运行，Astra在Codex中完成钟楼夜景；运行时间、成本与视觉比较都是该作者单次记录，未独立评测或复现。没有公开成果源码、工程下载或本例试玩地址，本轮不把代理平台首页当作品demo。",
+    "promptSummary": "作者在同帖回复公开任务：单个 index.html，Three.js 基础几何构建雾夜城市、钟楼、环绕飞艇、实时钟面及自动运镜。仅明确允许的Three.js依赖与模型无外部资产属于任务要求，本轮没有源代码验证其实际实现。",
+    "promptAvailability": "linked",
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/agentsky_dev/status/2112137931498688982",
+    "outputType": [
+      "Three.js 程序化夜景",
+      "多模型成果对照",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "AgentSky / @agentsky_dev",
+    "sourceUrl": "https://x.com/agentsky_dev/status/2112137926922686800",
+    "sourceDate": "2026-10-19",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-20",
+    "addedAt": "2026-10-20",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者X完整HTML与精确同帖FxTwitter作者、时间和媒体ID相互吻合。Astra运行于Codex代理；Claude Code使用Fable5.1、DeepSeek Harness使用V4.1 Flash。比较不同模型和代理组合，不能把时耗/成本差异归为严格等条件模型benchmark。 模型与流程归属为作者自述，未独立复现。",
+    "sourceAccess": "原作者X完整GET200 / text/html / 131,463字节；作者和created_at_ms与同帖辅助元数据匹配。原帖成果封面完整GET200 / image/jpeg / 45,313字节 / 720×720，核对Content-Length和SHA-256，Pillow完整解码并实际查看。完整最高码率平台原版与较小完整平台版MP4均完整GET200，核对媒体ID、来源时长、MIME、Content-Length、字节和SHA-256；严格FFmpeg全长null解码exit0且stderr为空，完整录像中帧实际查看，未剪辑或转码。 Release六附件尺寸与服务器SHA-256 digest已核对一致。",
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2112137744931831808/pu/img/apBGUgWwwhBDvpd9.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "repositoryUrl": null,
+    "videoUrl": "https://x.com/agentsky_dev/status/2112137926922686800",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/agentsky_dev/status/2112137926922686800",
+      "https://api.fxtwitter.com/agentsky_dev/status/2112137931498688982"
+    ],
+    "licenseNotes": "作品及第三方媒体保留原作者与相关权利人权利，不纳入本库MIT；公开访问和归档不代表独立取得再分发或商业许可。完整原平台录像不剪辑或转码，保留原帖来源与移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/agentsky-steampunk-clock-tower-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-20/agentsky-steampunk-clock-tower-1-original.mp4",
+        "durationSeconds": 20.0,
+        "bytes": 799992,
+        "sha256": "063e61e65b099af0f6b47b1b55838dec51fd53ae2793559ac5ddbf04e3fe1c2d",
+        "sourceUrl": "https://x.com/agentsky_dev/status/2112137926922686800",
+        "label": "The Midnight Meridian — Astra, Fable and DeepSeek Comparison",
+        "posterUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2112137744931831808/pu/img/apBGUgWwwhBDvpd9.jpg"
+      }
+    ]
+  },
+  {
+    "id": "harry-koi-pond-comparison",
+    "title": "同一句话，两座锦鲤池：Astra 与 Opus 对照",
+    "titleEn": "Two Koi Ponds — Astra and Opus from the Same Brief",
+    "category": "3D 网页",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（左右对照）",
+    "summary": "同一短任务生成两座三维锦鲤池：Astra左侧是勾边卡通草地、鹅卵石池岸与喂鱼控件；Opus右侧为更暗的花木、石头、水面与灯笼场景。两份成果保留在完整比较画面中。",
+    "imageCaption": "原作者原帖成果封面，左侧KOI KOI明确标GPT ASTRA 6，右侧Hanami Pond明确标OPUS5.5。两侧均为运行场景画面；不能将右侧花木与水面归作Astra成果。 附完整原帖比较或运行录像及最高码率原版下载。",
+    "outcome": "保留约23.7秒完整原帖比较录像。作者明确两模型收到同一短任务，并分别显示模型名称；所列费用和第一轮说法仅为作者单次实验，不是本库的独立性能或质量判断。未取得公开工程、源码、独立试玩或完整会话。",
+    "promptSummary": "原作者公开同一短任务，要求建立美观且可交互的三维锦鲤池网页；具体实现代码、依赖、资源和完整会话未提供。",
+    "promptAvailability": "excerpt",
+    "promptExcerpt": "Build a beautiful, interactive 3D koi pond website.",
+    "promptUrl": "https://x.com/keydol123/status/2111817735181332826",
+    "outputType": [
+      "交互锦鲤池网页",
+      "左右模型成果对照",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Harry Jackson / @keydol123",
+    "sourceUrl": "https://x.com/keydol123/status/2111817735181332826",
+    "sourceDate": "2026-10-18",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-20",
+    "addedAt": "2026-10-20",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者X完整HTML与精确同帖FxTwitter作者、时间和媒体ID相互吻合。左边为Astra，右边为Opus5.5；未从视觉风格推断具体渲染引擎、素材来源或资产许可。 模型与流程归属为作者自述，未独立复现。",
+    "sourceAccess": "原作者X完整GET200 / text/html / 143,180字节；作者和created_at_ms与同帖辅助元数据匹配。原帖成果封面完整GET200 / image/jpeg / 131,198字节 / 1200×675，核对Content-Length和SHA-256，Pillow完整解码并实际查看。完整最高码率平台原版与较小完整平台版MP4均完整GET200，核对媒体ID、来源时长、MIME、Content-Length、字节和SHA-256；严格FFmpeg全长null解码exit0且stderr为空，完整录像中帧实际查看，未剪辑或转码。 Release六附件尺寸与服务器SHA-256 digest已核对一致。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2111817451415719937/img/xwNsTTgf7_II2x1D.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "repositoryUrl": null,
+    "videoUrl": "https://x.com/keydol123/status/2111817735181332826",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/keydol123/status/2111817735181332826"
+    ],
+    "licenseNotes": "作品及第三方媒体保留原作者与相关权利人权利，不纳入本库MIT；公开访问和归档不代表独立取得再分发或商业许可。完整原平台录像不剪辑或转码，保留原帖来源与移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/harry-koi-pond-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-20/harry-koi-pond-comparison-1-original.mp4",
+        "durationSeconds": 23.74,
+        "bytes": 15912340,
+        "sha256": "ca1af2c46a14c18d7345a17e04598adf8a5ced47d78989f8cfcc49cf1164743b",
+        "sourceUrl": "https://x.com/keydol123/status/2111817735181332826",
+        "label": "Two Koi Ponds — Astra and Opus Comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111817451415719937/img/xwNsTTgf7_II2x1D.jpg"
+      }
+    ]
+  },
+  {
+    "id": "lkuczborski-astra-gallery",
+    "title": "Astra Gallery：把社区海报变成可探索的三维展馆",
+    "titleEn": "Astra Gallery — Community Billboards as a 3D Exhibition",
+    "category": "建筑与室内",
+    "summary": "将既有 Codex Billboards 社区海报布置进连通的展馆，暖色射灯、青铜雕塑与庭院构成不同空间。作者公开网页实现、Blender 资产生成与影片制作材料。",
+    "imageUrl": "https://raw.githubusercontent.com/lkuczborski/AstraGallery/main/documentation/images/hall-of-fame.jpg",
+    "imageKind": "author-render",
+    "imageCaption": "作者已发布展馆影片的实际静帧：Hall of Fame 展厅、青铜轨道雕塑与墙上海报。海报为原社区作者的既有作品，不归为 Astra 新生成图像。",
+    "outcome": "成果图完整获取并解码、目视。作者称展馆包含26个连通房间、358件去重海报，并公开AR模型准备与影片流程；这些是项目自述，未独立核验数量、性能或真机AR定位。作者演示站匿名GET返回403，本轮不计可达演示入口。首发未知，保留null。",
+    "modelLabel": "Astra Ultra / Codex（作者声明）",
+    "group": "astra",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub",
+      "Website",
+      "X"
+    ],
+    "author": "Łukasz Kuczborski / @lkuczborski",
+    "sourceUrl": "https://github.com/lkuczborski/AstraGallery",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-20",
+    "addedAt": "2026-10-20",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者README明确使用Codex与Astra Ultra，由作者负责构思、创作方向和逐轮查看，Codex负责实现、建筑建议、室内资产、AR准备与影片。Blender生成坐椅、树木与雕塑；品牌标识另用图像生成；墙上海报来自Jess的既有Codex Billboards社区，逐件署名，不能算Astra生成的358件独立作品。",
+    "sourceAccess": "官方GitHub API匿名完整GET作者README、仓库metadata和完整文件树均200；树确认存在网页实现及制作材料。成果JPEG直接完整GET200 / image/jpeg / 67,641字节，与Content-Length一致，1280×720，SHA-256 071513cf9eef9950820bf61db6052a35104c8b036487dc2f1c21f7fcbc207326；Pillow Image.load完整解码并view_image实际查看。作者网站匿名GET403。未下载或执行第三方工程。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/lkuczborski/AstraGallery",
+    "outputType": [
+      "三维展馆漫游",
+      "网页与资产生成源码",
+      "作者实际影片静帧"
+    ],
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptUrl": null,
+    "promptSummary": null,
+    "evidenceUrls": [
+      "https://astra-gallery.lkuczborski.chatgpt.site/",
+      "https://x.com/lkuczborski/status/2099205046604890356",
+      "https://github.com/lkuczborski/AstraGallery/tree/main/production",
+      "https://codex-billboard.vercel.app/gallery"
+    ],
+    "licenseNotes": "本轮GitHub license API返回404，metadata无许可证，未见独立LICENSE，不擅自宣称开源复用许可。展馆实现、社区海报、品牌图形及影片分别保留原作者和相关权利人权利；署名与公开可见不等于自由再分发，外链预览不纳入本库MIT。"
+  },
+  {
+    "id": "dylan-apartment-daylight-tour",
+    "title": "Apartment Virtual Tour：12张室内照片到日光公寓漫游",
+    "titleEn": "Apartment Virtual Tour — Photos to a Daylight Apartment",
+    "category": "建筑与室内",
+    "summary": "根据12张室内照片与一份平面图重建四卧公寓。Blender Cycles渲染房间全景，Three.js负责切换视点和环视；厨房成果图之外，仓库还公开可编辑场景与渲染脚本。",
+    "imageUrl": "https://raw.githubusercontent.com/dylanxzthomas/apartment-virtual-tour/main/public/preview.png",
+    "imageKind": "render",
+    "imageCaption": "作者public/preview.png中的实际Blender日光厨房渲染；不是public/references里的输入照片。网页以已渲染360°全景在房间间切换，不等于连续自由行走几何。",
+    "outcome": "厨房成果PNG已完整获取、解码并目视，柜体、电器、地板和门窗可见。完整文件树确认可编辑.blend、渲染脚本和11张房间全景；未打开.blend、重渲染或核验建筑尺寸。作者网站GET连接超时，当前不计可达演示入口。首发日期未确认，保持null。",
+    "modelLabel": "GPT Astra-6 / Blender / Three.js（作者声明）",
+    "group": "astra",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub",
+      "Website"
+    ],
+    "author": "Dylan Szeto / @dylan_szeto",
+    "sourceUrl": "https://github.com/dylanxzthomas/apartment-virtual-tour",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-20",
+    "addedAt": "2026-10-20",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者README称作品由GPT Astra-6、Blender和Three.js完成。照片与平面图是输入，Blender Cycles负责日光、材质和360°图像，Three.js展示全景、React处理导航；当前公开站点使用全景漫游，早期连续三维版本另留在仓库，不能混写成同一运行方式。",
+    "sourceAccess": "官方GitHub API匿名完整GET作者README、metadata与完整文件树均200，确认.blend及渲染脚本路径。成果PNG直接完整GET200 / image/png / 1,235,221字节，与Content-Length一致，1120×840，SHA-256 d42d7241d0bb859a01094586f8d99c59829874d0798f47351a840e606138395a；Pillow Image.load完整解码并view_image实际查看。Vercel演示及同站预览请求连接超时，改用作者GitHub原图。未下载或执行工程。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/dylanxzthomas/apartment-virtual-tour",
+    "outputType": [
+      "Blender可编辑公寓",
+      "360°全景网页",
+      "日光渲染与渲染脚本"
+    ],
+    "promptAvailability": "unpublished",
+    "promptExcerpt": null,
+    "promptUrl": null,
+    "promptSummary": null,
+    "evidenceUrls": [
+      "https://github.com/dylanxzthomas/apartment-virtual-tour/tree/main/blender",
+      "https://github.com/dylanxzthomas/apartment-virtual-tour/tree/main/public/daylight-tour",
+      "https://github.com/dylanxzthomas/apartment-virtual-tour/tree/main/public/references"
+    ],
+    "licenseNotes": "本轮GitHub license API返回404，metadata无许可证，未见独立LICENSE；公开工程与下载入口不代表自由复用许可。输入房产照片、模型、纹理和渲染图保留各自权利，外链成果预览不纳入本库MIT。"
+  },
+  {
+    "id": "eymndev-klein-bottle-blender",
+    "title": "Klein Bottle：透明克莱因瓶与可编辑Blender模型",
+    "titleEn": "Klein Bottle — A Glass Form and Editable Blender Model",
+    "category": "Blender 建模",
+    "summary": "透明青绿色克莱因瓶展示内外相通的管体与穿插形态，保留可见的表面分段。作者公开实际成果图及Blender、OBJ、MTL文件，可作为数学形体与材质研究起点。",
+    "imageUrl": "https://github.com/user-attachments/assets/1163449d-0d1b-45ec-9843-dc5f83e61452",
+    "imageKind": "render",
+    "imageCaption": "作者README展示的1300×1300克莱因瓶成果渲染：青绿色透明曲面、内部管道与底座。不是README顶部AI Generated标签；未证明其数学参数化、拓扑或可打印性。",
+    "outcome": "原成果PNG完整下载、解码并目视；完整Git树确认klein_sisesi.blend、klein_sisesi.obj、klein_sisesi.mtl存在。未下载模型、重跑建模或验证流形/自交/打印。未见实际生成计时与完整提示词，仓库描述耗时不作为独立测量；首发日期未知。",
+    "modelLabel": "ChatGPT-6 Astra Max / Blender / Computer Use（作者声明）",
+    "group": "astra",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "Eymen Yıldırım / eymndev",
+    "sourceUrl": "https://github.com/eymndev/klein-bottle-gpt6-astra-max",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-20",
+    "addedAt": "2026-10-20",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者README短句明确列出Blender、ChatGPT Plus、ChatGPT-6 Astra Max与Computer Use；本文只记录作者归属声明。Blender负责几何和渲染，原作者未公开完整对话、操作记录或严格数学验证。",
+    "sourceAccess": "官方GitHub API匿名完整GET作者README、metadata和完整文件树均200；树确认.blend、OBJ、MTL。README原GitHub附件地址完整GET200 / image/png / 1,933,690字节，与Content-Length一致，1300×1300，SHA-256 c82949a7455672e0f34ba1d857e855e4e306535a115aa596dabdcd8ad115bb94；Pillow Image.load完整解码并view_image实际查看。使用稳定附件入口，不保存短期签名地址。未下载或执行工程。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/eymndev/klein-bottle-gpt6-astra-max",
+    "outputType": [
+      "Blender可编辑模型",
+      "OBJ / MTL交换文件",
+      "数学形体成果渲染"
+    ],
+    "promptAvailability": "unpublished",
+    "promptExcerpt": null,
+    "promptUrl": null,
+    "promptSummary": null,
+    "evidenceUrls": [
+      "https://github.com/eymndev/klein-bottle-gpt6-astra-max/blob/main/klein_sisesi.blend",
+      "https://github.com/eymndev/klein-bottle-gpt6-astra-max/blob/main/klein_sisesi.obj"
+    ],
+    "licenseNotes": "本轮GitHub license API返回404，metadata无许可证，完整文件树仅README与模型/材质文件，未见LICENSE。公开可见不等于允许任意复用；成果图和模型保留原作者权利，不纳入本库MIT。"
+  },
+  {
+    "id": "shimecki-apartment-tile-walkthrough",
+    "title": "选砖前先漫游：公寓 Blender 模型与饰面切换",
+    "titleEn": "Apartment Studio — A Walkthrough for Choosing Tiles",
+    "category": "建筑与室内",
+    "modelLabel": "GPT-6 Astra High + Blender（作者自述）",
+    "summary": "作者把新公寓资料交给Astra，制作带房间选择、漫游、俯视和瓷砖饰面控件的三维网页。成果录像展示客餐厅、厨房及全屋布局；本轮只核对公开录像，不把本地运行界面当公开试玩。",
+    "imageCaption": "原作者原帖实际运行录像封面：客餐厅与厨房的三维成果，右侧可见瓷砖材质选项，浏览器本地地址和Astra High会话也在画面内。引用前帖中的平面/装修拼图是输入资料，不作为成果预览。 附完整原帖比较或运行录像及最高码率原版下载。",
+    "outcome": "保留约115.4秒完整原帖录像。作者称单个任务完成，但明确遇到两次额度中断并在数小时后要求继续，不能写成不中断的一次生成。公开任务同时要求Blender模型与交互网页；未取得可公开打开的本例网站、模型下载或源代码，也未验证测量精度与施工适用性。",
+    "promptSummary": "作者公开任务，要求先在Blender建立逼真的公寓三维模型，再做可进入的交互网页并切换瓷砖；先前帖提供公寓资料作为输入。",
+    "promptAvailability": "linked",
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/scheemunai/status/2100222426705453318",
+    "outputType": [
+      "公寓三维重建",
+      "网页漫游与饰面控件",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Shimecki / @scheemunai",
+    "sourceUrl": "https://x.com/scheemunai/status/2100222426705453318",
+    "sourceDate": "2026-09-16",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-20",
+    "addedAt": "2026-10-20",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者X完整HTML与精确同帖FxTwitter作者、时间和媒体ID相互吻合。作者明确使用Astra和Blender；公开画面是本地网页和会话，未独立确认实际建模脚本/完整资产生成过程或MCP职责，不额外推断。 模型与流程归属为作者自述，未独立复现。",
+    "sourceAccess": "原作者X完整GET200 / text/html / 139,622字节；作者和created_at_ms与同帖辅助元数据匹配。原帖成果封面完整GET200 / image/jpeg / 101,567字节 / 1140×674，核对Content-Length和SHA-256，Pillow完整解码并实际查看。完整最高码率平台原版与较小完整平台版MP4均完整GET200，核对媒体ID、来源时长、MIME、Content-Length、字节和SHA-256；严格FFmpeg全长null解码exit0且stderr为空，完整录像中帧实际查看，未剪辑或转码。 Release六附件尺寸与服务器SHA-256 digest已核对一致。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2100220843775156224/img/QCFfTKkNlB-R01D9.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "repositoryUrl": null,
+    "videoUrl": "https://x.com/scheemunai/status/2100222426705453318",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/scheemunai/status/2100222426705453318",
+      "https://x.com/scheemunai/status/2098822544300085670"
+    ],
+    "licenseNotes": "作品及第三方媒体保留原作者与相关权利人权利，不纳入本库MIT；公开访问和归档不代表独立取得再分发或商业许可。完整原平台录像不剪辑或转码，保留原帖来源与移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/shimecki-apartment-tile-walkthrough-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-20/shimecki-apartment-tile-walkthrough-1-original.mp4",
+        "durationSeconds": 115.41,
+        "bytes": 9620936,
+        "sha256": "d5c2622cab89bb60f4512d3b3376fcfb4a922c84e51681f49b76673aa8bb798a",
+        "sourceUrl": "https://x.com/scheemunai/status/2100222426705453318",
+        "label": "Apartment Studio — Walkthrough and Tile Options",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2100220843775156224/img/QCFfTKkNlB-R01D9.jpg"
+      }
+    ]
+  },
+  {
     "group": "astra",
     "platform": "X",
     "platforms": [

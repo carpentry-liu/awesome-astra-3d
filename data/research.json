@@ -9391,6 +9391,198 @@
         "transcoded": false,
         "trimmed": false
       }
+    },
+    {
+      "observedAt": "2026-10-20",
+      "checkedAtUtc": "2026-10-20T03:07:14.622370+00:00",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "baselineCommit": "f4e3365219acf5d791b6487952bbb93a76559abc",
+      "baselineCount": 372,
+      "resultingCount": 378,
+      "addedCaseIds": [
+        "agentsky-steampunk-clock-tower",
+        "harry-koi-pond-comparison",
+        "lkuczborski-astra-gallery",
+        "dylan-apartment-daylight-tour",
+        "eymndev-klein-bottle-blender",
+        "shimecki-apartment-tile-walkthrough"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "coverage": [
+        {
+          "id": "agentsky-steampunk-clock-tower",
+          "sourceUrl": "https://x.com/agentsky_dev/status/2112137926922686800",
+          "sourceDate": "2026-10-19",
+          "previewUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2112137744931831808/pu/img/apBGUgWwwhBDvpd9.jpg",
+          "roles": "GPT-6 Astra / Claude Fable 5.1 / DeepSeek V4.1 Flash（分栏对照）"
+        },
+        {
+          "id": "harry-koi-pond-comparison",
+          "sourceUrl": "https://x.com/keydol123/status/2111817735181332826",
+          "sourceDate": "2026-10-18",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2111817451415719937/img/xwNsTTgf7_II2x1D.jpg",
+          "roles": "GPT-6 Astra / Claude Opus 5.5（左右对照）"
+        },
+        {
+          "id": "lkuczborski-astra-gallery",
+          "sourceUrl": "https://github.com/lkuczborski/AstraGallery",
+          "sourceDate": null,
+          "previewUrl": "https://raw.githubusercontent.com/lkuczborski/AstraGallery/main/documentation/images/hall-of-fame.jpg",
+          "roles": "Astra Ultra / Codex（作者声明）"
+        },
+        {
+          "id": "dylan-apartment-daylight-tour",
+          "sourceUrl": "https://github.com/dylanxzthomas/apartment-virtual-tour",
+          "sourceDate": null,
+          "previewUrl": "https://raw.githubusercontent.com/dylanxzthomas/apartment-virtual-tour/main/public/preview.png",
+          "roles": "GPT Astra-6 / Blender / Three.js（作者声明）"
+        },
+        {
+          "id": "eymndev-klein-bottle-blender",
+          "sourceUrl": "https://github.com/eymndev/klein-bottle-gpt6-astra-max",
+          "sourceDate": null,
+          "previewUrl": "https://github.com/user-attachments/assets/1163449d-0d1b-45ec-9843-dc5f83e61452",
+          "roles": "ChatGPT-6 Astra Max / Blender / Computer Use（作者声明）"
+        },
+        {
+          "id": "shimecki-apartment-tile-walkthrough",
+          "sourceUrl": "https://x.com/scheemunai/status/2100222426705453318",
+          "sourceDate": "2026-09-16",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2100220843775156224/img/QCFfTKkNlB-R01D9.jpg",
+          "roles": "GPT-6 Astra High + Blender（作者自述）"
+        }
+      ],
+      "queries": [
+        "GPT-6 Astra 3D after:2026-10-18",
+        "GPT-6 Astra github October 2026 3D",
+        "site:github.com Astra blender 2026-10-19",
+        "GitHub API repositories astra 3d sort updated",
+        "GitHub API repositories astra threejs sort updated",
+        "GitHub API repositories astra game pushed:>=2026-10-10",
+        "GitHub API repositories GPT-6 blender sort updated",
+        "\"Astra\" \"3D\" site:x.com after:2026-10-18",
+        "\"Astra\" \"Blender\" site:x.com after:2026-10-18",
+        "\"GPT-6\" \"3D\" \"October 19\"",
+        "\"Astra\" \"3D\" site:reddit.com after:2026-10-18",
+        "\"Astra\" \"3D\" \"Oct 20\" -site:tokscale.ai",
+        "\"Astra\" \"Blender\" \"Oct 19\" -site:tokscale.ai",
+        "\"vib3coded\" \"Astra\" \"October\"",
+        "\"GPT6\" \"3D\" \"2026-10-19\" -site:tokscale.ai",
+        "\"Aster Drift\" \"vib3coded\"",
+        "\"claw machine\" \"Astra\" \"vib3coded\"",
+        "\"jelly sakura tree\" \"Astra\"",
+        "\"Astra\" \"koi pond\" \"Harry Jackson\"",
+        "site:x.com/keydol123 \"koi\" \"Astra\"",
+        "site:x.com/BecomeCGPro \"Astra\" \"Blender\"",
+        "site:reddit.com \"Astra\" \"Blender\" \"October 20 2026\" -removed -model_race",
+        "site:linux.do \"Astra\" \"Blender\" \"2026\" \"10月20\"",
+        "\"GPT-6 Astra\" 3D \"October\" \"2026\"",
+        "\"Astra\" \"3D\" \"2026-10-20\"",
+        "\"GPT-6\" \"blender\" \"October 2026\"",
+        "site:x.com \"Astra\" \"3D\" \"Oct 20\"",
+        "site:x.com \"Astra\" \"Blender\" \"Oct 19\"",
+        "\"GPT-6 Astra\" \"3D\" after:2026-10-18 -site:carpentry-liu.github.io -site:youtube.com"
+      ],
+      "excluded": [
+        {
+          "url": "https://github.com/benikigai/worldkinetic",
+          "reason": "已有archive记录，不作为净新增。"
+        },
+        {
+          "url": "https://github.com/ecooxai/gpt6-astra-pro-chatgpt-threejs-graywhitecat-20261017",
+          "reason": "搜索索引有明确Astra说明，但当前作者readme API404，未取得完整作品证据，不收录。"
+        },
+        {
+          "url": "https://github.com/jurgfish/astral-shepherd-blender",
+          "reason": "Astra近似词为游戏名，README只说game jam美术，缺少GPT-6 Astra模型证据。"
+        },
+        {
+          "url": "https://github.com/maxsilvaweb/supercar-threejs-astra-configurator",
+          "reason": "README说明Astro/React/Three.js，未明确Astra模型，名字不能当模型归属。"
+        },
+        {
+          "url": "https://github.com/lakeczar/subnautica-clone",
+          "reason": "简介提Astra工作流，但README只有T3 Code声明，未完成作者模型/成果预览核验。"
+        },
+        {
+          "url": "https://github.com/fanmihua/gpt6-3d-modeling",
+          "reason": "完整Blender工程与教学预览可见，但README和所查课程入口未明确Astra，GPT6不能自动补为Astra。"
+        },
+        {
+          "url": "https://github.com/bytebymint/gravity-gpt6-astra-webgl",
+          "reason": "原作者明确Astra，但本轮未取得原作者已发布静态成果截图；保留线索，未收录。"
+        },
+        {
+          "source": "https://www.sotwe.com/vib3coded?lang=en",
+          "reason": "Aster Drift、抓娃娃机、樱花树等只取得聚合相对日期，没有精确原帖和本轮完整媒体链，不凑收录；旧的Squid/Koi/Bloom/Ocean本库已收录。"
+        },
+        {
+          "source": "https://3d-prompt.com/prompts/steampunk-clock-tower-threejs-night-scene",
+          "reason": "该聚合最初链接的是提示词回复2112137931498688982，实际成果父帖2112137926922686800已追溯；按同一作品合并，不把回复另计。"
+        },
+        {
+          "source": "https://3d-prompt.com/prompts/wright-flyer-through-a-japanese-forest-2096467585785286808",
+          "reason": "Jared后做的Tripo升级版与The Bugged Dev原作是不同流程，聚合标注重建brief而非原始prompt，本轮未完成其原作者模型与媒体对应，不收录。"
+        },
+        {
+          "source": "https://www.sotwe.com/BecomeCGPro?lang=en",
+          "reason": "古罗马/斗兽场是活动预告聚合，未取得精确原帖和实际成果完整媒体，本轮留线索。"
+        },
+        {
+          "source": "https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100222426705453318",
+          "reason": "已回到Shimecki精确原帖，引用中的公寓资料为输入，不把该拼图当成果；作者自述中断续跑保留。"
+        },
+        {
+          "url": "https://www.reddit.com/r/ChatGPT/comments/1x95hmo/opus_55_vs_gpt_astra_modeling_in_blender_same/",
+          "reason": "作者正文可读，但成果CDN预览仍跳转HTML，未取得可核验的实际图像；不收录。"
+        },
+        {
+          "url": "https://www.reddit.com/r/TopologyAI/comments/1x9u13p/finally_an_ai_agent_that_assembles_modular_game/",
+          "reason": "作者声明Astra编排与Tripo生成，但预览CDN跳转媒体HTML；未取得可稳定展示、且能区分输入和成果的预览，留待核查。"
+        }
+      ],
+      "limits": [
+        "No Xiaohongshu access or publishing.",
+        "Source dates and collection date remain separate; three unknown first-publication dates remain null.",
+        "Clock-tower comparison: Fable left, Astra centre, DeepSeek right; the full clip includes separate model shots.",
+        "Koi comparison: Astra left and Opus right. Source cost/speed claims are not independent benchmarks.",
+        "Gallery community posters are existing inputs, not hundreds of new Astra-generated works.",
+        "Apartment Virtual Tour uses rendered 360 panoramas; not claimed as continuous free-walk geometry.",
+        "Public GitHub project links are not licence grants; no independent reproduction of third-party projects.",
+        "Gallery demo GET403 and apartment demo connection timeout are access observations; usable creator images remain available.",
+        "Local production browser playback, bilingual routes, six new images and desktop/mobile layout were verified; creator demos and source projects were not independently reproduced."
+      ],
+      "historicalIncrementalSummary": {
+        "checkedImages": 40,
+        "http200Images": 40,
+        "realDecodedImages": 40,
+        "imageMimeCount": 38,
+        "octetStreamRealJPEGs": [
+          "tokengremlin-lumen-isles",
+          "misat0x-boeing747-assembly"
+        ],
+        "visuallyInspectedRepresentativeImages": [
+          "givros-sunline-city",
+          "cedric-adizero-five-model-comparison",
+          "krishbakshi-worldbench-voxel-island",
+          "jonathanmorales-digital-reset",
+          "kevinxu02-aha3d-real2sim"
+        ],
+        "checkedVideoCases": 10,
+        "checkedVideoEndpoints": 20,
+        "video206Count": 20,
+        "videoEndpointManifestTotalMatch": 20,
+        "rateOrAccessLimitedEndpoints": 0,
+        "confirmedUnavailableCasesWithoutOtherPreview": [],
+        "limits": "Sample only. Not a browser re-test, video full download/decode/hash re-test, or full-catalogue audit. Decoding verifies actual image file; visual inspection was limited to 5 recent representative images. Source/author claims not re-audited.",
+        "imageContentLengthMatchesActualBytes": 40
+      },
+      "completeSourceClips": 3,
+      "newMediaFiles": 6,
+      "newMediaBytes": 31396417,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-20"
     }
   ]
 }

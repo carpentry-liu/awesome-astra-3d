@@ -62,23 +62,23 @@ npm start
 
 ## 最近一次内容验证
 
-实测日期为 2026-10-19（Asia/Shanghai），本轮新增 **5 件此前未收录作品、1 段完整 X 录像**：Sunline铁路群岛、Adizero五模型对照、WorldBench体素世界、Digital Reset都市与AHa-3D室内重建。当前372条记录包括 **360条 Astra 案例**与12条方法参考，提供106条源码 / 工程入口、120个演示入口和161段归档完整录像。今天是收录日，不将未知首发日补成今天；两个未知首发日保持null。
+实测日期为 2026-10-20（Asia/Shanghai）。本轮新增 **6 件此前未收录作品、3 段完整 X 录像**：午夜钟楼、锦鲤池两组模型对照，Astra Gallery 展馆、公寓日光全景、克莱因瓶，以及公寓漫游与选砖。当前378条记录包括 **366条 Astra 案例**与12条方法参考，提供109条源码 / 工程入口、120个演示入口和164段归档录像。今天是收录日；三项无法确认的首发日期保持null，不用仓库创建日期代替。
 
 | 检查 | 实际命令与结果 |
 | --- | --- |
-| `npm run catalog` | 从372条事实源同步中英文README自动区、目录、更新记录、公开JSON与sitemap |
-| `npm run check` · `npm run lint` | 372条数据、24项行为测试、TypeScript与lint通过 |
-| `npm run build` | 普通构建通过：774静态页、16,604本地引用、372详情JSON与775 sitemap URL |
-| 设置 `GITHUB_PAGES=true` 后 `npm run build` | Pages子路径构建通过，同样的页面、资源与sitemap校验通过；本地交互核查使用前述普通构建 |
-| 来源与成果 | 五件新增均有原作者证据与完整获取、解码及实际查看的成果预览；真实浏览器五张新图均加载。区分Adizero输入照片与五模型成果、WorldBench上下两模型、AHa专用感知与动作工具。Digital Reset是原生Rust场景；不将公开截图写为试玩入口。GitHub API限流和演示仅HTML可达的边界保留 |
-| 完整原帖录像 | Sunline最高码率原版及较小完整平台版共2文件、119,969,915字节。核对媒体ID、MIME、Content-Length、时长及SHA-256；`ffmpeg -v error -xerror -err_detect explode -i FILE -f null -` 两文件严格全长解码exit0且stderr空。来源102.368秒与文件102.42秒误差小于0.2秒；未剪辑或转码。原生播放器正常速度完整播放至102.421333秒，`ended=true`、无媒体错误 |
-| 双语与响应布局 | 英文Sunline搜索为1结果；空搜索为0且清除恢复列表。中英文独立详情实际核查。1440和390像素视口均无页面横向溢出；首页、手机、详情与完整播放检查页控制台无warning/error |
-| 网站与GitHub实拍 | 四张当前截图以真实浏览器重新拍摄，保留原生捕获像素；双语README、Sunline详情链接与媒体说明同步。分享封面与首页截图逐字节相同；删除已替换的四张旧图，不提交本地迁移说明、调研下载或视频到Git |
-| 数据边界与独立复核 | 旧367条案例逐字段及相对顺序不变，旧320个视频条目完全不变。只追加本轮5件案例、2个视频文件与增量研究/审核记录。抽查10个既有预览、演示和媒体端点；5张预览可解码、公共端点未发现失效，GitHub API限流不当作原作品失效。没有将今天改成全库复查日期 |
+| `npm run catalog` | 从378条事实源同步双语README自动区、目录、公开JSON与sitemap |
+| `npm run check` · `npm run lint` | 378条数据、24项行为测试、TypeScript与lint通过 |
+| `npm run build` | 普通构建通过：786静态页、16,856本地引用、378详情JSON与787 sitemap URL；保留既有chunk体积与Node兼容包装告警，不作为浏览器错误 |
+| 设置 `GITHUB_PAGES=true` 后 `npm run build` | Pages子路径构建通过：786静态页、16,856本地引用、378详情JSON与787 sitemap URL；真实交互核查使用前述普通生产构建 |
+| 新增成果与边界 | 六张原作者成果图完整GET、长度/hash、全图解码及目视通过，并在真实浏览器加载。钟楼左Fable/中Astra/右DeepSeek、锦鲤左Astra/右Opus分别标注。Gallery沿用的358件社区海报不是新增Astra图；Dylan当前网页使用已渲染360°全景，不宣称连续自由行走；Klein不宣称数学/打印验证。三份公开工程未见LICENSE，保留来源权利 |
+| 完整X录像 | 三原帖×最高码率原版/较小完整平台版共6文件、31,396,417字节。来源20/23.701/115.363秒，对应文件20/23.74/115.41秒，全部误差小于0.2秒；核对媒体ID、MIME、Content-Length和SHA-256，严格FFmpeg全长解码exit0且stderr空，未剪辑或转码。Release六附件尺寸/digest均匹配 |
+| 真实浏览器播放 | 同一本地生产构建的三个原生播放器正常速度完整播放至20、23.744、115.413333秒，均`ended=true`、`playbackRate=1`、无媒体错误；这是完整平台小版的播放检查，不是独立复现作品 |
+| 双语、预览与响应布局 | 六张新图真实加载。英文Klein搜索1结果、未知词0结果，点击Clear filters恢复366结果并保留英文。中英文钟楼独立详情核查；1440×1100和390×844视口均无页面横向溢出，首页/手机/播放检查页控制台无warning/error |
+| 网站与GitHub实拍 | 四张10月20日真实浏览器原生截图替换旧图，双语README、钟楼详情链接与媒体说明同步；分享封面与首页截图字节相同。没有把桌面截图改名当手机图，没有生成图或后期拼图 |
+| 历史媒体抽样 | 最新30条加其余分散10条，共40张封面完整GET、长度匹配和实际解码通过；10段既有视频的Pages/Release共20端点均为有效MP4范围响应，长度与清单匹配。未发现需下架样本，未标为全库复核、全视频完整解码或全部浏览器试玩。两张Release封面MIME为octet-stream但实际为有效JPEG，未误判；Gopher GIF116帧完整解码，CDN重取字节变化如实保留 |
+| 独立差异复核 | 旧372条案例逐字段及相对顺序不变，旧322个视频条目完全不变；只增加6例、6文件及本次审核证据。公开JSON一致，三个未知日期保持null，视频original/web对应正确；新增行无本机路径、临时签名URL、凭据或完整作者文章 |
 
-完整录像已发布至[本轮Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-19)，两附件尺寸与服务器SHA-256 digest均匹配。内容提交 `3fcc5ee` 已推送至 `main`，[Pages工作流](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/39184766035) 的检查、构建、全部161段播放文件下载校验和部署均成功。生产端27项完整GET核对全部通过：372条公开目录、首页统计、775项sitemap、5条详情JSON、10个双语详情、1段新MP4、四张当前截图、分享封面及README/视频清单。详情另核对canonical、语言、作者和原始来源；播放文件完整字节与hash匹配，Release两附件尺寸/digest再次核对一致。RAW文件按已发布提交的Git blob逐字节比较，避免Windows行尾误报。
-
-发布后自动浏览器读取超时，未声称生产浏览器交互复核成功；上述浏览器播放、搜索、响应布局、截图和控制台证据来自发布前的本地生产构建，线上验证以完整GET为准。本轮不重新部署案例库的ChatGPT Site。
+完整录像已发布至[10月20日Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-20)。源码和Pages尚待本轮发布后核对；不在此记录尚未发生的线上验证。本轮不重新部署案例库的ChatGPT Site，不上传本地迁移说明、研究下载或MP4到代码目录。
 
 ## 小王子制作流程复核（2026-10-18）
 
