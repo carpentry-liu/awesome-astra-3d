@@ -9583,6 +9583,209 @@
       "newMediaFiles": 6,
       "newMediaBytes": 31396417,
       "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-20"
+    },
+    {
+      "observedAt": "2026-10-21",
+      "checkedAtUtc": "2026-10-21T01:15:59.897431+00:00",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "baselineCommit": "2c9018c32e7a69323a645c677414ca529a31307d",
+      "baselineCount": 378,
+      "resultingCount": 385,
+      "addedCaseIds": [
+        "vib3coded-jelly-avocado-comparison",
+        "citaborg-gps-threejs-story",
+        "umutseve4-luna-park",
+        "michaelcrosato-meridian-wake",
+        "onemorevision-sketchup-local-mcp-interior",
+        "rhinox-interactive-ghost-comparison",
+        "vib3coded-marine-lagoon-comparison"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "coverage": [
+        {
+          "id": "vib3coded-jelly-avocado-comparison",
+          "sourceUrl": "https://x.com/vib3coded/status/2112128541022114137",
+          "sourceDate": "2026-10-19",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2112128465856086016/img/KK-qkssOLG_cTaB_.jpg",
+          "roles": "GPT-6 Astra / Claude Opus 5.5（上下对照）"
+        },
+        {
+          "id": "citaborg-gps-threejs-story",
+          "sourceUrl": "https://github.com/Citaborg/how-does-gps-work",
+          "sourceDate": null,
+          "previewUrl": "https://www.bredland.no/gps/img/astra-2-3d.jpg",
+          "roles": "GPT-6 Astra xhigh（主代理）+ GPT-5.6 Terra / Sol（子代理）"
+        },
+        {
+          "id": "umutseve4-luna-park",
+          "sourceUrl": "https://github.com/umutseve4/astra-lunapark",
+          "sourceDate": null,
+          "previewUrl": "https://raw.githubusercontent.com/umutseve4/astra-lunapark/main/docs/preview.png",
+          "roles": "GPT-6 Astra Ultra（作者声明） / Three.js"
+        },
+        {
+          "id": "michaelcrosato-meridian-wake",
+          "sourceUrl": "https://github.com/michaelcrosato/meridian-wake-g6a",
+          "sourceDate": null,
+          "previewUrl": "https://raw.githubusercontent.com/michaelcrosato/meridian-wake-g6a/main/docs/images/title.webp",
+          "roles": "GPT-6 Astra（初版生成，作者声明） / Three.js / Rapier"
+        },
+        {
+          "id": "onemorevision-sketchup-local-mcp-interior",
+          "sourceUrl": "https://note.com/onemorevision/n/nc67debf47d0b",
+          "sourceDate": "2026-10-17",
+          "previewUrl": "https://assets.st-note.com/img/1792021117-QzB2f0W1GuM9JNwyXbE8FdtA.png?width=1200",
+          "roles": "GPT-6 Astra + Codex + sketchup-mcp2 + SketchUp 2026"
+        },
+        {
+          "id": "rhinox-interactive-ghost-comparison",
+          "sourceUrl": "https://x.com/0xRhinoX/status/2111879242812465174",
+          "sourceDate": "2026-10-19",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2111879105046093824/img/mvwjyp1Gnanu2_nv.jpg",
+          "roles": "GPT-6 Astra / Claude Opus 5.5（左右对照）"
+        },
+        {
+          "id": "vib3coded-marine-lagoon-comparison",
+          "sourceUrl": "https://x.com/vib3coded/status/2111888587360792982",
+          "sourceDate": "2026-10-19",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2111888414630940673/img/bYsC1uWWBuFNH09f.jpg",
+          "roles": "GPT-6 Astra / GPT-6.1 Sol / Gemini 4 Argon / Claude Opus 5.5（四宫格）"
+        }
+      ],
+      "queries": [
+        "GPT-6 Astra 3D after:2026-10-19",
+        "GPT-6 Astra GitHub Blender after:2026-10-17",
+        "Astra threejs Oct 20",
+        "GitHub API: astra 3d / astra blender / astra threejs / GPT-6 blender，按updated检索",
+        "对昨日公开工程候选Citaborg/how-does-gps-work重新核实",
+        "\"Astra\" \"Blender\" site:x.com after:2026-10-19",
+        "\"Astra\" \"3D\" site:x.com after:2026-10-19",
+        "\"GPT-6 Astra\" \"3D\" after:2026-10-19 -site:tokscale.ai -site:benchlm.ai",
+        "\"Astra\" \"Three.js\" \"Oct 20\"",
+        "\"vib3coded\" \"avocado\" \"Astra\"",
+        "\"Aster Drift\" \"status\"",
+        "\"vib3coded\" \"sakura\" \"status\"",
+        "\"vib3coded\" \"claw\" \"status\"",
+        "\"vib3coded\" \"avocado\" \"PROMPT\" \"status\"",
+        "\"0xRhinoX\" \"ghost\" \"prompt\"",
+        "\"vib3coded\" \"Reef Lagoon\" \"prompt\"",
+        "\"vib3coded\" \"Aster Drift\" -site:chemipan.com -site:nerio.cz",
+        "\"GPT-6 Astra\" \"3D\" October 21 2026",
+        "\"GPT-6 Astra\" blender October 2026",
+        "\"Astra\" \"Three.js\" \"October 20\"",
+        "\"GPT-6 Astra\" \"3D\" after:2026-10-19 -site:carpentry-liu.github.io -site:github.com -site:reddit.com",
+        "\"Astra\" \"Blender\" \"Oct 21\"",
+        "\"GPT-6 Astra\" \"CAD\" \"2610.24451\"",
+        "\"GPT-6 Astra\" site:bilibili.com",
+        "\"Astra\" \"3D\" site:note.com after:2026-10-18",
+        "\"Astra\" \"Blender\" site:zenn.dev after:2026-10-15"
+      ],
+      "excluded": [
+        {
+          "url": "https://github.com/Bloody-Regina/f1-race-director",
+          "reason": "作者明确Astra/Codex，原实现和许可可读，但当前完整树只有环境素材，未取得作者可公开显示的实际成果截图，不凑数。"
+        },
+        {
+          "url": "https://github.com/littlepear404/aqua-pocket",
+          "reason": "原作者明确Astra medium并给试玩入口，但本轮未取得原作者已发布静态成果图，未执行第三方项目。"
+        },
+        {
+          "url": "https://github.com/vanshd132/Neon-Overdrive",
+          "reason": "原作者明确Astra和后续追加修改，但仅发现hero.png，未确认它为实际成果而非宣传素材，本轮未采用。"
+        },
+        {
+          "url": "https://github.com/Orgxsm/azura",
+          "reason": "已有展示或审核档案记录，不作为净新增。"
+        },
+        {
+          "url": "https://github.com/cristianexer/Hullscope",
+          "reason": "已有展示或审核档案记录，不作为净新增。"
+        },
+        {
+          "sourceUrl": "https://www.reddit.com/r/TopologyAI/comments/1x5kq0a/gpt6_astra_claude_opus_three_days_a_room_nobody/",
+          "reason": "Reddit原文回源Yokohara_h/2109984552286609651，现库yokohara-ai-workstation已收录，同一房间不因转载新增。"
+        },
+        {
+          "sourceUrl": "https://www.reddit.com/r/ClaudeAI/comments/1xardw5/who_did_it_better_gpt_6_astra_vs_opus_55/",
+          "reason": "u/SummonerRPG公开Nano Banana参考→Meshy资产→浏览器rig→Godot代码动画混合流程；但成果海报跳转HTML，匿名JSON与直接v.redd.it候选MP4均403，未获得可解码成果，不上架。不把Meshy模型归Astra原生建模，也不采用评论猜测的Blender MCP。"
+        },
+        {
+          "sourceUrl": "https://www.reddit.com/r/TopologyAI/comments/1x9u13p/finally_an_ai_agent_that_assembles_modular_game/",
+          "reason": "Part Composer使用Astra编排+Tripo P2/3.1生成零件，作者描述兔子与Unity集成；原海报跳转HTML，匿名JSON403，未取得真实成果预览，不上架。"
+        },
+        {
+          "sourceUrl": "https://www.sotwe.com/vib3coded?lang=en",
+          "reason": "Aster Drift、抓娃娃机、果冻樱花等仍只取得聚合快照，没有本轮精确原帖/媒体链，不据相对时间猜发布日期或凑收录。"
+        },
+        {
+          "sourceUrl": "https://www.tripo3d.ai/3d-prompts/avocado-jelly-webgpu-physics-simulation",
+          "reason": "聚合明确是Opus5.5提示词条；只用于发现Astra对照原帖，不把其长篇实现规范改称已核验Astra原始会话。"
+        },
+        {
+          "url": "https://arxiv.org/abs/2610.24451",
+          "reason": "论文有明确Astra CAD测试说明，但所查作者项目页显示collection image unavailable，HTML全文404；本轮未取得可直接展示、且能区分输入与成果的实际图，不计为新增。"
+        },
+        {
+          "url": "https://note.com/takanashi_ai/n/n57e54a744792",
+          "reason": "免费公开部分只到原2D参考头像，后续付费内容不可核验；未绕过付费墙，不把输入图当成果。"
+        },
+        {
+          "url": "https://zenn.dev/yy7613/articles/c150ef962ccc1f",
+          "reason": "作者说明主要制作过程由Opus5.5完成；提到试用Astra不足以把文章全部成果归给Astra。"
+        },
+        {
+          "url": "https://luminabench.com/models/gpt-6-astra/",
+          "reason": "现有luminabench-seaplane-configurations已包含本轮检索到的水上飞机作品，不重复计数。"
+        },
+        {
+          "url": "https://atatapp.com/blog/how-i-built-atats-3d-orb-with-gpt-6-astra",
+          "reason": "已有atat-animated-orb，不重复计数。"
+        }
+      ],
+      "limits": [
+        "No Xiaohongshu account access or social publishing.",
+        "Collection and source dates remain distinct; unknown dates stay null.",
+        "Comparison labels preserve each model role; creator cost and speed claims are not independently reproduced benchmarks.",
+        "GPS uses Astra as primary agent with Terra geometry and Sol review; Endless Sky source data is not new Astra content.",
+        "SketchUp comparison changes both model and connector; it is not a controlled model ranking.",
+        "Public project links do not imply a licence grant or independent execution of creator projects.",
+        "Local production browser verified all seven new images, bilingual routes, search/reset and desktop/mobile layout; all three complete platform clips ended at normal speed without media errors. Creator projects were not independently reproduced."
+      ],
+      "historicalIncrementalSummary": {
+        "checkedImages": 40,
+        "realDecodedImages": 40,
+        "http200Images": 40,
+        "imageMimeCount": 38,
+        "genericMimeRealImages": [
+          "tokengremlin-lumen-isles",
+          "misat0x-boeing747-assembly"
+        ],
+        "imageResponseLengthMatches": 40,
+        "retriedImageRequests": 0,
+        "checkedVideoCases": 10,
+        "checkedVideoEndpoints": 20,
+        "videoEndpointVerifiedCount": 20,
+        "video206Count": 20,
+        "videoManifestLengthMatchCount": 20,
+        "retriedVideoEndpointRequests": 0,
+        "failedImageSamples": [],
+        "failedVideoEndpointSamples": [],
+        "confirmedUnavailableCasesWithoutOtherPreview": [],
+        "limits": "Incremental sample, not full catalogue verification. Complete image GET/decode and bounded MP4 endpoint checks; no full video replay/decode or author/model attribution review in this step. Network failure is not itself proof of permanent unavailability.",
+        "visuallyInspectedRepresentativeImages": [
+          "agentsky-steampunk-clock-tower",
+          "harry-koi-pond-comparison",
+          "lkuczborski-astra-gallery",
+          "dylan-apartment-daylight-tour",
+          "eymndev-klein-bottle-blender"
+        ]
+      },
+      "completeSourceClips": 3,
+      "newMediaFiles": 6,
+      "newMediaBytes": 58823206,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-21"
     }
   ]
 }

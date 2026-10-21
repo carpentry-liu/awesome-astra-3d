@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-20 (Asia/Shanghai)** · **366 Astra examples** · **109 source / project links** · **120 demo links** · **164 complete videos** · **12 separate references**.
+Updated **2026-10-21 (Asia/Shanghai)** · **373 Astra examples** · **112 source / project links** · **121 demo links** · **167 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -44,18 +44,18 @@ Open an image for the case, materials and known limitations. This selection stay
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-20.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-21.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Production build screenshots from the October 20, 2026 iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Production build screenshots from the October 21, 2026 iteration. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
-<summary>Gallery, mobile and case screenshots · October 20, 2026</summary>
+<summary>Gallery, mobile and case screenshots · October 21, 2026</summary>
 
-[![Gallery filters and more works](docs/media/collection-2026-10-20.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Gallery filters and more works](docs/media/collection-2026-10-21.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-10-20.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-10-21.jpg)
 
-[![The Midnight Meridian — model comparison, task and complete recording](docs/media/case-2026-10-20.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/agentsky-steampunk-clock-tower/)
+[![LUNA PARK — the 3D amusement park and source project](docs/media/case-2026-10-21.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/umutseve4-luna-park/)
 
 </details>
 
@@ -63,19 +63,19 @@ Production build screenshots from the October 20, 2026 iteration. Browse in Chin
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The October 20 update adds **6 works and 3 complete X clips**: clock-tower and koi-pond comparisons, Astra Gallery, a daylight apartment panorama tour, a glass Klein bottle, and an apartment walkthrough with tile options. Three public source / project links were added. The posted clips total about 159 seconds, with both original and smaller complete platform renditions archived. Model labels stay separate within comparisons; first-publication dates remain distinct from today's collection date, and unknown dates stay unknown.
+The October 21 update adds **7 works and 3 complete X clips**: a GPS teaching story, LUNA PARK, Meridian Wake, a SketchUp floor-plan build, and avocado, ghost and marine-lagoon comparisons. Three source / project links and one demo link were added. About 68 seconds of posted footage is archived in original and smaller complete platform renditions. Comparison labels identify Astra’s panel; the GPS entry preserves sub-agent roles. Three unknown first-publication dates stay unknown.
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [Avocado Jelly — Two Models and a Removable Pit](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-jelly-avocado-comparison/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2112128541022114137) |
+| [GPS — A Continuous Story with 3D Spheres](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/citaborg-gps-threejs-story/) | Lars Thomas Bredland / Citaborg | [Demo](https://www.bredland.no/gps/gpt-6-astra/) · [Source](https://github.com/Citaborg/how-does-gps-work/tree/main/GPT6-Astra-xhigh) · [Original](https://github.com/Citaborg/how-does-gps-work) |
+| [LUNA PARK — A Procedural Amusement Park](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/umutseve4-luna-park/) | Umut Sever / umutseve4 | [Source](https://github.com/umutseve4/astra-lunapark) · [Original](https://github.com/umutseve4/astra-lunapark) |
+| [Meridian Wake — A Brick-Built Spacefaring Game](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/michaelcrosato-meridian-wake/) | Michael Crosato / michaelcrosato | [Source](https://github.com/michaelcrosato/meridian-wake-g6a) · [Original](https://github.com/michaelcrosato/meridian-wake-g6a) |
+| [The Same DXF, Rebuilt in SketchUp through Local MCP](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/onemorevision-sketchup-local-mcp-interior/) | One More Vision / 入江達也（STUDIO55） | [Original](https://note.com/onemorevision/n/nc67debf47d0b) |
+| [Jelly Ghost — A Halloween Desktop Companion Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/rhinox-interactive-ghost-comparison/) | Rhino / @0xRhinoX | [Original](https://x.com/0xRhinoX/status/2111879242812465174) |
+| [Reef Lagoon — Four Models Build a Marine Sanctuary](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-marine-lagoon-comparison/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2111888587360792982) |
 | [The Midnight Meridian — Three Agents Build a Clock-Tower Night Scene](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/agentsky-steampunk-clock-tower/) | AgentSky / @agentsky_dev | [Original](https://x.com/agentsky_dev/status/2112137926922686800) |
-| [Two Koi Ponds — Astra and Opus from the Same Brief](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/harry-koi-pond-comparison/) | Harry Jackson / @keydol123 | [Original](https://x.com/keydol123/status/2111817735181332826) |
-| [Astra Gallery — Community Billboards as a 3D Exhibition](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lkuczborski-astra-gallery/) | Łukasz Kuczborski / @lkuczborski | [Source](https://github.com/lkuczborski/AstraGallery) · [Original](https://github.com/lkuczborski/AstraGallery) |
-| [Apartment Virtual Tour — Photos to a Daylight Apartment](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/dylan-apartment-daylight-tour/) | Dylan Szeto / @dylan_szeto | [Source](https://github.com/dylanxzthomas/apartment-virtual-tour) · [Original](https://github.com/dylanxzthomas/apartment-virtual-tour) |
-| [Klein Bottle — A Glass Form and Editable Blender Model](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/eymndev-klein-bottle-blender/) | Eymen Yıldırım / eymndev | [Source](https://github.com/eymndev/klein-bottle-gpt6-astra-max) · [Original](https://github.com/eymndev/klein-bottle-gpt6-astra-max) |
-| [Apartment Studio — A Walkthrough for Choosing Tiles](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/shimecki-apartment-tile-walkthrough/) | Shimecki / @scheemunai | [Original](https://x.com/scheemunai/status/2100222426705453318) |
-| [Sunline Archipelago — A Railway Between Tropical Islands](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/givros-sunline-city/) | Givros / @givros | [Demo](https://givros.github.io/sunline-archipelago/) · [Source](https://github.com/givros/sunline-archipelago) · [Original](https://x.com/givros/status/2107806947110220069) |
-| [Adizero Product Page — A Five-Model Blender Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/cedric-adizero-five-model-comparison/) | cedric / @cedric_chee | [Original](https://x.com/cedric_chee/status/2111559444207456366) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

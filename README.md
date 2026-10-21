@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-10-20（Asia/Shanghai）**：**366 条 Astra 案例** · **109 条源码 / 工程** · **120 个演示入口** · **164 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-10-21（Asia/Shanghai）**：**373 条 Astra 案例** · **112 条源码 / 工程** · **121 个演示入口** · **167 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -44,18 +44,18 @@
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-20.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-21.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-2026-10-20 本轮生产构建实拍。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+2026-10-21 本轮生产构建实拍。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
-<summary>查看案例区、手机与作品详情实拍 · 2026-10-20</summary>
+<summary>查看案例区、手机与作品详情实拍 · 2026-10-21</summary>
 
-[![案例区：筛选与更多作品](docs/media/collection-2026-10-20.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![案例区：筛选与更多作品](docs/media/collection-2026-10-21.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端：精选作品与材料导航](docs/media/mobile-2026-10-20.jpg)
+![手机端：精选作品与材料导航](docs/media/mobile-2026-10-21.jpg)
 
-[![午夜钟楼：三模型成果、提示词与完整录像](docs/media/case-2026-10-20.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/agentsky-steampunk-clock-tower/)
+[![LUNA PARK：三维乐园成果与公开工程](docs/media/case-2026-10-21.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/umutseve4-luna-park/)
 
 </details>
 
@@ -63,19 +63,19 @@
 
 这里按本库收录日期排列；作品首次发布、模型配置与核查日期在各档案中分别记录。稳定精选不随日更替换。
 
-10 月 20 日新增收录 **6 件作品**、**3 段完整 X 录像**：午夜钟楼与锦鲤池的模型对照、Astra Gallery 三维展馆、公寓日光全景、透明克莱因瓶，以及公寓漫游与选砖。新增 3 个源码 / 工程入口；三段原帖录像共约159秒，原版和完整平台播放版均已归档。对照画面分别标注模型，旧作补录与今天首发分开；无法核实的首发日期保持空值。
+10 月 21 日新增收录 **7 件作品**、**3 段完整 X 录像**：GPS 三维教学、LUNA PARK 微缩乐园、Meridian Wake 太空游戏、SketchUp 图纸建模，以及果冻牛油果、幽灵和海洋泻湖的模型对照。新增 3 个源码 / 工程入口、1 个演示入口；约68秒原帖录像保留原版和完整平台播放版。对照图注明 Astra 的具体位置，GPS 保留子代理分工；三项未知首发日期继续留空。
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
+| [牛油果果冻：可分离果核的双模型对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-jelly-avocado-comparison/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2112128541022114137) |
+| [GPS：用三维球面讲清定位的连续故事](https://carpentry-liu.github.io/awesome-astra-3d/cases/citaborg-gps-threejs-story/) | Lars Thomas Bredland / Citaborg | [演示](https://www.bredland.no/gps/gpt-6-astra/) · [源码](https://github.com/Citaborg/how-does-gps-work/tree/main/GPT6-Astra-xhigh) · [原始来源](https://github.com/Citaborg/how-does-gps-work) |
+| [LUNA PARK：摩天轮与过山车的三时段微缩乐园](https://carpentry-liu.github.io/awesome-astra-3d/cases/umutseve4-luna-park/) | Umut Sever / umutseve4 | [源码](https://github.com/umutseve4/astra-lunapark) · [原始来源](https://github.com/umutseve4/astra-lunapark) |
+| [Meridian Wake：积木太空船与开放航路](https://carpentry-liu.github.io/awesome-astra-3d/cases/michaelcrosato-meridian-wake/) | Michael Crosato / michaelcrosato | [源码](https://github.com/michaelcrosato/meridian-wake-g6a) · [原始来源](https://github.com/michaelcrosato/meridian-wake-g6a) |
+| [同一张 DXF，换成 SketchUp 本地建模](https://carpentry-liu.github.io/awesome-astra-3d/cases/onemorevision-sketchup-local-mcp-interior/) | One More Vision / 入江達也（STUDIO55） | [原始来源](https://note.com/onemorevision/n/nc67debf47d0b) |
+| [Jelly Ghost：桌面幽灵的双模型实验](https://carpentry-liu.github.io/awesome-astra-3d/cases/rhinox-interactive-ghost-comparison/) | Rhino / @0xRhinoX | [原始来源](https://x.com/0xRhinoX/status/2111879242812465174) |
+| [Reef Lagoon：鲸鱼、鲨鱼与旋涡的四模型对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-marine-lagoon-comparison/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2111888587360792982) |
 | [午夜钟楼：Astra、Fable 与 DeepSeek 的 Three.js 对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/agentsky-steampunk-clock-tower/) | AgentSky / @agentsky_dev | [原始来源](https://x.com/agentsky_dev/status/2112137926922686800) |
-| [同一句话，两座锦鲤池：Astra 与 Opus 对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/harry-koi-pond-comparison/) | Harry Jackson / @keydol123 | [原始来源](https://x.com/keydol123/status/2111817735181332826) |
-| [Astra Gallery：把社区海报变成可探索的三维展馆](https://carpentry-liu.github.io/awesome-astra-3d/cases/lkuczborski-astra-gallery/) | Łukasz Kuczborski / @lkuczborski | [源码](https://github.com/lkuczborski/AstraGallery) · [原始来源](https://github.com/lkuczborski/AstraGallery) |
-| [Apartment Virtual Tour：12张室内照片到日光公寓漫游](https://carpentry-liu.github.io/awesome-astra-3d/cases/dylan-apartment-daylight-tour/) | Dylan Szeto / @dylan_szeto | [源码](https://github.com/dylanxzthomas/apartment-virtual-tour) · [原始来源](https://github.com/dylanxzthomas/apartment-virtual-tour) |
-| [Klein Bottle：透明克莱因瓶与可编辑Blender模型](https://carpentry-liu.github.io/awesome-astra-3d/cases/eymndev-klein-bottle-blender/) | Eymen Yıldırım / eymndev | [源码](https://github.com/eymndev/klein-bottle-gpt6-astra-max) · [原始来源](https://github.com/eymndev/klein-bottle-gpt6-astra-max) |
-| [选砖前先漫游：公寓 Blender 模型与饰面切换](https://carpentry-liu.github.io/awesome-astra-3d/cases/shimecki-apartment-tile-walkthrough/) | Shimecki / @scheemunai | [原始来源](https://x.com/scheemunai/status/2100222426705453318) |
-| [Sunline Archipelago：铁路连接的热带群岛](https://carpentry-liu.github.io/awesome-astra-3d/cases/givros-sunline-city/) | Givros / @givros | [演示](https://givros.github.io/sunline-archipelago/) · [源码](https://github.com/givros/sunline-archipelago) · [原始来源](https://x.com/givros/status/2107806947110220069) |
-| [Adizero三维产品页：五模型同题重建对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/cedric-adizero-five-model-comparison/) | cedric / @cedric_chee | [原始来源](https://x.com/cedric_chee/status/2111559444207456366) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)

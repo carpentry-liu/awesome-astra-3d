@@ -911,6 +911,17 @@
       "checkedAtUtc": "2026-10-18T01:42:10.014048+00:00",
       "result": "reachable",
       "method": "Full HTTP GET; no independent playthrough or reproduction"
+    },
+    {
+      "id": "citaborg-gps-threejs-story",
+      "url": "https://www.bredland.no/gps/gpt-6-astra/",
+      "status": 200,
+      "observedAt": "2026-10-21",
+      "checkedAtUtc": "2026-10-21T01:15:59.784274+00:00",
+      "result": "reachable",
+      "bytes": 7182,
+      "sha256": "769036071bee00bada0d13d0f70bcb22a4b940a6534be449277a61ff76474b5d",
+      "method": "Complete HTTP GET of creator entry point; no independent playthrough or reproduction"
     }
   ]
 }

@@ -1,5 +1,351 @@
 [
   {
+    "id": "vib3coded-jelly-avocado-comparison",
+    "title": "牛油果果冻：可分离果核的双模型对照",
+    "titleEn": "Avocado Jelly — Two Models and a Removable Pit",
+    "category": "交互与工具",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（上下对照）",
+    "summary": "半颗牛油果被做成带果核和材质控制面板的三维果冻标本。完整画面上方为Opus，下方为Astra，录像展示拖拽、变形和果核分离；两种实现的外形、材质与动作分别保留。",
+    "imageCaption": "原作者原帖成果封面：上方明确标Claude Opus 5.5，下方明确标ChatGPT-6 Astra。Astra是下方牛油果及其面板；不能把上方Opus的表皮纹理和拉伸效果归为Astra。",
+    "outcome": "约16秒完整比较录像。作者称使用同一提示词，并认为Opus材质和果冻感更好；这是单次实验与个人评价。未提供本例公开试玩或工程，本库未独立验证交互物理。",
+    "promptSummary": "作者公开同题果冻牛油果的比较说明，未核得Astra完整原始会话；第三方整理的Opus提示词不作为Astra输入。",
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/vib3coded/status/2112128541022114137",
+    "outputType": [
+      "三维果冻材质展示",
+      "双模型成果对照",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Vib3Coded / @vib3coded",
+    "sourceUrl": "https://x.com/vib3coded/status/2112128541022114137",
+    "sourceDate": "2026-10-19",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者X完整HTML与精确同帖FxTwitter作者、时间和媒体ID相互吻合。原帖正文和录像分别标识Opus与Astra，上Opus、下Astra，不合并两者成果或按费用判断模型性能。 模型归属为作者自述，未独立复现。",
+    "sourceAccess": "原作者X完整GET200 / text/html / 158,310字节，作者和created_at_ms与精确同帖辅助元数据匹配。原帖成果封面完整GET200 / image/jpeg / 60,683字节 / 948×1200，Content-Length和SHA-256核对，Pillow完整解码并实际查看。完整最高码率平台原版及较小完整平台版MP4均完整GET200，核对媒体ID、来源时长、MIME、Content-Length、字节和SHA-256，严格FFmpeg全长null解码exit0且stderr空；原封面及录像中帧实际查看，未剪辑或转码。 Release原版与完整平台播放版的尺寸和服务器SHA-256 digest均核对一致。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2112128465856086016/img/KK-qkssOLG_cTaB_.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "repositoryUrl": null,
+    "videoUrl": "https://x.com/vib3coded/status/2112128541022114137",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/vib3coded/status/2112128541022114137"
+    ],
+    "licenseNotes": "作品及第三方媒体保留原作者与相关权利人权利，不纳入本库MIT；公开访问和归档不代表独立取得再分发或商业许可。完整原平台录像不剪辑或转码，保留原帖来源与移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-jelly-avocado-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-21/vib3coded-jelly-avocado-comparison-1-original.mp4",
+        "durationSeconds": 16.04,
+        "bytes": 6049709,
+        "sha256": "6545cc48f4435aae9fb4fbfdb19f53036834b14d6df804926eee13c855cb81b1",
+        "sourceUrl": "https://x.com/vib3coded/status/2112128541022114137",
+        "label": "vib3coded-jelly-avocado-comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112128465856086016/img/KK-qkssOLG_cTaB_.jpg"
+      }
+    ]
+  },
+  {
+    "id": "citaborg-gps-threejs-story",
+    "title": "GPS：用三维球面讲清定位的连续故事",
+    "titleEn": "GPS — A Continuous Story with 3D Spheres",
+    "category": "3D 教育",
+    "summary": "一段挪威语连续动画用纸张风格、手绘草图和透明三维球面解释GPS定位。卫星距离球面的交线、接收机时钟与反射问题分章推进，提供暂停、拖动进度与章节选择。",
+    "imageUrl": "https://www.bredland.no/gps/img/astra-2-3d.jpg",
+    "imageKind": "author-screenshot",
+    "imageCaption": "原作者Astra版本运行截图：第8章三维球面相交与两个候选点，Three.js球面配合Canvas标注。不是另两个模型的截图，也不是输入参考图。",
+    "outcome": "成果JPEG完整GET、完整解码并实际查看；原作者Astra演示HTML200。作者公开17章、5分45秒的网页实现与共同提示词，但本轮未完整播放全部章节、重跑代码或独立测量其生成耗时。教学距离与时间不按真实比例，不能当实际GNSS接收机或测量数据。最早公开日期未独立确认，保持null。",
+    "modelLabel": "GPT-6 Astra xhigh（主代理）+ GPT-5.6 Terra / Sol（子代理）",
+    "group": "astra",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub",
+      "Website"
+    ],
+    "author": "Lars Thomas Bredland / Citaborg",
+    "sourceUrl": "https://github.com/Citaborg/how-does-gps-work",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者README与对照页明确GPT-6 Astra / Codex / xhigh；对照页进一步记载几何子代理使用gpt-5.6-terra、review子代理使用gpt-5.6-sol，不能将全部几何和审查工作归于Astra单模型。Three.js构造真实三维球面与交线，Canvas负责草图及投影标注。Fable与Gemini是同题独立作品；比较文字由Fable撰写，不作为本库独立评测。",
+    "sourceAccess": "官方GitHub API完整GET作者README、metadata、完整文件树、LICENSE与提示词均200。作者主机成果JPEG完整GET200 / image/jpeg / 87,217字节，与Content-Length一致；1920×1080；SHA-256 9ca45541cf86c4d23c839ed3fa92d9922c64d1b94d945512f1facda8f1fc3956；Pillow Image.load完整解码并view_image目视。演示HTML完整GET200 / text/html / 7,182字节，SHA-256已记录。未执行第三方工程。",
+    "demoUrl": "https://www.bredland.no/gps/gpt-6-astra/",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/Citaborg/how-does-gps-work/tree/main/GPT6-Astra-xhigh",
+    "outputType": [
+      "Three.js三维教学动画",
+      "可暂停与分章的连续故事",
+      "作者网页实现与共同提示词"
+    ],
+    "promptAvailability": "linked",
+    "promptExcerpt": null,
+    "promptUrl": "https://github.com/Citaborg/how-does-gps-work/blob/main/USER_PROMPTS.md",
+    "promptSummary": null,
+    "evidenceUrls": [
+      "https://www.bredland.no/gps/",
+      "https://github.com/Citaborg/how-does-gps-work/blob/main/GPT6-Astra-xhigh/README.md",
+      "https://github.com/Citaborg/how-does-gps-work/blob/main/GPT6-Astra-xhigh/VALIDATION.md",
+      "https://github.com/Citaborg/how-does-gps-work/blob/main/LICENSE"
+    ],
+    "licenseNotes": "已读取原LICENSE：代码MIT，提示词和比较文字CC BY 4.0；字体、Three.js、Rough.js、KaTeX保留各自许可。成果截图外链作者主机；媒体不因被收录而纳入本库MIT，比较文字仍需原作者署名。"
+  },
+  {
+    "id": "umutseve4-luna-park",
+    "title": "LUNA PARK：摩天轮与过山车的三时段微缩乐园",
+    "titleEn": "LUNA PARK — A Procedural Amusement Park",
+    "category": "程序化场景",
+    "summary": "淡绿微缩乐园把摩天轮、起伏过山车、旋转设施与热气球放进同一场景。作者提供白天、夜晚和节庆模式、不同观察机位及统一时间控制，并公开可离线打开的单HTML版本。",
+    "imageUrl": "https://raw.githubusercontent.com/umutseve4/astra-lunapark/main/docs/preview.png",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者docs/preview.png实际运行截图：日间乐园、轨道车辆、摩天轮、机位与时间控件；页脚也标注GPT 6 Astra - Ultra。不是概念参考图。",
+    "outcome": "1440×1000成果PNG完整GET、解码并目视。README说明摩天轮座舱用独立摆动近似、过山车使用样条轨道与连接规则；这是游戏运动模型，未独立验证机械或动力学。仓库公开分模块实现与打包脚本，无已核实的在线试玩地址，Release单HTML属于下载材料，不计演示入口。首发未知。",
+    "modelLabel": "GPT-6 Astra Ultra（作者声明） / Three.js",
+    "group": "astra",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "Umut Sever / umutseve4",
+    "sourceUrl": "https://github.com/umutseve4/astra-lunapark",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者README直接写明由GPT 6 Astra - Ultra构建，实际运行截图页脚同样标注。作者称图形均由代码创建，无外部图像或模型；Three.js负责几何、渲染与场景运行，字体是软件依赖。没有公开完整原始对话，本库只保留作者归属声明。",
+    "sourceAccess": "官方GitHub API完整GET作者README、metadata、完整文件树与LICENSE均200。原作者成果PNG通过curl重试后完整GET200 / image/png / 788,233字节，与Content-Length一致；1440×1000；SHA-256 4b5396f9f99237662a5443436480514dbbdf01f38f2e078ca939aa65277d76c2；Pillow Image.load完整解码并view_image目视。初次raw请求超时，已保留失败记录；未执行或下载第三方实现代码。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/umutseve4/astra-lunapark",
+    "outputType": [
+      "Three.js程序化乐园",
+      "摩天轮与过山车运动",
+      "源码与离线HTML打包入口"
+    ],
+    "promptAvailability": "unpublished",
+    "promptExcerpt": null,
+    "promptUrl": null,
+    "promptSummary": null,
+    "evidenceUrls": [
+      "https://github.com/umutseve4/astra-lunapark/tree/main/src",
+      "https://github.com/umutseve4/astra-lunapark/releases/tag/v1.0.0",
+      "https://github.com/umutseve4/astra-lunapark/blob/main/LICENSE"
+    ],
+    "licenseNotes": "已读取原LICENSE：项目代码MIT；作者说明Three.js MIT、DM Sans及Space Grotesk为SIL OFL 1.1，原文保留于vendor与单HTML。外链成果图仍保留原作者权利，不自动纳入本库MIT。"
+  },
+  {
+    "id": "michaelcrosato-meridian-wake",
+    "title": "Meridian Wake：积木太空船与开放航路",
+    "titleEn": "Meridian Wake — A Brick-Built Spacefaring Game",
+    "category": "3D 游戏",
+    "summary": "将Endless Sky的宇宙与故事资料改造成浏览器里的积木风三维太空游戏。作者公开飞船、贸易、旅客运输、采矿与任务系统的实现，成果封面展示星球、空间站与积木船的实际标题场景。",
+    "imageUrl": "https://raw.githubusercontent.com/michaelcrosato/meridian-wake-g6a/main/docs/images/title.webp",
+    "imageKind": "author-screenshot",
+    "imageCaption": "原作者docs/images/title.webp实际游戏标题场景：三维星球、轨道空间站、积木船与Begin your voyage按钮；不是飞行、战斗过程录像或输入概念图。",
+    "outcome": "1920×1080成果WEBP完整GET、解码并目视，源码入口存在。README将初版生成记为2026年9月26日，不能据此推定最早公开日期；sourceDate保持null。作者Vercel演示请求连接超时，当前不计可达演示；未运行源码、验证剧情完整性、物理、跨设备表现或游戏关卡。",
+    "modelLabel": "GPT-6 Astra（初版生成，作者声明） / Three.js / Rapier",
+    "group": "astra",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub",
+      "Website"
+    ],
+    "author": "Michael Crosato / michaelcrosato",
+    "sourceUrl": "https://github.com/michaelcrosato/meridian-wake-g6a",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者README明确初版由GPT-6 Astra生成，标题场景左下角亦有Astra署名。Three.js采用WebGPU及WebGL2回退，Rapier负责物理；Endless Sky的宇宙/故事资料与音频是既有上游内容，不能全归为Astra原创。作者后续维护与当前全部代码不等同于初版单次生成过程。",
+    "sourceAccess": "官方GitHub API完整GET作者README、metadata、完整文件树与LICENSE均200。原成果WEBP通过curl重试后完整GET200 / image/webp / 60,474字节，与Content-Length一致；1920×1080；SHA-256 67a99d9cefbffd7d486746a57e5f3aee173bd32f305676bae531811b8b177aa9；Pillow Image.load完整解码并view_image目视。作者Vercel域名GET连接超时；未执行第三方项目。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/michaelcrosato/meridian-wake-g6a",
+    "outputType": [
+      "积木风三维太空游戏",
+      "游戏实现源码",
+      "作者实际三维标题场景"
+    ],
+    "promptAvailability": "unpublished",
+    "promptExcerpt": null,
+    "promptUrl": null,
+    "promptSummary": null,
+    "evidenceUrls": [
+      "https://meridian-wake-g6a.vercel.app",
+      "https://github.com/michaelcrosato/meridian-wake-g6a/blob/main/THIRD_PARTY_NOTICES.md",
+      "https://github.com/michaelcrosato/meridian-wake-g6a/blob/main/LICENSE"
+    ],
+    "licenseNotes": "已读取GPL v3许可证正文；README说明项目采用GPL-3.0-or-later。Endless Sky上游资料与故事、音频及Lato字体分别按其原许可；不能将整项目统一改称MIT。成果媒体外链原作者，不纳入本库MIT。"
+  },
+  {
+    "id": "onemorevision-sketchup-local-mcp-interior",
+    "title": "同一张 DXF，换成 SketchUp 本地建模",
+    "titleEn": "The Same DXF, Rebuilt in SketchUp through Local MCP",
+    "category": "建筑与室内",
+    "summary": "将 1LDK 图纸交给 Astra，通过本地 sketchup-mcp2 直接创建 SketchUp 室内模型，并整理建筑标签与检查视图。作者同时展示官方连接器的另一模型结果。",
+    "imageUrl": "https://assets.st-note.com/img/1792021117-QzB2f0W1GuM9JNwyXbE8FdtA.png?width=1200",
+    "imageKind": "author-screenshot",
+    "imageCaption": "原作者的 SketchUp 本地 MCP 成果视口：去顶室内、厨房、家具与图层标签；不是输入 DXF，也不是文章开头的官方连接器结果。",
+    "outcome": "作者自报一次请求约6分22秒，阳台栏杆仍缺失。与官方连接器的对照同时改变了模型和连接路径，不能据此得出受控模型排名；未取得或独立打开 SKP 文件。",
+    "modelLabel": "GPT-6 Astra + Codex + sketchup-mcp2 + SketchUp 2026",
+    "group": "astra",
+    "platform": "note",
+    "platforms": [
+      "note"
+    ],
+    "author": "One More Vision / 入江達也（STUDIO55）",
+    "sourceUrl": "https://note.com/onemorevision/n/nc67debf47d0b",
+    "sourceDate": "2026-10-17",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "独立的 SketchUp 制作验证，沿用作者既有 DXF 输入。原文明确在本地 MCP 执行段切换至 GPT-6 Astra；官方连接器段属于 Claude 工作流，不归给 Astra。",
+    "sourceAccess": "note 英文显示原文完整GET 200 / 538,963字节；JSON-LD首发2026-10-17T09:07:17+09:00，对应上海08:07:17。成果PNG完整GET200 / 179,401字节、1200×754，Content-Length与SHA-256记录，Pillow全图解码并目视核查。仅核验作者公开记录，未安装或运行第三方扩展。",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "outputType": [
+      "SketchUp室内建模",
+      "DXF图纸重建",
+      "标签与检查视图"
+    ],
+    "promptAvailability": "full-linked",
+    "promptExcerpt": null,
+    "promptUrl": "https://note.com/onemorevision/n/nc67debf47d0b",
+    "promptSummary": "公开请求包含图纸尺寸、门窗表、各房间材质与层高、厨房卫浴家具、分类标签和隐藏天花；图纸和最终SKP未提供公开下载。",
+    "evidenceUrls": [
+      "https://github.com/zinin/sketchup-mcp2"
+    ],
+    "licenseNotes": "只链接原作者成果图和流程；第三方作品不纳入本库MIT。扩展源码链接不是本次SKP成果工程，未填作作品仓库。"
+  },
+  {
+    "id": "rhinox-interactive-ghost-comparison",
+    "title": "Jelly Ghost：桌面幽灵的双模型实验",
+    "titleEn": "Jelly Ghost — A Halloween Desktop Companion Comparison",
+    "category": "角色与动画",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（左右对照）",
+    "summary": "两只带大眼睛的三维果冻幽灵出现在月夜窗边，配有戳、拉伸、抓取和颜色控件。完整比较保留左侧Opus和右侧Astra；Astra画面为圆润的绿色幽灵与独立控制面板。",
+    "imageCaption": "原作者原帖实际运行成果，左侧为Claude Opus 5.5，右侧为ChatGPT-6 Astra；月夜、蜡烛、南瓜及模型标签随原画面保留。不能将左侧发光材质或微笑交互统一归作Astra成果。",
+    "outcome": "约35.4秒完整原帖录像，属于作者万圣节怪物系列。原帖的透明发光、触碰微笑评价指向Opus；成本与耗时为作者单次记录。未提供本例公开试玩或工程，本库未复现控件和物理效果。",
+    "promptSummary": "原作者公开任务方向为可爱的幽灵，并描述Opus的透明发光与触碰表情；未公开完整原始提示词或逐轮会话，两个版本的实现细节不能从画面补猜。",
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/0xRhinoX/status/2111879242812465174",
+    "outputType": [
+      "三维幽灵角色",
+      "浏览器交互展示",
+      "双模型完整录像"
+    ],
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Rhino / @0xRhinoX",
+    "sourceUrl": "https://x.com/0xRhinoX/status/2111879242812465174",
+    "sourceDate": "2026-10-19",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者X完整HTML与精确同帖FxTwitter作者、时间和媒体ID相互吻合。完整比较左Opus、右Astra，原文关于发光、触碰微笑的赞述指向Opus；不把该描述移到Astra。 模型归属为作者自述，未独立复现。",
+    "sourceAccess": "原作者X完整GET200 / text/html / 139,382字节，作者和created_at_ms与精确同帖辅助元数据匹配。原帖成果封面完整GET200 / image/jpeg / 79,294字节 / 1200×650，Content-Length和SHA-256核对，Pillow完整解码并实际查看。完整最高码率平台原版及较小完整平台版MP4均完整GET200，核对媒体ID、来源时长、MIME、Content-Length、字节和SHA-256，严格FFmpeg全长null解码exit0且stderr空；原封面及录像中帧实际查看，未剪辑或转码。 Release原版与完整平台播放版的尺寸和服务器SHA-256 digest均核对一致。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2111879105046093824/img/mvwjyp1Gnanu2_nv.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "repositoryUrl": null,
+    "videoUrl": "https://x.com/0xRhinoX/status/2111879242812465174",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/0xRhinoX/status/2111879242812465174"
+    ],
+    "licenseNotes": "作品及第三方媒体保留原作者与相关权利人权利，不纳入本库MIT；公开访问和归档不代表独立取得再分发或商业许可。完整原平台录像不剪辑或转码，保留原帖来源与移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/rhinox-interactive-ghost-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-21/rhinox-interactive-ghost-comparison-1-original.mp4",
+        "durationSeconds": 35.46,
+        "bytes": 11924490,
+        "sha256": "daac4626e12f5901fb48decd5cf0ebe454b7f8e96387a5cc58c82655e79d4703",
+        "sourceUrl": "https://x.com/0xRhinoX/status/2111879242812465174",
+        "label": "rhinox-interactive-ghost-comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111879105046093824/img/mvwjyp1Gnanu2_nv.jpg"
+      }
+    ]
+  },
+  {
+    "id": "vib3coded-marine-lagoon-comparison",
+    "title": "Reef Lagoon：鲸鱼、鲨鱼与旋涡的四模型对照",
+    "titleEn": "Reef Lagoon — Four Models Build a Marine Sanctuary",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / Gemini 4 Argon / Claude Opus 5.5（四宫格）",
+    "summary": "俯视三维泻湖包含鲸鱼、鲨鱼、鳐鱼、海龟及水面扰动，底部卡片用于选择生物。四宫格保留各模型运行成果；Astra位于右下，展示明亮焦散纹理、礁石、鲸鱼和生物选择面板。",
+    "imageCaption": "原作者完整四宫格成果封面：左上Opus5.5，右上Gemini4 Argon，左下GPT-6.1 Sol，右下GPT-6 Astra。四份水面和动物实现分别署名，不把整个画面都算作Astra。",
+    "outcome": "约16秒完整原帖比较。原帖给出浏览器泻湖任务、单次费用和视觉偏好，本库未独立复现。此Reef Lagoon与已收录Ocean Shallows为不同场景，已比对原封面去重；没有本例公开试玩或工程。",
+    "promptSummary": "作者公开四模型制作海洋泻湖的任务方向和成果对照，本轮未取得完整原始提示词；不把画面控件或第三方整理的实现规范冒称已验证源码。",
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/vib3coded/status/2111888587360792982",
+    "outputType": [
+      "海洋泻湖三维场景",
+      "四模型成果对照",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Vib3Coded / @vib3coded",
+    "sourceUrl": "https://x.com/vib3coded/status/2111888587360792982",
+    "sourceDate": "2026-10-19",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者X完整HTML与精确同帖FxTwitter作者、时间和媒体ID相互吻合。Astra仅为四宫格右下；Sol、Gemini与Opus三种实现分别保留。原帖费用、审美偏好仅属作者单次观察。 模型归属为作者自述，未独立复现。",
+    "sourceAccess": "原作者X完整GET200 / text/html / 152,966字节，作者和created_at_ms与精确同帖辅助元数据匹配。原帖成果封面完整GET200 / image/jpeg / 156,811字节 / 1199×759，Content-Length和SHA-256核对，Pillow完整解码并实际查看。完整最高码率平台原版及较小完整平台版MP4均完整GET200，核对媒体ID、来源时长、MIME、Content-Length、字节和SHA-256，严格FFmpeg全长null解码exit0且stderr空；原封面及录像中帧实际查看，未剪辑或转码。 Release原版与完整平台播放版的尺寸和服务器SHA-256 digest均核对一致。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2111888414630940673/img/bYsC1uWWBuFNH09f.jpg",
+    "imageKind": "video-poster",
+    "demoUrl": null,
+    "repositoryUrl": null,
+    "videoUrl": "https://x.com/vib3coded/status/2111888587360792982",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/vib3coded/status/2111888587360792982"
+    ],
+    "licenseNotes": "作品及第三方媒体保留原作者与相关权利人权利，不纳入本库MIT；公开访问和归档不代表独立取得再分发或商业许可。完整原平台录像不剪辑或转码，保留原帖来源与移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-marine-lagoon-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-21/vib3coded-marine-lagoon-comparison-1-original.mp4",
+        "durationSeconds": 16.04,
+        "bytes": 37461520,
+        "sha256": "1b4ed83b8522597ec40c99f6a50170d219ac7c5e0a567e98bc5050bda29172cf",
+        "sourceUrl": "https://x.com/vib3coded/status/2111888587360792982",
+        "label": "vib3coded-marine-lagoon-comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111888414630940673/img/bYsC1uWWBuFNH09f.jpg"
+      }
+    ]
+  },
+  {
     "id": "agentsky-steampunk-clock-tower",
     "title": "午夜钟楼：Astra、Fable 与 DeepSeek 的 Three.js 对照",
     "titleEn": "The Midnight Meridian — Three Agents Build a Clock-Tower Night Scene",

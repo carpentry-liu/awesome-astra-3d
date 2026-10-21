@@ -2,6 +2,18 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-21 · 7 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [牛油果果冻：可分离果核的双模型对照 / Avocado Jelly — Two Models and a Removable Pit](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-jelly-avocado-comparison/) | Vib3Coded / @vib3coded | 完整视频 · 提示词 / 过程 |
+| [GPS：用三维球面讲清定位的连续故事 / GPS — A Continuous Story with 3D Spheres](https://carpentry-liu.github.io/awesome-astra-3d/cases/citaborg-gps-threejs-story/) | Lars Thomas Bredland / Citaborg | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [LUNA PARK：摩天轮与过山车的三时段微缩乐园 / LUNA PARK — A Procedural Amusement Park](https://carpentry-liu.github.io/awesome-astra-3d/cases/umutseve4-luna-park/) | Umut Sever / umutseve4 | 源码 / 工程 |
+| [Meridian Wake：积木太空船与开放航路 / Meridian Wake — A Brick-Built Spacefaring Game](https://carpentry-liu.github.io/awesome-astra-3d/cases/michaelcrosato-meridian-wake/) | Michael Crosato / michaelcrosato | 源码 / 工程 |
+| [同一张 DXF，换成 SketchUp 本地建模 / The Same DXF, Rebuilt in SketchUp through Local MCP](https://carpentry-liu.github.io/awesome-astra-3d/cases/onemorevision-sketchup-local-mcp-interior/) | One More Vision / 入江達也（STUDIO55） | 提示词 / 过程 |
+| [Jelly Ghost：桌面幽灵的双模型实验 / Jelly Ghost — A Halloween Desktop Companion Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/rhinox-interactive-ghost-comparison/) | Rhino / @0xRhinoX | 完整视频 · 提示词 / 过程 |
+| [Reef Lagoon：鲸鱼、鲨鱼与旋涡的四模型对照 / Reef Lagoon — Four Models Build a Marine Sanctuary](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-marine-lagoon-comparison/) | Vib3Coded / @vib3coded | 完整视频 · 提示词 / 过程 |
+
 ## 2026-10-20 · 6 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
