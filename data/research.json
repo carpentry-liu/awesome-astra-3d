@@ -9786,6 +9786,130 @@
       "newMediaFiles": 6,
       "newMediaBytes": 58823206,
       "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-21"
+    },
+    {
+      "observedAt": "2026-10-22",
+      "timezone": "Asia/Shanghai",
+      "scope": "公开搜索、GitHub作者README和metadata、同类目录回源X、精确原帖HTML与同帖辅助元数据、完整来源媒体；没有访问小红书账户。",
+      "queries": [
+        "\"GPT-6 Astra\" \"3D\" after:2026-10-20 -site:carpentry-liu.github.io",
+        "\"Astra\" \"Blender\" \"Oct 21\"",
+        "\"GPT-6 Astra\" \"Three.js\" \"October\" github",
+        "\"Astra\" \"3D\" site:x.com after:2026-10-20",
+        "\"vib3coded\" \"Astra\" \"October\"",
+        "GitHub repositories: astra 3d sort:updated",
+        "GitHub repositories: astra blender sort:updated",
+        "GitHub repositories: gpt-6 astra threejs sort:updated",
+        "\"vib3coded\" \"passion\" \"status\"",
+        "\"Astra\" \"passion fruit\" \"x.com\"",
+        "\"Astra\" \"Blender\" site:note.com after:2026-10-20",
+        "\"GPT-6 Astra\" \"3D\" github -site:carpentry-liu.github.io -site:youtube.com -site:reddit.com -site:openai.com -site:wikipedia.org"
+      ],
+      "discoverySources": [
+        "https://github.com/coolbat/awesome-opus-5.5-usecase",
+        "https://www.sotwe.com/vib3coded?lang=en"
+      ],
+      "notAdopted": [
+        {
+          "url": "https://www.sotwe.com/vib3coded?lang=en",
+          "reason": "检索可见百香果软体新作及Opus篮球场，但百香果未找到精确可核验X原帖ID，篮球场只声明Opus；不按聚合站相对时间编造首发或模型。"
+        },
+        {
+          "url": "https://github.com/alecjacobson/astra-factory-robot",
+          "reason": "README有真实Blender/仿真成果，但所查正文没有GPT-6 Astra模型声明；仓库名含astra不足以确认模型。"
+        },
+        {
+          "url": "https://github.com/alecjacobson/astra-newtons-cradle",
+          "reason": "有物理动画工程说明，但所查作者README只有物理和渲染信息，没有GPT-6 Astra模型声明。"
+        },
+        {
+          "url": "https://github.com/davidtphung/astra-material-studio",
+          "reason": "ASTRA为产品名，所查README无GPT-6 Astra创作归属，不能据名称收录。"
+        },
+        {
+          "url": "https://github.com/vnmoorthy/starbound",
+          "reason": "Astra用于策略提议实验，演示概念图与轨道视图不是已核实的Astra视觉建模产物；不把策略实验改写成三维生成作品。"
+        },
+        {
+          "url": "https://github.com/layola13/threejs-intersection-traffic-simulation",
+          "reason": "项目简介提到astra验证，README却未说明模型创作分工，缺少明确制作证据，本轮不计新增。"
+        },
+        {
+          "url": "https://github.com/bytebymint/gravity-gpt6-astra-webgl",
+          "reason": "原作者明确Astra，现轮仍未取得作者已发布成果图；浏览器核查被工具停止后未继续UI或以概念图代替成果。待可核验实际预览后再收。"
+        },
+        {
+          "url": "https://github.com/az9713/gpt-6-3d-projects",
+          "reason": "已收录az9713-three-3d-projects，未因新的检索命中重复计数。"
+        },
+        {
+          "url": "https://github.com/galbenyosef/little-flock",
+          "reason": "原README回到songkeys/little-flock与同一X原作，现库已收；fork不计新增。"
+        }
+      ],
+      "limits": [
+        "今天是收录日，原作首次发布为10月19日、18日与13日，不声称今天首发。",
+        "原作者声明与独立复现分开；三组比较保留不同的左右排列，雨林缸保留Opus编排/美术/声音设计职责。",
+        "四段完整来源片段保留最高码率原版与较小完整平台版，共8文件；严格全长解码通过，没有剪辑或转码。",
+        "雨林缸原封面暗，使用原版25.6秒实际截帧，独立发布Release并注明来源和时间。",
+        "Computer Use在Chrome窗口识别时被安全检查停止：无法可靠确定当前URL；没有继续UI输入或换其他自动化绕过。无今日浏览器播放、控制台或新网站实拍证明，保留10月21日截图日期。"
+      ],
+      "round": "daily",
+      "checkedAtUtc": "2026-10-22T06:13:30.219889+00:00",
+      "baselineCommit": "e588751c6fc521f501398f7c88feb3a683b6f1ed",
+      "baselineCount": 385,
+      "resultingCount": 389,
+      "addedCaseIds": [
+        "tactical-storm-in-a-bottle",
+        "ananth-threejs-paludarium",
+        "tactical-blender-crossbow",
+        "tactical-minecraft-floating-island"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "coverage": [
+        {
+          "id": "tactical-storm-in-a-bottle",
+          "sourceUrl": "https://x.com/MrTacticalX/status/2112184796419883354",
+          "sourceDate": "2026-10-19",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2112184518857641984/img/nqFjCvnFJVYPMVq4.jpg",
+          "roles": "GPT-6 Astra High / Claude Opus 5.5 High（独立对照）"
+        },
+        {
+          "id": "ananth-threejs-paludarium",
+          "sourceUrl": "https://x.com/Ananth7e/status/2111716745035821112",
+          "sourceDate": "2026-10-18",
+          "previewUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-22/ananth-threejs-paludarium-frame-25-6s.jpg",
+          "roles": "GPT-6 Astra（Three.js实现）+ Claude Opus 5.5（编排、美术与声音设计）"
+        },
+        {
+          "id": "tactical-blender-crossbow",
+          "sourceUrl": "https://x.com/MrTacticalX/status/2109723827429109798",
+          "sourceDate": "2026-10-13",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2109722405253824512/img/zZT1MM_WrS29en9a.jpg",
+          "roles": "GPT-6 Astra High / Claude Opus 5.5 High（独立对照）"
+        },
+        {
+          "id": "tactical-minecraft-floating-island",
+          "sourceUrl": "https://x.com/MrTacticalX/status/2109750408793223614",
+          "sourceDate": "2026-10-13",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2109750252810969088/img/0ZpAqD0RTSdnIoZB.jpg",
+          "roles": "GPT-6 Astra High / Claude Opus 5.5 High（独立对照）"
+        }
+      ],
+      "historicalIncrementalSummary": {
+        "checkedImages": 40,
+        "decodedImages": 40,
+        "checkedVideoCases": 10,
+        "checkedVideoEndpoints": 20,
+        "verifiedVideoEndpoints": 20,
+        "failures": [],
+        "limits": "Historical videos were not downloaded or replayed in full. Image decode and bounded video endpoints only."
+      },
+      "completeSourceClips": 4,
+      "newMediaFiles": 8,
+      "newMediaBytes": 99152331,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-22"
     }
   ]
 }

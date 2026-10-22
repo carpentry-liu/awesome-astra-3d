@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-10-21（Asia/Shanghai）**：**373 条 Astra 案例** · **112 条源码 / 工程** · **121 个演示入口** · **167 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-10-22（Asia/Shanghai）**：**377 条 Astra 案例** · **112 条源码 / 工程** · **121 个演示入口** · **171 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -46,7 +46,7 @@
 
 [![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-21.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-2026-10-21 本轮生产构建实拍。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+网站实拍仍取自 **2026-10-21** 的生产构建；10月22日新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
 <summary>查看案例区、手机与作品详情实拍 · 2026-10-21</summary>
@@ -63,19 +63,29 @@
 
 这里按本库收录日期排列；作品首次发布、模型配置与核查日期在各档案中分别记录。稳定精选不随日更替换。
 
-10 月 21 日新增收录 **7 件作品**、**3 段完整 X 录像**：GPS 三维教学、LUNA PARK 微缩乐园、Meridian Wake 太空游戏、SketchUp 图纸建模，以及果冻牛油果、幽灵和海洋泻湖的模型对照。新增 3 个源码 / 工程入口、1 个演示入口；约68秒原帖录像保留原版和完整平台播放版。对照图注明 Astra 的具体位置，GPS 保留子代理分工；三项未知首发日期继续留空。
+10 月 22 日新增收录 **4 件作品、4 段完整 X 录像**：Blender 瓶中风暴、弩箭动画、夜空浮岛，以及 Three.js 雨林缸。约127秒原帖录像保留最高码率原版与完整平台播放版；三组对照分别标清左右模型，雨林缸保留 Astra 实现与 Opus 编排分工。今天是补充收录日，原作首发为10月13日、18日和19日。
+
+<!-- atlas:update-previews:start -->
+**本轮成果预览（第三方原作）**
+
+| 瓶中风暴 · Astra 左侧 | 雨林缸 · Astra 实现 / Opus 编排 |
+| --- | --- |
+| [![瓶中风暴 · Astra 左侧](https://pbs.twimg.com/amplify_video_thumb/2112184518857641984/img/nqFjCvnFJVYPMVq4.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/tactical-storm-in-a-bottle/) | [![雨林缸 · Astra 实现 / Opus 编排](https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-22/ananth-threejs-paludarium-frame-25-6s.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/ananth-threejs-paludarium/) |
+| 弩箭动画 · Astra 左侧 | 夜空浮岛 · Astra 右侧 |
+| [![弩箭动画 · Astra 左侧](https://pbs.twimg.com/amplify_video_thumb/2109722405253824512/img/zZT1MM_WrS29en9a.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/tactical-blender-crossbow/) | [![夜空浮岛 · Astra 右侧](https://pbs.twimg.com/amplify_video_thumb/2109750252810969088/img/0ZpAqD0RTSdnIoZB.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/tactical-minecraft-floating-island/) |
+<!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
+| [瓶中风暴：Blender 帆船、海浪与闪电](https://carpentry-liu.github.io/awesome-astra-3d/cases/tactical-storm-in-a-bottle/) | Mr Tactical / @MrTacticalX | [原始来源](https://x.com/MrTacticalX/status/2112184796419883354) |
+| [雨林缸：瀑布、薄雾与水下小鱼](https://carpentry-liu.github.io/awesome-astra-3d/cases/ananth-threejs-paludarium/) | Ananth / @Ananth7e | [原始来源](https://x.com/Ananth7e/status/2111716745035821112) |
+| [Blender 弩箭动画：从硬表面模型到发射镜头](https://carpentry-liu.github.io/awesome-astra-3d/cases/tactical-blender-crossbow/) | Mr Tactical / @MrTacticalX | [原始来源](https://x.com/MrTacticalX/status/2109723827429109798) |
+| [夜空浮岛：体素小屋、瀑布与发光方块](https://carpentry-liu.github.io/awesome-astra-3d/cases/tactical-minecraft-floating-island/) | Mr Tactical / @MrTacticalX | [原始来源](https://x.com/MrTacticalX/status/2109750408793223614) |
 | [牛油果果冻：可分离果核的双模型对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-jelly-avocado-comparison/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2112128541022114137) |
 | [GPS：用三维球面讲清定位的连续故事](https://carpentry-liu.github.io/awesome-astra-3d/cases/citaborg-gps-threejs-story/) | Lars Thomas Bredland / Citaborg | [演示](https://www.bredland.no/gps/gpt-6-astra/) · [源码](https://github.com/Citaborg/how-does-gps-work/tree/main/GPT6-Astra-xhigh) · [原始来源](https://github.com/Citaborg/how-does-gps-work) |
 | [LUNA PARK：摩天轮与过山车的三时段微缩乐园](https://carpentry-liu.github.io/awesome-astra-3d/cases/umutseve4-luna-park/) | Umut Sever / umutseve4 | [源码](https://github.com/umutseve4/astra-lunapark) · [原始来源](https://github.com/umutseve4/astra-lunapark) |
 | [Meridian Wake：积木太空船与开放航路](https://carpentry-liu.github.io/awesome-astra-3d/cases/michaelcrosato-meridian-wake/) | Michael Crosato / michaelcrosato | [源码](https://github.com/michaelcrosato/meridian-wake-g6a) · [原始来源](https://github.com/michaelcrosato/meridian-wake-g6a) |
-| [同一张 DXF，换成 SketchUp 本地建模](https://carpentry-liu.github.io/awesome-astra-3d/cases/onemorevision-sketchup-local-mcp-interior/) | One More Vision / 入江達也（STUDIO55） | [原始来源](https://note.com/onemorevision/n/nc67debf47d0b) |
-| [Jelly Ghost：桌面幽灵的双模型实验](https://carpentry-liu.github.io/awesome-astra-3d/cases/rhinox-interactive-ghost-comparison/) | Rhino / @0xRhinoX | [原始来源](https://x.com/0xRhinoX/status/2111879242812465174) |
-| [Reef Lagoon：鲸鱼、鲨鱼与旋涡的四模型对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-marine-lagoon-comparison/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2111888587360792982) |
-| [午夜钟楼：Astra、Fable 与 DeepSeek 的 Three.js 对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/agentsky-steampunk-clock-tower/) | AgentSky / @agentsky_dev | [原始来源](https://x.com/agentsky_dev/status/2112137926922686800) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)

@@ -1,5 +1,221 @@
 [
   {
+    "id": "tactical-storm-in-a-bottle",
+    "title": "瓶中风暴：Blender 帆船、海浪与闪电",
+    "titleEn": "Storm in a Bottle — Blender Ships, Waves and Lightning",
+    "category": "程序化场景",
+    "summary": "桌面玻璃瓶内装入帆船与海面，再推进到雨云、海浪和闪电近景。作者以同题比较两套Blender动画，Astra在左、Opus在右。",
+    "modelLabel": "GPT-6 Astra High / Claude Opus 5.5 High（独立对照）",
+    "imageCaption": "原帖完整对照封面：左侧GPT-6 Astra，右侧Claude Opus 5.5。两侧瓶体、船、台灯与桌面分别为各自成果。附整段25秒原帖录像。",
+    "outcome": "作者称从代码建模、未导入资产；耗时和费用是单次自报。本库保留完整对照，不将Opus海浪或灯光归给Astra；未取得公开工程或独立复现。",
+    "promptSummary": "原作者公开同题任务方向：用Blender代码从零制作瓶内风暴；没有公开完整会话。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Mr Tactical / @MrTacticalX",
+    "sourceUrl": "https://x.com/MrTacticalX/status/2112184796419883354",
+    "sourceDate": "2026-10-19",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-22",
+    "addedAt": "2026-10-22",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者正文和实际成果媒体明确Astra；完整原帖HTML的作者、created_at_ms与同帖辅助元数据匹配。按画面标签和作者声明保留模型分工，不代表独立复现。",
+    "sourceAccess": "原帖完整GET200 / 142,004字节；原封面完整GET200 / 93,609字节，1200×675，长度、SHA-256与Pillow全图解码核对。两个完整平台MP4版本逐一核对媒体ID、字节、来源时长及SHA-256，严格FFmpeg全长解码exit0且stderr空，封面与录像中帧实际查看；未剪辑或转码。未做本轮浏览器播放核查。 Release原版与播放版附件size/digest均已核对。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/MrTacticalX/status/2112184796419883354",
+    "repositoryUrl": null,
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/MrTacticalX/status/2112184796419883354",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/MrTacticalX/status/2112184796419883354"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2112184518857641984/img/nqFjCvnFJVYPMVq4.jpg",
+    "imageKind": "video-poster",
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "作品和第三方媒体保留原作者及各权利人权利，不纳入本库MIT。保留原帖署名与纠错/移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/tactical-storm-in-a-bottle-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-22/tactical-storm-in-a-bottle-1-original.mp4",
+        "durationSeconds": 25.05,
+        "bytes": 18571107,
+        "sha256": "18130eb711b7f02a6c455298414ae350c945f7dd6a4a18a1659f67256fe7efeb",
+        "sourceUrl": "https://x.com/MrTacticalX/status/2112184796419883354",
+        "label": "Storm in a Bottle — Blender Ships, Waves and Lightning",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112184518857641984/img/nqFjCvnFJVYPMVq4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "ananth-threejs-paludarium",
+    "title": "雨林缸：瀑布、薄雾与水下小鱼",
+    "titleEn": "A Three.js Paludarium — Waterfalls, Mist and Fish",
+    "category": "程序化场景",
+    "summary": "镜头从雨林植物间穿行至岩壁瀑布、水下小鱼和捕蝇草。作者明确由Astra制作Three.js场景，Opus负责编排、美术方向和声音设计。",
+    "modelLabel": "GPT-6 Astra（Three.js实现）+ Claude Opus 5.5（编排、美术与声音设计）",
+    "imageCaption": "本库从原帖最高码率完整录像25.6秒处提取的1920×1080实际帧，展示雨林缸瀑布、植物与小鱼；未拼接或修饰。原帖初始封面较暗，完整51.2秒录像另附。",
+    "outcome": "混合模型制作过程按作者声明分别归属。完整录像可看，未取得公开Three.js工程或试玩地址，植物资产来源及运行性能未独立验证。",
+    "promptSummary": "作者仅公开模型分工和作品方向，未提供原始提示词。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Ananth / @Ananth7e",
+    "sourceUrl": "https://x.com/Ananth7e/status/2111716745035821112",
+    "sourceDate": "2026-10-18",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-22",
+    "addedAt": "2026-10-22",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者正文和实际成果媒体明确Astra；完整原帖HTML的作者、created_at_ms与同帖辅助元数据匹配。按画面标签和作者声明保留模型分工，不代表独立复现。",
+    "sourceAccess": "原帖完整GET200 / 141,824字节；原封面完整GET200 / 72,622字节，1200×675，长度、SHA-256与Pillow全图解码核对。两个完整平台MP4版本逐一核对媒体ID、字节、来源时长及SHA-256，严格FFmpeg全长解码exit0且stderr空，封面与录像中帧实际查看；未剪辑或转码。未做本轮浏览器播放核查。 Release原版与播放版附件size/digest均已核对。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/Ananth7e/status/2111716745035821112",
+    "repositoryUrl": null,
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/Ananth7e/status/2111716745035821112",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/Ananth7e/status/2111716745035821112"
+    ],
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-22/ananth-threejs-paludarium-frame-25-6s.jpg",
+    "imageKind": "video-frame",
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "作品和第三方媒体保留原作者及各权利人权利，不纳入本库MIT。保留原帖署名与纠错/移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/ananth-threejs-paludarium-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-22/ananth-threejs-paludarium-1-original.mp4",
+        "durationSeconds": 51.24,
+        "bytes": 45842618,
+        "sha256": "53703d29be68e9ab3a3f3038a0e176798343db657e7651d912b2b4594ca51634",
+        "sourceUrl": "https://x.com/Ananth7e/status/2111716745035821112",
+        "label": "A Three.js Paludarium — Waterfalls, Mist and Fish",
+        "posterUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-22/ananth-threejs-paludarium-frame-25-6s.jpg"
+      }
+    ]
+  },
+  {
+    "id": "tactical-blender-crossbow",
+    "title": "Blender 弩箭动画：从硬表面模型到发射镜头",
+    "titleEn": "A Blender Crossbow — Modeling and Firing Animation",
+    "category": "Blender 建模",
+    "summary": "两份木质与金属硬表面弩模型并排展示，镜头检查弓臂、箭轨、瞄具和弦，再展示箭的动画。Astra在左、Opus在右，完整片段保留模型标签。",
+    "modelLabel": "GPT-6 Astra High / Claude Opus 5.5 High（独立对照）",
+    "imageCaption": "原帖实际Blender成果对照：左Astra、右Opus。封面下方保留模型与推理档位标签，未将右侧结构归为Astra。附整段26秒录像。",
+    "outcome": "作者称相同任务、零导入资产，并记录各自耗时和费用；这些不是本库独立基准。仅收录数字模型与动画展示，未取得可编辑工程或验证其机械可行性。",
+    "promptSummary": "原帖公开任务短句：在Blender从零建立详细弩模型并制作发射动画，不导入资产。完整会话未公开。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Mr Tactical / @MrTacticalX",
+    "sourceUrl": "https://x.com/MrTacticalX/status/2109723827429109798",
+    "sourceDate": "2026-10-13",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-22",
+    "addedAt": "2026-10-22",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者正文和实际成果媒体明确Astra；完整原帖HTML的作者、created_at_ms与同帖辅助元数据匹配。按画面标签和作者声明保留模型分工，不代表独立复现。",
+    "sourceAccess": "原帖完整GET200 / 142,936字节；原封面完整GET200 / 52,155字节，1200×675，长度、SHA-256与Pillow全图解码核对。两个完整平台MP4版本逐一核对媒体ID、字节、来源时长及SHA-256，严格FFmpeg全长解码exit0且stderr空，封面与录像中帧实际查看；未剪辑或转码。未做本轮浏览器播放核查。 Release原版与播放版附件size/digest均已核对。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/MrTacticalX/status/2109723827429109798",
+    "repositoryUrl": null,
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/MrTacticalX/status/2109723827429109798",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/MrTacticalX/status/2109723827429109798"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2109722405253824512/img/zZT1MM_WrS29en9a.jpg",
+    "imageKind": "video-poster",
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "作品和第三方媒体保留原作者及各权利人权利，不纳入本库MIT。保留原帖署名与纠错/移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/tactical-blender-crossbow-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-22/tactical-blender-crossbow-1-original.mp4",
+        "durationSeconds": 26.05,
+        "bytes": 9901989,
+        "sha256": "51bb875c255ba8e5c8c3c4d279dfd0e25f27a430248c13ff303d486f27969711",
+        "sourceUrl": "https://x.com/MrTacticalX/status/2109723827429109798",
+        "label": "A Blender Crossbow — Modeling and Firing Animation",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2109722405253824512/img/zZT1MM_WrS29en9a.jpg"
+      }
+    ]
+  },
+  {
+    "id": "tactical-minecraft-floating-island",
+    "title": "夜空浮岛：体素小屋、瀑布与发光方块",
+    "titleEn": "A Minecraft-Inspired Floating Island in Blender",
+    "category": "等距与微缩",
+    "summary": "体素岛悬在月夜中，带小屋、树木、瀑布与发光元素。右侧Astra呈现青色屋顶和粉色树，左侧Opus是红顶小屋与另一套岛屿；录像保留各自运镜。",
+    "modelLabel": "GPT-6 Astra High / Claude Opus 5.5 High（独立对照）",
+    "imageCaption": "原作者原帖封面：左侧Claude Opus 5.5，右侧GPT-6 Astra。Astra为右侧青色屋顶岛屿；顺序与本批另外两条Blender比较不同。附整段25秒录像。",
+    "outcome": "作者称相同Blender任务、代码生成且不导入资产；速度和价格仅为单次自报。这是Minecraft风格动画，未提供可玩游戏或公开工程，未标为Minecraft本体或完整游戏。",
+    "promptSummary": "原帖公开夜空中的Minecraft风格浮岛建模与动画任务；完整对话及源码未公开。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Mr Tactical / @MrTacticalX",
+    "sourceUrl": "https://x.com/MrTacticalX/status/2109750408793223614",
+    "sourceDate": "2026-10-13",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-22",
+    "addedAt": "2026-10-22",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者正文和实际成果媒体明确Astra；完整原帖HTML的作者、created_at_ms与同帖辅助元数据匹配。按画面标签和作者声明保留模型分工，不代表独立复现。",
+    "sourceAccess": "原帖完整GET200 / 142,828字节；原封面完整GET200 / 131,323字节，1200×675，长度、SHA-256与Pillow全图解码核对。两个完整平台MP4版本逐一核对媒体ID、字节、来源时长及SHA-256，严格FFmpeg全长解码exit0且stderr空，封面与录像中帧实际查看；未剪辑或转码。未做本轮浏览器播放核查。 Release原版与播放版附件size/digest均已核对。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/MrTacticalX/status/2109750408793223614",
+    "repositoryUrl": null,
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/MrTacticalX/status/2109750408793223614",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/MrTacticalX/status/2109750408793223614"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2109750252810969088/img/0ZpAqD0RTSdnIoZB.jpg",
+    "imageKind": "video-poster",
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "作品和第三方媒体保留原作者及各权利人权利，不纳入本库MIT。保留原帖署名与纠错/移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/tactical-minecraft-floating-island-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-22/tactical-minecraft-floating-island-1-original.mp4",
+        "durationSeconds": 25.05,
+        "bytes": 16991036,
+        "sha256": "89f3529c83f9f57372a0bc3cfb0263d1d42fc69fe2d7f3c2d297d20560113c30",
+        "sourceUrl": "https://x.com/MrTacticalX/status/2109750408793223614",
+        "label": "A Minecraft-Inspired Floating Island in Blender",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2109750252810969088/img/0ZpAqD0RTSdnIoZB.jpg"
+      }
+    ]
+  },
+  {
     "id": "vib3coded-jelly-avocado-comparison",
     "title": "牛油果果冻：可分离果核的双模型对照",
     "titleEn": "Avocado Jelly — Two Models and a Removable Pit",

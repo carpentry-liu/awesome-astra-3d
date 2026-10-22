@@ -2,6 +2,15 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-22 · 4 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [瓶中风暴：Blender 帆船、海浪与闪电 / Storm in a Bottle — Blender Ships, Waves and Lightning](https://carpentry-liu.github.io/awesome-astra-3d/cases/tactical-storm-in-a-bottle/) | Mr Tactical / @MrTacticalX | 完整视频 · 提示词 / 过程 |
+| [雨林缸：瀑布、薄雾与水下小鱼 / A Three.js Paludarium — Waterfalls, Mist and Fish](https://carpentry-liu.github.io/awesome-astra-3d/cases/ananth-threejs-paludarium/) | Ananth / @Ananth7e | 完整视频 · 提示词 / 过程 |
+| [Blender 弩箭动画：从硬表面模型到发射镜头 / A Blender Crossbow — Modeling and Firing Animation](https://carpentry-liu.github.io/awesome-astra-3d/cases/tactical-blender-crossbow/) | Mr Tactical / @MrTacticalX | 完整视频 · 提示词 / 过程 |
+| [夜空浮岛：体素小屋、瀑布与发光方块 / A Minecraft-Inspired Floating Island in Blender](https://carpentry-liu.github.io/awesome-astra-3d/cases/tactical-minecraft-floating-island/) | Mr Tactical / @MrTacticalX | 完整视频 · 提示词 / 过程 |
+
 ## 2026-10-21 · 7 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
