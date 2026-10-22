@@ -78,7 +78,9 @@ npm start
 | README成果图与截图边界 | 中英文README增加四件第三方成果预览与新目录/统计。四张网站实拍及share.jpg与基线逐字节一致，继续标注10月21日；没有改日期冒充今日重拍 |
 | 浏览器验证限制 | Computer Use在Chrome窗口识别时被安全检查停止：无法可靠确定当前Windows浏览器URL。没有继续UI输入或改用其他自动化绕过。未完成本轮桌面/手机实拍、控制台和浏览器播放；FFmpeg全长解码不记作浏览器播放。网站界面代码未更改，线上文件验证另行执行 |
 
-本轮媒体发布至[10月22日Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-22)，包含八个完整MP4和一张有来源的实际截帧。源码、Pages部署及线上文件待本轮发布后补记真实结果。不重新部署案例库ChatGPT Site，不提交迁移说明、缓存、媒体下载或本地核查脚本。
+本轮媒体发布至[10月22日Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-22)，包含八个完整MP4和一张有来源的实际截帧。内容提交 `574d2cf` 已推送至main，[Pages工作流](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/39733198331)检查、构建、全部171段播放文件下载校验与部署成功。发布后28项完整GET核对全部通过：389条公开目录、首页统计、809项sitemap、4条详情JSON、8个双语详情、4段新增MP4、实际截帧、既有四张网站实拍、分享封面及双语README/视频清单；详情同时核对canonical、语言、作者和来源。新MP4及截帧完整字节和SHA-256一致，Release九附件尺寸/digest核对通过。RAW文件按发布提交Git blob逐字节比较。
+
+本轮没有浏览器播放、控制台或新网站实拍证明，不以HTTP或FFmpeg结果替代。截图继续标注10月21日，README另展示已核验的四件第三方成果。不重新部署案例库ChatGPT Site，不提交迁移说明、缓存、媒体下载或本地核查脚本。
 
 ## 小王子制作流程复核（2026-10-18）
 
