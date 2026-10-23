@@ -9910,6 +9910,144 @@
       "newMediaFiles": 8,
       "newMediaBytes": 99152331,
       "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-22"
+    },
+    {
+      "observedAt": "2026-10-23",
+      "timezone": "Asia/Shanghai",
+      "scope": "公开搜索X、Reddit、GitHub、日文作者文章与中文社区；同类目录仅作线索，新增回到精确X原帖、作者声明和完整来源媒体。未访问小红书账户。",
+      "queries": [
+        "\"GPT 6\" \"Astra\" \"3D\" after:2026-10-20",
+        "\"Astra\" \"Three.js\" after:2026-10-20",
+        "\"Astra\" \"Blender\" after:2026-10-20",
+        "\"Vib3coded\" \"passion\" jelly",
+        "site:x.com \"Astra\" \"3D\" \"Oct 22, 2026\"",
+        "site:x.com \"Astra\" \"jelly\" \"passion\"",
+        "site:x.com \"Astra\" \"Blender\" \"Oct 23\"",
+        "\"GPT-6 Astra\" \"Three.js\" \"2026-10-22\"",
+        "GitHub repositories: astra threejs sort:updated",
+        "GitHub repositories: astra blender sort:updated",
+        "GitHub repositories: \"gpt-6\" 3d sort:updated",
+        "\"Retro del Sol\" game chongdashu",
+        "\"GPT-6 Astra\" \"3D\" \"October 23\" 2026",
+        "\"Astra\" \"Lantern Tide\"",
+        "\"epicodix\" \"astra\"",
+        "\"GPT-6 Astra\" \"3D\" site:note.com after:2026-10-20",
+        "\"GPT-6 Astra\" \"Blender\" site:bilibili.com after:2026-10-19",
+        "\"Astra\" \"passion fruit\" \"vib3coded\""
+      ],
+      "discoverySources": [
+        "https://github.com/coolbat/awesome-opus-5.5-usecase",
+        "https://github.com/billyhetech/awesome-gpt6-astra-videos",
+        "https://www.sotwe.com/vib3coded?lang=en"
+      ],
+      "notAdopted": [
+        {
+          "url": "https://www.sotwe.com/vib3coded?lang=en",
+          "reason": "百香果对照可见但本轮仍没有精确原帖ID，聚合页相对时间不作为首发；篮球场正文只声明Opus，未计Astra。"
+        },
+        {
+          "url": "https://github.com/GuillermoBarreto/AstraScope",
+          "reason": "已读README，AstraScope是卫星平台名称，没有明确GPT-6 Astra创作归属；不按项目名收录。"
+        },
+        {
+          "url": "https://github.com/maxsilvaweb/supercar-threejs-astra-configurator",
+          "reason": "已读README，说明Astro/React/Three.js技术但没有明确GPT-6 Astra模型声明；仓库名不是归属证据。"
+        },
+        {
+          "url": "https://github.com/epicodix/astra-naval-lab",
+          "reason": "作者README明确GPT Astra合作制作，并限定为游戏近似；本轮未核实可用的实际成果预览，暂不加入展示库。"
+        },
+        {
+          "url": "https://www.reddit.com/r/ChatGPT/comments/1xcmyru/making_your_own_game_is_getting_easier_my_mobile/",
+          "reason": "作者明确Astra/Godot与Rodin资产分工，但可见媒体链接被重定向为HTML页面，本轮未取得可解码成果媒体；不拿介绍文字代替成果。"
+        },
+        {
+          "url": "https://www.reddit.com/r/TopologyAI/comments/1xcpiiw/made_a_cozy_little_3d_game_with_gpt6_astra/",
+          "reason": "Lantern Tide的Astra游戏代码与Hyper3D资产分工清楚，但可见预览链接被重定向为HTML，本轮未取得可解码成果媒体；跨板转载不重复计数。"
+        },
+        {
+          "url": "https://note.com/it_rutinelabo/n/n39c9019c2745",
+          "reason": "检索返回9月29日PR文章，并非这几日首发；没有据搜索结果相对时间增加今日新作。"
+        },
+        {
+          "url": "https://x.com/StefanoGPT/status/2110098269904789797",
+          "reason": "精确同帖辅助元数据可读，但本轮未完成原帖与完整媒体核查，保留线索，不提前计数。"
+        },
+        {
+          "url": "https://x.com/ann_nnng/status/2110234900616126769",
+          "reason": "玛格丽特杯液面同帖辅助元数据可读，本轮未完成原帖与完整媒体核查，保留线索。"
+        }
+      ],
+      "limits": [
+        "10月23日为本库收录日；五条原帖发布日期按上海时间为10月22日两条、21日、20日和12日。Retro del Sol的来源日期指长录像发布，不断言游戏首次完成。",
+        "保留混合流程与每组画面标签；Carbon是作者的Arena检查点标签，不作官方发布确认或独立排名。",
+        "五条完整X片段约242秒，各留最高码率原版与较小完整平台版，共10个MP4、245347603字节；严格全长解码通过，无剪辑或转码。",
+        "Computer Use再次因无法可靠识别当前Windows浏览器URL被安全检查停止。未继续UI输入或换其他自动化绕过，没有本轮浏览器播放、控制台或新网站实拍，保留10月21日截图真实日期。"
+      ],
+      "round": "daily",
+      "checkedAtUtc": "2026-10-23T02:19:11.500375+00:00",
+      "baselineCommit": "0b4f4fd96094582ef25935e6e4567922bbba9980",
+      "baselineCount": 389,
+      "resultingCount": 394,
+      "addedCaseIds": [
+        "chongdashu-retro-del-sol",
+        "screening-threejs-carbon-comparison",
+        "kenny-jelly-canal-comparison",
+        "rhinox-jelly-skeleton-comparison",
+        "wyltek-ckb-block-visualiser"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "coverage": [
+        {
+          "id": "chongdashu-retro-del-sol",
+          "sourceUrl": "https://x.com/chongdashu/status/2113090126406635638",
+          "sourceDate": "2026-10-22",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2113089437748035584/img/Ppb3v7Rd_47sDHCq.jpg",
+          "roles": "GPT-6 Astra + Claude Opus 5.5（项目制作）/ Retro Diffusion 3D（资产）/ Blender（动画）"
+        },
+        {
+          "id": "screening-threejs-carbon-comparison",
+          "sourceUrl": "https://x.com/AI_Screening/status/2113184121883435047",
+          "sourceDate": "2026-10-22",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2113183443815436288/img/tQvV-jgsCeNdHMrw.jpg",
+          "roles": "GPT-6 Astra / Claude Opus 5.5 / Gemini 4 Carbon（作者标为Arena检查点，独立对照）"
+        },
+        {
+          "id": "kenny-jelly-canal-comparison",
+          "sourceUrl": "https://x.com/0xKenny1st/status/2112605599145832540",
+          "sourceDate": "2026-10-21",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2112605564920283137/img/iFwg9BXGHxnROEq7.jpg",
+          "roles": "GPT-6 Astra / Claude Opus 5.5（同题独立对照）"
+        },
+        {
+          "id": "rhinox-jelly-skeleton-comparison",
+          "sourceUrl": "https://x.com/0xRhinoX/status/2112224962903683435",
+          "sourceDate": "2026-10-20",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2112222998845341696/img/9EsfX837sz-QO-zX.jpg",
+          "roles": "GPT-6 Astra / Claude Opus 5.5（独立对照）"
+        },
+        {
+          "id": "wyltek-ckb-block-visualiser",
+          "sourceUrl": "https://x.com/wyltek1/status/2109520227784659041",
+          "sourceDate": "2026-10-12",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2109519955758845953/img/KuouEE1WMukiowq_.jpg",
+          "roles": "GPT-6 Astra / GPT-6 Sol / Kimi K3 / Claude Opus 5.5（四组独立对照）"
+        }
+      ],
+      "historicalIncrementalSummary": {
+        "checkedImages": 40,
+        "decodedImages": 40,
+        "checkedVideoCases": 10,
+        "checkedVideoEndpoints": 20,
+        "verifiedVideoEndpoints": 20,
+        "failures": [],
+        "limits": "Historical videos were not downloaded or replayed in full. Image decode and bounded video endpoints only."
+      },
+      "completeSourceClips": 5,
+      "newMediaFiles": 10,
+      "newMediaBytes": 245347603,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-23"
     }
   ]
 }

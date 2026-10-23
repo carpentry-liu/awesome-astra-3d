@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-22 (Asia/Shanghai)** · **377 Astra examples** · **112 source / project links** · **121 demo links** · **171 complete videos** · **12 separate references**.
+Updated **2026-10-23 (Asia/Shanghai)** · **382 Astra examples** · **112 source / project links** · **121 demo links** · **176 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -46,7 +46,7 @@ Open an image for the case, materials and known limitations. This selection stay
 
 [![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-21.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Website screenshots remain from the **October 21, 2026** production build. See the October 22 creator previews and latest additions below for current content. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Website screenshots remain from the **October 21, 2026** production build. See the October 23 creator previews and latest additions below for current content. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
 <summary>Gallery, mobile and case screenshots · October 21, 2026</summary>
@@ -63,29 +63,31 @@ Website screenshots remain from the **October 21, 2026** production build. See t
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The October 22 update adds **4 works and 4 complete X clips**: a Blender storm in a bottle, crossbow animation, floating island, and a Three.js paludarium. About 127 seconds of posted footage is archived in original and smaller complete platform renditions. Model panels remain separately labelled; the paludarium credits Astra for implementation and Opus for orchestration. These works were first posted on October 13, 18 and 19; today is their collection date.
+The October 23 update adds **5 works and 5 complete X clips**: Retro del Sol, a three-model freestyle-swimming comparison, a jelly canal, Jelly Skeleton, and a four-model CKB motocross visualiser. About 242 seconds of posted footage is archived in original and smaller complete platform renditions. Astra panels stay labelled, and Retro del Sol separately credits Retro Diffusion 3D assets and Blender animation. The posts date from October 12 to 22; today is their collection date.
 
 <!-- atlas:update-previews:start -->
 **This update in pictures — creator works**
 
-| Storm in a bottle · Astra left | Paludarium · Astra build / Opus direction |
+| Retro del Sol · mixed models / specialist assets | Freestyle · Astra bottom panel |
 | --- | --- |
-| [![Storm in a bottle · Astra left](https://pbs.twimg.com/amplify_video_thumb/2112184518857641984/img/nqFjCvnFJVYPMVq4.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/tactical-storm-in-a-bottle/) | [![Paludarium · Astra build / Opus direction](https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-22/ananth-threejs-paludarium-frame-25-6s.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ananth-threejs-paludarium/) |
-| Crossbow · Astra left | Floating island · Astra right |
-| [![Crossbow · Astra left](https://pbs.twimg.com/amplify_video_thumb/2109722405253824512/img/zZT1MM_WrS29en9a.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/tactical-blender-crossbow/) | [![Floating island · Astra right](https://pbs.twimg.com/amplify_video_thumb/2109750252810969088/img/0ZpAqD0RTSdnIoZB.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/tactical-minecraft-floating-island/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2113089437748035584/img/Ppb3v7Rd_47sDHCq.jpg" height="220" alt="Retro del Sol · mixed models / specialist assets">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/chongdashu-retro-del-sol/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2113183443815436288/img/tQvV-jgsCeNdHMrw.jpg" height="220" alt="Freestyle · Astra bottom panel">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/screening-threejs-carbon-comparison/) |
+| Jelly canal · Astra bottom panel | Jelly Skeleton · Astra right |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2112605564920283137/img/iFwg9BXGHxnROEq7.jpg" height="220" alt="Jelly canal · Astra bottom panel">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kenny-jelly-canal-comparison/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2112222998845341696/img/9EsfX837sz-QO-zX.jpg" height="220" alt="Jelly Skeleton · Astra right">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/rhinox-jelly-skeleton-comparison/) |
+| CKB motocross · Astra upper left | Watch the complete clips |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2109519955758845953/img/KuouEE1WMukiowq_.jpg" height="220" alt="CKB motocross · Astra upper left">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/wyltek-ckb-block-visualiser/) | [5 new clips](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Original files](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-23) |
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [Retro del Sol — A Low-poly Seaside Multiplayer Game](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/chongdashu-retro-del-sol/) | Chong-U / @chongdashu | [Original](https://x.com/chongdashu/status/2113090126406635638) |
+| [Freestyle Swimming — Three Models Build a Three.js Pool](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/screening-threejs-carbon-comparison/) | Pranav Reddy / @AI_Screening | [Original](https://x.com/AI_Screening/status/2113184121883435047) |
+| [Lock / Jelly — A Canal, Boat and Windmill Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kenny-jelly-canal-comparison/) | Kenny1st / @0xKenny1st | [Original](https://x.com/0xKenny1st/status/2112605599145832540) |
+| [Jelly Skeleton — Two Interactive Character Studies](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/rhinox-jelly-skeleton-comparison/) | Rhino / @0xRhinoX | [Original](https://x.com/0xRhinoX/status/2112224962903683435) |
+| [CKB Motocross — A Four-model Block Visualiser](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/wyltek-ckb-block-visualiser/) | wyltek crypto / @wyltek1 | [Original](https://x.com/wyltek1/status/2109520227784659041) |
 | [Storm in a Bottle — Blender Ships, Waves and Lightning](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/tactical-storm-in-a-bottle/) | Mr Tactical / @MrTacticalX | [Original](https://x.com/MrTacticalX/status/2112184796419883354) |
 | [A Three.js Paludarium — Waterfalls, Mist and Fish](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ananth-threejs-paludarium/) | Ananth / @Ananth7e | [Original](https://x.com/Ananth7e/status/2111716745035821112) |
 | [A Blender Crossbow — Modeling and Firing Animation](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/tactical-blender-crossbow/) | Mr Tactical / @MrTacticalX | [Original](https://x.com/MrTacticalX/status/2109723827429109798) |
-| [A Minecraft-Inspired Floating Island in Blender](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/tactical-minecraft-floating-island/) | Mr Tactical / @MrTacticalX | [Original](https://x.com/MrTacticalX/status/2109750408793223614) |
-| [Avocado Jelly — Two Models and a Removable Pit](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-jelly-avocado-comparison/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2112128541022114137) |
-| [GPS — A Continuous Story with 3D Spheres](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/citaborg-gps-threejs-story/) | Lars Thomas Bredland / Citaborg | [Demo](https://www.bredland.no/gps/gpt-6-astra/) · [Source](https://github.com/Citaborg/how-does-gps-work/tree/main/GPT6-Astra-xhigh) · [Original](https://github.com/Citaborg/how-does-gps-work) |
-| [LUNA PARK — A Procedural Amusement Park](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/umutseve4-luna-park/) | Umut Sever / umutseve4 | [Source](https://github.com/umutseve4/astra-lunapark) · [Original](https://github.com/umutseve4/astra-lunapark) |
-| [Meridian Wake — A Brick-Built Spacefaring Game](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/michaelcrosato-meridian-wake/) | Michael Crosato / michaelcrosato | [Source](https://github.com/michaelcrosato/meridian-wake-g6a) · [Original](https://github.com/michaelcrosato/meridian-wake-g6a) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

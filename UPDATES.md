@@ -2,6 +2,16 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-23 · 5 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Retro del Sol：开车、乘船与海滨小镇 / Retro del Sol — A Low-poly Seaside Multiplayer Game](https://carpentry-liu.github.io/awesome-astra-3d/cases/chongdashu-retro-del-sol/) | Chong-U / @chongdashu | 完整视频 · 提示词 / 过程 |
+| [自由泳：三种模型的泳姿与池水对照 / Freestyle Swimming — Three Models Build a Three.js Pool](https://carpentry-liu.github.io/awesome-astra-3d/cases/screening-threejs-carbon-comparison/) | Pranav Reddy / @AI_Screening | 完整视频 · 提示词 / 过程 |
+| [Lock / Jelly：船闸、风车与果冻运河 / Lock / Jelly — A Canal, Boat and Windmill Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/kenny-jelly-canal-comparison/) | Kenny1st / @0xKenny1st | 完整视频 · 提示词 / 过程 |
+| [Jelly Skeleton：两种果冻骷髅的交互实验 / Jelly Skeleton — Two Interactive Character Studies](https://carpentry-liu.github.io/awesome-astra-3d/cases/rhinox-jelly-skeleton-comparison/) | Rhino / @0xRhinoX | 完整视频 · 提示词 / 过程 |
+| [CKB Motocross：用区块交易驱动越野动作 / CKB Motocross — A Four-model Block Visualiser](https://carpentry-liu.github.io/awesome-astra-3d/cases/wyltek-ckb-block-visualiser/) | wyltek crypto / @wyltek1 | 完整视频 · 提示词 / 过程 |
+
 ## 2026-10-22 · 4 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

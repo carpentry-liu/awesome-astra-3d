@@ -1,5 +1,275 @@
 [
   {
+    "id": "chongdashu-retro-del-sol",
+    "title": "Retro del Sol：开车、乘船与海滨小镇",
+    "titleEn": "Retro del Sol — A Low-poly Seaside Multiplayer Game",
+    "category": "3D 游戏",
+    "summary": "角色在海滨街区驾驶小车、走近商铺，再乘船驶向水面。作者公开44秒实机长片，称游戏支持浏览器多人联机与手机、桌面端。",
+    "modelLabel": "GPT-6 Astra + Claude Opus 5.5（项目制作）/ Retro Diffusion 3D（资产）/ Blender（动画）",
+    "imageCaption": "作者实机录像原封面：码头、小车与海滨街区；附完整44秒原帖录像。不是概念图或本库制作的角色。",
+    "outcome": "作者明确资产由Retro Diffusion 3D生成，并在Blender制作动画；Astra与Opus参与项目，但未公开更细的代码分工。多人联机和跨设备支持为作者自述，本轮未取得可核验的试玩或工程地址。10月22日是这条长录像的发布日期，不据此断言游戏首次完成。",
+    "promptSummary": "原帖说明游戏主题、模型组合及资产制作方式，未公开完整提示词或会话。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Chong-U / @chongdashu",
+    "sourceUrl": "https://x.com/chongdashu/status/2113090126406635638",
+    "sourceDate": "2026-10-22",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-23",
+    "addedAt": "2026-10-23",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者正文、实际成果标签与完整媒体明确Astra。原帖完整HTML的作者和发布时间与精确同帖辅助元数据一致；保留多模型和资产工具分工，不代表独立复现。",
+    "sourceAccess": "原帖完整GET200 / 149,737字节；原封面完整GET200 / 255,055字节，1200×675，长度、SHA-256与Pillow全图解码核对。两个完整平台MP4逐一核对媒体ID、来源时长、长度和SHA-256；严格FFmpeg全长解码exit0且stderr空，实际查看封面与中帧，未剪辑或转码。浏览器URL识别受工具安全检查限制，本轮没有浏览器播放证明。 Release原版与播放版附件size/digest均已核对。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/chongdashu/status/2113090126406635638",
+    "repositoryUrl": null,
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/chongdashu/status/2113090126406635638",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/chongdashu/status/2113090126406635638"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2113089437748035584/img/Ppb3v7Rd_47sDHCq.jpg",
+    "imageKind": "video-poster",
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "作品和第三方媒体保留原作者及各权利人权利，不纳入本库MIT。保留原帖署名与纠错/移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/chongdashu-retro-del-sol-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-23/chongdashu-retro-del-sol-1-original.mp4",
+        "durationSeconds": 44.05,
+        "bytes": 46346233,
+        "sha256": "15dc17466fc7ea8f29a2777758288dd9be584fe0cbfaf39980798141957702ae",
+        "sourceUrl": "https://x.com/chongdashu/status/2113090126406635638",
+        "label": "Retro del Sol — A Low-poly Seaside Multiplayer Game",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113089437748035584/img/Ppb3v7Rd_47sDHCq.jpg"
+      }
+    ]
+  },
+  {
+    "id": "screening-threejs-carbon-comparison",
+    "title": "自由泳：三种模型的泳姿与池水对照",
+    "titleEn": "Freestyle Swimming — Three Models Build a Three.js Pool",
+    "category": "程序化场景",
+    "summary": "三栏同时展示泳池中的自由泳动作，可见泳姿、身体比例、泳道和水面表现的差异。Astra在最下栏，另外两栏分别为Gemini Carbon与Opus。",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5 / Gemini 4 Carbon（作者标为Arena检查点，独立对照）",
+    "imageCaption": "原帖三栏成果封面：上栏Gemini 4 Carbon（Arena）、中栏Claude Opus 5.5、下栏GPT-6 Astra。完整15.183秒录像保留所有标签。",
+    "outcome": "原作者明确同为Three.js测试并发表偏好；本库只记录可见成果，不把单次审美评价当独立排名，也不把Arena标签当官方发布确认。未公开完整任务、工程和试玩；不将泳姿或水面近似称为经过验证的物理仿真。",
+    "promptSummary": "作者公开Three.js泳池测试及模型标签，完整原始提示词未公开。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Pranav Reddy / @AI_Screening",
+    "sourceUrl": "https://x.com/AI_Screening/status/2113184121883435047",
+    "sourceDate": "2026-10-22",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-23",
+    "addedAt": "2026-10-23",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者正文、实际成果标签与完整媒体明确Astra。原帖完整HTML的作者和发布时间与精确同帖辅助元数据一致；保留多模型和资产工具分工，不代表独立复现。",
+    "sourceAccess": "原帖完整GET200 / 152,402字节；原封面完整GET200 / 137,548字节，909×1199，长度、SHA-256与Pillow全图解码核对。两个完整平台MP4逐一核对媒体ID、来源时长、长度和SHA-256；严格FFmpeg全长解码exit0且stderr空，实际查看封面与中帧，未剪辑或转码。浏览器URL识别受工具安全检查限制，本轮没有浏览器播放证明。 Release原版与播放版附件size/digest均已核对。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/AI_Screening/status/2113184121883435047",
+    "repositoryUrl": null,
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/AI_Screening/status/2113184121883435047",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/AI_Screening/status/2113184121883435047"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2113183443815436288/img/tQvV-jgsCeNdHMrw.jpg",
+    "imageKind": "author-comparison",
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "作品和第三方媒体保留原作者及各权利人权利，不纳入本库MIT。保留原帖署名与纠错/移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/screening-threejs-carbon-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-23/screening-threejs-carbon-comparison-1-original.mp4",
+        "durationSeconds": 15.23,
+        "bytes": 17565149,
+        "sha256": "ff7b57939f543c2a09e51739c5000f26e8b041b95a7401aefef1bd983cad740f",
+        "sourceUrl": "https://x.com/AI_Screening/status/2113184121883435047",
+        "label": "Freestyle Swimming — Three Models Build a Three.js Pool",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113183443815436288/img/tQvV-jgsCeNdHMrw.jpg"
+      }
+    ]
+  },
+  {
+    "id": "kenny-jelly-canal-comparison",
+    "title": "Lock / Jelly：船闸、风车与果冻运河",
+    "titleEn": "Lock / Jelly — A Canal, Boat and Windmill Comparison",
+    "category": "等距与微缩",
+    "summary": "把船闸、小船、风车和乡间房屋装进微缩运河。Astra下栏采用透明水体剖面，Opus上栏展示另一套地形与水面；整段录像可直接对照。",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（同题独立对照）",
+    "imageCaption": "原作者竖版双模型成果：上方Claude Opus 5.5，下方GPT-6 Astra；Astra为透明水体剖面小景。附完整13.142秒原帖录像。",
+    "outcome": "作者声明同一提示词，并自报费用和偏好；这些不构成独立性能或成本基准。可看船闸与小船动画，但没有公开源码、完整会话或试玩，不能把果冻视觉效果等同于严格流体求解。",
+    "promptSummary": "作者公开任务短句：在浏览器里建立包含船闸、小船和风车的三维果冻运河；没有公开完整会话。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Kenny1st / @0xKenny1st",
+    "sourceUrl": "https://x.com/0xKenny1st/status/2112605599145832540",
+    "sourceDate": "2026-10-21",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-23",
+    "addedAt": "2026-10-23",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者正文、实际成果标签与完整媒体明确Astra。原帖完整HTML的作者和发布时间与精确同帖辅助元数据一致；保留多模型和资产工具分工，不代表独立复现。",
+    "sourceAccess": "原帖完整GET200 / 108,949字节；原封面完整GET200 / 96,737字节，675×1200，长度、SHA-256与Pillow全图解码核对。两个完整平台MP4逐一核对媒体ID、来源时长、长度和SHA-256；严格FFmpeg全长解码exit0且stderr空，实际查看封面与中帧，未剪辑或转码。浏览器URL识别受工具安全检查限制，本轮没有浏览器播放证明。 Release原版与播放版附件size/digest均已核对。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/0xKenny1st/status/2112605599145832540",
+    "repositoryUrl": null,
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/0xKenny1st/status/2112605599145832540",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/0xKenny1st/status/2112605599145832540"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2112605564920283137/img/iFwg9BXGHxnROEq7.jpg",
+    "imageKind": "author-comparison",
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "作品和第三方媒体保留原作者及各权利人权利，不纳入本库MIT。保留原帖署名与纠错/移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/kenny-jelly-canal-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-23/kenny-jelly-canal-comparison-1-original.mp4",
+        "durationSeconds": 13.19,
+        "bytes": 4362861,
+        "sha256": "2fc1cd74172e556b6ca0fc25ba97471df4c24e62f8ccf8370099323362b26774",
+        "sourceUrl": "https://x.com/0xKenny1st/status/2112605599145832540",
+        "label": "Lock / Jelly — A Canal, Boat and Windmill Comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112605564920283137/img/iFwg9BXGHxnROEq7.jpg"
+      }
+    ]
+  },
+  {
+    "id": "rhinox-jelly-skeleton-comparison",
+    "title": "Jelly Skeleton：两种果冻骷髅的交互实验",
+    "titleEn": "Jelly Skeleton — Two Interactive Character Studies",
+    "category": "角色与动画",
+    "summary": "透明骷髅坐在蜡烛与南瓜之间，录像比较戳动、拉伸和摇晃后的角色表现。左侧Opus、右侧Astra，保留角色材质、骨架和界面差异。",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（独立对照）",
+    "imageCaption": "原帖实际交互界面：左侧Claude Opus 5.5，右侧ChatGPT-6 Astra；完整38.233秒录像保留两边。左侧透明材质不归给Astra。",
+    "outcome": "作者强调左侧Opus的肋骨音符与笑声，并对Astra成果给出负面评价。保留对照和失败观察，不把左侧独有功能改写成Astra能力；模型耗时和费用为单次自报。未取得公开工程或试玩。",
+    "promptSummary": "原帖公开果冻骷髅、骨骼可见与互动主题；没有公开两模型完整提示词或会话，不断言二者输入完全一致。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Rhino / @0xRhinoX",
+    "sourceUrl": "https://x.com/0xRhinoX/status/2112224962903683435",
+    "sourceDate": "2026-10-20",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-23",
+    "addedAt": "2026-10-23",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者正文、实际成果标签与完整媒体明确Astra。原帖完整HTML的作者和发布时间与精确同帖辅助元数据一致；保留多模型和资产工具分工，不代表独立复现。",
+    "sourceAccess": "原帖完整GET200 / 138,106字节；原封面完整GET200 / 112,134字节，1200×671，长度、SHA-256与Pillow全图解码核对。两个完整平台MP4逐一核对媒体ID、来源时长、长度和SHA-256；严格FFmpeg全长解码exit0且stderr空，实际查看封面与中帧，未剪辑或转码。浏览器URL识别受工具安全检查限制，本轮没有浏览器播放证明。 Release原版与播放版附件size/digest均已核对。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/0xRhinoX/status/2112224962903683435",
+    "repositoryUrl": null,
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/0xRhinoX/status/2112224962903683435",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/0xRhinoX/status/2112224962903683435"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2112222998845341696/img/9EsfX837sz-QO-zX.jpg",
+    "imageKind": "author-comparison",
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "作品和第三方媒体保留原作者及各权利人权利，不纳入本库MIT。保留原帖署名与纠错/移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/rhinox-jelly-skeleton-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-23/rhinox-jelly-skeleton-comparison-1-original.mp4",
+        "durationSeconds": 38.29,
+        "bytes": 12696553,
+        "sha256": "9554b9a09cb151702829dc568489077b7cd008e4c941e79b91aa79c11a76ee74",
+        "sourceUrl": "https://x.com/0xRhinoX/status/2112224962903683435",
+        "label": "Jelly Skeleton — Two Interactive Character Studies",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112222998845341696/img/9EsfX837sz-QO-zX.jpg"
+      }
+    ]
+  },
+  {
+    "id": "wyltek-ckb-block-visualiser",
+    "title": "CKB Motocross：用区块交易驱动越野动作",
+    "titleEn": "CKB Motocross — A Four-model Block Visualiser",
+    "category": "交互与工具",
+    "summary": "越野摩托在低多边形赛道上完成跳跃与动作。作者把CKB区块交易数映射到动作，并同时展示Astra、Opus、Kimi与Sol四套Three.js方案。",
+    "modelLabel": "GPT-6 Astra / GPT-6 Sol / Kimi K3 / Claude Opus 5.5（四组独立对照）",
+    "imageCaption": "原帖四宫格：左上GPT-6 Astra、右上Opus 5.5、左下Kimi K3、右下GPT-6 Sol。完整131.033秒录像保留四组，不将Sol或Opus赛道归为Astra。",
+    "outcome": "作者称交易数决定动作并评价各模型表现。本库核验的是完整成果录像，未独立验证链上实时数据、交易到动作的映射或运行性能；未公开工程与试玩。",
+    "promptSummary": "作者公开Three.js区块可视化方向与交易数驱动动作的设计，完整原始提示词未公开。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "wyltek crypto / @wyltek1",
+    "sourceUrl": "https://x.com/wyltek1/status/2109520227784659041",
+    "sourceDate": "2026-10-12",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-23",
+    "addedAt": "2026-10-23",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者正文、实际成果标签与完整媒体明确Astra。原帖完整HTML的作者和发布时间与精确同帖辅助元数据一致；保留多模型和资产工具分工，不代表独立复现。",
+    "sourceAccess": "原帖完整GET200 / 107,483字节；原封面完整GET200 / 112,166字节，675×1200，长度、SHA-256与Pillow全图解码核对。两个完整平台MP4逐一核对媒体ID、来源时长、长度和SHA-256；严格FFmpeg全长解码exit0且stderr空，实际查看封面与中帧，未剪辑或转码。浏览器URL识别受工具安全检查限制，本轮没有浏览器播放证明。 Release原版与播放版附件size/digest均已核对。",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/wyltek1/status/2109520227784659041",
+    "repositoryUrl": null,
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/wyltek1/status/2109520227784659041",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/wyltek1/status/2109520227784659041"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2109519955758845953/img/KuouEE1WMukiowq_.jpg",
+    "imageKind": "author-comparison",
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "作品和第三方媒体保留原作者及各权利人权利，不纳入本库MIT。保留原帖署名与纠错/移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/wyltek-ckb-block-visualiser-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-23/wyltek-ckb-block-visualiser-1-original.mp4",
+        "durationSeconds": 131.1,
+        "bytes": 145050057,
+        "sha256": "846eb0713ec4fc35707c4bf8054456f8ae76156003b7efafaa002f6d9c03a0ec",
+        "sourceUrl": "https://x.com/wyltek1/status/2109520227784659041",
+        "label": "CKB Motocross — A Four-model Block Visualiser",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2109519955758845953/img/KuouEE1WMukiowq_.jpg"
+      }
+    ]
+  },
+  {
     "id": "tactical-storm-in-a-bottle",
     "title": "瓶中风暴：Blender 帆船、海浪与闪电",
     "titleEn": "Storm in a Bottle — Blender Ships, Waves and Lightning",
