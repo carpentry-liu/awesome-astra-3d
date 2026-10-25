@@ -22068,6 +22068,462 @@
         }
       ],
       "removedCaseIds": []
+    },
+    {
+      "checkedAt": "2026-10-25",
+      "round": "daily",
+      "scope": "Four exact X author posts and one author repository; five previews, plus historical media endpoint checks. Decode/hash details are in media-audit.json.",
+      "addedCaseIds": [
+        "pratikgx-embryo-explorer",
+        "vib3coded-pixel-airport-comparison",
+        "vib3coded-chalk-square-comparison",
+        "vib3coded-offshore-jelly-comparison",
+        "ann-margarita-sloshing-comparison"
+      ],
+      "sourceChecks": [
+        {
+          "caseId": "vib3coded-chalk-square-comparison",
+          "url": "https://x.com/vib3coded/status/2113602050172785117",
+          "status": 200,
+          "bytes": 157213,
+          "authorMatched": true,
+          "timestampMatched": true,
+          "createdAtShanghai": "2026-10-23T20:02:52+08:00"
+        },
+        {
+          "caseId": "vib3coded-pixel-airport-comparison",
+          "url": "https://x.com/vib3coded/status/2113849897438834851",
+          "status": 200,
+          "bytes": 138429,
+          "authorMatched": true,
+          "timestampMatched": true,
+          "createdAtShanghai": "2026-10-24T12:27:43+08:00"
+        },
+        {
+          "caseId": "ann-margarita-sloshing-comparison",
+          "url": "https://x.com/ann_nnng/status/2110234900616126769",
+          "status": 200,
+          "bytes": 165161,
+          "authorMatched": true,
+          "timestampMatched": true,
+          "createdAtShanghai": "2026-10-14T13:03:01+08:00"
+        },
+        {
+          "caseId": "vib3coded-offshore-jelly-comparison",
+          "url": "https://x.com/vib3coded/status/2113401221910253853",
+          "status": 200,
+          "bytes": 151286,
+          "authorMatched": true,
+          "timestampMatched": true,
+          "createdAtShanghai": "2026-10-23T06:44:51+08:00"
+        },
+        {
+          "caseId": "pratikgx-embryo-explorer",
+          "url": "https://raw.githubusercontent.com/pratikgx/embryo-explorer/main/README.md",
+          "status": 200,
+          "bytes": 4160,
+          "sha256": "567e55dbbeef065118daa899e98b93ada64456cb3e7a0fab3e4f5627c65ebaf5",
+          "readmeBlobSha": "4ebae3ba1897e33968835b547269438cb9d816c0",
+          "connectorShaMatched": true,
+          "fork": false,
+          "observedAt": "2026-10-25"
+        }
+      ],
+      "previewChecks": [
+        {
+          "caseId": "vib3coded-chalk-square-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113601799215108097/img/NlxhpC135VtcLGkI.jpg",
+          "status": 200,
+          "decoded": true
+        },
+        {
+          "caseId": "vib3coded-pixel-airport-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113849838198530049/img/A2Ghi6Tg83UwCohp.jpg",
+          "status": 200,
+          "decoded": true
+        },
+        {
+          "caseId": "ann-margarita-sloshing-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110232579509227520/img/w2c0R7ECo4TZYO6-.jpg",
+          "status": 200,
+          "decoded": true
+        },
+        {
+          "caseId": "vib3coded-offshore-jelly-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113400858335444992/img/K2JtNt1iQCzxZiP_.jpg",
+          "status": 200,
+          "decoded": true
+        },
+        {
+          "caseId": "pratikgx-embryo-explorer",
+          "url": "https://raw.githubusercontent.com/pratikgx/embryo-explorer/main/media/preview.jpg",
+          "status": 200,
+          "decoded": true
+        }
+      ],
+      "historicalEndpoints": [
+        {
+          "caseId": "chongdashu-retro-del-sol",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113089437748035584/img/Ppb3v7Rd_47sDHCq.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "screening-threejs-carbon-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113183443815436288/img/tQvV-jgsCeNdHMrw.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "kenny-jelly-canal-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2112605564920283137/img/iFwg9BXGHxnROEq7.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "rhinox-jelly-skeleton-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2112222998845341696/img/9EsfX837sz-QO-zX.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "wyltek-ckb-block-visualiser",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2109519955758845953/img/KuouEE1WMukiowq_.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "tactical-storm-in-a-bottle",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2112184518857641984/img/nqFjCvnFJVYPMVq4.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "ananth-threejs-paludarium",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-22/ananth-threejs-paludarium-frame-25-6s.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "tactical-blender-crossbow",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2109722405253824512/img/zZT1MM_WrS29en9a.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "tactical-minecraft-floating-island",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2109750252810969088/img/0ZpAqD0RTSdnIoZB.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "vib3coded-jelly-avocado-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2112128465856086016/img/KK-qkssOLG_cTaB_.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "citaborg-gps-threejs-story",
+          "url": "https://www.bredland.no/gps/img/astra-2-3d.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "umutseve4-luna-park",
+          "url": "https://raw.githubusercontent.com/umutseve4/astra-lunapark/main/docs/preview.png",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "michaelcrosato-meridian-wake",
+          "url": "https://raw.githubusercontent.com/michaelcrosato/meridian-wake-g6a/main/docs/images/title.webp",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "onemorevision-sketchup-local-mcp-interior",
+          "url": "https://assets.st-note.com/img/1792021117-QzB2f0W1GuM9JNwyXbE8FdtA.png?width=1200",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "rhinox-interactive-ghost-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2111879105046093824/img/mvwjyp1Gnanu2_nv.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "vib3coded-marine-lagoon-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2111888414630940673/img/bYsC1uWWBuFNH09f.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "agentsky-steampunk-clock-tower",
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2112137744931831808/pu/img/apBGUgWwwhBDvpd9.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "harry-koi-pond-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2111817451415719937/img/xwNsTTgf7_II2x1D.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "lkuczborski-astra-gallery",
+          "url": "https://raw.githubusercontent.com/lkuczborski/AstraGallery/main/documentation/images/hall-of-fame.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "dylan-apartment-daylight-tour",
+          "url": "https://raw.githubusercontent.com/dylanxzthomas/apartment-virtual-tour/main/public/preview.png",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "eymndev-klein-bottle-blender",
+          "url": "https://github.com/user-attachments/assets/1163449d-0d1b-45ec-9843-dc5f83e61452",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "shimecki-apartment-tile-walkthrough",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2100220843775156224/img/QCFfTKkNlB-R01D9.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "givros-sunline-city",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2107806254584184833/img/CXQsjUeeqK7McJJ_.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "cedric-adizero-five-model-comparison",
+          "url": "https://pbs.twimg.com/media/HU2_mPQaYAAsfPK.jpg?name=orig",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "krishbakshi-worldbench-voxel-island",
+          "url": "https://arxiv.org/html/2610.10622v1/burst.png",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "jonathanmorales-digital-reset",
+          "url": "https://jonathanmorales.com/lab/agent-game-jams/images/digital-reset/astra-codex-daylight.webp",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "kevinxu02-aha3d-real2sim",
+          "url": "https://kevinxu02.github.io/real2sim-indoor-site/media/motivation-office48/after.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "tokengremlin-lumen-isles",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-18-second/tokengremlin-lumen-isles-frame-87s.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "misat0x-boeing747-assembly",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-18-second/misat0x-boeing747-assembly-frame-57s.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "darren-marina-bay-f1",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2108464071578460161/img/3aA_z5KjwfFH92DL.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "anhao-single-image-tabletop-reconstruction",
+          "url": "https://raw.githubusercontent.com/anhao-zhang/gpt6-blender-reconstruction/main/experiments/reconstruct_001/previews/image_occ8_render_final.png",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "uzura-ceramic-dragon-phase1",
+          "url": "https://assets.st-note.com/img/1788699676-OW7TJpSHVvcuR5Gy4oq1iIQP.png?width=1200",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "codersusu-seabright",
+          "url": "https://raw.githubusercontent.com/codersusu/game-city-skylines/main/Documentation/Images/skyline.png",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "yzh119-h3-battle-lab",
+          "url": "https://yzh119.github.io/images/battle-lab-materials/black-knight.png",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "routine-kyoto",
+          "url": "https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-simulator-images2.webp",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "seoyeon-city-pulse",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2098063330032435201/img/2FzQHs6t_0FG_5o7.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "enactra-madison-park",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097777088233439232/img/PlAlh9AKk8hWrOg_.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "mang-aerial-repair",
+          "url": "https://i0.hdslb.com/bfs/archive/cd2bc26ff686695ed2336c7d953a7487737a178c.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "danmana-cluj-voxel",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096248939876126720/img/s3bAAUu8zYiJXskz.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "aibattle-sonic-godot",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095992908448944130/img/v8BSAp4Xt5knPeV0.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "chongdashu-retro-del-sol",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/chongdashu-retro-del-sol-1-web.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "chongdashu-retro-del-sol",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-23/chongdashu-retro-del-sol-1-original.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "screening-threejs-carbon-comparison",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/screening-threejs-carbon-comparison-1-web.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "screening-threejs-carbon-comparison",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-23/screening-threejs-carbon-comparison-1-original.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "kenny-jelly-canal-comparison",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/kenny-jelly-canal-comparison-1-web.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "kenny-jelly-canal-comparison",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-23/kenny-jelly-canal-comparison-1-original.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "rhinox-jelly-skeleton-comparison",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/rhinox-jelly-skeleton-comparison-1-web.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "rhinox-jelly-skeleton-comparison",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-23/rhinox-jelly-skeleton-comparison-1-original.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "wyltek-ckb-block-visualiser",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/wyltek-ckb-block-visualiser-1-web.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "wyltek-ckb-block-visualiser",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-23/wyltek-ckb-block-visualiser-1-original.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "tactical-storm-in-a-bottle",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/tactical-storm-in-a-bottle-1-web.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "tactical-storm-in-a-bottle",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-22/tactical-storm-in-a-bottle-1-original.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "maker-evan-apache",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/maker-evan-apache-1-web.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "maker-evan-apache",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-11/maker-evan-apache-1-original.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "dan-chicago-fair",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/dan-chicago-fair-1-web.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "dan-chicago-fair",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-13/dan-chicago-fair-1-original.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "danmana-piata-unirii",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/danmana-piata-unirii-1-web.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "danmana-piata-unirii",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-10/danmana-piata-unirii-1-original.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "aibattle-sonic-godot",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/aibattle-sonic-godot-1-web.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "aibattle-sonic-godot",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-06/aibattle-sonic-godot-1-original.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        }
+      ],
+      "removedCaseIds": []
     }
   ]
 }

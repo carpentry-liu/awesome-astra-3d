@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-10-23（Asia/Shanghai）**：**382 条 Astra 案例** · **112 条源码 / 工程** · **121 个演示入口** · **176 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-10-25（Asia/Shanghai）**：**387 条 Astra 案例** · **113 条源码 / 工程** · **124 个演示入口** · **180 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -44,18 +44,18 @@
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-21.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-25.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-网站实拍仍取自 **2026-10-21** 的生产构建；10月23日新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+网站实拍更新于 **2026-10-25**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
-<summary>查看案例区、手机与作品详情实拍 · 2026-10-21</summary>
+<summary>查看案例区、手机与作品详情实拍 · 2026-10-25</summary>
 
-[![案例区：筛选与更多作品](docs/media/collection-2026-10-21.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![案例区：筛选与更多作品](docs/media/collection-2026-10-25.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端：精选作品与材料导航](docs/media/mobile-2026-10-21.jpg)
+![手机端：精选作品与材料导航](docs/media/mobile-2026-10-25.jpg)
 
-[![LUNA PARK：三维乐园成果与公开工程](docs/media/case-2026-10-21.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/umutseve4-luna-park/)
+[![Embryo Explorer：三维示意与公开工程](docs/media/case-2026-10-25.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/pratikgx-embryo-explorer/)
 
 </details>
 
@@ -63,31 +63,31 @@
 
 这里按本库收录日期排列；作品首次发布、模型配置与核查日期在各档案中分别记录。稳定精选不随日更替换。
 
-10 月 23 日新增收录 **5 件作品、5 段完整 X 录像**：Retro del Sol 海滨小镇、三模型自由泳、果冻运河、Jelly Skeleton，以及四模型 CKB 越野可视化。约242秒原帖录像全部保留原版与完整平台播放版。每组标明Astra所在画面，Retro del Sol另注明Retro Diffusion 3D资产与Blender动画。原帖发布于10月12日至22日，今天是收录日。
+10 月 25 日新增收录 **5 件作品、4 段完整 X 录像**：开源 Embryo Explorer、像素机场、Chalk Square 放学后院、Offshore Jelly 和杯中液面实验。新增1条源码与3个演示入口；后院和海上平台附作者完整任务链接。约73秒X录像保留完整原版与平台播放版，三组Astra在下栏，杯体实验在右下。原帖日期为10月14日、23日和24日；开源项目首发未核实，保留为空。
 
 <!-- atlas:update-previews:start -->
 **本轮成果预览（第三方原作）**
 
-| Retro del Sol · 混合模型 / 专用资产 | 自由泳 · Astra 在下栏 |
+| Embryo Explorer · 开源三维示意 | 像素机场 · Astra 在下栏 |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2113089437748035584/img/Ppb3v7Rd_47sDHCq.jpg" height="220" alt="Retro del Sol · 混合模型 / 专用资产">](https://carpentry-liu.github.io/awesome-astra-3d/cases/chongdashu-retro-del-sol/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2113183443815436288/img/tQvV-jgsCeNdHMrw.jpg" height="220" alt="自由泳 · Astra 在下栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/screening-threejs-carbon-comparison/) |
-| 果冻运河 · Astra 在下栏 | Jelly Skeleton · Astra 在右侧 |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2112605564920283137/img/iFwg9BXGHxnROEq7.jpg" height="220" alt="果冻运河 · Astra 在下栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/kenny-jelly-canal-comparison/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2112222998845341696/img/9EsfX837sz-QO-zX.jpg" height="220" alt="Jelly Skeleton · Astra 在右侧">](https://carpentry-liu.github.io/awesome-astra-3d/cases/rhinox-jelly-skeleton-comparison/) |
-| CKB 越野 · Astra 在左上 | 查看完整录像 |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2109519955758845953/img/KuouEE1WMukiowq_.jpg" height="220" alt="CKB 越野 · Astra 在左上">](https://carpentry-liu.github.io/awesome-astra-3d/cases/wyltek-ckb-block-visualiser/) | [查看 5 段新增录像](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video&order=newest#collection) · [下载完整原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-23) |
+| [<img src="https://raw.githubusercontent.com/pratikgx/embryo-explorer/main/media/preview.jpg" height="220" alt="Embryo Explorer · 开源三维示意">](https://carpentry-liu.github.io/awesome-astra-3d/cases/pratikgx-embryo-explorer/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2113849838198530049/img/A2Ghi6Tg83UwCohp.jpg" height="220" alt="像素机场 · Astra 在下栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-pixel-airport-comparison/) |
+| Chalk Square · Astra 在下栏 | Offshore Jelly · Astra 在下栏 |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2113601799215108097/img/NlxhpC135VtcLGkI.jpg" height="220" alt="Chalk Square · Astra 在下栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-chalk-square-comparison/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2113400858335444992/img/K2JtNt1iQCzxZiP_.jpg" height="220" alt="Offshore Jelly · Astra 在下栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-offshore-jelly-comparison/) |
+| 杯中液面 · Astra 在右下 | 查看完整录像 |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2110232579509227520/img/w2c0R7ECo4TZYO6-.jpg" height="220" alt="杯中液面 · Astra 在右下">](https://carpentry-liu.github.io/awesome-astra-3d/cases/ann-margarita-sloshing-comparison/) | [查看 4 段新增录像](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video&order=newest#collection) · [下载完整原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-25) |
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
+| [Embryo Explorer：可拆分的十六阶段三维示意](https://carpentry-liu.github.io/awesome-astra-3d/cases/pratikgx-embryo-explorer/) | Pratik Gandhi / pratikgx | [演示](https://embryoexplorer.com/) · [源码](https://github.com/pratikgx/embryo-explorer) · [原始来源](https://github.com/pratikgx/embryo-explorer) |
+| [Pixel Airport：昼夜与风雨中的微缩机场](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-pixel-airport-comparison/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2113849897438834851) |
+| [Chalk Square：雨后重画球场的放学后院](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-chalk-square-comparison/) | Vib3Coded / @vib3coded | [演示](https://chalk-square.vercel.app/) · [原始来源](https://x.com/vib3coded/status/2113602050172785117) |
+| [Offshore Jelly：透明海块中的平台与风机](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-offshore-jelly-comparison/) | Vib3Coded / @vib3coded | [演示](https://offshore-jelly.vercel.app/) · [原始来源](https://x.com/vib3coded/status/2113401221910253853) |
+| [Pink Hour：四种模型的杯中液面实验](https://carpentry-liu.github.io/awesome-astra-3d/cases/ann-margarita-sloshing-comparison/) | Ann Nguyen / @ann_nnng | [原始来源](https://x.com/ann_nnng/status/2110234900616126769) |
 | [Retro del Sol：开车、乘船与海滨小镇](https://carpentry-liu.github.io/awesome-astra-3d/cases/chongdashu-retro-del-sol/) | Chong-U / @chongdashu | [原始来源](https://x.com/chongdashu/status/2113090126406635638) |
 | [自由泳：三种模型的泳姿与池水对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/screening-threejs-carbon-comparison/) | Pranav Reddy / @AI_Screening | [原始来源](https://x.com/AI_Screening/status/2113184121883435047) |
 | [Lock / Jelly：船闸、风车与果冻运河](https://carpentry-liu.github.io/awesome-astra-3d/cases/kenny-jelly-canal-comparison/) | Kenny1st / @0xKenny1st | [原始来源](https://x.com/0xKenny1st/status/2112605599145832540) |
-| [Jelly Skeleton：两种果冻骷髅的交互实验](https://carpentry-liu.github.io/awesome-astra-3d/cases/rhinox-jelly-skeleton-comparison/) | Rhino / @0xRhinoX | [原始来源](https://x.com/0xRhinoX/status/2112224962903683435) |
-| [CKB Motocross：用区块交易驱动越野动作](https://carpentry-liu.github.io/awesome-astra-3d/cases/wyltek-ckb-block-visualiser/) | wyltek crypto / @wyltek1 | [原始来源](https://x.com/wyltek1/status/2109520227784659041) |
-| [瓶中风暴：Blender 帆船、海浪与闪电](https://carpentry-liu.github.io/awesome-astra-3d/cases/tactical-storm-in-a-bottle/) | Mr Tactical / @MrTacticalX | [原始来源](https://x.com/MrTacticalX/status/2112184796419883354) |
-| [雨林缸：瀑布、薄雾与水下小鱼](https://carpentry-liu.github.io/awesome-astra-3d/cases/ananth-threejs-paludarium/) | Ananth / @Ananth7e | [原始来源](https://x.com/Ananth7e/status/2111716745035821112) |
-| [Blender 弩箭动画：从硬表面模型到发射镜头](https://carpentry-liu.github.io/awesome-astra-3d/cases/tactical-blender-crossbow/) | Mr Tactical / @MrTacticalX | [原始来源](https://x.com/MrTacticalX/status/2109723827429109798) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)

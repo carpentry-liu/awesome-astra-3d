@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-23 (Asia/Shanghai)** · **382 Astra examples** · **112 source / project links** · **121 demo links** · **176 complete videos** · **12 separate references**.
+Updated **2026-10-25 (Asia/Shanghai)** · **387 Astra examples** · **113 source / project links** · **124 demo links** · **180 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -44,18 +44,18 @@ Open an image for the case, materials and known limitations. This selection stay
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-21.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-25.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Website screenshots remain from the **October 21, 2026** production build. See the October 23 creator previews and latest additions below for current content. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Website screenshots were refreshed on **October 25, 2026** from the current local production build. See the creator previews and latest additions below for this update. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
-<summary>Gallery, mobile and case screenshots · October 21, 2026</summary>
+<summary>Gallery, mobile and case screenshots · October 25, 2026</summary>
 
-[![Gallery filters and more works](docs/media/collection-2026-10-21.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Gallery filters and more works](docs/media/collection-2026-10-25.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-10-21.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-10-25.jpg)
 
-[![LUNA PARK — the 3D amusement park and source project](docs/media/case-2026-10-21.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/umutseve4-luna-park/)
+[![Embryo Explorer — the 3D schematic and source project](docs/media/case-2026-10-25.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/pratikgx-embryo-explorer/)
 
 </details>
 
@@ -63,31 +63,31 @@ Website screenshots remain from the **October 21, 2026** production build. See t
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The October 23 update adds **5 works and 5 complete X clips**: Retro del Sol, a three-model freestyle-swimming comparison, a jelly canal, Jelly Skeleton, and a four-model CKB motocross visualiser. About 242 seconds of posted footage is archived in original and smaller complete platform renditions. Astra panels stay labelled, and Retro del Sol separately credits Retro Diffusion 3D assets and Blender animation. The posts date from October 12 to 22; today is their collection date.
+The October 25 update adds **5 works and 4 complete X clips**: the open-source Embryo Explorer, a pixel airport, Chalk Square, Offshore Jelly, and a margarita sloshing comparison. New materials include one source link and three demos, plus author-linked full tasks for the backyard and offshore scenes. About 73 seconds of X footage retains original and smaller complete platform renditions. Astra is below in the three Vib3Coded clips and lower right in the glass comparison. Posts date from October 14, 23 and 24; the repository project publication date remains unknown.
 
 <!-- atlas:update-previews:start -->
 **This update in pictures — creator works**
 
-| Retro del Sol · mixed models / specialist assets | Freestyle · Astra bottom panel |
+| Embryo Explorer · open-source schematic | Pixel airport · Astra below |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2113089437748035584/img/Ppb3v7Rd_47sDHCq.jpg" height="220" alt="Retro del Sol · mixed models / specialist assets">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/chongdashu-retro-del-sol/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2113183443815436288/img/tQvV-jgsCeNdHMrw.jpg" height="220" alt="Freestyle · Astra bottom panel">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/screening-threejs-carbon-comparison/) |
-| Jelly canal · Astra bottom panel | Jelly Skeleton · Astra right |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2112605564920283137/img/iFwg9BXGHxnROEq7.jpg" height="220" alt="Jelly canal · Astra bottom panel">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kenny-jelly-canal-comparison/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2112222998845341696/img/9EsfX837sz-QO-zX.jpg" height="220" alt="Jelly Skeleton · Astra right">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/rhinox-jelly-skeleton-comparison/) |
-| CKB motocross · Astra upper left | Watch the complete clips |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2109519955758845953/img/KuouEE1WMukiowq_.jpg" height="220" alt="CKB motocross · Astra upper left">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/wyltek-ckb-block-visualiser/) | [5 new clips](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Original files](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-23) |
+| [<img src="https://raw.githubusercontent.com/pratikgx/embryo-explorer/main/media/preview.jpg" height="220" alt="Embryo Explorer · open-source schematic">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/pratikgx-embryo-explorer/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2113849838198530049/img/A2Ghi6Tg83UwCohp.jpg" height="220" alt="Pixel airport · Astra below">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-pixel-airport-comparison/) |
+| Chalk Square · Astra below | Offshore Jelly · Astra below |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2113601799215108097/img/NlxhpC135VtcLGkI.jpg" height="220" alt="Chalk Square · Astra below">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-chalk-square-comparison/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2113400858335444992/img/K2JtNt1iQCzxZiP_.jpg" height="220" alt="Offshore Jelly · Astra below">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-offshore-jelly-comparison/) |
+| Margarita · Astra lower right | Watch the complete clips |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2110232579509227520/img/w2c0R7ECo4TZYO6-.jpg" height="220" alt="Margarita · Astra lower right">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ann-margarita-sloshing-comparison/) | [4 new clips](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Original files](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-25) |
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [Embryo Explorer — Sixteen Explorable Developmental Stages](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/pratikgx-embryo-explorer/) | Pratik Gandhi / pratikgx | [Demo](https://embryoexplorer.com/) · [Source](https://github.com/pratikgx/embryo-explorer) · [Original](https://github.com/pratikgx/embryo-explorer) |
+| [Pixel Airport — A Kimi and Astra Diorama Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-pixel-airport-comparison/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2113849897438834851) |
+| [Chalk Square — An After-school Backyard in Pixel Art](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-chalk-square-comparison/) | Vib3Coded / @vib3coded | [Demo](https://chalk-square.vercel.app/) · [Original](https://x.com/vib3coded/status/2113602050172785117) |
+| [Offshore Jelly — Wind Turbines and a Platform in a Jelly Sea](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-offshore-jelly-comparison/) | Vib3Coded / @vib3coded | [Demo](https://offshore-jelly.vercel.app/) · [Original](https://x.com/vib3coded/status/2113401221910253853) |
+| [Pink Hour — Four Models Test a Margarita Sloshing Effect](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ann-margarita-sloshing-comparison/) | Ann Nguyen / @ann_nnng | [Original](https://x.com/ann_nnng/status/2110234900616126769) |
 | [Retro del Sol — A Low-poly Seaside Multiplayer Game](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/chongdashu-retro-del-sol/) | Chong-U / @chongdashu | [Original](https://x.com/chongdashu/status/2113090126406635638) |
 | [Freestyle Swimming — Three Models Build a Three.js Pool](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/screening-threejs-carbon-comparison/) | Pranav Reddy / @AI_Screening | [Original](https://x.com/AI_Screening/status/2113184121883435047) |
 | [Lock / Jelly — A Canal, Boat and Windmill Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kenny-jelly-canal-comparison/) | Kenny1st / @0xKenny1st | [Original](https://x.com/0xKenny1st/status/2112605599145832540) |
-| [Jelly Skeleton — Two Interactive Character Studies](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/rhinox-jelly-skeleton-comparison/) | Rhino / @0xRhinoX | [Original](https://x.com/0xRhinoX/status/2112224962903683435) |
-| [CKB Motocross — A Four-model Block Visualiser](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/wyltek-ckb-block-visualiser/) | wyltek crypto / @wyltek1 | [Original](https://x.com/wyltek1/status/2109520227784659041) |
-| [Storm in a Bottle — Blender Ships, Waves and Lightning](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/tactical-storm-in-a-bottle/) | Mr Tactical / @MrTacticalX | [Original](https://x.com/MrTacticalX/status/2112184796419883354) |
-| [A Three.js Paludarium — Waterfalls, Mist and Fish](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ananth-threejs-paludarium/) | Ananth / @Ananth7e | [Original](https://x.com/Ananth7e/status/2111716745035821112) |
-| [A Blender Crossbow — Modeling and Firing Animation](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/tactical-blender-crossbow/) | Mr Tactical / @MrTacticalX | [Original](https://x.com/MrTacticalX/status/2109723827429109798) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

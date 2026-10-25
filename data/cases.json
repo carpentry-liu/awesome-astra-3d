@@ -1,5 +1,267 @@
 [
   {
+    "id": "pratikgx-embryo-explorer",
+    "title": "Embryo Explorer：可拆分的十六阶段三维示意",
+    "titleEn": "Embryo Explorer — Sixteen Explorable Developmental Stages",
+    "category": "科学与教育",
+    "summary": "把十六个发育阶段排成可缩放的三维总览，点击阶段或结构后查看说明，并用滑杆将部件拆开。作者公开Three.js实现、几何生成脚本与演示入口。",
+    "modelLabel": "ChatGPT Astra（作者明确项目制作）",
+    "group": "astra",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub",
+      "作者网站"
+    ],
+    "author": "Pratik Gandhi / pratikgx",
+    "sourceUrl": "https://github.com/pratikgx/embryo-explorer",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-25",
+    "addedAt": "2026-10-25",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者README明确使用ChatGPT Astra制作三维探索器并说明素材归属；仓库为非fork。未用仓库创建时间冒充作品首次发布时间。",
+    "sourceAccess": "已读取作者README、仓库metadata与实际1920×1080预览；预览完整GET200、长度和SHA-256核对、Pillow解码及目视通过。演示完整GET200、9247字节，标题Embryo Explorer；交互和学科准确性未独立复现。",
+    "imageUrl": "https://raw.githubusercontent.com/pratikgx/embryo-explorer/main/media/preview.jpg",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者仓库的实际1920×1080成果总览：十六阶段、结构开关与拆分滑杆。图中大小为教学观察调整，非真实比例。",
+    "outcome": "作者将其限定为原创、简化的人类发育示意：不使用所链接挑战的小鼠数据集、不预测发育、未经过专科解剖验证。Human Atlas仅启发交互，并未复制其模型或图像；音乐有独立Pixabay许可。这些边界按作者说明保留。首次发布日期未核实，保持为空。",
+    "demoUrl": "https://embryoexplorer.com/",
+    "repositoryUrl": "https://github.com/pratikgx/embryo-explorer",
+    "videoUrl": "https://github.com/pratikgx/embryo-explorer/blob/main/media/embryo-explorer-walkthrough-with-music.mp4",
+    "outputType": [
+      "Three.js三维教学示意",
+      "公开代码与几何生成脚本",
+      "作者演示入口"
+    ],
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptUrl": "https://github.com/pratikgx/embryo-explorer",
+    "promptSummary": "作者说明以Astra制作三维学习探索器，公开运行方式、开发和验证文档；未提供完整原始会话。",
+    "evidenceUrls": [
+      "https://github.com/pratikgx/embryo-explorer/blob/main/README.md"
+    ],
+    "licenseNotes": "作者项目原创代码与几何按MIT提供，Three.js保留其MIT声明；演示音乐按Pixabay Content License单独处理。本库不将作者作品和第三方媒体纳入自身MIT。"
+  },
+  {
+    "id": "vib3coded-pixel-airport-comparison",
+    "title": "Pixel Airport：昼夜与风雨中的微缩机场",
+    "titleEn": "Pixel Airport — A Kimi and Astra Diorama Comparison",
+    "category": "等距与微缩",
+    "summary": "两座三维小机场用像素风呈现跑道、塔台、机库与停机坪。完整录像展示昼夜和雨天变化；Astra位于下栏，Kimi位于上栏。",
+    "modelLabel": "GPT-6 Astra / Kimi K3.1 Pro（同题独立对照）",
+    "imageCaption": "原作者成果对照封面：上方Kimi K3.1 Pro，下方ChatGPT-6 Astra。Astra为下方带条形机库和塔台的微缩机场；附整段18秒原帖录像。",
+    "outcome": "作者声明相同任务并自报费用与偏好；不作为独立价格、画质或性能基准。可观察飞机、天气与控件，但本轮未取得可核验的Astra试玩地址、源码或完整提示词。",
+    "promptSummary": "作者仅公开像素风三维机场、飞机、天气与交互控件的同题方向，完整任务未公开。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Vib3Coded / @vib3coded",
+    "sourceUrl": "https://x.com/vib3coded/status/2113849897438834851",
+    "sourceDate": "2026-10-24",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-25",
+    "addedAt": "2026-10-25",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者正文、成果标签与完整录像明确Astra。精确原帖HTML的作者及时间与同帖辅助元数据一致；保留各模型实际画面分工，不代表独立复现。",
+    "sourceAccess": "原帖完整GET200 / 138,429字节，原封面完整GET200 / 180,482字节、883×1200；长度/hash/Pillow解码与实际画面核查。最高码率原版及完整平台播放版均完整下载，媒体ID、时长、长度与SHA-256一致；严格FFmpeg全长解码exit0且stderr空，无剪辑或转码，封面与中帧实际查看。 Release原版与播放版附件size/digest均已核对。",
+    "videoUrl": "https://x.com/vib3coded/status/2113849897438834851",
+    "repositoryUrl": null,
+    "promptExcerpt": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/vib3coded/status/2113849897438834851"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2113849838198530049/img/A2Ghi6Tg83UwCohp.jpg",
+    "imageKind": "author-comparison",
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "第三方作品和媒体保留原作者及各权利人权利，不纳入本库MIT；保留署名、来源和纠错/移除入口。",
+    "demoUrl": null,
+    "promptUrl": "https://x.com/vib3coded/status/2113849897438834851",
+    "promptAvailability": "author-description",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-pixel-airport-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-25/vib3coded-pixel-airport-comparison-1-original.mp4",
+        "durationSeconds": 18.05,
+        "bytes": 15698939,
+        "sha256": "c858b573e46c4d9eb316494c288c420a400865127adfda001a52983963e13e78",
+        "sourceUrl": "https://x.com/vib3coded/status/2113849897438834851",
+        "label": "Pixel Airport — A Kimi and Astra Diorama Comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113849838198530049/img/A2Ghi6Tg83UwCohp.jpg"
+      }
+    ]
+  },
+  {
+    "id": "vib3coded-chalk-square-comparison",
+    "title": "Chalk Square：雨后重画球场的放学后院",
+    "titleEn": "Chalk Square — An After-school Backyard in Pixel Art",
+    "category": "3D 游戏",
+    "summary": "八个孩子在车库旁排队踢四方球，粉笔划线、球场与像素风后院构成连续小世界。作者公开Astra试玩及同帖任务，完整对照保留上栏Opus、下栏Astra。",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（同题独立对照）",
+    "imageCaption": "作者原帖双栏成果：上方Claude Opus 5.5，下方GPT-6 Astra。Astra为较小的暖色后院球场；完整18秒录像保留两份场景与各自标签。",
+    "outcome": "作者公开完整任务、试玩及两模型费用自报。雨水冲淡粉笔、避雨后重画与球员决策是作者描述及任务要求，本库未逐项独立复现；没有把提示词中的全部要求视为已实现。公开试玩属于Astra，Opus版本另行标注。",
+    "promptSummary": "同帖作者任务包含正交三维像素渲染、八人轮换四方球、雨天粉笔消退与重画、昼夜和查看控制。完整文本回链作者评论，不复制到本库。",
+    "demoUrl": "https://chalk-square.vercel.app/",
+    "promptUrl": "https://x.com/vib3coded/status/2113602161607069911",
+    "promptAvailability": "full-linked",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Vib3Coded / @vib3coded",
+    "sourceUrl": "https://x.com/vib3coded/status/2113602050172785117",
+    "sourceDate": "2026-10-23",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-25",
+    "addedAt": "2026-10-25",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者正文、成果标签与完整录像明确Astra。精确原帖HTML的作者及时间与同帖辅助元数据一致；保留各模型实际画面分工，不代表独立复现。",
+    "sourceAccess": "原帖完整GET200 / 157,213字节，原封面完整GET200 / 111,631字节、948×1200；长度/hash/Pillow解码与实际画面核查。最高码率原版及完整平台播放版均完整下载，媒体ID、时长、长度与SHA-256一致；严格FFmpeg全长解码exit0且stderr空，无剪辑或转码，封面与中帧实际查看。 Release原版与播放版附件size/digest均已核对。",
+    "videoUrl": "https://x.com/vib3coded/status/2113602050172785117",
+    "repositoryUrl": null,
+    "promptExcerpt": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/vib3coded/status/2113602050172785117",
+      "https://x.com/vib3coded/status/2113602229324415376"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2113601799215108097/img/NlxhpC135VtcLGkI.jpg",
+    "imageKind": "author-comparison",
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "第三方作品和媒体保留原作者及各权利人权利，不纳入本库MIT；保留署名、来源和纠错/移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-chalk-square-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-25/vib3coded-chalk-square-comparison-1-original.mp4",
+        "durationSeconds": 18.05,
+        "bytes": 9825219,
+        "sha256": "94d4992041e8cd5663d4ad3a2d303b744b586de6119e3065e8b35bf40e5d1b2a",
+        "sourceUrl": "https://x.com/vib3coded/status/2113602050172785117",
+        "label": "Chalk Square — An After-school Backyard in Pixel Art",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113601799215108097/img/NlxhpC135VtcLGkI.jpg"
+      }
+    ]
+  },
+  {
+    "id": "vib3coded-offshore-jelly-comparison",
+    "title": "Offshore Jelly：透明海块中的平台与风机",
+    "titleEn": "Offshore Jelly — Wind Turbines and a Platform in a Jelly Sea",
+    "category": "程序化场景",
+    "summary": "海上平台、风机、补给船和海床被放进一块透明三维海洋。Astra下栏突出水下支撑与管线，Opus上栏展示另一套海浪；作者另公开Astra试玩和完整任务。",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（同题独立对照）",
+    "imageCaption": "原帖上方Claude Opus 5.5，下方GPT-6 Astra。Astra为下栏透明海块、钢架平台和水下结构；保留原封面及整段18秒录像。",
+    "outcome": "原帖和评论明确WebGPU场景及各自试玩归属。补给吊装、直升机、风暴和海洋生物是作者任务的一部分，未逐项独立复现，也不当作工程或流体精度验证。原帖UTC为10月22日，上海时间为10月23日06:44。",
+    "promptSummary": "同帖公开单文件WebGPU果冻海块任务，包含平台、风机、运输事件、风暴与交互；链接保留全文，本站只概括任务方向。",
+    "demoUrl": "https://offshore-jelly.vercel.app/",
+    "promptUrl": "https://x.com/vib3coded/status/2113401353196466400",
+    "promptAvailability": "full-linked",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Vib3Coded / @vib3coded",
+    "sourceUrl": "https://x.com/vib3coded/status/2113401221910253853",
+    "sourceDate": "2026-10-23",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-25",
+    "addedAt": "2026-10-25",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者正文、成果标签与完整录像明确Astra。精确原帖HTML的作者及时间与同帖辅助元数据一致；保留各模型实际画面分工，不代表独立复现。",
+    "sourceAccess": "原帖完整GET200 / 151,286字节，原封面完整GET200 / 98,757字节、948×1200；长度/hash/Pillow解码与实际画面核查。最高码率原版及完整平台播放版均完整下载，媒体ID、时长、长度与SHA-256一致；严格FFmpeg全长解码exit0且stderr空，无剪辑或转码，封面与中帧实际查看。 Release原版与播放版附件size/digest均已核对。",
+    "videoUrl": "https://x.com/vib3coded/status/2113401221910253853",
+    "repositoryUrl": null,
+    "promptExcerpt": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/vib3coded/status/2113401221910253853",
+      "https://x.com/vib3coded/status/2113401296321483000"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2113400858335444992/img/K2JtNt1iQCzxZiP_.jpg",
+    "imageKind": "author-comparison",
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "第三方作品和媒体保留原作者及各权利人权利，不纳入本库MIT；保留署名、来源和纠错/移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-offshore-jelly-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-25/vib3coded-offshore-jelly-comparison-1-original.mp4",
+        "durationSeconds": 18.03,
+        "bytes": 23522862,
+        "sha256": "5cc1f264643736a066936d5a576b6e6581a19a229aecb642cc54a7d5b7e68003",
+        "sourceUrl": "https://x.com/vib3coded/status/2113401221910253853",
+        "label": "Offshore Jelly — Wind Turbines and a Platform in a Jelly Sea",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113400858335444992/img/K2JtNt1iQCzxZiP_.jpg"
+      }
+    ]
+  },
+  {
+    "id": "ann-margarita-sloshing-comparison",
+    "title": "Pink Hour：四种模型的杯中液面实验",
+    "titleEn": "Pink Hour — Four Models Test a Margarita Sloshing Effect",
+    "category": "产品与角色",
+    "summary": "四组Three.js / WebGL杯体同时展示粉色液面、冰块和装饰物，录像包含倾斜与晃动。Astra在右下，其他三个位置保留各自模型标签。",
+    "modelLabel": "GPT-6 Astra / Gemini 4 Argon / Meta Muse Wonder / Claude Opus 5.5（独立对照）",
+    "imageCaption": "原帖四宫格：左上Gemini 4 Argon、右上Meta Muse Wonder、左下Claude Opus 5.5、右下GPT-6 Astra。Astra为Pink Hour界面的杯体，附整段19秒录像。",
+    "outcome": "作者明确四组均使用Three.js与WebGL，并表达个人观感。液面、材质和装饰物保留各模型差异，不把其他模型更精细的杯体归给Astra；未取得公开工程、Astra试玩或完整任务。10月14日原作于本轮补充收录。",
+    "promptSummary": "作者公开玛格丽特杯液面晃动测试及技术栈，未公开完整提示词。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Ann Nguyen / @ann_nnng",
+    "sourceUrl": "https://x.com/ann_nnng/status/2110234900616126769",
+    "sourceDate": "2026-10-14",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-25",
+    "addedAt": "2026-10-25",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者正文、成果标签与完整录像明确Astra。精确原帖HTML的作者及时间与同帖辅助元数据一致；保留各模型实际画面分工，不代表独立复现。",
+    "sourceAccess": "原帖完整GET200 / 165,161字节，原封面完整GET200 / 66,387字节、960×1200；长度/hash/Pillow解码与实际画面核查。最高码率原版及完整平台播放版均完整下载，媒体ID、时长、长度与SHA-256一致；严格FFmpeg全长解码exit0且stderr空，无剪辑或转码，封面与中帧实际查看。 Release原版与播放版附件size/digest均已核对。",
+    "videoUrl": "https://x.com/ann_nnng/status/2110234900616126769",
+    "repositoryUrl": null,
+    "promptExcerpt": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/ann_nnng/status/2110234900616126769"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2110232579509227520/img/w2c0R7ECo4TZYO6-.jpg",
+    "imageKind": "author-comparison",
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "第三方作品和媒体保留原作者及各权利人权利，不纳入本库MIT；保留署名、来源和纠错/移除入口。",
+    "demoUrl": null,
+    "promptUrl": "https://x.com/ann_nnng/status/2110234900616126769",
+    "promptAvailability": "author-description",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/ann-margarita-sloshing-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-25/ann-margarita-sloshing-comparison-1-original.mp4",
+        "durationSeconds": 19.0,
+        "bytes": 4850242,
+        "sha256": "4a2ee9e569a9beae10100abe5257673cb3d38c051651824db8d7dd1f685e9263",
+        "sourceUrl": "https://x.com/ann_nnng/status/2110234900616126769",
+        "label": "Pink Hour — Four Models Test a Margarita Sloshing Effect",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2110232579509227520/img/w2c0R7ECo4TZYO6-.jpg"
+      }
+    ]
+  },
+  {
     "id": "chongdashu-retro-del-sol",
     "title": "Retro del Sol：开车、乘船与海滨小镇",
     "titleEn": "Retro del Sol — A Low-poly Seaside Multiplayer Game",

@@ -922,6 +922,45 @@
       "bytes": 7182,
       "sha256": "769036071bee00bada0d13d0f70bcb22a4b940a6534be449277a61ff76474b5d",
       "method": "Complete HTTP GET of creator entry point; no independent playthrough or reproduction"
+    },
+    {
+      "id": "pratikgx-embryo-explorer",
+      "url": "https://embryoexplorer.com/",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 9247,
+      "sha256": "c1b08721f6e1649afdf90aee77d07b72b3abeb42100466fa6aa23fbfe331a435",
+      "title": "Embryo Explorer",
+      "observedAt": "2026-10-25",
+      "checkedAtUtc": "2026-10-25T03:20:33.759137+00:00",
+      "method": "complete HTTP GET; title checked; no independent playthrough",
+      "result": "reachable"
+    },
+    {
+      "id": "vib3coded-chalk-square-comparison",
+      "url": "https://chalk-square.vercel.app/",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 753235,
+      "sha256": "aaddfc934ef6b8c687afaf6b6a1fa2053d5c84f65c919e08c11bffff8165c4ab",
+      "title": "Chalk Square — an after-school world",
+      "observedAt": "2026-10-25",
+      "checkedAtUtc": "2026-10-25T03:20:33.816812+00:00",
+      "method": "complete HTTP GET; title checked; no independent playthrough",
+      "result": "reachable"
+    },
+    {
+      "id": "vib3coded-offshore-jelly-comparison",
+      "url": "https://offshore-jelly.vercel.app/",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 106884,
+      "sha256": "8b7e4f0127ffb73ad7330faea6543a69659c0fe0e473f327c24c47b6b6457041",
+      "title": "Offshore Jelly — Material Studies",
+      "observedAt": "2026-10-25",
+      "checkedAtUtc": "2026-10-25T03:20:32.913254+00:00",
+      "method": "complete HTTP GET; title checked; no independent playthrough",
+      "result": "reachable"
     }
   ]
 }

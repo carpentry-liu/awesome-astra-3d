@@ -10048,6 +10048,203 @@
       "newMediaFiles": 10,
       "newMediaBytes": 245347603,
       "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-23"
+    },
+    {
+      "observedAt": "2026-10-25",
+      "timezone": "Asia/Shanghai",
+      "scope": "公开检索X、Reddit、GitHub、作者文章与同类目录；新增回到作者仓库或精确X原帖。未访问小红书账户。",
+      "queries": [
+        "\"GPT-6 Astra\" \"3D\" after:2026-10-22",
+        "\"Astra\" \"Blender\" after:2026-10-22",
+        "\"Astra\" \"Three.js\" after:2026-10-22",
+        "site:x.com \"Astra\" \"jelly\" after:2026-10-22",
+        "GitHub repositories: astra threejs sort:updated",
+        "GitHub repositories: astra blender sort:updated",
+        "\"GPT-6 Astra\" \"Houdini\" \"pig\"",
+        "\"Astra\" \"Void Explorer\" Thomas",
+        "\"vib3coded\" \"Astra\" after:2026-10-22",
+        "\"vib3coded\" \"Offshore Jelly\" \"status\"",
+        "\"GPT-6 Astra\" \"Houdini\" \"fire\" \"October\"",
+        "\"Astra\" \"3D\" site:note.com after:2026-10-22"
+      ],
+      "discoverySources": [
+        "https://github.com/coolbat/awesome-opus-5.5-usecase",
+        "https://teapawt.net/vib3coded",
+        "https://github.com/pratikgx/embryo-explorer"
+      ],
+      "notAdopted": [
+        {
+          "url": "https://x.com/kinderlayer/status/2113603821666513378",
+          "reason": "作者和封面明确模型比较，但本轮实际查看仅为发动机正视示意，尚未核实为三维场景；不因机械主题就按3D建模计数。"
+        },
+        {
+          "url": "https://x.com/mscode07/status/2113570133444870504",
+          "reason": "原帖只问两模型对比，媒体有YouArt成片标签。没有可编辑几何、引擎或三维代码制作证据；不把三维观感的视频自动当Astra三维工程。"
+        },
+        {
+          "url": "https://www.reddit.com/r/kimi/comments/1xdodra/new_k31_beat_gpt6_astra_2x_on_price_in_a_3d_agent/",
+          "reason": "作者明确代理循环及工具配置缺陷，本轮未完成可用成果媒体核验；价格还是按旧模型价格估算，不能当独立新模型定价或公平基准。"
+        },
+        {
+          "url": "https://www.reddit.com/r/squidtrain/comments/1xem5mz/same_prompt_two_models_claude_opus_55_vs_gpt6/",
+          "reason": "作者公开三次运行中的第三次录像和任务，承认结果波动、截断与语法错误；本轮只核到正文，尚无完成验证的成果媒体，不提前收录。"
+        },
+        {
+          "url": "https://www.reddit.com/r/TopologyAI/comments/1xdcu1y/apparently_ai_can_do_vfx_now_gpt6_astra_houdini/",
+          "reason": "新Reddit转载实际回链旧X原帖，不按转载日期宣称为今日首发。"
+        },
+        {
+          "url": "https://developers.openai.com/showcase/void-explorer",
+          "reason": "现库已有openai-void-explorer，没有将新文章检索命中重复计数。"
+        },
+        {
+          "url": "https://x.com/StefanoGPT/status/2110098269904789797",
+          "reason": "保留旧候选，本轮未完成原帖与完整媒体验证，未为凑数提前收录。"
+        }
+      ],
+      "limits": [
+        "10月25日为收录日。X原帖日期按上海时间为10月24日、23日两条与14日；Offshore原帖UTC为22日，已换算上海时间。",
+        "Embryo Explorer首次发布日期没有核实，保持null，不将仓库创建时间当作品首发。作者限定为简化教学示意，不用于预测或专科验证。",
+        "三组Vib3Coded对照的Astra在下栏，Ann的杯体实验在右下；保留完整画面。成本和模型偏好仅为作者声明。",
+        "五件作品有已完整获取、解码并目视的实际预览。四段完整X录像约73秒，各保留最高码率原版与较小完整平台版，共八文件；未剪辑或转码。",
+        "后院和海上平台的完整任务与Astra试玩通过同作者、同根帖评论核实；不复制任务全文，不将任务内的所有细节当已独立实现。"
+      ],
+      "round": "daily",
+      "checkedAtUtc": "2026-10-25T03:25:06.126684+00:00",
+      "baselineCommit": "a451563bc53fa48b3b7c52b2596feca796cb3c78",
+      "baselineCount": 394,
+      "resultingCount": 399,
+      "addedCaseIds": [
+        "pratikgx-embryo-explorer",
+        "vib3coded-pixel-airport-comparison",
+        "vib3coded-chalk-square-comparison",
+        "vib3coded-offshore-jelly-comparison",
+        "ann-margarita-sloshing-comparison"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "coverage": [
+        {
+          "id": "pratikgx-embryo-explorer",
+          "sourceUrl": "https://github.com/pratikgx/embryo-explorer",
+          "sourceDate": null,
+          "previewUrl": "https://raw.githubusercontent.com/pratikgx/embryo-explorer/main/media/preview.jpg",
+          "roles": "ChatGPT Astra（作者明确项目制作）"
+        },
+        {
+          "id": "vib3coded-pixel-airport-comparison",
+          "sourceUrl": "https://x.com/vib3coded/status/2113849897438834851",
+          "sourceDate": "2026-10-24",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2113849838198530049/img/A2Ghi6Tg83UwCohp.jpg",
+          "roles": "GPT-6 Astra / Kimi K3.1 Pro（同题独立对照）"
+        },
+        {
+          "id": "vib3coded-chalk-square-comparison",
+          "sourceUrl": "https://x.com/vib3coded/status/2113602050172785117",
+          "sourceDate": "2026-10-23",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2113601799215108097/img/NlxhpC135VtcLGkI.jpg",
+          "roles": "GPT-6 Astra / Claude Opus 5.5（同题独立对照）"
+        },
+        {
+          "id": "vib3coded-offshore-jelly-comparison",
+          "sourceUrl": "https://x.com/vib3coded/status/2113401221910253853",
+          "sourceDate": "2026-10-23",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2113400858335444992/img/K2JtNt1iQCzxZiP_.jpg",
+          "roles": "GPT-6 Astra / Claude Opus 5.5（同题独立对照）"
+        },
+        {
+          "id": "ann-margarita-sloshing-comparison",
+          "sourceUrl": "https://x.com/ann_nnng/status/2110234900616126769",
+          "sourceDate": "2026-10-14",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2110232579509227520/img/w2c0R7ECo4TZYO6-.jpg",
+          "roles": "GPT-6 Astra / Gemini 4 Argon / Meta Muse Wonder / Claude Opus 5.5（独立对照）"
+        }
+      ],
+      "historicalIncrementalSummary": {
+        "checkedImages": 40,
+        "decodedImages": 40,
+        "checkedVideoCases": 10,
+        "checkedVideoEndpoints": 20,
+        "verifiedVideoEndpoints": 20,
+        "failures": [],
+        "limits": "Historical videos were not downloaded or replayed in full. Image decode and bounded video endpoints only."
+      },
+      "authorReplyChecks": [
+        {
+          "id": "2113602161607069911",
+          "url": "https://x.com/vib3coded/status/2113602161607069911",
+          "status": 200,
+          "bytes": 160122,
+          "sha256": "0c5c9957a2e44fb02242518f571aef19e045fbe696736c378e48f16415eb87a9",
+          "authorMatched": true,
+          "timestampMatched": true,
+          "replyTo": "2113602050172785117",
+          "text": "Prompt/demo reply verified; full author text remains at source."
+        },
+        {
+          "id": "2113602229324415376",
+          "url": "https://x.com/vib3coded/status/2113602229324415376",
+          "status": 200,
+          "bytes": 126203,
+          "sha256": "a2b74e5dad61c5c9dcf0af4086dc8eccd650a7e2a1737b195b3638304300ae73",
+          "authorMatched": true,
+          "timestampMatched": true,
+          "replyTo": "2113602050172785117",
+          "text": "Prompt/demo reply verified; full author text remains at source."
+        },
+        {
+          "id": "2113401353196466400",
+          "url": "https://x.com/vib3coded/status/2113401353196466400",
+          "status": 200,
+          "bytes": 149173,
+          "sha256": "19fa93e44ac165b942405988a81835ae1b1320481130737e95c22e5cad7db132",
+          "authorMatched": true,
+          "timestampMatched": true,
+          "replyTo": "2113401221910253853",
+          "text": "Prompt/demo reply verified; full author text remains at source."
+        },
+        {
+          "id": "2113401296321483000",
+          "url": "https://x.com/vib3coded/status/2113401296321483000",
+          "status": 200,
+          "bytes": 112008,
+          "sha256": "0cd5fd1c219f5b5ca144a6ed0d78dcabe4bcddcd19bcee5ff7d37e4cd645e9c6",
+          "authorMatched": true,
+          "timestampMatched": true,
+          "replyTo": "2113401221910253853",
+          "text": "check it out\nGPT-6 Astra https://offshore-jelly.vercel.app\nClaude Opus 5.5 https://claude.ai/artifact/72XvmkxAesYzmohqTfQEUC"
+        }
+      ],
+      "completeSourceClips": 4,
+      "newMediaFiles": 8,
+      "newMediaBytes": 59339623,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-25",
+      "browserVerification": {
+        "status": "verified",
+        "checkedAt": "2026-10-25",
+        "environment": "IAB; current local production build",
+        "desktopViewport": [
+          1440,
+          1100
+        ],
+        "mobileViewport": [
+          390,
+          844
+        ],
+        "horizontalOverflow": false,
+        "englishQueryPreserved": true,
+        "englishActivation": "Keyboard Enter on language link; query Embryo retained and one matching case shown",
+        "queryCleared": true,
+        "consoleErrors": 0,
+        "consoleWarnings": 0,
+        "limits": "Four local copies were played completely in browser; production byte/hash checks follow deployment. Third-party demos were checked by full HTTP GET only, not independently played through."
+      },
+      "screenshotRefresh": {
+        "date": "2026-10-25",
+        "count": 4,
+        "nativeJpegBytesPreserved": true,
+        "shareMatchesHomepage": true
+      }
     }
   ]
 }

@@ -2,6 +2,16 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-25 · 5 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Embryo Explorer：可拆分的十六阶段三维示意 / Embryo Explorer — Sixteen Explorable Developmental Stages](https://carpentry-liu.github.io/awesome-astra-3d/cases/pratikgx-embryo-explorer/) | Pratik Gandhi / pratikgx | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [Pixel Airport：昼夜与风雨中的微缩机场 / Pixel Airport — A Kimi and Astra Diorama Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-pixel-airport-comparison/) | Vib3Coded / @vib3coded | 完整视频 · 提示词 / 过程 |
+| [Chalk Square：雨后重画球场的放学后院 / Chalk Square — An After-school Backyard in Pixel Art](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-chalk-square-comparison/) | Vib3Coded / @vib3coded | 演示入口 · 完整视频 · 提示词 / 过程 |
+| [Offshore Jelly：透明海块中的平台与风机 / Offshore Jelly — Wind Turbines and a Platform in a Jelly Sea](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-offshore-jelly-comparison/) | Vib3Coded / @vib3coded | 演示入口 · 完整视频 · 提示词 / 过程 |
+| [Pink Hour：四种模型的杯中液面实验 / Pink Hour — Four Models Test a Margarita Sloshing Effect](https://carpentry-liu.github.io/awesome-astra-3d/cases/ann-margarita-sloshing-comparison/) | Ann Nguyen / @ann_nnng | 完整视频 · 提示词 / 过程 |
+
 ## 2026-10-23 · 5 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
