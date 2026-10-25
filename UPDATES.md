@@ -2,10 +2,15 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
-## 2026-10-25 · 5 个案例
+## 2026-10-25 · 10 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
+| [Neon Overdrive：霓虹公路赛车与四片街区 / Neon Overdrive — Four Districts of Arcade Highway Racing](https://carpentry-liu.github.io/awesome-astra-3d/cases/vanshd-neon-overdrive/) | vanshd132 | 源码 / 工程 · 提示词 / 过程 |
+| [Midnight Orbit：干净机台里的三维弹球 / Midnight Orbit — A 3D Pinball Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/leppppp1-pinball-comparison/) | 渣渣的赛博宇宙 / @leppppp1 | 完整视频 · 提示词 / 过程 |
+| [Tabletop Railway：桌面上的微缩铁路巡游 / Tabletop Railway — Two Animated Miniature Worlds](https://carpentry-liu.github.io/awesome-astra-3d/cases/aman-tabletop-railway-comparison/) | Aman / @Amank1412 | 完整视频 · 提示词 / 过程 |
+| [Pixel Ice Rink：雪夜微缩冰场 / Pixel Ice Rink — A MiniMax and Astra Night Scene](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-tiny-ice-rink-comparison/) | Vib3Coded / @vib3coded | 完整视频 · 提示词 / 过程 |
+| [训练假人：Blender MCP 的同题建模对照 / Training Dummy — Blender MCP Model Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/max-training-dummy-blender-comparison/) | Max / @maxt3chno | 完整视频 · 提示词 / 过程 |
 | [Embryo Explorer：可拆分的十六阶段三维示意 / Embryo Explorer — Sixteen Explorable Developmental Stages](https://carpentry-liu.github.io/awesome-astra-3d/cases/pratikgx-embryo-explorer/) | Pratik Gandhi / pratikgx | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
 | [Pixel Airport：昼夜与风雨中的微缩机场 / Pixel Airport — A Kimi and Astra Diorama Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-pixel-airport-comparison/) | Vib3Coded / @vib3coded | 完整视频 · 提示词 / 过程 |
 | [Chalk Square：雨后重画球场的放学后院 / Chalk Square — An After-school Backyard in Pixel Art](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-chalk-square-comparison/) | Vib3Coded / @vib3coded | 演示入口 · 完整视频 · 提示词 / 过程 |

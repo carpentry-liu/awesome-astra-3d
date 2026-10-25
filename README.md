@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-10-25（Asia/Shanghai）**：**387 条 Astra 案例** · **113 条源码 / 工程** · **124 个演示入口** · **180 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-10-25（Asia/Shanghai）**：**392 条 Astra 案例** · **114 条源码 / 工程** · **124 个演示入口** · **184 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -55,7 +55,7 @@
 
 ![手机端：精选作品与材料导航](docs/media/mobile-2026-10-25.jpg)
 
-[![Embryo Explorer：三维示意与公开工程](docs/media/case-2026-10-25.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/pratikgx-embryo-explorer/)
+[![Neon Overdrive：三维赛车与公开工程](docs/media/case-2026-10-25.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/vanshd-neon-overdrive/)
 
 </details>
 
@@ -63,31 +63,31 @@
 
 这里按本库收录日期排列；作品首次发布、模型配置与核查日期在各档案中分别记录。稳定精选不随日更替换。
 
-10 月 25 日新增收录 **5 件作品、4 段完整 X 录像**：开源 Embryo Explorer、像素机场、Chalk Square 放学后院、Offshore Jelly 和杯中液面实验。新增1条源码与3个演示入口；后院和海上平台附作者完整任务链接。约73秒X录像保留完整原版与平台播放版，三组Astra在下栏，杯体实验在右下。原帖日期为10月14日、23日和24日；开源项目首发未核实，保留为空。
+10 月 25 日晚间补充 **5 件作品、4 段完整 X 录像**：Neon Overdrive 赛车工程、三维弹球机、桌面铁路、微缩冰场与 Blender 训练假人。今日累计收录 **10 件作品、8 段录像**；本轮约98秒录像保留完整原版与平台播放版。对照图标明Astra所在画面，赛车的初版单次生成与后续扩展分开说明。X原帖日期为10月22日至24日，赛车首发日期未核实；这里的“今日”指收录日。
 
 <!-- atlas:update-previews:start -->
 **本轮成果预览（第三方原作）**
 
-| Embryo Explorer · 开源三维示意 | 像素机场 · Astra 在下栏 |
+| Neon Overdrive · 公开赛车工程 | 三维弹球 · Astra 在下栏 |
 | --- | --- |
-| [<img src="https://raw.githubusercontent.com/pratikgx/embryo-explorer/main/media/preview.jpg" height="220" alt="Embryo Explorer · 开源三维示意">](https://carpentry-liu.github.io/awesome-astra-3d/cases/pratikgx-embryo-explorer/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2113849838198530049/img/A2Ghi6Tg83UwCohp.jpg" height="220" alt="像素机场 · Astra 在下栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-pixel-airport-comparison/) |
-| Chalk Square · Astra 在下栏 | Offshore Jelly · Astra 在下栏 |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2113601799215108097/img/NlxhpC135VtcLGkI.jpg" height="220" alt="Chalk Square · Astra 在下栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-chalk-square-comparison/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2113400858335444992/img/K2JtNt1iQCzxZiP_.jpg" height="220" alt="Offshore Jelly · Astra 在下栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-offshore-jelly-comparison/) |
-| 杯中液面 · Astra 在右下 | 查看完整录像 |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2110232579509227520/img/w2c0R7ECo4TZYO6-.jpg" height="220" alt="杯中液面 · Astra 在右下">](https://carpentry-liu.github.io/awesome-astra-3d/cases/ann-margarita-sloshing-comparison/) | [查看 4 段新增录像](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video&order=newest#collection) · [下载完整原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-25) |
+| [<img src="https://raw.githubusercontent.com/vanshd132/Neon-Overdrive/main/docs/screenshots/gameplay-neon-downtown.png" height="220" alt="Neon Overdrive · 公开赛车工程">](https://carpentry-liu.github.io/awesome-astra-3d/cases/vanshd-neon-overdrive/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2113846640566321152/img/d28n1eYmBF8GuM8Z.jpg" height="220" alt="三维弹球 · Astra 在下栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/leppppp1-pinball-comparison/) |
+| 桌面铁路 · Astra 在右栏 | 微缩冰场 · Astra 在下栏 |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2113699658736521216/img/q8qigdvSxQI81SP0.jpg" height="220" alt="桌面铁路 · Astra 在右栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/aman-tabletop-railway-comparison/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2113216877405077504/img/Am0U1PwdrPWVaFr3.jpg" height="220" alt="微缩冰场 · Astra 在下栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-tiny-ice-rink-comparison/) |
+| Blender 假人 · Astra 在左下 | 查看完整录像 |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2113320969100001280/img/BmBgBpKZj3WsKMro.jpg" height="220" alt="Blender 假人 · Astra 在左下">](https://carpentry-liu.github.io/awesome-astra-3d/cases/max-training-dummy-blender-comparison/) | [查看本轮 4 段录像](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video&order=newest#collection) · [下载完整原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-25-evening) |
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
+| [Neon Overdrive：霓虹公路赛车与四片街区](https://carpentry-liu.github.io/awesome-astra-3d/cases/vanshd-neon-overdrive/) | vanshd132 | [源码](https://github.com/vanshd132/Neon-Overdrive) · [原始来源](https://github.com/vanshd132/Neon-Overdrive) |
+| [Midnight Orbit：干净机台里的三维弹球](https://carpentry-liu.github.io/awesome-astra-3d/cases/leppppp1-pinball-comparison/) | 渣渣的赛博宇宙 / @leppppp1 | [原始来源](https://x.com/leppppp1/status/2113846772770779388) |
+| [Tabletop Railway：桌面上的微缩铁路巡游](https://carpentry-liu.github.io/awesome-astra-3d/cases/aman-tabletop-railway-comparison/) | Aman / @Amank1412 | [原始来源](https://x.com/Amank1412/status/2113699831248220177) |
+| [Pixel Ice Rink：雪夜微缩冰场](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-tiny-ice-rink-comparison/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2113217041985401339) |
+| [训练假人：Blender MCP 的同题建模对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/max-training-dummy-blender-comparison/) | Max / @maxt3chno | [原始来源](https://x.com/maxt3chno/status/2113321027325300784) |
 | [Embryo Explorer：可拆分的十六阶段三维示意](https://carpentry-liu.github.io/awesome-astra-3d/cases/pratikgx-embryo-explorer/) | Pratik Gandhi / pratikgx | [演示](https://embryoexplorer.com/) · [源码](https://github.com/pratikgx/embryo-explorer) · [原始来源](https://github.com/pratikgx/embryo-explorer) |
 | [Pixel Airport：昼夜与风雨中的微缩机场](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-pixel-airport-comparison/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2113849897438834851) |
 | [Chalk Square：雨后重画球场的放学后院](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-chalk-square-comparison/) | Vib3Coded / @vib3coded | [演示](https://chalk-square.vercel.app/) · [原始来源](https://x.com/vib3coded/status/2113602050172785117) |
-| [Offshore Jelly：透明海块中的平台与风机](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-offshore-jelly-comparison/) | Vib3Coded / @vib3coded | [演示](https://offshore-jelly.vercel.app/) · [原始来源](https://x.com/vib3coded/status/2113401221910253853) |
-| [Pink Hour：四种模型的杯中液面实验](https://carpentry-liu.github.io/awesome-astra-3d/cases/ann-margarita-sloshing-comparison/) | Ann Nguyen / @ann_nnng | [原始来源](https://x.com/ann_nnng/status/2110234900616126769) |
-| [Retro del Sol：开车、乘船与海滨小镇](https://carpentry-liu.github.io/awesome-astra-3d/cases/chongdashu-retro-del-sol/) | Chong-U / @chongdashu | [原始来源](https://x.com/chongdashu/status/2113090126406635638) |
-| [自由泳：三种模型的泳姿与池水对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/screening-threejs-carbon-comparison/) | Pranav Reddy / @AI_Screening | [原始来源](https://x.com/AI_Screening/status/2113184121883435047) |
-| [Lock / Jelly：船闸、风车与果冻运河](https://carpentry-liu.github.io/awesome-astra-3d/cases/kenny-jelly-canal-comparison/) | Kenny1st / @0xKenny1st | [原始来源](https://x.com/0xKenny1st/status/2112605599145832540) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)

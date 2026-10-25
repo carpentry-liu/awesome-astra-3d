@@ -10245,6 +10245,256 @@
         "nativeJpegBytesPreserved": true,
         "shareMatchesHomepage": true
       }
+    },
+    {
+      "observedAt": "2026-10-25",
+      "timezone": "Asia/Shanghai",
+      "round": "daily-evening",
+      "checkedAtUtc": "2026-10-25T12:51:15.860571+00:00",
+      "baselineCommit": "e1786fbe433d85a8a08b84118dc943af4318c82d",
+      "baselineCount": 399,
+      "resultingCount": 404,
+      "addedCaseIds": [
+        "vanshd-neon-overdrive",
+        "leppppp1-pinball-comparison",
+        "aman-tabletop-railway-comparison",
+        "vib3coded-tiny-ice-rink-comparison",
+        "max-training-dummy-blender-comparison"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "queries": [
+        "\"GPT-6 Astra\" \"3D\" \"October 25\"",
+        "\"Astra\" \"3D\" site:x.com after:2026-10-24",
+        "\"Astra\" \"Blender\" after:2026-10-23",
+        "\"Astra\" \"Three.js\" after:2026-10-24",
+        "\"GPT-6\" 3d pushed:>=2026-10-24 fork:false",
+        "\"astra\" 3d created:>=2026-10-22 fork:false",
+        "\"Astra\" \"3D\" site:xiaohongshu.com"
+      ],
+      "discoverySources": [
+        "https://aivs.tv/models/gpt-6-astra/",
+        "https://madewiththreejs.com/",
+        "https://teapawt.net/vib3coded",
+        "https://github.com/coolbat/awesome-opus-5.5-usecase",
+        "https://github.com/billyhetech/awesome-gpt6-astra-videos"
+      ],
+      "coverage": [
+        {
+          "id": "vanshd-neon-overdrive",
+          "sourceUrl": "https://github.com/vanshd132/Neon-Overdrive",
+          "sourceDate": null,
+          "previewUrl": "https://raw.githubusercontent.com/vanshd132/Neon-Overdrive/main/docs/screenshots/gameplay-neon-downtown.png",
+          "roles": "GPT-6 Astra（初版单次生成，后续提示扩展）"
+        },
+        {
+          "id": "leppppp1-pinball-comparison",
+          "sourceUrl": "https://x.com/leppppp1/status/2113846772770779388",
+          "sourceDate": "2026-10-24",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2113846640566321152/img/d28n1eYmBF8GuM8Z.jpg",
+          "roles": "GPT-6 Astra / Kimi K3.1 Pro（不同工具环境的同题对照）"
+        },
+        {
+          "id": "aman-tabletop-railway-comparison",
+          "sourceUrl": "https://x.com/Amank1412/status/2113699831248220177",
+          "sourceDate": "2026-10-24",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2113699658736521216/img/q8qigdvSxQI81SP0.jpg",
+          "roles": "GPT-6 Astra / Kimi K3.1 Pro（同题独立对照）"
+        },
+        {
+          "id": "vib3coded-tiny-ice-rink-comparison",
+          "sourceUrl": "https://x.com/vib3coded/status/2113217041985401339",
+          "sourceDate": "2026-10-22",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2113216877405077504/img/Am0U1PwdrPWVaFr3.jpg",
+          "roles": "GPT-6 Astra / MiniMax M3.1 Flash（作者对照）"
+        },
+        {
+          "id": "max-training-dummy-blender-comparison",
+          "sourceUrl": "https://x.com/maxt3chno/status/2113321027325300784",
+          "sourceDate": "2026-10-23",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2113320969100001280/img/BmBgBpKZj3WsKMro.jpg",
+          "roles": "GPT-6 Astra / Claude Opus 5.5（均通过Blender MCP）"
+        }
+      ],
+      "primarySourceChecks": [
+        {
+          "url": "https://x.com/leppppp1/status/2113846772770779388",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "contentLength": null,
+          "bytes": 131336,
+          "sha256": "4ed2260389b9d98c1828714401ec458ea6283d6ab2d65aa2b64714f82f146d2f",
+          "fullGet": true,
+          "caseId": "leppppp1-pinball-comparison",
+          "sourceUrl": "https://x.com/leppppp1/status/2113846772770779388",
+          "createdAtMs": 1792815318000,
+          "createdAtUtc": "Sat Oct 24 04:15:18 +0000 2026",
+          "createdAtShanghai": "2026-10-24T12:15:18+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "secondaryMetadataUrl": "https://api.fxtwitter.com/leppppp1/status/2113846772770779388",
+          "author": "渣渣的赛博宇宙",
+          "tweetText": "卧槽，Kimi 3.1 跑分超过 Astra 了？先比比看。\nKimi 官方 Terminal-Bench 4.0：65.7% vs 58.2%。我把同一套 3D 弹球机需求，分别给了Kimi K3.1 Pro 和 Codex 里的 Astra。\n这次首轮，Kimi 16分15秒，Astra 5分55秒。Kimi 的机台和连击反馈更热闹；Astra 更克制，版面也更干净。"
+        },
+        {
+          "url": "https://x.com/Amank1412/status/2113699831248220177",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "contentLength": null,
+          "bytes": 168241,
+          "sha256": "92beab7783dfbc21710ec13edb874abcf3b86568c366e23487f0491c8b2a24cc",
+          "fullGet": true,
+          "caseId": "aman-tabletop-railway-comparison",
+          "sourceUrl": "https://x.com/Amank1412/status/2113699831248220177",
+          "createdAtMs": 1792780285000,
+          "createdAtUtc": "Fri Oct 23 18:31:25 +0000 2026",
+          "createdAtShanghai": "2026-10-24T02:31:25+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "secondaryMetadataUrl": "https://api.fxtwitter.com/Amank1412/status/2113699831248220177",
+          "author": "Aman",
+          "tweetText": "KIMI K3.1 PRO IS MAKING 3D GENERATION WAY CHEAPER\n\ni asked both models to build the exact same animated 3D tabletop railway.\n\n→ detailed train tracks, miniature stations and tiny buildings\n→ a fully animated railway world with moving elements\n→ Kimi: 18 mins vs GPT-6 Astra: 29 mins\n→ Kimi: $6.20 vs GPT-6 Astra: $16.40\n\nroughly 1.6x faster and 2.6x cheaper for a comparable result.\n\nopen weight models are getting seriously competitive with frontier AI."
+        },
+        {
+          "url": "https://x.com/maxt3chno/status/2113321027325300784",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "contentLength": null,
+          "bytes": 136488,
+          "sha256": "7faf0ee9f6418e8a14b87a03ca73b697383e6ef0874abe46dd4203d41d3266c6",
+          "fullGet": true,
+          "caseId": "max-training-dummy-blender-comparison",
+          "sourceUrl": "https://x.com/maxt3chno/status/2113321027325300784",
+          "createdAtMs": 1792689971000,
+          "createdAtUtc": "Thu Oct 22 17:26:11 +0000 2026",
+          "createdAtShanghai": "2026-10-23T01:26:11+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "secondaryMetadataUrl": "https://api.fxtwitter.com/maxt3chno/status/2113321027325300784",
+          "author": "Max",
+          "tweetText": "Claude Opus 5.5 vs GPT 6 Astra: '3D model of a training dummy from scratch'\n\nboth on a basic $20 sub, both had the exact same prompt, both used Blender MCP\n\n-Astra used 12% of weekly quota\n-Opus used 3% of weekly quota\n\nreality check: even if Opus really got nerfed, it's still way more efficient than Astra"
+        },
+        {
+          "url": "https://x.com/vib3coded/status/2113217041985401339",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "contentLength": null,
+          "bytes": 150818,
+          "sha256": "a697b9f38413bca93472ea2fdf1480ae38440fe769dfa96dc8c92c6e8688dd89",
+          "fullGet": true,
+          "caseId": "vib3coded-tiny-ice-rink-comparison",
+          "sourceUrl": "https://x.com/vib3coded/status/2113217041985401339",
+          "createdAtMs": 1792665179000,
+          "createdAtUtc": "Thu Oct 22 10:32:59 +0000 2026",
+          "createdAtShanghai": "2026-10-22T18:32:59+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "secondaryMetadataUrl": "https://api.fxtwitter.com/vib3coded/status/2113217041985401339",
+          "author": "Vib3Coded",
+          "tweetText": "$0.21 vs $7.88 for a tiny ice rink\n\nMiniMax M3.1-Flash vs GPT-6 Astra\n\nMiniMax takes this one for me. Look at the nighttime lighting: warm lamps, shadows across the ice, glowing windows, and all those little details. The whole scene feels more alive\n\nAnd all that for just 21 cents - almost 38 times cheaper than Astra\n\nI’m picking MiniMax for both quality and price. What about you?"
+        }
+      ],
+      "repositoryChecks": [
+        {
+          "name": "neon-readme",
+          "url": "https://raw.githubusercontent.com/vanshd132/Neon-Overdrive/main/README.md",
+          "status": 200,
+          "contentType": "text/plain",
+          "bytes": 2950,
+          "contentLength": 2950,
+          "sha256": "a8b29195a9c2f9f4b805dd6494deb44651ca0726c5ec091f6dd9d7a48a380448",
+          "fullGet": true,
+          "gitBlobSha": "c31cd03a7e304f0fb7b7fa0d290ab1136c6fdbf1",
+          "explicitAstra": true,
+          "initialOneShotAndLaterFollowUpSeparated": true,
+          "firstPublicationDate": null
+        },
+        {
+          "name": "neon-preview",
+          "url": "https://raw.githubusercontent.com/vanshd132/Neon-Overdrive/main/docs/screenshots/gameplay-neon-downtown.png",
+          "status": 200,
+          "contentType": "image/png",
+          "bytes": 269841,
+          "contentLength": 269841,
+          "sha256": "411417c40ce2fd5bd52d90d9fd6886edb4ad065d7764c62b43e8a19385b4dafb",
+          "fullGet": true,
+          "decoded": true,
+          "dimensions": [
+            1600,
+            900
+          ],
+          "frames": 1
+        },
+        {
+          "name": "neon-sunset",
+          "url": "https://raw.githubusercontent.com/vanshd132/Neon-Overdrive/main/docs/screenshots/gameplay-sunset-coast.png",
+          "status": 200,
+          "contentType": "image/png",
+          "bytes": 1353856,
+          "contentLength": 1353856,
+          "sha256": "b9f95d7c5c30c23f88e3f47a20cec70ce5d4acfe87af8d7dfcc922466f7e9c0a",
+          "fullGet": true,
+          "decoded": true,
+          "dimensions": [
+            1600,
+            900
+          ],
+          "frames": 1
+        }
+      ],
+      "excludedOrDeferred": [
+        {
+          "sourceUrl": "https://github.com/ecooxai/hina-gpt6-astra-pro-chatgpt-threejs",
+          "reason": "Already collected as ecooxai-hina-procedural-character; not counted again."
+        },
+        {
+          "sourceUrl": "https://github.com/asklog/asklog-bench",
+          "reason": "Astra rocket-launch implementation inspected: Canvas 2D context with direct 2D rocket drawing; not included as a 3D work."
+        },
+        {
+          "sourceUrl": "https://x.com/Terry_Djony/status/2113820737236869177",
+          "reason": "Model attribution and complete video available, but a separate three-dimensional construction or implementation was not established in this review; left as a lead."
+        },
+        {
+          "sourceUrl": "https://x.com/adolandev/status/2113869535338000625",
+          "reason": "Chain-reaction HTML experiment does not establish 3D geometry in the source reviewed."
+        },
+        {
+          "sourceUrl": "https://github.com/SimplyJuanjo/triaxial-ajedrez-3d",
+          "reason": "README identifies GPT-6.1 Sol and Opus for the chess challenge; not an Astra creation claim."
+        },
+        {
+          "sourceUrl": "https://github.com/egoshifted/sillamae",
+          "reason": "README does not establish GPT-6 Astra attribution."
+        },
+        {
+          "sourceUrl": "https://github.com/epicodix/astra-naval-lab",
+          "reason": "Author attribution available, but no original usable outcome preview verified; not added as link-only."
+        },
+        {
+          "sourceUrl": "https://www.reddit.com/r/squidtrain/comments/1xem5mz/same_prompt_two_models_claude_opus_55_vs_gpt6/",
+          "reason": "Text and task read; actual public outcome media not verified this round, so not included."
+        }
+      ],
+      "platformLimits": [
+        "Public Xiaohongshu search did not yield an additional independently traceable original with usable outcome media; no login performed.",
+        "Newly collected does not mean newly published. X source dates are October 22, 23 and 24 in Asia/Shanghai; Neon Overdrive first publication remains unknown.",
+        "Creator costs, quota percentages, timing and quality verdicts are author reports, with different harnesses retained where stated.",
+        "No independent execution of third-party projects; browser playback checks refer to archived recordings rather than gameplay reproduction."
+      ],
+      "historicalIncrementalSummary": {
+        "checkedImages": 40,
+        "decodedImages": 40,
+        "checkedVideoCases": 10,
+        "checkedVideoEndpoints": 20,
+        "verifiedVideoEndpoints": 20,
+        "failures": [],
+        "limits": "Historical videos were not downloaded or replayed in full. Image decode and bounded video endpoints only."
+      },
+      "completeSourceClips": 4,
+      "newMediaFiles": 8,
+      "newMediaBytes": 41535166,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-25-evening"
     }
   ]
 }

@@ -1,5 +1,265 @@
 [
   {
+    "id": "vanshd-neon-overdrive",
+    "title": "Neon Overdrive：霓虹公路赛车与四片街区",
+    "titleEn": "Neon Overdrive — Four Districts of Arcade Highway Racing",
+    "category": "3D 游戏",
+    "summary": "沿着霓虹公路躲避车流，在海岸、市区、峡谷与雨天跨海道路间切换。作者公开Three.js、TypeScript与Vite工程和实际游戏截图，区分初版单次生成与后续扩展。",
+    "modelLabel": "GPT-6 Astra（初版单次生成，后续提示扩展）",
+    "group": "astra",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "vanshd132",
+    "sourceUrl": "https://github.com/vanshd132/Neon-Overdrive",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-25",
+    "addedAt": "2026-10-25",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "非fork作者仓库README明确以GPT-6 Astra制作，并公开最初任务。README另行说明四街区、天气、交通与任务来自后续提示，未将当前全部玩法描述为一次生成。",
+    "sourceAccess": "连接器读取作者README与非fork仓库metadata，另对README完整GET200、2950字节，Git blob SHA与读取结果一致；两张1600×900实际游戏截图完整GET、长度/SHA-256/Pillow解码及目视通过。未执行第三方工程或宣称独立试玩。",
+    "imageUrl": "https://raw.githubusercontent.com/vanshd132/Neon-Overdrive/main/docs/screenshots/gameplay-neon-downtown.png",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者仓库的1600×900实际Neon Downtown游戏截图：立体车流、霓虹路牌与公路场景；其他街区截图从README回看。",
+    "outcome": "当前仓库公开运行、构建与测试方式，玩法和细节以作者说明为准，本库未执行其源码或验证完整关卡。仓库首页未提供可核验的公开试玩地址；首次发布日期未核实，不用仓库创建或最近推送时间替代。",
+    "repositoryUrl": "https://github.com/vanshd132/Neon-Overdrive",
+    "demoUrl": null,
+    "videoUrl": null,
+    "outputType": [
+      "Three.js三维赛车",
+      "公开TypeScript工程",
+      "作者实际游戏截图"
+    ],
+    "promptAvailability": "full-linked",
+    "promptExcerpt": null,
+    "promptUrl": "https://github.com/vanshd132/Neon-Overdrive#about-this-project",
+    "promptSummary": "作者公开初版完整自然语言任务：请求一款可玩的动作或赛车游戏，允许模型选择二维或三维。当前四街区、天气和任务来自另一次后续提示，完整后续会话未公开。",
+    "evidenceUrls": [
+      "https://github.com/vanshd132/Neon-Overdrive/blob/main/README.md",
+      "https://raw.githubusercontent.com/vanshd132/Neon-Overdrive/main/docs/screenshots/gameplay-sunset-coast.png"
+    ],
+    "licenseNotes": "本轮未核实作者工程的明确复用许可，使用源码和素材前以作者声明为准。第三方截图、作品与依赖许可分别归属，不纳入本库MIT。"
+  },
+  {
+    "id": "leppppp1-pinball-comparison",
+    "title": "Midnight Orbit：干净机台里的三维弹球",
+    "titleEn": "Midnight Orbit — A 3D Pinball Comparison",
+    "category": "3D 游戏",
+    "summary": "同一三维弹球机任务得到两套机台。录像保留钢球、挡板、碰撞区与分数反馈；Astra是下方Midnight Orbit，Kimi在上方。",
+    "modelLabel": "GPT-6 Astra / Kimi K3.1 Pro（不同工具环境的同题对照）",
+    "imageCaption": "作者原帖完整双栏：上方Kimi K3.1 Pro / Qoder，下方GPT-6 Astra / Codex。Astra的浅色机台与左右信息栏在下半幅；保留整段约32.93秒录像。",
+    "outcome": "作者称是同套需求的首轮输出，Astra用Codex、Kimi画面标为Qoder；两者环境不同。制作时间、机台观感和连击评价是作者观察，不等同模型独立基准。未取得Astra公开试玩、源码或完整任务。",
+    "promptSummary": "作者公开三维弹球机的同题方向，未提供完整需求；本站不把机台画面或作者耗时当作所有玩法已验证。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "渣渣的赛博宇宙 / @leppppp1",
+    "sourceUrl": "https://x.com/leppppp1/status/2113846772770779388",
+    "sourceDate": "2026-10-24",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-25",
+    "addedAt": "2026-10-25",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者正文与成果标签明确Astra。完整X原帖HTML的作者和时间与精确同帖辅助元数据一致；保留各模型位置与工具环境，属于作者展示，未独立复现。",
+    "sourceAccess": "原帖完整GET200、131,336字节；封面完整GET200、72,028字节、900×1200，长度/SHA-256/Pillow解码与目视核查。来源最高码率原版和较小完整平台版均完整下载，媒体ID、时长、MIME、长度与hash核对；严格FFmpeg全长解码exit0且stderr空，无剪辑或转码，实际查看封面和中帧。 Release原版与播放版附件size/digest均已核对。",
+    "videoUrl": "https://x.com/leppppp1/status/2113846772770779388",
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/leppppp1/status/2113846772770779388",
+    "promptAvailability": "author-description",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/leppppp1/status/2113846772770779388"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2113846640566321152/img/d28n1eYmBF8GuM8Z.jpg",
+    "imageKind": "author-comparison",
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "第三方作品及媒体保留原作者与各权利人权利，不纳入本库MIT；保留署名、原帖与纠错/移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/leppppp1-pinball-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-25-evening/leppppp1-pinball-comparison-1-original.mp4",
+        "durationSeconds": 32.93,
+        "bytes": 2569554,
+        "sha256": "fe2741dfa85fb5d80624f993d6fc47b8f7b76f7deffb6006439182a41c9092fb",
+        "sourceUrl": "https://x.com/leppppp1/status/2113846772770779388",
+        "label": "Midnight Orbit — A 3D Pinball Comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113846640566321152/img/d28n1eYmBF8GuM8Z.jpg"
+      }
+    ]
+  },
+  {
+    "id": "aman-tabletop-railway-comparison",
+    "title": "Tabletop Railway：桌面上的微缩铁路巡游",
+    "titleEn": "Tabletop Railway — Two Animated Miniature Worlds",
+    "category": "等距与微缩",
+    "summary": "列车绕着站房、松树与小建筑组成的桌面铁路运行。完整录像并列展示两座微缩世界，Astra位于右栏，Kimi位于左栏。",
+    "modelLabel": "GPT-6 Astra / Kimi K3.1 Pro（同题独立对照）",
+    "imageCaption": "作者原帖成果：左栏Kimi K3.1 Pro，右栏GPT-6 Astra。Astra为带木桌、雪山、红顶房与轨道的Maple Valley Line；附完整30秒原帖录像。",
+    "outcome": "作者明确相同三维铁路任务，并报告时间、费用与个人价值判断。本库只核对来源、画面归属与完整录像，不将其成本比较当作独立测评。未找到可核验的公开工程、Astra试玩或完整提示词。",
+    "promptSummary": "作者描述动画桌面铁路、精细轨道、微缩车站与建筑，未公开完整原始提示词。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Aman / @Amank1412",
+    "sourceUrl": "https://x.com/Amank1412/status/2113699831248220177",
+    "sourceDate": "2026-10-24",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-25",
+    "addedAt": "2026-10-25",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者正文与成果标签明确Astra。完整X原帖HTML的作者和时间与精确同帖辅助元数据一致；保留各模型位置与工具环境，属于作者展示，未独立复现。",
+    "sourceAccess": "原帖完整GET200、168,241字节；封面完整GET200、111,323字节、1200×675，长度/SHA-256/Pillow解码与目视核查。来源最高码率原版和较小完整平台版均完整下载，媒体ID、时长、MIME、长度与hash核对；严格FFmpeg全长解码exit0且stderr空，无剪辑或转码，实际查看封面和中帧。 Release原版与播放版附件size/digest均已核对。",
+    "videoUrl": "https://x.com/Amank1412/status/2113699831248220177",
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/Amank1412/status/2113699831248220177",
+    "promptAvailability": "author-description",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/Amank1412/status/2113699831248220177"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2113699658736521216/img/q8qigdvSxQI81SP0.jpg",
+    "imageKind": "author-comparison",
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "第三方作品及媒体保留原作者与各权利人权利，不纳入本库MIT；保留署名、原帖与纠错/移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/aman-tabletop-railway-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-25-evening/aman-tabletop-railway-comparison-1-original.mp4",
+        "durationSeconds": 30.0,
+        "bytes": 14513014,
+        "sha256": "f379c924dd57a7f14484147598aae02001e52fdea7da213e45d31aeabc69e7ae",
+        "sourceUrl": "https://x.com/Amank1412/status/2113699831248220177",
+        "label": "Tabletop Railway — Two Animated Miniature Worlds",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113699658736521216/img/q8qigdvSxQI81SP0.jpg"
+      }
+    ]
+  },
+  {
+    "id": "vib3coded-tiny-ice-rink-comparison",
+    "title": "Pixel Ice Rink：雪夜微缩冰场",
+    "titleEn": "Pixel Ice Rink — A MiniMax and Astra Night Scene",
+    "category": "等距与微缩",
+    "summary": "冰球场、覆雪木屋与松树放在一座微缩雪地上，完整录像展示灯光、天气和场上人物。Astra在下栏，MiniMax在上栏。",
+    "modelLabel": "GPT-6 Astra / MiniMax M3.1 Flash（作者对照）",
+    "imageCaption": "原作者双栏预览：上方MiniMax M3.1 Flash，下方GPT-6 Astra。Astra为下半幅带浅色屋顶与门前人物的冰场；保留完整18秒来源片段。",
+    "outcome": "作者更偏好MiniMax的夜景，并自报费用。对照保留两者各自结果，不将上栏效果归给Astra，也不把费用或偏好当作独立基准。未取得Astra公开试玩、源码或完整任务，交互控件仅作为画面内容记录。",
+    "promptSummary": "作者公开微缩冰场和夜间灯光方向；完整任务未核实，保持未公开语义。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Vib3Coded / @vib3coded",
+    "sourceUrl": "https://x.com/vib3coded/status/2113217041985401339",
+    "sourceDate": "2026-10-22",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-25",
+    "addedAt": "2026-10-25",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者正文与成果标签明确Astra。完整X原帖HTML的作者和时间与精确同帖辅助元数据一致；保留各模型位置与工具环境，属于作者展示，未独立复现。",
+    "sourceAccess": "原帖完整GET200、150,818字节；封面完整GET200、120,652字节、960×1200，长度/SHA-256/Pillow解码与目视核查。来源最高码率原版和较小完整平台版均完整下载，媒体ID、时长、MIME、长度与hash核对；严格FFmpeg全长解码exit0且stderr空，无剪辑或转码，实际查看封面和中帧。 Release原版与播放版附件size/digest均已核对。",
+    "videoUrl": "https://x.com/vib3coded/status/2113217041985401339",
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/vib3coded/status/2113217041985401339",
+    "promptAvailability": "author-description",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/vib3coded/status/2113217041985401339"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2113216877405077504/img/Am0U1PwdrPWVaFr3.jpg",
+    "imageKind": "author-comparison",
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "第三方作品及媒体保留原作者与各权利人权利，不纳入本库MIT；保留署名、原帖与纠错/移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-tiny-ice-rink-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-25-evening/vib3coded-tiny-ice-rink-comparison-1-original.mp4",
+        "durationSeconds": 18.05,
+        "bytes": 12328773,
+        "sha256": "7c0f0ba318b95e46e4c5879987c18b599df57747961adda5468f2b5fa5850099",
+        "sourceUrl": "https://x.com/vib3coded/status/2113217041985401339",
+        "label": "Pixel Ice Rink — A MiniMax and Astra Night Scene",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113216877405077504/img/Am0U1PwdrPWVaFr3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "max-training-dummy-blender-comparison",
+    "title": "训练假人：Blender MCP 的同题建模对照",
+    "titleEn": "Training Dummy — Blender MCP Model Comparison",
+    "category": "Blender 建模",
+    "summary": "两种模型通过Blender MCP制作稻草训练假人，原帖同时展示Blender网格与游戏内使用画面。Astra成果在左下Blender视口，Opus在左上。",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（均通过Blender MCP）",
+    "imageCaption": "原帖左上为Claude Opus 5.5，左下为GPT-6 Astra的Blender训练假人；右侧是作者的游戏展示背景，未将整个游戏归因于Astra。附完整约16.87秒来源录像。",
+    "outcome": "作者说明两者使用同一提示词和Blender MCP，并自报订阅额度与耗时。额度百分比不是标准化成本或独立效率基准。Astra归属仅限明确标注的假人模型；游戏场景、武器和其他素材来源未核实，工程与完整提示词未公开。",
+    "promptSummary": "作者给出从零制作三维训练假人的简短任务方向，无法核实完整会话或额外约束。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Max / @maxt3chno",
+    "sourceUrl": "https://x.com/maxt3chno/status/2113321027325300784",
+    "sourceDate": "2026-10-23",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-25",
+    "addedAt": "2026-10-25",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原作者正文与成果标签明确Astra。完整X原帖HTML的作者和时间与精确同帖辅助元数据一致；保留各模型位置与工具环境，属于作者展示，未独立复现。",
+    "sourceAccess": "原帖完整GET200、136,488字节；封面完整GET200、124,961字节、1199×639，长度/SHA-256/Pillow解码与目视核查。来源最高码率原版和较小完整平台版均完整下载，媒体ID、时长、MIME、长度与hash核对；严格FFmpeg全长解码exit0且stderr空，无剪辑或转码，实际查看封面和中帧。 Release原版与播放版附件size/digest均已核对。",
+    "videoUrl": "https://x.com/maxt3chno/status/2113321027325300784",
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "promptExcerpt": null,
+    "promptUrl": "https://x.com/maxt3chno/status/2113321027325300784",
+    "promptAvailability": "author-description",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/maxt3chno/status/2113321027325300784"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2113320969100001280/img/BmBgBpKZj3WsKMro.jpg",
+    "imageKind": "author-comparison",
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "第三方作品及媒体保留原作者与各权利人权利，不纳入本库MIT；保留署名、原帖与纠错/移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/max-training-dummy-blender-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-25-evening/max-training-dummy-blender-comparison-1-original.mp4",
+        "durationSeconds": 16.93,
+        "bytes": 8189773,
+        "sha256": "0b77bae8765c3babb7ce7777ae4891fc847877c36f29d9d9e69998196f83ef7d",
+        "sourceUrl": "https://x.com/maxt3chno/status/2113321027325300784",
+        "label": "Training Dummy — Blender MCP Model Comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113320969100001280/img/BmBgBpKZj3WsKMro.jpg"
+      }
+    ]
+  },
+  {
     "id": "pratikgx-embryo-explorer",
     "title": "Embryo Explorer：可拆分的十六阶段三维示意",
     "titleEn": "Embryo Explorer — Sixteen Explorable Developmental Stages",

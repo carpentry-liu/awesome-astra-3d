@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-25 (Asia/Shanghai)** · **387 Astra examples** · **113 source / project links** · **124 demo links** · **180 complete videos** · **12 separate references**.
+Updated **2026-10-25 (Asia/Shanghai)** · **392 Astra examples** · **114 source / project links** · **124 demo links** · **184 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -55,7 +55,7 @@ Website screenshots were refreshed on **October 25, 2026** from the current loca
 
 ![Mobile featured works and material navigation](docs/media/mobile-2026-10-25.jpg)
 
-[![Embryo Explorer — the 3D schematic and source project](docs/media/case-2026-10-25.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/pratikgx-embryo-explorer/)
+[![Neon Overdrive — the 3D racer and source project](docs/media/case-2026-10-25.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vanshd-neon-overdrive/)
 
 </details>
 
@@ -63,31 +63,31 @@ Website screenshots were refreshed on **October 25, 2026** from the current loca
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The October 25 update adds **5 works and 4 complete X clips**: the open-source Embryo Explorer, a pixel airport, Chalk Square, Offshore Jelly, and a margarita sloshing comparison. New materials include one source link and three demos, plus author-linked full tasks for the backyard and offshore scenes. About 73 seconds of X footage retains original and smaller complete platform renditions. Astra is below in the three Vib3Coded clips and lower right in the glass comparison. Posts date from October 14, 23 and 24; the repository project publication date remains unknown.
+The October 25 evening update adds **5 works and 4 complete X clips**: Neon Overdrive, 3D pinball, a tabletop railway, a miniature ice rink, and a Blender training dummy. Today’s two batches total **10 works and 8 clips**. This batch preserves about 98 seconds of complete original footage and smaller platform renditions, with Astra panels identified. The racer’s first one-shot and subsequent expansion are described separately. X posts date from October 22–24; the racer’s first publication remains unknown. These are collection dates.
 
 <!-- atlas:update-previews:start -->
 **This update in pictures — creator works**
 
-| Embryo Explorer · open-source schematic | Pixel airport · Astra below |
+| Neon Overdrive · public racing project | 3D pinball · Astra below |
 | --- | --- |
-| [<img src="https://raw.githubusercontent.com/pratikgx/embryo-explorer/main/media/preview.jpg" height="220" alt="Embryo Explorer · open-source schematic">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/pratikgx-embryo-explorer/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2113849838198530049/img/A2Ghi6Tg83UwCohp.jpg" height="220" alt="Pixel airport · Astra below">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-pixel-airport-comparison/) |
-| Chalk Square · Astra below | Offshore Jelly · Astra below |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2113601799215108097/img/NlxhpC135VtcLGkI.jpg" height="220" alt="Chalk Square · Astra below">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-chalk-square-comparison/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2113400858335444992/img/K2JtNt1iQCzxZiP_.jpg" height="220" alt="Offshore Jelly · Astra below">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-offshore-jelly-comparison/) |
-| Margarita · Astra lower right | Watch the complete clips |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2110232579509227520/img/w2c0R7ECo4TZYO6-.jpg" height="220" alt="Margarita · Astra lower right">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ann-margarita-sloshing-comparison/) | [4 new clips](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Original files](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-25) |
+| [<img src="https://raw.githubusercontent.com/vanshd132/Neon-Overdrive/main/docs/screenshots/gameplay-neon-downtown.png" height="220" alt="Neon Overdrive · public racing project">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vanshd-neon-overdrive/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2113846640566321152/img/d28n1eYmBF8GuM8Z.jpg" height="220" alt="3D pinball · Astra below">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/leppppp1-pinball-comparison/) |
+| Tabletop railway · Astra right | Ice rink · Astra below |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2113699658736521216/img/q8qigdvSxQI81SP0.jpg" height="220" alt="Tabletop railway · Astra right">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/aman-tabletop-railway-comparison/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2113216877405077504/img/Am0U1PwdrPWVaFr3.jpg" height="220" alt="Ice rink · Astra below">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-tiny-ice-rink-comparison/) |
+| Blender dummy · Astra lower left | Watch the complete clips |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2113320969100001280/img/BmBgBpKZj3WsKMro.jpg" height="220" alt="Blender dummy · Astra lower left">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/max-training-dummy-blender-comparison/) | [Watch the 4 additional clips](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Original files](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-25-evening) |
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [Neon Overdrive — Four Districts of Arcade Highway Racing](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vanshd-neon-overdrive/) | vanshd132 | [Source](https://github.com/vanshd132/Neon-Overdrive) · [Original](https://github.com/vanshd132/Neon-Overdrive) |
+| [Midnight Orbit — A 3D Pinball Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/leppppp1-pinball-comparison/) | 渣渣的赛博宇宙 / @leppppp1 | [Original](https://x.com/leppppp1/status/2113846772770779388) |
+| [Tabletop Railway — Two Animated Miniature Worlds](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/aman-tabletop-railway-comparison/) | Aman / @Amank1412 | [Original](https://x.com/Amank1412/status/2113699831248220177) |
+| [Pixel Ice Rink — A MiniMax and Astra Night Scene](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-tiny-ice-rink-comparison/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2113217041985401339) |
+| [Training Dummy — Blender MCP Model Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/max-training-dummy-blender-comparison/) | Max / @maxt3chno | [Original](https://x.com/maxt3chno/status/2113321027325300784) |
 | [Embryo Explorer — Sixteen Explorable Developmental Stages](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/pratikgx-embryo-explorer/) | Pratik Gandhi / pratikgx | [Demo](https://embryoexplorer.com/) · [Source](https://github.com/pratikgx/embryo-explorer) · [Original](https://github.com/pratikgx/embryo-explorer) |
 | [Pixel Airport — A Kimi and Astra Diorama Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-pixel-airport-comparison/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2113849897438834851) |
 | [Chalk Square — An After-school Backyard in Pixel Art](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-chalk-square-comparison/) | Vib3Coded / @vib3coded | [Demo](https://chalk-square.vercel.app/) · [Original](https://x.com/vib3coded/status/2113602050172785117) |
-| [Offshore Jelly — Wind Turbines and a Platform in a Jelly Sea](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-offshore-jelly-comparison/) | Vib3Coded / @vib3coded | [Demo](https://offshore-jelly.vercel.app/) · [Original](https://x.com/vib3coded/status/2113401221910253853) |
-| [Pink Hour — Four Models Test a Margarita Sloshing Effect](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ann-margarita-sloshing-comparison/) | Ann Nguyen / @ann_nnng | [Original](https://x.com/ann_nnng/status/2110234900616126769) |
-| [Retro del Sol — A Low-poly Seaside Multiplayer Game](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/chongdashu-retro-del-sol/) | Chong-U / @chongdashu | [Original](https://x.com/chongdashu/status/2113090126406635638) |
-| [Freestyle Swimming — Three Models Build a Three.js Pool](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/screening-threejs-carbon-comparison/) | Pranav Reddy / @AI_Screening | [Original](https://x.com/AI_Screening/status/2113184121883435047) |
-| [Lock / Jelly — A Canal, Boat and Windmill Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kenny-jelly-canal-comparison/) | Kenny1st / @0xKenny1st | [Original](https://x.com/0xKenny1st/status/2112605599145832540) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)
