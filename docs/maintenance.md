@@ -79,7 +79,7 @@ npm start
 | 截图与分享封面 | 重新拍摄首页、今日案例区、手机首页和Embryo Explorer详情，原生JPEG逐字节保存，没有裁剪、重编码或修饰。桌面捕获1425×1089、手机375×812，视口与捕获尺寸分别记录。双语README与share.jpg同步，删除无当前引用的10月21日旧图，旧图保留在Git历史 |
 | 基线与仓库边界 | 旧394案例逐字段及相对顺序不变，旧352视频文件和旧研究/媒体/链接记录不变；演示审计只追加3项。新8文件实际hash重算、Release尺寸/digest和original/web映射通过，公开JSON一致。未提交迁移说明、下载、缓存、媒体原件、作者全文或本地核查脚本 |
 
-本轮媒体见[10月25日Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-25)。网站发布状态与生产GET结果在部署后补录。案例库ChatGPT Site不重新部署，发布目标继续为GitHub Pages。
+本轮媒体见[10月25日Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-25)。内容提交 `4bd13d9` 已推送至main，[Pages工作流](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/40159040198)检查、构建、全部180段播放文件下载校验与部署成功。发布后35项完整GET核对全部通过：399条公开目录、首页统计、831项sitemap、5条详情JSON、10个双语详情、4段新增播放文件、5张成果预览、四张新网站实拍、分享封面及双语README/视频清单；详情同时核对canonical、语言、作者和来源。所有新增播放文件与图片的完整字节/hash匹配，Release八附件尺寸/digest匹配。RAW文件按发布提交的Git blob比较。另在GitHub实际页面核对10月25日统计、首页实拍及五张成果预览，六图均已加载。案例库ChatGPT Site不重新部署，发布目标继续为GitHub Pages。
 
 ## 小王子制作流程复核（2026-10-18）
 
