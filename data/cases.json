@@ -1,5 +1,267 @@
 [
   {
+    "id": "henrique-feira-livre-simulator",
+    "title": "Feira Livre：三分钟的巴西水果集市",
+    "titleEn": "Feira Livre — A Three-minute Brazilian Street Market",
+    "category": "3D 游戏",
+    "summary": "以第一人称经营水果摊：等候顾客、出售水果、转身补货，再看三分钟结算。作者公开Godot原生工程、程序化场景和实际游戏动图。",
+    "modelLabel": "Astra（作者明确项目制作，未列具体配置）",
+    "group": "astra",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "Henrique Rocha Serrano / henriquerochars",
+    "sourceUrl": "https://github.com/henriquerochars/feira-livre-simulator",
+    "sourceDate": null,
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-26",
+    "addedAt": "2026-10-26",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "非fork作者仓库README与署名明确使用Astra制作三维Godot实验。具体模型档位未列，首次发布日期未核实，不用仓库创建时间替代。",
+    "sourceAccess": "作者README和MIT许可完整GET，Git blob SHA与连接器一致；1280×720封面及896×504实机GIF完整GET、长度/SHA-256核对，GIF全部192帧解码、约12.8秒。已实际查看，未执行第三方工程。",
+    "imageUrl": "https://raw.githubusercontent.com/henriquerochars/feira-livre-simulator/main/docs/media/atendimento.gif",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者从Godot实际运行录制的顾客接待GIF，896×504、192帧、约12.8秒；经过作者降帧压缩，不是概念动画，录制脚本在原仓库。",
+    "outcome": "作者限定为离线原型：一个地图与摊位、三种水果、最多三位同时下单的顾客；邻摊是装饰，角色可能穿插，没有多人或存档。需要Godot运行，公开浏览器试玩未核实。作者的macOS和CI测试报告未作为本站复现结果。",
+    "repositoryUrl": "https://github.com/henriquerochars/feira-livre-simulator",
+    "demoUrl": null,
+    "videoUrl": null,
+    "outputType": [
+      "Godot原生三维游戏",
+      "公开GDScript与程序场景",
+      "作者实机动图"
+    ],
+    "promptAvailability": "author-description",
+    "promptExcerpt": null,
+    "promptUrl": "https://github.com/henriquerochars/feira-livre-simulator",
+    "promptSummary": "作者介绍以Astra制作水果摊游戏实验，公开运行、录制与测试脚本；没有公开完整原始提示词或会话。",
+    "evidenceUrls": [
+      "https://github.com/henriquerochars/feira-livre-simulator/blob/main/README.md",
+      "https://github.com/henriquerochars/feira-livre-simulator/blob/main/LICENSE",
+      "https://github.com/henriquerochars/feira-livre-simulator/blob/main/tools/record_demo.gd"
+    ],
+    "licenseNotes": "作者明确原创代码和媒体使用MIT，版权署名Henrique Rocha Serrano；Godot另遵循其引擎许可。此说明不将第三方作品纳入本库自身MIT。"
+  },
+  {
+    "id": "vib3coded-launch-jelly-comparison",
+    "title": "Launch Jelly：果冻海块中的火箭太空港",
+    "titleEn": "Launch Jelly — A Spaceport Inside a Jelly Cube",
+    "category": "程序化场景",
+    "summary": "热带岛屿、发射台与水下地形被装进透明海块。完整录像展示火箭转运和升空镜头；Astra在下栏，作者另公开其试玩和完整任务。",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（同题独立对照）",
+    "imageCaption": "原帖上方Claude Opus 5.5、下方ChatGPT-6 Astra。Astra是下半幅较深的透明海块与双天线发射台；保留整段18秒来源录像。",
+    "outcome": "作者比较水面、细节和费用，属于个人观察，未作独立基准。试玩评论明确区分两模型；回收着陆、海水模拟等完整任务要求未逐项复现，不因提示词存在就视为全部实现。",
+    "promptSummary": "作者同帖公开单文件WebGPU太空港任务，包括程序地形、透明海块、火箭转运与发射、天气和查看控件。完整文本回链原评论。",
+    "promptAvailability": "full-linked",
+    "promptUrl": "https://x.com/vib3coded/status/2114132746645688569",
+    "demoUrl": "https://launch-jelly-vibecoded1.vercel.app/",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Vib3Coded / @vib3coded",
+    "sourceUrl": "https://x.com/vib3coded/status/2114132632166347208",
+    "sourceDate": "2026-10-25",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-26",
+    "addedAt": "2026-10-26",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者原帖文字、标签与实际录像明确Astra；完整X HTML的作者和时间与精确同帖辅助元数据一致。保留多模型分工和来源媒体序号，属于作者展示而非独立复现。",
+    "sourceAccess": "完整原帖GET200、145,590字节；原封面GET200、112,012字节、948×1200，长度/hash/Pillow解码核对。最高码率原版及较小完整平台版均完整下载，媒体ID、来源时长、MIME、长度与SHA-256一致；严格FFmpeg全长解码exit0且stderr空，无剪辑或转码，封面和中帧实际查看。 两条作者评论的同根帖、作者和时间匹配，试玩完整GET200、142339字节且标题Launch Jelly；未独立复现WebGPU交互。 Release原版与播放版附件size/digest均匹配。",
+    "videoUrl": "https://x.com/vib3coded/status/2114132632166347208",
+    "repositoryUrl": null,
+    "promptExcerpt": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/vib3coded/status/2114132632166347208",
+      "https://x.com/vib3coded/status/2114133004310520194"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2114132448304910336/img/-AcM6oYYIvbtd9vO.jpg",
+    "imageKind": "author-comparison",
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "第三方作品、品牌和媒体保留原作者及各权利人权利，不纳入本库MIT；保留署名、原帖与纠错/移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-launch-jelly-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/vib3coded-launch-jelly-comparison-1-original.mp4",
+        "durationSeconds": 18.05,
+        "bytes": 16879219,
+        "sha256": "367c1cdccfea32c5fdbffc71c9d62522f631104f5b8cb1b7d01e24788445c3c4",
+        "sourceUrl": "https://x.com/vib3coded/status/2114132632166347208",
+        "label": "Launch Jelly — A Spaceport Inside a Jelly Cube",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2114132448304910336/img/-AcM6oYYIvbtd9vO.jpg"
+      }
+    ]
+  },
+  {
+    "id": "davey-gummy-eyeball-comparison",
+    "title": "Jelly Eyeball：可以戳动和拉伸的软体眼球",
+    "titleEn": "Jelly Eyeball — Three Models Build a Soft-body Eye",
+    "category": "交互与工具",
+    "summary": "三组Three.js眼球与糖果摆在同一任务对照里，录像展示拖动与材质控件。Astra位于上栏，Kimi在中栏，Opus在下栏，各自结果分别保留。",
+    "modelLabel": "GPT-6 Astra / Kimi K3.1 Pro / Claude Opus 5.5（同题独立对照）",
+    "imageCaption": "本库截取作者完整原版录像21.3秒的实际整帧，未裁剪或修饰，以替换接近黑屏的原封面。Astra上栏、Kimi中栏、Opus下栏；完整42.6秒录像另附。",
+    "outcome": "作者称Opus对血丝、视神经和拉伸任务完成更全；本站未将其他栏的细节归给Astra。运行时间、价格与优劣是作者报告，不作为独立测试。没有取得Astra公开工程、试玩或完整会话。",
+    "promptSummary": "作者公开软体眼球、戳动、拉伸、抛掷和视神经悬挂等任务方向；完整输入和全部约束未核实。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Davey / @daveeyyy_",
+    "sourceUrl": "https://x.com/daveeyyy_/status/2114014158102397168",
+    "sourceDate": "2026-10-24",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-26",
+    "addedAt": "2026-10-26",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者原帖文字、标签与实际录像明确Astra；完整X HTML的作者和时间与精确同帖辅助元数据一致。保留多模型分工和来源媒体序号，属于作者展示而非独立复现。",
+    "sourceAccess": "完整原帖GET200、145,331字节；原封面GET200、26,448字节、794×1200，长度/hash/Pillow解码核对。最高码率原版及较小完整平台版均完整下载，媒体ID、来源时长、MIME、长度与SHA-256一致；严格FFmpeg全长解码exit0且stderr空，无剪辑或转码，封面和中帧实际查看。 预览改为最高码率完整原版21.3秒的实际整帧，1080×1632、212,727字节，截帧来源、hash、Pillow解码与目视核对；不裁剪、不修饰、不改动视频。 Release原版与播放版附件size/digest均匹配。",
+    "videoUrl": "https://x.com/daveeyyy_/status/2114014158102397168",
+    "repositoryUrl": null,
+    "promptExcerpt": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/daveeyyy_/status/2114014158102397168"
+    ],
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/davey-gummy-eyeball-comparison-frame-21-3s.jpg",
+    "imageKind": "author-comparison",
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "第三方作品、品牌和媒体保留原作者及各权利人权利，不纳入本库MIT；保留署名、原帖与纠错/移除入口。",
+    "demoUrl": null,
+    "promptUrl": "https://x.com/daveeyyy_/status/2114014158102397168",
+    "promptAvailability": "author-description",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/davey-gummy-eyeball-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/davey-gummy-eyeball-comparison-1-original.mp4",
+        "durationSeconds": 42.6,
+        "bytes": 9421011,
+        "sha256": "a9c9f06a03c978d3c92ab4b07062e2d9262e0d028a1aa98d505e57ce7b672ee2",
+        "sourceUrl": "https://x.com/daveeyyy_/status/2114014158102397168",
+        "label": "Jelly Eyeball — Three Models Build a Soft-body Eye",
+        "posterUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/davey-gummy-eyeball-comparison-frame-21-3s.jpg"
+      }
+    ]
+  },
+  {
+    "id": "diego-grand-canyon-astra",
+    "title": "Grand Canyon：纯代码峡谷的连续飞行",
+    "titleEn": "Grand Canyon — A Continuous Procedural Canyon Flight",
+    "category": "程序化场景",
+    "summary": "镜头沿着河流与层叠岩壁穿过三维峡谷。作者把单文件HTML场景归于Astra Ultra，音乐归于Suno；保留约172秒完整原帖录像。",
+    "modelLabel": "GPT-6 Astra Ultra（场景与镜头）/ Suno（音乐）",
+    "imageCaption": "本库截自作者完整原版录像85.89秒，保留整帧和GPT-6 Astra Ultra标签，无裁剪或修饰；替换带加载遮罩的原封面。",
+    "outcome": "源帖是10月25日凌晨的Astra作品，未把当晚引用它的Opus录像收入本案例。作者公开单文件HTML任务并称一次实验；不据此判断内部没有迭代，也未将写实目标当作地理测绘或地貌准确性验证。未公开可核验工程或试玩。",
+    "promptSummary": "作者完整任务要求用代码构建峡谷、岩层、河流、灯光与连续无人机视角，并自行渲染、检查和改进；不下载图片或三维模型。音乐单独署名Suno。",
+    "promptAvailability": "full-linked",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Diego | AI 🚀 - e/acc / @diegocabezas01",
+    "sourceUrl": "https://x.com/diegocabezas01/status/2114033292999630853",
+    "sourceDate": "2026-10-25",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-26",
+    "addedAt": "2026-10-26",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者原帖文字、标签与实际录像明确Astra；完整X HTML的作者和时间与精确同帖辅助元数据一致。保留多模型分工和来源媒体序号，属于作者展示而非独立复现。",
+    "sourceAccess": "完整原帖GET200、147,221字节；原封面GET200、58,392字节、1199×665，长度/hash/Pillow解码核对。最高码率原版及较小完整平台版均完整下载，媒体ID、来源时长、MIME、长度与SHA-256一致；严格FFmpeg全长解码exit0且stderr空，无剪辑或转码，封面和中帧实际查看。 预览改为最高码率完整原版85.89秒的实际整帧，1948×1080、212,870字节，截帧来源、hash、Pillow解码与目视核对；不裁剪、不修饰、不改动视频。 Release原版与播放版附件size/digest均匹配。",
+    "videoUrl": "https://x.com/diegocabezas01/status/2114033292999630853",
+    "repositoryUrl": null,
+    "promptExcerpt": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/diegocabezas01/status/2114033292999630853"
+    ],
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/diego-grand-canyon-astra-frame-85-89s.jpg",
+    "imageKind": "video-frame",
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "第三方作品、品牌和媒体保留原作者及各权利人权利，不纳入本库MIT；保留署名、原帖与纠错/移除入口。",
+    "demoUrl": null,
+    "promptUrl": "https://x.com/diegocabezas01/status/2114033292999630853",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/diego-grand-canyon-astra-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/diego-grand-canyon-astra-1-original.mp4",
+        "durationSeconds": 171.78,
+        "bytes": 72721867,
+        "sha256": "382beaf82864e03fa18a3c9cd1cc823136df6f8a15dcff0acc35726bc4817de8",
+        "sourceUrl": "https://x.com/diegocabezas01/status/2114033292999630853",
+        "label": "Grand Canyon — A Continuous Procedural Canyon Flight",
+        "posterUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/diego-grand-canyon-astra-frame-85-89s.jpg"
+      }
+    ]
+  },
+  {
+    "id": "leo-interactive-gamepad-astra",
+    "title": "掌控每一面：照片重建的三维手柄",
+    "titleEn": "Designed to Be Held — An Interactive 3D Gamepad",
+    "category": "产品与角色",
+    "summary": "双摇杆、方向键、触控板与肩键组成可旋转查看的三维手柄。这里使用原帖第二段、作者明确归属Astra的完整20.1秒录像。",
+    "modelLabel": "GPT-6 Astra（原帖第二段；第一段对照为Kimi K3.1 Pro）",
+    "imageCaption": "原帖第二段Astra录像的原始封面，显示双触控板手柄与正面、背面、肩键查看入口。第一段Kimi视频未被当作Astra归档。",
+    "outcome": "作者表示Astra按钮和立体感更好但没有分层视角，属于作者比较；不据其他模型的拆分画面补称Astra拥有内部结构。只归档媒体ID 2113878802451292160的完整第二段，未公开工程、试玩或完整输入。",
+    "promptSummary": "作者描述三维手柄重建与按钮交互对照；画面提到五张照片输入，但参考照片和完整任务未公开，不能据此保证精确还原。",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Leo · Building w/ AI / @leo114119",
+    "sourceUrl": "https://x.com/leo114119/status/2113878845426110685",
+    "sourceDate": "2026-10-24",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-26",
+    "addedAt": "2026-10-26",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者原帖文字、标签与实际录像明确Astra；完整X HTML的作者和时间与精确同帖辅助元数据一致。保留多模型分工和来源媒体序号，属于作者展示而非独立复现。",
+    "sourceAccess": "完整原帖GET200、145,820字节；原封面GET200、37,421字节、1200×593，长度/hash/Pillow解码核对。最高码率原版及较小完整平台版均完整下载，媒体ID、来源时长、MIME、长度与SHA-256一致；严格FFmpeg全长解码exit0且stderr空，无剪辑或转码，封面和中帧实际查看。 Release原版与播放版附件size/digest均匹配。",
+    "videoUrl": "https://x.com/leo114119/status/2113878845426110685",
+    "repositoryUrl": null,
+    "promptExcerpt": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/leo114119/status/2113878845426110685"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2113878802451292160/img/EwF8NVF-6y6_Vr8G.jpg",
+    "imageKind": "video-poster",
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "第三方作品、品牌和媒体保留原作者及各权利人权利，不纳入本库MIT；保留署名、原帖与纠错/移除入口。",
+    "demoUrl": null,
+    "promptUrl": "https://x.com/leo114119/status/2113878845426110685",
+    "promptAvailability": "author-description",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/leo-interactive-gamepad-astra-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/leo-interactive-gamepad-astra-1-original.mp4",
+        "durationSeconds": 20.1,
+        "bytes": 1380274,
+        "sha256": "bec82b7a46fb8cd5a9d686f08a7dd0450230f45eb1bcb8e29267b42ee3408cb7",
+        "sourceUrl": "https://x.com/leo114119/status/2113878845426110685",
+        "label": "Designed to Be Held — An Interactive 3D Gamepad",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113878802451292160/img/EwF8NVF-6y6_Vr8G.jpg"
+      }
+    ]
+  },
+  {
     "id": "vanshd-neon-overdrive",
     "title": "Neon Overdrive：霓虹公路赛车与四片街区",
     "titleEn": "Neon Overdrive — Four Districts of Arcade Highway Racing",

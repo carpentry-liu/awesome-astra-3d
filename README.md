@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-10-25（Asia/Shanghai）**：**392 条 Astra 案例** · **114 条源码 / 工程** · **124 个演示入口** · **184 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-10-26（Asia/Shanghai）**：**397 条 Astra 案例** · **115 条源码 / 工程** · **125 个演示入口** · **188 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -44,18 +44,18 @@
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-25.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-26.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-网站实拍更新于 **2026-10-25**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+网站实拍更新于 **2026-10-26**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
-<summary>查看案例区、手机与作品详情实拍 · 2026-10-25</summary>
+<summary>查看案例区、手机与作品详情实拍 · 2026-10-26</summary>
 
-[![案例区：筛选与更多作品](docs/media/collection-2026-10-25.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![案例区：筛选与更多作品](docs/media/collection-2026-10-26.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端：精选作品与材料导航](docs/media/mobile-2026-10-25.jpg)
+![手机端：精选作品与材料导航](docs/media/mobile-2026-10-26.jpg)
 
-[![Neon Overdrive：三维赛车与公开工程](docs/media/case-2026-10-25.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/vanshd-neon-overdrive/)
+[![Grand Canyon：连续飞行与完整录像](docs/media/case-2026-10-26.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/diego-grand-canyon-astra/)
 
 </details>
 
@@ -63,31 +63,31 @@
 
 这里按本库收录日期排列；作品首次发布、模型配置与核查日期在各档案中分别记录。稳定精选不随日更替换。
 
-10 月 25 日晚间补充 **5 件作品、4 段完整 X 录像**：Neon Overdrive 赛车工程、三维弹球机、桌面铁路、微缩冰场与 Blender 训练假人。今日累计收录 **10 件作品、8 段录像**；本轮约98秒录像保留完整原版与平台播放版。对照图标明Astra所在画面，赛车的初版单次生成与后续扩展分开说明。X原帖日期为10月22日至24日，赛车首发日期未核实；这里的“今日”指收录日。
+10 月 26 日新增收录 **5 件作品、4 段完整 X 录像**：巴西水果集市、果冻太空港、软体眼球、大峡谷连续飞行与三维手柄。新增1条工程、1个Astra试玩和2个完整任务入口；约252秒录像保留原版与完整平台播放版。大峡谷场景归于Astra、音乐归于Suno，手柄只归档原帖第二段Astra片段。两张较暗封面改用同一录像的实际截帧并注明时间；原帖发布于10月24、25日，集市首发未核实，今天是收录日。
 
 <!-- atlas:update-previews:start -->
 **本轮成果预览（第三方原作）**
 
-| Neon Overdrive · 公开赛车工程 | 三维弹球 · Astra 在下栏 |
+| Feira Livre · Godot 公开工程 | Launch Jelly · Astra 在下栏 |
 | --- | --- |
-| [<img src="https://raw.githubusercontent.com/vanshd132/Neon-Overdrive/main/docs/screenshots/gameplay-neon-downtown.png" height="220" alt="Neon Overdrive · 公开赛车工程">](https://carpentry-liu.github.io/awesome-astra-3d/cases/vanshd-neon-overdrive/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2113846640566321152/img/d28n1eYmBF8GuM8Z.jpg" height="220" alt="三维弹球 · Astra 在下栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/leppppp1-pinball-comparison/) |
-| 桌面铁路 · Astra 在右栏 | 微缩冰场 · Astra 在下栏 |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2113699658736521216/img/q8qigdvSxQI81SP0.jpg" height="220" alt="桌面铁路 · Astra 在右栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/aman-tabletop-railway-comparison/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2113216877405077504/img/Am0U1PwdrPWVaFr3.jpg" height="220" alt="微缩冰场 · Astra 在下栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-tiny-ice-rink-comparison/) |
-| Blender 假人 · Astra 在左下 | 查看完整录像 |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2113320969100001280/img/BmBgBpKZj3WsKMro.jpg" height="220" alt="Blender 假人 · Astra 在左下">](https://carpentry-liu.github.io/awesome-astra-3d/cases/max-training-dummy-blender-comparison/) | [查看本轮 4 段录像](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video&order=newest#collection) · [下载完整原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-25-evening) |
+| [<img src="https://raw.githubusercontent.com/henriquerochars/feira-livre-simulator/main/docs/media/atendimento.gif" height="220" alt="Feira Livre · Godot 公开工程">](https://carpentry-liu.github.io/awesome-astra-3d/cases/henrique-feira-livre-simulator/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2114132448304910336/img/-AcM6oYYIvbtd9vO.jpg" height="220" alt="Launch Jelly · Astra 在下栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-launch-jelly-comparison/) |
+| 软体眼球 · Astra 在上栏 | 大峡谷 · Astra 场景 / Suno 音乐 |
+| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/davey-gummy-eyeball-comparison-frame-21-3s.jpg" height="220" alt="软体眼球 · Astra 在上栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/davey-gummy-eyeball-comparison/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/diego-grand-canyon-astra-frame-85-89s.jpg" height="220" alt="大峡谷 · Astra 场景 / Suno 音乐">](https://carpentry-liu.github.io/awesome-astra-3d/cases/diego-grand-canyon-astra/) |
+| 三维手柄 · 原帖第二段 Astra | 查看完整录像 |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2113878802451292160/img/EwF8NVF-6y6_Vr8G.jpg" height="220" alt="三维手柄 · 原帖第二段 Astra">](https://carpentry-liu.github.io/awesome-astra-3d/cases/leo-interactive-gamepad-astra/) | [查看本轮 4 段录像](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video&order=newest#collection) · [下载完整原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-26) |
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
+| [Feira Livre：三分钟的巴西水果集市](https://carpentry-liu.github.io/awesome-astra-3d/cases/henrique-feira-livre-simulator/) | Henrique Rocha Serrano / henriquerochars | [源码](https://github.com/henriquerochars/feira-livre-simulator) · [原始来源](https://github.com/henriquerochars/feira-livre-simulator) |
+| [Launch Jelly：果冻海块中的火箭太空港](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-launch-jelly-comparison/) | Vib3Coded / @vib3coded | [演示](https://launch-jelly-vibecoded1.vercel.app/) · [原始来源](https://x.com/vib3coded/status/2114132632166347208) |
+| [Jelly Eyeball：可以戳动和拉伸的软体眼球](https://carpentry-liu.github.io/awesome-astra-3d/cases/davey-gummy-eyeball-comparison/) | Davey / @daveeyyy_ | [原始来源](https://x.com/daveeyyy_/status/2114014158102397168) |
+| [Grand Canyon：纯代码峡谷的连续飞行](https://carpentry-liu.github.io/awesome-astra-3d/cases/diego-grand-canyon-astra/) | Diego \| AI 🚀 - e/acc / @diegocabezas01 | [原始来源](https://x.com/diegocabezas01/status/2114033292999630853) |
+| [掌控每一面：照片重建的三维手柄](https://carpentry-liu.github.io/awesome-astra-3d/cases/leo-interactive-gamepad-astra/) | Leo · Building w/ AI / @leo114119 | [原始来源](https://x.com/leo114119/status/2113878845426110685) |
 | [Neon Overdrive：霓虹公路赛车与四片街区](https://carpentry-liu.github.io/awesome-astra-3d/cases/vanshd-neon-overdrive/) | vanshd132 | [源码](https://github.com/vanshd132/Neon-Overdrive) · [原始来源](https://github.com/vanshd132/Neon-Overdrive) |
 | [Midnight Orbit：干净机台里的三维弹球](https://carpentry-liu.github.io/awesome-astra-3d/cases/leppppp1-pinball-comparison/) | 渣渣的赛博宇宙 / @leppppp1 | [原始来源](https://x.com/leppppp1/status/2113846772770779388) |
 | [Tabletop Railway：桌面上的微缩铁路巡游](https://carpentry-liu.github.io/awesome-astra-3d/cases/aman-tabletop-railway-comparison/) | Aman / @Amank1412 | [原始来源](https://x.com/Amank1412/status/2113699831248220177) |
-| [Pixel Ice Rink：雪夜微缩冰场](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-tiny-ice-rink-comparison/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2113217041985401339) |
-| [训练假人：Blender MCP 的同题建模对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/max-training-dummy-blender-comparison/) | Max / @maxt3chno | [原始来源](https://x.com/maxt3chno/status/2113321027325300784) |
-| [Embryo Explorer：可拆分的十六阶段三维示意](https://carpentry-liu.github.io/awesome-astra-3d/cases/pratikgx-embryo-explorer/) | Pratik Gandhi / pratikgx | [演示](https://embryoexplorer.com/) · [源码](https://github.com/pratikgx/embryo-explorer) · [原始来源](https://github.com/pratikgx/embryo-explorer) |
-| [Pixel Airport：昼夜与风雨中的微缩机场](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-pixel-airport-comparison/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2113849897438834851) |
-| [Chalk Square：雨后重画球场的放学后院](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-chalk-square-comparison/) | Vib3Coded / @vib3coded | [演示](https://chalk-square.vercel.app/) · [原始来源](https://x.com/vib3coded/status/2113602050172785117) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)

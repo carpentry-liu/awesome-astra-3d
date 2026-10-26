@@ -2,6 +2,16 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-26 · 5 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Feira Livre：三分钟的巴西水果集市 / Feira Livre — A Three-minute Brazilian Street Market](https://carpentry-liu.github.io/awesome-astra-3d/cases/henrique-feira-livre-simulator/) | Henrique Rocha Serrano / henriquerochars | 源码 / 工程 · 提示词 / 过程 |
+| [Launch Jelly：果冻海块中的火箭太空港 / Launch Jelly — A Spaceport Inside a Jelly Cube](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-launch-jelly-comparison/) | Vib3Coded / @vib3coded | 演示入口 · 完整视频 · 提示词 / 过程 |
+| [Jelly Eyeball：可以戳动和拉伸的软体眼球 / Jelly Eyeball — Three Models Build a Soft-body Eye](https://carpentry-liu.github.io/awesome-astra-3d/cases/davey-gummy-eyeball-comparison/) | Davey / @daveeyyy_ | 完整视频 · 提示词 / 过程 |
+| [Grand Canyon：纯代码峡谷的连续飞行 / Grand Canyon — A Continuous Procedural Canyon Flight](https://carpentry-liu.github.io/awesome-astra-3d/cases/diego-grand-canyon-astra/) | Diego \| AI 🚀 - e/acc / @diegocabezas01 | 完整视频 · 提示词 / 过程 |
+| [掌控每一面：照片重建的三维手柄 / Designed to Be Held — An Interactive 3D Gamepad](https://carpentry-liu.github.io/awesome-astra-3d/cases/leo-interactive-gamepad-astra/) | Leo · Building w/ AI / @leo114119 | 完整视频 · 提示词 / 过程 |
+
 ## 2026-10-25 · 10 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

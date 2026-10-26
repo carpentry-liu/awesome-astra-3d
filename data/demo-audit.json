@@ -961,6 +961,19 @@
       "checkedAtUtc": "2026-10-25T03:20:32.913254+00:00",
       "method": "complete HTTP GET; title checked; no independent playthrough",
       "result": "reachable"
+    },
+    {
+      "url": "https://launch-jelly-vibecoded1.vercel.app/",
+      "status": 200,
+      "bytes": 142339,
+      "sha256": "e43f5b0ac097b8492840a1708824d47ef84d82b4b7ba6ba94bd19eb2e34fdd88",
+      "contentType": "text/html",
+      "contentLength": 142339,
+      "id": "vib3coded-launch-jelly-comparison",
+      "title": "Launch Jelly — Material Studies",
+      "observedAt": "2026-10-26",
+      "result": "reachable",
+      "scope": "Complete GET and title only, not independent WebGPU interaction verification."
     }
   ]
 }

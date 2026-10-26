@@ -10495,6 +10495,357 @@
       "newMediaFiles": 8,
       "newMediaBytes": 41535166,
       "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-25-evening"
+    },
+    {
+      "observedAt": "2026-10-26",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "checkedAtUtc": "2026-10-26T00:53:26.272973+00:00",
+      "baselineCommit": "ce1ba44f1cdb551fddd4b96c8a41ff2ed49277c9",
+      "baselineCount": 404,
+      "resultingCount": 409,
+      "addedCaseIds": [
+        "henrique-feira-livre-simulator",
+        "vib3coded-launch-jelly-comparison",
+        "davey-gummy-eyeball-comparison",
+        "diego-grand-canyon-astra",
+        "leo-interactive-gamepad-astra"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "queries": [
+        "\"GPT-6 Astra\" \"3D\" after:2026-10-24",
+        "\"Astra\" \"Blender\" after:2026-10-24",
+        "\"Astra\" \"Three.js\" after:2026-10-24",
+        "\"astra\" 3d pushed:>=2026-10-25 fork:false",
+        "\"GPT-6 Astra\" \"3D\" \"2026-10-25\"",
+        "\"Astra\" \"3D\" site:xiaohongshu.com",
+        "\"GPT-6 Astra\" \"Godot\" after:2026-10-24"
+      ],
+      "discoverySources": [
+        "https://github.com/coolbat/awesome-opus-5.5-usecase",
+        "https://github.com/billyhetech/awesome-gpt6-astra-videos",
+        "https://aivs.tv/models/gpt-6-astra/",
+        "https://teapawt.net/vib3coded",
+        "https://www.whatpeoplemade.com/i/mobile-driving-game-built-in-3-days-with-gpt-6-astra-377037.html"
+      ],
+      "coverage": [
+        {
+          "id": "henrique-feira-livre-simulator",
+          "sourceUrl": "https://github.com/henriquerochars/feira-livre-simulator",
+          "sourceDate": null,
+          "previewUrl": "https://raw.githubusercontent.com/henriquerochars/feira-livre-simulator/main/docs/media/atendimento.gif",
+          "roles": "Astra（作者明确项目制作，未列具体配置）"
+        },
+        {
+          "id": "vib3coded-launch-jelly-comparison",
+          "sourceUrl": "https://x.com/vib3coded/status/2114132632166347208",
+          "sourceDate": "2026-10-25",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2114132448304910336/img/-AcM6oYYIvbtd9vO.jpg",
+          "roles": "GPT-6 Astra / Claude Opus 5.5（同题独立对照）"
+        },
+        {
+          "id": "davey-gummy-eyeball-comparison",
+          "sourceUrl": "https://x.com/daveeyyy_/status/2114014158102397168",
+          "sourceDate": "2026-10-24",
+          "previewUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/davey-gummy-eyeball-comparison-frame-21-3s.jpg",
+          "roles": "GPT-6 Astra / Kimi K3.1 Pro / Claude Opus 5.5（同题独立对照）"
+        },
+        {
+          "id": "diego-grand-canyon-astra",
+          "sourceUrl": "https://x.com/diegocabezas01/status/2114033292999630853",
+          "sourceDate": "2026-10-25",
+          "previewUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/diego-grand-canyon-astra-frame-85-89s.jpg",
+          "roles": "GPT-6 Astra Ultra（场景与镜头）/ Suno（音乐）"
+        },
+        {
+          "id": "leo-interactive-gamepad-astra",
+          "sourceUrl": "https://x.com/leo114119/status/2113878845426110685",
+          "sourceDate": "2026-10-24",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2113878802451292160/img/EwF8NVF-6y6_Vr8G.jpg",
+          "roles": "GPT-6 Astra（原帖第二段；第一段对照为Kimi K3.1 Pro）"
+        }
+      ],
+      "primarySourceChecks": [
+        {
+          "url": "https://x.com/daveeyyy_/status/2114014158102397168",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "contentLength": null,
+          "bytes": 145331,
+          "sha256": "c155b2d61ddf99cb0ea2b3accf0eca442824c51fd17dbdd1cd294ea978d6ad82",
+          "fullGet": true,
+          "caseId": "davey-gummy-eyeball-comparison",
+          "sourceUrl": "https://x.com/daveeyyy_/status/2114014158102397168",
+          "createdAtMs": 1792855226000,
+          "createdAtUtc": "Sat Oct 24 15:20:26 +0000 2026",
+          "createdAtShanghai": "2026-10-24T23:20:26+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "secondaryMetadataUrl": "https://api.fxtwitter.com/daveeyyy_/status/2114014158102397168",
+          "author": "Davey",
+          "tweetText": "GPT-6 Astra vs Kimi K3.1 Pro vs Claude Opus 5.5\n\nSame prompt: an interactive soft-body gummy eyeball in Three.js. Poke it, stretch it, throw it, swing it by the nerve.\n\n- GPT-6 Astra: 4 min, $1.07\n- Kimi K3.1 Pro: 8 min, $0.24\n- Opus 5.5: 19 min, ~$6.09\n\nKimi was about 25x cheaper than Opus. But Opus is the only one that got the whole brief: red veins, a red gummy nerve you can lift it by, and a real taffy stretch when you drag it.\n\nWhich one would you pick?",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "selectedMediaId": "2114014049918681088"
+        },
+        {
+          "url": "https://x.com/vib3coded/status/2114132632166347208",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "contentLength": null,
+          "bytes": 145590,
+          "sha256": "4e295d3067d09643d619e48b6fa2482064832020674d95c64f3097067f23e2fc",
+          "fullGet": true,
+          "caseId": "vib3coded-launch-jelly-comparison",
+          "sourceUrl": "https://x.com/vib3coded/status/2114132632166347208",
+          "createdAtMs": 1792883472000,
+          "createdAtUtc": "Sat Oct 24 23:11:12 +0000 2026",
+          "createdAtShanghai": "2026-10-25T07:11:12+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "secondaryMetadataUrl": "https://api.fxtwitter.com/vib3coded/status/2114132632166347208",
+          "author": "Vib3Coded",
+          "tweetText": "A spaceport inside a jelly cube 🚀\n\nClaude Opus 5.5 vs GPT-6 Astra - who did it better?\n\nOpus has great water physics. Astra shines with the details - the rocket rolls out to the launchpad at the start, and the camera follows it during liftoff\n\nAPI cost:\n\nClaude Opus 5.5 - $23.51\nChatGPT-6 Astra - $37.96\n\nWhich do you prefer - physics or details?",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "selectedMediaId": "2114132448304910336"
+        },
+        {
+          "url": "https://x.com/diegocabezas01/status/2114033292999630853",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "contentLength": null,
+          "bytes": 147221,
+          "sha256": "ea39ef08de449daf79bd93187af7bf30e2bd021ed6bb290be80081458b8cc956",
+          "fullGet": true,
+          "caseId": "diego-grand-canyon-astra",
+          "sourceUrl": "https://x.com/diegocabezas01/status/2114033292999630853",
+          "createdAtMs": 1792859788000,
+          "createdAtUtc": "Sat Oct 24 16:36:28 +0000 2026",
+          "createdAtShanghai": "2026-10-25T00:36:28+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "secondaryMetadataUrl": "https://api.fxtwitter.com/diegocabezas01/status/2114033292999630853",
+          "author": "Diego | AI 🚀 - e/acc",
+          "tweetText": "GPT-6 Astra Ultra: \"Create a cinematic, photorealistic drone flight through the Grand Canyon in a self-contained HTML file. Generate the scenery entirely through code, without downloaded images or 3D models. Choose the techniques yourself, then render, inspect, and iteratively improve the layered cliffs, winding river, lighting and camera movement until they feel convincing.\"\n\n1 Shot Experiment.\n\nMusic: Suno",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "selectedMediaId": "2114032778371112960"
+        },
+        {
+          "url": "https://x.com/leo114119/status/2113878845426110685",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "contentLength": null,
+          "bytes": 145820,
+          "sha256": "222eb6ea70e6b50eea45ea0dec64cb63ae33ba984b42331bd2faf52d4455c07d",
+          "fullGet": true,
+          "caseId": "leo-interactive-gamepad-astra",
+          "sourceUrl": "https://x.com/leo114119/status/2113878845426110685",
+          "createdAtMs": 1792822965000,
+          "createdAtUtc": "Sat Oct 24 06:22:45 +0000 2026",
+          "createdAtShanghai": "2026-10-24T14:22:45+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "secondaryMetadataUrl": "https://api.fxtwitter.com/leo114119/status/2113878845426110685",
+          "author": "Leo · Building w/ AI",
+          "tweetText": "Kimi K3.1 Pro 生成的 3D 游戏手柄模型：VS Gpt 6 Astra\n\n实测有点拉，打不过 Astra 手柄立体感有点假，按钮的还原也不太到位，不过做了一个分层视角，但是里面是空的。。。\n\nGpt 6 Astra 3D 还原更真实，按钮操作的互动感也不错\n不过没有分层视角\n\n左为 Kimi K3.1 右为 Gpt 6astra",
+          "sourceMediaIndex": 2,
+          "sourceVideoCount": 2,
+          "selectedMediaId": "2113878802451292160"
+        }
+      ],
+      "repositoryChecks": [
+        {
+          "name": "feira-readme",
+          "url": "https://raw.githubusercontent.com/henriquerochars/feira-livre-simulator/main/README.md",
+          "status": 200,
+          "contentType": "text/plain",
+          "bytes": 11141,
+          "contentLength": 11141,
+          "sha256": "eb9d5868f308fc08138afbd6728ce0e5c4a7c82c5be8f752eb2d37d3602d492d",
+          "fullGet": true,
+          "gitBlobSha": "681c203be9c7f342904c6c3f8fd87e240715e3c8"
+        },
+        {
+          "name": "feira-license",
+          "url": "https://raw.githubusercontent.com/henriquerochars/feira-livre-simulator/main/LICENSE",
+          "status": 200,
+          "contentType": "text/plain",
+          "bytes": 1079,
+          "contentLength": 1079,
+          "sha256": "5458f5aee8646128a494c7c113d8ae59064df625f54ac92ae77623955ae7cade",
+          "fullGet": true,
+          "gitBlobSha": "8b33e5b402f902b8bea13253c4b0987f39a2f426"
+        },
+        {
+          "name": "feira-cover",
+          "url": "https://raw.githubusercontent.com/henriquerochars/feira-livre-simulator/main/docs/media/cover.png",
+          "status": 200,
+          "contentType": "image/png",
+          "bytes": 340324,
+          "contentLength": 340324,
+          "sha256": "ddbc51d92e43ec89ce5e37d9cc8b2f067d2bc0e22ed77a4344ce4658a64e7c16",
+          "fullGet": true,
+          "decoded": true,
+          "dimensions": [
+            1280,
+            720
+          ],
+          "frames": 1,
+          "durationMs": 0
+        },
+        {
+          "name": "feira-gameplay",
+          "url": "https://raw.githubusercontent.com/henriquerochars/feira-livre-simulator/main/docs/media/atendimento.gif",
+          "status": 200,
+          "contentType": "image/gif",
+          "bytes": 1937126,
+          "contentLength": 1937126,
+          "sha256": "56c1b08ab82b02856bc1d017049ae775c265f2334b3254ad60e266acad719a82",
+          "fullGet": true,
+          "decoded": true,
+          "dimensions": [
+            896,
+            504
+          ],
+          "frames": 192,
+          "durationMs": 12800
+        }
+      ],
+      "authorReplyChecks": [
+        {
+          "url": "https://x.com/vib3coded/status/2114133004310520194",
+          "status": 200,
+          "bytes": 127691,
+          "sha256": "170d3d6e49f10b3f584abff3ce06bab34cf6a64396b4d08e1478d36294cab728",
+          "contentType": "text/html",
+          "contentLength": null,
+          "postId": "2114133004310520194",
+          "kind": "demo",
+          "authorMatched": true,
+          "parentPostId": "2114132632166347208",
+          "parentMatched": true,
+          "timestampMatched": true,
+          "createdAtShanghai": "2026-10-25T07:12:41+08:00"
+        },
+        {
+          "url": "https://x.com/vib3coded/status/2114132746645688569",
+          "status": 200,
+          "bytes": 176853,
+          "sha256": "cb927ec49149e9abb4df804cec1db4b65f3df6fcf8e51b125bb68291d2f92b9d",
+          "contentType": "text/html",
+          "contentLength": null,
+          "postId": "2114132746645688569",
+          "kind": "full-task",
+          "authorMatched": true,
+          "parentPostId": "2114132632166347208",
+          "parentMatched": true,
+          "timestampMatched": true,
+          "createdAtShanghai": "2026-10-25T07:11:40+08:00"
+        }
+      ],
+      "previewFrameAssets": [
+        {
+          "caseId": "davey-gummy-eyeball-comparison",
+          "kind": "frame",
+          "filename": "davey-gummy-eyeball-comparison-frame-21-3s.jpg",
+          "bytes": 212727,
+          "sha256": "e04ae9f88eb8dfb5045e70d04f2fd55a4b42191e6912bbb8a6f016574d0bb57d",
+          "contentType": "image/jpeg",
+          "dimensions": [
+            1080,
+            1632
+          ],
+          "decoded": true,
+          "sourceUrl": "https://x.com/daveeyyy_/status/2114014158102397168",
+          "sourceMediaId": "2114014049918681088",
+          "sourceVideoFilename": "davey-gummy-eyeball-comparison-1-original.mp4",
+          "frameAtSeconds": 21.3,
+          "cropped": false,
+          "enhanced": false,
+          "method": "Actual full-frame extraction from highest-bitrate complete original MP4; JPEG quality 2. No retouching or video transcoding.",
+          "assetId": 676560757,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/davey-gummy-eyeball-comparison-frame-21-3s.jpg"
+        },
+        {
+          "caseId": "diego-grand-canyon-astra",
+          "kind": "frame",
+          "filename": "diego-grand-canyon-astra-frame-85-89s.jpg",
+          "bytes": 212870,
+          "sha256": "edca04501192017f70ac132f629993c5ef4709140f0cf5d26ff9741b5bd58e7c",
+          "contentType": "image/jpeg",
+          "dimensions": [
+            1948,
+            1080
+          ],
+          "decoded": true,
+          "sourceUrl": "https://x.com/diegocabezas01/status/2114033292999630853",
+          "sourceMediaId": "2114032778371112960",
+          "sourceVideoFilename": "diego-grand-canyon-astra-1-original.mp4",
+          "frameAtSeconds": 85.89,
+          "cropped": false,
+          "enhanced": false,
+          "method": "Actual full-frame extraction from highest-bitrate complete original MP4; JPEG quality 2. No retouching or video transcoding.",
+          "assetId": 676561761,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/diego-grand-canyon-astra-frame-85-89s.jpg"
+        }
+      ],
+      "excludedOrDeferred": [
+        {
+          "sourceUrl": "https://github.com/Zhou-Koyomi/RhineLab",
+          "reason": "Fork of LBEILC/RhineLabUI, already collected as lbeilc-rhine-lab; not counted twice."
+        },
+        {
+          "sourceUrl": "https://github.com/buicongnguyen/3d_astra",
+          "reason": "3D game and usable preview found, but inspected root and browser READMEs did not establish Astra creation attribution. Repository name alone is insufficient."
+        },
+        {
+          "sourceUrl": "https://github.com/sacredbanana/astralbound",
+          "reason": "Astra-like product name does not establish GPT-6 Astra attribution in the reviewed README."
+        },
+        {
+          "sourceUrl": "https://x.com/diegocabezas01/status/2114328117854519747",
+          "reason": "This later post is Opus 5.5 Max, not Astra. Followed its quoted primary Astra post 2114033292999630853 and archived only that original media."
+        },
+        {
+          "sourceUrl": "https://x.com/CDGalpha/status/2114247471815881216",
+          "reason": "Generic same-prompt statement does not establish 3D construction or detailed task."
+        },
+        {
+          "sourceUrl": "https://x.com/CodeByPoonam/status/2114013247800291671",
+          "reason": "Generic four-model comparison does not establish 3D implementation; not added on title alone."
+        },
+        {
+          "sourceUrl": "https://x.com/Kimi_Moonshot/status/2113680710150357279",
+          "reason": "Third-party Astra video list includes a Kimi K3.1 Pro modelling clip; it is not an Astra work."
+        },
+        {
+          "sourceUrl": "https://x.com/hakimieiqbal/status/2113965521301377037",
+          "reason": "Workflow and media available, but original creator versus repost attribution and relation to the removed Reddit project remain unresolved; deferred."
+        }
+      ],
+      "platformLimits": [
+        "X sources were fetched as complete original HTML and matched with exact-post auxiliary metadata; source labels are preserved.",
+        "Public Xiaohongshu search did not establish another traceable original with usable media; no login performed.",
+        "October 26 is the collection date. X original dates are October 24 and 25 in Asia/Shanghai; the Godot project first publication remains unknown.",
+        "Two dark original posters were replaced with actual uncropped frames from complete original MP4s. Release download responses use a generic binary MIME header; full JPEG decode/hash and actual browser image loading are verified separately.",
+        "No independent execution of third-party projects, anatomy/physics/geography validation or normalized cost benchmark."
+      ],
+      "historicalIncrementalSummary": {
+        "checkedImages": 40,
+        "decodedImages": 40,
+        "checkedVideoCases": 10,
+        "checkedVideoEndpoints": 20,
+        "verifiedVideoEndpoints": 20,
+        "failures": [],
+        "limits": "Historical videos were not downloaded or replayed in full. Image decode and bounded video endpoints only."
+      },
+      "completeSourceClips": 4,
+      "newMediaFiles": 8,
+      "newMediaBytes": 109187010,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-26"
     }
   ]
 }

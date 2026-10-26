@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-25 (Asia/Shanghai)** · **392 Astra examples** · **114 source / project links** · **124 demo links** · **184 complete videos** · **12 separate references**.
+Updated **2026-10-26 (Asia/Shanghai)** · **397 Astra examples** · **115 source / project links** · **125 demo links** · **188 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -44,18 +44,18 @@ Open an image for the case, materials and known limitations. This selection stay
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-25.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-26.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Website screenshots were refreshed on **October 25, 2026** from the current local production build. See the creator previews and latest additions below for this update. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Website screenshots were refreshed on **October 26, 2026** from the current local production build. See the creator previews and latest additions below for this update. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
-<summary>Gallery, mobile and case screenshots · October 25, 2026</summary>
+<summary>Gallery, mobile and case screenshots · October 26, 2026</summary>
 
-[![Gallery filters and more works](docs/media/collection-2026-10-25.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Gallery filters and more works](docs/media/collection-2026-10-26.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-10-25.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-10-26.jpg)
 
-[![Neon Overdrive — the 3D racer and source project](docs/media/case-2026-10-25.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vanshd-neon-overdrive/)
+[![Grand Canyon — a continuous flight and complete recording](docs/media/case-2026-10-26.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/diego-grand-canyon-astra/)
 
 </details>
 
@@ -63,31 +63,31 @@ Website screenshots were refreshed on **October 25, 2026** from the current loca
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The October 25 evening update adds **5 works and 4 complete X clips**: Neon Overdrive, 3D pinball, a tabletop railway, a miniature ice rink, and a Blender training dummy. Today’s two batches total **10 works and 8 clips**. This batch preserves about 98 seconds of complete original footage and smaller platform renditions, with Astra panels identified. The racer’s first one-shot and subsequent expansion are described separately. X posts date from October 22–24; the racer’s first publication remains unknown. These are collection dates.
+The October 26 update adds **5 works and 4 complete X clips**: Feira Livre, Launch Jelly, a gummy eyeball, a Grand Canyon flight, and an interactive gamepad. Materials include one public Godot project, one Astra demo, and two full-task links. About 252 seconds retain complete original and smaller platform renditions. Canyon geometry is attributed to Astra and music to Suno; the gamepad archive is the second, Astra-labelled clip. Two dark posters use source-linked actual frames with timestamps. X posts date from October 24–25; the market project publication date remains unknown. Today is their collection date.
 
 <!-- atlas:update-previews:start -->
 **This update in pictures — creator works**
 
-| Neon Overdrive · public racing project | 3D pinball · Astra below |
+| Feira Livre · public Godot project | Launch Jelly · Astra below |
 | --- | --- |
-| [<img src="https://raw.githubusercontent.com/vanshd132/Neon-Overdrive/main/docs/screenshots/gameplay-neon-downtown.png" height="220" alt="Neon Overdrive · public racing project">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vanshd-neon-overdrive/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2113846640566321152/img/d28n1eYmBF8GuM8Z.jpg" height="220" alt="3D pinball · Astra below">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/leppppp1-pinball-comparison/) |
-| Tabletop railway · Astra right | Ice rink · Astra below |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2113699658736521216/img/q8qigdvSxQI81SP0.jpg" height="220" alt="Tabletop railway · Astra right">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/aman-tabletop-railway-comparison/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2113216877405077504/img/Am0U1PwdrPWVaFr3.jpg" height="220" alt="Ice rink · Astra below">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-tiny-ice-rink-comparison/) |
-| Blender dummy · Astra lower left | Watch the complete clips |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2113320969100001280/img/BmBgBpKZj3WsKMro.jpg" height="220" alt="Blender dummy · Astra lower left">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/max-training-dummy-blender-comparison/) | [Watch the 4 additional clips](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Original files](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-25-evening) |
+| [<img src="https://raw.githubusercontent.com/henriquerochars/feira-livre-simulator/main/docs/media/atendimento.gif" height="220" alt="Feira Livre · public Godot project">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/henrique-feira-livre-simulator/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2114132448304910336/img/-AcM6oYYIvbtd9vO.jpg" height="220" alt="Launch Jelly · Astra below">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-launch-jelly-comparison/) |
+| Gummy eye · Astra above | Canyon · Astra scene / Suno music |
+| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/davey-gummy-eyeball-comparison-frame-21-3s.jpg" height="220" alt="Gummy eye · Astra above">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/davey-gummy-eyeball-comparison/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/diego-grand-canyon-astra-frame-85-89s.jpg" height="220" alt="Canyon · Astra scene / Suno music">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/diego-grand-canyon-astra/) |
+| Gamepad · second source clip, Astra | Watch the complete clips |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2113878802451292160/img/EwF8NVF-6y6_Vr8G.jpg" height="220" alt="Gamepad · second source clip, Astra">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/leo-interactive-gamepad-astra/) | [Watch the 4 new clips](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Original files](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-26) |
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [Feira Livre — A Three-minute Brazilian Street Market](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/henrique-feira-livre-simulator/) | Henrique Rocha Serrano / henriquerochars | [Source](https://github.com/henriquerochars/feira-livre-simulator) · [Original](https://github.com/henriquerochars/feira-livre-simulator) |
+| [Launch Jelly — A Spaceport Inside a Jelly Cube](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-launch-jelly-comparison/) | Vib3Coded / @vib3coded | [Demo](https://launch-jelly-vibecoded1.vercel.app/) · [Original](https://x.com/vib3coded/status/2114132632166347208) |
+| [Jelly Eyeball — Three Models Build a Soft-body Eye](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/davey-gummy-eyeball-comparison/) | Davey / @daveeyyy_ | [Original](https://x.com/daveeyyy_/status/2114014158102397168) |
+| [Grand Canyon — A Continuous Procedural Canyon Flight](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/diego-grand-canyon-astra/) | Diego \| AI 🚀 - e/acc / @diegocabezas01 | [Original](https://x.com/diegocabezas01/status/2114033292999630853) |
+| [Designed to Be Held — An Interactive 3D Gamepad](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/leo-interactive-gamepad-astra/) | Leo · Building w/ AI / @leo114119 | [Original](https://x.com/leo114119/status/2113878845426110685) |
 | [Neon Overdrive — Four Districts of Arcade Highway Racing](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vanshd-neon-overdrive/) | vanshd132 | [Source](https://github.com/vanshd132/Neon-Overdrive) · [Original](https://github.com/vanshd132/Neon-Overdrive) |
 | [Midnight Orbit — A 3D Pinball Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/leppppp1-pinball-comparison/) | 渣渣的赛博宇宙 / @leppppp1 | [Original](https://x.com/leppppp1/status/2113846772770779388) |
 | [Tabletop Railway — Two Animated Miniature Worlds](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/aman-tabletop-railway-comparison/) | Aman / @Amank1412 | [Original](https://x.com/Amank1412/status/2113699831248220177) |
-| [Pixel Ice Rink — A MiniMax and Astra Night Scene](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-tiny-ice-rink-comparison/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2113217041985401339) |
-| [Training Dummy — Blender MCP Model Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/max-training-dummy-blender-comparison/) | Max / @maxt3chno | [Original](https://x.com/maxt3chno/status/2113321027325300784) |
-| [Embryo Explorer — Sixteen Explorable Developmental Stages](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/pratikgx-embryo-explorer/) | Pratik Gandhi / pratikgx | [Demo](https://embryoexplorer.com/) · [Source](https://github.com/pratikgx/embryo-explorer) · [Original](https://github.com/pratikgx/embryo-explorer) |
-| [Pixel Airport — A Kimi and Astra Diorama Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-pixel-airport-comparison/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2113849897438834851) |
-| [Chalk Square — An After-school Backyard in Pixel Art](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-chalk-square-comparison/) | Vib3Coded / @vib3coded | [Demo](https://chalk-square.vercel.app/) · [Original](https://x.com/vib3coded/status/2113602050172785117) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

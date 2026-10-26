@@ -64824,6 +64824,1687 @@
         "responsiveOverrideReset": true,
         "limits": "Archived MP4 playback in the local production build, not independent execution of author projects. Production files are checked separately after deployment."
       }
+    },
+    {
+      "checkedAt": "2026-10-26",
+      "round": "daily",
+      "scope": "Five new cases; four complete X clips; two actual-frame preview assets; 40 historical previews and ten historical video cases at Pages/Release endpoints. Incremental checks only.",
+      "addedCaseIds": [
+        "henrique-feira-livre-simulator",
+        "vib3coded-launch-jelly-comparison",
+        "davey-gummy-eyeball-comparison",
+        "diego-grand-canyon-astra",
+        "leo-interactive-gamepad-astra"
+      ],
+      "previews": [
+        {
+          "caseId": "vib3coded-launch-jelly-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2114132448304910336/img/-AcM6oYYIvbtd9vO.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "actualImageFormat": "JPEG",
+          "genericBinaryHeader": false,
+          "contentLength": 112012,
+          "bytes": 112012,
+          "sha256": "28c438cdb9730217d8cdea964fe68377c433f66322746401661792a0d4dc4933",
+          "dimensions": [
+            948,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "fullGet": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "henrique-feira-livre-simulator",
+          "url": "https://raw.githubusercontent.com/henriquerochars/feira-livre-simulator/main/docs/media/atendimento.gif",
+          "httpStatus": 200,
+          "contentType": "image/gif",
+          "actualImageFormat": "GIF",
+          "genericBinaryHeader": false,
+          "contentLength": 1937126,
+          "bytes": 1937126,
+          "sha256": "56c1b08ab82b02856bc1d017049ae775c265f2334b3254ad60e266acad719a82",
+          "dimensions": [
+            896,
+            504
+          ],
+          "frames": 192,
+          "decoded": true,
+          "fullGet": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "diego-grand-canyon-astra",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/diego-grand-canyon-astra-frame-85-89s.jpg",
+          "httpStatus": 200,
+          "contentType": "application/octet-stream",
+          "actualImageFormat": "JPEG",
+          "genericBinaryHeader": true,
+          "contentLength": 212870,
+          "bytes": 212870,
+          "sha256": "edca04501192017f70ac132f629993c5ef4709140f0cf5d26ff9741b5bd58e7c",
+          "dimensions": [
+            1948,
+            1080
+          ],
+          "frames": 1,
+          "decoded": true,
+          "fullGet": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "davey-gummy-eyeball-comparison",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/davey-gummy-eyeball-comparison-frame-21-3s.jpg",
+          "httpStatus": 200,
+          "contentType": "application/octet-stream",
+          "actualImageFormat": "JPEG",
+          "genericBinaryHeader": true,
+          "contentLength": 212727,
+          "bytes": 212727,
+          "sha256": "e04ae9f88eb8dfb5045e70d04f2fd55a4b42191e6912bbb8a6f016574d0bb57d",
+          "dimensions": [
+            1080,
+            1632
+          ],
+          "frames": 1,
+          "decoded": true,
+          "fullGet": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "leo-interactive-gamepad-astra",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113878802451292160/img/EwF8NVF-6y6_Vr8G.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "actualImageFormat": "JPEG",
+          "genericBinaryHeader": false,
+          "contentLength": 37421,
+          "bytes": 37421,
+          "sha256": "2711d507fc500d2482f63e4708fe8cad90fd01bb789f5371dcd37422316e79a4",
+          "dimensions": [
+            1200,
+            593
+          ],
+          "frames": 1,
+          "decoded": true,
+          "fullGet": true,
+          "visuallyReviewed": true
+        }
+      ],
+      "originalPosterChecks": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2114014049918681088/img/O4BypNr-F6A6iuT_.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 26448,
+          "bytes": 26448,
+          "sha256": "c361c0747c1c8b6ed176d88ffe7e353aab795b3442b63bf75466f7b22291c766",
+          "fullGet": true,
+          "caseId": "davey-gummy-eyeball-comparison",
+          "dimensions": [
+            794,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2114132448304910336/img/-AcM6oYYIvbtd9vO.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 112012,
+          "bytes": 112012,
+          "sha256": "28c438cdb9730217d8cdea964fe68377c433f66322746401661792a0d4dc4933",
+          "fullGet": true,
+          "caseId": "vib3coded-launch-jelly-comparison",
+          "dimensions": [
+            948,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2114032778371112960/img/Ohb7HZxCZBcjFgOm.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 58392,
+          "bytes": 58392,
+          "sha256": "e1a51fbf1ff4c3c781dbd89178a66799799809d00d1c5242246ce5877e2fdb4e",
+          "fullGet": true,
+          "caseId": "diego-grand-canyon-astra",
+          "dimensions": [
+            1199,
+            665
+          ],
+          "frames": 1,
+          "decoded": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113878802451292160/img/EwF8NVF-6y6_Vr8G.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 37421,
+          "bytes": 37421,
+          "sha256": "2711d507fc500d2482f63e4708fe8cad90fd01bb789f5371dcd37422316e79a4",
+          "fullGet": true,
+          "caseId": "leo-interactive-gamepad-astra",
+          "dimensions": [
+            1200,
+            593
+          ],
+          "frames": 1,
+          "decoded": true
+        }
+      ],
+      "previewFrameAssets": [
+        {
+          "caseId": "davey-gummy-eyeball-comparison",
+          "kind": "frame",
+          "filename": "davey-gummy-eyeball-comparison-frame-21-3s.jpg",
+          "bytes": 212727,
+          "sha256": "e04ae9f88eb8dfb5045e70d04f2fd55a4b42191e6912bbb8a6f016574d0bb57d",
+          "contentType": "image/jpeg",
+          "dimensions": [
+            1080,
+            1632
+          ],
+          "decoded": true,
+          "sourceUrl": "https://x.com/daveeyyy_/status/2114014158102397168",
+          "sourceMediaId": "2114014049918681088",
+          "sourceVideoFilename": "davey-gummy-eyeball-comparison-1-original.mp4",
+          "frameAtSeconds": 21.3,
+          "cropped": false,
+          "enhanced": false,
+          "method": "Actual full-frame extraction from highest-bitrate complete original MP4; JPEG quality 2. No retouching or video transcoding.",
+          "assetId": 676560757,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/davey-gummy-eyeball-comparison-frame-21-3s.jpg"
+        },
+        {
+          "caseId": "diego-grand-canyon-astra",
+          "kind": "frame",
+          "filename": "diego-grand-canyon-astra-frame-85-89s.jpg",
+          "bytes": 212870,
+          "sha256": "edca04501192017f70ac132f629993c5ef4709140f0cf5d26ff9741b5bd58e7c",
+          "contentType": "image/jpeg",
+          "dimensions": [
+            1948,
+            1080
+          ],
+          "decoded": true,
+          "sourceUrl": "https://x.com/diegocabezas01/status/2114033292999630853",
+          "sourceMediaId": "2114032778371112960",
+          "sourceVideoFilename": "diego-grand-canyon-astra-1-original.mp4",
+          "frameAtSeconds": 85.89,
+          "cropped": false,
+          "enhanced": false,
+          "method": "Actual full-frame extraction from highest-bitrate complete original MP4; JPEG quality 2. No retouching or video transcoding.",
+          "assetId": 676561761,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/diego-grand-canyon-astra-frame-85-89s.jpg"
+        }
+      ],
+      "newVideos": [
+        {
+          "caseId": "davey-gummy-eyeball-comparison",
+          "filename": "davey-gummy-eyeball-comparison-1-original.mp4",
+          "kind": "original",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "bytes": 9421011,
+          "sha256": "a9c9f06a03c978d3c92ab4b07062e2d9262e0d028a1aa98d505e57ce7b672ee2",
+          "durationSeconds": 42.6,
+          "sourceDurationSeconds": 42.6,
+          "complete": true,
+          "transcoded": false,
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/davey-gummy-eyeball-comparison-1-original.mp4",
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "davey-gummy-eyeball-comparison",
+          "filename": "davey-gummy-eyeball-comparison-1-web.mp4",
+          "kind": "web",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "bytes": 1591197,
+          "sha256": "b2bcacb51ef9593c061f73116d7d062606014815cf6cec9965dd37a37120e4e2",
+          "durationSeconds": 42.6,
+          "sourceDurationSeconds": 42.6,
+          "complete": true,
+          "transcoded": false,
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/davey-gummy-eyeball-comparison-1-web.mp4",
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "diego-grand-canyon-astra",
+          "filename": "diego-grand-canyon-astra-1-original.mp4",
+          "kind": "original",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "bytes": 72721867,
+          "sha256": "382beaf82864e03fa18a3c9cd1cc823136df6f8a15dcff0acc35726bc4817de8",
+          "durationSeconds": 171.78,
+          "sourceDurationSeconds": 171.734,
+          "complete": true,
+          "transcoded": false,
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/diego-grand-canyon-astra-1-original.mp4",
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "diego-grand-canyon-astra",
+          "filename": "diego-grand-canyon-astra-1-web.mp4",
+          "kind": "web",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "bytes": 5328648,
+          "sha256": "3370eeaaa165646fc223a440e3badc0f7e925df058773043c099f6f756f576ae",
+          "durationSeconds": 171.78,
+          "sourceDurationSeconds": 171.734,
+          "complete": true,
+          "transcoded": false,
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/diego-grand-canyon-astra-1-web.mp4",
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "leo-interactive-gamepad-astra",
+          "filename": "leo-interactive-gamepad-astra-1-original.mp4",
+          "kind": "original",
+          "sourceMediaIndex": 2,
+          "sourceVideoCount": 2,
+          "bytes": 1380274,
+          "sha256": "bec82b7a46fb8cd5a9d686f08a7dd0450230f45eb1bcb8e29267b42ee3408cb7",
+          "durationSeconds": 20.1,
+          "sourceDurationSeconds": 20.1,
+          "complete": true,
+          "transcoded": false,
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/leo-interactive-gamepad-astra-1-original.mp4",
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "leo-interactive-gamepad-astra",
+          "filename": "leo-interactive-gamepad-astra-1-web.mp4",
+          "kind": "web",
+          "sourceMediaIndex": 2,
+          "sourceVideoCount": 2,
+          "bytes": 413764,
+          "sha256": "9f9571348149f47719bd139f42156df8bd961f8d83e1b9285411e3d4a7ade819",
+          "durationSeconds": 20.1,
+          "sourceDurationSeconds": 20.1,
+          "complete": true,
+          "transcoded": false,
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/leo-interactive-gamepad-astra-1-web.mp4",
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "vib3coded-launch-jelly-comparison",
+          "filename": "vib3coded-launch-jelly-comparison-1-original.mp4",
+          "kind": "original",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "bytes": 16879219,
+          "sha256": "367c1cdccfea32c5fdbffc71c9d62522f631104f5b8cb1b7d01e24788445c3c4",
+          "durationSeconds": 18.05,
+          "sourceDurationSeconds": 18,
+          "complete": true,
+          "transcoded": false,
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/vib3coded-launch-jelly-comparison-1-original.mp4",
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "vib3coded-launch-jelly-comparison",
+          "filename": "vib3coded-launch-jelly-comparison-1-web.mp4",
+          "kind": "web",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "bytes": 1451030,
+          "sha256": "0d0c520d47e67d3b6a0e5f37b2b892e98168f6b94d37b006cd522e201cde31e6",
+          "durationSeconds": 18.05,
+          "sourceDurationSeconds": 18,
+          "complete": true,
+          "transcoded": false,
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/vib3coded-launch-jelly-comparison-1-web.mp4",
+          "releaseDigestMatched": true
+        }
+      ],
+      "historicalChecks": [
+        {
+          "caseId": "vanshd-neon-overdrive",
+          "url": "https://raw.githubusercontent.com/vanshd132/Neon-Overdrive/main/docs/screenshots/gameplay-neon-downtown.png",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:15.665999+00:00",
+          "status": 200,
+          "contentType": "image/png",
+          "contentLength": 269841,
+          "bytes": 269841,
+          "sha256": "411417c40ce2fd5bd52d90d9fd6886edb4ad065d7764c62b43e8a19385b4dafb",
+          "dimensions": [
+            1600,
+            900
+          ],
+          "format": "PNG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "leppppp1-pinball-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113846640566321152/img/d28n1eYmBF8GuM8Z.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:15.666598+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 72028,
+          "bytes": 72028,
+          "sha256": "35ae6fbfb47370853423eb403103b5a253bf345a3653254868ccc26a1fead35d",
+          "dimensions": [
+            900,
+            1200
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "aman-tabletop-railway-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113699658736521216/img/q8qigdvSxQI81SP0.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:15.666922+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 111323,
+          "bytes": 111323,
+          "sha256": "add3b6a67c66a780708f8e2b468569d14700d01e142be260c30668253bba346b",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "vib3coded-tiny-ice-rink-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113216877405077504/img/Am0U1PwdrPWVaFr3.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:15.667203+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 120652,
+          "bytes": 120652,
+          "sha256": "e5cf7988036ce7aec29aef8cdb9bbd49890d3e961321db53f41b7c46949a6bd8",
+          "dimensions": [
+            960,
+            1200
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "max-training-dummy-blender-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113320969100001280/img/BmBgBpKZj3WsKMro.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:15.667586+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 124961,
+          "bytes": 124961,
+          "sha256": "45bfb8696293be7c212f69c0b6bd3157abd43f788fa548d3132dd42d12574f65",
+          "dimensions": [
+            1199,
+            639
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "pratikgx-embryo-explorer",
+          "url": "https://raw.githubusercontent.com/pratikgx/embryo-explorer/main/media/preview.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:17.044166+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 87840,
+          "bytes": 87840,
+          "sha256": "3fdf1db9fff478919fcda7b6fb31dd0d02924051ff02df3386f6cde2f93c7c4a",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "vib3coded-pixel-airport-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113849838198530049/img/A2Ghi6Tg83UwCohp.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:17.083970+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 180482,
+          "bytes": 180482,
+          "sha256": "d20625221a95dbe46cbc5200bf35b1a8b8568b8048e9e4a85de555f926048fe9",
+          "dimensions": [
+            883,
+            1200
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "vib3coded-chalk-square-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113601799215108097/img/NlxhpC135VtcLGkI.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:17.105492+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 111631,
+          "bytes": 111631,
+          "sha256": "2c807caf73920fff28ce7ba56647853f52db15276311b85ec6e88d7f29f8bda9",
+          "dimensions": [
+            948,
+            1200
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "vib3coded-offshore-jelly-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113400858335444992/img/K2JtNt1iQCzxZiP_.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:17.129066+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 98757,
+          "bytes": 98757,
+          "sha256": "10661ee4af2d84c6a60b4d7c0e27c2d52c7d8d32d07b8aebfb086fa3a4e5188d",
+          "dimensions": [
+            948,
+            1200
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "ann-margarita-sloshing-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110232579509227520/img/w2c0R7ECo4TZYO6-.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:17.520820+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 66387,
+          "bytes": 66387,
+          "sha256": "d2ed84712e9e556effd60292c27b8426ec3032503a37c4321b8e9c6d218ebed5",
+          "dimensions": [
+            960,
+            1200
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "chongdashu-retro-del-sol",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113089437748035584/img/Ppb3v7Rd_47sDHCq.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:18.427781+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 255055,
+          "bytes": 255055,
+          "sha256": "d6bcad6d5e523edd5d1962a372fd217149002396164468e7298ffe4b80385b9c",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "screening-threejs-carbon-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113183443815436288/img/tQvV-jgsCeNdHMrw.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:18.533241+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 137548,
+          "bytes": 137548,
+          "sha256": "c544194acfa2b89326f2ea2441d48f27b20dae83c93e22e9b105e61622f1f886",
+          "dimensions": [
+            909,
+            1199
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "kenny-jelly-canal-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2112605564920283137/img/iFwg9BXGHxnROEq7.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:18.553586+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 96737,
+          "bytes": 96737,
+          "sha256": "d1cf2494dfc377634c99ca180045ac6d93339d50ae80fc24ed74c8a5e37dc3c8",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "rhinox-jelly-skeleton-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2112222998845341696/img/9EsfX837sz-QO-zX.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:18.633205+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 112134,
+          "bytes": 112134,
+          "sha256": "75675107ed93a713e26e202638baf3cbf175f91285cb65c73edb8050e91341f7",
+          "dimensions": [
+            1200,
+            671
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "wyltek-ckb-block-visualiser",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2109519955758845953/img/KuouEE1WMukiowq_.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:18.812282+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 112166,
+          "bytes": 112166,
+          "sha256": "014d1eaeea3c70120515a7850d03ef0c97eac51d46ac7c17026afc1922d7edec",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "tactical-storm-in-a-bottle",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2112184518857641984/img/nqFjCvnFJVYPMVq4.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:19.922857+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 93609,
+          "bytes": 93609,
+          "sha256": "0992d3d29a102ad7cff233d80f5928e79615584ab1698442e1df244a1be3efa0",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "ananth-threejs-paludarium",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-22/ananth-threejs-paludarium-frame-25-6s.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:19.930951+00:00",
+          "status": 200,
+          "contentType": "application/octet-stream",
+          "contentLength": 305272,
+          "bytes": 305272,
+          "sha256": "1cb8afbb57e0147c2d49aac21d80a2f7a415d64f61bc8271e21853e4ca79b468",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "tactical-blender-crossbow",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2109722405253824512/img/zZT1MM_WrS29en9a.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:19.987707+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 52155,
+          "bytes": 52155,
+          "sha256": "08298ca1a567cfe23de11b474571e4bcc5387333401cc21cd3d2f6e6e645911d",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "tactical-minecraft-floating-island",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2109750252810969088/img/0ZpAqD0RTSdnIoZB.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:20.042330+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 131323,
+          "bytes": 131323,
+          "sha256": "cdba9d05020ad638a4c226537168008c50b168655ee3c395d6264e006e57406f",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "vib3coded-jelly-avocado-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2112128465856086016/img/KK-qkssOLG_cTaB_.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:20.353405+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 60683,
+          "bytes": 60683,
+          "sha256": "e5e81af98cda00182af73ae1e0579248711e38d0ba8498422b1d023f6d6d1206",
+          "dimensions": [
+            948,
+            1200
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "citaborg-gps-threejs-story",
+          "url": "https://www.bredland.no/gps/img/astra-2-3d.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:21.078513+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 87217,
+          "bytes": 87217,
+          "sha256": "9ca45541cf86c4d23c839ed3fa92d9922c64d1b94d945512f1facda8f1fc3956",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "umutseve4-luna-park",
+          "url": "https://raw.githubusercontent.com/umutseve4/astra-lunapark/main/docs/preview.png",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:21.309286+00:00",
+          "status": 200,
+          "contentType": "image/png",
+          "contentLength": 788233,
+          "bytes": 788233,
+          "sha256": "4b5396f9f99237662a5443436480514dbbdf01f38f2e078ca939aa65277d76c2",
+          "dimensions": [
+            1440,
+            1000
+          ],
+          "format": "PNG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "michaelcrosato-meridian-wake",
+          "url": "https://raw.githubusercontent.com/michaelcrosato/meridian-wake-g6a/main/docs/images/title.webp",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:21.409405+00:00",
+          "status": 200,
+          "contentType": "image/webp",
+          "contentLength": 60474,
+          "bytes": 60474,
+          "sha256": "67a99d9cefbffd7d486746a57e5f3aee173bd32f305676bae531811b8b177aa9",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "format": "WEBP",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "onemorevision-sketchup-local-mcp-interior",
+          "url": "https://assets.st-note.com/img/1792021117-QzB2f0W1GuM9JNwyXbE8FdtA.png?width=1200",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:21.576424+00:00",
+          "status": 200,
+          "contentType": "image/png",
+          "contentLength": 179401,
+          "bytes": 179401,
+          "sha256": "8f6d937d16b7b1d4c960b02b444c9e7b3a34f15767e06ebb2681d91ddc1cd1ad",
+          "dimensions": [
+            1200,
+            754
+          ],
+          "format": "PNG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "rhinox-interactive-ghost-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2111879105046093824/img/mvwjyp1Gnanu2_nv.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:22.838968+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 79294,
+          "bytes": 79294,
+          "sha256": "b60b65743f55a96e309e70c91a836d898bd7e235cf6b196b149282ab4d766afb",
+          "dimensions": [
+            1200,
+            650
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "vib3coded-marine-lagoon-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2111888414630940673/img/bYsC1uWWBuFNH09f.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:22.914499+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 156811,
+          "bytes": 156811,
+          "sha256": "8e5bf8ca8b31477b62829623a860813ddff6602806a974765c21df4bd5944d0b",
+          "dimensions": [
+            1199,
+            759
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "agentsky-steampunk-clock-tower",
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2112137744931831808/pu/img/apBGUgWwwhBDvpd9.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:23.260163+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 45313,
+          "bytes": 45313,
+          "sha256": "808aee55eda00c6e97663d5af667bc2e7d186cffa4a08e6b2b80692e579b76f9",
+          "dimensions": [
+            720,
+            720
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "harry-koi-pond-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2111817451415719937/img/xwNsTTgf7_II2x1D.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:23.306693+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 131198,
+          "bytes": 131198,
+          "sha256": "e4e7df34ede661a5265b6197b50151548e235aa852f375ad1af8c25b80141059",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "lkuczborski-astra-gallery",
+          "url": "https://raw.githubusercontent.com/lkuczborski/AstraGallery/main/documentation/images/hall-of-fame.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:23.736829+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 67641,
+          "bytes": 67641,
+          "sha256": "071513cf9eef9950820bf61db6052a35104c8b036487dc2f1c21f7fcbc207326",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "dylan-apartment-daylight-tour",
+          "url": "https://raw.githubusercontent.com/dylanxzthomas/apartment-virtual-tour/main/public/preview.png",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:24.104967+00:00",
+          "status": 200,
+          "contentType": "image/png",
+          "contentLength": 1235221,
+          "bytes": 1235221,
+          "sha256": "d42d7241d0bb859a01094586f8d99c59829874d0798f47351a840e606138395a",
+          "dimensions": [
+            1120,
+            840
+          ],
+          "format": "PNG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "eymndev-klein-bottle-blender",
+          "url": "https://github.com/user-attachments/assets/1163449d-0d1b-45ec-9843-dc5f83e61452",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:24.457199+00:00",
+          "status": 200,
+          "contentType": "image/png",
+          "contentLength": 1933690,
+          "bytes": 1933690,
+          "sha256": "c82949a7455672e0f34ba1d857e855e4e306535a115aa596dabdcd8ad115bb94",
+          "dimensions": [
+            1300,
+            1300
+          ],
+          "format": "PNG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "sfp-fukui-dino-professor",
+          "url": "https://assets.st-note.com/img/1791818996-wqC3VrRKlu0tTF8zpDEgcjPx.png?width=1200",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:24.506545+00:00",
+          "status": 200,
+          "contentType": "image/png",
+          "contentLength": 144240,
+          "bytes": 144240,
+          "sha256": "3b23a2cafd9c56f2e1e6cc0652c0cd0de63d197ef982b26c2b32c9067832ecf6",
+          "dimensions": [
+            1200,
+            780
+          ],
+          "format": "PNG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "sushi-shion-face-rig",
+          "url": "https://assets.st-note.com/production/uploads/images/313252282/picture_pc_60a43558d1965c04aa0af87f11ca6600.gif?width=1200",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:24.761395+00:00",
+          "status": 200,
+          "contentType": "image/gif",
+          "contentLength": 3602003,
+          "bytes": 3602003,
+          "sha256": "1a7f13f05b3c6cc62ab4c46ca1e07606feccf8e9d66b615e8c9448fdf8f810ad",
+          "dimensions": [
+            800,
+            457
+          ],
+          "format": "GIF",
+          "frames": 30,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "meshy-furniture-catalog",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2101682626784571392/img/TyD5PSg5-jkCWjSx.jpg?format=jpg&name=orig",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:25.076035+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 117351,
+          "bytes": 117351,
+          "sha256": "214dc4438c9d85f4ca00f752f7c4ce85c001d70dd197ecbfac9c8d915ca644c2",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "keane-melon-jelly",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2104504130563899392/img/de4kRQ4IXZs7Osqh.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:26.513664+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 69570,
+          "bytes": 69570,
+          "sha256": "7015c2366a4616d748f037c705cb225be63bbcd6b60a72ad53bd825a0b4cad75",
+          "dimensions": [
+            1067,
+            1200
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "msd-dead-end",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2099851484175466496/img/J4g8YkopypoCM-rv.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:26.816682+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 100710,
+          "bytes": 100710,
+          "sha256": "678f81ed79dc0e218f584486c64a5e8c14977899a59dd392812d0c42c2c19a8d",
+          "dimensions": [
+            1200,
+            913
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "sayan-genesis-atlas",
+          "url": "https://raw.githubusercontent.com/sayanpersonal123/AI-learning/main/og.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:27.942872+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 67124,
+          "bytes": 67124,
+          "sha256": "ae38c46b6b774f2f2373d4b5833a8be22bc67933dff427b6deb4889eb460fe60",
+          "dimensions": [
+            1200,
+            630
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "wengsiong-asteria",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096941837160509440/img/M7XW_FFqqtoslpUW.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:28.323168+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 44893,
+          "bytes": 44893,
+          "sha256": "d9ef3d906f48f4166505228c793564d097be6e39a77fa6fe5b9b34c4613dc275",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "ruofeng-orbital-core",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096549512995368961/img/kyuKVBrCE5i7fHA8.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:28.667641+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 61209,
+          "bytes": 61209,
+          "sha256": "9ed923c731859cbe3c32ce17184f8e98b106d33f488925cc5d077c46a9312b8e",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "aibattle-sonic-godot",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095992908448944130/img/v8BSAp4Xt5knPeV0.jpg",
+          "method": "complete HTTP GET and full Pillow decode",
+          "checkedAt": "2026-10-26T00:44:29.106992+00:00",
+          "status": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 156398,
+          "bytes": 156398,
+          "sha256": "98895f9ea13b5768341dde1695a82687f878f44f3ecd3dca38a5487483ed8f59",
+          "dimensions": [
+            900,
+            1200
+          ],
+          "format": "JPEG",
+          "frames": 1,
+          "decoded": true,
+          "attempt": 1,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "leppppp1-pinball-comparison",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/leppppp1-pinball-comparison-1-web.mp4",
+          "expectedBytes": 402439,
+          "endpointKind": "Pages playback",
+          "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+          "checkedAt": "2026-10-26T00:44:33.508452+00:00",
+          "status": 206,
+          "contentType": "video/mp4",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/402439",
+          "bytesRead": 4096,
+          "manifestLengthMatched": true,
+          "attempt": 1,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "leppppp1-pinball-comparison",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-25-evening/leppppp1-pinball-comparison-1-original.mp4",
+          "expectedBytes": 2569554,
+          "endpointKind": "Release original",
+          "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+          "checkedAt": "2026-10-26T00:44:33.508569+00:00",
+          "status": 206,
+          "contentType": "application/octet-stream",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/2569554",
+          "bytesRead": 4096,
+          "manifestLengthMatched": true,
+          "attempt": 1,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "aman-tabletop-railway-comparison",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/aman-tabletop-railway-comparison-1-web.mp4",
+          "expectedBytes": 986392,
+          "endpointKind": "Pages playback",
+          "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+          "checkedAt": "2026-10-26T00:44:33.508654+00:00",
+          "status": 206,
+          "contentType": "video/mp4",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/986392",
+          "bytesRead": 4096,
+          "manifestLengthMatched": true,
+          "attempt": 1,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "aman-tabletop-railway-comparison",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-25-evening/aman-tabletop-railway-comparison-1-original.mp4",
+          "expectedBytes": 14513014,
+          "endpointKind": "Release original",
+          "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+          "checkedAt": "2026-10-26T00:44:33.508715+00:00",
+          "status": 206,
+          "contentType": "application/octet-stream",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/14513014",
+          "bytesRead": 4096,
+          "manifestLengthMatched": true,
+          "attempt": 1,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "vib3coded-tiny-ice-rink-comparison",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-tiny-ice-rink-comparison-1-web.mp4",
+          "expectedBytes": 1649087,
+          "endpointKind": "Pages playback",
+          "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+          "checkedAt": "2026-10-26T00:44:33.508786+00:00",
+          "status": 206,
+          "contentType": "video/mp4",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/1649087",
+          "bytesRead": 4096,
+          "manifestLengthMatched": true,
+          "attempt": 1,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "vib3coded-tiny-ice-rink-comparison",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-25-evening/vib3coded-tiny-ice-rink-comparison-1-original.mp4",
+          "expectedBytes": 12328773,
+          "endpointKind": "Release original",
+          "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+          "checkedAt": "2026-10-26T00:44:34.570674+00:00",
+          "status": 206,
+          "contentType": "application/octet-stream",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/12328773",
+          "bytesRead": 4096,
+          "manifestLengthMatched": true,
+          "attempt": 1,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "max-training-dummy-blender-comparison",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/max-training-dummy-blender-comparison-1-web.mp4",
+          "expectedBytes": 896134,
+          "endpointKind": "Pages playback",
+          "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+          "checkedAt": "2026-10-26T00:44:34.618160+00:00",
+          "status": 206,
+          "contentType": "video/mp4",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/896134",
+          "bytesRead": 4096,
+          "manifestLengthMatched": true,
+          "attempt": 1,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "max-training-dummy-blender-comparison",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-25-evening/max-training-dummy-blender-comparison-1-original.mp4",
+          "expectedBytes": 8189773,
+          "endpointKind": "Release original",
+          "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+          "checkedAt": "2026-10-26T00:44:34.618911+00:00",
+          "status": 206,
+          "contentType": "application/octet-stream",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/8189773",
+          "bytesRead": 4096,
+          "manifestLengthMatched": true,
+          "attempt": 1,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "vib3coded-pixel-airport-comparison",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-pixel-airport-comparison-1-web.mp4",
+          "expectedBytes": 1413070,
+          "endpointKind": "Pages playback",
+          "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+          "checkedAt": "2026-10-26T00:44:35.825314+00:00",
+          "status": 206,
+          "contentType": "video/mp4",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/1413070",
+          "bytesRead": 4096,
+          "manifestLengthMatched": true,
+          "attempt": 1,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "vib3coded-pixel-airport-comparison",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-25/vib3coded-pixel-airport-comparison-1-original.mp4",
+          "expectedBytes": 15698939,
+          "endpointKind": "Release original",
+          "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+          "checkedAt": "2026-10-26T00:44:36.233107+00:00",
+          "status": 206,
+          "contentType": "application/octet-stream",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/15698939",
+          "bytesRead": 4096,
+          "manifestLengthMatched": true,
+          "attempt": 1,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "vib3coded-chalk-square-comparison",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-chalk-square-comparison-1-web.mp4",
+          "expectedBytes": 1089071,
+          "endpointKind": "Pages playback",
+          "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+          "checkedAt": "2026-10-26T00:44:36.726447+00:00",
+          "status": 206,
+          "contentType": "video/mp4",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/1089071",
+          "bytesRead": 4096,
+          "manifestLengthMatched": true,
+          "attempt": 1,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "vib3coded-chalk-square-comparison",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-25/vib3coded-chalk-square-comparison-1-original.mp4",
+          "expectedBytes": 9825219,
+          "endpointKind": "Release original",
+          "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+          "checkedAt": "2026-10-26T00:44:37.160824+00:00",
+          "status": 206,
+          "contentType": "application/octet-stream",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/9825219",
+          "bytesRead": 4096,
+          "manifestLengthMatched": true,
+          "attempt": 1,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "congle-goblin-walk-comparison",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/congle-goblin-walk-comparison-1-web.mp4",
+          "expectedBytes": 200168,
+          "endpointKind": "Pages playback",
+          "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+          "checkedAt": "2026-10-26T00:44:37.705108+00:00",
+          "status": 206,
+          "contentType": "video/mp4",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/200168",
+          "bytesRead": 4096,
+          "manifestLengthMatched": true,
+          "attempt": 1,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "congle-goblin-walk-comparison",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-12/congle-goblin-walk-comparison-1-original.mp4",
+          "expectedBytes": 298804,
+          "endpointKind": "Release original",
+          "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+          "checkedAt": "2026-10-26T00:44:38.575232+00:00",
+          "status": 206,
+          "contentType": "application/octet-stream",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/298804",
+          "bytesRead": 4096,
+          "manifestLengthMatched": true,
+          "attempt": 1,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "vib3-koi-pond",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3-koi-pond-1-web.mp4",
+          "expectedBytes": 7752147,
+          "endpointKind": "Pages playback",
+          "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+          "checkedAt": "2026-10-26T00:44:38.818281+00:00",
+          "status": 206,
+          "contentType": "video/mp4",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/7752147",
+          "bytesRead": 4096,
+          "manifestLengthMatched": true,
+          "attempt": 1,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "vib3-koi-pond",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-14/vib3-koi-pond-1-original.mp4",
+          "expectedBytes": 84662545,
+          "endpointKind": "Release original",
+          "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+          "checkedAt": "2026-10-26T00:44:39.292664+00:00",
+          "status": 206,
+          "contentType": "application/octet-stream",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/84662545",
+          "bytesRead": 4096,
+          "manifestLengthMatched": true,
+          "attempt": 1,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "chen-hangzhou",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/chen-hangzhou-1-web.mp4",
+          "expectedBytes": 5727002,
+          "endpointKind": "Pages playback",
+          "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+          "checkedAt": "2026-10-26T00:44:40.212640+00:00",
+          "status": 206,
+          "contentType": "video/mp4",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/5727002",
+          "bytesRead": 4096,
+          "manifestLengthMatched": true,
+          "attempt": 1,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "chen-hangzhou",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-10/chen-hangzhou-1-original.mp4",
+          "expectedBytes": 17081555,
+          "endpointKind": "Release original",
+          "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+          "checkedAt": "2026-10-26T00:44:40.608084+00:00",
+          "errors": [
+            "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>"
+          ],
+          "status": 206,
+          "contentType": "application/octet-stream",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/17081555",
+          "bytesRead": 4096,
+          "manifestLengthMatched": true,
+          "attempt": 2,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "aibattle-sonic-godot",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/aibattle-sonic-godot-1-web.mp4",
+          "expectedBytes": 8289737,
+          "endpointKind": "Pages playback",
+          "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+          "checkedAt": "2026-10-26T00:44:41.339106+00:00",
+          "status": 206,
+          "contentType": "video/mp4",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/8289737",
+          "bytesRead": 4096,
+          "manifestLengthMatched": true,
+          "attempt": 1,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "aibattle-sonic-godot",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-06/aibattle-sonic-godot-1-original.mp4",
+          "expectedBytes": 26328880,
+          "endpointKind": "Release original",
+          "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+          "checkedAt": "2026-10-26T00:44:41.544506+00:00",
+          "status": 206,
+          "contentType": "application/octet-stream",
+          "contentLength": "4096",
+          "contentRange": "bytes 0-4095/26328880",
+          "bytesRead": 4096,
+          "manifestLengthMatched": true,
+          "attempt": 1,
+          "result": "mp4-endpoint-verified"
+        }
+      ],
+      "historicalConclusion": {
+        "checkedImages": 40,
+        "decodedImages": 40,
+        "checkedVideoCases": 10,
+        "checkedVideoEndpoints": 20,
+        "verifiedVideoEndpoints": 20,
+        "failures": [],
+        "limits": "Historical videos were not downloaded or replayed in full. Image decode and bounded video endpoints only."
+      },
+      "removedCaseIds": [],
+      "browserVerification": {
+        "status": "verified-local-production",
+        "date": "2026-10-26",
+        "browser": "ChatGPT in-app browser",
+        "build": "ordinary production build with 409 cases",
+        "checks": [
+          {
+            "page": "desktop-home",
+            "clientWidth": 1425,
+            "height": 1100,
+            "scrollWidth": 1425,
+            "title": "GPT-6 Astra 3D Examples — 397 Blender & Three.js 案例 | Astra 3D Atlas",
+            "visibleImages": [
+              {
+                "alt": "原作者发布的作品媒体；归属与限制见来源。",
+                "complete": true,
+                "width": 1000
+              },
+              {
+                "alt": "X 原帖视频封面。附完整视频，时长与对应原帖媒体清单核对，最高码率版本可下载。",
+                "complete": true,
+                "width": 1200
+              },
+              {
+                "alt": "X 原帖视频封面。下方为完整视频，时长已与该帖媒体清单核对；最高画质可下载。",
+                "complete": true,
+                "width": 1200
+              },
+              {
+                "alt": "X 原帖视频封面。附完整视频，时长与对应原帖媒体清单核对，最高码率版本可下载。",
+                "complete": true,
+                "width": 1200
+              },
+              {
+                "alt": "作者 revision02 工厂总览实拍，包含实际厂区模型和查看控件。",
+                "complete": true,
+                "width": 2048
+              },
+              {
+                "alt": "作者最新 Three.js 版本的金门大桥吊装实际截图；合集还包括巴黎热气球等四个场景。",
+                "complete": true,
+                "width": 1600
+              }
+            ],
+            "width": 1440
+          },
+          {
+            "page": "desktop-collection",
+            "clientWidth": 1425,
+            "collectionTop": 29.5,
+            "height": 1100,
+            "scrollWidth": 1425,
+            "url": "http://127.0.0.1:4319/?order=newest#collection",
+            "visibleImages": [
+              {
+                "alt": "Feira Livre：三分钟的巴西水果集市",
+                "complete": true,
+                "width": 896
+              },
+              {
+                "alt": "Launch Jelly：果冻海块中的火箭太空港",
+                "complete": true,
+                "width": 948
+              },
+              {
+                "alt": "Jelly Eyeball：可以戳动和拉伸的软体眼球",
+                "complete": true,
+                "width": 1080
+              },
+              {
+                "alt": "Grand Canyon：纯代码峡谷的连续飞行",
+                "complete": true,
+                "width": 1948
+              },
+              {
+                "alt": "掌控每一面：照片重建的三维手柄",
+                "complete": true,
+                "width": 1200
+              },
+              {
+                "alt": "Neon Overdrive：霓虹公路赛车与四片街区",
+                "complete": true,
+                "width": 1600
+              }
+            ],
+            "width": 1440
+          },
+          {
+            "page": "english-search",
+            "search": "Grand Canyon",
+            "titles": [
+              "Grand Canyon — A Continuous Procedural Canyon Flight"
+            ],
+            "url": "http://127.0.0.1:4319/?q=Grand+Canyon&order=newest&lang=en#top"
+          },
+          {
+            "page": "clear-filters",
+            "search": "",
+            "shown": 36,
+            "url": "http://127.0.0.1:4319/?order=newest&lang=en#top"
+          },
+          {
+            "page": "mobile-home",
+            "clientWidth": 375,
+            "height": 844,
+            "scrollWidth": 375,
+            "title": "GPT-6 Astra 3D Examples — 397 Blender & Three.js 案例 | Astra 3D Atlas",
+            "top": 0,
+            "url": "http://127.0.0.1:4319/",
+            "width": 390
+          },
+          {
+            "page": "mobile-collection",
+            "clientWidth": 375,
+            "collectionTop": 30.03125,
+            "height": 844,
+            "scrollWidth": 375,
+            "url": "http://127.0.0.1:4319/?order=newest#collection",
+            "visibleImages": [
+              {
+                "alt": "Feira Livre：三分钟的巴西水果集市",
+                "complete": true,
+                "width": 896
+              }
+            ],
+            "width": 390
+          },
+          {
+            "page": "new-case-detail",
+            "clientWidth": 1425,
+            "height": 1100,
+            "scrollWidth": 1425,
+            "title": "Grand Canyon：纯代码峡谷的连续飞行 · Astra 3D Atlas",
+            "url": "http://127.0.0.1:4319/cases/diego-grand-canyon-astra/",
+            "visibleImages": [
+              {
+                "alt": "本库截自作者完整原版录像85.89秒，保留整帧和GPT-6 Astra Ultra标签，无裁剪或修饰；替换带加载遮罩的原封面。",
+                "complete": true,
+                "width": 1948
+              }
+            ],
+            "width": 1440
+          }
+        ],
+        "playback": [
+          {
+            "caseId": "diego-grand-canyon-astra",
+            "label": "Grand Canyon：纯代码峡谷的连续飞行 — 完整视频 1",
+            "currentTime": 171.781224,
+            "duration": 171.781224,
+            "ended": true,
+            "error": null,
+            "readyState": 4
+          },
+          {
+            "caseId": "davey-gummy-eyeball-comparison",
+            "label": "Jelly Eyeball：可以戳动和拉伸的软体眼球 — 完整视频 1",
+            "currentTime": 42.6,
+            "duration": 42.6,
+            "ended": true,
+            "error": null,
+            "readyState": 4
+          },
+          {
+            "caseId": "leo-interactive-gamepad-astra",
+            "label": "掌控每一面：照片重建的三维手柄 — 完整视频 1",
+            "currentTime": 20.1,
+            "duration": 20.1,
+            "ended": true,
+            "error": null,
+            "readyState": 4
+          },
+          {
+            "caseId": "vib3coded-launch-jelly-comparison",
+            "label": "Launch Jelly：果冻海块中的火箭太空港 — 完整视频 1",
+            "currentTime": 18.048,
+            "duration": 18.048,
+            "ended": true,
+            "error": null,
+            "readyState": 4
+          }
+        ],
+        "consoleErrors": 0,
+        "consoleWarnings": 0,
+        "responsiveOverrideReset": true,
+        "limits": "Actual full native playback in the local production build, not independent execution of author projects. Online files are verified separately after deployment."
+      }
     }
   ]
 }
