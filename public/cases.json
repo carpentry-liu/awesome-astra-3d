@@ -1,5 +1,259 @@
 [
   {
+    "group": "astra",
+    "observedAt": "2026-10-27",
+    "addedAt": "2026-10-27",
+    "secondaryPublishedAt": null,
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "promptExcerpt": null,
+    "id": "kosti-shenzhen-night-market",
+    "title": "深圳雨夜市集：Three.js 到 Blender 的同一座小城",
+    "titleEn": "Shenzhen Night Market — One Diorama in Three.js and Blender",
+    "category": "Blender 建模",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "KostiKoNeuro / Skyline",
+    "sourceUrl": "https://github.com/KostiKoNeuro/kimi-vs-astra",
+    "sourceDate": null,
+    "modelLabel": "GPT-6 Astra（网页与 Blender 场景；Skyline 执行） / Kimi K3.1 Pro（独立对照）",
+    "evidenceNote": "作者仓库明确记录同题使用Astra和Kimi；其中Astra夜市及Blender由Skyline在自己的账户执行。作者称无该两次Astra会话日志，成本为估算，项目声明与效果不等于本站独立复现。",
+    "sourceAccess": "非fork作者仓库README与完整任务GET200，README Git blob SHA与连接器一致。Astra英雄图与网页/Blender对照图全量GET并解码、目视检查；作者10秒1080p录像完整GET 14,045,574字节、严格FFmpeg全长解码exit0。Astra网页入口GET200，未独立运行Blender工程或核查全部动画。",
+    "summary": "雨后的体素夜市，从Three.js浏览器场景转为可编辑Blender场景：霓虹、摊位、行人与湿地反光共同构成一座微缩深圳。作者公开两个模型的对照，本站封面和链接指向Astra版本。",
+    "outputType": [
+      "Three.js 程序化场景",
+      "Blender 可编辑工程",
+      "作者渲染录像"
+    ],
+    "promptAvailability": "full-linked",
+    "promptSummary": "作者分别公开体素夜市网页任务与将同一场景转为Blender动画的任务；任务中的运行与视觉要求不等于本站已验证。",
+    "promptUrl": "https://github.com/KostiKoNeuro/kimi-vs-astra/blob/main/prompts/2a-diorama.md",
+    "imageUrl": "https://raw.githubusercontent.com/KostiKoNeuro/kimi-vs-astra/main/2b-blender/astra/hero.png",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者仓库明确放在2b-blender/astra目录下的1920×1080 Blender英雄帧；不是Kimi对照图。",
+    "demoUrl": "https://kostikoneuro.github.io/kimi-vs-astra/2a-diorama/astra/",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/KostiKoNeuro/kimi-vs-astra",
+    "evidenceUrls": [
+      "https://github.com/KostiKoNeuro/kimi-vs-astra/blob/main/README.md",
+      "https://github.com/KostiKoNeuro/kimi-vs-astra/blob/main/prompts/2b-blender.md",
+      "https://github.com/KostiKoNeuro/kimi-vs-astra/blob/main/2b-blender/astra/night_market.blend",
+      "https://github.com/KostiKoNeuro/kimi-vs-astra/blob/main/2b-blender/astra/flythrough.mp4",
+      "https://raw.githubusercontent.com/KostiKoNeuro/kimi-vs-astra/main/2b-blender/astra/browser-vs-blender.png"
+    ],
+    "licenseNotes": "仓库未见明确许可声明；作品与媒体权利归作者，公开可见不等于自由再分发，不纳入本库MIT。",
+    "outcome": "作者提供Astra网页、Blender工程、脚本、10秒渲染及两模型任务；网页与Blender来自同一Astra场景。该对照视频与Kimi合作制作；其成绩、时间、费用与主观评价不作为独立基准。作者未提供两次Astra日志，模型配置和结果依作者说明。"
+  },
+  {
+    "group": "astra",
+    "observedAt": "2026-10-27",
+    "addedAt": "2026-10-27",
+    "secondaryPublishedAt": null,
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "promptExcerpt": null,
+    "id": "derek-opencitymaker",
+    "title": "CityMaker：把世界地标拼成三维 2048",
+    "titleEn": "CityMaker — Merge 3D Landmarks into Twelve Cities",
+    "category": "3D 游戏",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "derek-wangpch",
+    "sourceUrl": "https://github.com/derek-wangpch/OpenCityMaker",
+    "sourceDate": null,
+    "modelLabel": "GPT-6 Astra（132 座程序化建筑几何）",
+    "evidenceNote": "非fork作者仓库CREATION.md明确将132个建筑的程序化几何归于GPT-6 Astra，且明确不对其余代码归属作结论。首次发布日未核实。",
+    "sourceAccess": "README和制作记录完整GET并与连接器Git blob SHA一致；作者香港棋盘截图与巴黎模型图鉴全量GET、解码并目视检查；演示入口完整GET200。未独立运行工程或核验132座建筑的地理准确性。",
+    "summary": "把2048合并玩法和可旋转城市微缩模型结合：12座城市各有11级建筑，从街区住宅逐步合并到地标。公开源代码、模型与制作方法。",
+    "outputType": [
+      "Three.js 交互游戏",
+      "程序化建筑模型",
+      "公开源码"
+    ],
+    "promptAvailability": "author-description",
+    "promptSummary": "作者记录多视角参考、体量约束、逐级建模和视觉迭代，说明不是单条提示生成；原始完整会话未公开。",
+    "promptUrl": "https://github.com/derek-wangpch/OpenCityMaker/blob/master/docs/CREATION.md",
+    "imageUrl": "https://raw.githubusercontent.com/derek-wangpch/OpenCityMaker/master/docs/images/citymaker-game.png",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者仓库香港棋盘截图，展示程序化建筑与2048玩法；城市比例为便于游戏的风格化表达。",
+    "demoUrl": "https://citymaker.0to1app.com/",
+    "videoUrl": null,
+    "repositoryUrl": "https://github.com/derek-wangpch/OpenCityMaker",
+    "evidenceUrls": [
+      "https://github.com/derek-wangpch/OpenCityMaker/blob/master/docs/CREATION.md",
+      "https://github.com/derek-wangpch/OpenCityMaker/blob/master/README.md",
+      "https://raw.githubusercontent.com/derek-wangpch/OpenCityMaker/master/docs/images/citymaker-gallery.png"
+    ],
+    "licenseNotes": "作者将原创代码和程序模型置于MIT；建筑与地标名称、商标和设计仍归各权利人。本库MIT不替代第三方许可。",
+    "outcome": "作者称包含12座城市、每城11级共132座建筑，支持城市切换和模型图鉴；建筑是风格化解释而非测绘或历史时间线。作者说明仅覆盖建筑模型，不将整个游戏归于Astra。"
+  },
+  {
+    "id": "chetan-swamp-threejs",
+    "title": "Stillwater：月光下的 Three.js 沼泽",
+    "titleEn": "Stillwater — A Moonlit Three.js Swamp",
+    "category": "程序化场景",
+    "summary": "船行于夜色中的柏树沼泽，水面映出月光与树影。作者明确将这段浏览器Three.js场景归于GPT-6 Astra。",
+    "modelLabel": "GPT-6 Astra（作者原帖）",
+    "imageCaption": "作者原帖封面：Stillwater月夜沼泽、船与水面反射；附完整原帖录像。",
+    "outcome": "原帖仅简述Three.js与Astra；未核实独立源码、试玩或完整输入。场景的交互与画质以录像为准，不推断模型独立完成所有资产。",
+    "promptSummary": "作者未公开完整任务，原帖只说明Three.js沼泽与GPT-6 Astra。",
+    "group": "astra",
+    "observedAt": "2026-10-27",
+    "addedAt": "2026-10-27",
+    "secondaryPublishedAt": null,
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "promptExcerpt": null,
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Chetan Ankola / @chetanankola",
+    "sourceUrl": "https://x.com/chetanankola/status/2113909026253877485",
+    "sourceDate": "2026-10-24",
+    "evidenceNote": "作者原帖明确Astra参与，完整X HTML作者和时间与精确同帖辅助元数据匹配；模型标签及对照分工以原始画面为准，非本库独立复现。",
+    "sourceAccess": "原帖完整GET200、124,015字节；封面全量GET200、133,475字节并解码、目视检查。最高码率原版与较小平台版完整GET，媒体ID、来源时长、长度与SHA-256匹配，严格FFmpeg全长解码exit0；不剪辑或转码。 Release附件size/digest均匹配。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2113908905818648576/img/8l57cr2_lWdu6xXZ.jpg",
+    "imageKind": "video-poster",
+    "videoUrl": "https://x.com/chetanankola/status/2113909026253877485",
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "promptAvailability": "author-description",
+    "promptUrl": "https://x.com/chetanankola/status/2113909026253877485",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/chetanankola/status/2113909026253877485"
+    ],
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "第三方作品和媒体保留原作者及各权利人权利，不纳入本库MIT；保留署名、原帖与纠错/移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/chetan-swamp-threejs-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-27/chetan-swamp-threejs-1-original.mp4",
+        "durationSeconds": 17.88,
+        "bytes": 35898312,
+        "sha256": "d1d3195ad40f145c37755774c189b066cc52129ecc185152adb7bab7444a2075",
+        "sourceUrl": "https://x.com/chetanankola/status/2113909026253877485",
+        "label": "Stillwater — A Moonlit Three.js Swamp",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113908905818648576/img/8l57cr2_lWdu6xXZ.jpg"
+      }
+    ]
+  },
+  {
+    "id": "screening-threejs-model-comparison",
+    "title": "奔马同题：三种模型的 Three.js 动画对照",
+    "titleEn": "Galloping Horse — Three Models in One Three.js Test",
+    "category": "程序化场景",
+    "summary": "同一跑马主题在三个画面中对照：Kimi在上、Opus在中、Astra在下。完整录像呈现三匹马的造型与循环动作。",
+    "modelLabel": "GPT-6 Astra / Kimi K3.1 Pro / Claude Opus 5.5（作者同题对照）",
+    "imageCaption": "原帖完整封面自上而下依次为Kimi K3.1、Claude Opus 5.5与GPT-6 Astra；保留全幅以看清标签。",
+    "outcome": "作者认为Kimi在本次结果中更好，属于单次主观比较；未取得独立源码或完整提示，不能推广为标准化基准。",
+    "promptSummary": "作者称同一HTML文件和Three.js任务；完整输入、运行配置及重试过程未公开。",
+    "group": "astra",
+    "observedAt": "2026-10-27",
+    "addedAt": "2026-10-27",
+    "secondaryPublishedAt": null,
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "promptExcerpt": null,
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Pranav Reddy / @AI_Screening",
+    "sourceUrl": "https://x.com/AI_Screening/status/2113688082474221830",
+    "sourceDate": "2026-10-24",
+    "evidenceNote": "作者原帖明确Astra参与，完整X HTML作者和时间与精确同帖辅助元数据匹配；模型标签及对照分工以原始画面为准，非本库独立复现。",
+    "sourceAccess": "原帖完整GET200、148,146字节；封面全量GET200、106,819字节并解码、目视检查。最高码率原版与较小平台版完整GET，媒体ID、来源时长、长度与SHA-256匹配，严格FFmpeg全长解码exit0；不剪辑或转码。 Release附件size/digest均匹配。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2113687073962311680/img/vYd1Ov-6Ap1nYdrK.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/AI_Screening/status/2113688082474221830",
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "promptAvailability": "author-description",
+    "promptUrl": "https://x.com/AI_Screening/status/2113688082474221830",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/AI_Screening/status/2113688082474221830"
+    ],
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "第三方作品和媒体保留原作者及各权利人权利，不纳入本库MIT；保留署名、原帖与纠错/移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/screening-threejs-model-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-27/screening-threejs-model-comparison-1-original.mp4",
+        "durationSeconds": 14.05,
+        "bytes": 18399291,
+        "sha256": "0783fa77ee2285a06b0788a291ca1badbb03fcac84922336504764049851b2a0",
+        "sourceUrl": "https://x.com/AI_Screening/status/2113688082474221830",
+        "label": "Galloping Horse — Three Models in One Three.js Test",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113687073962311680/img/vYd1Ov-6Ap1nYdrK.jpg"
+      }
+    ]
+  },
+  {
+    "id": "darshal-plush-spider-comparison",
+    "title": "Plush Spider：毛绒蜘蛛的双模型材质对照",
+    "titleEn": "Plush Spider — A Two-Model Soft Toy Comparison",
+    "category": "产品与角色",
+    "summary": "两只紫色毛绒蜘蛛在同一挑战中展示动作与材质变化，Astra结果位于下半，MiniMax M3.1 Flash位于上半。",
+    "modelLabel": "GPT-6 Astra / MiniMax M3.1 Flash（作者同题对照）",
+    "imageCaption": "作者原帖封面上半为MiniMax M3.1 Flash，下半为GPT-6 Astra；完整保留画面标签和录像。",
+    "outcome": "作者偏好MiniMax的本次结果，帖子亦含该模型推广描述；该观点和性能宣传均非本库独立验证。未取得可运行工程或完整提示。",
+    "promptSummary": "作者称使用相同挑战创建三维毛绒蜘蛛；完整输入与模型配置未公开。",
+    "group": "astra",
+    "observedAt": "2026-10-27",
+    "addedAt": "2026-10-27",
+    "secondaryPublishedAt": null,
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "promptExcerpt": null,
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Darshal Jaitwar / @darshal_",
+    "sourceUrl": "https://x.com/darshal_/status/2112553636761043269",
+    "sourceDate": "2026-10-20",
+    "evidenceNote": "作者原帖明确Astra参与，完整X HTML作者和时间与精确同帖辅助元数据匹配；模型标签及对照分工以原始画面为准，非本库独立复现。",
+    "sourceAccess": "原帖完整GET200、150,948字节；封面全量GET200、73,743字节并解码、目视检查。最高码率原版与较小平台版完整GET，媒体ID、来源时长、长度与SHA-256匹配，严格FFmpeg全长解码exit0；不剪辑或转码。 Release附件size/digest均匹配。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2112553572613459968/img/IuGxjGKEe7zPyp5U.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/darshal_/status/2112553636761043269",
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "promptAvailability": "author-description",
+    "promptUrl": "https://x.com/darshal_/status/2112553636761043269",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/darshal_/status/2112553636761043269"
+    ],
+    "outputType": [
+      "作者三维成果",
+      "完整原帖录像"
+    ],
+    "licenseNotes": "第三方作品和媒体保留原作者及各权利人权利，不纳入本库MIT；保留署名、原帖与纠错/移除入口。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/darshal-plush-spider-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-27/darshal-plush-spider-comparison-1-original.mp4",
+        "durationSeconds": 18.11,
+        "bytes": 3948700,
+        "sha256": "41ab4399a3fdb91a6d008d37e813539bbcad7443f23eebee405581ff305e8f11",
+        "sourceUrl": "https://x.com/darshal_/status/2112553636761043269",
+        "label": "Plush Spider — A Two-Model Soft Toy Comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112553572613459968/img/IuGxjGKEe7zPyp5U.jpg"
+      }
+    ]
+  },
+  {
     "id": "henrique-feira-livre-simulator",
     "title": "Feira Livre：三分钟的巴西水果集市",
     "titleEn": "Feira Livre — A Three-minute Brazilian Street Market",

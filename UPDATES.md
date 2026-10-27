@@ -2,6 +2,16 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-27 · 5 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [深圳雨夜市集：Three.js 到 Blender 的同一座小城 / Shenzhen Night Market — One Diorama in Three.js and Blender](https://carpentry-liu.github.io/awesome-astra-3d/cases/kosti-shenzhen-night-market/) | KostiKoNeuro / Skyline | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [CityMaker：把世界地标拼成三维 2048 / CityMaker — Merge 3D Landmarks into Twelve Cities](https://carpentry-liu.github.io/awesome-astra-3d/cases/derek-opencitymaker/) | derek-wangpch | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [Stillwater：月光下的 Three.js 沼泽 / Stillwater — A Moonlit Three.js Swamp](https://carpentry-liu.github.io/awesome-astra-3d/cases/chetan-swamp-threejs/) | Chetan Ankola / @chetanankola | 完整视频 · 提示词 / 过程 |
+| [奔马同题：三种模型的 Three.js 动画对照 / Galloping Horse — Three Models in One Three.js Test](https://carpentry-liu.github.io/awesome-astra-3d/cases/screening-threejs-model-comparison/) | Pranav Reddy / @AI_Screening | 完整视频 · 提示词 / 过程 |
+| [Plush Spider：毛绒蜘蛛的双模型材质对照 / Plush Spider — A Two-Model Soft Toy Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/darshal-plush-spider-comparison/) | Darshal Jaitwar / @darshal_ | 完整视频 · 提示词 / 过程 |
+
 ## 2026-10-26 · 5 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

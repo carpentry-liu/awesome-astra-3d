@@ -974,6 +974,28 @@
       "observedAt": "2026-10-26",
       "result": "reachable",
       "scope": "Complete GET and title only, not independent WebGPU interaction verification."
+    },
+    {
+      "id": "kosti-shenzhen-night-market",
+      "url": "https://kostikoneuro.github.io/kimi-vs-astra/2a-diorama/astra/",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 561496,
+      "sha256": "0ce231279bb9b11a27c1ce0ae6d446a0e7c8ad2d4216f2918b0721aa4cc718fc",
+      "observedAt": "2026-10-27",
+      "result": "reachable",
+      "scope": "Complete GET only; no independent playthrough or Blender execution."
+    },
+    {
+      "id": "derek-opencitymaker",
+      "url": "https://citymaker.0to1app.com/",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 4712,
+      "sha256": "6e36bd5fc998939f9ba0f7024c87ac8e01d7a4ccc62d097ffc31fa24bf4ff3c8",
+      "observedAt": "2026-10-27",
+      "result": "reachable",
+      "scope": "Complete GET only; no independent playthrough or Blender execution."
     }
   ]
 }

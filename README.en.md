@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-26 (Asia/Shanghai)** · **397 Astra examples** · **115 source / project links** · **125 demo links** · **188 complete videos** · **12 separate references**.
+Updated **2026-10-27 (Asia/Shanghai)** · **402 Astra examples** · **117 source / project links** · **127 demo links** · **191 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -44,18 +44,18 @@ Open an image for the case, materials and known limitations. This selection stay
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-26.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-27.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Website screenshots were refreshed on **October 26, 2026** from the current local production build. See the creator previews and latest additions below for this update. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Website screenshots were refreshed on **October 27, 2026** from the current local production build. See the creator previews and latest additions below for this update. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
-<summary>Gallery, mobile and case screenshots · October 26, 2026</summary>
+<summary>Gallery, mobile and case screenshots · October 27, 2026</summary>
 
-[![Gallery filters and more works](docs/media/collection-2026-10-26.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Gallery filters and more works](docs/media/collection-2026-10-27.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-10-26.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-10-27.jpg)
 
-[![Grand Canyon — a continuous flight and complete recording](docs/media/case-2026-10-26.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/diego-grand-canyon-astra/)
+[![Shenzhen Night Market — one scene in Three.js and Blender](docs/media/case-2026-10-27.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kosti-shenzhen-night-market/)
 
 </details>
 
@@ -63,31 +63,31 @@ Website screenshots were refreshed on **October 26, 2026** from the current loca
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The October 26 update adds **5 works and 4 complete X clips**: Feira Livre, Launch Jelly, a gummy eyeball, a Grand Canyon flight, and an interactive gamepad. Materials include one public Godot project, one Astra demo, and two full-task links. About 252 seconds retain complete original and smaller platform renditions. Canyon geometry is attributed to Astra and music to Suno; the gamepad archive is the second, Astra-labelled clip. Two dark posters use source-linked actual frames with timestamps. X posts date from October 24–25; the market project publication date remains unknown. Today is their collection date.
+The October 27 update adds **5 works and 3 complete X clips**: a Shenzhen night market, CityMaker landmarks, a moonlit swamp, a galloping horse, and a plush spider. Two projects provide source and demos; the three recordings retain original and smaller complete platform renditions. Skyline ran the Astra night-market scenes in a comparison produced in partnership with Kimi; CityMaker credits Astra specifically for building geometry. X posts date from October 20 and 24; the projects’ first publication dates are unknown. Today is the collection date.
 
 <!-- atlas:update-previews:start -->
 **This update in pictures — creator works**
 
-| Feira Livre · public Godot project | Launch Jelly · Astra below |
+| Shenzhen market · Three.js and Blender | CityMaker · 132 buildings |
 | --- | --- |
-| [<img src="https://raw.githubusercontent.com/henriquerochars/feira-livre-simulator/main/docs/media/atendimento.gif" height="220" alt="Feira Livre · public Godot project">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/henrique-feira-livre-simulator/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2114132448304910336/img/-AcM6oYYIvbtd9vO.jpg" height="220" alt="Launch Jelly · Astra below">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-launch-jelly-comparison/) |
-| Gummy eye · Astra above | Canyon · Astra scene / Suno music |
-| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/davey-gummy-eyeball-comparison-frame-21-3s.jpg" height="220" alt="Gummy eye · Astra above">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/davey-gummy-eyeball-comparison/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/diego-grand-canyon-astra-frame-85-89s.jpg" height="220" alt="Canyon · Astra scene / Suno music">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/diego-grand-canyon-astra/) |
-| Gamepad · second source clip, Astra | Watch the complete clips |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2113878802451292160/img/EwF8NVF-6y6_Vr8G.jpg" height="220" alt="Gamepad · second source clip, Astra">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/leo-interactive-gamepad-astra/) | [Watch the 4 new clips](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Original files](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-26) |
+| [<img src="https://raw.githubusercontent.com/KostiKoNeuro/kimi-vs-astra/main/2b-blender/astra/hero.png" height="220" alt="Shenzhen market · Three.js and Blender">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kosti-shenzhen-night-market/) | [<img src="https://raw.githubusercontent.com/derek-wangpch/OpenCityMaker/master/docs/images/citymaker-game.png" height="220" alt="CityMaker · 132 buildings">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/derek-opencitymaker/) |
+| Moonlit swamp · Three.js | Horse comparison · Astra below |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2113908905818648576/img/8l57cr2_lWdu6xXZ.jpg" height="220" alt="Moonlit swamp · Three.js">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/chetan-swamp-threejs/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2113687073962311680/img/vYd1Ov-6Ap1nYdrK.jpg" height="220" alt="Horse comparison · Astra below">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/screening-threejs-model-comparison/) |
+| Plush spider · Astra below | Watch the complete clips |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2112553572613459968/img/IuGxjGKEe7zPyp5U.jpg" height="220" alt="Plush spider · Astra below">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/darshal-plush-spider-comparison/) | [Watch the 3 new clips](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Original files](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-27) |
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [Shenzhen Night Market — One Diorama in Three.js and Blender](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kosti-shenzhen-night-market/) | KostiKoNeuro / Skyline | [Demo](https://kostikoneuro.github.io/kimi-vs-astra/2a-diorama/astra/) · [Source](https://github.com/KostiKoNeuro/kimi-vs-astra) · [Original](https://github.com/KostiKoNeuro/kimi-vs-astra) |
+| [CityMaker — Merge 3D Landmarks into Twelve Cities](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/derek-opencitymaker/) | derek-wangpch | [Demo](https://citymaker.0to1app.com/) · [Source](https://github.com/derek-wangpch/OpenCityMaker) · [Original](https://github.com/derek-wangpch/OpenCityMaker) |
+| [Stillwater — A Moonlit Three.js Swamp](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/chetan-swamp-threejs/) | Chetan Ankola / @chetanankola | [Original](https://x.com/chetanankola/status/2113909026253877485) |
+| [Galloping Horse — Three Models in One Three.js Test](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/screening-threejs-model-comparison/) | Pranav Reddy / @AI_Screening | [Original](https://x.com/AI_Screening/status/2113688082474221830) |
+| [Plush Spider — A Two-Model Soft Toy Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/darshal-plush-spider-comparison/) | Darshal Jaitwar / @darshal_ | [Original](https://x.com/darshal_/status/2112553636761043269) |
 | [Feira Livre — A Three-minute Brazilian Street Market](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/henrique-feira-livre-simulator/) | Henrique Rocha Serrano / henriquerochars | [Source](https://github.com/henriquerochars/feira-livre-simulator) · [Original](https://github.com/henriquerochars/feira-livre-simulator) |
 | [Launch Jelly — A Spaceport Inside a Jelly Cube](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-launch-jelly-comparison/) | Vib3Coded / @vib3coded | [Demo](https://launch-jelly-vibecoded1.vercel.app/) · [Original](https://x.com/vib3coded/status/2114132632166347208) |
 | [Jelly Eyeball — Three Models Build a Soft-body Eye](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/davey-gummy-eyeball-comparison/) | Davey / @daveeyyy_ | [Original](https://x.com/daveeyyy_/status/2114014158102397168) |
-| [Grand Canyon — A Continuous Procedural Canyon Flight](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/diego-grand-canyon-astra/) | Diego \| AI 🚀 - e/acc / @diegocabezas01 | [Original](https://x.com/diegocabezas01/status/2114033292999630853) |
-| [Designed to Be Held — An Interactive 3D Gamepad](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/leo-interactive-gamepad-astra/) | Leo · Building w/ AI / @leo114119 | [Original](https://x.com/leo114119/status/2113878845426110685) |
-| [Neon Overdrive — Four Districts of Arcade Highway Racing](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vanshd-neon-overdrive/) | vanshd132 | [Source](https://github.com/vanshd132/Neon-Overdrive) · [Original](https://github.com/vanshd132/Neon-Overdrive) |
-| [Midnight Orbit — A 3D Pinball Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/leppppp1-pinball-comparison/) | 渣渣的赛博宇宙 / @leppppp1 | [Original](https://x.com/leppppp1/status/2113846772770779388) |
-| [Tabletop Railway — Two Animated Miniature Worlds](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/aman-tabletop-railway-comparison/) | Aman / @Amank1412 | [Original](https://x.com/Amank1412/status/2113699831248220177) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)
