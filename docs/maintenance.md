@@ -79,7 +79,7 @@ npm start
 | 截图与分享封面 | 重新拍摄首页、案例区、手机首页与办公室详情，原生JPEG逐字节保存，无裁剪、重编码或修饰；桌面捕获1425×1057、手机375×812。中英README和share.jpg同步；替换10月27日的四张实拍，历史观察路径和hash保留，旧图可从Git历史恢复 |
 | 基线与仓库边界 | 上一版414案例与相对顺序、382视频及旧研究/媒体/链接审计不变，演示审计不变。10个视频的hash、Release digest、媒体ID和original/web映射通过；公开JSON一致，不提交下载、原始录像、作者全文、调研脚本、缓存或迁移说明 |
 
-录像见[10月28日Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-28)。发布目标继续为GitHub Pages，案例库ChatGPT Site不重新部署；正式提交、工作流与部署后核对结果在发布完成后补录。
+录像见[10月28日Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-28)。内容提交 `1509ca75338c360036f430bd9548b5af8e1b1fad` 已推送；[GitHub Pages工作流](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/40613255578)成功。部署后36项完整GET与hash核验通过，覆盖线上首页、目录、sitemap、五个案例的中英详情与JSON、五份播放视频、五张预览、分享封面、四张仓库截图和中英文README/视频清单；11个Release附件服务器digest匹配。本地浏览器完成五段视频全长播放和响应式检查；本轮GitHub网页浏览器检查超时，仓库README改由GitHub连接器及原始文件核对。案例库ChatGPT Site未重新部署。
 
 ## 小王子制作流程复核（2026-10-18）
 
