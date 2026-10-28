@@ -2,6 +2,16 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-28 · 5 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [一张平面图，四间办公室：三维空间重建对照 / One Floor Plan, Four 3D Offices](https://carpentry-liu.github.io/awesome-astra-3d/cases/koharu-office-floorplan/) | 小春｜みならいAI秘書 / @koharu_ai_diary | 完整视频 · 提示词 / 过程 |
+| [火焰骷髅：四个模型的动态视觉对照 / Burning Skulls — A Four-Model Visual Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/typingmind-burning-skulls/) | TypingMind / @TypingMindApp | 完整视频 · 提示词 / 过程 |
+| [沙漠机械蜈蚣：双模型的装甲与关节对照 / Mechanical Centipede — Two Desert Creatures](https://carpentry-liu.github.io/awesome-astra-3d/cases/kaero-mechanical-centipede/) | Kaero / @0x_kaero | 完整视频 · 提示词 / 过程 |
+| [袋鼠百米跑：三维角色与赛道动画 / Kangaroo 100 m — Three 3D Race Animations](https://carpentry-liu.github.io/awesome-astra-3d/cases/gull-kangaroo-race/) | Gull / @0xGull | 完整视频 · 提示词 / 过程 |
+| [机械沙虫：沙丘中的双模型连续动画 / Mechanical Sandworm — Two Models Cross the Dunes](https://carpentry-liu.github.io/awesome-astra-3d/cases/ivana-mechanical-sandworm/) | Ivana / @ivanainai | 完整视频 · 提示词 / 过程 |
+
 ## 2026-10-27 · 5 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

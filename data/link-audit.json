@@ -24045,6 +24045,530 @@
         }
       ],
       "removedCaseIds": []
+    },
+    {
+      "checkedAt": "2026-10-28",
+      "round": "daily",
+      "scope": "Five original X posts and five usable outcome previews; historical endpoints sampled.",
+      "addedCaseIds": [
+        "koharu-office-floorplan",
+        "typingmind-burning-skulls",
+        "kaero-mechanical-centipede",
+        "gull-kangaroo-race",
+        "ivana-mechanical-sandworm"
+      ],
+      "sourceChecks": [
+        {
+          "caseId": "kaero-mechanical-centipede",
+          "url": "https://x.com/0x_kaero/status/2115035244562636873",
+          "status": 200,
+          "bytes": 172950,
+          "authorMatched": true,
+          "timestampMatched": true,
+          "createdAtShanghai": "2026-10-27T18:57:52+08:00",
+          "selectedMediaId": "2115034843184590848"
+        },
+        {
+          "caseId": "koharu-office-floorplan",
+          "url": "https://x.com/koharu_ai_diary/status/2115055288088957372",
+          "status": 200,
+          "bytes": 130404,
+          "authorMatched": true,
+          "timestampMatched": true,
+          "createdAtShanghai": "2026-10-27T20:17:31+08:00",
+          "selectedMediaId": "2115054790703226880"
+        },
+        {
+          "caseId": "gull-kangaroo-race",
+          "url": "https://x.com/0xGull/status/2114739834568794292",
+          "status": 200,
+          "bytes": 143924,
+          "authorMatched": true,
+          "timestampMatched": true,
+          "createdAtShanghai": "2026-10-26T23:24:01+08:00",
+          "selectedMediaId": "2114739748564602880"
+        },
+        {
+          "caseId": "ivana-mechanical-sandworm",
+          "url": "https://x.com/ivanainai/status/2114702817831338182",
+          "status": 200,
+          "bytes": 141985,
+          "authorMatched": true,
+          "timestampMatched": true,
+          "createdAtShanghai": "2026-10-26T20:56:55+08:00",
+          "selectedMediaId": "2114697020430602240"
+        },
+        {
+          "caseId": "typingmind-burning-skulls",
+          "url": "https://x.com/TypingMindApp/status/2115050582465806741",
+          "status": 200,
+          "bytes": 129009,
+          "authorMatched": true,
+          "timestampMatched": true,
+          "createdAtShanghai": "2026-10-27T19:58:49+08:00",
+          "selectedMediaId": "2115050416589488128"
+        }
+      ],
+      "previewChecks": [
+        {
+          "caseId": "koharu-office-floorplan",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-28/koharu-office-floorplan-frame-15s.jpg",
+          "httpStatus": 200,
+          "contentType": "application/octet-stream",
+          "actualImageFormat": "JPEG",
+          "genericBinaryHeader": true,
+          "contentLength": 185084,
+          "bytes": 185084,
+          "sha256": "b419290aca2d99264de0de788d0e197490e6e29b0353eeb8c251cf03584e1a7c",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "frames": 1,
+          "decoded": true,
+          "fullGet": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "typingmind-burning-skulls",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2115050416589488128/img/157Lh0u5c8WUCRDN.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "actualImageFormat": "JPEG",
+          "genericBinaryHeader": false,
+          "contentLength": 89472,
+          "bytes": 89472,
+          "sha256": "05f80252da128cb623aaf8e721d62f7940ee859a53d45c25c5815efa80b4ab25",
+          "dimensions": [
+            1200,
+            720
+          ],
+          "frames": 1,
+          "decoded": true,
+          "fullGet": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "kaero-mechanical-centipede",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2115034843184590848/img/sMEfT4YUyxVqlGeb.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "actualImageFormat": "JPEG",
+          "genericBinaryHeader": false,
+          "contentLength": 153701,
+          "bytes": 153701,
+          "sha256": "c18925d7cdcb258759cc20e25d778efebfd28fb65fd8b1599edcd29ab36f8d8b",
+          "dimensions": [
+            1068,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "fullGet": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "gull-kangaroo-race",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2114739748564602880/img/7K3jN60IEymbNF1Y.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "actualImageFormat": "JPEG",
+          "genericBinaryHeader": false,
+          "contentLength": 107624,
+          "bytes": 107624,
+          "sha256": "605df23eb6140d81dfcb367cf36bb758d64c3ac8c3f440e67d3262a97132ac42",
+          "dimensions": [
+            900,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "fullGet": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "ivana-mechanical-sandworm",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2114697020430602240/img/dRwTUXNhYs63z3e-.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "actualImageFormat": "JPEG",
+          "genericBinaryHeader": false,
+          "contentLength": 81770,
+          "bytes": 81770,
+          "sha256": "7f4cd1dc51c6e82e48e1e4245e9264ecf0e375fd6e06950e0a19f32ef459a631",
+          "dimensions": [
+            1067,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "fullGet": true,
+          "visuallyReviewed": true
+        }
+      ],
+      "historicalEndpoints": [
+        {
+          "caseId": "kosti-shenzhen-night-market",
+          "url": "https://raw.githubusercontent.com/KostiKoNeuro/kimi-vs-astra/main/2b-blender/astra/hero.png",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "derek-opencitymaker",
+          "url": "https://raw.githubusercontent.com/derek-wangpch/OpenCityMaker/master/docs/images/citymaker-game.png",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "chetan-swamp-threejs",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113908905818648576/img/8l57cr2_lWdu6xXZ.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "screening-threejs-model-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113687073962311680/img/vYd1Ov-6Ap1nYdrK.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "darshal-plush-spider-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2112553572613459968/img/IuGxjGKEe7zPyp5U.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "henrique-feira-livre-simulator",
+          "url": "https://raw.githubusercontent.com/henriquerochars/feira-livre-simulator/main/docs/media/atendimento.gif",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "vib3coded-launch-jelly-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2114132448304910336/img/-AcM6oYYIvbtd9vO.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "davey-gummy-eyeball-comparison",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/davey-gummy-eyeball-comparison-frame-21-3s.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "diego-grand-canyon-astra",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/diego-grand-canyon-astra-frame-85-89s.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "leo-interactive-gamepad-astra",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113878802451292160/img/EwF8NVF-6y6_Vr8G.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "vanshd-neon-overdrive",
+          "url": "https://raw.githubusercontent.com/vanshd132/Neon-Overdrive/main/docs/screenshots/gameplay-neon-downtown.png",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "leppppp1-pinball-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113846640566321152/img/d28n1eYmBF8GuM8Z.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "aman-tabletop-railway-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113699658736521216/img/q8qigdvSxQI81SP0.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "vib3coded-tiny-ice-rink-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113216877405077504/img/Am0U1PwdrPWVaFr3.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "max-training-dummy-blender-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113320969100001280/img/BmBgBpKZj3WsKMro.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "pratikgx-embryo-explorer",
+          "url": "https://raw.githubusercontent.com/pratikgx/embryo-explorer/main/media/preview.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "vib3coded-pixel-airport-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113849838198530049/img/A2Ghi6Tg83UwCohp.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "vib3coded-chalk-square-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113601799215108097/img/NlxhpC135VtcLGkI.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "vib3coded-offshore-jelly-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113400858335444992/img/K2JtNt1iQCzxZiP_.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "ann-margarita-sloshing-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110232579509227520/img/w2c0R7ECo4TZYO6-.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "chongdashu-retro-del-sol",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113089437748035584/img/Ppb3v7Rd_47sDHCq.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "screening-threejs-carbon-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113183443815436288/img/tQvV-jgsCeNdHMrw.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "kenny-jelly-canal-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2112605564920283137/img/iFwg9BXGHxnROEq7.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "rhinox-jelly-skeleton-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2112222998845341696/img/9EsfX837sz-QO-zX.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "wyltek-ckb-block-visualiser",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2109519955758845953/img/KuouEE1WMukiowq_.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "tactical-storm-in-a-bottle",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2112184518857641984/img/nqFjCvnFJVYPMVq4.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "ananth-threejs-paludarium",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-22/ananth-threejs-paludarium-frame-25-6s.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "tactical-blender-crossbow",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2109722405253824512/img/zZT1MM_WrS29en9a.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "tactical-minecraft-floating-island",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2109750252810969088/img/0ZpAqD0RTSdnIoZB.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "vib3coded-jelly-avocado-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2112128465856086016/img/KK-qkssOLG_cTaB_.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "citaborg-gps-threejs-story",
+          "url": "https://www.bredland.no/gps/img/astra-2-3d.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "congle-ogre-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110139415133560832/img/MfuKcrMWGPcRJBT0.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "minsik-stanford-blender",
+          "url": "https://raw.githubusercontent.com/minsik-ai/stanford-in-blender/main/renders/hoover_hero.png",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "nvidia-astra-conveyor-robotiq",
+          "url": "https://nvidia-omniverse.github.io/omniverse-labs/assets/images/card-astra-vscode-simulation.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "gptblender-floor-plan-house",
+          "url": "https://gptblender.com/assets/floor-plan-guide/optimized/04-apartment-overview-soft-warm-1280.webp",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "berochlu-astrafloor",
+          "url": "https://raw.githubusercontent.com/BEROCHLU/astrafloor/main/.github/image1.png",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "miya-komorebi-market",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097110659590922240/img/nRlaHBNYuWDDyaD0.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "tspy-microduck",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096233778113118208/img/9HOvR6k_Z10CchxV.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "alesha-antigravity-racer",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095966450385289216/img/u4EnBwNxU0h3lQgI.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "aibattle-sonic-godot",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095992908448944130/img/v8BSAp4Xt5knPeV0.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "chetan-swamp-threejs",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/chetan-swamp-threejs-1-web.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "chetan-swamp-threejs",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-27/chetan-swamp-threejs-1-original.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "screening-threejs-model-comparison",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/screening-threejs-model-comparison-1-web.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "screening-threejs-model-comparison",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-27/screening-threejs-model-comparison-1-original.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "darshal-plush-spider-comparison",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/darshal-plush-spider-comparison-1-web.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "darshal-plush-spider-comparison",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-27/darshal-plush-spider-comparison-1-original.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "vib3coded-launch-jelly-comparison",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-launch-jelly-comparison-1-web.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "vib3coded-launch-jelly-comparison",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/vib3coded-launch-jelly-comparison-1-original.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "davey-gummy-eyeball-comparison",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/davey-gummy-eyeball-comparison-1-web.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "davey-gummy-eyeball-comparison",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/davey-gummy-eyeball-comparison-1-original.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "diego-grand-canyon-astra",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/diego-grand-canyon-astra-1-web.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "diego-grand-canyon-astra",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-26/diego-grand-canyon-astra-1-original.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "shmopix-plush-octopus",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/shmopix-plush-octopus-1-web.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "shmopix-plush-octopus",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-13/shmopix-plush-octopus-1-original.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "msd-dead-end",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/msd-dead-end-1-web.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "msd-dead-end",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-17/msd-dead-end-1-original.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "anshuc-afterlight",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/anshuc-afterlight-1-web.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "anshuc-afterlight",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-10/anshuc-afterlight-1-original.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "aibattle-sonic-godot",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/aibattle-sonic-godot-1-web.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "aibattle-sonic-godot",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-06/aibattle-sonic-godot-1-original.mp4",
+          "status": 206,
+          "result": "mp4-endpoint-verified"
+        }
+      ],
+      "removedCaseIds": []
     }
   ]
 }

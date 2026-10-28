@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-27 (Asia/Shanghai)** · **402 Astra examples** · **117 source / project links** · **127 demo links** · **191 complete videos** · **12 separate references**.
+Updated **2026-10-28 (Asia/Shanghai)** · **407 Astra examples** · **117 source / project links** · **127 demo links** · **196 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -44,18 +44,18 @@ Open an image for the case, materials and known limitations. This selection stay
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-27.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-28.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Website screenshots were refreshed on **October 27, 2026** from the current local production build. See the creator previews and latest additions below for this update. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Website screenshots were refreshed on **October 28, 2026** from the current local production build. See the creator previews and latest additions below for this update. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
-<summary>Gallery, mobile and case screenshots · October 27, 2026</summary>
+<summary>Gallery, mobile and case screenshots · October 28, 2026</summary>
 
-[![Gallery filters and more works](docs/media/collection-2026-10-27.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Gallery filters and more works](docs/media/collection-2026-10-28.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-10-27.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-10-28.jpg)
 
-[![Shenzhen Night Market — one scene in Three.js and Blender](docs/media/case-2026-10-27.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kosti-shenzhen-night-market/)
+[![One Floor Plan, Four 3D Offices — the original comparison frame](docs/media/case-2026-10-28.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/koharu-office-floorplan/)
 
 </details>
 
@@ -63,31 +63,31 @@ Website screenshots were refreshed on **October 27, 2026** from the current loca
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The October 27 update adds **5 works and 3 complete X clips**: a Shenzhen night market, CityMaker landmarks, a moonlit swamp, a galloping horse, and a plush spider. Two projects provide source and demos; the three recordings retain original and smaller complete platform renditions. Skyline ran the Astra night-market scenes in a comparison produced in partnership with Kimi; CityMaker credits Astra specifically for building geometry. X posts date from October 20 and 24; the projects’ first publication dates are unknown. Today is the collection date.
+The October 28 update adds **5 works and 5 complete X clips**: a floor-plan office, burning skulls, a mechanical centipede, a kangaroo race, and a mechanical sandworm. Original and smaller complete platform renditions are retained with the model labels visible. The office preview uses an actual frame from the source video. Posts date from October 26–27; today is the collection date. Creator comparisons and reported timings are not independent benchmarks.
 
 <!-- atlas:update-previews:start -->
 **This update in pictures — creator works**
 
-| Shenzhen market · Three.js and Blender | CityMaker · 132 buildings |
+| Office · Astra bottom left | Burning skulls · Astra second |
 | --- | --- |
-| [<img src="https://raw.githubusercontent.com/KostiKoNeuro/kimi-vs-astra/main/2b-blender/astra/hero.png" height="220" alt="Shenzhen market · Three.js and Blender">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kosti-shenzhen-night-market/) | [<img src="https://raw.githubusercontent.com/derek-wangpch/OpenCityMaker/master/docs/images/citymaker-game.png" height="220" alt="CityMaker · 132 buildings">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/derek-opencitymaker/) |
-| Moonlit swamp · Three.js | Horse comparison · Astra below |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2113908905818648576/img/8l57cr2_lWdu6xXZ.jpg" height="220" alt="Moonlit swamp · Three.js">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/chetan-swamp-threejs/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2113687073962311680/img/vYd1Ov-6Ap1nYdrK.jpg" height="220" alt="Horse comparison · Astra below">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/screening-threejs-model-comparison/) |
-| Plush spider · Astra below | Watch the complete clips |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2112553572613459968/img/IuGxjGKEe7zPyp5U.jpg" height="220" alt="Plush spider · Astra below">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/darshal-plush-spider-comparison/) | [Watch the 3 new clips](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Original files](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-27) |
+| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-28/koharu-office-floorplan-frame-15s.jpg" height="220" alt="Office · Astra bottom left">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/koharu-office-floorplan/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2115050416589488128/img/157Lh0u5c8WUCRDN.jpg" height="220" alt="Burning skulls · Astra second">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/typingmind-burning-skulls/) |
+| Centipede · Astra below | Kangaroo race · Astra above |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2115034843184590848/img/sMEfT4YUyxVqlGeb.jpg" height="220" alt="Centipede · Astra below">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kaero-mechanical-centipede/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2114739748564602880/img/7K3jN60IEymbNF1Y.jpg" height="220" alt="Kangaroo race · Astra above">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/gull-kangaroo-race/) |
+| Sandworm · Astra above | Watch the complete clips |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2114697020430602240/img/dRwTUXNhYs63z3e-.jpg" height="220" alt="Sandworm · Astra above">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ivana-mechanical-sandworm/) | [Watch the 5 new clips](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Original files](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-28) |
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [One Floor Plan, Four 3D Offices](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/koharu-office-floorplan/) | 小春｜みならいAI秘書 / @koharu_ai_diary | [Original](https://x.com/koharu_ai_diary/status/2115055288088957372) |
+| [Burning Skulls — A Four-Model Visual Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/typingmind-burning-skulls/) | TypingMind / @TypingMindApp | [Original](https://x.com/TypingMindApp/status/2115050582465806741) |
+| [Mechanical Centipede — Two Desert Creatures](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kaero-mechanical-centipede/) | Kaero / @0x_kaero | [Original](https://x.com/0x_kaero/status/2115035244562636873) |
+| [Kangaroo 100 m — Three 3D Race Animations](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/gull-kangaroo-race/) | Gull / @0xGull | [Original](https://x.com/0xGull/status/2114739834568794292) |
+| [Mechanical Sandworm — Two Models Cross the Dunes](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ivana-mechanical-sandworm/) | Ivana / @ivanainai | [Original](https://x.com/ivanainai/status/2114702817831338182) |
 | [Shenzhen Night Market — One Diorama in Three.js and Blender](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kosti-shenzhen-night-market/) | KostiKoNeuro / Skyline | [Demo](https://kostikoneuro.github.io/kimi-vs-astra/2a-diorama/astra/) · [Source](https://github.com/KostiKoNeuro/kimi-vs-astra) · [Original](https://github.com/KostiKoNeuro/kimi-vs-astra) |
 | [CityMaker — Merge 3D Landmarks into Twelve Cities](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/derek-opencitymaker/) | derek-wangpch | [Demo](https://citymaker.0to1app.com/) · [Source](https://github.com/derek-wangpch/OpenCityMaker) · [Original](https://github.com/derek-wangpch/OpenCityMaker) |
 | [Stillwater — A Moonlit Three.js Swamp](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/chetan-swamp-threejs/) | Chetan Ankola / @chetanankola | [Original](https://x.com/chetanankola/status/2113909026253877485) |
-| [Galloping Horse — Three Models in One Three.js Test](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/screening-threejs-model-comparison/) | Pranav Reddy / @AI_Screening | [Original](https://x.com/AI_Screening/status/2113688082474221830) |
-| [Plush Spider — A Two-Model Soft Toy Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/darshal-plush-spider-comparison/) | Darshal Jaitwar / @darshal_ | [Original](https://x.com/darshal_/status/2112553636761043269) |
-| [Feira Livre — A Three-minute Brazilian Street Market](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/henrique-feira-livre-simulator/) | Henrique Rocha Serrano / henriquerochars | [Source](https://github.com/henriquerochars/feira-livre-simulator) · [Original](https://github.com/henriquerochars/feira-livre-simulator) |
-| [Launch Jelly — A Spaceport Inside a Jelly Cube](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-launch-jelly-comparison/) | Vib3Coded / @vib3coded | [Demo](https://launch-jelly-vibecoded1.vercel.app/) · [Original](https://x.com/vib3coded/status/2114132632166347208) |
-| [Jelly Eyeball — Three Models Build a Soft-body Eye](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/davey-gummy-eyeball-comparison/) | Davey / @daveeyyy_ | [Original](https://x.com/daveeyyy_/status/2114014158102397168) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

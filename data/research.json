@@ -11104,6 +11104,175 @@
       "newMediaFiles": 6,
       "newMediaBytes": 61073486,
       "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-27"
+    },
+    {
+      "observedAt": "2026-10-28",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "checkedAtUtc": "2026-10-28T01:00:19.684275+00:00",
+      "baselineCommit": "09cbbc111c2de11c241472cb7dda7e24bb6491b9",
+      "baselineCount": 414,
+      "resultingCount": 419,
+      "addedCaseIds": [
+        "koharu-office-floorplan",
+        "typingmind-burning-skulls",
+        "kaero-mechanical-centipede",
+        "gull-kangaroo-race",
+        "ivana-mechanical-sandworm"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "queries": [
+        "\"GPT-6 Astra\" \"3D\" \"October 27\" 2026",
+        "\"GPT-6 Astra\" \"Three.js\" site:x.com",
+        "\"GPT-6 Astra\" \"Blender\" site:reddit.com",
+        "\"GPT-6 Astra\" 3D site:xiaohongshu.com",
+        "\"GPT-6 Astra\" 3d pushed:>=2026-10-27 fork:false"
+      ],
+      "discoverySources": [
+        "https://aivs.tv/models/gpt-6-astra/",
+        "https://aivs.tv/coding/3d-shaders/",
+        "https://github.com/billyhetech/awesome-gpt6-astra-videos",
+        "https://www.tripo3d.ai/3d-prompts?page=13"
+      ],
+      "coverage": [
+        {
+          "id": "koharu-office-floorplan",
+          "sourceUrl": "https://x.com/koharu_ai_diary/status/2115055288088957372",
+          "sourceDate": "2026-10-27",
+          "previewUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-28/koharu-office-floorplan-frame-15s.jpg",
+          "roles": "GPT-6 Astra / GPT-6.1 Terra / GPT-6.1 Sol / GPT-6 Luna（作者同图对照）"
+        },
+        {
+          "id": "typingmind-burning-skulls",
+          "sourceUrl": "https://x.com/TypingMindApp/status/2115050582465806741",
+          "sourceDate": "2026-10-27",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2115050416589488128/img/157Lh0u5c8WUCRDN.jpg",
+          "roles": "GPT-6 Astra / Claude Opus 5.5 / GPT-6.1 Terra / GPT-6.1 Sol（作者对照）"
+        },
+        {
+          "id": "kaero-mechanical-centipede",
+          "sourceUrl": "https://x.com/0x_kaero/status/2115035244562636873",
+          "sourceDate": "2026-10-27",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2115034843184590848/img/sMEfT4YUyxVqlGeb.jpg",
+          "roles": "GPT-6 Astra / Claude Opus 5.5（作者同题对照）"
+        },
+        {
+          "id": "gull-kangaroo-race",
+          "sourceUrl": "https://x.com/0xGull/status/2114739834568794292",
+          "sourceDate": "2026-10-26",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2114739748564602880/img/7K3jN60IEymbNF1Y.jpg",
+          "roles": "GPT-6 Astra / Claude Opus 5.5 / Claude Sonnet 5.5（作者同题对照）"
+        },
+        {
+          "id": "ivana-mechanical-sandworm",
+          "sourceUrl": "https://x.com/ivanainai/status/2114702817831338182",
+          "sourceDate": "2026-10-26",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2114697020430602240/img/dRwTUXNhYs63z3e-.jpg",
+          "roles": "GPT-6 Astra / GPT-6.1 Sol（作者同题对照）"
+        }
+      ],
+      "primarySourceChecks": [
+        {
+          "caseId": "kaero-mechanical-centipede",
+          "url": "https://x.com/0x_kaero/status/2115035244562636873",
+          "authorMatched": true,
+          "timestampMatched": true,
+          "createdAtShanghai": "2026-10-27T18:57:52+08:00",
+          "selectedMediaId": "2115034843184590848"
+        },
+        {
+          "caseId": "koharu-office-floorplan",
+          "url": "https://x.com/koharu_ai_diary/status/2115055288088957372",
+          "authorMatched": true,
+          "timestampMatched": true,
+          "createdAtShanghai": "2026-10-27T20:17:31+08:00",
+          "selectedMediaId": "2115054790703226880"
+        },
+        {
+          "caseId": "gull-kangaroo-race",
+          "url": "https://x.com/0xGull/status/2114739834568794292",
+          "authorMatched": true,
+          "timestampMatched": true,
+          "createdAtShanghai": "2026-10-26T23:24:01+08:00",
+          "selectedMediaId": "2114739748564602880"
+        },
+        {
+          "caseId": "ivana-mechanical-sandworm",
+          "url": "https://x.com/ivanainai/status/2114702817831338182",
+          "authorMatched": true,
+          "timestampMatched": true,
+          "createdAtShanghai": "2026-10-26T20:56:55+08:00",
+          "selectedMediaId": "2114697020430602240"
+        },
+        {
+          "caseId": "typingmind-burning-skulls",
+          "url": "https://x.com/TypingMindApp/status/2115050582465806741",
+          "authorMatched": true,
+          "timestampMatched": true,
+          "createdAtShanghai": "2026-10-27T19:58:49+08:00",
+          "selectedMediaId": "2115050416589488128"
+        }
+      ],
+      "previewFrameAssets": [
+        {
+          "caseId": "koharu-office-floorplan",
+          "kind": "frame",
+          "filename": "koharu-office-floorplan-frame-15s.jpg",
+          "bytes": 185084,
+          "sha256": "b419290aca2d99264de0de788d0e197490e6e29b0353eeb8c251cf03584e1a7c",
+          "contentType": "image/jpeg",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "decoded": true,
+          "sourceUrl": "https://x.com/koharu_ai_diary/status/2115055288088957372",
+          "sourceMediaId": "2115054790703226880",
+          "sourceVideoFilename": "koharu-office-floorplan-1-original.mp4",
+          "frameAtSeconds": 15,
+          "cropped": false,
+          "enhanced": false,
+          "method": "Actual full-frame extraction from the highest-bitrate complete original MP4; JPEG quality 2. No retouching or video transcoding.",
+          "assetId": 683378014,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-28/koharu-office-floorplan-frame-15s.jpg"
+        }
+      ],
+      "excludedOrDeferred": [
+        {
+          "sourceUrl": "https://x.com/EianLu/status/2114982086407028947",
+          "reason": "The actual recording is a 2D walking-duck animation; excluded from this 3D catalogue despite the index title."
+        },
+        {
+          "sourceUrl": "https://x.com/CDGalpha/status/2114736189114827105",
+          "reason": "Post only names the two models; authorship and relationship to other village examples were not established in this pass."
+        },
+        {
+          "sourceUrl": "https://x.com/kinderlayer/status/2114763857168093650",
+          "reason": "The indexed gear pump is classified as simulation/SVG; no 3D geometric output was established in this pass."
+        }
+      ],
+      "platformLimits": [
+        "All five X posts were fetched as original HTML and matched to exact-post auxiliary metadata.",
+        "X model labels were inspected in original posters and video frames. Skull footage shows a 3D-looking animation but editable geometry or implementation was not established.",
+        "The office original poster showed the input plan; the effective preview is an actual uncropped full frame at 15 seconds from the complete original recording.",
+        "Public Xiaohongshu search yielded no additional traceable case with usable media in this pass.",
+        "October 28 is the collection date; the five X sources were published October 26 or 27 in Asia/Shanghai.",
+        "No independent execution, physical accuracy validation or normalized model benchmark."
+      ],
+      "historicalIncrementalSummary": {
+        "checkedImages": 40,
+        "decodedImages": 40,
+        "checkedVideoCases": 10,
+        "checkedVideoEndpoints": 20,
+        "verifiedVideoEndpoints": 20,
+        "failures": [],
+        "limits": "Historical videos were not downloaded or replayed in full. Image decode and bounded video endpoints only."
+      },
+      "completeSourceClips": 5,
+      "newMediaFiles": 10,
+      "newMediaBytes": 84509278,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-28"
     }
   ]
 }
