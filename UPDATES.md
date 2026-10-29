@@ -2,6 +2,15 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-29 · 4 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [入画 WITHIN：十八景三维漫游画馆 / WITHIN — Eighteen Explorable 3D Worlds](https://carpentry-liu.github.io/awesome-astra-3d/cases/fatasia-within-gallery/) | fatasia | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [暴风雨灯塔：Blender 中的光束与海浪 / Storm Lighthouse — Blender Model Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/ivanainai-storm-lighthouse/) | Ivana / @ivanainai | 完整视频 · 提示词 / 过程 |
+| [火箭发射与回收：三模型浏览器场景 / Rocket Launch and Landing — Three Model Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/quaxguy-rocket-landing/) | Siddharth Jain / @Quaxguy | 完整视频 · 提示词 / 过程 |
+| [MOXstrike：浏览器中的科幻第一人称竞技场 / MOXstrike — Browser Sci-Fi Arena Shooter](https://carpentry-liu.github.io/awesome-astra-3d/cases/moxazza-moxstrike/) | Moxazza（投稿署名） | 演示入口 · 提示词 / 过程 |
+
 ## 2026-10-28 · 5 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

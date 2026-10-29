@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-28 (Asia/Shanghai)** · **407 Astra examples** · **117 source / project links** · **127 demo links** · **196 complete videos** · **12 separate references**.
+Updated **2026-10-29 (Asia/Shanghai)** · **411 Astra examples** · **118 source / project links** · **129 demo links** · **198 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -44,18 +44,18 @@ Open an image for the case, materials and known limitations. This selection stay
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-28.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-29.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Website screenshots were refreshed on **October 28, 2026** from the current local production build. See the creator previews and latest additions below for this update. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Website screenshots were refreshed on **October 29, 2026** from the current local production build. See the creator previews and latest additions below for this update. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
-<summary>Gallery, mobile and case screenshots · October 28, 2026</summary>
+<summary>Gallery, mobile and case screenshots · October 29, 2026</summary>
 
-[![Gallery filters and more works](docs/media/collection-2026-10-28.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Gallery filters and more works](docs/media/collection-2026-10-29.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-10-28.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-10-29.jpg)
 
-[![One Floor Plan, Four 3D Offices — the original comparison frame](docs/media/case-2026-10-28.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/koharu-office-floorplan/)
+[![WITHIN — an explorable 3D gallery](docs/media/case-2026-10-29.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/fatasia-within-gallery/)
 
 </details>
 
@@ -63,31 +63,31 @@ Website screenshots were refreshed on **October 28, 2026** from the current loca
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The October 28 update adds **5 works and 5 complete X clips**: a floor-plan office, burning skulls, a mechanical centipede, a kangaroo race, and a mechanical sandworm. Original and smaller complete platform renditions are retained with the model labels visible. The office preview uses an actual frame from the source video. Posts date from October 26–27; today is the collection date. Creator comparisons and reported timings are not independent benchmarks.
+The October 29 update adds **4 works and 2 complete X clips**: an eighteen-world 3D gallery, a Blender storm lighthouse, a browser rocket launch and landing, and MOXstrike. The two comparisons retain their complete original and platform playback versions. Two demo entry pages and creator previews were checked. X posts date from October 27–28; the MOXstrike submitter identity remains unconfirmed.
 
 <!-- atlas:update-previews:start -->
 **This update in pictures — creator works**
 
-| Office · Astra bottom left | Burning skulls · Astra second |
+| WITHIN · Sakura scene | Storm lighthouse · Astra above |
 | --- | --- |
-| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-28/koharu-office-floorplan-frame-15s.jpg" height="220" alt="Office · Astra bottom left">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/koharu-office-floorplan/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2115050416589488128/img/157Lh0u5c8WUCRDN.jpg" height="220" alt="Burning skulls · Astra second">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/typingmind-burning-skulls/) |
-| Centipede · Astra below | Kangaroo race · Astra above |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2115034843184590848/img/sMEfT4YUyxVqlGeb.jpg" height="220" alt="Centipede · Astra below">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kaero-mechanical-centipede/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2114739748564602880/img/7K3jN60IEymbNF1Y.jpg" height="220" alt="Kangaroo race · Astra above">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/gull-kangaroo-race/) |
-| Sandworm · Astra above | Watch the complete clips |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2114697020430602240/img/dRwTUXNhYs63z3e-.jpg" height="220" alt="Sandworm · Astra above">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ivana-mechanical-sandworm/) | [Watch the 5 new clips](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Original files](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-28) |
+| [<img src="https://raw.githubusercontent.com/fatasia/within/main/public/previews/sakura.webp" height="220" alt="WITHIN · Sakura scene">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/fatasia-within-gallery/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2115203494806233088/img/rF4cuFVPCUldx4XU.jpg" height="220" alt="Storm lighthouse · Astra above">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ivanainai-storm-lighthouse/) |
+| Rocket landing · Astra middle | MOXstrike · Submitted screenshot |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2115065721168535552/img/A1R17ylyacyFxWzW.jpg" height="220" alt="Rocket landing · Astra middle">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/quaxguy-rocket-landing/) | [<img src="https://github.com/user-attachments/assets/f784c0d4-5e76-4f69-ba26-13640d3b642f" height="220" alt="MOXstrike · Submitted screenshot">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/moxazza-moxstrike/) |
+
+[Watch the complete clips](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Original files](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-29)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [WITHIN — Eighteen Explorable 3D Worlds](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/fatasia-within-gallery/) | fatasia | [Demo](https://fatasia.github.io/within/) · [Source](https://github.com/fatasia/within) · [Original](https://github.com/fatasia/within) |
+| [Storm Lighthouse — Blender Model Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ivanainai-storm-lighthouse/) | Ivana / @ivanainai | [Original](https://x.com/ivanainai/status/2115204470573351126) |
+| [Rocket Launch and Landing — Three Model Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/quaxguy-rocket-landing/) | Siddharth Jain / @Quaxguy | [Original](https://x.com/Quaxguy/status/2115065795319669224) |
+| [MOXstrike — Browser Sci-Fi Arena Shooter](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/moxazza-moxstrike/) | Moxazza（投稿署名） | [Demo](https://www.moxride.com/home/moxstrike) · [Original](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/131) |
 | [One Floor Plan, Four 3D Offices](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/koharu-office-floorplan/) | 小春｜みならいAI秘書 / @koharu_ai_diary | [Original](https://x.com/koharu_ai_diary/status/2115055288088957372) |
 | [Burning Skulls — A Four-Model Visual Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/typingmind-burning-skulls/) | TypingMind / @TypingMindApp | [Original](https://x.com/TypingMindApp/status/2115050582465806741) |
 | [Mechanical Centipede — Two Desert Creatures](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kaero-mechanical-centipede/) | Kaero / @0x_kaero | [Original](https://x.com/0x_kaero/status/2115035244562636873) |
 | [Kangaroo 100 m — Three 3D Race Animations](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/gull-kangaroo-race/) | Gull / @0xGull | [Original](https://x.com/0xGull/status/2114739834568794292) |
-| [Mechanical Sandworm — Two Models Cross the Dunes](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ivana-mechanical-sandworm/) | Ivana / @ivanainai | [Original](https://x.com/ivanainai/status/2114702817831338182) |
-| [Shenzhen Night Market — One Diorama in Three.js and Blender](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kosti-shenzhen-night-market/) | KostiKoNeuro / Skyline | [Demo](https://kostikoneuro.github.io/kimi-vs-astra/2a-diorama/astra/) · [Source](https://github.com/KostiKoNeuro/kimi-vs-astra) · [Original](https://github.com/KostiKoNeuro/kimi-vs-astra) |
-| [CityMaker — Merge 3D Landmarks into Twelve Cities](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/derek-opencitymaker/) | derek-wangpch | [Demo](https://citymaker.0to1app.com/) · [Source](https://github.com/derek-wangpch/OpenCityMaker) · [Original](https://github.com/derek-wangpch/OpenCityMaker) |
-| [Stillwater — A Moonlit Three.js Swamp](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/chetan-swamp-threejs/) | Chetan Ankola / @chetanankola | [Original](https://x.com/chetanankola/status/2113909026253877485) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

@@ -11273,6 +11273,139 @@
       "newMediaFiles": 10,
       "newMediaBytes": 84509278,
       "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-28"
+    },
+    {
+      "observedAt": "2026-10-29",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "checkedAtUtc": "2026-10-29T00:50:03.375230+00:00",
+      "baselineCommit": "ef0f84702224ee742614238590cc4055d3c98343",
+      "baselineCount": 419,
+      "resultingCount": 423,
+      "addedCaseIds": [
+        "fatasia-within-gallery",
+        "ivanainai-storm-lighthouse",
+        "quaxguy-rocket-landing",
+        "moxazza-moxstrike"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "queries": [
+        "\"GPT-6 Astra\" \"3D\" \"Oct 28\" 2026",
+        "\"GPT-6 Astra\" \"Three.js\" \"Oct 28\"",
+        "\"GPT-6 Astra\" 3D site:xiaohongshu.com",
+        "\"GPT-6 Astra\" 3d game October 28 2026",
+        "gpt-6-astra 3d pushed:>2026-10-20"
+      ],
+      "discoverySources": [
+        "https://aivs.tv/models/gpt-6-astra/",
+        "https://aivs.tv/coding/3d-shaders/",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra",
+        "https://www.tripo3d.ai/3d-prompts/categories/interactive-3d?page=3"
+      ],
+      "coverage": [
+        {
+          "id": "fatasia-within-gallery",
+          "sourceUrl": "https://github.com/fatasia/within",
+          "sourceDate": null,
+          "previewUrl": "https://raw.githubusercontent.com/fatasia/within/main/public/previews/sakura.webp",
+          "roles": "GPT-6 Astra（作者称中 / 高推理档位、多轮迭代）"
+        },
+        {
+          "id": "ivanainai-storm-lighthouse",
+          "sourceUrl": "https://x.com/ivanainai/status/2115204470573351126",
+          "sourceDate": "2026-10-28",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2115203494806233088/img/rF4cuFVPCUldx4XU.jpg",
+          "roles": "GPT-6 Astra / GPT-6.1 Terra（作者同题对照）"
+        },
+        {
+          "id": "quaxguy-rocket-landing",
+          "sourceUrl": "https://x.com/Quaxguy/status/2115065795319669224",
+          "sourceDate": "2026-10-27",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2115065721168535552/img/A1R17ylyacyFxWzW.jpg",
+          "roles": "GPT-6 Astra / GPT-6.1 Sol / GPT-6.1 Terra（作者同题对照）"
+        },
+        {
+          "id": "moxazza-moxstrike",
+          "sourceUrl": "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/131",
+          "sourceDate": null,
+          "previewUrl": "https://github.com/user-attachments/assets/f784c0d4-5e76-4f69-ba26-13640d3b642f",
+          "roles": "GPT-6 Astra（投稿者声明）"
+        }
+      ],
+      "primarySourceChecks": [
+        {
+          "caseId": "ivanainai-storm-lighthouse",
+          "url": "https://x.com/ivanainai/status/2115204470573351126",
+          "authorMatched": true,
+          "timestampMatched": true,
+          "createdAtShanghai": "2026-10-28T06:10:19+08:00",
+          "selectedMediaId": "2115203494806233088"
+        },
+        {
+          "caseId": "quaxguy-rocket-landing",
+          "url": "https://x.com/Quaxguy/status/2115065795319669224",
+          "authorMatched": true,
+          "timestampMatched": true,
+          "createdAtShanghai": "2026-10-27T20:59:16+08:00",
+          "selectedMediaId": "2115065721168535552"
+        }
+      ],
+      "projectSourceChecks": [
+        {
+          "caseId": "fatasia-within-gallery",
+          "issue": "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/126",
+          "issueAuthor": "fatasia",
+          "repoOwner": "fatasia",
+          "repoCreatedAt": "2026-10-15T15:42:05Z",
+          "readmeGitBlobSha1": "5e1656af95eb580dda7778e4b426863a07b74687"
+        },
+        {
+          "caseId": "moxazza-moxstrike",
+          "issue": "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/131",
+          "issueAuthor": "Isipisi94",
+          "attributedCreator": "Moxazza",
+          "identityIndependentlyVerified": false
+        }
+      ],
+      "excludedOrDeferred": [
+        {
+          "sourceUrl": "https://x.com/xingzengji/status/2115076172182880548",
+          "reason": "Actual comparison is a flat 2D bicycle-and-pelican animation; not a 3D case."
+        },
+        {
+          "sourceUrl": "https://x.com/AI_Screening/status/2114776946773286978",
+          "reason": "Actual comparison depicts a flat side-view driving animation; no 3D geometry was established."
+        },
+        {
+          "sourceUrl": "https://x.com/VibeDevarf/status/2115216722919882952",
+          "reason": "Chess music-video comparison has no independently established editable 3D geometry or production method; deferred."
+        },
+        {
+          "sourceUrl": "https://github.com/egoshifted/sillamae",
+          "reason": "Repository describes Astra and a 3D town but no directly usable author screenshot or video was found in this pass."
+        }
+      ],
+      "platformLimits": [
+        "Two X originals were fully fetched and matched to exact-post metadata; videos and model labels were visually inspected.",
+        "The WITHIN attribution comes from an author submission whose account matches the repository owner; MOXstrike identity remains unconfirmed and is labelled secondary.",
+        "Public Xiaohongshu search yielded no additional traceable case with usable media in this pass.",
+        "October 29 is collection date; X posts date October 27 and 28 in Asia/Shanghai; project first-publication dates remain unknown.",
+        "Demo entry GET confirms reachability only, not full playability, physical accuracy or independently reproduced model performance."
+      ],
+      "historicalIncrementalSummary": {
+        "checkedImages": 40,
+        "decodedImages": 40,
+        "checkedVideoCases": 10,
+        "checkedVideoEndpoints": 20,
+        "verifiedVideoEndpoints": 20,
+        "failures": [],
+        "limits": "Historical videos were not downloaded or replayed in full. Image decode and bounded video endpoints only."
+      },
+      "completeSourceClips": 2,
+      "newMediaFiles": 4,
+      "newMediaBytes": 25333366,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-29"
     }
   ]
 }

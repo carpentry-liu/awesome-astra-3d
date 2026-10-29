@@ -996,6 +996,28 @@
       "observedAt": "2026-10-27",
       "result": "reachable",
       "scope": "Complete GET only; no independent playthrough or Blender execution."
+    },
+    {
+      "id": "fatasia-within-gallery",
+      "url": "https://fatasia.github.io/within/",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 839,
+      "sha256": "750213e778bcdcb13c5791448c887b9a55f07f59366b189058205e5e0ab92b92",
+      "observedAt": "2026-10-29",
+      "result": "reachable",
+      "scope": "Complete GET only; no independent playthrough or device compatibility verification."
+    },
+    {
+      "id": "moxazza-moxstrike",
+      "url": "https://www.moxride.com/home/moxstrike",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 136080,
+      "sha256": "d1ef8bd3928841a300fa35bb9814055535ed0fc3255edd0d628aeacc908a6123",
+      "observedAt": "2026-10-29",
+      "result": "reachable",
+      "scope": "Complete GET only; no independent playthrough or device compatibility verification."
     }
   ]
 }

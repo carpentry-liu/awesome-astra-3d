@@ -1,5 +1,199 @@
 [
   {
+    "id": "fatasia-within-gallery",
+    "title": "入画 WITHIN：十八景三维漫游画馆",
+    "titleEn": "WITHIN — Eighteen Explorable 3D Worlds",
+    "category": "程序化场景",
+    "summary": "在清明上河、樱谷、极地与未来街区等18个三维世界间切换，以展卷、漫游或步行方式探索；作者公开React、Three.js工程与在线体验。",
+    "modelLabel": "GPT-6 Astra（作者称中 / 高推理档位、多轮迭代）",
+    "imageCaption": "作者仓库内樱谷场景预览：水面、舟与樱花；这是18景中的一景。",
+    "outcome": "作者说明使用Astra多轮实现与修改，包含场景、材质、动画和界面。站点为艺术演绎，不是考古复原；未独立试玩全部18景或验证手机性能。素材按作者列出的各自许可处理。",
+    "promptSummary": "作者在投稿中描述用Astra逐步构建可游览的画馆，未公开完整对话提示词。",
+    "author": "fatasia",
+    "sourceUrl": "https://github.com/fatasia/within",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "sourceDate": null,
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "项目仓库所有者fatasia在公开投稿中确认Astra的参与范围；成果与源码在同名仓库公开。这是作者描述，本站未复现其开发过程。",
+    "repositoryUrl": "https://github.com/fatasia/within",
+    "demoUrl": "https://fatasia.github.io/within/",
+    "promptUrl": "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/126",
+    "evidenceUrls": [
+      "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/126",
+      "https://github.com/fatasia/within/blob/main/docs/ORIGINALS.md"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/fatasia/within/main/public/previews/sakura.webp",
+    "imageKind": "author-screenshot",
+    "outputType": [
+      "Three.js互动三维画馆",
+      "公开工程与演示入口"
+    ],
+    "group": "astra",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-29",
+    "addedAt": "2026-10-29",
+    "videoUrl": null,
+    "promptExcerpt": null,
+    "promptAvailability": "author-description",
+    "licenseNotes": "第三方作品、媒体及品牌保留原作者与各权利人权利，不纳入本库MIT；保留署名、原帖与纠错/移除入口。",
+    "sourceAccess": "作者投稿与仓库由GitHub连接器读取；README完整GET 3,128字节，Git blob SHA与连接器一致。作者场景图完整GET 238,084字节、解码与目视检查；演示入口完整GET200，未独立试玩。"
+  },
+  {
+    "id": "ivanainai-storm-lighthouse",
+    "title": "暴风雨灯塔：Blender 中的光束与海浪",
+    "titleEn": "Storm Lighthouse — Blender Model Comparison",
+    "category": "Blender 建模",
+    "summary": "灯塔立于夜色中的礁石，光束掠过海面与雨幕；作者用同一任务对照两套Blender动画，Astra在上，Terra在下。",
+    "modelLabel": "GPT-6 Astra / GPT-6.1 Terra（作者同题对照）",
+    "imageCaption": "作者原帖完整封面，Astra在上、Terra在下，保留两栏模型标签。",
+    "outcome": "作者比较两模型并提及每token价格；该价格说法与作品优劣均为作者观察，未作独立性能或价格测试，也未取得可编辑工程。",
+    "promptSummary": "作者描述同题在Blender里搭建并动画化暴风雨中的灯塔；完整原始提示词未核实。",
+    "group": "astra",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-29",
+    "addedAt": "2026-10-29",
+    "videoUrl": "https://x.com/ivanainai/status/2115204470573351126",
+    "promptExcerpt": null,
+    "promptAvailability": "author-description",
+    "licenseNotes": "第三方作品、媒体及品牌保留原作者与各权利人权利，不纳入本库MIT；保留署名、原帖与纠错/移除入口。",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Ivana / @ivanainai",
+    "sourceUrl": "https://x.com/ivanainai/status/2115204470573351126",
+    "sourceDate": "2026-10-28",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者原帖明确提及Astra；完整X HTML的作者与时间和精确同帖辅助元数据一致，视频保留模型标签；作者对照不等于本站独立复现。",
+    "sourceAccess": "原帖完整GET200、146,107字节；封面全量GET200、134,107字节并解码、目视检查。最高码率原版与较小完整平台版均完整下载，媒体ID、时长、MIME、长度和SHA-256核对；严格FFmpeg全长解码exit0且stderr空，未剪辑或转码，Release附件size/digest匹配。",
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "promptUrl": "https://x.com/ivanainai/status/2115204470573351126",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/ivanainai/status/2115204470573351126"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2115203494806233088/img/rF4cuFVPCUldx4XU.jpg",
+    "imageKind": "author-comparison",
+    "outputType": [
+      "作者三维场景动画",
+      "完整原帖录像"
+    ],
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/ivanainai-storm-lighthouse-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-29/ivanainai-storm-lighthouse-1-original.mp4",
+        "durationSeconds": 12.0,
+        "bytes": 9783928,
+        "sha256": "abd026b807f557a5e726a2b848ac7155aeda844c7c9528d4517ea26f319f914a",
+        "sourceUrl": "https://x.com/ivanainai/status/2115204470573351126",
+        "label": "Storm Lighthouse — Blender Model Comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2115203494806233088/img/rF4cuFVPCUldx4XU.jpg"
+      }
+    ]
+  },
+  {
+    "id": "quaxguy-rocket-landing",
+    "title": "火箭发射与回收：三模型浏览器场景",
+    "titleEn": "Rocket Launch and Landing — Three Model Comparison",
+    "category": "程序化场景",
+    "summary": "火箭从发射台升空并返回地面，三栏分别展示Sol、Astra、Terra；Astra位于中栏，完整录像保留发射与降落过程。",
+    "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / GPT-6.1 Terra（作者同题对照）",
+    "imageCaption": "作者原帖完整封面：Sol在上、Astra在中、Terra在下。",
+    "outcome": "作者报告三者均着陆，并给出时间与API等价成本估算；这些是单次自述，非本站复现、真实火箭物理或标准化性能基准。未取得可运行工程。",
+    "promptSummary": "作者称让三个模型制作浏览器三维火箭升空与降落；具体完整提示词未公开。",
+    "group": "astra",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-29",
+    "addedAt": "2026-10-29",
+    "videoUrl": "https://x.com/Quaxguy/status/2115065795319669224",
+    "promptExcerpt": null,
+    "promptAvailability": "author-description",
+    "licenseNotes": "第三方作品、媒体及品牌保留原作者与各权利人权利，不纳入本库MIT；保留署名、原帖与纠错/移除入口。",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Siddharth Jain / @Quaxguy",
+    "sourceUrl": "https://x.com/Quaxguy/status/2115065795319669224",
+    "sourceDate": "2026-10-27",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者原帖明确提及Astra；完整X HTML的作者与时间和精确同帖辅助元数据一致，视频保留模型标签；作者对照不等于本站独立复现。",
+    "sourceAccess": "原帖完整GET200、153,479字节；封面全量GET200、92,592字节并解码、目视检查。最高码率原版与较小完整平台版均完整下载，媒体ID、时长、MIME、长度和SHA-256核对；严格FFmpeg全长解码exit0且stderr空，未剪辑或转码，Release附件size/digest匹配。",
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "promptUrl": "https://x.com/Quaxguy/status/2115065795319669224",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/Quaxguy/status/2115065795319669224"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2115065721168535552/img/A1R17ylyacyFxWzW.jpg",
+    "imageKind": "author-comparison",
+    "outputType": [
+      "作者三维场景动画",
+      "完整原帖录像"
+    ],
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/quaxguy-rocket-landing-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-29/quaxguy-rocket-landing-1-original.mp4",
+        "durationSeconds": 38.0,
+        "bytes": 13619320,
+        "sha256": "6a5cf18c252437d26f37e5058cd565e1623a8193e8737f67261a41f487a5787a",
+        "sourceUrl": "https://x.com/Quaxguy/status/2115065795319669224",
+        "label": "Rocket Launch and Landing — Three Model Comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2115065721168535552/img/A1R17ylyacyFxWzW.jpg"
+      }
+    ]
+  },
+  {
+    "id": "moxazza-moxstrike",
+    "title": "MOXstrike：浏览器中的科幻第一人称竞技场",
+    "titleEn": "MOXstrike — Browser Sci-Fi Arena Shooter",
+    "category": "3D 游戏",
+    "summary": "在科幻空间站中以第一人称移动、瞄准和交战；公开投稿提供浏览器入口和实机截图，并描述多轮AI辅助开发。",
+    "modelLabel": "GPT-6 Astra（投稿者声明）",
+    "imageCaption": "投稿者提供的四格游戏截图，展示第一人称武器、对手与场景。",
+    "outcome": "投稿署名Moxazza，描述Astra辅助编码、测试与迭代；投稿账号与署名的身份关系未独立核实。只检查入口和截图可读取，未独立试玩或验证移动端。",
+    "promptSummary": "投稿只描述多轮开发与测试，未公开完整原始提示词。",
+    "author": "Moxazza（投稿署名）",
+    "sourceUrl": "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/131",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub",
+      "Website"
+    ],
+    "sourceDate": null,
+    "evidenceLevel": "secondary",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "公开投稿署名Moxazza并称使用GPT-6 Astra；投稿账号Isipisi94与署名身份关系未独立验证，按转引待复核处理。",
+    "repositoryUrl": null,
+    "demoUrl": "https://www.moxride.com/home/moxstrike",
+    "promptUrl": "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/131",
+    "evidenceUrls": [
+      "https://github.com/MartinDelophy/awesome-gpt-6-astra/blob/main/assets/screenshots/moxstrike/SOURCE.md"
+    ],
+    "imageUrl": "https://github.com/user-attachments/assets/f784c0d4-5e76-4f69-ba26-13640d3b642f",
+    "imageKind": "submitted-screenshot",
+    "outputType": [
+      "第一人称三维游戏",
+      "演示入口"
+    ],
+    "group": "astra",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-29",
+    "addedAt": "2026-10-29",
+    "videoUrl": null,
+    "promptExcerpt": null,
+    "promptAvailability": "author-description",
+    "licenseNotes": "第三方作品、媒体及品牌保留原作者与各权利人权利，不纳入本库MIT；保留署名、原帖与纠错/移除入口。",
+    "sourceAccess": "GitHub连接器读取公开投稿及核查说明；投稿截图完整GET 241,704字节、解码与目视检查。演示入口完整GET200，未独立试玩。"
+  },
+  {
     "id": "koharu-office-floorplan",
     "title": "一张平面图，四间办公室：三维空间重建对照",
     "titleEn": "One Floor Plan, Four 3D Offices",
