@@ -148,6 +148,12 @@
   min-width: 0;
   overflow-wrap: anywhere;
 }
+.featured-links {
+  display: flex;
+  gap: 6px 12px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
 .featured-credit a,
 .featured-credit button {
   display: inline-flex;

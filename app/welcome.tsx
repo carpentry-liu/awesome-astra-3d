@@ -20,43 +20,37 @@ import { collectionHref, navigateToSection } from '@/src/section-navigation';
 const github = 'https://github.com/carpentry-liu/awesome-astra-3d';
 const spotlights = [
   {
-    id: 'simonw-pelican-bicycle',
-    name: [
-      '三轮对话，一只骑车的鹈鹕',
-      'A pelican, a bicycle, three iterations',
-    ],
-    label: 'BLENDER · .BLEND',
-    note: [
-      '可编辑工程 · Python 脚本与完整对话',
-      'Editable project · Python scripts & transcript',
-    ],
-  },
-  {
-    id: 'ruofeng-orbital-core',
-    name: ['从 Blender，来到你的浏览器', 'From Blender to your browser'],
-    label: 'GLB · THREE.JS',
-    note: [
-      '双环能量核心 · 模型与前端代码',
-      'Orbital Core · Model & frontend code',
-    ],
-  },
-  {
-    id: 'peter-van-gogh-town',
-    name: ['走进梵高画里的小镇', 'Walk into a painted world'],
+    id: 'fatasia-within-gallery',
+    name: ['走进十八景的三维画馆', 'Explore eighteen 3D worlds'],
     label: 'THREE.JS · WORLD',
     note: [
-      '可连续漫步 · 原始单文件网页',
-      'A walkable town · Original single-file page',
+      '樱谷、清明与星月夜 · 在线游览',
+      'Sakura, painted cities & night skies',
     ],
   },
   {
-    id: 'scottstts-jelly-baby',
-    name: ['拉伸、抛掷，和果冻玩一会儿', 'Stretch, throw and play with jelly'],
+    id: 'derek-opencitymaker',
+    name: ['把世界地标拼成三维 2048', 'Build a city, one merge at a time'],
     label: 'THREE.JS · GAME',
     note: [
-      '果冻角色游乐场 · 演示与源码',
-      'Jelly Baby playground · Demo & source',
+      '12 座城市 · 可旋转的建筑拼图',
+      'Twelve cities · Playable landmark puzzle',
     ],
+  },
+  {
+    id: 'kosti-shenzhen-night-market',
+    name: ['走进雨后的深圳夜市', 'Explore Shenzhen after the rain'],
+    label: 'BLENDER · THREE.JS',
+    note: [
+      'Blender 成果 · Three.js 在线场景',
+      'Blender render · Three.js scene',
+    ],
+  },
+  {
+    id: 'pratikgx-embryo-explorer',
+    name: ['拆开看十六阶段三维示意', 'Explore sixteen stages in 3D'],
+    label: 'THREE.JS · EDUCATION',
+    note: ['可缩放、拆分的教育示意', 'Zoomable, explodable educational model'],
   },
   {
     id: 'bambssquad-jetis-digital-twin',
@@ -236,13 +230,19 @@ export function Welcome({
             const item = astra.find((c) => c.id === entry.id);
             if (!item) return null;
             const href = caseHref(item.id, locale);
+            const primaryHref = item.demoUrl ?? href;
+            const demoLink = Boolean(item.demoUrl);
             return (
               <article className="featured-work" key={entry.id}>
                 <a
-                  href={href}
+                  href={primaryHref}
                   className="featured-art"
-                  onClick={(event) => onOpen(event, item)}
-                  aria-label={`${t.openArchive}: ${workTitle(item, locale)}`}
+                  target={demoLink ? '_blank' : undefined}
+                  rel={demoLink ? 'noreferrer' : undefined}
+                  onClick={
+                    demoLink ? undefined : (event) => onOpen(event, item)
+                  }
+                  aria-label={`${demoLink ? t.openDemo : t.openArchive}: ${workTitle(item, locale)}`}
                 >
                   {item.imageUrl && !failedImages.includes(item.id) ? (
                     <img
@@ -258,7 +258,7 @@ export function Welcome({
                   ) : (
                     <div className="spotlight-fallback">
                       <Layers3 size={40} />
-                      <span>{t.openArchive}</span>
+                      <span>{demoLink ? t.openDemo : t.openArchive}</span>
                     </div>
                   )}
                   <span className="featured-label">{entry.label}</span>
@@ -268,7 +268,14 @@ export function Welcome({
                 </a>
                 <div className="featured-caption">
                   <h2>
-                    <a href={href} onClick={(event) => onOpen(event, item)}>
+                    <a
+                      href={primaryHref}
+                      target={demoLink ? '_blank' : undefined}
+                      rel={demoLink ? 'noreferrer' : undefined}
+                      onClick={
+                        demoLink ? undefined : (event) => onOpen(event, item)
+                      }
+                    >
                       {entry.name[languageIndex]}
                     </a>
                   </h2>
@@ -277,15 +284,25 @@ export function Welcome({
                     <span>
                       {item.author} · {t.preview}
                     </span>
-                    {item.demoUrl ? (
-                      <a href={item.demoUrl} target="_blank" rel="noreferrer">
-                        {t.openDemo} <ArrowUpRight size={14} />
+                    <div className="featured-links">
+                      {item.demoUrl && (
+                        <a
+                          href={item.demoUrl}
+                          target="_blank"
+                          rel="noreferrer"
+                          aria-label={`${t.openDemo}: ${workTitle(item, locale)}`}
+                        >
+                          {t.openDemo} <ArrowUpRight size={14} />
+                        </a>
+                      )}
+                      <a
+                        href={href}
+                        onClick={(event) => onOpen(event, item)}
+                        aria-label={`${t.openArchive}: ${workTitle(item, locale)}`}
+                      >
+                        {t.openArchive} <ArrowRight size={14} />
                       </a>
-                    ) : (
-                      <a href={href} onClick={(event) => onOpen(event, item)}>
-                        {t.process} <ArrowRight size={14} />
-                      </a>
-                    )}
+                    </div>
                   </div>
                 </div>
               </article>
