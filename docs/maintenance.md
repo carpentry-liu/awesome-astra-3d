@@ -70,6 +70,8 @@ npm start
 
 执行 `npm run check`（423 条记录、24 项测试与 TypeScript 通过）、`npm run lint`、`npm run build`，以及设置 `GITHUB_PAGES=true` 后的 `npm run build`；普通构建和 Pages 构建各校验 878 静态页、18,830 条本地引用、423 详情 JSON 和 879 项 sitemap。既有 chunk 体积、插件耗时及 Node 包装告警仍存在。
 
+内容提交 `0bff38701e93a3489916fb123e08b8c72606cde6` 的 [GitHub Pages 工作流](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/40832629129)成功。部署后运行临时脚本 `py -3.13 work/spotlights-2026-10-29/verify-public.py`：公开 GitHub 渲染的 README 六组图片、标题、档案和源码链接对应正确；线上首页六组演示和档案地址与事实源一致；线上分享封面完整 GET 的 SHA-256 与本地相同。此检查不代表外站已完整试玩。
+
 ## 最近一次内容验证
 
 实测日期为2026-10-29（Asia/Shanghai）。新增 **4件作品、2段完整X录像、1条源码和2个演示入口**：入画WITHIN、暴风雨灯塔、火箭发射回收与MOXstrike。当前423条记录包括 **411条Astra案例**与12条方法参考，保留118条源码/工程入口、129个演示入口和198段归档录像。两条X原帖上海日期为10月27、28日；两个项目首次发布日期未核实，保持null；10月29日是收录与核查日期。MOXstrike的模型归属按转引待复核标记。
