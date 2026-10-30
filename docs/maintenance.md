@@ -77,6 +77,8 @@ npm start
 | 页面与截图 | 首页、案例区与详情页使用 1440×1100 桌面视口，手机首页使用 390×844 视口，检查时无页面横向溢出；首页六张精选图、新增卡片图和详情图可加载。首页、详情和视频页控制台 error / warn 均为零。四张实拍与 `public/share.jpg` 已更新，临时视口已恢复 |
 | 归属与限制 | 高山湖泊帖子写 Astra 成本 45 美元，视频末帧为 46 美元，未将其作为独立性能结论；Blender MCP 栏未推断模型。另一果冻绿洲对照常用封面属于 Claude，Astra 图返回 500，故暂缓收录 |
 
+内容提交 `8df4c836cf624044a2e5cdf9cb4260925f0ed13a` 的 [GitHub Pages 工作流](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/40985637890)成功。部署后执行 `python work/2026-10-30/verify-production.py`，25 项完整 GET 和内容 / hash 核验通过，覆盖线上首页、目录、sitemap、三件案例的中英文详情与 JSON、两份播放视频、三张预览、分享封面、四张仓库截图和双语 README / 视频清单。四个 Release 附件的服务器大小与 SHA-256 digest 另经 GitHub 接口核对一致。线上视频验证为完整下载与 hash 比对，浏览器全长播放在本地生产构建完成；案例库 ChatGPT Site 未重新部署。
+
 ## 精选入口调整与核查（2026-10-29）
 
 中英文 README 与网站精选换入入画 WITHIN、CityMaker、深圳雨夜市集和 Embryo Explorer，保留 Jetis 与五个三维故事。标题和图片直接链接作者演示，另保留作品档案；README 增加源码入口。深圳夜市的 Blender 成果图与 Three.js 演示明确区分。未改案例事实源、视频或收录数量。
