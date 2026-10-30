@@ -1,5 +1,155 @@
 [
   {
+    "id": "aibattles-aurora-frozen-lake",
+    "title": "冰湖极光：可直接打开的 Three.js 场景",
+    "titleEn": "Aurora over a Frozen Lake — Three.js Scene",
+    "category": "程序化场景",
+    "summary": "冰封湖面映出绿色极光，山峦和天空组成自动循环的 Three.js 场景；对照页同时保留另一模型的结果与任务说明。",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5（平台同题对照）",
+    "imageCaption": "AI Battle 对照页明确标注的 GPT-6 Astra 成果截图，画面来自动画运行数秒后。",
+    "outcome": "平台记录请求模型为 GPT-6 Astra，实际解析版本未提供；时间、检查及投票结果属于单次公开运行，不能当成普遍性能结论。未独立复现或验证各设备上的运行表现。",
+    "promptSummary": "同一任务要求用 Three.js 制作冰湖极光的自动循环场景；完整任务及约束见原对照页。",
+    "author": "AI Battle（公开对照平台）",
+    "sourceUrl": "https://aibattles.dev/battles/aurora-borealis-over-a-frozen-lake-2026-10-27",
+    "platform": "Website",
+    "platforms": [
+      "Website"
+    ],
+    "sourceDate": "2026-10-27",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "对照平台公开记录请求模型、运行配置和 Astra 专属成果截图；解析版本标为未知，平台自身的检查不等同本站复现。",
+    "sourceAccess": "对照页完整 GET 178,075 字节；Astra 成果图完整 GET 48,090 字节、解码与目视检查；Astra 单独运行入口完整 GET 13,896 字节，尚未独立试玩。",
+    "repositoryUrl": null,
+    "demoUrl": "https://aibattles.dev/play/a1fd0a9f-4928-4e70-a3e3-3d9424f11e47",
+    "promptUrl": "https://aibattles.dev/battles/aurora-borealis-over-a-frozen-lake-2026-10-27",
+    "evidenceUrls": [
+      "https://aibattles.dev/battles/aurora-borealis-over-a-frozen-lake-2026-10-27#entry-ad356a1a-131e-4987-8e1f-6189959d35ea"
+    ],
+    "imageUrl": "https://aibattles.dev/media/c0841073-7cf3-48c1-b6e6-a93e43541e66",
+    "imageKind": "author-screenshot",
+    "outputType": [
+      "Three.js 自动循环场景",
+      "作者在线入口"
+    ],
+    "group": "astra",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-30",
+    "addedAt": "2026-10-30",
+    "videoUrl": null,
+    "promptExcerpt": null,
+    "promptAvailability": "full-linked",
+    "licenseNotes": "第三方作品、媒体及品牌保留原作者与各权利人权利，不纳入本库 MIT；保留署名、原帖与纠错／移除入口。"
+  },
+  {
+    "id": "timjayas-cow-cycle-comparison",
+    "title": "自行车、奶牛与滑板：两模型三维叠骑",
+    "titleEn": "Bicycle, Cow and Skateboard — Two-model 3D Comparison",
+    "category": "程序化场景",
+    "summary": "自行车、奶牛、人物和滑板叠成一组三维造型；作者用同一 Three.js 任务对照 Terra 与 Astra，Astra 位于右侧。",
+    "modelLabel": "GPT-6 Astra / GPT-6.1 Terra（作者同题对照）",
+    "imageCaption": "作者原帖的完整双栏封面，Astra 在右、Terra 在左，保留模型标签。",
+    "outcome": "作者描述同题比较并分享完整录像；该单次观察不是独立基准，未取得可运行工程或独立复现模型。",
+    "promptSummary": "作者给两个模型同一任务：用 Three.js 在白色背景中制作自行车、奶牛、人物与滑板叠在一起的三维造型。",
+    "group": "astra",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-30",
+    "addedAt": "2026-10-30",
+    "videoUrl": "https://x.com/TimJayas/status/2115074545166287075",
+    "promptExcerpt": null,
+    "promptAvailability": "full-linked",
+    "licenseNotes": "第三方作品、媒体及品牌保留原作者与各权利人权利，不纳入本库 MIT；保留署名、原帖与纠错／移除入口。",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Tim Jayas / @TimJayas",
+    "sourceUrl": "https://x.com/TimJayas/status/2115074545166287075",
+    "sourceDate": "2026-10-27",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者原帖明确提及 Astra；原帖 HTML 与同帖辅助元数据的作者、时间一致，视频保留模型标签；作者对照不等于本站独立复现。",
+    "sourceAccess": "原帖完整 GET 150,933 字节；原帖封面完整 GET 46,679 字节并解码、目视检查。原版与较小平台版均完整下载，核对媒体 ID、时长、MIME、长度和 SHA-256；FFmpeg 全长严格解码通过，未剪辑或转码，Release 附件 digest 一致。",
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "promptUrl": "https://x.com/TimJayas/status/2115074545166287075",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/TimJayas/status/2115074545166287075"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2115074253842460672/img/_LRNu3iUMdXYnv6p.jpg",
+    "imageKind": "author-comparison",
+    "outputType": [
+      "作者三维场景对照",
+      "完整原帖录像"
+    ],
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/timjayas-cow-cycle-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-30/timjayas-cow-cycle-comparison-1-original.mp4",
+        "durationSeconds": 41.05,
+        "bytes": 11893622,
+        "sha256": "9ff3f1ce2ba19f287d8380b15a6e4e0ea2f7b3bb207cdce498e33cd6ef29ed46",
+        "sourceUrl": "https://x.com/TimJayas/status/2115074545166287075",
+        "label": "Bicycle, Cow and Skateboard — Two-model 3D Comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2115074253842460672/img/_LRNu3iUMdXYnv6p.jpg"
+      }
+    ]
+  },
+  {
+    "id": "lummox-alpine-lake-comparison",
+    "title": "阿尔卑斯湖泊：四种 Blender 工作流对照",
+    "titleEn": "Alpine Lake — Four Blender Workflow Comparison",
+    "category": "Blender 建模",
+    "summary": "山脉、湖水、瀑布与小船组成高山湖泊；作者展示四种工作流的场景对照，Astra 画面位于右上。",
+    "modelLabel": "GPT-6 Astra / Kimi K3.1 / Blender MCP / Claude Code（作者对照标签）",
+    "imageCaption": "作者原帖四宫格封面，Astra 位于右上；其余栏按原视频标签保留。",
+    "outcome": "作者自述同一挑战的耗时和成本，但帖子称 Astra 为 45 美元，视频末帧为 46 美元；具体统计口径和工程未独立验证。左下只标 Blender MCP，不能推断使用的模型。",
+    "promptSummary": "作者给出可复用的 Blender 湖泊挑战，要求山脉、瀑布、反射水面、小船和镜头动画；无法独立确认展示成果使用该原文。",
+    "group": "astra",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-30",
+    "addedAt": "2026-10-30",
+    "videoUrl": "https://x.com/Lummox_eth/status/2115164427657904336",
+    "promptExcerpt": null,
+    "promptAvailability": "author-description",
+    "licenseNotes": "第三方作品、媒体及品牌保留原作者与各权利人权利，不纳入本库 MIT；保留署名、原帖与纠错／移除入口。",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Lummox / @Lummox_eth",
+    "sourceUrl": "https://x.com/Lummox_eth/status/2115164427657904336",
+    "sourceDate": "2026-10-28",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者原帖明确提及 Astra；原帖 HTML 与同帖辅助元数据的作者、时间一致，视频保留模型标签；作者对照不等于本站独立复现。",
+    "sourceAccess": "原帖完整 GET 179,637 字节；原帖封面完整 GET 220,348 字节并解码、目视检查。原版与较小平台版均完整下载，核对媒体 ID、时长、MIME、长度和 SHA-256；FFmpeg 全长严格解码通过，未剪辑或转码，Release 附件 digest 一致。",
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "promptUrl": "https://x.com/Lummox_eth/status/2115164427657904336",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/Lummox_eth/status/2115164427657904336"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2115164140381634561/img/xj8qMVIiK2YBa6e0.jpg",
+    "imageKind": "author-comparison",
+    "outputType": [
+      "作者三维场景对照",
+      "完整原帖录像"
+    ],
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/lummox-alpine-lake-comparison-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-30/lummox-alpine-lake-comparison-1-original.mp4",
+        "durationSeconds": 25.05,
+        "bytes": 9214190,
+        "sha256": "03d22d3aa96a430d807763db4a8349fb1651b76d9dbad5c065fcc85689620c93",
+        "sourceUrl": "https://x.com/Lummox_eth/status/2115164427657904336",
+        "label": "Alpine Lake — Four Blender Workflow Comparison",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2115164140381634561/img/xj8qMVIiK2YBa6e0.jpg"
+      }
+    ]
+  },
+  {
     "id": "fatasia-within-gallery",
     "title": "入画 WITHIN：十八景三维漫游画馆",
     "titleEn": "WITHIN — Eighteen Explorable 3D Worlds",

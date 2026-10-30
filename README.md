@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-10-29（Asia/Shanghai）**：**411 条 Astra 案例** · **118 条源码 / 工程** · **129 个演示入口** · **198 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-10-30（Asia/Shanghai）**：**414 条 Astra 案例** · **118 条源码 / 工程** · **130 个演示入口** · **200 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -44,18 +44,18 @@
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-29.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-网站实拍更新于 **2026-10-29**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+网站实拍更新于 **2026-10-30**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
-<summary>查看案例区、手机与作品详情实拍 · 2026-10-29</summary>
+<summary>查看案例区、手机与作品详情实拍 · 2026-10-30</summary>
 
-[![案例区：筛选与更多作品](docs/media/collection-2026-10-29.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![案例区：筛选与更多作品](docs/media/collection-2026-10-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端：精选作品与材料导航](docs/media/mobile-2026-10-29.jpg)
+![手机端：精选作品与材料导航](docs/media/mobile-2026-10-30.jpg)
 
-[![入画 WITHIN：十八景三维漫游画馆](docs/media/case-2026-10-29.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/fatasia-within-gallery/)
+[![冰湖极光：Three.js 场景详情](docs/media/case-2026-10-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/aibattles-aurora-frozen-lake/)
 
 </details>
 
@@ -63,31 +63,29 @@
 
 这里按本库收录日期排列；作品首次发布、模型配置与核查日期在各档案中分别记录。稳定精选不随日更替换。
 
-10 月 29 日新增收录 **4 件作品、2 段完整 X 录像**：十八景三维画馆、Blender 暴风灯塔、浏览器火箭发射与回收，以及科幻竞技场 MOXstrike。两段对照录像保留完整原版和平台播放版；两处在线入口及作品预览已核查。X 原帖发布于 10 月 27、28 日；游戏投稿的署名与账号关系仍待复核。
+10 月 30 日新增收录 **3 件作品、2 段完整 X 录像**：冰湖极光、奶牛与滑板三维叠骑、阿尔卑斯湖泊。录像保留原版及平台播放版；极光有单独的在线场景入口。原作品发表于 10 月 27—28 日，湖泊对照的成本文字与视频末帧不一致。
 
 <!-- atlas:update-previews:start -->
 **本轮成果预览（第三方原作）**
 
-| 入画 · 樱谷场景 | 暴风灯塔 · Astra 上栏 |
-| --- | --- |
-| [<img src="https://raw.githubusercontent.com/fatasia/within/main/public/previews/sakura.webp" height="220" alt="入画 · 樱谷场景">](https://carpentry-liu.github.io/awesome-astra-3d/cases/fatasia-within-gallery/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2115203494806233088/img/rF4cuFVPCUldx4XU.jpg" height="220" alt="暴风灯塔 · Astra 上栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/ivanainai-storm-lighthouse/) |
-| 火箭回收 · Astra 中栏 | MOXstrike · 投稿截图 |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2115065721168535552/img/A1R17ylyacyFxWzW.jpg" height="220" alt="火箭回收 · Astra 中栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/quaxguy-rocket-landing/) | [<img src="https://github.com/user-attachments/assets/f784c0d4-5e76-4f69-ba26-13640d3b642f" height="220" alt="MOXstrike · 投稿截图">](https://carpentry-liu.github.io/awesome-astra-3d/cases/moxazza-moxstrike/) |
+| 冰湖极光 · Astra 场景 | 三维叠骑 · Astra 右侧 | 高山湖泊 · Astra 右上 |
+| --- | --- | --- |
+| [<img src="https://aibattles.dev/media/c0841073-7cf3-48c1-b6e6-a93e43541e66" height="200" alt="冰湖极光 · Astra 场景">](https://carpentry-liu.github.io/awesome-astra-3d/cases/aibattles-aurora-frozen-lake/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2115074253842460672/img/_LRNu3iUMdXYnv6p.jpg" height="200" alt="三维叠骑 · Astra 右侧">](https://carpentry-liu.github.io/awesome-astra-3d/cases/timjayas-cow-cycle-comparison/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2115164140381634561/img/xj8qMVIiK2YBa6e0.jpg" height="200" alt="高山湖泊 · Astra 右上">](https://carpentry-liu.github.io/awesome-astra-3d/cases/lummox-alpine-lake-comparison/) |
 
-[查看本轮完整录像](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video&order=newest#collection) · [下载完整原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-29)
+[查看本轮完整录像](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video&order=newest#collection) · [下载完整原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-30)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
+| [冰湖极光：可直接打开的 Three.js 场景](https://carpentry-liu.github.io/awesome-astra-3d/cases/aibattles-aurora-frozen-lake/) | AI Battle（公开对照平台） | [演示](https://aibattles.dev/play/a1fd0a9f-4928-4e70-a3e3-3d9424f11e47) · [原始来源](https://aibattles.dev/battles/aurora-borealis-over-a-frozen-lake-2026-10-27) |
+| [自行车、奶牛与滑板：两模型三维叠骑](https://carpentry-liu.github.io/awesome-astra-3d/cases/timjayas-cow-cycle-comparison/) | Tim Jayas / @TimJayas | [原始来源](https://x.com/TimJayas/status/2115074545166287075) |
+| [阿尔卑斯湖泊：四种 Blender 工作流对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/lummox-alpine-lake-comparison/) | Lummox / @Lummox_eth | [原始来源](https://x.com/Lummox_eth/status/2115164427657904336) |
 | [入画 WITHIN：十八景三维漫游画馆](https://carpentry-liu.github.io/awesome-astra-3d/cases/fatasia-within-gallery/) | fatasia | [演示](https://fatasia.github.io/within/) · [源码](https://github.com/fatasia/within) · [原始来源](https://github.com/fatasia/within) |
 | [暴风雨灯塔：Blender 中的光束与海浪](https://carpentry-liu.github.io/awesome-astra-3d/cases/ivanainai-storm-lighthouse/) | Ivana / @ivanainai | [原始来源](https://x.com/ivanainai/status/2115204470573351126) |
 | [火箭发射与回收：三模型浏览器场景](https://carpentry-liu.github.io/awesome-astra-3d/cases/quaxguy-rocket-landing/) | Siddharth Jain / @Quaxguy | [原始来源](https://x.com/Quaxguy/status/2115065795319669224) |
 | [MOXstrike：浏览器中的科幻第一人称竞技场](https://carpentry-liu.github.io/awesome-astra-3d/cases/moxazza-moxstrike/) | Moxazza（投稿署名） | [演示](https://www.moxride.com/home/moxstrike) · [原始来源](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/131) |
 | [一张平面图，四间办公室：三维空间重建对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/koharu-office-floorplan/) | 小春｜みならいAI秘書 / @koharu_ai_diary | [原始来源](https://x.com/koharu_ai_diary/status/2115055288088957372) |
-| [火焰骷髅：四个模型的动态视觉对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/typingmind-burning-skulls/) | TypingMind / @TypingMindApp | [原始来源](https://x.com/TypingMindApp/status/2115050582465806741) |
-| [沙漠机械蜈蚣：双模型的装甲与关节对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/kaero-mechanical-centipede/) | Kaero / @0x_kaero | [原始来源](https://x.com/0x_kaero/status/2115035244562636873) |
-| [袋鼠百米跑：三维角色与赛道动画](https://carpentry-liu.github.io/awesome-astra-3d/cases/gull-kangaroo-race/) | Gull / @0xGull | [原始来源](https://x.com/0xGull/status/2114739834568794292) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)

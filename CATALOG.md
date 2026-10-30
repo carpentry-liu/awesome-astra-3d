@@ -1,13 +1,15 @@
 # 案例目录
 
-由 `data/cases.json` 生成。最近核查：2026-10-29。[上手路线](START_HERE.md) · [最新收录](UPDATES.md)。作品归属基于公开来源，不代表独立复现。
+由 `data/cases.json` 生成。最近核查：2026-10-30。[上手路线](START_HERE.md) · [最新收录](UPDATES.md)。作品归属基于公开来源，不代表独立复现。
 
-## GPT-6 Astra 案例（411）
+## GPT-6 Astra 案例（414）
 
 ### 程序化场景
 
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
+| [冰湖极光：可直接打开的 Three.js 场景](https://aibattles.dev/battles/aurora-borealis-over-a-frozen-lake-2026-10-27) | AI Battle（公开对照平台） · Website | 作者自述 | [在线作品](https://aibattles.dev/play/a1fd0a9f-4928-4e70-a3e3-3d9424f11e47) · [提示词/过程](https://aibattles.dev/battles/aurora-borealis-over-a-frozen-lake-2026-10-27) |
+| [自行车、奶牛与滑板：两模型三维叠骑](https://x.com/TimJayas/status/2115074545166287075) | Tim Jayas / @TimJayas · X | 作者自述 | [视频](https://x.com/TimJayas/status/2115074545166287075) · [提示词/过程](https://x.com/TimJayas/status/2115074545166287075) |
 | [入画 WITHIN：十八景三维漫游画馆](https://github.com/fatasia/within) | fatasia · GitHub | 作者自述 | [在线作品](https://fatasia.github.io/within/) · [源码](https://github.com/fatasia/within) · [提示词/过程](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/126) |
 | [火箭发射与回收：三模型浏览器场景](https://x.com/Quaxguy/status/2115065795319669224) | Siddharth Jain / @Quaxguy · X | 作者自述 | [视频](https://x.com/Quaxguy/status/2115065795319669224) · [提示词/过程](https://x.com/Quaxguy/status/2115065795319669224) |
 | [机械沙虫：沙丘中的双模型连续动画](https://x.com/ivanainai/status/2114702817831338182) | Ivana / @ivanainai · X | 作者自述 | [视频](https://x.com/ivanainai/status/2114702817831338182) · [提示词/过程](https://x.com/ivanainai/status/2114702817831338182) |
@@ -66,6 +68,7 @@
 
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
+| [阿尔卑斯湖泊：四种 Blender 工作流对照](https://x.com/Lummox_eth/status/2115164427657904336) | Lummox / @Lummox_eth · X | 作者自述 | [视频](https://x.com/Lummox_eth/status/2115164427657904336) · [提示词/过程](https://x.com/Lummox_eth/status/2115164427657904336) |
 | [暴风雨灯塔：Blender 中的光束与海浪](https://x.com/ivanainai/status/2115204470573351126) | Ivana / @ivanainai · X | 作者自述 | [视频](https://x.com/ivanainai/status/2115204470573351126) · [提示词/过程](https://x.com/ivanainai/status/2115204470573351126) |
 | [深圳雨夜市集：Three.js 到 Blender 的同一座小城](https://github.com/KostiKoNeuro/kimi-vs-astra) | KostiKoNeuro / Skyline · GitHub | 作者自述 | [在线作品](https://kostikoneuro.github.io/kimi-vs-astra/2a-diorama/astra/) · [源码](https://github.com/KostiKoNeuro/kimi-vs-astra) · [提示词/过程](https://github.com/KostiKoNeuro/kimi-vs-astra/blob/main/prompts/2a-diorama.md) |
 | [训练假人：Blender MCP 的同题建模对照](https://x.com/maxt3chno/status/2113321027325300784) | Max / @maxt3chno · X | 作者自述 | [视频](https://x.com/maxt3chno/status/2113321027325300784) · [提示词/过程](https://x.com/maxt3chno/status/2113321027325300784) |

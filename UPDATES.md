@@ -2,6 +2,14 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-30 · 3 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [冰湖极光：可直接打开的 Three.js 场景 / Aurora over a Frozen Lake — Three.js Scene](https://carpentry-liu.github.io/awesome-astra-3d/cases/aibattles-aurora-frozen-lake/) | AI Battle（公开对照平台） | 演示入口 · 提示词 / 过程 |
+| [自行车、奶牛与滑板：两模型三维叠骑 / Bicycle, Cow and Skateboard — Two-model 3D Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/timjayas-cow-cycle-comparison/) | Tim Jayas / @TimJayas | 完整视频 · 提示词 / 过程 |
+| [阿尔卑斯湖泊：四种 Blender 工作流对照 / Alpine Lake — Four Blender Workflow Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/lummox-alpine-lake-comparison/) | Lummox / @Lummox_eth | 完整视频 · 提示词 / 过程 |
+
 ## 2026-10-29 · 4 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

@@ -25075,6 +25075,320 @@
         }
       ],
       "removedCaseIds": []
+    },
+    {
+      "checkedAt": "2026-10-30",
+      "round": "daily",
+      "scope": "Three new case sources and previews, plus sampled historical preview and video endpoints.",
+      "addedCaseIds": [
+        "aibattles-aurora-frozen-lake",
+        "timjayas-cow-cycle-comparison",
+        "lummox-alpine-lake-comparison"
+      ],
+      "sourceChecks": [
+        {
+          "caseId": "timjayas-cow-cycle-comparison",
+          "url": "https://x.com/TimJayas/status/2115074545166287075",
+          "status": 200,
+          "bytes": 150933,
+          "authorMatched": true,
+          "timestampMatched": true,
+          "createdAtShanghai": "2026-10-27T21:34:02+08:00",
+          "selectedMediaId": "2115074253842460672"
+        },
+        {
+          "caseId": "lummox-alpine-lake-comparison",
+          "url": "https://x.com/Lummox_eth/status/2115164427657904336",
+          "status": 200,
+          "bytes": 179637,
+          "authorMatched": true,
+          "timestampMatched": true,
+          "createdAtShanghai": "2026-10-28T03:31:12+08:00",
+          "selectedMediaId": "2115164140381634561"
+        }
+      ],
+      "projectChecks": [
+        {
+          "kind": "source",
+          "url": "https://aibattles.dev/battles/aurora-borealis-over-a-frozen-lake-2026-10-27",
+          "status": 200,
+          "contentType": "text/html",
+          "bytes": 178075,
+          "sha256": "43cdc2a1c9b88bc6d0d0b49600458f24ec2fd10b6a92f7ec7ad0c53b81ccb889",
+          "finalUrl": "https://aibattles.dev/battles/aurora-borealis-over-a-frozen-lake-2026-10-27",
+          "checkedAtUtc": "2026-10-30T01:08:39.899392+00:00",
+          "title": "Round 13: Aurora borealis over a frozen lake · AI Battle"
+        },
+        {
+          "kind": "demo",
+          "url": "https://aibattles.dev/play/a1fd0a9f-4928-4e70-a3e3-3d9424f11e47",
+          "status": 200,
+          "contentType": "text/html",
+          "bytes": 13896,
+          "sha256": "2abf3545b6652d48ebcf893c6da53efcba7a9de35749361b225297aad1143a9d",
+          "finalUrl": "https://aibattles.dev/play/a1fd0a9f-4928-4e70-a3e3-3d9424f11e47",
+          "checkedAtUtc": "2026-10-30T01:08:42.805206+00:00",
+          "title": "Aurora"
+        }
+      ],
+      "previewChecks": [
+        {
+          "caseId": "aibattles-aurora-frozen-lake",
+          "url": "https://aibattles.dev/media/c0841073-7cf3-48c1-b6e6-a93e43541e66",
+          "httpStatus": 200,
+          "contentType": "image/webp",
+          "bytes": 48090,
+          "sha256": "1178aad32c4e6071dfa77312a2253f9dba1c4d59e4ef2e76aa2bf28eb000e22d",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "fullGet": true,
+          "actualImageFormat": "WEBP"
+        },
+        {
+          "caseId": "timjayas-cow-cycle-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2115074253842460672/img/_LRNu3iUMdXYnv6p.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 46679,
+          "sha256": "d9524db110a1e5f52601425074815dd9bfd0ed01fe6b55fd94f2b0646c524447",
+          "dimensions": [
+            1200,
+            625
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "fullGet": true,
+          "actualImageFormat": "JPEG"
+        },
+        {
+          "caseId": "lummox-alpine-lake-comparison",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2115164140381634561/img/xj8qMVIiK2YBa6e0.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 220348,
+          "sha256": "773edb9690f602a11230da507c491c4e13533ea105f38ab99bb1feca93c081bf",
+          "dimensions": [
+            1200,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "fullGet": true,
+          "actualImageFormat": "JPEG"
+        }
+      ],
+      "removedCaseIds": [],
+      "historicalImageChecks": [
+        {
+          "caseId": "fatasia-within-gallery",
+          "url": "https://raw.githubusercontent.com/fatasia/within/main/public/previews/sakura.webp",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "ivanainai-storm-lighthouse",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2115203494806233088/img/rF4cuFVPCUldx4XU.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "quaxguy-rocket-landing",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2115065721168535552/img/A1R17ylyacyFxWzW.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "moxazza-moxstrike",
+          "url": "https://github.com/user-attachments/assets/f784c0d4-5e76-4f69-ba26-13640d3b642f",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "koharu-office-floorplan",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-28/koharu-office-floorplan-frame-15s.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "typingmind-burning-skulls",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2115050416589488128/img/157Lh0u5c8WUCRDN.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "kaero-mechanical-centipede",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2115034843184590848/img/sMEfT4YUyxVqlGeb.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "gull-kangaroo-race",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2114739748564602880/img/7K3jN60IEymbNF1Y.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "ivana-mechanical-sandworm",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2114697020430602240/img/dRwTUXNhYs63z3e-.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "kosti-shenzhen-night-market",
+          "url": "https://raw.githubusercontent.com/KostiKoNeuro/kimi-vs-astra/main/2b-blender/astra/hero.png",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "derek-opencitymaker",
+          "url": "https://raw.githubusercontent.com/derek-wangpch/OpenCityMaker/master/docs/images/citymaker-game.png",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "jonathanmorales-digital-reset",
+          "url": "https://jonathanmorales.com/lab/agent-game-jams/images/digital-reset/astra-codex-daylight.webp",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "onemorevision-dxf-3dsmax-interior",
+          "url": "https://assets.st-note.com/img/1791187181-gkjB9w46H5RNzqCvsLEMKIaF.png?width=1200",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "allegromoltov-relic-unity",
+          "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4318473%2Fd1ca35fd-d4d5-4899-92ad-e58312e3317b.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=cc544efe2d306732c9c7910893340b03",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "chatgpttest-coastal-cat-memory-off",
+          "url": "https://raw.githubusercontent.com/313715295/ChatGPT-Test/main/docs/experiments/2026-10-02-coastal-cat-memory-off/evidence/B-desktop-default.png",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "nightstar-realm-of-seratari",
+          "url": "https://raw.githubusercontent.com/MartinDelophy/awesome-gpt-6-astra/main/assets/screenshots/realm-of-seratari/gameplay.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "airilab-rhino-building",
+          "url": "https://i0.hdslb.com/bfs/archive/2a149d5532231b7b9738c53077b353a87015829e.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "danmana-piata-unirii",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096248939876126720/img/s3bAAUu8zYiJXskz.jpg",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "az9713-robo-open",
+          "url": "https://raw.githubusercontent.com/az9713/gpt-6-astra-tennis-game/main/docs/media/v2/main-menu.png",
+          "status": 200,
+          "result": "image-verified"
+        },
+        {
+          "caseId": "aibattle-sonic-godot",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095992908448944130/img/v8BSAp4Xt5knPeV0.jpg",
+          "status": 200,
+          "result": "image-verified"
+        }
+      ],
+      "historicalVideoEndpointChecks": [
+        {
+          "caseId": "ivanainai-storm-lighthouse",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/ivanainai-storm-lighthouse-1-web.mp4",
+          "endpointKind": "Pages playback",
+          "status": 206,
+          "contentRange": "bytes 0-4095/721948",
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "ivanainai-storm-lighthouse",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-29/ivanainai-storm-lighthouse-1-original.mp4",
+          "endpointKind": "Release original",
+          "status": 206,
+          "contentRange": "bytes 0-4095/9783928",
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "quaxguy-rocket-landing",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/quaxguy-rocket-landing-1-web.mp4",
+          "endpointKind": "Pages playback",
+          "status": 206,
+          "contentRange": "bytes 0-4095/1208170",
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "quaxguy-rocket-landing",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-29/quaxguy-rocket-landing-1-original.mp4",
+          "endpointKind": "Release original",
+          "status": 206,
+          "contentRange": "bytes 0-4095/13619320",
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "koharu-office-floorplan",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/koharu-office-floorplan-1-web.mp4",
+          "endpointKind": "Pages playback",
+          "status": 206,
+          "contentRange": "bytes 0-4095/1078258",
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "koharu-office-floorplan",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-28/koharu-office-floorplan-1-original.mp4",
+          "endpointKind": "Release original",
+          "status": 206,
+          "contentRange": "bytes 0-4095/13477196",
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "keane-melon-jelly",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/keane-melon-jelly-1-web.mp4",
+          "endpointKind": "Pages playback",
+          "status": 206,
+          "contentRange": "bytes 0-4095/1045310",
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "keane-melon-jelly",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-30/keane-melon-jelly-1-original.mp4",
+          "endpointKind": "Release original",
+          "status": 206,
+          "contentRange": "bytes 0-4095/8642778",
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "aibattle-sonic-godot",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/aibattle-sonic-godot-1-web.mp4",
+          "endpointKind": "Pages playback",
+          "status": 206,
+          "contentRange": "bytes 0-4095/8289737",
+          "result": "mp4-endpoint-verified"
+        },
+        {
+          "caseId": "aibattle-sonic-godot",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-06/aibattle-sonic-godot-1-original.mp4",
+          "endpointKind": "Release original",
+          "status": 206,
+          "contentRange": "bytes 0-4095/26328880",
+          "result": "mp4-endpoint-verified"
+        }
+      ]
     }
   ]
 }

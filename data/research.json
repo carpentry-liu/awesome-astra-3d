@@ -11406,6 +11406,110 @@
       "newMediaFiles": 4,
       "newMediaBytes": 25333366,
       "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-29"
+    },
+    {
+      "observedAt": "2026-10-30",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "checkedAtUtc": "2026-10-30T01:10:57.486621+00:00",
+      "baselineCommit": "c4a9d8e5723ef16a548d4d04f80eceb3554513cb",
+      "baselineCount": 423,
+      "resultingCount": 426,
+      "addedCaseIds": [
+        "aibattles-aurora-frozen-lake",
+        "timjayas-cow-cycle-comparison",
+        "lummox-alpine-lake-comparison"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "queries": [
+        "\"GPT-6 Astra\" 3D Three.js October 2026",
+        "\"GPT-6 Astra\" Blender October 2026",
+        "site:x.com \"Astra\" \"three.js\" 3D",
+        "site:xiaohongshu.com \"GPT-6 Astra\" 三维 2026 10",
+        "\"gpt-6-astra\" 3d pushed:>=2026-10-27"
+      ],
+      "discoverySources": [
+        "https://aibattles.dev/battles",
+        "https://www.tripo3d.ai/3d-prompts/categories/3d-assets",
+        "https://github.com/TripoGrowthLab/awesome-astra-prompts",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues"
+      ],
+      "coverage": [
+        {
+          "id": "aibattles-aurora-frozen-lake",
+          "sourceUrl": "https://aibattles.dev/battles/aurora-borealis-over-a-frozen-lake-2026-10-27",
+          "sourceDate": "2026-10-27",
+          "previewUrl": "https://aibattles.dev/media/c0841073-7cf3-48c1-b6e6-a93e43541e66",
+          "roles": "GPT-6 Astra / Claude Opus 5.5（平台同题对照）"
+        },
+        {
+          "id": "timjayas-cow-cycle-comparison",
+          "sourceUrl": "https://x.com/TimJayas/status/2115074545166287075",
+          "sourceDate": "2026-10-27",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2115074253842460672/img/_LRNu3iUMdXYnv6p.jpg",
+          "roles": "GPT-6 Astra / GPT-6.1 Terra（作者同题对照）"
+        },
+        {
+          "id": "lummox-alpine-lake-comparison",
+          "sourceUrl": "https://x.com/Lummox_eth/status/2115164427657904336",
+          "sourceDate": "2026-10-28",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2115164140381634561/img/xj8qMVIiK2YBa6e0.jpg",
+          "roles": "GPT-6 Astra / Kimi K3.1 / Blender MCP / Claude Code（作者对照标签）"
+        }
+      ],
+      "primarySourceChecks": [
+        {
+          "caseId": "timjayas-cow-cycle-comparison",
+          "url": "https://x.com/TimJayas/status/2115074545166287075",
+          "authorMatched": true,
+          "timestampMatched": true,
+          "createdAtShanghai": "2026-10-27T21:34:02+08:00",
+          "selectedMediaId": "2115074253842460672"
+        },
+        {
+          "caseId": "lummox-alpine-lake-comparison",
+          "url": "https://x.com/Lummox_eth/status/2115164427657904336",
+          "authorMatched": true,
+          "timestampMatched": true,
+          "createdAtShanghai": "2026-10-28T03:31:12+08:00",
+          "selectedMediaId": "2115164140381634561"
+        }
+      ],
+      "excludedOrDeferred": [
+        {
+          "sourceUrl": "https://www.aicontenders.dev/c/xGiNFiXftYwHdmT4XJPu7A",
+          "reason": "Public comparison API identifies the advertised preview /shot/1869 as Claude, while the Astra run is 1870; GET /shot/1870?wait=1 returned HTTP 500. Without an independently viewable Astra outcome image, do not display it."
+        },
+        {
+          "sourceUrl": "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/137",
+          "reason": "AMAGIRI is explicitly Canvas 2D and does not establish a 3D outcome."
+        },
+        {
+          "sourceUrl": "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/135",
+          "reason": "Potato League final release attribution to Astra remains unconfirmed; the creator comparison prototype and final game must not be conflated."
+        }
+      ],
+      "platformLimits": [
+        "Both X posts were fully fetched, metadata matched and their model-labeled video frames visually inspected.",
+        "X original posts appeared October 27 and 28 in Asia/Shanghai; AI Battle dates its run October 27. October 30 is the collection date, not a claim of same-day publication.",
+        "Public Xiaohongshu search found no additional verifiable case with usable media in this pass.",
+        "Astra demo HTTP response is not an independent playback or graphics compatibility test.",
+        "The alpine comparison post reports Astra cost $45 whereas the final video frame shows $46; no cost comparison is asserted."
+      ],
+      "completeSourceClips": 2,
+      "newMediaFiles": 4,
+      "newMediaBytes": 23816842,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-30",
+      "historicalIncrementalSummary": {
+        "checkedImages": 20,
+        "decodedImages": 20,
+        "checkedVideoCases": 5,
+        "checkedVideoEndpoints": 10,
+        "verifiedVideoEndpoints": 10,
+        "failures": [],
+        "limits": "Historical videos were not downloaded or replayed in full. Image decode and bounded video endpoints only."
+      }
     }
   ]
 }

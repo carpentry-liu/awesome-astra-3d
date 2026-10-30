@@ -1018,6 +1018,18 @@
       "observedAt": "2026-10-29",
       "result": "reachable",
       "scope": "Complete GET only; no independent playthrough or device compatibility verification."
+    },
+    {
+      "id": "aibattles-aurora-frozen-lake",
+      "url": "https://aibattles.dev/play/a1fd0a9f-4928-4e70-a3e3-3d9424f11e47",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 13896,
+      "sha256": "2abf3545b6652d48ebcf893c6da53efcba7a9de35749361b225297aad1143a9d",
+      "title": "Aurora",
+      "observedAt": "2026-10-30",
+      "result": "reachable",
+      "scope": "Complete GET of creator-hosted Three.js page; no independent interaction or device compatibility verification."
     }
   ]
 }
