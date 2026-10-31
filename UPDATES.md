@@ -2,6 +2,17 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-10-31 · 6 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [风吹过晾衣天台 / Laundry in the Rooftop Breeze](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-rooftop-laundry/) | Teddy / @teddyaisi | 完整视频 |
+| [红树林里的同步萤火 / Mangrove Lights — Fireflies in a Tidal Diorama](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-mangrove-lights/) | Vib3Coded / @vib3coded | 演示入口 · 完整视频 · 提示词 / 过程 |
+| [Cable Valley 雪岛缆车 / Cable Valley — Gondolas on a Floating Ski Island](https://carpentry-liu.github.io/awesome-astra-3d/cases/olezhavich-cable-valley/) | Olezhka / @olezhavich | 完整视频 |
+| [驶过暮色涌浪的渔船 / A Fishing Boat in Teal Swells at Dusk](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-teal-swell-fishing-boat/) | Teddy / @teddyaisi | 完整视频 |
+| [齿轮驱动的机械颌骨 / Mechanical Jaw — An Exploded View in Motion](https://carpentry-liu.github.io/awesome-astra-3d/cases/noclipepe-mechanical-jaw/) | noclipepe / @noclipepe | 完整视频 |
+| [Oasis Jelly 沙漠绿洲 / Oasis Jelly — A Desert Camp Inside a Clear Cube](https://carpentry-liu.github.io/awesome-astra-3d/cases/szerment-oasis-jelly/) | Martin Szerment \| Practical AI / @MartinSzerment | 完整视频 · 提示词 / 过程 |
+
 ## 2026-10-30 · 3 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

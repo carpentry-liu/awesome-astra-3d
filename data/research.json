@@ -11510,6 +11510,197 @@
         "failures": [],
         "limits": "Historical videos were not downloaded or replayed in full. Image decode and bounded video endpoints only."
       }
+    },
+    {
+      "observedAt": "2026-10-31",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "checkedAtUtc": "2026-10-31T07:43:35.992350+00:00",
+      "baselineCommit": "62e92419870b386a458475fe8256a5b7d8485600",
+      "baselineCount": 426,
+      "resultingCount": 432,
+      "addedCaseIds": [
+        "teddy-rooftop-laundry",
+        "vib3coded-mangrove-lights",
+        "olezhavich-cable-valley",
+        "teddy-teal-swell-fishing-boat",
+        "noclipepe-mechanical-jaw",
+        "szerment-oasis-jelly"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "queries": [
+        "\"GPT-6 Astra\" 3D Blender Three.js after:2026-10-27",
+        "\"GPT-6 Astra\" \"Oct 30, 2026\" 3D Three.js",
+        "site:xiaohongshu.com \"Astra\" \"建模\" \"Blender\" 游戏",
+        "\"GPT-6 Astra\" in:readme created:>=2026-10-26"
+      ],
+      "discoverySources": [
+        "https://aivs.tv/models/gpt-6-astra/",
+        "https://teapawt.net/teddyaisi",
+        "https://github.com/TripoGrowthLab/awesome-astra-prompts",
+        "https://aibattles.dev/battles",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues"
+      ],
+      "coverage": [
+        {
+          "id": "teddy-rooftop-laundry",
+          "sourceUrl": "https://x.com/teddyaisi/status/2116346545272770844",
+          "sourceDate": "2026-10-31",
+          "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / GPT-6.1 Terra（均标 high）",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2116346171870593024/img/SYwptRRIOJlBbPkL.jpg"
+        },
+        {
+          "id": "vib3coded-mangrove-lights",
+          "sourceUrl": "https://x.com/vib3coded/status/2116024691533979940",
+          "sourceDate": "2026-10-30",
+          "modelLabel": "GPT-6 Astra / Claude Opus 5.5",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2116024618062315520/img/J3GQpwCOeZXqpJQ-.jpg"
+        },
+        {
+          "id": "olezhavich-cable-valley",
+          "sourceUrl": "https://x.com/olezhavich/status/2116143918890758198",
+          "sourceDate": "2026-10-30",
+          "modelLabel": "GPT-6 Astra / DeepSeek V4.1 Flash 1017 / Kimi K3.1 Pro",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2116143441851588608/img/b_3dohcKkwI1m91c.jpg"
+        },
+        {
+          "id": "teddy-teal-swell-fishing-boat",
+          "sourceUrl": "https://x.com/teddyaisi/status/2116188637364920450",
+          "sourceDate": "2026-10-30",
+          "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / GPT-6.1 Terra（均标 high）",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2116188124560949249/img/YOAIyf5_H67Ye4kJ.jpg"
+        },
+        {
+          "id": "noclipepe-mechanical-jaw",
+          "sourceUrl": "https://x.com/noclipepe/status/2116109757865930787",
+          "sourceDate": "2026-10-30",
+          "modelLabel": "GPT-6 Astra / Gemini 4 Carbon / Claude Opus 5.5",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2116108716214779904/img/1Lcoam4UmMi4N9fF.jpg"
+        },
+        {
+          "id": "szerment-oasis-jelly",
+          "sourceUrl": "https://x.com/MartinSzerment/status/2115449826481463529",
+          "sourceDate": "2026-10-28",
+          "modelLabel": "GPT-6 Astra / Claude Opus 5.5",
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2115448656161550336/img/AoZ7ffrxeb_7v9l4.jpg"
+        }
+      ],
+      "primarySourceChecks": [
+        {
+          "caseId": "vib3coded-mangrove-lights",
+          "sourceUrl": "https://x.com/vib3coded/status/2116024691533979940",
+          "bytes": 165594,
+          "sha256": "8ac277b77e62b6a9c169a441a061d0d0752503c945f656c2d6bc000f59507ea4",
+          "createdAtShanghai": "2026-10-30T12:29:34+08:00",
+          "selectedMediaId": "2116024618062315520",
+          "sourceVideoCount": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-teal-swell-fishing-boat",
+          "sourceUrl": "https://x.com/teddyaisi/status/2116188637364920450",
+          "bytes": 115488,
+          "sha256": "063e71f8211655bdcd1f55a5a7c09e99e9eb138fcc4384832dbc1a6fbb4e2fb9",
+          "createdAtShanghai": "2026-10-30T23:21:02+08:00",
+          "selectedMediaId": "2116188124560949249",
+          "sourceVideoCount": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "noclipepe-mechanical-jaw",
+          "sourceUrl": "https://x.com/noclipepe/status/2116109757865930787",
+          "bytes": 185389,
+          "sha256": "e28f84aaeb0b80a2b7db052d7d1fc9b38b932da6bf347339bc21b7fbe90d6b26",
+          "createdAtShanghai": "2026-10-30T18:07:36+08:00",
+          "selectedMediaId": "2116108716214779904",
+          "sourceVideoCount": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "olezhavich-cable-valley",
+          "sourceUrl": "https://x.com/olezhavich/status/2116143918890758198",
+          "bytes": 148849,
+          "sha256": "3673cbaa60374f7e5be2de38cc903b81b6d81b637c0037320429542540c30609",
+          "createdAtShanghai": "2026-10-30T20:23:20+08:00",
+          "selectedMediaId": "2116143441851588608",
+          "sourceVideoCount": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "szerment-oasis-jelly",
+          "sourceUrl": "https://x.com/MartinSzerment/status/2115449826481463529",
+          "bytes": 138814,
+          "sha256": "3c3fcf9ee3353f02556116c36ae4ab35136e426cb7e32095cdbc71e271262453",
+          "createdAtShanghai": "2026-10-28T22:25:16+08:00",
+          "selectedMediaId": "2115448656161550336",
+          "sourceVideoCount": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-rooftop-laundry",
+          "sourceUrl": "https://x.com/teddyaisi/status/2116346545272770844",
+          "bytes": 147636,
+          "sha256": "5f62f5ab5df902c2924b6be089dd3a9e2534f974fafbd78a1525217950f84c3b",
+          "createdAtShanghai": "2026-10-31T09:48:30+08:00",
+          "selectedMediaId": "2116346171870593024",
+          "sourceVideoCount": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        }
+      ],
+      "excludedOrDeferred": [
+        {
+          "sourceUrl": "https://x.com/martinleblanc/status/2116215384819069160",
+          "reason": "Two 15-second LEGO clips were inspected. The author names Astra and Opus but does not map the individual clips to the models. The inspected previews and middle frames are unlabelled."
+        },
+        {
+          "sourceUrl": "https://x.com/ReyBrando1/status/2114961338175033641",
+          "reason": "The original attributes the 2099 scene to GPT-6 Thinking. Astra-specific attribution is missing."
+        },
+        {
+          "sourceUrl": "https://github.com/realsee-developer/realsee-astra-blender",
+          "reason": "Already listed as realsee-editable-space."
+        },
+        {
+          "sourceUrl": "https://github.com/yuechen-li-dev/Aetheris",
+          "reason": "The difference-engine showcase is already listed."
+        }
+      ],
+      "recoveredLead": {
+        "caseId": "szerment-oasis-jelly",
+        "previousReview": "2026-10-30",
+        "evidence": "Original comparison video labels Astra on the left. The author links the same AIContenders task, with Astra run 1870. Both were checked on October 31."
+      },
+      "platformLimits": [
+        "Public Xiaohongshu search did not yield a new attributable work with a usable preview.",
+        "Collection dates use Asia/Shanghai. Original posts were dated October 28, 30 and 31.",
+        "Timing, cost and preference are author observations. The mangrove demo HTML and attribution were verified, but full independent interaction was not confirmed."
+      ],
+      "historicalIncrementalSummary": {
+        "checkedImages": 20,
+        "decodedImages": 20,
+        "checkedVideoCases": 5,
+        "checkedVideoEndpoints": 10,
+        "verifiedVideoEndpoints": 10,
+        "failures": [],
+        "limits": "Historical videos were not downloaded or replayed in full. Image decode and bounded video endpoints only."
+      },
+      "completeSourceClips": 6,
+      "newMediaFiles": 12,
+      "newMediaBytes": 100068017,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-31"
     }
   ]
 }

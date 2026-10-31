@@ -1,5 +1,334 @@
 [
   {
+    "id": "teddy-rooftop-laundry",
+    "title": "风吹过晾衣天台",
+    "titleEn": "Laundry in the Rooftop Breeze",
+    "category": "程序化场景",
+    "summary": "天线、水箱和花盆围着一排晾衣绳。看左栏的蓝色上衣和白色床单，再对照另两栏的布面起伏与投影。",
+    "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / GPT-6.1 Terra（均标 high）",
+    "imageCaption": "Teddy 原帖三栏画面，从左至右为 Astra、Sol、Terra。",
+    "promptSummary": "作者让三个模型按同一项天台晾衣任务制作动画，原帖给出了推理档位和对照录像。",
+    "outcome": "录像可以用来比较布面的外观和运动。作者没有公开模拟方法、可编辑网格或工程。",
+    "outputType": [
+      "三维场景动画",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2116346545272770844",
+    "sourceDate": "2026-10-31",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-31",
+    "addedAt": "2026-10-31",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者说明三个模型使用同一天台晾衣任务，视频标签给出了相同的 high 档位。",
+    "sourceAccess": "已核对原帖、作者封面和完整录像。",
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/teddyaisi/status/2116346545272770844",
+    "promptUrl": null,
+    "promptExcerpt": null,
+    "promptAvailability": "author-description",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2116346545272770844"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2116346171870593024/img/SYwptRRIOJlBbPkL.jpg",
+    "imageKind": "author-comparison",
+    "licenseNotes": "作品、录像、封面和品牌归各权利人所有。本库代码的 MIT 许可不涵盖这些第三方材料。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-rooftop-laundry-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-31/teddy-rooftop-laundry-1-original.mp4",
+        "durationSeconds": 20.0,
+        "bytes": 1700028,
+        "sha256": "0e36954bb248c98baed22f4b97166745c59774c44a4be1ff09ccf05c813873f4",
+        "sourceUrl": "https://x.com/teddyaisi/status/2116346545272770844",
+        "label": "Laundry in the Rooftop Breeze",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2116346171870593024/img/SYwptRRIOJlBbPkL.jpg"
+      }
+    ]
+  },
+  {
+    "id": "vib3coded-mangrove-lights",
+    "title": "红树林里的同步萤火",
+    "titleEn": "Mangrove Lights — Fireflies in a Tidal Diorama",
+    "category": "等距与微缩",
+    "summary": "木屋藏在红树林里，支柱根伸入透明水体。录像在昼夜之间切换，可以对照两版的树冠、水面和萤火。Astra 在下栏。",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5",
+    "imageCaption": "Vib3Coded 原帖上下对照，Opus 在上，Astra 在下。",
+    "promptSummary": "作者公开的 Three.js 任务要求制作潮汐红树林、同步萤火和昼夜切换，并允许观察者调整水位与光照。",
+    "outcome": "作者分别给出了两个模型的演示地址。本档案的演示按钮直达 Astra 版本。",
+    "outputType": [
+      "Three.js / WebGL 微缩场景",
+      "Astra 演示与完整任务",
+      "完整原帖录像"
+    ],
+    "promptUrl": "https://x.com/vib3coded/status/2116024829639881137",
+    "demoUrl": "https://mangrove-lights-vibecoded1.vercel.app/",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Vib3Coded / @vib3coded",
+    "sourceUrl": "https://x.com/vib3coded/status/2116024691533979940",
+    "sourceDate": "2026-10-30",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-31",
+    "addedAt": "2026-10-31",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者在原帖描述同一项 Three.js 任务，并在回复中分别链接两个模型的成果。",
+    "sourceAccess": "已核对原帖、作者封面和完整录像。作者在原帖下分别给出完整提示词及 Astra 演示。已核对专属地址和返回的场景页面，本次交互运行未能确认。",
+    "repositoryUrl": null,
+    "videoUrl": "https://x.com/vib3coded/status/2116024691533979940",
+    "promptExcerpt": null,
+    "promptAvailability": "full-linked",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/vib3coded/status/2116024691533979940",
+      "https://x.com/vib3coded/status/2116024750422073497"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2116024618062315520/img/J3GQpwCOeZXqpJQ-.jpg",
+    "imageKind": "author-comparison",
+    "licenseNotes": "作品、录像、封面和品牌归各权利人所有。本库代码的 MIT 许可不涵盖这些第三方材料。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-mangrove-lights-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-31/vib3coded-mangrove-lights-1-original.mp4",
+        "durationSeconds": 18.05,
+        "bytes": 12871318,
+        "sha256": "582ddcbb98398994fb9eba70adc80c0389a88b0ca3e6ed10bff86e9209abb56d",
+        "sourceUrl": "https://x.com/vib3coded/status/2116024691533979940",
+        "label": "Mangrove Lights — Fireflies in a Tidal Diorama",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2116024618062315520/img/J3GQpwCOeZXqpJQ-.jpg"
+      }
+    ]
+  },
+  {
+    "id": "olezhavich-cable-valley",
+    "title": "Cable Valley 雪岛缆车",
+    "titleEn": "Cable Valley — Gondolas on a Floating Ski Island",
+    "category": "等距与微缩",
+    "summary": "两个车站立在积雪的小岛两端，红色吊厢沿索道移动。最下栏是 Astra 的低多边形雪岛，上面两栏可对照山体、树林和站房的布局。",
+    "modelLabel": "GPT-6 Astra / DeepSeek V4.1 Flash 1017 / Kimi K3.1 Pro",
+    "imageCaption": "Olezhka 原帖三层对照，从上至下为 DeepSeek、Kimi、Astra。",
+    "promptSummary": "作者给三种模型同一项任务，在积雪的浮岛上制作一条运行中的缆车。",
+    "outcome": "作者称各版本均尝试一次。录像能比较索道运动和布景，原帖未提供三个场景的工程。",
+    "outputType": [
+      "微缩滑雪场动画",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Olezhka / @olezhavich",
+    "sourceUrl": "https://x.com/olezhavich/status/2116143918890758198",
+    "sourceDate": "2026-10-30",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-31",
+    "addedAt": "2026-10-31",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者公布三种模型的同题尝试，录像底栏标作 6 Astra。",
+    "sourceAccess": "已核对原帖、作者封面和完整录像。",
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/olezhavich/status/2116143918890758198",
+    "promptUrl": null,
+    "promptExcerpt": null,
+    "promptAvailability": "author-description",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/olezhavich/status/2116143918890758198"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2116143441851588608/img/b_3dohcKkwI1m91c.jpg",
+    "imageKind": "author-comparison",
+    "licenseNotes": "作品、录像、封面和品牌归各权利人所有。本库代码的 MIT 许可不涵盖这些第三方材料。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/olezhavich-cable-valley-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-31/olezhavich-cable-valley-1-original.mp4",
+        "durationSeconds": 19.06,
+        "bytes": 27048266,
+        "sha256": "216b445a27c6ca22873a5d6bd74b2d09f8ce915fb33fadf046325aad35845df2",
+        "sourceUrl": "https://x.com/olezhavich/status/2116143918890758198",
+        "label": "Cable Valley — Gondolas on a Floating Ski Island",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2116143441851588608/img/b_3dohcKkwI1m91c.jpg"
+      }
+    ]
+  },
+  {
+    "id": "teddy-teal-swell-fishing-boat",
+    "title": "驶过暮色涌浪的渔船",
+    "titleEn": "A Fishing Boat in Teal Swells at Dusk",
+    "category": "程序化场景",
+    "summary": "一艘绿顶红壳的渔船在浪峰间俯仰，船身不时被浪头遮住。Teddy 用同一份 Three.js / WebGL 简报对照三种模型，左栏是 Astra。",
+    "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / GPT-6.1 Terra（均标 high）",
+    "imageCaption": "Teddy 原帖完整对照，从左至右为 Astra、Sol、Terra。",
+    "promptSummary": "任务是在黄昏的青绿色涌浪中绘制一艘作业渔船，作者指定了 Three.js / WebGL。",
+    "outcome": "可以从画面观察船身与波峰的相对运动，原帖未说明浮力和海浪的实现方式。",
+    "outputType": [
+      "Three.js / WebGL 海面动画",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2116188637364920450",
+    "sourceDate": "2026-10-30",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-31",
+    "addedAt": "2026-10-31",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者说明三组均使用 Three.js / WebGL 渔船任务，左栏标注 Astra 和 high。",
+    "sourceAccess": "已核对原帖、作者封面和完整录像。",
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/teddyaisi/status/2116188637364920450",
+    "promptUrl": null,
+    "promptExcerpt": null,
+    "promptAvailability": "author-description",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2116188637364920450"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2116188124560949249/img/YOAIyf5_H67Ye4kJ.jpg",
+    "imageKind": "author-comparison",
+    "licenseNotes": "作品、录像、封面和品牌归各权利人所有。本库代码的 MIT 许可不涵盖这些第三方材料。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-teal-swell-fishing-boat-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-31/teddy-teal-swell-fishing-boat-1-original.mp4",
+        "durationSeconds": 20.0,
+        "bytes": 2952137,
+        "sha256": "71d25d760f71139545f51b881f964f4b4342d7accdad423b746827fbeacbf367",
+        "sourceUrl": "https://x.com/teddyaisi/status/2116188637364920450",
+        "label": "A Fishing Boat in Teal Swells at Dusk",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2116188124560949249/img/YOAIyf5_H67Ye4kJ.jpg"
+      }
+    ]
+  },
+  {
+    "id": "noclipepe-mechanical-jaw",
+    "title": "齿轮驱动的机械颌骨",
+    "titleEn": "Mechanical Jaw — An Exploded View in Motion",
+    "category": "拆解与剖面",
+    "summary": "闭合的牙列在镜头中逐层分开，露出齿轮、连杆和牙齿之间的装配关系。Astra 的拆解动画在三栏中的中间一栏。",
+    "modelLabel": "GPT-6 Astra / Gemini 4 Carbon / Claude Opus 5.5",
+    "imageCaption": "noclipepe 原帖三层画面，从上至下为 Carbon、Astra、Opus。",
+    "promptSummary": "作者在三维 X 光视觉挑战中加入机械颌骨，要求各颗牙齿能单独运动。",
+    "outcome": "录像展示了机械结构的视觉表达。原帖的打分属于作者个人评审，工程尺寸与运动精度未知。",
+    "outputType": [
+      "机械装配与拆解动画",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "noclipepe / @noclipepe",
+    "sourceUrl": "https://x.com/noclipepe/status/2116109757865930787",
+    "sourceDate": "2026-10-30",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-31",
+    "addedAt": "2026-10-31",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "作者介绍了逐颗牙齿运动的挑战，录像中栏的模型标签为 GPT-6 Astra。",
+    "sourceAccess": "已核对原帖、作者封面和完整录像。",
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/noclipepe/status/2116109757865930787",
+    "promptUrl": null,
+    "promptExcerpt": null,
+    "promptAvailability": "author-description",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/noclipepe/status/2116109757865930787"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2116108716214779904/img/1Lcoam4UmMi4N9fF.jpg",
+    "imageKind": "author-comparison",
+    "licenseNotes": "作品、录像、封面和品牌归各权利人所有。本库代码的 MIT 许可不涵盖这些第三方材料。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/noclipepe-mechanical-jaw-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-31/noclipepe-mechanical-jaw-1-original.mp4",
+        "durationSeconds": 33.83,
+        "bytes": 8909896,
+        "sha256": "07f944b480f70b8c9472714d87e384800af5f82438c3011a4e76da8e9bfaa11e",
+        "sourceUrl": "https://x.com/noclipepe/status/2116109757865930787",
+        "label": "Mechanical Jaw — An Exploded View in Motion",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2116108716214779904/img/1Lcoam4UmMi4N9fF.jpg"
+      }
+    ]
+  },
+  {
+    "id": "szerment-oasis-jelly",
+    "title": "Oasis Jelly 沙漠绿洲",
+    "titleEn": "Oasis Jelly — A Desert Camp Inside a Clear Cube",
+    "category": "等距与微缩",
+    "summary": "沙丘、棕榈树、菜畦和露营车被装进分层沙土方块。左栏是 Astra，右栏是 Opus。作者在两栏中展示了各自的场景和控制面板。",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5",
+    "imageCaption": "Martin Szerment 原帖带模型标签的双栏画面，左为 Astra，右为 Opus。",
+    "promptSummary": "作者发布的完整任务要求在 Three.js 中程序化搭建果冻绿洲，让观众可以呼唤驼队、浇灌菜畦和触发沙暴。",
+    "outcome": "作者指出 Astra 场景的湖水被沙面遮住。右栏的露天湖泊属于 Opus。对照平台的运行记录将 Astra 标为 1870。",
+    "outputType": [
+      "Three.js 交互场景对照",
+      "公开任务与运行记录",
+      "完整原帖录像"
+    ],
+    "promptUrl": "https://www.aicontenders.dev/c/xGiNFiXftYwHdmT4XJPu7A",
+    "group": "astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Martin Szerment | Practical AI / @MartinSzerment",
+    "sourceUrl": "https://x.com/MartinSzerment/status/2115449826481463529",
+    "sourceDate": "2026-10-28",
+    "secondaryPublishedAt": null,
+    "observedAt": "2026-10-31",
+    "addedAt": "2026-10-31",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "evidenceNote": "原帖左栏的 gpt-6-astra 标签与作者所链接对照中的运行 1870 相符。",
+    "sourceAccess": "已核对原帖、作者封面和完整录像。作者在回复中链接了 AIContenders 的同题任务。公开记录对应 Astra 的运行编号是 1870，预览来自带模型标签的原帖录像。",
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/MartinSzerment/status/2115449826481463529",
+    "promptExcerpt": null,
+    "promptAvailability": "full-linked",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/MartinSzerment/status/2115449826481463529",
+      "https://x.com/MartinSzerment/status/2115449927618687113",
+      "https://api.aicontenders.dev/api/comparisons/xGiNFiXftYwHdmT4XJPu7A"
+    ],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2115448656161550336/img/AoZ7ffrxeb_7v9l4.jpg",
+    "imageKind": "author-comparison",
+    "licenseNotes": "作品、录像、封面和品牌归各权利人所有。本库代码的 MIT 许可不涵盖这些第三方材料。",
+    "archivedVideos": [
+      {
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/szerment-oasis-jelly-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-31/szerment-oasis-jelly-1-original.mp4",
+        "durationSeconds": 44.45,
+        "bytes": 39961025,
+        "sha256": "d6a894ea67485955f3ae05431bb7f51600b85025d886f94bf80017197e52489f",
+        "sourceUrl": "https://x.com/MartinSzerment/status/2115449826481463529",
+        "label": "Oasis Jelly — A Desert Camp Inside a Clear Cube",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2115448656161550336/img/AoZ7ffrxeb_7v9l4.jpg"
+      }
+    ]
+  },
+  {
     "id": "aibattles-aurora-frozen-lake",
     "title": "冰湖极光：可直接打开的 Three.js 场景",
     "titleEn": "Aurora over a Frozen Lake — Three.js Scene",

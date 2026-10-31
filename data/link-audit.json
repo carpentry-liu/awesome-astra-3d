@@ -25389,6 +25389,254 @@
           "result": "mp4-endpoint-verified"
         }
       ]
+    },
+    {
+      "checkedAt": "2026-10-31",
+      "round": "daily",
+      "scope": "Six original posts and their credited previews, creator replies, mangrove demo and oasis comparison. Historical samples are documented in media-audit.",
+      "addedCaseIds": [
+        "teddy-rooftop-laundry",
+        "vib3coded-mangrove-lights",
+        "olezhavich-cable-valley",
+        "teddy-teal-swell-fishing-boat",
+        "noclipepe-mechanical-jaw",
+        "szerment-oasis-jelly"
+      ],
+      "removedCaseIds": [],
+      "sourceChecks": [
+        {
+          "caseId": "vib3coded-mangrove-lights",
+          "sourceUrl": "https://x.com/vib3coded/status/2116024691533979940",
+          "bytes": 165594,
+          "sha256": "8ac277b77e62b6a9c169a441a061d0d0752503c945f656c2d6bc000f59507ea4",
+          "createdAtShanghai": "2026-10-30T12:29:34+08:00",
+          "selectedMediaId": "2116024618062315520",
+          "sourceVideoCount": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-teal-swell-fishing-boat",
+          "sourceUrl": "https://x.com/teddyaisi/status/2116188637364920450",
+          "bytes": 115488,
+          "sha256": "063e71f8211655bdcd1f55a5a7c09e99e9eb138fcc4384832dbc1a6fbb4e2fb9",
+          "createdAtShanghai": "2026-10-30T23:21:02+08:00",
+          "selectedMediaId": "2116188124560949249",
+          "sourceVideoCount": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "noclipepe-mechanical-jaw",
+          "sourceUrl": "https://x.com/noclipepe/status/2116109757865930787",
+          "bytes": 185389,
+          "sha256": "e28f84aaeb0b80a2b7db052d7d1fc9b38b932da6bf347339bc21b7fbe90d6b26",
+          "createdAtShanghai": "2026-10-30T18:07:36+08:00",
+          "selectedMediaId": "2116108716214779904",
+          "sourceVideoCount": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "olezhavich-cable-valley",
+          "sourceUrl": "https://x.com/olezhavich/status/2116143918890758198",
+          "bytes": 148849,
+          "sha256": "3673cbaa60374f7e5be2de38cc903b81b6d81b637c0037320429542540c30609",
+          "createdAtShanghai": "2026-10-30T20:23:20+08:00",
+          "selectedMediaId": "2116143441851588608",
+          "sourceVideoCount": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "szerment-oasis-jelly",
+          "sourceUrl": "https://x.com/MartinSzerment/status/2115449826481463529",
+          "bytes": 138814,
+          "sha256": "3c3fcf9ee3353f02556116c36ae4ab35136e426cb7e32095cdbc71e271262453",
+          "createdAtShanghai": "2026-10-28T22:25:16+08:00",
+          "selectedMediaId": "2115448656161550336",
+          "sourceVideoCount": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-rooftop-laundry",
+          "sourceUrl": "https://x.com/teddyaisi/status/2116346545272770844",
+          "bytes": 147636,
+          "sha256": "5f62f5ab5df902c2924b6be089dd3a9e2534f974fafbd78a1525217950f84c3b",
+          "createdAtShanghai": "2026-10-31T09:48:30+08:00",
+          "selectedMediaId": "2116346171870593024",
+          "sourceVideoCount": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        }
+      ],
+      "projectChecks": [
+        {
+          "caseId": "vib3coded-mangrove-lights",
+          "kind": "demo",
+          "url": "https://mangrove-lights-vibecoded1.vercel.app/",
+          "status": 200,
+          "contentType": "text/html",
+          "bytes": 1025803,
+          "sha256": "f1fb484b76432b7c21fe41ecfea49c4479ce9a0729b652c6a81ce2beac405d43"
+        },
+        {
+          "caseId": "vib3coded-mangrove-lights",
+          "kind": "creator demo reply",
+          "url": "https://x.com/vib3coded/status/2116024750422073497",
+          "status": 200,
+          "contentType": "text/html",
+          "bytes": 135819,
+          "sha256": "f8252cc231a1b3a25bf6fe0b79525f4581e5b04bb92e34abf9e0a6afb60cc75e"
+        },
+        {
+          "caseId": "vib3coded-mangrove-lights",
+          "kind": "creator prompt reply",
+          "url": "https://x.com/vib3coded/status/2116024829639881137",
+          "status": 200,
+          "contentType": "text/html",
+          "bytes": 147871,
+          "sha256": "f61b3139a583e9a5396565611fa8207d3999c9fe9b416935728d23a07e93383d"
+        },
+        {
+          "caseId": "szerment-oasis-jelly",
+          "kind": "creator comparison reply",
+          "url": "https://x.com/MartinSzerment/status/2115449927618687113",
+          "status": 200,
+          "contentType": "text/html",
+          "bytes": 134239,
+          "sha256": "e699af39397d4d253b1d4e0bfeeb4c045a93e3c64d2422b8a6ee8ff9d3daead7"
+        },
+        {
+          "caseId": "szerment-oasis-jelly",
+          "kind": "prompt and comparison",
+          "url": "https://www.aicontenders.dev/c/xGiNFiXftYwHdmT4XJPu7A",
+          "status": 200,
+          "contentType": "text/html",
+          "bytes": 5952,
+          "sha256": "45a117edd581875d9ccbab67449eca866214882d25b7c3c50540b260065da858"
+        },
+        {
+          "caseId": "szerment-oasis-jelly",
+          "kind": "run records",
+          "url": "https://api.aicontenders.dev/api/comparisons/xGiNFiXftYwHdmT4XJPu7A",
+          "status": 200,
+          "contentType": "application/json",
+          "bytes": 85714,
+          "sha256": "e31486b6e27e078ef4f1afa704f9956b88886c8ddf2cd2212618bee72196a082"
+        }
+      ],
+      "previewChecks": [
+        {
+          "caseId": "teddy-rooftop-laundry",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2116346171870593024/img/SYwptRRIOJlBbPkL.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 127589,
+          "sha256": "129da5380aea0dd8a95d754081087be59fd6c4ee31cbb9d3520bb3778f712597",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "fullGet": true,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "vib3coded-mangrove-lights",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2116024618062315520/img/J3GQpwCOeZXqpJQ-.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 65158,
+          "sha256": "f005c999f808ff6cd285156dd93b9a0afcf1dc8db1206287eb6367099e9304de",
+          "dimensions": [
+            948,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "fullGet": true,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "olezhavich-cable-valley",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2116143441851588608/img/b_3dohcKkwI1m91c.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 163223,
+          "sha256": "212b3f335ba984723dacd7cac208a620762f7f7f5ef0a7f62c03c5285720f0f9",
+          "dimensions": [
+            711,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "fullGet": true,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "teddy-teal-swell-fishing-boat",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2116188124560949249/img/YOAIyf5_H67Ye4kJ.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 98940,
+          "sha256": "cb23e2e96dd46153be30e33504757ebadb057df327793ce48d8865d597f7f906",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "fullGet": true,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "noclipepe-mechanical-jaw",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2116108716214779904/img/1Lcoam4UmMi4N9fF.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 90908,
+          "sha256": "93ed1742a0044c20dbeed98884cbc0821ecefe2b1a057dda12feac84e37f9bd8",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "fullGet": true,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "szerment-oasis-jelly",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2115448656161550336/img/AoZ7ffrxeb_7v9l4.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 82393,
+          "sha256": "5be5c13d271a56793d2bd91b80195d61112cb9f0b4b4192d06a65ab8800d73c0",
+          "dimensions": [
+            1200,
+            651
+          ],
+          "frames": 1,
+          "decoded": true,
+          "fullGet": true,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        }
+      ]
     }
   ]
 }

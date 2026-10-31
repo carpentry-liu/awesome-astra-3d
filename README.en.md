@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-30 (Asia/Shanghai)** · **414 Astra examples** · **118 source / project links** · **130 demo links** · **200 complete videos** · **12 separate references**.
+Updated **2026-10-31 (Asia/Shanghai)** · **420 Astra examples** · **118 source / project links** · **131 demo links** · **206 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -44,18 +44,18 @@ Select a title or image to open the creator's demo directly. Case pages retain s
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-31.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Website screenshots were refreshed on **October 30, 2026** from the current local production build. See the creator previews and latest additions below for this update. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Website screenshots were refreshed on **October 31, 2026** from the current local production build. See the creator previews and latest additions below for this update. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
-<summary>Gallery, mobile and case screenshots · October 30, 2026</summary>
+<summary>Gallery, mobile and case screenshots · October 31, 2026</summary>
 
-[![Gallery filters and more works](docs/media/collection-2026-10-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Gallery filters and more works](docs/media/collection-2026-10-31.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-10-30.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-10-31.jpg)
 
-[![Aurora over a Frozen Lake — case details](docs/media/case-2026-10-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/aibattles-aurora-frozen-lake/)
+[![Laundry in the Rooftop Breeze — case details](docs/media/case-2026-10-31.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-rooftop-laundry/)
 
 </details>
 
@@ -63,29 +63,33 @@ Website screenshots were refreshed on **October 30, 2026** from the current loca
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The October 30 update adds **3 works and 2 complete X clips**: an aurora above a frozen lake, a bicycle-and-cow 3D comparison, and an alpine lake. Both clips retain original and platform playback versions; the aurora has a separate live scene. The works appeared October 27–28. The alpine post and final video frame disagree on Astra cost.
+The October 31 update adds **six works with six complete recordings**. Teddy’s October 31 rooftop laundry scene compares cloth motion and shadows. The other five works were posted on October 28 and 30. Mangrove Lights includes the Astra demo and prompt. The Oasis Jelly recording identifies Astra on the left.
 
 <!-- atlas:update-previews:start -->
 **This update in pictures — creator works**
 
-| Frozen lake · Astra scene | 3D stack · Astra right | Alpine lake · Astra upper right |
+| Rooftop laundry · Astra left | Mangrove lights · Astra below | Cable Valley · Astra at bottom |
 | --- | --- | --- |
-| [<img src="https://aibattles.dev/media/c0841073-7cf3-48c1-b6e6-a93e43541e66" height="200" alt="Frozen lake · Astra scene">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/aibattles-aurora-frozen-lake/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2115074253842460672/img/_LRNu3iUMdXYnv6p.jpg" height="200" alt="3D stack · Astra right">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/timjayas-cow-cycle-comparison/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2115164140381634561/img/xj8qMVIiK2YBa6e0.jpg" height="200" alt="Alpine lake · Astra upper right">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lummox-alpine-lake-comparison/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2116346171870593024/img/SYwptRRIOJlBbPkL.jpg" height="165" alt="Rooftop laundry · Astra left">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-rooftop-laundry/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2116024618062315520/img/J3GQpwCOeZXqpJQ-.jpg" height="165" alt="Mangrove lights · Astra below">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-mangrove-lights/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2116143441851588608/img/b_3dohcKkwI1m91c.jpg" height="165" alt="Cable Valley · Astra at bottom">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/olezhavich-cable-valley/) |
 
-[Watch the complete clips](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Original files](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-30)
+| Fishing boat · Astra left | Mechanical jaw · Astra in middle | Oasis Jelly · Astra left |
+| --- | --- | --- |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2116188124560949249/img/YOAIyf5_H67Ye4kJ.jpg" height="165" alt="Fishing boat · Astra left">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-teal-swell-fishing-boat/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2116108716214779904/img/1Lcoam4UmMi4N9fF.jpg" height="165" alt="Mechanical jaw · Astra in middle">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/noclipepe-mechanical-jaw/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2115448656161550336/img/AoZ7ffrxeb_7v9l4.jpg" height="165" alt="Oasis Jelly · Astra left">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/szerment-oasis-jelly/) |
+
+[Watch the recordings](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Download originals](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-31)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [Laundry in the Rooftop Breeze](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-rooftop-laundry/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2116346545272770844) |
+| [Mangrove Lights — Fireflies in a Tidal Diorama](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-mangrove-lights/) | Vib3Coded / @vib3coded | [Demo](https://mangrove-lights-vibecoded1.vercel.app/) · [Original](https://x.com/vib3coded/status/2116024691533979940) |
+| [Cable Valley — Gondolas on a Floating Ski Island](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/olezhavich-cable-valley/) | Olezhka / @olezhavich | [Original](https://x.com/olezhavich/status/2116143918890758198) |
+| [A Fishing Boat in Teal Swells at Dusk](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-teal-swell-fishing-boat/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2116188637364920450) |
+| [Mechanical Jaw — An Exploded View in Motion](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/noclipepe-mechanical-jaw/) | noclipepe / @noclipepe | [Original](https://x.com/noclipepe/status/2116109757865930787) |
+| [Oasis Jelly — A Desert Camp Inside a Clear Cube](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/szerment-oasis-jelly/) | Martin Szerment \| Practical AI / @MartinSzerment | [Original](https://x.com/MartinSzerment/status/2115449826481463529) |
 | [Aurora over a Frozen Lake — Three.js Scene](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/aibattles-aurora-frozen-lake/) | AI Battle（公开对照平台） | [Demo](https://aibattles.dev/play/a1fd0a9f-4928-4e70-a3e3-3d9424f11e47) · [Original](https://aibattles.dev/battles/aurora-borealis-over-a-frozen-lake-2026-10-27) |
 | [Bicycle, Cow and Skateboard — Two-model 3D Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/timjayas-cow-cycle-comparison/) | Tim Jayas / @TimJayas | [Original](https://x.com/TimJayas/status/2115074545166287075) |
-| [Alpine Lake — Four Blender Workflow Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lummox-alpine-lake-comparison/) | Lummox / @Lummox_eth | [Original](https://x.com/Lummox_eth/status/2115164427657904336) |
-| [WITHIN — Eighteen Explorable 3D Worlds](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/fatasia-within-gallery/) | fatasia | [Demo](https://fatasia.github.io/within/) · [Source](https://github.com/fatasia/within) · [Original](https://github.com/fatasia/within) |
-| [Storm Lighthouse — Blender Model Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ivanainai-storm-lighthouse/) | Ivana / @ivanainai | [Original](https://x.com/ivanainai/status/2115204470573351126) |
-| [Rocket Launch and Landing — Three Model Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/quaxguy-rocket-landing/) | Siddharth Jain / @Quaxguy | [Original](https://x.com/Quaxguy/status/2115065795319669224) |
-| [MOXstrike — Browser Sci-Fi Arena Shooter](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/moxazza-moxstrike/) | Moxazza（投稿署名） | [Demo](https://www.moxride.com/home/moxstrike) · [Original](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/131) |
-| [One Floor Plan, Four 3D Offices](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/koharu-office-floorplan/) | 小春｜みならいAI秘書 / @koharu_ai_diary | [Original](https://x.com/koharu_ai_diary/status/2115055288088957372) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

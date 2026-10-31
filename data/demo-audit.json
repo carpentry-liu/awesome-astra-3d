@@ -1030,6 +1030,18 @@
       "observedAt": "2026-10-30",
       "result": "reachable",
       "scope": "Complete GET of creator-hosted Three.js page; no independent interaction or device compatibility verification."
+    },
+    {
+      "url": "https://mangrove-lights-vibecoded1.vercel.app/",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 1025803,
+      "sha256": "f1fb484b76432b7c21fe41ecfea49c4479ce9a0729b652c6a81ce2beac405d43",
+      "id": "vib3coded-mangrove-lights",
+      "title": "Mangrove Lights · bakau°",
+      "observedAt": "2026-10-31",
+      "result": "reachable",
+      "scope": "Full HTML GET and version attribution in creator reply. Browser verification timed out before interactivity was confirmed."
     }
   ]
 }

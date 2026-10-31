@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-10-30（Asia/Shanghai）**：**414 条 Astra 案例** · **118 条源码 / 工程** · **130 个演示入口** · **200 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-10-31（Asia/Shanghai）**：**420 条 Astra 案例** · **118 条源码 / 工程** · **131 个演示入口** · **206 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -44,18 +44,18 @@
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-10-31.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-网站实拍更新于 **2026-10-30**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+网站实拍更新于 **2026-10-31**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
-<summary>查看案例区、手机与作品详情实拍 · 2026-10-30</summary>
+<summary>查看案例区、手机与作品详情实拍 · 2026-10-31</summary>
 
-[![案例区：筛选与更多作品](docs/media/collection-2026-10-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![案例区：筛选与更多作品](docs/media/collection-2026-10-31.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端：精选作品与材料导航](docs/media/mobile-2026-10-30.jpg)
+![手机端：精选作品与材料导航](docs/media/mobile-2026-10-31.jpg)
 
-[![冰湖极光：Three.js 场景详情](docs/media/case-2026-10-30.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/aibattles-aurora-frozen-lake/)
+[![风吹过晾衣天台：三模型对照详情](docs/media/case-2026-10-31.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-rooftop-laundry/)
 
 </details>
 
@@ -63,29 +63,33 @@
 
 这里按本库收录日期排列；作品首次发布、模型配置与核查日期在各档案中分别记录。稳定精选不随日更替换。
 
-10 月 30 日新增收录 **3 件作品、2 段完整 X 录像**：冰湖极光、奶牛与滑板三维叠骑、阿尔卑斯湖泊。录像保留原版及平台播放版；极光有单独的在线场景入口。原作品发表于 10 月 27—28 日，湖泊对照的成本文字与视频末帧不一致。
+10 月 31 日收录 **6 件作品、6 段完整录像**。天台晾衣动画由 Teddy 于 10 月 31 日发布，可以逐栏比较布面和投影。另五件原作发布于 10 月 28 日和 30 日，其中红树林附 Astra 专属演示与完整任务，沙漠绿洲的双栏录像明确标出了模型。
 
 <!-- atlas:update-previews:start -->
 **本轮成果预览（第三方原作）**
 
-| 冰湖极光 · Astra 场景 | 三维叠骑 · Astra 右侧 | 高山湖泊 · Astra 右上 |
+| 晾衣天台 · Astra 左栏 | 红树林萤火 · Astra 下栏 | 雪岛缆车 · Astra 最下栏 |
 | --- | --- | --- |
-| [<img src="https://aibattles.dev/media/c0841073-7cf3-48c1-b6e6-a93e43541e66" height="200" alt="冰湖极光 · Astra 场景">](https://carpentry-liu.github.io/awesome-astra-3d/cases/aibattles-aurora-frozen-lake/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2115074253842460672/img/_LRNu3iUMdXYnv6p.jpg" height="200" alt="三维叠骑 · Astra 右侧">](https://carpentry-liu.github.io/awesome-astra-3d/cases/timjayas-cow-cycle-comparison/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2115164140381634561/img/xj8qMVIiK2YBa6e0.jpg" height="200" alt="高山湖泊 · Astra 右上">](https://carpentry-liu.github.io/awesome-astra-3d/cases/lummox-alpine-lake-comparison/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2116346171870593024/img/SYwptRRIOJlBbPkL.jpg" height="165" alt="晾衣天台 · Astra 左栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-rooftop-laundry/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2116024618062315520/img/J3GQpwCOeZXqpJQ-.jpg" height="165" alt="红树林萤火 · Astra 下栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-mangrove-lights/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2116143441851588608/img/b_3dohcKkwI1m91c.jpg" height="165" alt="雪岛缆车 · Astra 最下栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/olezhavich-cable-valley/) |
 
-[查看本轮完整录像](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video&order=newest#collection) · [下载完整原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-30)
+| 暮色渔船 · Astra 左栏 | 机械颌骨 · Astra 中栏 | 沙漠绿洲 · Astra 左栏 |
+| --- | --- | --- |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2116188124560949249/img/YOAIyf5_H67Ye4kJ.jpg" height="165" alt="暮色渔船 · Astra 左栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-teal-swell-fishing-boat/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2116108716214779904/img/1Lcoam4UmMi4N9fF.jpg" height="165" alt="机械颌骨 · Astra 中栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/noclipepe-mechanical-jaw/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2115448656161550336/img/AoZ7ffrxeb_7v9l4.jpg" height="165" alt="沙漠绿洲 · Astra 左栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/szerment-oasis-jelly/) |
+
+[观看完整录像](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video&order=newest#collection) · [下载原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-31)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
+| [风吹过晾衣天台](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-rooftop-laundry/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2116346545272770844) |
+| [红树林里的同步萤火](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-mangrove-lights/) | Vib3Coded / @vib3coded | [演示](https://mangrove-lights-vibecoded1.vercel.app/) · [原始来源](https://x.com/vib3coded/status/2116024691533979940) |
+| [Cable Valley 雪岛缆车](https://carpentry-liu.github.io/awesome-astra-3d/cases/olezhavich-cable-valley/) | Olezhka / @olezhavich | [原始来源](https://x.com/olezhavich/status/2116143918890758198) |
+| [驶过暮色涌浪的渔船](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-teal-swell-fishing-boat/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2116188637364920450) |
+| [齿轮驱动的机械颌骨](https://carpentry-liu.github.io/awesome-astra-3d/cases/noclipepe-mechanical-jaw/) | noclipepe / @noclipepe | [原始来源](https://x.com/noclipepe/status/2116109757865930787) |
+| [Oasis Jelly 沙漠绿洲](https://carpentry-liu.github.io/awesome-astra-3d/cases/szerment-oasis-jelly/) | Martin Szerment \| Practical AI / @MartinSzerment | [原始来源](https://x.com/MartinSzerment/status/2115449826481463529) |
 | [冰湖极光：可直接打开的 Three.js 场景](https://carpentry-liu.github.io/awesome-astra-3d/cases/aibattles-aurora-frozen-lake/) | AI Battle（公开对照平台） | [演示](https://aibattles.dev/play/a1fd0a9f-4928-4e70-a3e3-3d9424f11e47) · [原始来源](https://aibattles.dev/battles/aurora-borealis-over-a-frozen-lake-2026-10-27) |
 | [自行车、奶牛与滑板：两模型三维叠骑](https://carpentry-liu.github.io/awesome-astra-3d/cases/timjayas-cow-cycle-comparison/) | Tim Jayas / @TimJayas | [原始来源](https://x.com/TimJayas/status/2115074545166287075) |
-| [阿尔卑斯湖泊：四种 Blender 工作流对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/lummox-alpine-lake-comparison/) | Lummox / @Lummox_eth | [原始来源](https://x.com/Lummox_eth/status/2115164427657904336) |
-| [入画 WITHIN：十八景三维漫游画馆](https://carpentry-liu.github.io/awesome-astra-3d/cases/fatasia-within-gallery/) | fatasia | [演示](https://fatasia.github.io/within/) · [源码](https://github.com/fatasia/within) · [原始来源](https://github.com/fatasia/within) |
-| [暴风雨灯塔：Blender 中的光束与海浪](https://carpentry-liu.github.io/awesome-astra-3d/cases/ivanainai-storm-lighthouse/) | Ivana / @ivanainai | [原始来源](https://x.com/ivanainai/status/2115204470573351126) |
-| [火箭发射与回收：三模型浏览器场景](https://carpentry-liu.github.io/awesome-astra-3d/cases/quaxguy-rocket-landing/) | Siddharth Jain / @Quaxguy | [原始来源](https://x.com/Quaxguy/status/2115065795319669224) |
-| [MOXstrike：浏览器中的科幻第一人称竞技场](https://carpentry-liu.github.io/awesome-astra-3d/cases/moxazza-moxstrike/) | Moxazza（投稿署名） | [演示](https://www.moxride.com/home/moxstrike) · [原始来源](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/131) |
-| [一张平面图，四间办公室：三维空间重建对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/koharu-office-floorplan/) | 小春｜みならいAI秘書 / @koharu_ai_diary | [原始来源](https://x.com/koharu_ai_diary/status/2115055288088957372) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)
