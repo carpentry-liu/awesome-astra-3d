@@ -51,15 +51,14 @@ import casesData from '@/data/catalog-index.json';
 import { VideoPlayer, videoTime } from '@/src/video-player';
 import { Welcome } from './welcome';
 import { navigateToSection } from '@/src/section-navigation';
+import { PAGE_SIZE as pageSize, REPOSITORY_URL as github } from '@/src/site.mjs';
 
 const allCases = casesData as CaseIndex[];
-const github = 'https://github.com/carpentry-liu/awesome-astra-3d';
 const latestAdded =
   allCases
     .map((c) => c.addedAt)
     .sort()
     .at(-1) ?? '';
-const pageSize = 36;
 const imageKinds: Record<string, [string, string]> = {
   illustration: ['模型示意图', 'Illustration'],
   comparison: ['对照媒体', 'Comparison'],

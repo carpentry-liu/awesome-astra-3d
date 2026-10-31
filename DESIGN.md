@@ -24,11 +24,12 @@ Astra 3D Atlas 连接 GPT-6 Astra 三维作品与原作者的公开材料：Blen
 
 | 模块 | 职责 |
 | --- | --- |
-| `data/cases.json` · `data/videos.json` | 案例事实与完整媒体清单 |
+| `data/cases.json` · `data/videos.json` · `data/topics.json` | 案例事实、完整媒体清单与按案例 ID 排列的专题选集 |
 | `app/` | 交互首页、按需详情与响应式样式 |
 | `src/` | 检索和 URL 契约、双语说明、播放器、只读 WebMCP |
-| `scripts/catalog-index.mjs` · `scripts/generate-catalog.mjs` | 轻量索引、单条 JSON、双语统计、目录与 sitemap |
-| `scripts/generate-case-pages.mjs` | 中英详情、专题和分页目录的静态 HTML |
+| `src/site.mjs` | 首页与导出共用的站点地址、仓库地址和分页大小 |
+| `scripts/catalog-index.mjs` · `scripts/generate-catalog.mjs` | 开发和构建共用的 JSON 生成，以及发布用的双语统计、目录与 sitemap |
+| `scripts/static-pages/` · `scripts/generate-case-pages.mjs` | 路由、双语文案和 HTML 模板；由独立入口写入导出目录 |
 | `scripts/verify-export.mjs` | metadata、语言、资源、子路径、目录覆盖及事实一致性 |
 | `scripts/fetch-videos.mjs` | 从 Release 获取完整播放文件并核对 SHA-256 |
 

@@ -6,6 +6,7 @@
 | --- | --- |
 | `data/cases.json` | 展示案例、作者、模型证据、材料和缺失字段 |
 | `data/videos.json` | 完整原版 / 播放版、Release 地址、字节与 SHA-256 |
+| `data/topics.json` | 四个专题的中英文说明及案例顺序；slug 用于公开 URL |
 | `data/research.json` | 实际检索、访问限制、未采用线索和排除理由 |
 | `data/demo-audit.json` | 作者演示入口的可达性观察，不等于完整试玩 |
 | `data/link-audit.json` · `data/media-audit.json` | 链接、预览、播放与增量检查，保留原核查日期 |
@@ -52,13 +53,15 @@ npm start
 
 `catalog` 同步中英文 README 自动统计与最新收录、CATALOG、UPDATES、轻量索引、公开 JSON 和 sitemap。`check` 验证数据、行为和 TypeScript；`build` 校验导出页面与本地资源，`start` 在默认 4173 端口预览 `dist/client`。`npm run dev` 供 React 首页开发；独立详情、专题和分页目录需要构建后预览。Windows Node 24+ 的兼容构建使用官方 npm 发行的 Node 22.22.0。
 
-本地独立详情页的录像需要在构建后执行 `node scripts/fetch-videos.mjs`，从现有 Releases 获取完整播放版并核对 hash，写入 `dist/client/videos/`。下载文件不提交 Git；Pages 工作流自动执行这一步。普通预览直接服务静态 HTML，避免首页开发中间件重定向独立详情地址。
+`npm run dev` 启动前自动准备轻量索引与单条 JSON，因此刚克隆也能打开首页弹窗。专题的作品与顺序改 `data/topics.json`，页面样式改 `public/static-pages.css`，模板与文案在 `scripts/static-pages/`。
+
+本地独立详情页的录像需要在构建后执行 `node scripts/fetch-videos.mjs`。下载流先写入临时文件，长度和 SHA-256 均与清单匹配才替换 `dist/client/videos/` 中的播放文件。下载文件不提交 Git；Pages 发布自动执行这一步。普通预览直接服务静态 HTML。
 
 发布前同时检查普通构建与 Pages 子路径构建：在命令环境设置 `GITHUB_PAGES=true`，再运行 `npm run build`。本地浏览器需实际检查中文 / 英文、筛选与清除、复制或新标签链接、静态详情、旧 `#case=`、视频与失败回退。桌面、手机和窄屏应无页面横向溢出；检查控制台，并保存真实截图。
 
 当前只保留 README 使用的四张网站实拍与 `public/share.jpg`。截图更新时同步中英文引用和 [媒体说明](media/README.md)，确认分享封面一致，删除被替换且无当前消费者的旧图。素材不能用生成图替代真实页面；不提交本地迁移 README、缓存或构建产物。
 
-检查通过后发布到 `main`，[Pages 工作流](../.github/workflows/pages.yml) 检查、构建、下载并校验播放文件，再部署。部署成功后核对公开 JSON、双语详情、metadata、截图和媒体地址；必要时全量 GET 新视频并比对 hash。Git 状态和差异需逐项检查，禁止强推共享分支。
+面向 `main` 的 PR 运行检查、lint 和 Pages 构建，并用 `git diff --exit-code --stat` 确认受控的派生文件已随源数据提交。PR 不下载视频、不部署，也没有 Pages 写权限。[Pages 工作流](../.github/workflows/pages.yml) 在推送 `main` 或手动发布时才获取并校验完整播放文件，再部署。部署后核对公开 JSON、双语详情、metadata、截图和媒体地址；必要时全量 GET 新视频并比对 hash。
 
 ## 内容验证（2026-10-31）
 

@@ -1,4 +1,5 @@
 import type { NextConfig } from 'next';
+import { SITE_URL } from './src/site.mjs';
 
 const nextConfig: NextConfig = {
   output: 'export',
@@ -7,7 +8,7 @@ const nextConfig: NextConfig = {
   // without changing the route that vinext must prerender at build time.
   assetPrefix:
     process.env.GITHUB_PAGES === 'true'
-      ? 'https://carpentry-liu.github.io/awesome-astra-3d'
+      ? SITE_URL.slice(0, -1)
       : '',
 };
 

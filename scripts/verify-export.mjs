@@ -9,7 +9,7 @@ import {
   casePath,
   browsePath,
   sitemapEntries,
-} from './generate-case-pages.mjs';
+} from './static-pages/routes.mjs';
 import { resolveArchivedVideo } from './video-contract.mjs';
 
 // A successful bundler exit does not guarantee that static routes and assets exist.

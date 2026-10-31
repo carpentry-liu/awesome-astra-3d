@@ -115,7 +115,7 @@
 git clone https://github.com/carpentry-liu/awesome-astra-3d.git
 cd awesome-astra-3d
 npm ci
-npm run dev     # 开发 React 首页
+npm run dev     # 自动生成案例 JSON，再启动首页与详情弹窗
 ```
 
 ```sh
@@ -127,16 +127,17 @@ npm start        # 构建后预览 dist/client，默认端口 4173
 
 独立 `/cases/`、专题和目录页面由构建生成，使用 `npm run build` 后的 `npm start` 检查。Windows Node 24+ 构建会自动使用官方 npm 发行的 Node 22.22.0，以兼容预渲染退出流程。更改 `data/cases.json` 后运行 `npm run catalog`，即可同步中英文统计、最新收录、目录、公开 JSON 与 sitemap。
 
-**公开演示：[GitHub Pages](https://carpentry-liu.github.io/awesome-astra-3d/)**。推送到 `main` 后由 [Pages 工作流](.github/workflows/pages.yml) 执行检查、构建、校验视频并发布。维护流程与媒体检查见 [维护说明](docs/maintenance.md)。
+**公开演示：[GitHub Pages](https://carpentry-liu.github.io/awesome-astra-3d/)**。提交 PR 会运行数据、测试、构建和目录同步检查。合入 `main` 后，[Pages 工作流](.github/workflows/pages.yml) 还会校验完整录像并发布。维护流程见 [维护说明](docs/maintenance.md)。
 
 ## 项目结构
 
 | 目录 | 用途 |
 | --- | --- |
-| `data/` | 案例事实、视频清单、来源研究与链接检查 |
+| [data/cases.json](data/cases.json) · [data/topics.json](data/topics.json) | 改作品资料或专题选集从这里开始；视频清单与来源核查也在 `data/` |
 | `app/` | 欢迎页、案例索引、详情与响应式样式 |
 | `src/` | 检索契约、视频播放器与只读 WebMCP 工具 |
-| `scripts/` · `tests/` | 数据同步、导出校验与行为测试 |
+| [scripts/static-pages/](scripts/static-pages/) | 中英文静态页的模板、文案和路由 |
+| `scripts/` · [tests/](tests/) | 生成数据、校验导出和录像，以及相应的回归测试 |
 | [docs/](docs/README.md) | 当前维护说明、需求、截图与审查记录 |
 
 ## 贡献与权利

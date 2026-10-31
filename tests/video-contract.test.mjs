@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import test from 'node:test';
-import { SITE_URL } from '../scripts/generate-case-pages.mjs';
+import { SITE_URL } from '../src/site.mjs';
 import { resolveArchivedVideo } from '../scripts/video-contract.mjs';
 
 const cases = JSON.parse(
