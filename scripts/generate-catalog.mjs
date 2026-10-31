@@ -1,8 +1,8 @@
 import fs from 'node:fs';
-import { makeCatalogIndex } from './catalog-index.mjs';
-import { generateSitemap } from './generate-case-pages.mjs';
+import { prepareCatalog } from './catalog-index.mjs';
+import { casePath, renderSitemap, SITE_URL } from './static-pages/routes.mjs';
 const root = new URL('../', import.meta.url),
-  data = JSON.parse(fs.readFileSync(new URL('data/cases.json', root), 'utf8'));
+  data = prepareCatalog(root);
 const labels = {
   official: '官方展示',
   author: '作者自述',
@@ -24,18 +24,6 @@ const videoCount = astra.reduce(
 );
 const sourceCount = astra.filter((c) => c.repositoryUrl).length;
 const demoCount = astra.filter((c) => c.demoUrl).length;
-fs.writeFileSync(new URL('data/catalog-index.json', root), JSON.stringify(makeCatalogIndex(data)) + '\n');
-fs.mkdirSync(new URL('public/case-data/', root), {recursive:true});
-const caseFiles = new Set(data.map((record) => `${record.id}.json`));
-for (const file of fs.readdirSync(new URL('public/case-data/', root))) {
-  if (/^[a-z0-9][a-z0-9-]*\.json$/.test(file) && !caseFiles.has(file)) {
-    fs.unlinkSync(new URL(`public/case-data/${file}`, root));
-  }
-}
-for (const record of data) {
-  if (!/^[a-z0-9][a-z0-9-]*$/.test(record.id)) throw new Error('Unsafe case id: ' + record.id);
-  fs.writeFileSync(new URL(`public/case-data/${record.id}.json`, root), JSON.stringify(record) + '\n');
-}
 let text = `# 案例目录\n\n由 \`data/cases.json\` 生成。最近核查：${latest}。[上手路线](START_HERE.md) · [最新收录](UPDATES.md)。作品归属基于公开来源，不代表独立复现。\n\n`;
 for (const [group, title] of [
   ['astra', 'GPT-6 Astra 案例'],
@@ -61,12 +49,7 @@ for (const [group, title] of [
   }
 }
 fs.writeFileSync(new URL('CATALOG.md', root), text.trimEnd() + '\n');
-fs.copyFileSync(
-  new URL('data/cases.json', root),
-  new URL('public/cases.json', root),
-);
-let updates =
-  '# 最新收录 / Latest additions\n\n按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)\n\n';
+let updates = `# 最新收录 / Latest additions\n\n按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](${SITE_URL}?order=newest#collection) · [收录规则](CONTRIBUTING.md)\n\n`;
 for (const date of [...new Set(astra.map((c) => c.addedAt))].sort((a, b) =>
   b.localeCompare(a),
 )) {
@@ -82,7 +65,7 @@ for (const date of [...new Set(astra.map((c) => c.addedAt))].sort((a, b) =>
       ]
         .filter(Boolean)
         .join(' · ') || '作者展示';
-    updates += `| [${safe(c.title)}${c.titleEn ? ' / ' + safe(c.titleEn) : ''}](https://carpentry-liu.github.io/awesome-astra-3d/cases/${c.id}/) | ${safe(c.author)} | ${materials} |\n`;
+    updates += `| [${safe(c.title)}${c.titleEn ? ' / ' + safe(c.titleEn) : ''}](${SITE_URL}${casePath(c.id)}) | ${safe(c.author)} | ${materials} |\n`;
   }
   updates += '\n';
 }
@@ -99,12 +82,7 @@ for (const [file, summary] of [
 ]) {
   const url = new URL(file, root),
     body = fs.readFileSync(url, 'utf8');
-  if (!body.includes('<!-- atlas:summary:start -->'))
-    throw new Error('Missing stats marker in ' + file);
-  let updated = body.replace(
-    /<!-- atlas:summary:start -->[\s\S]*?<!-- atlas:summary:end -->/,
-    `<!-- atlas:summary:start -->\n${summary}\n<!-- atlas:summary:end -->`,
-  );
+  const updated = replaceSection(body, file, 'summary', summary);
   const english = file === 'README.en.md';
   const newest = [...astra]
     .sort((a, b) => b.addedAt.localeCompare(a.addedAt))
@@ -122,15 +100,28 @@ for (const [file, summary] of [
     ]
       .filter(Boolean)
       .join(' · ');
-    additions += `| [${safe(english ? (c.titleEn ?? c.title) : c.title)}](https://carpentry-liu.github.io/awesome-astra-3d/${english?'en/':''}cases/${c.id}/) | ${safe(c.author)} | ${links} |\n`;
+    additions += `| [${safe(english ? (c.titleEn ?? c.title) : c.title)}](${SITE_URL}${casePath(c.id, english ? 'en' : 'zh')}) | ${safe(c.author)} | ${links} |\n`;
   }
-  updated = updated.replace(
-    /<!-- atlas:latest:start -->[\s\S]*?<!-- atlas:latest:end -->/,
-    `<!-- atlas:latest:start -->\n${additions}<!-- atlas:latest:end -->`,
+  fs.writeFileSync(
+    url,
+    replaceSection(updated, file, 'latest', additions.trimEnd()),
   );
-  fs.writeFileSync(url, updated);
 }
-generateSitemap(data);
+function replaceSection(body, file, name, value) {
+  const start = `<!-- atlas:${name}:start -->`;
+  const end = `<!-- atlas:${name}:end -->`;
+  const a = body.indexOf(start),
+    b = body.indexOf(end);
+  if (
+    a < 0 ||
+    b < a + start.length ||
+    body.lastIndexOf(start) !== a ||
+    body.lastIndexOf(end) !== b
+  )
+    throw new Error(`${file}: expected one ordered pair of ${name} markers`);
+  return body.slice(0, a + start.length) + '\n' + value + '\n' + body.slice(b);
+}
+fs.writeFileSync(new URL('public/sitemap.xml', root), renderSitemap(data));
 console.log(
   `Generated catalogs, README statistics, public JSON and sitemap from ${data.length} source records.`,
 );

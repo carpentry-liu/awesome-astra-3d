@@ -115,7 +115,7 @@ Use Node.js 22.22.0+; the version pinned in `.node-version` is recommended. No A
 git clone https://github.com/carpentry-liu/awesome-astra-3d.git
 cd awesome-astra-3d
 npm ci
-npm run dev     # Develop the React homepage
+npm run dev     # Generate case JSON, then start the homepage and detail dialogs
 ```
 
 ```sh
@@ -127,14 +127,15 @@ npm start       # Preview dist/client after building, on port 4173 by default
 
 The build generates independent `/cases/`, topic and browse pages; check them through `npm start` after building. It synchronizes catalogs, bilingual statistics, latest additions, public JSON and the sitemap, then exports to `dist/client/`. On Windows with Node 24+, it uses the official npm-distributed Node 22.22.0 runtime for prerender compatibility. Use `npm run catalog` after editing `data/cases.json`.
 
-**Public demo: [GitHub Pages](https://carpentry-liu.github.io/awesome-astra-3d/).** The [Pages workflow](.github/workflows/pages.yml) checks, builds, verifies existing video assets and publishes pushes to `main`. See the [maintenance guide](docs/maintenance.md) for content and media checks.
+**Public demo: [GitHub Pages](https://carpentry-liu.github.io/awesome-astra-3d/).** Pull requests run validation, tests, a build and a generated-file check. After a merge to `main`, the [Pages workflow](.github/workflows/pages.yml) also verifies the complete videos and publishes. See the [maintenance guide](docs/maintenance.md).
 
 ## Repository map
 
-- `data/`: cases, video manifests, research and link checks.
+- [data/cases.json](data/cases.json) and [data/topics.json](data/topics.json): edit case facts and curated topic lists here. Video manifests and source audits also live in `data/`.
 - `app/`: welcome page, gallery, details and responsive styling.
 - `src/`: filtering, video playback and the read-only WebMCP search tool.
-- `scripts/` and `tests/`: generated documentation, export validation and behavior tests.
+- [scripts/static-pages/](scripts/static-pages/): bilingual templates, labels and routes.
+- `scripts/` and [tests/](tests/): data generation, export and video checks, and regression tests.
 - [docs/](docs/README.md): current maintenance, requirements, screenshots and review records.
 
 ## Contribute and attribution

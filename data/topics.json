@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "blender",
+    "title": "Blender 工程与建模",
+    "titleEn": "Blender projects & modeling",
+    "description": "从公开 Blender 相关工程与作者过程继续研究建模、绑定、材质和镜头。",
+    "descriptionEn": "Explore public Blender-related projects and author processes for modeling, rigging, materials and cameras.",
+    "ids": [
+      "simonw-pelican-bicycle",
+      "qwen-blenderworld-astra",
+      "realsee-editable-space",
+      "magicyan-room-studio",
+      "cwc-komorebi-shrine",
+      "mizchi-traveler-walk",
+      "ruofeng-orbital-core",
+      "kingy-fieldnote-rover",
+      "simonw-pluribus-egg",
+      "cwc-sugarfall",
+      "teshnizi-mechanical-iris",
+      "xinz-xianlin-campus"
+    ]
+  },
+  {
+    "slug": "browser-games",
+    "title": "浏览器游戏与交互世界",
+    "titleEn": "Browser games & interactive worlds",
+    "description": "从作者演示走进游戏、可探索世界与三维交互原型；公开源码另行标记。",
+    "descriptionEn": "Visit author demos of games, explorable worlds and interactive 3D prototypes. Public source links are labeled individually.",
+    "ids": [
+      "openai-sunwake",
+      "songkeys-little-flock",
+      "scottstts-jelly-baby",
+      "angello-drone-io",
+      "emmtee-paperroute",
+      "ilker-cabsolutely",
+      "mrtwizzles-glider",
+      "varun-hot-wheeler",
+      "ayi-mosswing",
+      "chongdashu-canteen-crashers",
+      "kvickan-vesper",
+      "berochlu-astrafloor"
+    ]
+  },
+  {
+    "slug": "architecture",
+    "title": "建筑、空间与数字孪生",
+    "titleEn": "Architecture, spaces & digital twins",
+    "description": "从平面图、照片和场景参考探索建筑重建、空间漫游与可编辑工程。",
+    "descriptionEn": "Explore building reconstruction, spatial walkthroughs and author projects based on floor plans, photographs and scene references.",
+    "ids": [
+      "bambssquad-jetis-digital-twin",
+      "openai-solace-garden-house",
+      "gptblender-floor-plan-house",
+      "realsee-editable-space",
+      "pantoja-astralod3",
+      "routine-kyoto",
+      "sldyns-pku-3d",
+      "xinz-xianlin-campus",
+      "magicyan-room-studio",
+      "dan-chicago-fair",
+      "airilab-rhino-building",
+      "nickson-studio-photos"
+    ]
+  },
+  {
+    "slug": "exploded",
+    "title": "机械拆解与剖面交互",
+    "titleEn": "Exploded views & mechanical interaction",
+    "description": "旋转、隔离和拆分部件；完整录像与公开材料分开标记，不把外观演示当作工程验证。",
+    "descriptionEn": "Explore rotating, isolating and separating parts. Full recordings and public materials are labeled separately from engineering verification.",
+    "ids": [
+      "paruchh-time-undone",
+      "marcel-transforming-car",
+      "ashe-model-x",
+      "tspy-microduck",
+      "feraser-turbocharger",
+      "teshnizi-mechanical-iris",
+      "icooper-desktop-exploded",
+      "kana-flower-shop",
+      "derya-enterprise-cad"
+    ]
+  }
+]

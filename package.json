@@ -6,10 +6,11 @@
     "node": ">=22.22.0"
   },
   "scripts": {
+    "predev": "node scripts/catalog-index.mjs",
     "dev": "vinext dev",
     "build": "node scripts/build.mjs",
     "start": "vite preview --outDir dist/client --host 127.0.0.1",
-    "lint": "oxlint app src components lib scripts tests vite.config.ts next.config.ts",
+    "lint": "oxlint app src components lib scripts tests public/static-pages.js vite.config.ts next.config.ts",
     "format": "oxfmt",
     "check": "node scripts/validate-data.mjs && node --test tests/*.test.mjs && tsc --noEmit",
     "catalog": "node scripts/generate-catalog.mjs"

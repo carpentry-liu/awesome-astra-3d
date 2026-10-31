@@ -8,7 +8,9 @@
 3. 官方、作者原文、转引分别设置 evidenceLevel。不把演示或作者自报性能标为独立复现。
 4. 仅添加 HTTPS 链接，不能包含登录 token、个人地址或秘密信息。图片需来自该作品并有图注，不用另一作品代替。
 5. 提示词最多摘录 25 个英文单词；优先中文简述和回源链接。多个案例来自同页时合并核算摘录与摘要长度。
-6. 运行 `npm run check`、`npm run build`，提交数据与生成目录。UI 修改需补充真实截图与控制台检查。
+6. 运行 `npm run catalog`、`npm run check`、`npm run lint`、`npm run build`，一起提交事实源和受 Git 跟踪的派生文件。PR 会重新生成并检查差异。不要提交 `public/case-data/`、`dist/` 或 MP4。UI 修改需补充真实截图与控制台检查。
+
+调整已有专题的作品顺序或中英文说明，编辑 [data/topics.json](data/topics.json)。其中的 ID 引用已有 Astra 案例；专题的 slug 已用于公开链接。
 
 `repositoryUrl` 仅填写有实现代码或工程的仓库，纯对照报告请使用 `sourceUrl` / `evidenceUrls`。作者公开演示地址不等于本库已独立验证可玩。新 X 视频沿用完整视频清单；缺失或失效材料要明确写在来源说明中。
 

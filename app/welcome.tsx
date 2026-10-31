@@ -17,7 +17,7 @@ import { caseHref, type CaseIndex, type Locale } from '@/src/catalog';
 import { messages, workTitle } from '@/src/i18n';
 import { collectionHref, navigateToSection } from '@/src/section-navigation';
 
-const github = 'https://github.com/carpentry-liu/awesome-astra-3d';
+import { REPOSITORY_URL as github } from '@/src/site.mjs';
 const spotlights = [
   {
     id: 'fatasia-within-gallery',

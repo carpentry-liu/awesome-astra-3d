@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import { SITE_URL } from './generate-case-pages.mjs';
+import { SITE_URL } from '../src/site.mjs';
 
 // Builds download playback files into videos/, so matching a filename suffix
 // alone must not authorize a different directory, origin or source recording.
