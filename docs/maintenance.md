@@ -12,7 +12,7 @@
 | `data/link-audit.json` · `data/media-audit.json` | 链接、预览、播放与增量检查，保留原核查日期 |
 | [审核档案](archive/unlisted-cases-2026-09-25.json) | 已下架案例的原始记录与理由 |
 
-`data/catalog-index.json`、公开 JSON、目录与 sitemap 由事实源生成，不能独立编辑。收录规则见 [CONTRIBUTING.md](../CONTRIBUTING.md)，检索与页面契约见 [DESIGN.md](../DESIGN.md)。
+`data/catalog-index.json`、公开 JSON、目录与 sitemap 由事实源生成，不能独立编辑。这五个受控产物在 GitHub PR 中默认折叠，仍可展开查看；请优先审查 `data/cases.json` 和作者证据。收录规则见 [CONTRIBUTING.md](../CONTRIBUTING.md)，检索与页面契约见 [DESIGN.md](../DESIGN.md)。
 
 ## 收录与下架
 

@@ -1,0 +1,9 @@
+# Review the case facts first; these files are rebuilt by npm run catalog.
+/CATALOG.md linguist-generated
+/UPDATES.md linguist-generated
+/data/catalog-index.json linguist-generated
+/public/cases.json linguist-generated
+/public/sitemap.xml linguist-generated
+
+# This published asset previously came from a template literal (always LF).
+/public/static-pages.js text eol=lf
