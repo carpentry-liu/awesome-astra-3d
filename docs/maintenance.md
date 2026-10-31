@@ -72,6 +72,8 @@ npm start
 | 旧素材抽样 | 完整获取并解码 20 张旧图。5 段旧录像在 Pages 与 Release 的 10 个端点均返回 MP4 文件头及清单对应的总长度。 |
 | 本地命令 | `npm run catalog` 生成目录与公开索引。`npm run check` 验证 432 条数据、24 项行为测试及 TypeScript，`npm run lint` 通过。普通构建和设置 `GITHUB_PAGES=true` 后的 `npm run build` 均验证 896 个静态页、19,208 条本地引用、432 个详情 JSON 和 897 项 sitemap。 |
 
+内容提交 `3ce6aa2c1cf0973255595f28b6b16c54f758860e` 的 [GitHub Pages 工作流](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/41182286064)已成功部署。`py -3.13 work/2026-10-31/verify-production.py` 的 47 项线上检查通过。六份 Pages 播放文件完整下载后的 SHA-256 与本地播放版一致，六个原版下载入口的 MP4 文件头与总长度正确，12 个 Release 附件的服务器摘要均与归档一致。线上浏览器打开播放器超时，全长播放记录取自本地生产构建。`py -3.13 work/2026-10-31/verify-rendered.py` 从 GitHub 实际渲染的中英文 README 分别核对了六个图片跳转目标，并完整获取和解码了 GitHub 页面使用的六张预览。
+
 ## 内容验证（2026-10-30）
 
 实测日期为 2026-10-30（Asia/Shanghai）。新增 **3 件作品、2 段完整 X 录像和 1 个演示入口**：冰湖极光、三维叠骑与阿尔卑斯湖泊。当前共 426 条记录，其中 **414 条 Astra 案例**、12 条方法参考，含 118 条源码 / 工程入口、130 个演示入口和 200 段完整录像。作品发表于 10 月 27—28 日；10 月 30 日是本库收录与核查日期。
