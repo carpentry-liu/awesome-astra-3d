@@ -11701,6 +11701,271 @@
       "newMediaFiles": 12,
       "newMediaBytes": 100068017,
       "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-31"
+    },
+    {
+      "observedAt": "2026-11-02",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "baselineCommit": "2ad7e325d42ce7ab528512bcde910e344ade80e0",
+      "baselineCount": 432,
+      "resultingCount": 438,
+      "addedCaseIds": [
+        "kumada-robot-curling",
+        "andriy-track-racing",
+        "noclipepe-tiny-living-city",
+        "maker-jackie-panda-delivery",
+        "vib3coded-brain-jelly",
+        "teddy-underwater-kelp"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "coverage": [
+        {
+          "id": "kumada-robot-curling",
+          "sourceDate": "2026-11-02",
+          "sourceUrl": "https://github.com/MasahitoKumada/physical_ai_last_assignment/blob/2a96b1e5db830673c02cc7978f1d58438205d744/README.md",
+          "modelLabel": "GPT-6 Astra 与 GPT-6.1 Sol（作者披露共同辅助开发）"
+        },
+        {
+          "id": "andriy-track-racing",
+          "sourceDate": "2026-11-02",
+          "sourceUrl": "https://x.com/Andr1ycp/status/2116931399286452661",
+          "modelLabel": "GPT-6 Astra (High) / Claude Opus 5.5 (High)"
+        },
+        {
+          "id": "noclipepe-tiny-living-city",
+          "sourceDate": "2026-11-01",
+          "sourceUrl": "https://x.com/noclipepe/status/2116861310281351176",
+          "modelLabel": "GPT-6 Astra / Gemini 4 Carbon / GPT-6.1 Sol（第一轮另含 GPT-6.1 Terra，第二轮另含 Claude Fable 5.1）"
+        },
+        {
+          "id": "maker-jackie-panda-delivery",
+          "sourceDate": "2026-11-01",
+          "sourceUrl": "https://x.com/maker_jackie/status/2116756290383081763",
+          "modelLabel": "GPT-6 Astra（Codex CLI，Ultra）/ Claude Opus 5.5 / DeepSeek V4.1 Flash"
+        },
+        {
+          "id": "vib3coded-brain-jelly",
+          "sourceDate": "2026-11-01",
+          "sourceUrl": "https://x.com/vib3coded/status/2116632234916749597",
+          "modelLabel": "GPT-6 Astra / Claude Opus 5.5"
+        },
+        {
+          "id": "teddy-underwater-kelp",
+          "sourceDate": "2026-11-01",
+          "sourceUrl": "https://x.com/teddyaisi/status/2116847177800798575",
+          "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / GPT-6.1 Terra"
+        }
+      ],
+      "queries": [
+        "\"GPT-6 Astra\" 3D animation Three.js November 1 2 2026 Blender",
+        "site:x.com \"Astra\" \"3D\" after:2026-10-30 before:2026-11-03",
+        "\"GPT-6 Astra\" in:readme created:>=2026-10-29",
+        "\"GPT-6 Astra\" 3D Blender 游戏 11月 (小红书、小红书短链、哔哩哔哩)",
+        "\"GPT-6 Astra\" 3D November 2 2026 open source Blender (Reddit)"
+      ],
+      "discoverySources": [
+        "https://aivs.tv/models/gpt-6-astra/",
+        "https://teapawt.net/noclipepe",
+        "https://teapawt.net/Andr1ycp",
+        "https://teapawt.net/teddyaisi",
+        "https://teapawt.net/vib3coded",
+        "https://github.com/TripoGrowthLab/awesome-astra-prompts",
+        "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues",
+        "https://aibattles.dev/battles"
+      ],
+      "primarySourceChecks": [
+        {
+          "caseId": "andriy-track-racing",
+          "sourceUrl": "https://x.com/Andr1ycp/status/2116931399286452661",
+          "bytes": 112162,
+          "sha256": "b4711b4e0dac0df5ecf19a68058a61db2caa570acb6d56f8156be8becdbb9882",
+          "createdAtShanghai": "2026-11-02T00:32:30+08:00",
+          "selectedMediaId": "2116931360409464832",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "noclipepe-tiny-living-city",
+          "sourceUrl": "https://x.com/noclipepe/status/2116861310281351176",
+          "bytes": 188652,
+          "sha256": "be497f798548028c70296cfd5a560957a334e9df829c376c480dcf8fde70db47",
+          "createdAtShanghai": "2026-11-01T19:54:00+08:00",
+          "selectedMediaId": "2116855037796163584",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "noclipepe-tiny-living-city",
+          "sourceUrl": "https://x.com/noclipepe/status/2116948547027480802",
+          "bytes": 179368,
+          "sha256": "3964ff38bc97c3f6f91cb9b4c433d7b512f60ceb723faf3247c5adaea6690a43",
+          "createdAtShanghai": "2026-11-02T01:40:39+08:00",
+          "selectedMediaId": "2116944163488792576",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 2,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "maker-jackie-panda-delivery",
+          "sourceUrl": "https://x.com/maker_jackie/status/2116756290383081763",
+          "bytes": 129714,
+          "sha256": "6c6fe69d5ed97d216170a38448fd13733ea7d335481f34b1bf257ff835a2bcb4",
+          "createdAtShanghai": "2026-11-01T12:56:41+08:00",
+          "selectedMediaId": "2116755906998480896",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "vib3coded-brain-jelly",
+          "sourceUrl": "https://x.com/vib3coded/status/2116632234916749597",
+          "bytes": 159161,
+          "sha256": "cbdedd5a64c0bdee935c5a868be6bd200d57cab6ab4b8d10e6199177ad46d6e2",
+          "createdAtShanghai": "2026-11-01T04:43:44+08:00",
+          "selectedMediaId": "2116631945266237441",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-underwater-kelp",
+          "sourceUrl": "https://x.com/teddyaisi/status/2116847177800798575",
+          "bytes": 150051,
+          "sha256": "c6eb03a7385c08abf46b7e4878e0864f602128f40aceaead2f0e6f9cd34467c0",
+          "createdAtShanghai": "2026-11-01T18:57:50+08:00",
+          "selectedMediaId": "2116847150999203840",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "kumada-robot-curling",
+          "kind": "source",
+          "url": "https://github.com/MasahitoKumada/physical_ai_last_assignment/blob/2a96b1e5db830673c02cc7978f1d58438205d744/README.md",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 237665,
+          "sha256": "7f4654ed079b8bdcb93a6a48e2ff4c835966629865a4efed18a794e4c140e903",
+          "fullGet": true
+        },
+        {
+          "caseId": "kumada-robot-curling",
+          "kind": "repository",
+          "url": "https://github.com/MasahitoKumada/physical_ai_last_assignment",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 254486,
+          "sha256": "780dfe0fdc5b02baa2a51e530ebc5b4ef833931a10dc3b4a4ce11d1251ff4a93",
+          "fullGet": true
+        },
+        {
+          "caseId": "kumada-robot-curling",
+          "kind": "model disclosure",
+          "url": "https://github.com/MasahitoKumada/physical_ai_last_assignment/commit/602f0ff8749aafcf77419b0aeba46f8ae254d50b",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 251272,
+          "sha256": "2cd4988efc371a3c145c09e9036743c725d3d1df856a3b19cc77f6aee3e8717b",
+          "fullGet": true
+        }
+      ],
+      "repositoryEvidence": {
+        "caseId": "kumada-robot-curling",
+        "firstPublishedCommit": {
+          "sha": "15bbf7aee26d4d408a6e7f3cf6e21e23c5856ceb",
+          "url": "https://github.com/MasahitoKumada/physical_ai_last_assignment/commit/15bbf7aee26d4d408a6e7f3cf6e21e23c5856ceb",
+          "utc": "2026-11-02T00:57:33Z",
+          "message": "Publish robot curling final assignment and evaluation results"
+        },
+        "modelDisclosureCommit": {
+          "sha": "602f0ff8749aafcf77419b0aeba46f8ae254d50b",
+          "url": "https://github.com/MasahitoKumada/physical_ai_last_assignment/commit/602f0ff8749aafcf77419b0aeba46f8ae254d50b",
+          "utc": "2026-11-02T01:04:00Z",
+          "message": "Document AI models used for development assistance"
+        },
+        "pinnedCommit": "2a96b1e5db830673c02cc7978f1d58438205d744",
+        "matchedBlobs": {
+          "README.md": "b7105e8db5d53f56d5d02d78657c35dbbca11be8",
+          "report/game_player_preview.png": "a9a80f8d3466329e8841a7495505f075b7b72d19",
+          "src/game.py": "d60426d4498126931a7d76b05622d5f8df3973fe"
+        }
+      },
+      "excludedOrDeferred": [
+        {
+          "url": "https://github.com/bede-lau/Morpheus/blob/4beee35c380af5499121e9324cc785638d2a174b/output/discovery/detections.json",
+          "reason": "README offers Astra as an alternate vision backend. The published kitchen and office detection files explicitly identify gpt-6.1-terra."
+        },
+        {
+          "url": "https://github.com/MikeJack302/bay-chicken-desktop",
+          "reason": "The desktop pet README lists Astra as a configurable default model for chat. No attribution of the displayed 3D pet to Astra was found."
+        },
+        {
+          "url": "https://x.com/vib3coded/status/2116944633800368616",
+          "reason": "Both labels in the schoolyard futsal post are Claude models."
+        },
+        {
+          "url": "https://x.com/learnwithcheer/status/2116878098763239877",
+          "reason": "The repost claims a GPT-6.2 Astra gray release, a different model claim."
+        }
+      ],
+      "platformLimits": [
+        "Eight Bilibili matches checked against publication timestamps were from September.",
+        "Public Xiaohongshu search yielded no newly attributable example with a verifiable preview in this window.",
+        "The AI Battle archive showed dates through October 27. Creator profile mirrors were used for discovery. Six X source pages and their individual media were checked directly."
+      ],
+      "olderBilibiliMatches": [
+        {
+          "url": "https://www.bilibili.com/video/BV19xbL6rEfW/",
+          "sourceDate": "2026-09-05"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1fCe76iErk/",
+          "sourceDate": "2026-09-15"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1GVeb6dEvZ/",
+          "sourceDate": "2026-09-19"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1jebG6zE1E/",
+          "sourceDate": "2026-09-08"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1KrYh6HEQ1/",
+          "sourceDate": "2026-09-10"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1kyey6SEQ3/",
+          "sourceDate": "2026-09-18"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1Nzb367Esr/",
+          "sourceDate": "2026-09-08"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1zVbw6VEEc/",
+          "sourceDate": "2026-09-07"
+        }
+      ],
+      "completeSourceClips": 6,
+      "newMediaFiles": 12,
+      "newMediaBytes": 73429264,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-02"
     }
   ]
 }

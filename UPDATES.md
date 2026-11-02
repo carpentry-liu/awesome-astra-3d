@@ -2,6 +2,17 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-11-02 · 6 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [机器人冰壶的三次投掷 / Robot Curling in Three Throws](https://carpentry-liu.github.io/awesome-astra-3d/cases/kumada-robot-curling/) | MasahitoKumada / bonsai2026 | 源码 / 工程 |
+| [追车镜头下的三维赛道 / Chase-Camera Track Racing](https://carpentry-liu.github.io/awesome-astra-3d/cases/andriy-track-racing/) | AndrIy / @Andr1ycp | 完整视频 |
+| [微缩城市的两轮模型对照 / Tiny Living City in Two Comparisons](https://carpentry-liu.github.io/awesome-astra-3d/cases/noclipepe-tiny-living-city/) | noclipepe / @noclipepe | 完整视频 · 提示词 / 过程 |
+| [骑电动车送外卖的熊猫 / Panda Delivery by Electric Scooter](https://carpentry-liu.github.io/awesome-astra-3d/cases/maker-jackie-panda-delivery/) | Maker Jackie / @maker_jackie | 完整视频 · 提示词 / 过程 |
+| [Brain Jelly 会回弹的果冻脑 / Brain Jelly — A Soft-Body Material Study](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-brain-jelly/) | Vib3Coded / @vib3coded | 演示入口 · 完整视频 · 提示词 / 过程 |
+| [水流里的海带森林 / Underwater Kelp Forest](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-underwater-kelp/) | Teddy / @teddyaisi | 完整视频 |
+
 ## 2026-10-31 · 6 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

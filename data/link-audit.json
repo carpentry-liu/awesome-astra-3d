@@ -25637,6 +25637,305 @@
           "visuallyReviewed": true
         }
       ]
+    },
+    {
+      "checkedAt": "2026-11-02",
+      "round": "daily",
+      "scope": "One public project, six X source posts and seven distinct outcome images including both city posters.",
+      "addedCaseIds": [
+        "kumada-robot-curling",
+        "andriy-track-racing",
+        "noclipepe-tiny-living-city",
+        "maker-jackie-panda-delivery",
+        "vib3coded-brain-jelly",
+        "teddy-underwater-kelp"
+      ],
+      "removedCaseIds": [],
+      "sourceChecks": [
+        {
+          "caseId": "andriy-track-racing",
+          "sourceUrl": "https://x.com/Andr1ycp/status/2116931399286452661",
+          "bytes": 112162,
+          "sha256": "b4711b4e0dac0df5ecf19a68058a61db2caa570acb6d56f8156be8becdbb9882",
+          "createdAtShanghai": "2026-11-02T00:32:30+08:00",
+          "selectedMediaId": "2116931360409464832",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "noclipepe-tiny-living-city",
+          "sourceUrl": "https://x.com/noclipepe/status/2116861310281351176",
+          "bytes": 188652,
+          "sha256": "be497f798548028c70296cfd5a560957a334e9df829c376c480dcf8fde70db47",
+          "createdAtShanghai": "2026-11-01T19:54:00+08:00",
+          "selectedMediaId": "2116855037796163584",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "noclipepe-tiny-living-city",
+          "sourceUrl": "https://x.com/noclipepe/status/2116948547027480802",
+          "bytes": 179368,
+          "sha256": "3964ff38bc97c3f6f91cb9b4c433d7b512f60ceb723faf3247c5adaea6690a43",
+          "createdAtShanghai": "2026-11-02T01:40:39+08:00",
+          "selectedMediaId": "2116944163488792576",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 2,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "maker-jackie-panda-delivery",
+          "sourceUrl": "https://x.com/maker_jackie/status/2116756290383081763",
+          "bytes": 129714,
+          "sha256": "6c6fe69d5ed97d216170a38448fd13733ea7d335481f34b1bf257ff835a2bcb4",
+          "createdAtShanghai": "2026-11-01T12:56:41+08:00",
+          "selectedMediaId": "2116755906998480896",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "vib3coded-brain-jelly",
+          "sourceUrl": "https://x.com/vib3coded/status/2116632234916749597",
+          "bytes": 159161,
+          "sha256": "cbdedd5a64c0bdee935c5a868be6bd200d57cab6ab4b8d10e6199177ad46d6e2",
+          "createdAtShanghai": "2026-11-01T04:43:44+08:00",
+          "selectedMediaId": "2116631945266237441",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-underwater-kelp",
+          "sourceUrl": "https://x.com/teddyaisi/status/2116847177800798575",
+          "bytes": 150051,
+          "sha256": "c6eb03a7385c08abf46b7e4878e0864f602128f40aceaead2f0e6f9cd34467c0",
+          "createdAtShanghai": "2026-11-01T18:57:50+08:00",
+          "selectedMediaId": "2116847150999203840",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        }
+      ],
+      "projectChecks": [
+        {
+          "caseId": "kumada-robot-curling",
+          "kind": "source",
+          "url": "https://github.com/MasahitoKumada/physical_ai_last_assignment/blob/2a96b1e5db830673c02cc7978f1d58438205d744/README.md",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 237665,
+          "sha256": "7f4654ed079b8bdcb93a6a48e2ff4c835966629865a4efed18a794e4c140e903",
+          "fullGet": true
+        },
+        {
+          "caseId": "kumada-robot-curling",
+          "kind": "repository",
+          "url": "https://github.com/MasahitoKumada/physical_ai_last_assignment",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 254486,
+          "sha256": "780dfe0fdc5b02baa2a51e530ebc5b4ef833931a10dc3b4a4ce11d1251ff4a93",
+          "fullGet": true
+        },
+        {
+          "caseId": "kumada-robot-curling",
+          "kind": "model disclosure",
+          "url": "https://github.com/MasahitoKumada/physical_ai_last_assignment/commit/602f0ff8749aafcf77419b0aeba46f8ae254d50b",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 251272,
+          "sha256": "2cd4988efc371a3c145c09e9036743c725d3d1df856a3b19cc77f6aee3e8717b",
+          "fullGet": true
+        },
+        {
+          "caseId": "vib3coded-brain-jelly",
+          "kind": "creator demo reply",
+          "url": "https://x.com/vib3coded/status/2116632263651893306",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 121240,
+          "sha256": "8c330fdea11060b98d2a7c2c4855434ec5f9c16789e4f27b34cca61a511b579d",
+          "fullGet": true
+        },
+        {
+          "caseId": "vib3coded-brain-jelly",
+          "kind": "creator-published prompt",
+          "url": "https://x.com/vib3coded/status/2116632336494190710",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 151138,
+          "sha256": "b202dc3dab32a106c848b9ffffdc08cc9637acc1b1baa6b4497beca35cc31729",
+          "fullGet": true
+        },
+        {
+          "caseId": "noclipepe-tiny-living-city",
+          "kind": "creator-published prompt",
+          "url": "https://x.com/noclipepe/status/2116948674802495492",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 150736,
+          "sha256": "905eb5026d6c2d96ab9bc40395f0ee2c66d9fb61bcd51caf1d60f02ba512702a",
+          "fullGet": true
+        },
+        {
+          "caseId": "vib3coded-brain-jelly",
+          "kind": "Astra demo",
+          "url": "https://brain-jelly.vercel.app/",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 3666044,
+          "sha256": "194bbea5be33056ea053746805d90f97aa36ba4347065584792de52d6b98489c",
+          "fullGet": true
+        }
+      ],
+      "previewChecks": [
+        {
+          "url": "https://raw.githubusercontent.com/MasahitoKumada/physical_ai_last_assignment/2a96b1e5db830673c02cc7978f1d58438205d744/report/game_player_preview.png",
+          "httpStatus": 200,
+          "contentType": "image/png",
+          "bytes": 59305,
+          "sha256": "861980585225acbff7f0d8900edb8ce4373cba1126e896362a34ca3335356c25",
+          "dimensions": [
+            800,
+            614
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "actualImageFormat": "PNG",
+          "caseId": "kumada-robot-curling",
+          "visuallyReviewed": true,
+          "gitBlobMatched": "a9a80f8d3466329e8841a7495505f075b7b72d19"
+        },
+        {
+          "caseId": "andriy-track-racing",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2116931360409464832/img/MHE8urun6_jDGzhz.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 79455,
+          "sha256": "47fd74dba85e14e546a7c7a11ca6f74bb3e5e0b9e770c0e79cdcc11ece937342",
+          "dimensions": [
+            893,
+            1200
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/Andr1ycp/status/2116931399286452661",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "noclipepe-tiny-living-city",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2116855037796163584/img/0nUjzkIOTXshG1lo.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 140178,
+          "sha256": "b9238fa45e5983ea5788f3ed4896414305bbfae50d1ae695bd049de431bc3a3b",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/noclipepe/status/2116861310281351176",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "noclipepe-tiny-living-city",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2116944163488792576/img/9ulSxz5LOAUAuSZq.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 149542,
+          "sha256": "c70d8ebbb7a4344c86a7b3bbb46f417b7a4c5ba25f12ceec21923dabd4417eee",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/noclipepe/status/2116948547027480802",
+          "archiveOrdinal": 2,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "maker-jackie-panda-delivery",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2116755906998480896/img/s9HzIBp5CqCJMKwi.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 140684,
+          "sha256": "44641eb61c5fbc995e46ae72710ef742aa12a3c705340c424caa3c9270e8aae5",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/maker_jackie/status/2116756290383081763",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "vib3coded-brain-jelly",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2116631945266237441/img/8L8xv8XxQ1wFTtiu.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 74633,
+          "sha256": "12f4f534feb3ad83ed2b149d8c7548b4c511748314b9fcceeed67fd2b224a88c",
+          "dimensions": [
+            948,
+            1200
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/vib3coded/status/2116632234916749597",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "teddy-underwater-kelp",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2116847150999203840/img/F_uHezHvXZa9dBlP.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 127978,
+          "sha256": "163cc4fa5a6945b654cd085db0dadc491ff9f6ff5b2552ced87ebbc9145f3e7e",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2116847177800798575",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        }
+      ]
     }
   ]
 }
