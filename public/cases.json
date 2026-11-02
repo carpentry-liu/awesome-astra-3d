@@ -1,5 +1,338 @@
 [
   {
+    "id": "kumada-robot-curling",
+    "title": "机器人冰壶的三次投掷",
+    "titleEn": "Robot Curling in Three Throws",
+    "category": "科学与教育",
+    "modelLabel": "GPT-6 Astra 与 GPT-6.1 Sol（作者披露共同辅助开发）",
+    "summary": "在桌面冰场上选方向、力度和旋转，让机器人把三枚冰壶送进得分圈。看第一投如何暴露冰面的滑度，再用上一投的观测调整下一投。",
+    "imageCaption": "作者仓库的实机界面，以斜俯视角呈现投壶装置、三枚冰壶和末局得分。",
+    "outcome": "作者用独立的回归模型估计冰面参数，停止位置由物理模拟计算。冰面与扫冰做了简化，验证使用模拟环境。",
+    "evidenceNote": "作者在 README 中明确写明 gpt-6-astra 和 gpt-6.1-sol 参与实现、验证和资料制作。各自负责的模块未逐项披露。",
+    "promptAvailability": "not-found",
+    "promptSummary": null,
+    "outputType": [
+      "MuJoCo 三维冰壶模拟",
+      "Python 桌面游戏与源码",
+      "作者操作截图及评估"
+    ],
+    "group": "astra",
+    "evidenceLevel": "author",
+    "addedAt": "2026-11-02",
+    "observedAt": "2026-11-02",
+    "secondaryPublishedAt": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "promptExcerpt": null,
+    "promptUrl": null,
+    "repositoryUrl": "https://github.com/MasahitoKumada/physical_ai_last_assignment",
+    "demoUrl": null,
+    "videoUrl": null,
+    "author": "MasahitoKumada / bonsai2026",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "sourceUrl": "https://github.com/MasahitoKumada/physical_ai_last_assignment/blob/2a96b1e5db830673c02cc7978f1d58438205d744/README.md",
+    "sourceDate": "2026-11-02",
+    "evidenceStatus": "author-repo-readme",
+    "sourceAccess": "已核对作者首个公开提交、模型说明、Python 入口和仓库中的实际游戏截图。",
+    "evidenceUrls": [
+      "https://github.com/MasahitoKumada/physical_ai_last_assignment/commit/15bbf7aee26d4d408a6e7f3cf6e21e23c5856ceb",
+      "https://github.com/MasahitoKumada/physical_ai_last_assignment/commit/602f0ff8749aafcf77419b0aeba46f8ae254d50b",
+      "https://raw.githubusercontent.com/MasahitoKumada/physical_ai_last_assignment/2a96b1e5db830673c02cc7978f1d58438205d744/src/game.py"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/MasahitoKumada/physical_ai_last_assignment/2a96b1e5db830673c02cc7978f1d58438205d744/report/game_player_preview.png",
+    "imageKind": "author-screenshot"
+  },
+  {
+    "id": "andriy-track-racing",
+    "title": "追车镜头下的三维赛道",
+    "titleEn": "Chase-Camera Track Racing",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra (High) / Claude Opus 5.5 (High)",
+    "summary": "蓝色跑车从后方和侧面入镜，沿护栏驶过绿色缓坡。同屏下方的红车走的是另一版赛道，可以对照车身在弯道中的动作与镜头位置。",
+    "imageCaption": "AndrIy 原帖的上下对照。上栏蓝车标注 GPT-6 Astra (High)，下栏红车标注 Opus 5.5 (High)。",
+    "outcome": "录像呈现两种模型的赛车画面。原帖未给出可操作的工程或车辆动力学参数。",
+    "evidenceNote": "发布者说明比较的是两种模型生成的三维赛道场景，录像标注了各自的模型与档位。",
+    "promptSummary": "发布者描述任务为在赛道上呈现三维赛车及其运动。",
+    "promptAvailability": "author-description",
+    "outputType": [
+      "三维赛车场景",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "evidenceLevel": "author",
+    "addedAt": "2026-11-02",
+    "observedAt": "2026-11-02",
+    "secondaryPublishedAt": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "promptExcerpt": null,
+    "promptUrl": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/Andr1ycp/status/2116931399286452661",
+    "author": "AndrIy / @Andr1ycp",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "sourceDate": "2026-11-02",
+    "sourceUrl": "https://x.com/Andr1ycp/status/2116931399286452661",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2116931360409464832/img/MHE8urun6_jDGzhz.jpg",
+    "imageKind": "author-comparison",
+    "evidenceStatus": "explicit-astra",
+    "archivedVideos": [
+      {
+        "label": "Chase-Camera Track Racing",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2116931360409464832/img/MHE8urun6_jDGzhz.jpg",
+        "sourceUrl": "https://x.com/Andr1ycp/status/2116931399286452661",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/andriy-track-racing-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-02/andriy-track-racing-1-original.mp4",
+        "bytes": 3003702,
+        "sha256": "3be1e895b5b16d0c616f56d14c28dc95cedd5abbea6e3bf94a434969018cc682",
+        "durationSeconds": 12.86
+      }
+    ],
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/Andr1ycp/status/2116931399286452661"
+    ],
+    "sourceAccess": "已核对原帖、画面中的模型标签和全长录像。"
+  },
+  {
+    "id": "noclipepe-tiny-living-city",
+    "title": "微缩城市的两轮模型对照",
+    "titleEn": "Tiny Living City in Two Comparisons",
+    "category": "等距与微缩",
+    "modelLabel": "GPT-6 Astra / Gemini 4 Carbon / GPT-6.1 Sol（第一轮另含 GPT-6.1 Terra，第二轮另含 Claude Fable 5.1）",
+    "summary": "从浅色港湾望过去，钟楼、街区和桥梁挤在一小块地面上。同一座 Astra 城市出现在两段四宫格录像里，可以跟着镜头看街道和水岸。",
+    "imageCaption": "图为 11 月 2 日第二段录像，Astra 在右下。11 月 1 日的第一段里 Astra 在左下，每段播放器分别标注。",
+    "outcome": "第二轮加入 Fable，沿用先前的 Astra 城市。影片中的评分、耗时和成本来自发布者的观察。",
+    "evidenceNote": "两条原帖都直接提到 GPT-6 Astra。作者说明第二条沿用同一任务并增加对照模型，两段录像中的 Astra 界面与标题也能对应。",
+    "promptUrl": "https://x.com/noclipepe/status/2116948674802495492",
+    "promptSummary": "作者的完整任务要求在微缩城市中安排港口、河桥和铁路，并让行人和交通按时间活动。",
+    "promptAvailability": "full-linked",
+    "outputType": [
+      "微缩三维城市场景",
+      "两段完整对照录像",
+      "作者公开任务"
+    ],
+    "group": "astra",
+    "evidenceLevel": "author",
+    "addedAt": "2026-11-02",
+    "observedAt": "2026-11-02",
+    "secondaryPublishedAt": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/noclipepe/status/2116948547027480802",
+    "author": "noclipepe / @noclipepe",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "sourceDate": "2026-11-01",
+    "sourceUrl": "https://x.com/noclipepe/status/2116861310281351176",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2116944163488792576/img/9ulSxz5LOAUAuSZq.jpg",
+    "imageKind": "author-comparison",
+    "evidenceStatus": "explicit-astra",
+    "archivedVideos": [
+      {
+        "label": "11 月 1 日 · Nov 1 · Astra 左下 / bottom left",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2116855037796163584/img/0nUjzkIOTXshG1lo.jpg",
+        "sourceUrl": "https://x.com/noclipepe/status/2116861310281351176",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/noclipepe-tiny-living-city-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-02/noclipepe-tiny-living-city-1-original.mp4",
+        "bytes": 20225636,
+        "sha256": "290b785c85f678bc7e882c91fab261a482f61e25db8491df693fe117b3919d31",
+        "durationSeconds": 39.15
+      },
+      {
+        "label": "11 月 2 日 · Nov 2 · Astra 右下 / bottom right",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2116944163488792576/img/9ulSxz5LOAUAuSZq.jpg",
+        "sourceUrl": "https://x.com/noclipepe/status/2116948547027480802",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/noclipepe-tiny-living-city-2-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-02/noclipepe-tiny-living-city-2-original.mp4",
+        "bytes": 24864736,
+        "sha256": "89278560f532853e2ae77ae93b5b081dbdf0d926057ccd7a50e401747c479a9a",
+        "durationSeconds": 39.29
+      }
+    ],
+    "evidenceUrls": [
+      "https://x.com/noclipepe/status/2116948547027480802",
+      "https://api.fxtwitter.com/noclipepe/status/2116861310281351176",
+      "https://api.fxtwitter.com/noclipepe/status/2116948547027480802",
+      "https://x.com/noclipepe/status/2116948674802495492"
+    ],
+    "sourceAccess": "两条原帖和作者的任务回复均可读取。两段录像各保留原帖全长与各自的模型标注。"
+  },
+  {
+    "id": "maker-jackie-panda-delivery",
+    "title": "骑电动车送外卖的熊猫",
+    "titleEn": "Panda Delivery by Electric Scooter",
+    "category": "角色与动画",
+    "modelLabel": "GPT-6 Astra（Codex CLI，Ultra）/ Claude Opus 5.5 / DeepSeek V4.1 Flash",
+    "summary": "戴橙色头盔的熊猫骑着黄车穿过店面，背后挂着绿色外卖箱。作者让三个模型用纯代码做同一段短片，可以比较近景拉远后各自怎样交代街道。",
+    "imageCaption": "Maker Jackie 原帖，左上是共用任务，Astra 的橙盔熊猫在左下。右上为 Opus，右下为 DeepSeek。",
+    "outcome": "左下的短片可以看到角色、道具与街景。录像标出的运行时间和费用是作者记录。",
+    "evidenceNote": "作者明确标注 three.js 纯代码与三种模型，画面左下另列 Astra 的 Codex CLI 和 Ultra 档位。",
+    "promptUrl": "https://x.com/maker_jackie/status/2116756290383081763",
+    "promptSummary": "原帖左上角给出共用提示词，要求以 Three.js 构建送餐场景，用两个由近及远的镜头讲清动作。",
+    "promptAvailability": "full-prompt-on-source",
+    "outputType": [
+      "Three.js 角色短片",
+      "完整原帖录像",
+      "作者画面内的任务说明"
+    ],
+    "group": "astra",
+    "evidenceLevel": "author",
+    "addedAt": "2026-11-02",
+    "observedAt": "2026-11-02",
+    "secondaryPublishedAt": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/maker_jackie/status/2116756290383081763",
+    "author": "Maker Jackie / @maker_jackie",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "sourceDate": "2026-11-01",
+    "sourceUrl": "https://x.com/maker_jackie/status/2116756290383081763",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2116755906998480896/img/s9HzIBp5CqCJMKwi.jpg",
+    "imageKind": "author-comparison",
+    "evidenceStatus": "explicit-astra",
+    "archivedVideos": [
+      {
+        "label": "Panda Delivery by Electric Scooter",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2116755906998480896/img/s9HzIBp5CqCJMKwi.jpg",
+        "sourceUrl": "https://x.com/maker_jackie/status/2116756290383081763",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/maker-jackie-panda-delivery-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-02/maker-jackie-panda-delivery-1-original.mp4",
+        "bytes": 5449869,
+        "sha256": "2620622a39ab646a829f61c61313b614e6e118c357cf5f3d184adaabb6bdd1b9",
+        "durationSeconds": 10.05
+      }
+    ],
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/maker_jackie/status/2116756290383081763"
+    ],
+    "sourceAccess": "已核对原帖、画面中的模型标签和全长录像。"
+  },
+  {
+    "id": "vib3coded-brain-jelly",
+    "title": "Brain Jelly 会回弹的果冻脑",
+    "titleEn": "Brain Jelly — A Soft-Body Material Study",
+    "category": "3D 网页",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5",
+    "summary": "烛光旁的半透明果冻长着一双眼睛。画面能看到沟纹、倒影和形变，作者另放出了 Astra 版本，可尝试戳动或更换颜色。",
+    "imageCaption": "Vib3Coded 原帖对照封面，上栏是 GPT-6 Astra，下栏是 Claude Opus 5.5。",
+    "outcome": "作者公开了 Astra 专属页面和完整任务。果冻材质是卡通软体练习，费用来自作者记录。",
+    "evidenceNote": "原帖标出上下两种模型，作者回复分别链接 Astra 与 Opus 版本，并另贴完整任务。",
+    "promptUrl": "https://x.com/vib3coded/status/2116632336494190710",
+    "demoUrl": "https://brain-jelly.vercel.app/",
+    "promptSummary": "作者要求用 Three.js 和 WebGL2 做能被抓取、晃动的软体材质练习，在暗色桌面上观察高光和回弹。",
+    "promptAvailability": "full-linked",
+    "outputType": [
+      "Three.js / WebGL2 软体材质",
+      "Astra 试玩与作者任务",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "evidenceLevel": "author",
+    "addedAt": "2026-11-02",
+    "observedAt": "2026-11-02",
+    "secondaryPublishedAt": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "videoUrl": "https://x.com/vib3coded/status/2116632234916749597",
+    "author": "Vib3Coded / @vib3coded",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "sourceDate": "2026-11-01",
+    "sourceUrl": "https://x.com/vib3coded/status/2116632234916749597",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2116631945266237441/img/8L8xv8XxQ1wFTtiu.jpg",
+    "imageKind": "author-comparison",
+    "evidenceStatus": "explicit-astra",
+    "archivedVideos": [
+      {
+        "label": "Brain Jelly — A Soft-Body Material Study",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2116631945266237441/img/8L8xv8XxQ1wFTtiu.jpg",
+        "sourceUrl": "https://x.com/vib3coded/status/2116632234916749597",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-brain-jelly-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-02/vib3coded-brain-jelly-1-original.mp4",
+        "bytes": 10995017,
+        "sha256": "7878306eb0d6c04a9985474383737f383d2bb6d195cc7c73970e88631e1784ff",
+        "durationSeconds": 18.05
+      }
+    ],
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/vib3coded/status/2116632234916749597",
+      "https://x.com/vib3coded/status/2116632263651893306",
+      "https://x.com/vib3coded/status/2116632336494190710"
+    ],
+    "sourceAccess": "作者回复指明了 Astra 演示。外站页面完整返回，本地打开同一份 HTML 后，换色和放电均有界面反馈。外站浏览器直连复测超时。"
+  },
+  {
+    "id": "teddy-underwater-kelp",
+    "title": "水流里的海带森林",
+    "titleEn": "Underwater Kelp Forest",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / GPT-6.1 Terra",
+    "summary": "海带从海床上的石块间长出，大片叶片顺着水流弯曲。观察中栏光线如何穿过叶片，再比较两侧相同任务下的叶形和水色。",
+    "imageCaption": "Teddy 原帖三栏并排，从左至右是 Sol、Astra、Terra。中栏的叶片根部、岩石和海床清晰可见。",
+    "outcome": "原帖明确给出 WebGL 任务。叶片弯曲的具体实现及可编辑源文件未公开。",
+    "evidenceNote": "作者在原帖写出三种 GPT 模型和海带森林的 WebGL 任务，录像中栏标有 GPT-6 Astra。",
+    "promptAvailability": "author-description",
+    "promptSummary": "任务要求在水下 WebGL 场景中呈现随流弯曲的宽叶，以及穿过叶片的光。",
+    "outputType": [
+      "WebGL 水下场景",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "evidenceLevel": "author",
+    "addedAt": "2026-11-02",
+    "observedAt": "2026-11-02",
+    "secondaryPublishedAt": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "promptExcerpt": null,
+    "promptUrl": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/teddyaisi/status/2116847177800798575",
+    "author": "Teddy / @teddyaisi",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "sourceDate": "2026-11-01",
+    "sourceUrl": "https://x.com/teddyaisi/status/2116847177800798575",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2116847150999203840/img/F_uHezHvXZa9dBlP.jpg",
+    "imageKind": "author-comparison",
+    "evidenceStatus": "explicit-astra",
+    "archivedVideos": [
+      {
+        "label": "Underwater Kelp Forest",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2116847150999203840/img/F_uHezHvXZa9dBlP.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2116847177800798575",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-underwater-kelp-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-02/teddy-underwater-kelp-1-original.mp4",
+        "bytes": 2113434,
+        "sha256": "ef9375f921ed023cb266f54254d5e3967019a4d78bf641bd6855a54929811644",
+        "durationSeconds": 20.0
+      }
+    ],
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2116847177800798575"
+    ],
+    "sourceAccess": "已核对原帖、画面中的模型标签和全长录像。"
+  },
+  {
     "id": "teddy-rooftop-laundry",
     "title": "风吹过晾衣天台",
     "titleEn": "Laundry in the Rooftop Breeze",

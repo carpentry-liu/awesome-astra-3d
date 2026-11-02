@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-10-31 (Asia/Shanghai)** · **420 Astra examples** · **118 source / project links** · **131 demo links** · **206 complete videos** · **12 separate references**.
+Updated **2026-11-02 (Asia/Shanghai)** · **426 Astra examples** · **119 source / project links** · **132 demo links** · **212 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -44,18 +44,18 @@ Select a title or image to open the creator's demo directly. Case pages retain s
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-10-31.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-11-02.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Website screenshots were refreshed on **October 31, 2026** from the current local production build. See the creator previews and latest additions below for this update. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Website screenshots were refreshed on **November 2, 2026** from the current local production build. See the creator previews and latest additions below for this update. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
-<summary>Gallery, mobile and case screenshots · October 31, 2026</summary>
+<summary>Gallery, mobile and case screenshots · November 2, 2026</summary>
 
-[![Gallery filters and more works](docs/media/collection-2026-10-31.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Gallery filters and more works](docs/media/collection-2026-11-02.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-10-31.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-11-02.jpg)
 
-[![Laundry in the Rooftop Breeze — case details](docs/media/case-2026-10-31.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-rooftop-laundry/)
+[![Robot Curling in Three Throws and its source project](docs/media/case-2026-11-02.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kumada-robot-curling/)
 
 </details>
 
@@ -63,33 +63,33 @@ Website screenshots were refreshed on **October 31, 2026** from the current loca
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The October 31 update adds **six works with six complete recordings**. Teddy’s October 31 rooftop laundry scene compares cloth motion and shadows. The other five works were posted on October 28 and 30. Mangrove Lights includes the Astra demo and prompt. The Oasis Jelly recording identifies Astra on the left.
+The November 2 update adds **six works and six complete recordings**. Today’s robot curling project includes Python and MuJoCo source, and the racing comparison follows two cars around a track. Both Tiny Living City recordings share one page. Astra is bottom left in the November 1 clip and bottom right in the November 2 follow-up. The panda courier, Brain Jelly and kelp forest were posted on November 1. Brain Jelly includes the creator’s demo and prompt.
 
 <!-- atlas:update-previews:start -->
 **This update in pictures — creator works**
 
-| Rooftop laundry · Astra left | Mangrove lights · Astra below | Cable Valley · Astra at bottom |
+| Robot curling · source code | Track racing · Astra on top | Tiny Living City · second clip, bottom right |
 | --- | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2116346171870593024/img/SYwptRRIOJlBbPkL.jpg" height="165" alt="Rooftop laundry · Astra left">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-rooftop-laundry/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2116024618062315520/img/J3GQpwCOeZXqpJQ-.jpg" height="165" alt="Mangrove lights · Astra below">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-mangrove-lights/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2116143441851588608/img/b_3dohcKkwI1m91c.jpg" height="165" alt="Cable Valley · Astra at bottom">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/olezhavich-cable-valley/) |
+| [<img src="https://raw.githubusercontent.com/MasahitoKumada/physical_ai_last_assignment/2a96b1e5db830673c02cc7978f1d58438205d744/report/game_player_preview.png" height="165" alt="Robot curling · source code">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kumada-robot-curling/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2116931360409464832/img/MHE8urun6_jDGzhz.jpg" height="165" alt="Track racing · Astra on top">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/andriy-track-racing/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2116944163488792576/img/9ulSxz5LOAUAuSZq.jpg" height="165" alt="Tiny Living City · second clip, bottom right">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/noclipepe-tiny-living-city/) |
 
-| Fishing boat · Astra left | Mechanical jaw · Astra in middle | Oasis Jelly · Astra left |
+| Panda delivery · Astra bottom left | Brain Jelly · Astra on top | Kelp forest · Astra in the center |
 | --- | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2116188124560949249/img/YOAIyf5_H67Ye4kJ.jpg" height="165" alt="Fishing boat · Astra left">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-teal-swell-fishing-boat/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2116108716214779904/img/1Lcoam4UmMi4N9fF.jpg" height="165" alt="Mechanical jaw · Astra in middle">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/noclipepe-mechanical-jaw/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2115448656161550336/img/AoZ7ffrxeb_7v9l4.jpg" height="165" alt="Oasis Jelly · Astra left">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/szerment-oasis-jelly/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2116755906998480896/img/s9HzIBp5CqCJMKwi.jpg" height="165" alt="Panda delivery · Astra bottom left">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/maker-jackie-panda-delivery/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2116631945266237441/img/8L8xv8XxQ1wFTtiu.jpg" height="165" alt="Brain Jelly · Astra on top">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-brain-jelly/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2116847150999203840/img/F_uHezHvXZa9dBlP.jpg" height="165" alt="Kelp forest · Astra in the center">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-underwater-kelp/) |
 
-[Watch the recordings](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Download originals](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-10-31)
+[Watch the recordings](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Download originals](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-02)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [Robot Curling in Three Throws](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kumada-robot-curling/) | MasahitoKumada / bonsai2026 | [Source](https://github.com/MasahitoKumada/physical_ai_last_assignment) · [Original](https://github.com/MasahitoKumada/physical_ai_last_assignment/blob/2a96b1e5db830673c02cc7978f1d58438205d744/README.md) |
+| [Chase-Camera Track Racing](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/andriy-track-racing/) | AndrIy / @Andr1ycp | [Original](https://x.com/Andr1ycp/status/2116931399286452661) |
+| [Tiny Living City in Two Comparisons](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/noclipepe-tiny-living-city/) | noclipepe / @noclipepe | [Original](https://x.com/noclipepe/status/2116861310281351176) |
+| [Panda Delivery by Electric Scooter](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/maker-jackie-panda-delivery/) | Maker Jackie / @maker_jackie | [Original](https://x.com/maker_jackie/status/2116756290383081763) |
+| [Brain Jelly — A Soft-Body Material Study](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-brain-jelly/) | Vib3Coded / @vib3coded | [Demo](https://brain-jelly.vercel.app/) · [Original](https://x.com/vib3coded/status/2116632234916749597) |
+| [Underwater Kelp Forest](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-underwater-kelp/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2116847177800798575) |
 | [Laundry in the Rooftop Breeze](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-rooftop-laundry/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2116346545272770844) |
 | [Mangrove Lights — Fireflies in a Tidal Diorama](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-mangrove-lights/) | Vib3Coded / @vib3coded | [Demo](https://mangrove-lights-vibecoded1.vercel.app/) · [Original](https://x.com/vib3coded/status/2116024691533979940) |
-| [Cable Valley — Gondolas on a Floating Ski Island](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/olezhavich-cable-valley/) | Olezhka / @olezhavich | [Original](https://x.com/olezhavich/status/2116143918890758198) |
-| [A Fishing Boat in Teal Swells at Dusk](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-teal-swell-fishing-boat/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2116188637364920450) |
-| [Mechanical Jaw — An Exploded View in Motion](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/noclipepe-mechanical-jaw/) | noclipepe / @noclipepe | [Original](https://x.com/noclipepe/status/2116109757865930787) |
-| [Oasis Jelly — A Desert Camp Inside a Clear Cube](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/szerment-oasis-jelly/) | Martin Szerment \| Practical AI / @MartinSzerment | [Original](https://x.com/MartinSzerment/status/2115449826481463529) |
-| [Aurora over a Frozen Lake — Three.js Scene](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/aibattles-aurora-frozen-lake/) | AI Battle（公开对照平台） | [Demo](https://aibattles.dev/play/a1fd0a9f-4928-4e70-a3e3-3d9424f11e47) · [Original](https://aibattles.dev/battles/aurora-borealis-over-a-frozen-lake-2026-10-27) |
-| [Bicycle, Cow and Skateboard — Two-model 3D Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/timjayas-cow-cycle-comparison/) | Tim Jayas / @TimJayas | [Original](https://x.com/TimJayas/status/2115074545166287075) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

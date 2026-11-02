@@ -1042,6 +1042,18 @@
       "observedAt": "2026-10-31",
       "result": "reachable",
       "scope": "Full HTML GET and version attribution in creator reply. Browser verification timed out before interactivity was confirmed."
+    },
+    {
+      "id": "vib3coded-brain-jelly",
+      "title": "Brain Jelly · Material Studies No. 014",
+      "url": "https://brain-jelly.vercel.app/",
+      "status": 200,
+      "observedAt": "2026-11-02",
+      "result": "reachable",
+      "bytes": 3666044,
+      "sha256": "194bbea5be33056ea053746805d90f97aa36ba4347065584792de52d6b98489c",
+      "contentType": "text/html",
+      "scope": "Complete author-linked HTML GET. The identical file in a local browser changed the selected colour to Zombie lime and the mood to Zapped on interaction. Live external browser navigation timed out."
     }
   ]
 }

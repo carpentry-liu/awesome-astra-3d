@@ -72960,6 +72960,1117 @@
         "consoleWarnings": 0,
         "responsiveOverrideReset": true
       }
+    },
+    {
+      "checkedAt": "2026-11-02",
+      "round": "daily",
+      "scope": "Complete new renditions and credited outcome images. Historical samples are separately scoped.",
+      "addedCaseIds": [
+        "kumada-robot-curling",
+        "andriy-track-racing",
+        "noclipepe-tiny-living-city",
+        "maker-jackie-panda-delivery",
+        "vib3coded-brain-jelly",
+        "teddy-underwater-kelp"
+      ],
+      "removedCaseIds": [],
+      "previews": [
+        {
+          "url": "https://raw.githubusercontent.com/MasahitoKumada/physical_ai_last_assignment/2a96b1e5db830673c02cc7978f1d58438205d744/report/game_player_preview.png",
+          "httpStatus": 200,
+          "contentType": "image/png",
+          "bytes": 59305,
+          "sha256": "861980585225acbff7f0d8900edb8ce4373cba1126e896362a34ca3335356c25",
+          "dimensions": [
+            800,
+            614
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "actualImageFormat": "PNG",
+          "caseId": "kumada-robot-curling",
+          "visuallyReviewed": true,
+          "gitBlobMatched": "a9a80f8d3466329e8841a7495505f075b7b72d19"
+        },
+        {
+          "caseId": "andriy-track-racing",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2116931360409464832/img/MHE8urun6_jDGzhz.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 79455,
+          "sha256": "47fd74dba85e14e546a7c7a11ca6f74bb3e5e0b9e770c0e79cdcc11ece937342",
+          "dimensions": [
+            893,
+            1200
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/Andr1ycp/status/2116931399286452661",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "noclipepe-tiny-living-city",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2116855037796163584/img/0nUjzkIOTXshG1lo.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 140178,
+          "sha256": "b9238fa45e5983ea5788f3ed4896414305bbfae50d1ae695bd049de431bc3a3b",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/noclipepe/status/2116861310281351176",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "noclipepe-tiny-living-city",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2116944163488792576/img/9ulSxz5LOAUAuSZq.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 149542,
+          "sha256": "c70d8ebbb7a4344c86a7b3bbb46f417b7a4c5ba25f12ceec21923dabd4417eee",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/noclipepe/status/2116948547027480802",
+          "archiveOrdinal": 2,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "maker-jackie-panda-delivery",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2116755906998480896/img/s9HzIBp5CqCJMKwi.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 140684,
+          "sha256": "44641eb61c5fbc995e46ae72710ef742aa12a3c705340c424caa3c9270e8aae5",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/maker_jackie/status/2116756290383081763",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "vib3coded-brain-jelly",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2116631945266237441/img/8L8xv8XxQ1wFTtiu.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 74633,
+          "sha256": "12f4f534feb3ad83ed2b149d8c7548b4c511748314b9fcceeed67fd2b224a88c",
+          "dimensions": [
+            948,
+            1200
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/vib3coded/status/2116632234916749597",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "teddy-underwater-kelp",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2116847150999203840/img/F_uHezHvXZa9dBlP.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 127978,
+          "sha256": "163cc4fa5a6945b654cd085db0dadc491ff9f6ff5b2552ced87ebbc9145f3e7e",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2116847177800798575",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        }
+      ],
+      "newVideos": [
+        {
+          "caseId": "andriy-track-racing",
+          "filename": "andriy-track-racing-1-original.mp4",
+          "kind": "original",
+          "bytes": 3003702,
+          "sha256": "3be1e895b5b16d0c616f56d14c28dc95cedd5abbea6e3bf94a434969018cc682",
+          "durationSeconds": 12.86,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/Andr1ycp/status/2116931399286452661",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-02/andriy-track-racing-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12.815,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "andriy-track-racing",
+          "filename": "andriy-track-racing-1-web.mp4",
+          "kind": "web",
+          "bytes": 496834,
+          "sha256": "1f19cc2745f5af1902504041886ceb25c2f6060cb956a08025ff635032037260",
+          "durationSeconds": 12.86,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/Andr1ycp/status/2116931399286452661",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-02/andriy-track-racing-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12.815,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "noclipepe-tiny-living-city",
+          "filename": "noclipepe-tiny-living-city-1-original.mp4",
+          "kind": "original",
+          "bytes": 20225636,
+          "sha256": "290b785c85f678bc7e882c91fab261a482f61e25db8491df693fe117b3919d31",
+          "durationSeconds": 39.15,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/noclipepe/status/2116861310281351176",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-02/noclipepe-tiny-living-city-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 39.1,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "noclipepe-tiny-living-city",
+          "filename": "noclipepe-tiny-living-city-1-web.mp4",
+          "kind": "web",
+          "bytes": 1821629,
+          "sha256": "977be3a8c684b62c1754a3b0bba42e92184a0ac19b482397393d786417112840",
+          "durationSeconds": 39.15,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/noclipepe/status/2116861310281351176",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-02/noclipepe-tiny-living-city-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 39.1,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "noclipepe-tiny-living-city",
+          "filename": "noclipepe-tiny-living-city-2-original.mp4",
+          "kind": "original",
+          "bytes": 24864736,
+          "sha256": "89278560f532853e2ae77ae93b5b081dbdf0d926057ccd7a50e401747c479a9a",
+          "durationSeconds": 39.29,
+          "archiveOrdinal": 2,
+          "sourceUrl": "https://x.com/noclipepe/status/2116948547027480802",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-02/noclipepe-tiny-living-city-2-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 39.233,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "noclipepe-tiny-living-city",
+          "filename": "noclipepe-tiny-living-city-2-web.mp4",
+          "kind": "web",
+          "bytes": 2119174,
+          "sha256": "742085dd1dbe5bd7d27e2879bc2b554d8e79689663c2a817d15b7431286f8223",
+          "durationSeconds": 39.29,
+          "archiveOrdinal": 2,
+          "sourceUrl": "https://x.com/noclipepe/status/2116948547027480802",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-02/noclipepe-tiny-living-city-2-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 39.233,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "maker-jackie-panda-delivery",
+          "filename": "maker-jackie-panda-delivery-1-original.mp4",
+          "kind": "original",
+          "bytes": 5449869,
+          "sha256": "2620622a39ab646a829f61c61313b614e6e118c357cf5f3d184adaabb6bdd1b9",
+          "durationSeconds": 10.05,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/maker_jackie/status/2116756290383081763",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-02/maker-jackie-panda-delivery-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 10,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "maker-jackie-panda-delivery",
+          "filename": "maker-jackie-panda-delivery-1-web.mp4",
+          "kind": "web",
+          "bytes": 620567,
+          "sha256": "19f253f095ef41a4ac2060839fb26aabd5f4854b43d2f9e7e923661027264950",
+          "durationSeconds": 10.05,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/maker_jackie/status/2116756290383081763",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-02/maker-jackie-panda-delivery-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 10,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "vib3coded-brain-jelly",
+          "filename": "vib3coded-brain-jelly-1-original.mp4",
+          "kind": "original",
+          "bytes": 10995017,
+          "sha256": "7878306eb0d6c04a9985474383737f383d2bb6d195cc7c73970e88631e1784ff",
+          "durationSeconds": 18.05,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/vib3coded/status/2116632234916749597",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-02/vib3coded-brain-jelly-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 18,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "vib3coded-brain-jelly",
+          "filename": "vib3coded-brain-jelly-1-web.mp4",
+          "kind": "web",
+          "bytes": 1063079,
+          "sha256": "abf9dd0248d781086be1099840a4129f13912e86727e2cc75a1c068d3baa8d60",
+          "durationSeconds": 18.05,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/vib3coded/status/2116632234916749597",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-02/vib3coded-brain-jelly-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 18,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "teddy-underwater-kelp",
+          "filename": "teddy-underwater-kelp-1-original.mp4",
+          "kind": "original",
+          "bytes": 2113434,
+          "sha256": "ef9375f921ed023cb266f54254d5e3967019a4d78bf641bd6855a54929811644",
+          "durationSeconds": 20.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2116847177800798575",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-02/teddy-underwater-kelp-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 20,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "teddy-underwater-kelp",
+          "filename": "teddy-underwater-kelp-1-web.mp4",
+          "kind": "web",
+          "bytes": 655587,
+          "sha256": "3e4fe058bec01fca6fcf5b2ad9288deb6faa68875b04787a4f136c6fce39c5f1",
+          "durationSeconds": 20.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2116847177800798575",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-02/teddy-underwater-kelp-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 20,
+          "releaseDigestMatched": true
+        }
+      ],
+      "historicalChecks": {
+        "images": [
+          {
+            "caseId": "teddy-rooftop-laundry",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2116346171870593024/img/SYwptRRIOJlBbPkL.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-02T02:17:25.678292+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 127589,
+            "bytes": 127589,
+            "sha256": "129da5380aea0dd8a95d754081087be59fd6c4ee31cbb9d3520bb3778f712597",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "vib3coded-mangrove-lights",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2116024618062315520/img/J3GQpwCOeZXqpJQ-.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-02T02:17:25.678904+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 65158,
+            "bytes": 65158,
+            "sha256": "f005c999f808ff6cd285156dd93b9a0afcf1dc8db1206287eb6367099e9304de",
+            "dimensions": [
+              948,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "olezhavich-cable-valley",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2116143441851588608/img/b_3dohcKkwI1m91c.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-02T02:17:25.679259+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 163223,
+            "bytes": 163223,
+            "sha256": "212b3f335ba984723dacd7cac208a620762f7f7f5ef0a7f62c03c5285720f0f9",
+            "dimensions": [
+              711,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-teal-swell-fishing-boat",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2116188124560949249/img/YOAIyf5_H67Ye4kJ.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-02T02:17:25.679541+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 98940,
+            "bytes": 98940,
+            "sha256": "cb23e2e96dd46153be30e33504757ebadb057df327793ce48d8865d597f7f906",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "noclipepe-mechanical-jaw",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2116108716214779904/img/1Lcoam4UmMi4N9fF.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-02T02:17:25.679850+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 90908,
+            "bytes": 90908,
+            "sha256": "93ed1742a0044c20dbeed98884cbc0821ecefe2b1a057dda12feac84e37f9bd8",
+            "dimensions": [
+              675,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "szerment-oasis-jelly",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2115448656161550336/img/AoZ7ffrxeb_7v9l4.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-02T02:17:27.053334+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 82393,
+            "bytes": 82393,
+            "sha256": "5be5c13d271a56793d2bd91b80195d61112cb9f0b4b4192d06a65ab8800d73c0",
+            "dimensions": [
+              1200,
+              651
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "aibattles-aurora-frozen-lake",
+            "url": "https://aibattles.dev/media/c0841073-7cf3-48c1-b6e6-a93e43541e66",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-02T02:17:27.054363+00:00",
+            "status": 200,
+            "contentType": "image/webp",
+            "contentLength": 48090,
+            "bytes": 48090,
+            "sha256": "1178aad32c4e6071dfa77312a2253f9dba1c4d59e4ef2e76aa2bf28eb000e22d",
+            "dimensions": [
+              1280,
+              720
+            ],
+            "format": "WEBP",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "timjayas-cow-cycle-comparison",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2115074253842460672/img/_LRNu3iUMdXYnv6p.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-02T02:17:27.075682+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 46679,
+            "bytes": 46679,
+            "sha256": "d9524db110a1e5f52601425074815dd9bfd0ed01fe6b55fd94f2b0646c524447",
+            "dimensions": [
+              1200,
+              625
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "lummox-alpine-lake-comparison",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2115164140381634561/img/xj8qMVIiK2YBa6e0.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-02T02:17:27.220001+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 220348,
+            "bytes": 220348,
+            "sha256": "773edb9690f602a11230da507c491c4e13533ea105f38ab99bb1feca93c081bf",
+            "dimensions": [
+              1200,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "fatasia-within-gallery",
+            "url": "https://raw.githubusercontent.com/fatasia/within/main/public/previews/sakura.webp",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-02T02:17:27.295152+00:00",
+            "status": 200,
+            "contentType": "image/webp",
+            "contentLength": 238084,
+            "bytes": 238084,
+            "sha256": "62693877bf245773dea3db4ad5245e2b7815260bdc84c8a52c23a569323c63c9",
+            "dimensions": [
+              1200,
+              800
+            ],
+            "format": "WEBP",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "ivanainai-storm-lighthouse",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2115203494806233088/img/rF4cuFVPCUldx4XU.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-02T02:17:28.384899+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 134107,
+            "bytes": 134107,
+            "sha256": "3680c1078b3c72d869220ac86e8bee3d9289cf619a97c68d0883c66184cbce8d",
+            "dimensions": [
+              960,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "harry-koi-pond-comparison",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2111817451415719937/img/xwNsTTgf7_II2x1D.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-02T02:17:28.406682+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 131198,
+            "bytes": 131198,
+            "sha256": "e4e7df34ede661a5265b6197b50151548e235aa852f375ad1af8c25b80141059",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "physcodegym-astra-reconstruction",
+            "url": "https://raw.githubusercontent.com/ShaoShuai0605/PhysCodeGym/main/docs/assets/physics/astra_cradle.gif",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-02T02:17:28.572398+00:00",
+            "status": 200,
+            "contentType": "image/gif",
+            "contentLength": 3329822,
+            "bytes": 3329822,
+            "sha256": "c9586c2227130d277f0b72f2746ad4c58d79b4d3e04eb6827a10a388105e8acd",
+            "dimensions": [
+              960,
+              540
+            ],
+            "format": "GIF",
+            "frames": 96,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "codersusu-seabright",
+            "url": "https://raw.githubusercontent.com/codersusu/game-city-skylines/main/Documentation/Images/skyline.png",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-02T02:17:28.709872+00:00",
+            "status": 200,
+            "contentType": "image/png",
+            "contentLength": 2180030,
+            "bytes": 2180030,
+            "sha256": "d0dae622192dadc17ad03420ff05cf3702058ecfdd3f05bf37fc4b95c0b920fe",
+            "dimensions": [
+              1600,
+              1000
+            ],
+            "format": "PNG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "abstrakt-agent-dot-splat",
+            "url": "https://s3-eu-west-1.amazonaws.com/images.playcanvas.com/splat/ca6a4c9b/v2/xl.webp",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-02T02:17:28.719440+00:00",
+            "status": 200,
+            "contentType": "image/webp",
+            "contentLength": 96626,
+            "bytes": 96626,
+            "sha256": "d58ad561d794f693548313123567e17fac77a19dc3eaeb0c3bbfe79d70564a48",
+            "dimensions": [
+              960,
+              960
+            ],
+            "format": "WEBP",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "az9713-three-3d-projects",
+            "url": "https://raw.githubusercontent.com/az9713/gpt-6-3d-projects/main/gpt6_3d_architecture_salmaan/renders/01.png",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-02T02:17:29.867268+00:00",
+            "status": 200,
+            "contentType": "image/png",
+            "contentLength": 1903452,
+            "bytes": 1903452,
+            "sha256": "ab74e0d14bc13ecf7a68aadafef02878006339acf718df6a025bb760d2640d35",
+            "dimensions": [
+              1600,
+              1000
+            ],
+            "format": "PNG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "bootoshi-roblox-village",
+            "url": "https://pbs.twimg.com/media/HRv6kAGbAAAtRSJ.jpg?name=orig",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-02T02:17:30.007603+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 135170,
+            "bytes": 135170,
+            "sha256": "d8edc510ae31438d8bb133f0eac421acf73cd69c353c39857ad5273cb8c3c3be",
+            "dimensions": [
+              1614,
+              1152
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "chen-hangzhou",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2096142969032351744/img/lZvQ1GZMdqznrSqb.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-02T02:17:30.569876+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 125735,
+            "bytes": 125735,
+            "sha256": "c3f80407c0f62478e43edddb25c85bf2599181ce0c90e2c48f05ba1fc5b36def",
+            "dimensions": [
+              1200,
+              673
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "xindomusic-pulsebreak",
+            "url": "https://raw.githubusercontent.com/xindomusic/pulsebreak/main/docs/images/title.png",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-02T02:17:31.213374+00:00",
+            "status": 200,
+            "contentType": "image/png",
+            "contentLength": 467237,
+            "bytes": 467237,
+            "sha256": "991844f10165377c061ddecdec223ae8db30993f42ef20365d948939035234d0",
+            "dimensions": [
+              1280,
+              800
+            ],
+            "format": "PNG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "aibattle-sonic-godot",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2095992908448944130/img/v8BSAp4Xt5knPeV0.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-02T02:17:31.737364+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 156398,
+            "bytes": 156398,
+            "sha256": "98895f9ea13b5768341dde1695a82687f878f44f3ecd3dca38a5487483ed8f59",
+            "dimensions": [
+              900,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          }
+        ],
+        "videoEndpoints": [
+          {
+            "caseId": "teddy-rooftop-laundry",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-rooftop-laundry-1-web.mp4",
+            "expectedBytes": 485862,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-02T02:17:33.507755+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/485862",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "teddy-rooftop-laundry",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-31/teddy-rooftop-laundry-1-original.mp4",
+            "expectedBytes": 1700028,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-02T02:17:33.507858+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/1700028",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "vib3coded-mangrove-lights",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3coded-mangrove-lights-1-web.mp4",
+            "expectedBytes": 1145946,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-02T02:17:33.507939+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/1145946",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "vib3coded-mangrove-lights",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-31/vib3coded-mangrove-lights-1-original.mp4",
+            "expectedBytes": 12871318,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-02T02:17:33.508007+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/12871318",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "olezhavich-cable-valley",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/olezhavich-cable-valley-1-web.mp4",
+            "expectedBytes": 1966158,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-02T02:17:33.508056+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/1966158",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "olezhavich-cable-valley",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-31/olezhavich-cable-valley-1-original.mp4",
+            "expectedBytes": 27048266,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-02T02:17:34.315438+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/27048266",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "roman-crispr-comparison",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/roman-crispr-comparison-1-web.mp4",
+            "expectedBytes": 2603656,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-02T02:17:34.504490+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/2603656",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "roman-crispr-comparison",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-01/roman-crispr-comparison-1-original.mp4",
+            "expectedBytes": 65839479,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-02T02:17:34.516345+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/65839479",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "aibattle-sonic-godot",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/aibattle-sonic-godot-1-web.mp4",
+            "expectedBytes": 8289737,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-02T02:17:35.438128+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/8289737",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "aibattle-sonic-godot",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-06/aibattle-sonic-godot-1-original.mp4",
+            "expectedBytes": 26328880,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-02T02:17:35.522140+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/26328880",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          }
+        ],
+        "conclusion": {
+          "checkedImages": 20,
+          "decodedImages": 20,
+          "checkedVideoCases": 5,
+          "checkedVideoEndpoints": 10,
+          "verifiedVideoEndpoints": 10,
+          "failures": [],
+          "limits": "Historical videos were not downloaded or replayed in full. Image decode and bounded video endpoints only."
+        },
+        "multiClipFollowUp": {
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/roman-crispr-comparison-1-web.mp4",
+          "status": 200,
+          "bytes": 2603656,
+          "sha256": "bec8c8ec45b3b31975875544d5976ec533880bf9f3105d37f0e9202c123b5caf",
+          "caseId": "roman-crispr-comparison",
+          "detail": "The initial sample selected clip 2 for the clip 1 playback URL. Rechecked by the clip-specific original and playback URLs. Full Pages and Release playback files match the clip 1 manifest."
+        }
+      },
+      "browserVerification": {
+        "environment": "Local production build with SHA-256 checked playback files",
+        "playback": [
+          {
+            "id": "andriy-track-racing",
+            "ordinal": 1,
+            "from": 0,
+            "duration": 12.863855,
+            "ended": true,
+            "readyState": 4,
+            "error": null,
+            "currentTime": 12.863855,
+            "filename": "andriy-track-racing-1-web.mp4"
+          },
+          {
+            "id": "noclipepe-tiny-living-city",
+            "ordinal": 1,
+            "from": 0,
+            "duration": 39.148844,
+            "ended": true,
+            "readyState": 4,
+            "error": null,
+            "currentTime": 39.148844,
+            "filename": "noclipepe-tiny-living-city-1-web.mp4"
+          },
+          {
+            "id": "noclipepe-tiny-living-city",
+            "ordinal": 2,
+            "from": 0,
+            "duration": 39.288163,
+            "ended": true,
+            "readyState": 4,
+            "error": null,
+            "currentTime": 39.288163,
+            "filename": "noclipepe-tiny-living-city-2-web.mp4"
+          },
+          {
+            "id": "maker-jackie-panda-delivery",
+            "ordinal": 1,
+            "from": 0,
+            "duration": 10.048,
+            "ended": true,
+            "readyState": 4,
+            "error": null,
+            "currentTime": 10.048,
+            "filename": "maker-jackie-panda-delivery-1-web.mp4"
+          },
+          {
+            "id": "vib3coded-brain-jelly",
+            "ordinal": 1,
+            "from": 0,
+            "duration": 18.048,
+            "ended": true,
+            "readyState": 4,
+            "error": null,
+            "currentTime": 18.048,
+            "filename": "vib3coded-brain-jelly-1-web.mp4"
+          },
+          {
+            "id": "teddy-underwater-kelp",
+            "ordinal": 1,
+            "from": 0,
+            "duration": 20,
+            "ended": true,
+            "readyState": 4,
+            "error": null,
+            "currentTime": 20,
+            "filename": "teddy-underwater-kelp-1-web.mp4"
+          }
+        ],
+        "desktopNewPreviewWidths": [
+          800,
+          893,
+          1200,
+          1200,
+          948,
+          1200
+        ],
+        "desktopFeaturedPreviewWidths": [
+          1200,
+          1440,
+          1920,
+          1920,
+          2048,
+          1600
+        ],
+        "testedViewportWidths": [
+          1440,
+          390,
+          320
+        ],
+        "mobileVideoFilterLanguageAndClearVerified": true,
+        "cityDialogClipAndPosterPairsVerified": 2,
+        "horizontalOverflow": false,
+        "consoleWarnings": 0,
+        "consoleErrors": 0,
+        "screenshots": [
+          {
+            "asset": "docs/media/homepage-2026-11-02.jpg",
+            "captureViewport": [
+              1440,
+              1100
+            ],
+            "pixelDimensions": [
+              1425,
+              1089
+            ],
+            "bytes": 180991,
+            "sha256": "08895fff95c64b7f97cfac13f8cae41354b6b39f04adfe8730ca05b0795e81a8"
+          },
+          {
+            "asset": "docs/media/collection-2026-11-02.jpg",
+            "captureViewport": [
+              1440,
+              1100
+            ],
+            "pixelDimensions": [
+              1425,
+              1089
+            ],
+            "bytes": 169950,
+            "sha256": "7f4b9cf2b3916a350d3adaf8ab3ad9286b5547728c1da9b6677e1e6b50c7d45e"
+          },
+          {
+            "asset": "docs/media/mobile-2026-11-02.jpg",
+            "captureViewport": [
+              390,
+              844
+            ],
+            "pixelDimensions": [
+              375,
+              812
+            ],
+            "bytes": 45733,
+            "sha256": "20969cb76c7d2945bd265da21210c4eef4802c8063cac7640a4b78cfb61ffc66"
+          },
+          {
+            "asset": "docs/media/case-2026-11-02.jpg",
+            "captureViewport": [
+              1440,
+              1100
+            ],
+            "pixelDimensions": [
+              1425,
+              1089
+            ],
+            "bytes": 71776,
+            "sha256": "f10994d990d3852a6e39fb8a66623d6cfef1dcd0f9d0597e8335ebe05c82b35b"
+          }
+        ]
+      }
     }
   ]
 }
