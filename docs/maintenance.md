@@ -76,6 +76,8 @@ npm start
 | 旧素材抽样 | 完整下载并解码 20 张旧图，5 段旧录像的 10 个端点核对了 MP4 文件头和清单长度。CRISPR 案例有两段录像，第一次抽样错配了清单行。按具体录像重查后，第一段在 Pages 和 Release 的播放版全部字节均与清单一致。 |
 | 构建 | `npm run catalog` 同步 438 条记录。`npm run check` 通过 27 项测试、数据与 TypeScript 校验，`npm run lint` 通过。普通构建和 `GITHUB_PAGES=true npm run build` 均通过 910 个静态页、19,548 个本地引用、438 份详情 JSON 和 911 个 sitemap 地址的校验。 |
 
+内容提交 `04cf0af` 通过 [PR #3](https://github.com/carpentry-liu/awesome-astra-3d/pull/3) 合入，[GitHub Pages 发布成功](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/41378351199)。`py -3.13 work/2026-11-02/verify-production.py` 对公开站和仓库执行了 48 项检查。六份线上播放文件完整下载后的 SHA-256 与归档相同，两种语言的 12 个详情页和两段城市录像各自的链接均已核对。浏览器从本地案例弹窗直接请求六个已部署的 Pages 视频地址，六段均从 0 播到结尾，媒体错误为空。`verify-rendered.py` 另在 GitHub 实际渲染的中英文 README 各核对了六张图片的跳转目标，并完整获取、解码了六张预览。
+
 ## 内容验证（2026-10-31）
 
 按上海时间，天台晾衣发表于 10 月 31 日，红树林、雪岛缆车、暮色渔船和机械颌骨发表于 10 月 30 日，果冻绿洲发表于 10 月 28 日。六件作品均于 10 月 31 日收录。当前共 420 条 Astra 案例、12 条方法参考、118 个源码或工程入口、131 个演示入口和 206 段完整录像。
