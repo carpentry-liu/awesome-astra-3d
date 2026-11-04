@@ -11966,6 +11966,206 @@
       "newMediaFiles": 12,
       "newMediaBytes": 73429264,
       "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-02"
+    },
+    {
+      "observedAt": "2026-11-04",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "baselineCommit": "f0f860842dad19c128da86f124825a2abcd73b90",
+      "baselineCount": 438,
+      "resultingCount": 444,
+      "addedCaseIds": [
+        "envol-ruby-ascent",
+        "esc-liquid-metal-sneaker",
+        "lilo-voxel-modeling",
+        "teddy-sluice-gate",
+        "teddy-wind-canopy",
+        "teddy-waterspout"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "coverage": [
+        {
+          "id": "envol-ruby-ascent",
+          "sourceDate": "2026-11-03",
+          "sourceUrl": "https://x.com/EnvolDev/status/2117294843877888303",
+          "modelLabel": "GPT-6 Astra / Claude Opus 5.5 / GPT-6.1 Sol"
+        },
+        {
+          "id": "esc-liquid-metal-sneaker",
+          "sourceDate": "2026-11-03",
+          "sourceUrl": "https://x.com/ESC__AI/status/2117365050138567112",
+          "modelLabel": "Astra（作者标注） / Claude Opus 5.5"
+        },
+        {
+          "id": "lilo-voxel-modeling",
+          "sourceDate": "2026-11-03",
+          "sourceUrl": "https://x.com/lilobench/status/2117376203665367221",
+          "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / GPT-6.1 Terra · Codex CLI/MCP · Max"
+        },
+        {
+          "id": "teddy-sluice-gate",
+          "sourceDate": "2026-11-03",
+          "sourceUrl": "https://x.com/teddyaisi/status/2117620010420187178",
+          "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / GPT-6.1 Terra · WebGL"
+        },
+        {
+          "id": "teddy-wind-canopy",
+          "sourceDate": "2026-11-03",
+          "sourceUrl": "https://x.com/teddyaisi/status/2117565403325170175",
+          "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / GPT-6.1 Terra · WebGL"
+        },
+        {
+          "id": "teddy-waterspout",
+          "sourceDate": "2026-11-03",
+          "sourceUrl": "https://x.com/teddyaisi/status/2117475117525831982",
+          "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / GPT-6.1 Terra · WebGL"
+        }
+      ],
+      "queries": [
+        "\"GPT-6 Astra\" \"3D\" November 4 2026",
+        "\"Astra\" \"Three.js\" November 2026",
+        "\"Astra\" site:x.com \"3D\" after:2026-11-02",
+        "\"GPT-6 Astra\" in:readme created:>=2026-11-01",
+        "\"GPT-6 Astra\" \"Blender\" site:bilibili.com/video",
+        "\"GPT-6 Astra\" \"3D\" site:xiaohongshu.com/explore",
+        "\"Citrus Jelly\" \"Astra\"",
+        "\"Plush Octopus\" \"Astra\"",
+        "\"Ruby Ascent\" \"Astra\""
+      ],
+      "discoverySources": [
+        "https://aivs.tv/models/gpt-6-astra/",
+        "https://teapawt.net/vib3coded",
+        "https://teapawt.net/teddyaisi",
+        "https://teapawt.net/noclipepe",
+        "https://teapawt.net/Andr1ycp",
+        "https://teapawt.net/maker_jackie",
+        "https://github.com/evorjh/awesome-games-made-with-ai"
+      ],
+      "primarySourceChecks": [
+        {
+          "caseId": "lilo-voxel-modeling",
+          "sourceUrl": "https://x.com/lilobench/status/2117376203665367221",
+          "bytes": 98239,
+          "sha256": "8e00910eb1c5f91cb9432d612ce857230197e49238ade6ab5ad385b1ffcebbea",
+          "createdAtShanghai": "2026-11-03T06:00:00+08:00",
+          "selectedMediaId": "2117375218427551744",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "esc-liquid-metal-sneaker",
+          "sourceUrl": "https://x.com/ESC__AI/status/2117365050138567112",
+          "bytes": 180812,
+          "sha256": "9e892b0f56334f98ff386a912675538a28b5ed94c00f305e38cd851b548b29b4",
+          "createdAtShanghai": "2026-11-03T05:15:41+08:00",
+          "selectedMediaId": "2117364850355560449",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-sluice-gate",
+          "sourceUrl": "https://x.com/teddyaisi/status/2117620010420187178",
+          "bytes": 125824,
+          "sha256": "b2f44d7b96eca913d8b31940bc2d83dac91bc53f47036485425040027387bf76",
+          "createdAtShanghai": "2026-11-03T22:08:48+08:00",
+          "selectedMediaId": "2117619854597591040",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-wind-canopy",
+          "sourceUrl": "https://x.com/teddyaisi/status/2117565403325170175",
+          "bytes": 102712,
+          "sha256": "59a63e3f395c30ceb8849eaa05cddaba64d4cb60fe8fef5a67d8ec0b67993d19",
+          "createdAtShanghai": "2026-11-03T18:31:49+08:00",
+          "selectedMediaId": "2117565203709882368",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-waterspout",
+          "sourceUrl": "https://x.com/teddyaisi/status/2117475117525831982",
+          "bytes": 139714,
+          "sha256": "fc8eea15afd3a0f82419f6a29a469011ba02693c0b44041780507fcf8c5961e0",
+          "createdAtShanghai": "2026-11-03T12:33:03+08:00",
+          "selectedMediaId": "2117475089386266624",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "envol-ruby-ascent",
+          "sourceUrl": "https://x.com/EnvolDev/status/2117294843877888303",
+          "bytes": 144411,
+          "sha256": "eed706741df147fb42f886830e0be038fc2854ef66e75263d94a22890a59ba8e",
+          "createdAtShanghai": "2026-11-03T00:36:42+08:00",
+          "selectedMediaId": "2117294758083399685",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        }
+      ],
+      "excludedOrDeferred": [
+        {
+          "url": "https://x.com/zodchiii/status/2117354881950650743",
+          "reason": "The actual video poster explicitly says \"illustrative recreation · not actual model outputs\". Downloaded and inspected; excluded from the source-output catalog and the release."
+        },
+        {
+          "url": "https://github.com/jing1tian/any2sim/tree/ef3b2441ccb43b15406b8fe5b0269c1e3483d11a",
+          "reason": "Public reconstruction framework with an Astra run option. The checked Git tree contained no PNG/JPEG/GIF/WebP/MP4 outcome preview, and the README says experiment fixtures are not included."
+        },
+        {
+          "url": "https://github.com/Garfield-kh/TinyAstral",
+          "reason": "The showcased robot is driven by TinyAstral. Astra appears in comparison benchmarks, not as the creator of the displayed 3D result."
+        },
+        {
+          "url": "https://x.com/vib3coded/status/2117734157187174569",
+          "reason": "The new football scene is explicitly attributed to Claude Sonnet 5.5."
+        },
+        {
+          "url": "https://x.com/noclipepe/status/2117222592536789149",
+          "reason": "The post labels one result GPT-6.2 Astra (?) rather than establishing GPT-6 Astra attribution."
+        },
+        {
+          "url": "https://x.com/HavisT83099/status/2117300733464772620",
+          "reason": "The train poster shows reconstructed chat interfaces instead of an inspectable 3D outcome. Held for further inspection, not included in this release."
+        },
+        {
+          "url": "https://x.com/Andr1ycp/status/2117667354884681825",
+          "reason": "An earlier similarly named plush-octopus work exists in the catalog. This comparison has different imagery, but its independent provenance was not established in this round."
+        },
+        {
+          "url": "https://x.com/Andr1ycp/status/2117698719009358325",
+          "reason": "A similarly named Citrus Jelly work appears in older creator collections. Deferred until the origin of the tree-based comparison is established."
+        }
+      ],
+      "platformLimits": [
+        "Public Xiaohongshu search produced no newly attributable, inspectable outcome in this window. No login-only content was accessed.",
+        "Bilibili search results examined showed September dates, including BV1Nzb367Esr and BV1YFe36rEjn; they were not relabeled as new November work.",
+        "X web-tool reads failed, but complete original HTML downloads succeeded via Python HTTP requests. Original authors and timestamps match exact-post metadata.",
+        "No verified new public source project or runnable creator demo is added in this round."
+      ],
+      "completeSourceClips": 6,
+      "newMediaFiles": 12,
+      "newMediaBytes": 49241825,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-04"
     }
   ]
 }

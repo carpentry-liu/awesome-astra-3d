@@ -25936,6 +25936,216 @@
           "visuallyReviewed": true
         }
       ]
+    },
+    {
+      "checkedAt": "2026-11-04",
+      "round": "daily",
+      "scope": "Six original X posts and their six actual outcome posters.",
+      "addedCaseIds": [
+        "envol-ruby-ascent",
+        "esc-liquid-metal-sneaker",
+        "lilo-voxel-modeling",
+        "teddy-sluice-gate",
+        "teddy-wind-canopy",
+        "teddy-waterspout"
+      ],
+      "removedCaseIds": [],
+      "sourceChecks": [
+        {
+          "caseId": "lilo-voxel-modeling",
+          "sourceUrl": "https://x.com/lilobench/status/2117376203665367221",
+          "bytes": 98239,
+          "sha256": "8e00910eb1c5f91cb9432d612ce857230197e49238ade6ab5ad385b1ffcebbea",
+          "createdAtShanghai": "2026-11-03T06:00:00+08:00",
+          "selectedMediaId": "2117375218427551744",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "esc-liquid-metal-sneaker",
+          "sourceUrl": "https://x.com/ESC__AI/status/2117365050138567112",
+          "bytes": 180812,
+          "sha256": "9e892b0f56334f98ff386a912675538a28b5ed94c00f305e38cd851b548b29b4",
+          "createdAtShanghai": "2026-11-03T05:15:41+08:00",
+          "selectedMediaId": "2117364850355560449",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-sluice-gate",
+          "sourceUrl": "https://x.com/teddyaisi/status/2117620010420187178",
+          "bytes": 125824,
+          "sha256": "b2f44d7b96eca913d8b31940bc2d83dac91bc53f47036485425040027387bf76",
+          "createdAtShanghai": "2026-11-03T22:08:48+08:00",
+          "selectedMediaId": "2117619854597591040",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-wind-canopy",
+          "sourceUrl": "https://x.com/teddyaisi/status/2117565403325170175",
+          "bytes": 102712,
+          "sha256": "59a63e3f395c30ceb8849eaa05cddaba64d4cb60fe8fef5a67d8ec0b67993d19",
+          "createdAtShanghai": "2026-11-03T18:31:49+08:00",
+          "selectedMediaId": "2117565203709882368",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-waterspout",
+          "sourceUrl": "https://x.com/teddyaisi/status/2117475117525831982",
+          "bytes": 139714,
+          "sha256": "fc8eea15afd3a0f82419f6a29a469011ba02693c0b44041780507fcf8c5961e0",
+          "createdAtShanghai": "2026-11-03T12:33:03+08:00",
+          "selectedMediaId": "2117475089386266624",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "envol-ruby-ascent",
+          "sourceUrl": "https://x.com/EnvolDev/status/2117294843877888303",
+          "bytes": 144411,
+          "sha256": "eed706741df147fb42f886830e0be038fc2854ef66e75263d94a22890a59ba8e",
+          "createdAtShanghai": "2026-11-03T00:36:42+08:00",
+          "selectedMediaId": "2117294758083399685",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        }
+      ],
+      "previewChecks": [
+        {
+          "caseId": "envol-ruby-ascent",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117294758083399685/img/xAMITifQXzlK4mTh.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 208555,
+          "sha256": "2d8131a3dd4e2996ce0b91913e2a51facba97e61f716563d00e03dd1cdbb7729",
+          "dimensions": [
+            1002,
+            1200
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/EnvolDev/status/2117294843877888303",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "esc-liquid-metal-sneaker",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117364850355560449/img/qtrp6nvCd_hgrV9E.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 61575,
+          "sha256": "bb33a93a174321440259c70e93ebdac98a71ffd87fbd8208cacb1e10e8ec3a2d",
+          "dimensions": [
+            688,
+            848
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/ESC__AI/status/2117365050138567112",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "lilo-voxel-modeling",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117375218427551744/img/Xv3fyz7WuxhzSLB6.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 62952,
+          "sha256": "9da6cb8cb70253dc652ab2bc61e7219d297ec8b35f4c834011628a0ed590502a",
+          "dimensions": [
+            675,
+            1200
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/lilobench/status/2117376203665367221",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "teddy-sluice-gate",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117619854597591040/img/ZtXj-3ZjA9OFk7J8.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 143084,
+          "sha256": "7a29d07b5eb37f17def19198dff88ddf2592788e2f0a245d4dc6912a4730b859",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2117620010420187178",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "teddy-wind-canopy",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117565203709882368/img/T3bEsj7la7KmziS-.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 152624,
+          "sha256": "f83428cc18a672fcddb8703020cbc59e4599c0ce6fffa88f70b3e47feedbc224",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2117565403325170175",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "teddy-waterspout",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117475089386266624/img/WWWf0Pm2x7ueF57_.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 101158,
+          "sha256": "2aefdbb0ab8d39c9c926d5f9b975b9024b71aec4c4ca59e7e1cda7e023552d71",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2117475117525831982",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        }
+      ]
     }
   ]
 }

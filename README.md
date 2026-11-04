@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-11-02（Asia/Shanghai）**：**426 条 Astra 案例** · **119 条源码 / 工程** · **132 个演示入口** · **212 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-11-04（Asia/Shanghai）**：**432 条 Astra 案例** · **119 条源码 / 工程** · **132 个演示入口** · **218 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -44,18 +44,18 @@
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-11-02.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-11-04.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-网站实拍更新于 **2026-11-02**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+网站实拍更新于 **2026-11-04**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
-<summary>查看案例区、手机与作品详情实拍 · 2026-11-02</summary>
+<summary>查看案例区、手机与作品详情实拍 · 2026-11-04</summary>
 
-[![案例区：筛选与更多作品](docs/media/collection-2026-11-02.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![案例区：筛选与更多作品](docs/media/collection-2026-11-04.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端：精选作品与材料导航](docs/media/mobile-2026-11-02.jpg)
+![手机端：精选作品与材料导航](docs/media/mobile-2026-11-04.jpg)
 
-[![机器人冰壶的三次投掷与公开工程](docs/media/case-2026-11-02.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/kumada-robot-curling/)
+[![Ruby Ascent 海岸火箭发射的三模型对照](docs/media/case-2026-11-04.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-ruby-ascent/)
 
 </details>
 
@@ -63,33 +63,33 @@
 
 这里按本库收录日期排列；作品首次发布、模型配置与核查日期在各档案中分别记录。稳定精选不随日更替换。
 
-11 月 2 日收录 **6 件作品、6 段完整录像**。今天公开的机器人冰壶附 Python / MuJoCo 工程，赛道跑车可以看两种模型的追车镜头。微缩城市的两轮录像同页呈现，Astra 在第一段左下、第二段右下。另收录 11 月 1 日的熊猫外卖、果冻脑和水下海带，果冻脑附作者试玩与完整任务。
+11 月 4 日收录 **6 件作品、6 段完整录像**，原帖均发表于上海时间 11 月 3 日。看海岸火箭点火、液态金属包裹球鞋，再沿体素糖面包山的完整过程观察形体迭代。另收录布棚、水闸和海上水龙卷三种 WebGL 动态场景。每段对照都标明 Astra 的位置，水龙卷保留作者提到的一次运行修复。
 
 <!-- atlas:update-previews:start -->
 **本轮成果预览（第三方原作）**
 
-| 机器人冰壶 · 公开工程 | 赛道追车 · Astra 上栏 | 微缩城市 · 第二段右下 |
+| 海岸火箭 · Astra 中栏 | 液态金属球鞋 · Astra 上栏 | 体素糖面包山 · 完整过程 |
 | --- | --- | --- |
-| [<img src="https://raw.githubusercontent.com/MasahitoKumada/physical_ai_last_assignment/2a96b1e5db830673c02cc7978f1d58438205d744/report/game_player_preview.png" height="165" alt="机器人冰壶 · 公开工程">](https://carpentry-liu.github.io/awesome-astra-3d/cases/kumada-robot-curling/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2116931360409464832/img/MHE8urun6_jDGzhz.jpg" height="165" alt="赛道追车 · Astra 上栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/andriy-track-racing/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2116944163488792576/img/9ulSxz5LOAUAuSZq.jpg" height="165" alt="微缩城市 · 第二段右下">](https://carpentry-liu.github.io/awesome-astra-3d/cases/noclipepe-tiny-living-city/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2117294758083399685/img/xAMITifQXzlK4mTh.jpg" height="165" alt="海岸火箭 · Astra 中栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-ruby-ascent/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2117364850355560449/img/qtrp6nvCd_hgrV9E.jpg" height="165" alt="液态金属球鞋 · Astra 上栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/esc-liquid-metal-sneaker/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2117375218427551744/img/Xv3fyz7WuxhzSLB6.jpg" height="165" alt="体素糖面包山 · 完整过程">](https://carpentry-liu.github.io/awesome-astra-3d/cases/lilo-voxel-modeling/) |
 
-| 熊猫外卖 · Astra 左下 | 果冻脑 · Astra 上栏 | 海带森林 · Astra 中栏 |
+| 升降水闸 · Astra 中栏 | 风吹布棚 · Astra 中栏 | 海上水龙卷 · Astra 中栏 |
 | --- | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2116755906998480896/img/s9HzIBp5CqCJMKwi.jpg" height="165" alt="熊猫外卖 · Astra 左下">](https://carpentry-liu.github.io/awesome-astra-3d/cases/maker-jackie-panda-delivery/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2116631945266237441/img/8L8xv8XxQ1wFTtiu.jpg" height="165" alt="果冻脑 · Astra 上栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-brain-jelly/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2116847150999203840/img/F_uHezHvXZa9dBlP.jpg" height="165" alt="海带森林 · Astra 中栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-underwater-kelp/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2117619854597591040/img/ZtXj-3ZjA9OFk7J8.jpg" height="165" alt="升降水闸 · Astra 中栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-sluice-gate/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2117565203709882368/img/T3bEsj7la7KmziS-.jpg" height="165" alt="风吹布棚 · Astra 中栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-wind-canopy/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2117475089386266624/img/WWWf0Pm2x7ueF57_.jpg" height="165" alt="海上水龙卷 · Astra 中栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-waterspout/) |
 
-[观看完整录像](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video&order=newest#collection) · [下载原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-02)
+[观看完整录像](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video&order=newest#collection) · [下载原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-04)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
+| [Ruby Ascent 海岸火箭发射](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-ruby-ascent/) | Tony / @EnvolDev | [原始来源](https://x.com/EnvolDev/status/2117294843877888303) |
+| [液态金属包裹的未来球鞋](https://carpentry-liu.github.io/awesome-astra-3d/cases/esc-liquid-metal-sneaker/) | ESC AI / @ESC__AI | [原始来源](https://x.com/ESC__AI/status/2117365050138567112) |
+| [糖面包山的体素搭建过程](https://carpentry-liu.github.io/awesome-astra-3d/cases/lilo-voxel-modeling/) | Lilo Bench / @lilobench | [原始来源](https://x.com/lilobench/status/2117376203665367221) |
+| [石渠里的升降木水闸](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-sluice-gate/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2117620010420187178) |
+| [强风中的布棚与草地](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-wind-canopy/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2117565403325170175) |
+| [连接海天的水龙卷](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-waterspout/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2117475117525831982) |
 | [机器人冰壶的三次投掷](https://carpentry-liu.github.io/awesome-astra-3d/cases/kumada-robot-curling/) | MasahitoKumada / bonsai2026 | [源码](https://github.com/MasahitoKumada/physical_ai_last_assignment) · [原始来源](https://github.com/MasahitoKumada/physical_ai_last_assignment/blob/2a96b1e5db830673c02cc7978f1d58438205d744/README.md) |
 | [追车镜头下的三维赛道](https://carpentry-liu.github.io/awesome-astra-3d/cases/andriy-track-racing/) | AndrIy / @Andr1ycp | [原始来源](https://x.com/Andr1ycp/status/2116931399286452661) |
-| [微缩城市的两轮模型对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/noclipepe-tiny-living-city/) | noclipepe / @noclipepe | [原始来源](https://x.com/noclipepe/status/2116861310281351176) |
-| [骑电动车送外卖的熊猫](https://carpentry-liu.github.io/awesome-astra-3d/cases/maker-jackie-panda-delivery/) | Maker Jackie / @maker_jackie | [原始来源](https://x.com/maker_jackie/status/2116756290383081763) |
-| [Brain Jelly 会回弹的果冻脑](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-brain-jelly/) | Vib3Coded / @vib3coded | [演示](https://brain-jelly.vercel.app/) · [原始来源](https://x.com/vib3coded/status/2116632234916749597) |
-| [水流里的海带森林](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-underwater-kelp/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2116847177800798575) |
-| [风吹过晾衣天台](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-rooftop-laundry/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2116346545272770844) |
-| [红树林里的同步萤火](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-mangrove-lights/) | Vib3Coded / @vib3coded | [演示](https://mangrove-lights-vibecoded1.vercel.app/) · [原始来源](https://x.com/vib3coded/status/2116024691533979940) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)
