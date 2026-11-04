@@ -1,5 +1,335 @@
 [
   {
+    "id": "envol-ruby-ascent",
+    "title": "Ruby Ascent 海岸火箭发射",
+    "titleEn": "Ruby Ascent — A Coastal Rocket Launch",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5 / GPT-6.1 Sol",
+    "summary": "夕阳照着海岸发射台，火箭点火后向上升起。三栏同题录像可以比较塔架、地面光影与尾焰，Astra 位于中栏。",
+    "imageCaption": "EnvolDev 原帖封面。上栏为 Opus 5.5，中栏为 GPT-6 Astra，下栏为 GPT-6.1 Sol。",
+    "outcome": "已保留完整 25 秒对照录像。画面里的用时、费用及作者评价是单次运行记录，未作独立性能验证。未找到可核验的公开工程或试玩地址。",
+    "evidenceNote": "原帖明确列出三种模型，录像模型标签与正文一致。与本库已有火箭回收案例的作者、发射场和媒体不同。",
+    "promptSummary": "作者称三个模型使用相同的 Ruby Ascent 任务，未在该帖公开完整任务文本。",
+    "promptAvailability": "partial",
+    "outputType": [
+      "三维发射场景对照",
+      "火箭起飞动画",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "addedAt": "2026-11-04",
+    "observedAt": "2026-11-04",
+    "secondaryPublishedAt": null,
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Tony / @EnvolDev",
+    "sourceUrl": "https://x.com/EnvolDev/status/2117294843877888303",
+    "sourceDate": "2026-11-03",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2117294758083399685/img/xAMITifQXzlK4mTh.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/EnvolDev/status/2117294843877888303",
+    "promptUrl": "https://x.com/EnvolDev/status/2117294843877888303",
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/EnvolDev/status/2117294843877888303"
+    ],
+    "sourceAccess": "原帖、同帖元数据与模型标签已核对。成果图完整获取并解码，原版和播放版录像均通过全长解码；未独立运行创作工程。",
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "archivedVideos": [
+      {
+        "label": "Ruby Ascent — A Coastal Rocket Launch",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2117294758083399685/img/xAMITifQXzlK4mTh.jpg",
+        "sourceUrl": "https://x.com/EnvolDev/status/2117294843877888303",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/envol-ruby-ascent-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-04/envol-ruby-ascent-1-original.mp4",
+        "bytes": 32179899,
+        "sha256": "2362241863f840d83e1fcfaaf68f1e9f6a571562f97ceccb32ec4f8bc0e6f95b",
+        "durationSeconds": 25.0
+      }
+    ]
+  },
+  {
+    "id": "esc-liquid-metal-sneaker",
+    "title": "液态金属包裹的未来球鞋",
+    "titleEn": "A Futuristic Sneaker Wrapped in Liquid Metal",
+    "category": "产品与角色",
+    "modelLabel": "Astra（作者标注） / Claude Opus 5.5",
+    "summary": "铬色表面围绕球鞋拉伸、折叠与流动。上栏的 Astra 画面偏暗，下栏的 Opus 有更明亮的反射，可以逐帧观察同一主题的材质表现。",
+    "imageCaption": "ESC AI 原帖双栏封面。Astra 在上栏，Opus 5.5 在下栏。",
+    "outcome": "作者公开了同题视觉对照，未披露渲染器、建模步骤或工程文件。因此仅记录录像中的效果，不据此认定存在可编辑网格或真实流体模拟。",
+    "evidenceNote": "原帖正文与录像标签均写明 Astra 和 Opus 5.5。具体 Astra 配置及其他生成工具未公开。",
+    "promptSummary": "作者简述的任务是用有机变化的液态金属形状包裹未来感球鞋，完整提示词未公开。",
+    "promptAvailability": "partial",
+    "outputType": [
+      "产品材质视觉对照",
+      "制作流程未公开",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "addedAt": "2026-11-04",
+    "observedAt": "2026-11-04",
+    "secondaryPublishedAt": null,
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "ESC AI / @ESC__AI",
+    "sourceUrl": "https://x.com/ESC__AI/status/2117365050138567112",
+    "sourceDate": "2026-11-03",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2117364850355560449/img/qtrp6nvCd_hgrV9E.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/ESC__AI/status/2117365050138567112",
+    "promptUrl": "https://x.com/ESC__AI/status/2117365050138567112",
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/ESC__AI/status/2117365050138567112"
+    ],
+    "sourceAccess": "原帖、同帖元数据与模型标签已核对。成果图完整获取并解码，原版和播放版录像均通过全长解码；未独立运行创作工程。",
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "archivedVideos": [
+      {
+        "label": "A Futuristic Sneaker Wrapped in Liquid Metal",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2117364850355560449/img/qtrp6nvCd_hgrV9E.jpg",
+        "sourceUrl": "https://x.com/ESC__AI/status/2117365050138567112",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/esc-liquid-metal-sneaker-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-04/esc-liquid-metal-sneaker-1-original.mp4",
+        "bytes": 1341752,
+        "sha256": "e2e14cf78d8cae3bc3637b51049f361aa3bc3f0fba72a257c11cc44b806f4006",
+        "durationSeconds": 9.22
+      }
+    ]
+  },
+  {
+    "id": "lilo-voxel-modeling",
+    "title": "糖面包山的体素搭建过程",
+    "titleEn": "Pão de Açúcar — Voxel Modeling in Stages",
+    "category": "等距与微缩",
+    "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / GPT-6.1 Terra · Codex CLI/MCP · Max",
+    "summary": "从块状山体逐步补到植被、山间连线和灯光。录像连续展示三个模型的搭建阶段、旋转视角和最终画面，适合观察形体的迭代过程。",
+    "imageCaption": "Lilo Bench 原帖第一阶段画面。Terra 在上栏，Sol 在中栏，Astra 在下栏；后半段另有各模型的最终展示。",
+    "outcome": "保留约 84 秒的整段过程录像。画面标注 Codex CLI/MCP 与 Max，未公开具体建模工具、源工程或完整任务。最终分数属于发布者自己的评判。",
+    "evidenceNote": "原帖明确列出三种模型，录像标题为 Pão de Açúcar。各阶段和最后单独展示均标出模型名称，可与原帖对应。",
+    "promptSummary": "作者说明三个模型使用相同的体素建模任务。具体提示词未公开，不能从结果推定原始指令。",
+    "promptAvailability": "not-shared",
+    "outputType": [
+      "体素山景",
+      "搭建阶段与最终结果对照",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "addedAt": "2026-11-04",
+    "observedAt": "2026-11-04",
+    "secondaryPublishedAt": null,
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Lilo Bench / @lilobench",
+    "sourceUrl": "https://x.com/lilobench/status/2117376203665367221",
+    "sourceDate": "2026-11-03",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2117375218427551744/img/Xv3fyz7WuxhzSLB6.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/lilobench/status/2117376203665367221",
+    "promptUrl": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/lilobench/status/2117376203665367221"
+    ],
+    "sourceAccess": "原帖、同帖元数据与模型标签已核对。成果图完整获取并解码，原版和播放版录像均通过全长解码；未独立运行创作工程。",
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "archivedVideos": [
+      {
+        "label": "Pão de Açúcar — Voxel Modeling in Stages",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2117375218427551744/img/Xv3fyz7WuxhzSLB6.jpg",
+        "sourceUrl": "https://x.com/lilobench/status/2117376203665367221",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/lilo-voxel-modeling-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-04/lilo-voxel-modeling-1-original.mp4",
+        "bytes": 3683351,
+        "sha256": "5e31c5ca7870151f410bd706679637d0c2e2a03215ad029e36b6f2a1b10fe425",
+        "durationSeconds": 84.22
+      }
+    ]
+  },
+  {
+    "id": "teddy-sluice-gate",
+    "title": "石渠里的升降木水闸",
+    "titleEn": "A Timber Sluice Gate over an Emerald Channel",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / GPT-6.1 Terra · WebGL",
+    "summary": "木闸门在石砌水渠上升降，青绿色水面向下游涌动。三栏可以对照水面起伏、白色泡沫与闸门运动，Astra 位于中栏。",
+    "imageCaption": "Teddy 原帖三栏封面。Sol 在左，Astra 居中，Terra 在右。",
+    "outcome": "原帖明确使用 WebGL，完整录像约 20 秒。此条记录视觉与运动效果，未验证水力模型或工程参数。作者未提供公开源码和试玩。",
+    "evidenceNote": "原帖文字、三栏模型标签、来源时间与媒体 ID 均已核对。",
+    "promptSummary": "同题要求木质水闸升降，让翡翠色水流穿过石渠。原帖提供任务概述，未公开完整实现要求。",
+    "promptAvailability": "partial",
+    "outputType": [
+      "WebGL 水面与闸门动画",
+      "三模型同题对照",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "addedAt": "2026-11-04",
+    "observedAt": "2026-11-04",
+    "secondaryPublishedAt": null,
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2117620010420187178",
+    "sourceDate": "2026-11-03",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2117619854597591040/img/ZtXj-3ZjA9OFk7J8.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/teddyaisi/status/2117620010420187178",
+    "promptUrl": "https://x.com/teddyaisi/status/2117620010420187178",
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2117620010420187178"
+    ],
+    "sourceAccess": "原帖、同帖元数据与模型标签已核对。成果图完整获取并解码，原版和播放版录像均通过全长解码；未独立运行创作工程。",
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "archivedVideos": [
+      {
+        "label": "A Timber Sluice Gate over an Emerald Channel",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2117619854597591040/img/ZtXj-3ZjA9OFk7J8.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2117620010420187178",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-sluice-gate-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-04/teddy-sluice-gate-1-original.mp4",
+        "bytes": 1819187,
+        "sha256": "6b63b958e73f8295c60b5a0729ae511df41ab20a0c695eff73871fe3a3815f93",
+        "durationSeconds": 20.0
+      }
+    ]
+  },
+  {
+    "id": "teddy-wind-canopy",
+    "title": "强风中的布棚与草地",
+    "titleEn": "A Fabric Canopy and Grass in Strong Wind",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / GPT-6.1 Terra · WebGL",
+    "summary": "山间木平台撑着浅色篷布，风让布面鼓起、草丛弯折。中栏 Astra 的棚架、阴影和草地与另外两种模型同时展示，方便比较动作节奏。",
+    "imageCaption": "Teddy 原帖三栏封面。左侧 Sol，中间 Astra，右侧 Terra。",
+    "outcome": "约 20 秒的完整 WebGL 对照录像已归档。布面运动是作者展示的效果，未独立验证布料求解器、碰撞或风场精度。",
+    "evidenceNote": "原帖明确说明三种模型和相同 WebGL 任务，画面标签与文字一致。",
+    "promptSummary": "制作强风吹动的布棚，让周围草丛一起倾斜。完整提示词和可运行工程未公开。",
+    "promptAvailability": "partial",
+    "outputType": [
+      "WebGL 布面与草地运动",
+      "三模型同题对照",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "addedAt": "2026-11-04",
+    "observedAt": "2026-11-04",
+    "secondaryPublishedAt": null,
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2117565403325170175",
+    "sourceDate": "2026-11-03",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2117565203709882368/img/T3bEsj7la7KmziS-.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/teddyaisi/status/2117565403325170175",
+    "promptUrl": "https://x.com/teddyaisi/status/2117565403325170175",
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2117565403325170175"
+    ],
+    "sourceAccess": "原帖、同帖元数据与模型标签已核对。成果图完整获取并解码，原版和播放版录像均通过全长解码；未独立运行创作工程。",
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "archivedVideos": [
+      {
+        "label": "A Fabric Canopy and Grass in Strong Wind",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2117565203709882368/img/T3bEsj7la7KmziS-.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2117565403325170175",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-wind-canopy-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-04/teddy-wind-canopy-1-original.mp4",
+        "bytes": 2961646,
+        "sha256": "74dc04822f7484fa663af49832771d539598873b2c830924f0c9c695712be13f",
+        "durationSeconds": 20.0
+      }
+    ]
+  },
+  {
+    "id": "teddy-waterspout",
+    "title": "连接海天的水龙卷",
+    "titleEn": "A Waterspout Connecting Sea and Sky",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / GPT-6.1 Terra · WebGL",
+    "summary": "旋转的漏斗从云底延伸到海面，底部激起一圈飞沫。中栏 Astra 展示较细的水柱与明亮浪花，可与左右两栏比较轮廓和运动。",
+    "imageCaption": "Teddy 原帖三栏封面。左为 Sol，中为 Astra，右为 Terra。",
+    "outcome": "作者明确指出 Astra 经历了一次编译或运行修复，保留这一过程说明。录像约 20 秒，未作为一次成功的独立基准，也未验证气象或流体准确性。",
+    "evidenceNote": "原帖与录像均明确 Astra 的位置，作者对一次修复的说明保留在本档案。",
+    "promptSummary": "在 WebGL 中制作连接海面与天空的旋转水龙卷，并表现海面飞沫。原帖没有完整代码或详细提示词。",
+    "promptAvailability": "partial",
+    "outputType": [
+      "WebGL 水龙卷与飞沫",
+      "含一次修复的作者对照",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "addedAt": "2026-11-04",
+    "observedAt": "2026-11-04",
+    "secondaryPublishedAt": null,
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2117475117525831982",
+    "sourceDate": "2026-11-03",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2117475089386266624/img/WWWf0Pm2x7ueF57_.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/teddyaisi/status/2117475117525831982",
+    "promptUrl": "https://x.com/teddyaisi/status/2117475117525831982",
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2117475117525831982"
+    ],
+    "sourceAccess": "原帖、同帖元数据与模型标签已核对。成果图完整获取并解码，原版和播放版录像均通过全长解码；未独立运行创作工程。",
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "archivedVideos": [
+      {
+        "label": "A Waterspout Connecting Sea and Sky",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2117475089386266624/img/WWWf0Pm2x7ueF57_.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2117475117525831982",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-waterspout-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-04/teddy-waterspout-1-original.mp4",
+        "bytes": 1925183,
+        "sha256": "d11d090842b928da2b77f06f7e393e17db08520c9b8378ec57523663e17d26ae",
+        "durationSeconds": 20.0
+      }
+    ]
+  },
+  {
     "id": "kumada-robot-curling",
     "title": "机器人冰壶的三次投掷",
     "titleEn": "Robot Curling in Three Throws",

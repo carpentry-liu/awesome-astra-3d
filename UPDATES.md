@@ -2,6 +2,17 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-11-04 · 6 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Ruby Ascent 海岸火箭发射 / Ruby Ascent — A Coastal Rocket Launch](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-ruby-ascent/) | Tony / @EnvolDev | 完整视频 · 提示词 / 过程 |
+| [液态金属包裹的未来球鞋 / A Futuristic Sneaker Wrapped in Liquid Metal](https://carpentry-liu.github.io/awesome-astra-3d/cases/esc-liquid-metal-sneaker/) | ESC AI / @ESC__AI | 完整视频 · 提示词 / 过程 |
+| [糖面包山的体素搭建过程 / Pão de Açúcar — Voxel Modeling in Stages](https://carpentry-liu.github.io/awesome-astra-3d/cases/lilo-voxel-modeling/) | Lilo Bench / @lilobench | 完整视频 |
+| [石渠里的升降木水闸 / A Timber Sluice Gate over an Emerald Channel](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-sluice-gate/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [强风中的布棚与草地 / A Fabric Canopy and Grass in Strong Wind](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-wind-canopy/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [连接海天的水龙卷 / A Waterspout Connecting Sea and Sky](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-waterspout/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+
 ## 2026-11-02 · 6 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

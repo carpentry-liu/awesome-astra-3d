@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-11-02 (Asia/Shanghai)** · **426 Astra examples** · **119 source / project links** · **132 demo links** · **212 complete videos** · **12 separate references**.
+Updated **2026-11-04 (Asia/Shanghai)** · **432 Astra examples** · **119 source / project links** · **132 demo links** · **218 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -44,18 +44,18 @@ Select a title or image to open the creator's demo directly. Case pages retain s
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-11-02.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-11-04.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Website screenshots were refreshed on **November 2, 2026** from the current local production build. See the creator previews and latest additions below for this update. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Website screenshots were refreshed on **November 4, 2026** from the current local production build. See the creator previews and latest additions below for this update. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
-<summary>Gallery, mobile and case screenshots · November 2, 2026</summary>
+<summary>Gallery, mobile and case screenshots · November 4, 2026</summary>
 
-[![Gallery filters and more works](docs/media/collection-2026-11-02.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Gallery filters and more works](docs/media/collection-2026-11-04.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-11-02.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-11-04.jpg)
 
-[![Robot Curling in Three Throws and its source project](docs/media/case-2026-11-02.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kumada-robot-curling/)
+[![Ruby Ascent — three-model coastal launch comparison](docs/media/case-2026-11-04.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/envol-ruby-ascent/)
 
 </details>
 
@@ -63,33 +63,33 @@ Website screenshots were refreshed on **November 2, 2026** from the current loca
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The November 2 update adds **six works and six complete recordings**. Today’s robot curling project includes Python and MuJoCo source, and the racing comparison follows two cars around a track. Both Tiny Living City recordings share one page. Astra is bottom left in the November 1 clip and bottom right in the November 2 follow-up. The panda courier, Brain Jelly and kelp forest were posted on November 1. Brain Jelly includes the creator’s demo and prompt.
+The November 4 update adds **six works and six complete recordings**, all posted on November 3 in Asia/Shanghai. Watch a coastal rocket launch, liquid metal around a sneaker and the full voxel-mountain modeling sequence. Three WebGL studies explore fabric, a sluice gate and a waterspout. Each comparison identifies Astra’s position, and the waterspout entry retains the creator’s note about one compiler/runtime fix.
 
 <!-- atlas:update-previews:start -->
 **This update in pictures — creator works**
 
-| Robot curling · source code | Track racing · Astra on top | Tiny Living City · second clip, bottom right |
+| Coastal launch · Astra middle | Liquid-metal sneaker · Astra top | Voxel mountain · Full process |
 | --- | --- | --- |
-| [<img src="https://raw.githubusercontent.com/MasahitoKumada/physical_ai_last_assignment/2a96b1e5db830673c02cc7978f1d58438205d744/report/game_player_preview.png" height="165" alt="Robot curling · source code">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kumada-robot-curling/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2116931360409464832/img/MHE8urun6_jDGzhz.jpg" height="165" alt="Track racing · Astra on top">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/andriy-track-racing/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2116944163488792576/img/9ulSxz5LOAUAuSZq.jpg" height="165" alt="Tiny Living City · second clip, bottom right">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/noclipepe-tiny-living-city/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2117294758083399685/img/xAMITifQXzlK4mTh.jpg" height="165" alt="Coastal launch · Astra middle">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/envol-ruby-ascent/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2117364850355560449/img/qtrp6nvCd_hgrV9E.jpg" height="165" alt="Liquid-metal sneaker · Astra top">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/esc-liquid-metal-sneaker/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2117375218427551744/img/Xv3fyz7WuxhzSLB6.jpg" height="165" alt="Voxel mountain · Full process">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lilo-voxel-modeling/) |
 
-| Panda delivery · Astra bottom left | Brain Jelly · Astra on top | Kelp forest · Astra in the center |
+| Sluice gate · Astra middle | Wind-blown canopy · Astra middle | Waterspout · Astra middle |
 | --- | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2116755906998480896/img/s9HzIBp5CqCJMKwi.jpg" height="165" alt="Panda delivery · Astra bottom left">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/maker-jackie-panda-delivery/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2116631945266237441/img/8L8xv8XxQ1wFTtiu.jpg" height="165" alt="Brain Jelly · Astra on top">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-brain-jelly/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2116847150999203840/img/F_uHezHvXZa9dBlP.jpg" height="165" alt="Kelp forest · Astra in the center">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-underwater-kelp/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2117619854597591040/img/ZtXj-3ZjA9OFk7J8.jpg" height="165" alt="Sluice gate · Astra middle">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-sluice-gate/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2117565203709882368/img/T3bEsj7la7KmziS-.jpg" height="165" alt="Wind-blown canopy · Astra middle">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-wind-canopy/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2117475089386266624/img/WWWf0Pm2x7ueF57_.jpg" height="165" alt="Waterspout · Astra middle">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-waterspout/) |
 
-[Watch the recordings](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Download originals](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-02)
+[Watch the recordings](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Download originals](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-04)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [Ruby Ascent — A Coastal Rocket Launch](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/envol-ruby-ascent/) | Tony / @EnvolDev | [Original](https://x.com/EnvolDev/status/2117294843877888303) |
+| [A Futuristic Sneaker Wrapped in Liquid Metal](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/esc-liquid-metal-sneaker/) | ESC AI / @ESC__AI | [Original](https://x.com/ESC__AI/status/2117365050138567112) |
+| [Pão de Açúcar — Voxel Modeling in Stages](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lilo-voxel-modeling/) | Lilo Bench / @lilobench | [Original](https://x.com/lilobench/status/2117376203665367221) |
+| [A Timber Sluice Gate over an Emerald Channel](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-sluice-gate/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2117620010420187178) |
+| [A Fabric Canopy and Grass in Strong Wind](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-wind-canopy/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2117565403325170175) |
+| [A Waterspout Connecting Sea and Sky](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-waterspout/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2117475117525831982) |
 | [Robot Curling in Three Throws](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kumada-robot-curling/) | MasahitoKumada / bonsai2026 | [Source](https://github.com/MasahitoKumada/physical_ai_last_assignment) · [Original](https://github.com/MasahitoKumada/physical_ai_last_assignment/blob/2a96b1e5db830673c02cc7978f1d58438205d744/README.md) |
 | [Chase-Camera Track Racing](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/andriy-track-racing/) | AndrIy / @Andr1ycp | [Original](https://x.com/Andr1ycp/status/2116931399286452661) |
-| [Tiny Living City in Two Comparisons](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/noclipepe-tiny-living-city/) | noclipepe / @noclipepe | [Original](https://x.com/noclipepe/status/2116861310281351176) |
-| [Panda Delivery by Electric Scooter](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/maker-jackie-panda-delivery/) | Maker Jackie / @maker_jackie | [Original](https://x.com/maker_jackie/status/2116756290383081763) |
-| [Brain Jelly — A Soft-Body Material Study](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-brain-jelly/) | Vib3Coded / @vib3coded | [Demo](https://brain-jelly.vercel.app/) · [Original](https://x.com/vib3coded/status/2116632234916749597) |
-| [Underwater Kelp Forest](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-underwater-kelp/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2116847177800798575) |
-| [Laundry in the Rooftop Breeze](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-rooftop-laundry/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2116346545272770844) |
-| [Mangrove Lights — Fireflies in a Tidal Diorama](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-mangrove-lights/) | Vib3Coded / @vib3coded | [Demo](https://mangrove-lights-vibecoded1.vercel.app/) · [Original](https://x.com/vib3coded/status/2116024691533979940) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)
