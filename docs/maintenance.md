@@ -79,6 +79,10 @@ npm start
 脚本、下载和详细浏览器证据仅保留于忽略目录 `work/2026-11-05/`；视频位于 Release，未提交 MP4、缓存、上游源码或迁移说明。应用代码和依赖不变。`py -3.13 work/2026-11-05/verify-diff.py` 确认原有 444 条记录、436 个录像版本及历史审计逐字段不变，双语新增预览链接与截图引用一致。
 
 
+内容提交 `715b3d4` 经 [PR #5](https://github.com/carpentry-liu/awesome-astra-3d/pull/5) 合入，[Pages 工作流](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/41950680203)成功。`py -3.13 work/2026-11-05/verify-production.py` 的 39 项部署后核验全部通过：线上 449 条 JSON 与事实源一致，覆盖五件作品的中英详情与 JSON、首页、sitemap、五张预览、四张仓库截图、分享图、双语 README 和视频清单；四个 Pages 播放文件完整 GET 后的字节数与 SHA-256 匹配，四个 Release 原版端点的 MP4 头与长度匹配。`verify-rendered.py` 另核对 GitHub 实际渲染的中英文 README 各五张新预览及详情链接，并完整获取、解码五张实际服务的图片。
+
+公开首页在浏览器初次读取时显示新统计，后续页面读取超时，因此播放器复查改用本地生产页面加载实际公开 MP4。水母片段从 0 播至 20 秒 ended、readyState=4、媒体错误为空，原先的未部署回退已消失。其余三段线上视频以完整 GET/hash 与已通过本地全长播放的文件对照，未表述为线上四段浏览器复播。ChatGPT Sites 未重新部署。详细记录保留在 `work/2026-11-05/`。
+
 ## 内容验证（2026-11-02）
 
 本次收录 6 件作品。按上海时间，机器人冰壶工程和赛道跑车发表于 11 月 2 日。微缩城市首轮发表于 11 月 1 日，次日增加第二段对照录像，两段合为一件作品。熊猫外卖、Brain Jelly 和海带森林发表于 11 月 1 日。
