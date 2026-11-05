@@ -12166,6 +12166,186 @@
       "newMediaFiles": 12,
       "newMediaBytes": 49241825,
       "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-04"
+    },
+    {
+      "observedAt": "2026-11-05",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "baselineCommit": "e6df219aabcfcee5c8e565ae63c63f120ce54ca2",
+      "baselineCount": 444,
+      "resultingCount": 449,
+      "addedCaseIds": [
+        "teddy-coastal-jellyfish",
+        "teddy-bronze-bell",
+        "openai-codex-device-enclosure",
+        "noclipepe-childhood-rug",
+        "andriy-lightsaber-corridor"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "coverage": [
+        {
+          "id": "teddy-coastal-jellyfish",
+          "sourceDate": "2026-11-04",
+          "sourceUrl": "https://x.com/teddyaisi/status/2117942156472308140",
+          "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / GPT-6.1 Terra · WebGL"
+        },
+        {
+          "id": "teddy-bronze-bell",
+          "sourceDate": "2026-11-04",
+          "sourceUrl": "https://x.com/teddyaisi/status/2117896308472385787",
+          "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / GPT-6.1 Terra · WebGL"
+        },
+        {
+          "id": "openai-codex-device-enclosure",
+          "sourceDate": "2026-11-03",
+          "sourceUrl": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+          "modelLabel": "GPT-6 Astra · 机械、电路与软件设计"
+        },
+        {
+          "id": "noclipepe-childhood-rug",
+          "sourceDate": "2026-11-04",
+          "sourceUrl": "https://x.com/noclipepe/status/2117914944410628430",
+          "modelLabel": "GPT-6 Astra / Claude Opus 5.5 / Fable 5.5（作者标注 routing）"
+        },
+        {
+          "id": "andriy-lightsaber-corridor",
+          "sourceDate": "2026-11-05",
+          "sourceUrl": "https://x.com/Andr1ycp/status/2118097668190896301",
+          "modelLabel": "GPT-6 Astra High / Claude Opus 5.5 High（作者标注）"
+        }
+      ],
+      "queries": [
+        "\"GPT-6 Astra\" \"3D\" after:2026-11-03",
+        "\"GPT-6 Astra\" \"Blender\" November 2026",
+        "\"Astra\" \"Three.js\" after:2026-11-03",
+        "Astra 3D pushed:>=2026-11-03",
+        "\"GPT-6 Astra\" site:bilibili.com/video",
+        "\"GPT-6 Astra\" site:xiaohongshu.com/explore",
+        "\"Astra\" \"accelerating engineering\""
+      ],
+      "discoverySources": [
+        "https://aivs.tv/models/gpt-6-astra/",
+        "https://teapawt.net/teddyaisi",
+        "https://teapawt.net/noclipepe",
+        "https://teapawt.net/Andr1ycp",
+        "https://teapawt.net/vib3coded",
+        "https://teapawt.net/jinhuaachen",
+        "https://teapawt.net/Lummox_eth",
+        "https://github.com/TripoGrowthLab/awesome-astra-prompts",
+        "https://github.com/billyhetech/awesome-gpt6-astra-videos"
+      ],
+      "primarySourceChecks": [
+        {
+          "caseId": "teddy-bronze-bell",
+          "sourceUrl": "https://x.com/teddyaisi/status/2117896308472385787",
+          "bytes": 126853,
+          "sha256": "404b6a36ad1d52b1bc3ff3ce2a2107a2ca52f274d8f630b4ae8c3d2a78c34c98",
+          "createdAtShanghai": "2026-11-04T16:26:43+08:00",
+          "selectedMediaId": "2117896181485604864",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "noclipepe-childhood-rug",
+          "sourceUrl": "https://x.com/noclipepe/status/2117914944410628430",
+          "bytes": 190010,
+          "sha256": "14517a517484f9007d31430e9c10d10d37978ad8a21dc2a09345d53eaf8b2621",
+          "createdAtShanghai": "2026-11-04T17:40:46+08:00",
+          "selectedMediaId": "2117914428892962817",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-coastal-jellyfish",
+          "sourceUrl": "https://x.com/teddyaisi/status/2117942156472308140",
+          "bytes": 114971,
+          "sha256": "4c0c3b645af2de7ccf59a28fc87e4873d4e24287698357e3146c071fa129ccb9",
+          "createdAtShanghai": "2026-11-04T19:28:54+08:00",
+          "selectedMediaId": "2117941677147246592",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "andriy-lightsaber-corridor",
+          "sourceUrl": "https://x.com/Andr1ycp/status/2118097668190896301",
+          "bytes": 104543,
+          "sha256": "e474d16252cf51403cbee2d77eef8d8f08b4c1c10b213034ed58de3ade672d5d",
+          "createdAtShanghai": "2026-11-05T05:46:51+08:00",
+          "selectedMediaId": "2118097612125450241",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "openai-codex-device-enclosure",
+          "sourceUrl": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+          "sourceDate": "2026-11-03",
+          "method": "Official article read through web search/open and its enclosure link inspected",
+          "articleDirectHttpStatus": 403,
+          "articleFullGetVerified": false,
+          "articleAccessibleViaWebReader": true
+        }
+      ],
+      "excludedOrDeferred": [
+        {
+          "url": "https://x.com/Lummox_eth/status/2118006385925362100",
+          "reason": "Poster explicitly labels the mechanical jellyfish a visual concept, illustrative costs and not a model benchmark. Not accepted as verified model output."
+        },
+        {
+          "url": "https://x.com/jinhuaachen/status/2117825999241126215",
+          "reason": "Long workflow commentary uses footage marked as sourced from the internet. The original creators and attribution of the showcased outputs were not established; deferred instead of counting a new first-party creation."
+        },
+        {
+          "url": "https://github.com/siddhartha-yz/whale-room/tree/98b8ac2405b941f3bb60c3d9a336d6f3bd58b6ed",
+          "reason": "Astra controls an existing pixiv VRM companion. No outcome preview or public live demo was found in the checked tree; existing character geometry is not attributed to Astra."
+        },
+        {
+          "url": "https://github.com/Bloody-Regina/f1-race-director/tree/558363fa4a716276bf9f1c0f894d801d6a0c19b4",
+          "reason": "README states Astra/Codex, but the tree has textures without an outcome screenshot and no live demo. Excluded from the viewable gallery."
+        },
+        {
+          "url": "https://x.com/vib3coded/status/2117913818252644522",
+          "reason": "Floating F1 comparison is labeled Sonnet 5.5, not Astra."
+        },
+        {
+          "url": "https://x.com/vib3coded/status/2118002399155531996",
+          "reason": "Skyhoop comparison is labeled Sonnet 5.5."
+        },
+        {
+          "url": "https://x.com/vib3coded/status/2118084672076828910",
+          "reason": "Amazon Jelly compares Opus 5.5 and Sonnet 5.5, not Astra."
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV11GYv6oEJG/",
+          "reason": "Older September result, not a newly posted November work."
+        },
+        {
+          "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+          "reason": "Only the device-enclosure example is included. Mazda media in the same article expressly prohibits reuse elsewhere, so it was not copied, embedded or archived. Newer internal-model benchmark results were not attributed to Astra."
+        }
+      ],
+      "platformLimits": [
+        "Public Xiaohongshu searches did not yield a new attributable outcome with usable media. No login-only content was accessed.",
+        "Bilibili results included older dates and unclear 6.2 Astra labels; they were not substituted for confirmed GPT-6 Astra cases.",
+        "Official article text was readable with the web reader; a direct local HTTP request returned 403. The linked enclosure PNG was fully fetched and decoded.",
+        "No new verified public source project or runnable creator demo was added."
+      ],
+      "completeSourceClips": 4,
+      "newMediaFiles": 8,
+      "newMediaBytes": 57710856,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-05"
     }
   ]
 }

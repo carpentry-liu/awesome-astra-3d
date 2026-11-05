@@ -2,6 +2,16 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-11-05 · 5 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [海湾里舒展的透明水母 / A Translucent Jellyfish in a Coastal Bay](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-coastal-jellyfish/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [阳光钟楼里的摇摆铜钟 / A Swinging Bronze Bell in a Sunlit Tower](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-bronze-bell/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [Codex 对话设备的外壳设计 / An Enclosure for a Device That Talks to Codex](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-codex-device-enclosure/) | OpenAI | 作者展示 |
+| [童年道路地毯上的玩具赛车 / Toy-car Racing on a Childhood Road Rug](https://carpentry-liu.github.io/awesome-astra-3d/cases/noclipepe-childhood-rug/) | noclipepe / @noclipepe | 完整视频 · 提示词 / 过程 |
+| [科幻走廊里的光剑近战 / Lightsaber Combat in a Sci-fi Corridor](https://carpentry-liu.github.io/awesome-astra-3d/cases/andriy-lightsaber-corridor/) | AndrIy / @Andr1ycp | 完整视频 · 提示词 / 过程 |
+
 ## 2026-11-04 · 6 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

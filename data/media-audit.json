@@ -75162,6 +75162,992 @@
         ],
         "consoleScope": "Homepage, responsive checks and six local static detail pages; pre-deployment public-media fallback recorded separately."
       }
+    },
+    {
+      "checkedAt": "2026-11-05",
+      "round": "daily",
+      "scope": "Five new previews and four complete clips, with original and playback renditions. Historical verification is a separate sample.",
+      "addedCaseIds": [
+        "teddy-coastal-jellyfish",
+        "teddy-bronze-bell",
+        "openai-codex-device-enclosure",
+        "noclipepe-childhood-rug",
+        "andriy-lightsaber-corridor"
+      ],
+      "removedCaseIds": [],
+      "previews": [
+        {
+          "caseId": "teddy-coastal-jellyfish",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117941677147246592/img/AE3Kf1d9WkZsmT3L.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 105838,
+          "sha256": "a7e9f1c0d819c303d334fe1cf1134351ffac93d44db7f530f09dcde7cc053054",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2117942156472308140",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "teddy-bronze-bell",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117896181485604864/img/SPATaSIQ3dPKKubQ.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 148079,
+          "sha256": "c40adb55b61923fd5f3a18eac721e676e707f926258fd28291b87a9caeec5d7d",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2117896308472385787",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "openai-codex-device-enclosure",
+          "url": "https://images.ctfassets.net/kftzwdyauwt9/5aP4AhwHhDUmDxisSLcb2X/12114476f73d643b73dffe90b819cc0c/prototype-device-enclosure-diagram.png",
+          "sourceUrl": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+          "httpStatus": 200,
+          "contentType": "image/png",
+          "contentLength": 1506841,
+          "bytes": 1506841,
+          "sha256": "9550fb2d390e58a902a23a3fa3bdd7f900937ca8d11826336779122e91bf49e6",
+          "dimensions": [
+            7017,
+            4963
+          ],
+          "frames": 1,
+          "decoded": true,
+          "fullGet": true,
+          "actualImageFormat": "PNG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "noclipepe-childhood-rug",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117914428892962817/img/PIRLbGw_4Y_kosMz.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 163402,
+          "sha256": "24d8ea7644cbe19947c8c53a9aa7691742c8b8282d47f8551703423f270821b0",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/noclipepe/status/2117914944410628430",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "andriy-lightsaber-corridor",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2118097612125450241/img/qOtvs9bC7BN_6wy3.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 137099,
+          "sha256": "8be28b56b16c1ce28c95d9152ff658e8ad9e7526144686e0b18684bfa08dd2c5",
+          "dimensions": [
+            893,
+            1200
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/Andr1ycp/status/2118097668190896301",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        }
+      ],
+      "newVideos": [
+        {
+          "caseId": "teddy-coastal-jellyfish",
+          "filename": "teddy-coastal-jellyfish-1-original.mp4",
+          "kind": "original",
+          "bytes": 1691620,
+          "sha256": "9942db06f6d7d82b249360c8594a0bf1f5b3543c86c5d986471d3c64ce15147d",
+          "durationSeconds": 20.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2117942156472308140",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-05/teddy-coastal-jellyfish-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 20,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "teddy-coastal-jellyfish",
+          "filename": "teddy-coastal-jellyfish-1-web.mp4",
+          "kind": "web",
+          "bytes": 391937,
+          "sha256": "6d055e7d21818231f1ffc5ba40ac42cef0c99536c91e9552a6ebb5193c7ae631",
+          "durationSeconds": 20.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2117942156472308140",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-05/teddy-coastal-jellyfish-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 20,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "teddy-bronze-bell",
+          "filename": "teddy-bronze-bell-1-original.mp4",
+          "kind": "original",
+          "bytes": 1953205,
+          "sha256": "e7618c847d83db0418c843175e562488d924ee2b76142469190b709dfb46a5a7",
+          "durationSeconds": 20.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2117896308472385787",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-05/teddy-bronze-bell-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 20,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "teddy-bronze-bell",
+          "filename": "teddy-bronze-bell-1-web.mp4",
+          "kind": "web",
+          "bytes": 603253,
+          "sha256": "672f9daf3b3d15cc883c7579aaea7a8875687b47391d83e9f1b58f23e657b811",
+          "durationSeconds": 20.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2117896308472385787",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-05/teddy-bronze-bell-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 20,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "noclipepe-childhood-rug",
+          "filename": "noclipepe-childhood-rug-1-original.mp4",
+          "kind": "original",
+          "bytes": 38013392,
+          "sha256": "bf06517455f9ab3bc3033075d52be6b4cba3491a8978386d899320217cc3941b",
+          "durationSeconds": 67.46,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/noclipepe/status/2117914944410628430",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-05/noclipepe-childhood-rug-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 67.366,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "noclipepe-childhood-rug",
+          "filename": "noclipepe-childhood-rug-1-web.mp4",
+          "kind": "web",
+          "bytes": 4643589,
+          "sha256": "403684d0e1326d578bc4f87fc1c3c91607214b89c7abbd5e91f569449985fb6f",
+          "durationSeconds": 67.46,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/noclipepe/status/2117914944410628430",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-05/noclipepe-childhood-rug-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 67.366,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "andriy-lightsaber-corridor",
+          "filename": "andriy-lightsaber-corridor-1-original.mp4",
+          "kind": "original",
+          "bytes": 8980649,
+          "sha256": "6a8f29fae75007c4cbc778e271e62c8f557d01522bc801624718ae0bbfee5851",
+          "durationSeconds": 12.05,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/Andr1ycp/status/2118097668190896301",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-05/andriy-lightsaber-corridor-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "andriy-lightsaber-corridor",
+          "filename": "andriy-lightsaber-corridor-1-web.mp4",
+          "kind": "web",
+          "bytes": 1433211,
+          "sha256": "8fa2a549efd7bc51769527a75ce71d459f6e372475841f9218880736a0c3d021",
+          "durationSeconds": 12.05,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/Andr1ycp/status/2118097668190896301",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-05/andriy-lightsaber-corridor-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        }
+      ],
+      "historicalChecks": {
+        "images": [
+          {
+            "caseId": "envol-ruby-ascent",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2117294758083399685/img/xAMITifQXzlK4mTh.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-05T01:29:22.050599+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 208555,
+            "bytes": 208555,
+            "sha256": "2d8131a3dd4e2996ce0b91913e2a51facba97e61f716563d00e03dd1cdbb7729",
+            "dimensions": [
+              1002,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "esc-liquid-metal-sneaker",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2117364850355560449/img/qtrp6nvCd_hgrV9E.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-05T01:29:22.051208+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 61575,
+            "bytes": 61575,
+            "sha256": "bb33a93a174321440259c70e93ebdac98a71ffd87fbd8208cacb1e10e8ec3a2d",
+            "dimensions": [
+              688,
+              848
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "lilo-voxel-modeling",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2117375218427551744/img/Xv3fyz7WuxhzSLB6.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-05T01:29:22.051544+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 62952,
+            "bytes": 62952,
+            "sha256": "9da6cb8cb70253dc652ab2bc61e7219d297ec8b35f4c834011628a0ed590502a",
+            "dimensions": [
+              675,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-sluice-gate",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2117619854597591040/img/ZtXj-3ZjA9OFk7J8.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-05T01:29:22.051819+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 143084,
+            "bytes": 143084,
+            "sha256": "7a29d07b5eb37f17def19198dff88ddf2592788e2f0a245d4dc6912a4730b859",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-wind-canopy",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2117565203709882368/img/T3bEsj7la7KmziS-.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-05T01:29:22.052115+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 152624,
+            "bytes": 152624,
+            "sha256": "f83428cc18a672fcddb8703020cbc59e4599c0ce6fffa88f70b3e47feedbc224",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-waterspout",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2117475089386266624/img/WWWf0Pm2x7ueF57_.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-05T01:29:23.178096+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 101158,
+            "bytes": 101158,
+            "sha256": "2aefdbb0ab8d39c9c926d5f9b975b9024b71aec4c4ca59e7e1cda7e023552d71",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "kumada-robot-curling",
+            "url": "https://raw.githubusercontent.com/MasahitoKumada/physical_ai_last_assignment/2a96b1e5db830673c02cc7978f1d58438205d744/report/game_player_preview.png",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-05T01:29:23.307710+00:00",
+            "status": 200,
+            "contentType": "image/png",
+            "contentLength": 59305,
+            "bytes": 59305,
+            "sha256": "861980585225acbff7f0d8900edb8ce4373cba1126e896362a34ca3335356c25",
+            "dimensions": [
+              800,
+              614
+            ],
+            "format": "PNG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "andriy-track-racing",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2116931360409464832/img/MHE8urun6_jDGzhz.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-05T01:29:23.613123+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 79455,
+            "bytes": 79455,
+            "sha256": "47fd74dba85e14e546a7c7a11ca6f74bb3e5e0b9e770c0e79cdcc11ece937342",
+            "dimensions": [
+              893,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "noclipepe-tiny-living-city",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2116944163488792576/img/9ulSxz5LOAUAuSZq.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-05T01:29:23.706052+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 149542,
+            "bytes": 149542,
+            "sha256": "c70d8ebbb7a4344c86a7b3bbb46f417b7a4c5ba25f12ceec21923dabd4417eee",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "maker-jackie-panda-delivery",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2116755906998480896/img/s9HzIBp5CqCJMKwi.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-05T01:29:24.348657+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 140684,
+            "bytes": 140684,
+            "sha256": "44641eb61c5fbc995e46ae72710ef742aa12a3c705340c424caa3c9270e8aae5",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "vib3coded-brain-jelly",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2116631945266237441/img/8L8xv8XxQ1wFTtiu.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-05T01:29:24.459561+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 74633,
+            "bytes": 74633,
+            "sha256": "12f4f534feb3ad83ed2b149d8c7548b4c511748314b9fcceeed67fd2b224a88c",
+            "dimensions": [
+              948,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "tactical-blender-crossbow",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2109722405253824512/img/zZT1MM_WrS29en9a.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-05T01:29:25.180427+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 52135,
+            "bytes": 52135,
+            "sha256": "8facf06fdbe4a20c6042efbc29aa0219c2d483607dbfb8b4d12fa27c30d027ce",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "rikei-blender-classroom-washitsu",
+            "url": "https://assets.st-note.com/img/1790745246-jBmPDzLYgp5IeQUhZGwXfu6o.png?width=1200",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-05T01:29:25.209153+00:00",
+            "status": 200,
+            "contentType": "image/png",
+            "contentLength": 387509,
+            "bytes": 387509,
+            "sha256": "a0f3b161b028c85afa90c92da56344a441fa08dd38531499fe6a8450a6b04561",
+            "dimensions": [
+              1200,
+              747
+            ],
+            "format": "PNG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "sushi-shion-face-rig",
+            "url": "https://assets.st-note.com/production/uploads/images/313252282/picture_pc_60a43558d1965c04aa0af87f11ca6600.gif?width=1200",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-05T01:29:25.506065+00:00",
+            "status": 200,
+            "contentType": "image/gif",
+            "contentLength": 3602003,
+            "bytes": 3602003,
+            "sha256": "1a7f13f05b3c6cc62ab4c46ca1e07606feccf8e9d66b615e8c9448fdf8f810ad",
+            "dimensions": [
+              800,
+              457
+            ],
+            "format": "GIF",
+            "frames": 30,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "yzh119-h3-battle-lab",
+            "url": "https://yzh119.github.io/images/battle-lab-materials/black-knight.png",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-05T01:29:25.642337+00:00",
+            "status": 200,
+            "contentType": "image/png",
+            "contentLength": 489511,
+            "bytes": 489511,
+            "sha256": "e3f4a54118eb541b7f0b0e4c3b5580a2a19930466da752250bd16929f8783099",
+            "dimensions": [
+              1440,
+              1000
+            ],
+            "format": "PNG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "angello-drone-io",
+            "url": "https://pbs.twimg.com/media/HSszxY4WMAEn773.jpg?name=orig",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-05T01:29:25.655041+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 159427,
+            "bytes": 159427,
+            "sha256": "37ed6787cb786bffc755ba957ec81d8f29d02f5392ad41185674f1ba31e5e9c9",
+            "dimensions": [
+              1886,
+              906
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "higgsfield-beehive",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2097813680964694016/img/dH0hKm5vkcvXQCgq.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-05T01:29:26.883285+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 185044,
+            "bytes": 185044,
+            "sha256": "b3e24bbbe59d96f8919d9eecc841787a1302034fac88d1567eaa23832eabc200",
+            "dimensions": [
+              1200,
+              900
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "jake-rink-life",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2096981099964772352/img/V5In6125jJkkEGp0.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-05T01:29:27.363999+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 104288,
+            "bytes": 104288,
+            "sha256": "dca999c125093f707fcc4d8a4c196a02147dbd729c8c38cffd7543e44d672ba8",
+            "dimensions": [
+              675,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "cristian-inside-lloyds",
+            "url": "https://raw.githubusercontent.com/cristianexer/Lloyds-of-London-3D-building/main/docs/banner.svg",
+            "method": "Complete HTTP GET, length/hash check and SVG XML parse. Raster decoder failure is not a broken SVG. Browser rendering check follows.",
+            "checkedAt": "2026-11-05T01:29:27.520512+00:00",
+            "errors": [
+              "cannot identify image file <_io.BytesIO object at 0x0000023504514B30>",
+              "cannot identify image file <_io.BytesIO object at 0x00000235044E7D30>"
+            ],
+            "result": "svg-browser-verified",
+            "status": 200,
+            "contentType": "image/svg+xml",
+            "contentLength": 904482,
+            "bytes": 904482,
+            "sha256": "cbc1b93688099f4a25856d39d91f43f6cd377833a4fe40418c23d3f8ade7839f",
+            "svgXmlParsed": true,
+            "svgRootAttributes": {
+              "width": "1200",
+              "height": "500",
+              "viewBox": "0 0 1200 500",
+              "role": "img",
+              "aria-labelledby": "title desc"
+            },
+            "decoded": false,
+            "browserImage": {
+              "complete": true,
+              "height": 500,
+              "src": "https://raw.githubusercontent.com/cristianexer/Lloyds-of-London-3D-building/main/docs/banner.svg",
+              "width": 1200
+            },
+            "browserVisuallyReviewed": true
+          },
+          {
+            "caseId": "aibattle-sonic-godot",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2095992908448944130/img/v8BSAp4Xt5knPeV0.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-05T01:29:27.961766+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 156398,
+            "bytes": 156398,
+            "sha256": "98895f9ea13b5768341dde1695a82687f878f44f3ecd3dca38a5487483ed8f59",
+            "dimensions": [
+              900,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          }
+        ],
+        "videoEndpoints": [
+          {
+            "caseId": "envol-ruby-ascent",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/envol-ruby-ascent-1-web.mp4",
+            "expectedBytes": 894105,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-05T01:29:32.766726+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/894105",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "envol-ruby-ascent",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-04/envol-ruby-ascent-1-original.mp4",
+            "expectedBytes": 32179899,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-05T01:29:32.766876+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/32179899",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "esc-liquid-metal-sneaker",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/esc-liquid-metal-sneaker-1-web.mp4",
+            "expectedBytes": 754550,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-05T01:29:32.766974+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/754550",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "esc-liquid-metal-sneaker",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-04/esc-liquid-metal-sneaker-1-original.mp4",
+            "expectedBytes": 1341752,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-05T01:29:32.767065+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/1341752",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "lilo-voxel-modeling",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/lilo-voxel-modeling-1-web.mp4",
+            "expectedBytes": 2107917,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-05T01:29:32.767125+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/2107917",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "lilo-voxel-modeling",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-04/lilo-voxel-modeling-1-original.mp4",
+            "expectedBytes": 3683351,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-05T01:29:33.820558+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/3683351",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "simonas-human-eye-comparison",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/simonas-human-eye-comparison-1-web.mp4",
+            "expectedBytes": 1808655,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-05T01:29:34.014285+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/1808655",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "simonas-human-eye-comparison",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-02/simonas-human-eye-comparison-1-original.mp4",
+            "expectedBytes": 18184287,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-05T01:29:34.459853+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/18184287",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "aibattle-sonic-godot",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/aibattle-sonic-godot-1-web.mp4",
+            "expectedBytes": 8289737,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-05T01:29:34.728375+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/8289737",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "aibattle-sonic-godot",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-06/aibattle-sonic-godot-1-original.mp4",
+            "expectedBytes": 26328880,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-05T01:29:35.100997+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/26328880",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          }
+        ],
+        "conclusion": {
+          "checkedImages": 20,
+          "decodedImages": 19,
+          "checkedVideoCases": 5,
+          "checkedVideoEndpoints": 10,
+          "verifiedVideoEndpoints": 10,
+          "failures": [],
+          "limits": "19 raster previews fully decoded; one SVG completely fetched, parsed and visually checked in the browser. Historical videos checked by bounded header/length requests, not full playback.",
+          "svgStructurallyVerified": 1,
+          "verifiedImages": 20,
+          "svgBrowserVerified": 1
+        }
+      },
+      "browserVerification": {
+        "environment": "Local production build with SHA-256 checked playback files",
+        "playback": [
+          {
+            "id": "teddy-coastal-jellyfish",
+            "ordinal": 1,
+            "from": 0,
+            "duration": 20,
+            "ended": true,
+            "readyState": 4,
+            "error": null,
+            "currentTime": 20,
+            "filename": "teddy-coastal-jellyfish-1-web.mp4"
+          },
+          {
+            "id": "noclipepe-childhood-rug",
+            "ordinal": 1,
+            "from": 0,
+            "duration": 67.456,
+            "ended": true,
+            "readyState": 4,
+            "error": null,
+            "currentTime": 67.456,
+            "filename": "noclipepe-childhood-rug-1-web.mp4"
+          },
+          {
+            "id": "teddy-bronze-bell",
+            "ordinal": 1,
+            "from": 0,
+            "duration": 20,
+            "ended": true,
+            "readyState": 4,
+            "error": null,
+            "currentTime": 20,
+            "filename": "teddy-bronze-bell-1-web.mp4"
+          },
+          {
+            "id": "andriy-lightsaber-corridor",
+            "ordinal": 1,
+            "from": 0,
+            "duration": 12.051156,
+            "ended": true,
+            "readyState": 4,
+            "error": null,
+            "currentTime": 12.051156,
+            "filename": "andriy-lightsaber-corridor-1-web.mp4"
+          }
+        ],
+        "desktopNewPreviewWidths": [
+          1200,
+          1200,
+          7017,
+          1200,
+          893
+        ],
+        "desktopFeaturedPreviewWidths": [
+          1200,
+          1440,
+          1920,
+          1920,
+          2048,
+          1600
+        ],
+        "testedViewportWidths": [
+          1440,
+          390,
+          320
+        ],
+        "mobileVideoFilterLanguageAndClearVerified": true,
+        "preDeploymentModal": {
+          "caseId": "teddy-coastal-jellyfish",
+          "fallbackVisible": true,
+          "reason": "Public Pages video is not deployed yet; original download remains available"
+        },
+        "horizontalOverflow": false,
+        "consoleWarnings": 0,
+        "consoleErrors": 0,
+        "screenshots": [
+          {
+            "asset": "docs/media/homepage-2026-11-05.jpg",
+            "captureViewport": [
+              1440,
+              1100
+            ],
+            "pixelDimensions": [
+              1425,
+              1089
+            ],
+            "bytes": 181012,
+            "sha256": "1d8470e5410822a11ceac29234b86a8bceb59b678ad217eabf9b74c7a90df0f6"
+          },
+          {
+            "asset": "docs/media/collection-2026-11-05.jpg",
+            "captureViewport": [
+              1440,
+              1100
+            ],
+            "pixelDimensions": [
+              1425,
+              1089
+            ],
+            "bytes": 188307,
+            "sha256": "f54717a6e1382aa94f6c325d0ee0c859c83247c8141bbb8fc4161470b6ada8fc"
+          },
+          {
+            "asset": "docs/media/mobile-2026-11-05.jpg",
+            "captureViewport": [
+              390,
+              844
+            ],
+            "pixelDimensions": [
+              375,
+              812
+            ],
+            "bytes": 45718,
+            "sha256": "44a768a0150ca86f300e2c8941dc21e5ca921e4e32b5f4852ca42aca0ff65c65"
+          },
+          {
+            "asset": "docs/media/case-2026-11-05.jpg",
+            "captureViewport": [
+              1440,
+              1100
+            ],
+            "pixelDimensions": [
+              1425,
+              1089
+            ],
+            "bytes": 113207,
+            "sha256": "900702e3012d6c9903c34696d2d614d7b50286a4a88bcedb919cd53b9a36e6a1"
+          }
+        ]
+      }
     }
   ]
 }

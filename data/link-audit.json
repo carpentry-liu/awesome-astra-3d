@@ -26146,6 +26146,179 @@
           "visuallyReviewed": true
         }
       ]
+    },
+    {
+      "checkedAt": "2026-11-05",
+      "round": "daily",
+      "scope": "Four original X posts, one official article and five actual outcome previews.",
+      "addedCaseIds": [
+        "teddy-coastal-jellyfish",
+        "teddy-bronze-bell",
+        "openai-codex-device-enclosure",
+        "noclipepe-childhood-rug",
+        "andriy-lightsaber-corridor"
+      ],
+      "removedCaseIds": [],
+      "sourceChecks": [
+        {
+          "caseId": "teddy-bronze-bell",
+          "sourceUrl": "https://x.com/teddyaisi/status/2117896308472385787",
+          "bytes": 126853,
+          "sha256": "404b6a36ad1d52b1bc3ff3ce2a2107a2ca52f274d8f630b4ae8c3d2a78c34c98",
+          "createdAtShanghai": "2026-11-04T16:26:43+08:00",
+          "selectedMediaId": "2117896181485604864",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "noclipepe-childhood-rug",
+          "sourceUrl": "https://x.com/noclipepe/status/2117914944410628430",
+          "bytes": 190010,
+          "sha256": "14517a517484f9007d31430e9c10d10d37978ad8a21dc2a09345d53eaf8b2621",
+          "createdAtShanghai": "2026-11-04T17:40:46+08:00",
+          "selectedMediaId": "2117914428892962817",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-coastal-jellyfish",
+          "sourceUrl": "https://x.com/teddyaisi/status/2117942156472308140",
+          "bytes": 114971,
+          "sha256": "4c0c3b645af2de7ccf59a28fc87e4873d4e24287698357e3146c071fa129ccb9",
+          "createdAtShanghai": "2026-11-04T19:28:54+08:00",
+          "selectedMediaId": "2117941677147246592",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "andriy-lightsaber-corridor",
+          "sourceUrl": "https://x.com/Andr1ycp/status/2118097668190896301",
+          "bytes": 104543,
+          "sha256": "e474d16252cf51403cbee2d77eef8d8f08b4c1c10b213034ed58de3ade672d5d",
+          "createdAtShanghai": "2026-11-05T05:46:51+08:00",
+          "selectedMediaId": "2118097612125450241",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "openai-codex-device-enclosure",
+          "sourceUrl": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+          "sourceDate": "2026-11-03",
+          "method": "Official article read through web search/open and its enclosure link inspected",
+          "articleDirectHttpStatus": 403,
+          "articleFullGetVerified": false,
+          "articleAccessibleViaWebReader": true
+        }
+      ],
+      "previewChecks": [
+        {
+          "caseId": "teddy-coastal-jellyfish",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117941677147246592/img/AE3Kf1d9WkZsmT3L.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 105838,
+          "sha256": "a7e9f1c0d819c303d334fe1cf1134351ffac93d44db7f530f09dcde7cc053054",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2117942156472308140",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "teddy-bronze-bell",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117896181485604864/img/SPATaSIQ3dPKKubQ.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 148079,
+          "sha256": "c40adb55b61923fd5f3a18eac721e676e707f926258fd28291b87a9caeec5d7d",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2117896308472385787",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "openai-codex-device-enclosure",
+          "url": "https://images.ctfassets.net/kftzwdyauwt9/5aP4AhwHhDUmDxisSLcb2X/12114476f73d643b73dffe90b819cc0c/prototype-device-enclosure-diagram.png",
+          "sourceUrl": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+          "httpStatus": 200,
+          "contentType": "image/png",
+          "contentLength": 1506841,
+          "bytes": 1506841,
+          "sha256": "9550fb2d390e58a902a23a3fa3bdd7f900937ca8d11826336779122e91bf49e6",
+          "dimensions": [
+            7017,
+            4963
+          ],
+          "frames": 1,
+          "decoded": true,
+          "fullGet": true,
+          "actualImageFormat": "PNG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "noclipepe-childhood-rug",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117914428892962817/img/PIRLbGw_4Y_kosMz.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 163402,
+          "sha256": "24d8ea7644cbe19947c8c53a9aa7691742c8b8282d47f8551703423f270821b0",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/noclipepe/status/2117914944410628430",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "andriy-lightsaber-corridor",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2118097612125450241/img/qOtvs9bC7BN_6wy3.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 137099,
+          "sha256": "8be28b56b16c1ce28c95d9152ff658e8ad9e7526144686e0b18684bfa08dd2c5",
+          "dimensions": [
+            893,
+            1200
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/Andr1ycp/status/2118097668190896301",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        }
+      ]
     }
   ]
 }
