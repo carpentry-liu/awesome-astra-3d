@@ -1,5 +1,267 @@
 [
   {
+    "id": "teddy-coastal-jellyfish",
+    "title": "海湾里舒展的透明水母",
+    "titleEn": "A Translucent Jellyfish in a Coastal Bay",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / GPT-6.1 Terra · WebGL",
+    "summary": "透明伞盖收缩再舒展，触须随运动摆动，海底岩石和光线提供空间参照。三栏同题 WebGL 录像中，Astra 位于中间。",
+    "imageCaption": "Teddy 原帖三栏封面：Sol 在左，Astra 居中，Terra 在右。",
+    "outcome": "完整 20 秒对照录像已归档。可观察轮廓、透明材质与动作节奏；未验证流体求解或生物运动精度。作者未公开工程或试玩。",
+    "evidenceNote": "原帖明确说明 WebGL 与三种模型，原帖作者、发布时间、媒体 ID 和画面标签已核对。费用与用时属于作者单次运行记录。",
+    "promptSummary": "让水母通过收缩、张开伞盖在海湾中前进；原帖提供任务概述，未公开完整实现指令。",
+    "promptAvailability": "partial",
+    "outputType": [
+      "WebGL 水母动画",
+      "三模型同题对照",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "addedAt": "2026-11-05",
+    "observedAt": "2026-11-05",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2117942156472308140",
+    "sourceDate": "2026-11-04",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2117941677147246592/img/AE3Kf1d9WkZsmT3L.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/teddyaisi/status/2117942156472308140",
+    "promptUrl": "https://x.com/teddyaisi/status/2117942156472308140",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2117942156472308140"
+    ],
+    "sourceAccess": "原帖、同帖元数据与模型标签已核对。成果图完整获取并解码，原版和播放版录像均通过全长解码；未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "A Translucent Jellyfish in a Coastal Bay",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2117941677147246592/img/AE3Kf1d9WkZsmT3L.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2117942156472308140",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-coastal-jellyfish-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-05/teddy-coastal-jellyfish-1-original.mp4",
+        "bytes": 1691620,
+        "sha256": "9942db06f6d7d82b249360c8594a0bf1f5b3543c86c5d986471d3c64ce15147d",
+        "durationSeconds": 20.0
+      }
+    ]
+  },
+  {
+    "id": "teddy-bronze-bell",
+    "title": "阳光钟楼里的摇摆铜钟",
+    "titleEn": "A Swinging Bronze Bell in a Sunlit Tower",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / GPT-6.1 Terra · WebGL",
+    "summary": "铜钟在木轴上往复摆动，石拱、木梁和远处屋顶构成钟楼空间。可以同时观察三个版本的钟体轮廓、材质和投影。",
+    "imageCaption": "Teddy 原帖 WebGL 对照封面：Sol 在左，Astra 居中，Terra 在右。",
+    "outcome": "保留完整 20 秒录像。可见摆动与场景光影，未独立验证机械动力学或声音生成；未找到公开源码及在线试玩。",
+    "evidenceNote": "原帖文字和画面标签均列出三种模型，Astra 在中栏。展示结果属于作者自述，未独立复现。",
+    "promptSummary": "在日照下的地中海钟楼中，让一口大型铜钟来回摆动；原帖仅公开任务概述。",
+    "promptAvailability": "partial",
+    "outputType": [
+      "WebGL 钟楼与摆动动画",
+      "三模型同题对照",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "addedAt": "2026-11-05",
+    "observedAt": "2026-11-05",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2117896308472385787",
+    "sourceDate": "2026-11-04",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2117896181485604864/img/SPATaSIQ3dPKKubQ.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/teddyaisi/status/2117896308472385787",
+    "promptUrl": "https://x.com/teddyaisi/status/2117896308472385787",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2117896308472385787"
+    ],
+    "sourceAccess": "原帖、同帖元数据与模型标签已核对。成果图完整获取并解码，原版和播放版录像均通过全长解码；未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "A Swinging Bronze Bell in a Sunlit Tower",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2117896181485604864/img/SPATaSIQ3dPKKubQ.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2117896308472385787",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-bronze-bell-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-05/teddy-bronze-bell-1-original.mp4",
+        "bytes": 1953205,
+        "sha256": "e7618c847d83db0418c843175e562488d924ee2b76142469190b709dfb46a5a7",
+        "durationSeconds": 20.0
+      }
+    ]
+  },
+  {
+    "id": "openai-codex-device-enclosure",
+    "title": "Codex 对话设备的外壳设计",
+    "titleEn": "An Enclosure for a Device That Talks to Codex",
+    "category": "产品与角色",
+    "modelLabel": "GPT-6 Astra · 机械、电路与软件设计",
+    "summary": "官方公开的设备外壳图纸包含轴测图、剖面和尺寸标注，可观察三维外形怎样落到具体部件。",
+    "imageCaption": "OpenAI 原文链接的 Black bezel 原型图纸；是设计输出，非可下载的 CAD 工程。",
+    "outcome": "官方称该项目已制成少量原型，量产准备仍需多轮审查，公差、装配与制造约束存在遗漏。本库未复现，未找到公开 CAD 源文件。",
+    "evidenceNote": "11 月 3 日官方文章明确将该设备的外壳与内部结构设计归于 Astra。",
+    "promptSummary": "未公开完整任务或会话。",
+    "promptAvailability": "not-shared",
+    "outputType": [
+      "机械外壳设计",
+      "含轴测图的原型图纸"
+    ],
+    "group": "astra",
+    "addedAt": "2026-11-05",
+    "observedAt": "2026-11-05",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "official",
+    "evidenceStatus": "official-astra",
+    "platform": "OpenAI",
+    "platforms": [
+      "OpenAI"
+    ],
+    "author": "OpenAI",
+    "sourceUrl": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+    "sourceDate": "2026-11-03",
+    "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/5aP4AhwHhDUmDxisSLcb2X/12114476f73d643b73dffe90b819cc0c/prototype-device-enclosure-diagram.png",
+    "imageKind": "source-media",
+    "videoUrl": null,
+    "promptUrl": null,
+    "evidenceUrls": [
+      "https://images.ctfassets.net/kftzwdyauwt9/5aP4AhwHhDUmDxisSLcb2X/12114476f73d643b73dffe90b819cc0c/prototype-device-enclosure-diagram.png"
+    ],
+    "sourceAccess": "官方文章通过网页读取核对；本地直接请求文章返回 403，未记录为 HTTP 成功。图纸完整 GET 200、解码和目视检查通过。未运行工程。"
+  },
+  {
+    "id": "noclipepe-childhood-rug",
+    "title": "童年道路地毯上的玩具赛车",
+    "titleEn": "Toy-car Racing on a Childhood Road Rug",
+    "category": "3D 游戏",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5 / Fable 5.5（作者标注 routing）",
+    "summary": "玩具车沿道路地毯竞速，三栏录像展示赛道、追车视角和障碍物。Astra 位于右栏，地图规模与画面细节明显不同。",
+    "imageCaption": "noclipepe 原帖封面：Opus 在左，Fable 居中，Astra 在右。画面的评分是作者评价。",
+    "outcome": "保留约 67 秒的完整对照。作者指出 Astra 地图较小、画面粗糙、地毯辨识度低；此处保留这些限制，不据此推出通用模型排名。未公开工程或试玩。",
+    "evidenceNote": "作者明确称本次把 GPT-6 Astra 加入道路地毯测试，录像标签与正文一致。Fable 的 routing 标注来自作者，未独立验证路由。",
+    "promptSummary": "在童年道路地毯主题下制作赛车游戏；未公开完整提示词。",
+    "promptAvailability": "partial",
+    "outputType": [
+      "三维玩具赛车对照",
+      "保留作者负面反馈",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "addedAt": "2026-11-05",
+    "observedAt": "2026-11-05",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "noclipepe / @noclipepe",
+    "sourceUrl": "https://x.com/noclipepe/status/2117914944410628430",
+    "sourceDate": "2026-11-04",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2117914428892962817/img/PIRLbGw_4Y_kosMz.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/noclipepe/status/2117914944410628430",
+    "promptUrl": "https://x.com/noclipepe/status/2117914944410628430",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/noclipepe/status/2117914944410628430"
+    ],
+    "sourceAccess": "原帖、同帖元数据与模型标签已核对。成果图完整获取并解码，原版和播放版录像均通过全长解码；未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "Toy-car Racing on a Childhood Road Rug",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2117914428892962817/img/PIRLbGw_4Y_kosMz.jpg",
+        "sourceUrl": "https://x.com/noclipepe/status/2117914944410628430",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/noclipepe-childhood-rug-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-05/noclipepe-childhood-rug-1-original.mp4",
+        "bytes": 38013392,
+        "sha256": "bf06517455f9ab3bc3033075d52be6b4cba3491a8978386d899320217cc3941b",
+        "durationSeconds": 67.46
+      }
+    ]
+  },
+  {
+    "id": "andriy-lightsaber-corridor",
+    "title": "科幻走廊里的光剑近战",
+    "titleEn": "Lightsaber Combat in a Sci-fi Corridor",
+    "category": "3D 游戏",
+    "modelLabel": "GPT-6 Astra High / Claude Opus 5.5 High（作者标注）",
+    "summary": "沿金属走廊前进，光剑挥击、敌人和战斗 HUD 一同出现。上下两栏可以比较场景组织、视角与动作反馈，Astra 在上栏。",
+    "imageCaption": "AndrIy 原帖封面：GPT-6 Astra High 在上栏，Opus 5.5 High 在下栏。",
+    "outcome": "已归档完整 12 秒对照录像。作者未披露渲染器、角色资产来源或工程，不能从录像推定所有素材均由模型生成；未独立验证碰撞和战斗逻辑。",
+    "evidenceNote": "原帖声明相同的科幻走廊光剑任务，画面标签与正文一致。该帖发表于上海时间 11 月 5 日凌晨。",
+    "promptSummary": "用相同任务制作科幻走廊中的光剑战斗；完整指令与制作过程未公开。",
+    "promptAvailability": "partial",
+    "outputType": [
+      "三维近战场景对照",
+      "模型配置由作者标注",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "addedAt": "2026-11-05",
+    "observedAt": "2026-11-05",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "AndrIy / @Andr1ycp",
+    "sourceUrl": "https://x.com/Andr1ycp/status/2118097668190896301",
+    "sourceDate": "2026-11-05",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2118097612125450241/img/qOtvs9bC7BN_6wy3.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/Andr1ycp/status/2118097668190896301",
+    "promptUrl": "https://x.com/Andr1ycp/status/2118097668190896301",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/Andr1ycp/status/2118097668190896301"
+    ],
+    "sourceAccess": "原帖、同帖元数据与模型标签已核对。成果图完整获取并解码，原版和播放版录像均通过全长解码；未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "Lightsaber Combat in a Sci-fi Corridor",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2118097612125450241/img/qOtvs9bC7BN_6wy3.jpg",
+        "sourceUrl": "https://x.com/Andr1ycp/status/2118097668190896301",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/andriy-lightsaber-corridor-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-05/andriy-lightsaber-corridor-1-original.mp4",
+        "bytes": 8980649,
+        "sha256": "6a8f29fae75007c4cbc778e271e62c8f557d01522bc801624718ae0bbfee5851",
+        "durationSeconds": 12.05
+      }
+    ]
+  },
+  {
     "id": "envol-ruby-ascent",
     "title": "Ruby Ascent 海岸火箭发射",
     "titleEn": "Ruby Ascent — A Coastal Rocket Launch",
