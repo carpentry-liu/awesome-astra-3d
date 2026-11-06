@@ -2,6 +2,17 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-11-06 · 6 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [开顶天文台里的黄铜望远镜 / A Brass Telescope in an Opening Observatory](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-observatory-telescope/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [海边观测台的发光浑天仪 / A Glowing Armillary Sphere by the Sea](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-armillary-sphere/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [接住山村水流的木制水车 / A Wooden Waterwheel in a Village Sluice](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-village-waterwheel/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [怪兽卡车的三维碾压表演 / A 3D Monster Truck Crush Sequence](https://carpentry-liu.github.io/awesome-astra-3d/cases/olo-monster-truck/) | Olo Polo / @olo_polo13 | 完整视频 · 提示词 / 过程 |
+| [漂浮小行星上的像素足球场 / Galactic Football on a Floating Asteroid](https://carpentry-liu.github.io/awesome-astra-3d/cases/ninja-asteroid-stadium/) | NinjaCodex / @N1njaCodex | 完整视频 · 提示词 / 过程 |
+| [芭芭雅嘎鸡脚屋：保留建模缺陷 / Baba Yaga’s Hut, with Modeling Defects Retained](https://carpentry-liu.github.io/awesome-astra-3d/cases/max-baba-yaga-house/) | Max / @maxt3chno | 完整视频 · 提示词 / 过程 |
+
 ## 2026-11-05 · 5 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

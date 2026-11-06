@@ -1,5 +1,335 @@
 [
   {
+    "id": "teddy-observatory-telescope",
+    "title": "开顶天文台里的黄铜望远镜",
+    "titleEn": "A Brass Telescope in an Opening Observatory",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra / GPT-6.1 Sol · WebGL",
+    "summary": "穹顶向两侧打开，黄铜望远镜转向星空。山峰、石柱和齿轮支架提供空间层次，Astra 在右栏。",
+    "imageCaption": "Teddy 原帖双栏成果图：左为 Sol，右为 Astra。用时、token 与费用均为作者标注。",
+    "outcome": "保留完整 12 秒录像，可观察开顶与望远镜俯仰的配合。未公开工程或试玩，未验证光学、机械精度或可制造性。",
+    "evidenceNote": "作者明确说明两种模型执行相同 WebGL 任务，原帖作者、精确时间、媒体 ID 与画面标签已核对。未独立复现。",
+    "promptSummary": "在天文台屋顶滑开时，让大型黄铜望远镜转向星空；原帖提供任务概述，未公开完整指令。",
+    "promptAvailability": "partial",
+    "outputType": [
+      "WebGL 天文台动画",
+      "双模型同题对照",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "addedAt": "2026-11-06",
+    "observedAt": "2026-11-06",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2118527878942106036",
+    "sourceDate": "2026-11-06",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2118527388980248576/img/fBDPLkKvCHDEQ5Io.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/teddyaisi/status/2118527878942106036",
+    "promptUrl": "https://x.com/teddyaisi/status/2118527878942106036",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2118527878942106036"
+    ],
+    "sourceAccess": "原帖、同帖元数据与模型标签已核对。成果图完整获取并解码，原版和播放版录像均通过全长解码；未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "A Brass Telescope in an Opening Observatory",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2118527388980248576/img/fBDPLkKvCHDEQ5Io.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2118527878942106036",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-observatory-telescope-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-06/teddy-observatory-telescope-1-original.mp4",
+        "bytes": 1021476,
+        "sha256": "4926b56306dd8d7d2bd3afe6eeace90527a340651f0b4065e5ed093c6afc5599",
+        "durationSeconds": 12.0
+      }
+    ]
+  },
+  {
+    "id": "teddy-armillary-sphere",
+    "title": "海边观测台的发光浑天仪",
+    "titleEn": "A Glowing Armillary Sphere by the Sea",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra / GPT-6.1 Sol · WebGL",
+    "summary": "黄铜圆环围绕发光晶体转动，海面、拱廊和灯塔构成背景。双栏可比较金属反光、圆环结构与运动节奏。",
+    "imageCaption": "Teddy 原帖成果封面：Sol 在左，Astra 在右。",
+    "outcome": "完整 12 秒对照录像已归档。这是幻想天文装置的视觉演示，未验证天文计算或机械运动精度，未找到公开工程和试玩。",
+    "evidenceNote": "原帖明确列出 Astra 与 Sol 以及相同 WebGL 任务，画面标签与正文一致；费用与用时仅属于作者单次运行记录。",
+    "promptSummary": "让海边观测台上的巨型黄铜浑天仪围绕发光晶体转动；完整提示词未公开。",
+    "promptAvailability": "partial",
+    "outputType": [
+      "WebGL 幻想天文装置",
+      "圆环与发光材质",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "addedAt": "2026-11-06",
+    "observedAt": "2026-11-06",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2118259327106687253",
+    "sourceDate": "2026-11-05",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2118259296731537409/img/oZ25Lyg6ttJ-jbU4.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/teddyaisi/status/2118259327106687253",
+    "promptUrl": "https://x.com/teddyaisi/status/2118259327106687253",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2118259327106687253"
+    ],
+    "sourceAccess": "原帖、同帖元数据与模型标签已核对。成果图完整获取并解码，原版和播放版录像均通过全长解码；未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "A Glowing Armillary Sphere by the Sea",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2118259296731537409/img/oZ25Lyg6ttJ-jbU4.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2118259327106687253",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-armillary-sphere-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-06/teddy-armillary-sphere-1-original.mp4",
+        "bytes": 1794046,
+        "sha256": "405fd2f80b584734104363d089117acfa39af1a6ed450a2f16f1a54495f7507b",
+        "durationSeconds": 12.0
+      }
+    ]
+  },
+  {
+    "id": "teddy-village-waterwheel",
+    "title": "接住山村水流的木制水车",
+    "titleEn": "A Wooden Waterwheel in a Village Sluice",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / GPT-6.1 Terra · WebGL",
+    "summary": "水从高处的木槽落向水车，轮斗转动并向河道倾泻。石砌磨坊和河岸构成三维场景，Astra 位于三栏中间。",
+    "imageCaption": "Teddy 三栏同题对照：Sol 在左，Astra 居中，Terra 在右。",
+    "outcome": "完整 20 秒录像已归档。可观察水流与水车转动是否协调，未独立验证流体求解、受力或能量守恒；未公开源码与试玩。",
+    "evidenceNote": "原帖、媒体标签与同帖元数据均明确标出三种模型和 WebGL 任务，属于作者展示，非独立物理验证。",
+    "promptSummary": "在山村水道中制作一架接住水流、转动并从轮斗倒出水的木水车；原帖仅给出任务概述。",
+    "promptAvailability": "partial",
+    "outputType": [
+      "WebGL 水车场景",
+      "三模型同题对照",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "addedAt": "2026-11-06",
+    "observedAt": "2026-11-06",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2118190769463038119",
+    "sourceDate": "2026-11-05",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2118190692732370944/img/Vzc5EQU3MBBbxdGO.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/teddyaisi/status/2118190769463038119",
+    "promptUrl": "https://x.com/teddyaisi/status/2118190769463038119",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2118190769463038119"
+    ],
+    "sourceAccess": "原帖、同帖元数据与模型标签已核对。成果图完整获取并解码，原版和播放版录像均通过全长解码；未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "A Wooden Waterwheel in a Village Sluice",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2118190692732370944/img/Vzc5EQU3MBBbxdGO.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2118190769463038119",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-village-waterwheel-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-06/teddy-village-waterwheel-1-original.mp4",
+        "bytes": 2256129,
+        "sha256": "5008c5f82bba320f36dd288b6d215468ff8345013ffc1a7f54c918df3ac4df95",
+        "durationSeconds": 20.0
+      }
+    ]
+  },
+  {
+    "id": "olo-monster-truck",
+    "title": "怪兽卡车的三维碾压表演",
+    "titleEn": "A 3D Monster Truck Crush Sequence",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5 · 作者称代码生成",
+    "summary": "蓝色大脚卡车在土场驶向红色轿车，上下两栏展示车辆、看台和碾压过程。Astra 在上栏。",
+    "imageCaption": "Olo Polo 原帖封面：上栏 Astra，下栏 Opus 5.5。",
+    "outcome": "保留完整约 25 秒对照录像。作者要求用代码制作含声音的三维表演，但未公开源码、引擎和物理参数。帖子中的 20 美元指作者所述订阅支出，不能当作单次生成成本。",
+    "evidenceNote": "原帖明确标出模型位置与相同任务，作者、时间及媒体 ID 已核对。未独立验证全部资产均由代码生成或碰撞模拟的准确性。",
+    "promptSummary": "以代码制作一段 25 秒、有声音的三维怪兽卡车碾压动画；完整提示词和工程未公开。",
+    "promptAvailability": "partial",
+    "outputType": [
+      "三维车辆动作对照",
+      "作者声明代码生成",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "addedAt": "2026-11-06",
+    "observedAt": "2026-11-06",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Olo Polo / @olo_polo13",
+    "sourceUrl": "https://x.com/olo_polo13/status/2118072310183887069",
+    "sourceDate": "2026-11-05",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2118072061385900032/img/4QAd1XGdtX3XY9s4.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/olo_polo13/status/2118072310183887069",
+    "promptUrl": "https://x.com/olo_polo13/status/2118072310183887069",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/olo_polo13/status/2118072310183887069"
+    ],
+    "sourceAccess": "原帖、同帖元数据与模型标签已核对。成果图完整获取并解码，原版和播放版录像均通过全长解码；未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "A 3D Monster Truck Crush Sequence",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2118072061385900032/img/4QAd1XGdtX3XY9s4.jpg",
+        "sourceUrl": "https://x.com/olo_polo13/status/2118072310183887069",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/olo-monster-truck-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-06/olo-monster-truck-1-original.mp4",
+        "bytes": 16464294,
+        "sha256": "ac4ec6acbdac199cfde4104cdb5998e29a9772963e8e9a7bb378fae33256d85f",
+        "durationSeconds": 25.05
+      }
+    ]
+  },
+  {
+    "id": "ninja-asteroid-stadium",
+    "title": "漂浮小行星上的像素足球场",
+    "titleEn": "Galactic Football on a Floating Asteroid",
+    "category": "3D 游戏",
+    "modelLabel": "GPT-6 Astra / GPT-6.1 Sol · Galactic Football",
+    "summary": "足球场、观众席和发光球门漂浮在小行星上，远处悬着带环行星。上栏 Astra 使用暗色球场与霓虹球门，下栏展示 Sol。",
+    "imageCaption": "NinjaCodex 原帖上下对照：上方 Astra，下方 Sol。费用是作者报告的单次结果。",
+    "outcome": "完整约 17 秒录像已归档。能看到赛场、球员与镜头演示，未找到公开试玩或源码，未验证完整比赛规则；不以单帖费用推出普遍性价比排名。",
+    "evidenceNote": "作者明确要求相同的小行星像素足球场任务，原帖文字、署名和录像标签对应。未独立复现生成过程。",
+    "promptSummary": "在漂浮小行星上构建像素风足球场；原帖给出任务概述，未公开完整实现指令。",
+    "promptAvailability": "partial",
+    "outputType": [
+      "三维像素足球场",
+      "双模型同题对照",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "addedAt": "2026-11-06",
+    "observedAt": "2026-11-06",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "NinjaCodex / @N1njaCodex",
+    "sourceUrl": "https://x.com/N1njaCodex/status/2117953463753597211",
+    "sourceDate": "2026-11-04",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2117953378525274112/img/2SXx5ebvtHRwPx-h.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/N1njaCodex/status/2117953463753597211",
+    "promptUrl": "https://x.com/N1njaCodex/status/2117953463753597211",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/N1njaCodex/status/2117953463753597211"
+    ],
+    "sourceAccess": "原帖、同帖元数据与模型标签已核对。成果图完整获取并解码，原版和播放版录像均通过全长解码；未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "Galactic Football on a Floating Asteroid",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2117953378525274112/img/2SXx5ebvtHRwPx-h.jpg",
+        "sourceUrl": "https://x.com/N1njaCodex/status/2117953463753597211",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/ninja-asteroid-stadium-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-06/ninja-asteroid-stadium-1-original.mp4",
+        "bytes": 23119656,
+        "sha256": "01b76ae873b88abb86b4164890f190ef03683348e805e0593fd2c01a3472bad8",
+        "durationSeconds": 17.05
+      }
+    ]
+  },
+  {
+    "id": "max-baba-yaga-house",
+    "title": "芭芭雅嘎鸡脚屋：保留建模缺陷",
+    "titleEn": "Baba Yaga’s Hut, with Modeling Defects Retained",
+    "category": "Blender 建模",
+    "modelLabel": "GPT-6 Astra High / Claude Opus 5.5 High · Blender（作者标注）",
+    "summary": "Blender 视口展示立在鸡脚上的木屋，包含台阶、屋顶和墙面结构。Astra 在左，Opus 在右，可比较同一参考图下的结构还原。",
+    "imageCaption": "Max 原帖 Blender 视口对照：左侧 Astra，右侧 Opus。评分与配额百分比均来自作者。",
+    "outcome": "保留完整约 27 秒录像以及作者对 Astra 屋顶与墙面衔接的批评。未提供可下载的 .blend 或生成脚本，无法独立检查网格和复现；图中评分不代表通用模型排名。",
+    "evidenceNote": "作者明确声明使用相同的鸡脚屋提示和图片参考，录像模型标签与正文一致。原帖、精确时间和媒体 ID 已核对，未把作者评价写成独立验证。",
+    "promptSummary": "使用相同图片参考与芭芭雅嘎木屋主题在 Blender 中建模；完整提示词及参考素材的授权未披露。",
+    "promptAvailability": "partial",
+    "outputType": [
+      "Blender 鸡脚屋建模",
+      "保留作者负面反馈",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "addedAt": "2026-11-06",
+    "observedAt": "2026-11-06",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Max / @maxt3chno",
+    "sourceUrl": "https://x.com/maxt3chno/status/2117949666448883731",
+    "sourceDate": "2026-11-04",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2117949553009741824/img/nPldMsxCX69-emW0.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/maxt3chno/status/2117949666448883731",
+    "promptUrl": "https://x.com/maxt3chno/status/2117949666448883731",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/maxt3chno/status/2117949666448883731"
+    ],
+    "sourceAccess": "原帖、同帖元数据与模型标签已核对。成果图完整获取并解码，原版和播放版录像均通过全长解码；未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "Baba Yaga’s Hut, with Modeling Defects Retained",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2117949553009741824/img/nPldMsxCX69-emW0.jpg",
+        "sourceUrl": "https://x.com/maxt3chno/status/2117949666448883731",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/max-baba-yaga-house-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-06/max-baba-yaga-house-1-original.mp4",
+        "bytes": 11859255,
+        "sha256": "610e71c8492108c0d2f2c301a2c139c8118bc97d5b694c78d0f762c924f6b6c2",
+        "durationSeconds": 26.82
+      }
+    ]
+  },
+  {
     "id": "teddy-coastal-jellyfish",
     "title": "海湾里舒展的透明水母",
     "titleEn": "A Translucent Jellyfish in a Coastal Bay",

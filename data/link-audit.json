@@ -26319,6 +26319,216 @@
           "visuallyReviewed": true
         }
       ]
+    },
+    {
+      "checkedAt": "2026-11-06",
+      "round": "daily",
+      "scope": "Six original X posts and six actual outcome previews.",
+      "addedCaseIds": [
+        "teddy-observatory-telescope",
+        "teddy-armillary-sphere",
+        "teddy-village-waterwheel",
+        "olo-monster-truck",
+        "ninja-asteroid-stadium",
+        "max-baba-yaga-house"
+      ],
+      "removedCaseIds": [],
+      "sourceChecks": [
+        {
+          "caseId": "teddy-observatory-telescope",
+          "sourceUrl": "https://x.com/teddyaisi/status/2118527878942106036",
+          "bytes": 113322,
+          "sha256": "6ef4a444eaf124cfd75e18c94991c515fa9d34e9827825a40a554b124b6a0a27",
+          "createdAtShanghai": "2026-11-06T10:16:21+08:00",
+          "selectedMediaId": "2118527388980248576",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-armillary-sphere",
+          "sourceUrl": "https://x.com/teddyaisi/status/2118259327106687253",
+          "bytes": 137197,
+          "sha256": "0581ddced3c60ade1a6dcf8a60099d95e0f6e090c0dacb0e3504073923e2eb9e",
+          "createdAtShanghai": "2026-11-05T16:29:13+08:00",
+          "selectedMediaId": "2118259296731537409",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-village-waterwheel",
+          "sourceUrl": "https://x.com/teddyaisi/status/2118190769463038119",
+          "bytes": 113139,
+          "sha256": "8d78b329254a197e9abca4160da97ff1a1ba54cfc5bcdacb5d468101287af259",
+          "createdAtShanghai": "2026-11-05T11:56:48+08:00",
+          "selectedMediaId": "2118190692732370944",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "max-baba-yaga-house",
+          "sourceUrl": "https://x.com/maxt3chno/status/2117949666448883731",
+          "bytes": 134383,
+          "sha256": "cee305db957b87f8711fce88eefc5aa350ec1171680ffb57bc966ad8fe78ef69",
+          "createdAtShanghai": "2026-11-04T19:58:44+08:00",
+          "selectedMediaId": "2117949553009741824",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "olo-monster-truck",
+          "sourceUrl": "https://x.com/olo_polo13/status/2118072310183887069",
+          "bytes": 142070,
+          "sha256": "29b04244cede5edd7fa619d0475e9ec4ce87c6b2261fa39abc3bdb53a2949805",
+          "createdAtShanghai": "2026-11-05T04:06:05+08:00",
+          "selectedMediaId": "2118072061385900032",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "ninja-asteroid-stadium",
+          "sourceUrl": "https://x.com/N1njaCodex/status/2117953463753597211",
+          "bytes": 151125,
+          "sha256": "5aedf1aef8ffdb8f330c0af930b4b6d141e8a0fa8d17a4cf7f5ee5721c02b44f",
+          "createdAtShanghai": "2026-11-04T20:13:50+08:00",
+          "selectedMediaId": "2117953378525274112",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        }
+      ],
+      "previewChecks": [
+        {
+          "caseId": "teddy-observatory-telescope",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2118527388980248576/img/fBDPLkKvCHDEQ5Io.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 156230,
+          "sha256": "a3bc1085e886feb99a65d374f0d25e2197dae93f547b2670d8dc1f6870c3d8dc",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2118527878942106036",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "teddy-armillary-sphere",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2118259296731537409/img/oZ25Lyg6ttJ-jbU4.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 162656,
+          "sha256": "5ad8c9ecc3d0f3dccd4751b6534a613decc0bbbf5ad9834c189fda75aa12ebaf",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2118259327106687253",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "teddy-village-waterwheel",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2118190692732370944/img/Vzc5EQU3MBBbxdGO.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 147036,
+          "sha256": "aadd2ffa1c3c8eb97f000c4d67bb83bedbe4f90c7c30e638f93e50bde5daf988",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2118190769463038119",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "olo-monster-truck",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2118072061385900032/img/4QAd1XGdtX3XY9s4.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 177254,
+          "sha256": "ac1008b42fa61c1f242cc6fe8fee56308f9a95b1605847fad00b1aa25431d69e",
+          "dimensions": [
+            1064,
+            1200
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/olo_polo13/status/2118072310183887069",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "ninja-asteroid-stadium",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117953378525274112/img/2SXx5ebvtHRwPx-h.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 130536,
+          "sha256": "a4093838218355df1056c0cf40c9a13ece44ee4af602cd530755da85ad704e55",
+          "dimensions": [
+            960,
+            1200
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/N1njaCodex/status/2117953463753597211",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "max-baba-yaga-house",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117949553009741824/img/nPldMsxCX69-emW0.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 131599,
+          "sha256": "c7273ee1485637431e8bd46d72f85337335d63460119e2a4d66c5481ca5b5205",
+          "dimensions": [
+            1200,
+            768
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/maxt3chno/status/2117949666448883731",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        }
+      ]
     }
   ]
 }
