@@ -12346,6 +12346,226 @@
       "newMediaFiles": 8,
       "newMediaBytes": 57710856,
       "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-05"
+    },
+    {
+      "observedAt": "2026-11-06",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "baselineCommit": "cea38228f8e70e784617c2a6658458c825367104",
+      "baselineCount": 449,
+      "resultingCount": 455,
+      "addedCaseIds": [
+        "teddy-observatory-telescope",
+        "teddy-armillary-sphere",
+        "teddy-village-waterwheel",
+        "olo-monster-truck",
+        "ninja-asteroid-stadium",
+        "max-baba-yaga-house"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "coverage": [
+        {
+          "id": "teddy-observatory-telescope",
+          "sourceDate": "2026-11-06",
+          "sourceUrl": "https://x.com/teddyaisi/status/2118527878942106036",
+          "modelLabel": "GPT-6 Astra / GPT-6.1 Sol · WebGL"
+        },
+        {
+          "id": "teddy-armillary-sphere",
+          "sourceDate": "2026-11-05",
+          "sourceUrl": "https://x.com/teddyaisi/status/2118259327106687253",
+          "modelLabel": "GPT-6 Astra / GPT-6.1 Sol · WebGL"
+        },
+        {
+          "id": "teddy-village-waterwheel",
+          "sourceDate": "2026-11-05",
+          "sourceUrl": "https://x.com/teddyaisi/status/2118190769463038119",
+          "modelLabel": "GPT-6 Astra / GPT-6.1 Sol / GPT-6.1 Terra · WebGL"
+        },
+        {
+          "id": "olo-monster-truck",
+          "sourceDate": "2026-11-05",
+          "sourceUrl": "https://x.com/olo_polo13/status/2118072310183887069",
+          "modelLabel": "GPT-6 Astra / Claude Opus 5.5 · 作者称代码生成"
+        },
+        {
+          "id": "ninja-asteroid-stadium",
+          "sourceDate": "2026-11-04",
+          "sourceUrl": "https://x.com/N1njaCodex/status/2117953463753597211",
+          "modelLabel": "GPT-6 Astra / GPT-6.1 Sol · Galactic Football"
+        },
+        {
+          "id": "max-baba-yaga-house",
+          "sourceDate": "2026-11-04",
+          "sourceUrl": "https://x.com/maxt3chno/status/2117949666448883731",
+          "modelLabel": "GPT-6 Astra High / Claude Opus 5.5 High · Blender（作者标注）"
+        }
+      ],
+      "queries": [
+        "\"GPT-6 Astra\" \"3D\" after:2026-11-04",
+        "\"GPT-6 Astra\" \"Blender\" \"November\" \"2026\"",
+        "\"Astra\" \"Three.js\" after:2026-11-04",
+        "Astra 3D pushed:>=2026-11-04",
+        "site:xiaohongshu.com \"GPT-6\" \"3D\"",
+        "site:bilibili.com \"Astra\" \"11月\" \"3D\"",
+        "\"Can It Code\" \"forest\" \"Astra\" November 2026",
+        "\"GPT-6 Astra\" \"3D\" after:2026-11-05",
+        "site:xiaohongshu.com \"GPT-6 Astra\" 11月",
+        "site:bilibili.com \"GPT-6 Astra\" \"森林\"",
+        "\"Can It Code?\" \"Unreal\" \"forest\" \"Astra\"",
+        "\"astra-room-models\" Helen",
+        "\"Can It Code\" \"84189\"",
+        "\"GPT-6 Astra\" \"waterwheel\" November 5"
+      ],
+      "discoverySources": [
+        "https://aivs.tv/models/gpt-6-astra/",
+        "https://teapawt.net/vib3coded",
+        "https://teapawt.net/teddyaisi",
+        "https://teapawt.net/noclipepe",
+        "https://teapawt.net/Andr1ycp",
+        "https://teapawt.net/maker_jackie",
+        "https://teapawt.net/sgarlen01",
+        "https://teapawt.net/KostiKoNeuro",
+        "https://teapawt.net/az9713",
+        "https://teapawt.net/Kontentsukpi",
+        "https://teapawt.net/jinhuaachen",
+        "https://teapawt.net/gia9ang",
+        "https://teapawt.net/lilobench",
+        "https://teapawt.net/ESC__AI",
+        "https://teapawt.net/Capocci_AI",
+        "https://teapawt.net/Lummox_eth",
+        "https://teapawt.net/frankzydou"
+      ],
+      "primarySourceChecks": [
+        {
+          "caseId": "teddy-observatory-telescope",
+          "sourceUrl": "https://x.com/teddyaisi/status/2118527878942106036",
+          "bytes": 113322,
+          "sha256": "6ef4a444eaf124cfd75e18c94991c515fa9d34e9827825a40a554b124b6a0a27",
+          "createdAtShanghai": "2026-11-06T10:16:21+08:00",
+          "selectedMediaId": "2118527388980248576",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-armillary-sphere",
+          "sourceUrl": "https://x.com/teddyaisi/status/2118259327106687253",
+          "bytes": 137197,
+          "sha256": "0581ddced3c60ade1a6dcf8a60099d95e0f6e090c0dacb0e3504073923e2eb9e",
+          "createdAtShanghai": "2026-11-05T16:29:13+08:00",
+          "selectedMediaId": "2118259296731537409",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-village-waterwheel",
+          "sourceUrl": "https://x.com/teddyaisi/status/2118190769463038119",
+          "bytes": 113139,
+          "sha256": "8d78b329254a197e9abca4160da97ff1a1ba54cfc5bcdacb5d468101287af259",
+          "createdAtShanghai": "2026-11-05T11:56:48+08:00",
+          "selectedMediaId": "2118190692732370944",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "max-baba-yaga-house",
+          "sourceUrl": "https://x.com/maxt3chno/status/2117949666448883731",
+          "bytes": 134383,
+          "sha256": "cee305db957b87f8711fce88eefc5aa350ec1171680ffb57bc966ad8fe78ef69",
+          "createdAtShanghai": "2026-11-04T19:58:44+08:00",
+          "selectedMediaId": "2117949553009741824",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "olo-monster-truck",
+          "sourceUrl": "https://x.com/olo_polo13/status/2118072310183887069",
+          "bytes": 142070,
+          "sha256": "29b04244cede5edd7fa619d0475e9ec4ce87c6b2261fa39abc3bdb53a2949805",
+          "createdAtShanghai": "2026-11-05T04:06:05+08:00",
+          "selectedMediaId": "2118072061385900032",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "ninja-asteroid-stadium",
+          "sourceUrl": "https://x.com/N1njaCodex/status/2117953463753597211",
+          "bytes": 151125,
+          "sha256": "5aedf1aef8ffdb8f330c0af930b4b6d141e8a0fa8d17a4cf7f5ee5721c02b44f",
+          "createdAtShanghai": "2026-11-04T20:13:50+08:00",
+          "selectedMediaId": "2117953378525274112",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        }
+      ],
+      "excludedOrDeferred": [
+        {
+          "url": "https://x.com/Lummox_eth/status/2118423789906149843",
+          "reason": "The mechanical-snake poster includes a Russian footer describing a staged comparison with sums set for the clip. Not accepted as model output or measured generation cost."
+        },
+        {
+          "url": "https://x.com/Lummox_eth/status/2118340895267258374",
+          "reason": "The mechanical-octopus poster explicitly labels the scene a visual concept, illustrative costs and not a model benchmark. Excluded."
+        },
+        {
+          "url": "https://github.com/helenhshim/runway-apt-sim/tree/65b2c81e110aa4d1b96e76e2f6fd13c2111ae56e",
+          "reason": "A video-evaluation repository, not an Astra-authored 3D source project. Photos and videos are ignored. The linked room-model case study is accessible and has outcomes but calls the model only Astra; exact GPT-6 attribution was not established, so deferred."
+        },
+        {
+          "url": "https://www.helenshim.me/projects/astra-room-models",
+          "reason": "Full page GET 200 inspected. It distinguishes input photos, AI renders and simplified Three.js geometry, but does not explicitly identify GPT-6. Not counted as a verified GPT-6 Astra creation."
+        },
+        {
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xot13p/gpt6_astra_rocket_game_advert/",
+          "reason": "Search result describes recreating the Astra advert using Claude/Haiku. The advert subject alone does not establish Astra as creator; direct web open was unavailable. Excluded."
+        },
+        {
+          "url": "https://x.com/jinhuaachen/status/2118557554599158212",
+          "reason": "The post attributes forest footage to Can It Code?. Search results did not establish the matching original forest video or Astra role in this particular clip; deferred instead of counting a repost."
+        },
+        {
+          "url": "https://x.com/vib3coded/status/2118465677455478784",
+          "reason": "Pixel basketball is explicitly Sonnet 5.5, not Astra."
+        },
+        {
+          "url": "https://x.com/vib3coded/status/2118357984086725108",
+          "reason": "Robotic spider is explicitly Opus 5.5, not Astra."
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1d5tq6vEgu/",
+          "reason": "September 4 result, not a new November work."
+        }
+      ],
+      "platformLimits": [
+        "Public Xiaohongshu queries did not yield a new attributable result with usable outcome media. No login-only content was accessed.",
+        "Bilibili searches returned older September demonstrations and reposts. Search snippets were not promoted to first-party proof.",
+        "Some direct image requests failed; full GET through the configured local proxy succeeded and the downloaded bytes were decoded.",
+        "No new verified public source project or runnable creator demo was added.",
+        "All six additions are creator-attributed demonstrations, not independently reproduced model benchmarks."
+      ],
+      "completeSourceClips": 6,
+      "newMediaFiles": 12,
+      "newMediaBytes": 62127231,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-06"
     }
   ]
 }

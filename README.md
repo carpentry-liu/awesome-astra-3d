@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-11-05（Asia/Shanghai）**：**437 条 Astra 案例** · **119 条源码 / 工程** · **132 个演示入口** · **222 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-11-06（Asia/Shanghai）**：**443 条 Astra 案例** · **119 条源码 / 工程** · **132 个演示入口** · **228 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -44,18 +44,18 @@
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-11-05.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-11-06.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-网站实拍更新于 **2026-11-05**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+网站实拍更新于 **2026-11-06**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
-<summary>查看案例区、手机与作品详情实拍 · 2026-11-05</summary>
+<summary>查看案例区、手机与作品详情实拍 · 2026-11-06</summary>
 
-[![案例区：筛选与更多作品](docs/media/collection-2026-11-05.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![案例区：筛选与更多作品](docs/media/collection-2026-11-06.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端：精选作品与材料导航](docs/media/mobile-2026-11-05.jpg)
+![手机端：精选作品与材料导航](docs/media/mobile-2026-11-06.jpg)
 
-[![海湾水母的 WebGL 三模型对照](docs/media/case-2026-11-05.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-coastal-jellyfish/)
+[![开顶天文台与黄铜望远镜的 WebGL 对照](docs/media/case-2026-11-06.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-observatory-telescope/)
 
 </details>
 
@@ -63,33 +63,33 @@
 
 这里按本库收录日期排列；作品首次发布、模型配置与核查日期在各档案中分别记录。稳定精选不随日更替换。
 
-11 月 5 日收录 **5 件作品、4 段完整录像**，来源发表于 11 月 3—5 日。看海湾水母与钟楼铜钟的 WebGL 动态，再对照地毯赛车和光剑走廊；赛车条目保留作者的负面反馈。另附官方设备外壳图纸，注明制造审查和源文件的限制。
+11 月 6 日收录 **6 件作品、6 段完整录像**，来源发表于 11 月 4—6 日。从开顶天文台与发光浑天仪，到山村水车、怪兽卡车和小行星足球场；另有 Blender 鸡脚屋对照，保留作者指出的屋顶衔接问题。每张预览可进入对应作品档案。
 
 <!-- atlas:update-previews:start -->
 **本轮成果预览（第三方原作）**
 
-| 海湾水母 · Astra 中栏 | 钟楼铜钟 · Astra 中栏 | 设备外壳 · 官方图纸 |
+| 天文台望远镜 · Astra 右栏 | 海岸浑天仪 · Astra 右栏 | 山村水车 · Astra 中栏 |
 | --- | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2117941677147246592/img/AE3Kf1d9WkZsmT3L.jpg" height="165" alt="海湾水母 · Astra 中栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-coastal-jellyfish/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2117896181485604864/img/SPATaSIQ3dPKKubQ.jpg" height="165" alt="钟楼铜钟 · Astra 中栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-bronze-bell/) | [<img src="https://images.ctfassets.net/kftzwdyauwt9/5aP4AhwHhDUmDxisSLcb2X/12114476f73d643b73dffe90b819cc0c/prototype-device-enclosure-diagram.png" height="165" alt="设备外壳 · 官方图纸">](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-codex-device-enclosure/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2118527388980248576/img/fBDPLkKvCHDEQ5Io.jpg" height="165" alt="天文台望远镜 · Astra 右栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-observatory-telescope/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2118259296731537409/img/oZ25Lyg6ttJ-jbU4.jpg" height="165" alt="海岸浑天仪 · Astra 右栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-armillary-sphere/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2118190692732370944/img/Vzc5EQU3MBBbxdGO.jpg" height="165" alt="山村水车 · Astra 中栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-village-waterwheel/) |
 
-| 地毯赛车 · 保留失败反馈 | 光剑走廊 · Astra 上栏 |
-| --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2117914428892962817/img/PIRLbGw_4Y_kosMz.jpg" height="165" alt="地毯赛车 · 保留失败反馈">](https://carpentry-liu.github.io/awesome-astra-3d/cases/noclipepe-childhood-rug/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2118097612125450241/img/qOtvs9bC7BN_6wy3.jpg" height="165" alt="光剑走廊 · Astra 上栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/andriy-lightsaber-corridor/) |
+| 怪兽卡车 · Astra 上栏 | 小行星足球场 · Astra 上栏 | 鸡脚屋 · 建模缺陷对照 |
+| --- | --- | --- |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2118072061385900032/img/4QAd1XGdtX3XY9s4.jpg" height="165" alt="怪兽卡车 · Astra 上栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/olo-monster-truck/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2117953378525274112/img/2SXx5ebvtHRwPx-h.jpg" height="165" alt="小行星足球场 · Astra 上栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/ninja-asteroid-stadium/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2117949553009741824/img/nPldMsxCX69-emW0.jpg" height="165" alt="鸡脚屋 · 建模缺陷对照">](https://carpentry-liu.github.io/awesome-astra-3d/cases/max-baba-yaga-house/) |
 
-[观看完整录像](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video&order=newest#collection) · [下载原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-05)
+[观看完整录像](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video&order=newest#collection) · [下载原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-06)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
+| [开顶天文台里的黄铜望远镜](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-observatory-telescope/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2118527878942106036) |
+| [海边观测台的发光浑天仪](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-armillary-sphere/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2118259327106687253) |
+| [接住山村水流的木制水车](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-village-waterwheel/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2118190769463038119) |
+| [怪兽卡车的三维碾压表演](https://carpentry-liu.github.io/awesome-astra-3d/cases/olo-monster-truck/) | Olo Polo / @olo_polo13 | [原始来源](https://x.com/olo_polo13/status/2118072310183887069) |
+| [漂浮小行星上的像素足球场](https://carpentry-liu.github.io/awesome-astra-3d/cases/ninja-asteroid-stadium/) | NinjaCodex / @N1njaCodex | [原始来源](https://x.com/N1njaCodex/status/2117953463753597211) |
+| [芭芭雅嘎鸡脚屋：保留建模缺陷](https://carpentry-liu.github.io/awesome-astra-3d/cases/max-baba-yaga-house/) | Max / @maxt3chno | [原始来源](https://x.com/maxt3chno/status/2117949666448883731) |
 | [海湾里舒展的透明水母](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-coastal-jellyfish/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2117942156472308140) |
 | [阳光钟楼里的摇摆铜钟](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-bronze-bell/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2117896308472385787) |
-| [Codex 对话设备的外壳设计](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-codex-device-enclosure/) | OpenAI | [原始来源](https://openai.com/index/accelerating-engineering-for-the-physical-world/) |
-| [童年道路地毯上的玩具赛车](https://carpentry-liu.github.io/awesome-astra-3d/cases/noclipepe-childhood-rug/) | noclipepe / @noclipepe | [原始来源](https://x.com/noclipepe/status/2117914944410628430) |
-| [科幻走廊里的光剑近战](https://carpentry-liu.github.io/awesome-astra-3d/cases/andriy-lightsaber-corridor/) | AndrIy / @Andr1ycp | [原始来源](https://x.com/Andr1ycp/status/2118097668190896301) |
-| [Ruby Ascent 海岸火箭发射](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-ruby-ascent/) | Tony / @EnvolDev | [原始来源](https://x.com/EnvolDev/status/2117294843877888303) |
-| [液态金属包裹的未来球鞋](https://carpentry-liu.github.io/awesome-astra-3d/cases/esc-liquid-metal-sneaker/) | ESC AI / @ESC__AI | [原始来源](https://x.com/ESC__AI/status/2117365050138567112) |
-| [糖面包山的体素搭建过程](https://carpentry-liu.github.io/awesome-astra-3d/cases/lilo-voxel-modeling/) | Lilo Bench / @lilobench | [原始来源](https://x.com/lilobench/status/2117376203665367221) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)
