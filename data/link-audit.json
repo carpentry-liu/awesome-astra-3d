@@ -26529,6 +26529,333 @@
           "visuallyReviewed": true
         }
       ]
+    },
+    {
+      "checkedAt": "2026-11-08",
+      "round": "daily",
+      "scope": "Six original X posts, two pinned creator repositories and eight actual outcome previews.",
+      "addedCaseIds": [
+        "satsuki-amusement-park",
+        "teddy-ivory-skyship",
+        "teddy-fresnel-lighthouse",
+        "frostline-cable-rescue",
+        "one2x-blender-spider",
+        "cfeng-eiffel-tower",
+        "teddy-neon-tram",
+        "andriy-mini-golf"
+      ],
+      "removedCaseIds": [],
+      "sourceChecks": [
+        {
+          "caseId": "andriy-mini-golf",
+          "sourceUrl": "https://x.com/Andr1ycp/status/2119118596202979727",
+          "bytes": 105094,
+          "sha256": "7ffe7dfa9ed32446d9f30722231db98d9d859974f36feab3e747648c98937fd1",
+          "createdAtShanghai": "2026-11-08T01:23:39+08:00",
+          "selectedMediaId": "2119118536190590977",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-ivory-skyship",
+          "sourceUrl": "https://x.com/teddyaisi/status/2118960786353836161",
+          "bytes": 112945,
+          "sha256": "ab6daecc8e2058dfa28fbfc7ff4e77ec6778230fb2160b1270367b3256828f81",
+          "createdAtShanghai": "2026-11-07T14:56:34+08:00",
+          "selectedMediaId": "2118960658083729408",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-fresnel-lighthouse",
+          "sourceUrl": "https://x.com/teddyaisi/status/2118812488032715126",
+          "bytes": 114583,
+          "sha256": "d1f8ab9934bb828cb248f7580ca8ba36b1f5dd24d96c7804da74732b8f75f736",
+          "createdAtShanghai": "2026-11-07T05:07:17+08:00",
+          "selectedMediaId": "2118812432781225984",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "one2x-blender-spider",
+          "sourceUrl": "https://x.com/One2xDatalab/status/2118734639737258439",
+          "bytes": 126367,
+          "sha256": "8dfcbe2291c38774bf2ad5366b6deaf69a71efb19e8eccd82bc283dd3df734d6",
+          "createdAtShanghai": "2026-11-06T23:57:56+08:00",
+          "selectedMediaId": "2118734503107801088",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-neon-tram",
+          "sourceUrl": "https://x.com/teddyaisi/status/2118636567648715060",
+          "bytes": 137768,
+          "sha256": "7e84c345ad6e20ae6891c9298b4df794c0e4637200c2e29518081f642f54b6fd",
+          "createdAtShanghai": "2026-11-06T17:28:14+08:00",
+          "selectedMediaId": "2118636328736997376",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "cfeng-eiffel-tower",
+          "sourceUrl": "https://x.com/cfenghub/status/2119040166744527184",
+          "bytes": 141241,
+          "sha256": "4b9a10d0832af8ab93fe56415c547d21da27346f7b07bdd65f79cd7b0cd751ab",
+          "createdAtShanghai": "2026-11-07T20:12:00+08:00",
+          "selectedMediaId": "2119033880712040448",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        }
+      ],
+      "repositoryChecks": [
+        {
+          "caseId": "satsuki-amusement-park",
+          "sourceUrl": "https://github.com/satsuki-c6s/ai-3d-amusement-park",
+          "commit": "aa9ffcb9ec054db631be5848b4b067468c0f63a8",
+          "docs": [
+            {
+              "url": "https://raw.githubusercontent.com/satsuki-c6s/ai-3d-amusement-park/aa9ffcb9ec054db631be5848b4b067468c0f63a8/README.md",
+              "httpStatus": 200,
+              "contentType": "text/plain",
+              "bytes": 2279,
+              "sha256": "0dc7e2d1edfa9e0b2b858a99d91584eb3fb145a37ebfd8c7a22c7e626c76dab7",
+              "fullGet": true,
+              "path": "README.md"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/satsuki-c6s/ai-3d-amusement-park/aa9ffcb9ec054db631be5848b4b067468c0f63a8/prompt.txt",
+              "httpStatus": 200,
+              "contentType": "text/plain",
+              "bytes": 2584,
+              "sha256": "9c5b0ac32b2632bbf78e970994e157a4a990b06e93170175afb78451aa584428",
+              "fullGet": true,
+              "path": "prompt.txt"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/satsuki-c6s/ai-3d-amusement-park/aa9ffcb9ec054db631be5848b4b067468c0f63a8/astra-1.html",
+              "httpStatus": 200,
+              "contentType": "text/plain",
+              "bytes": 42290,
+              "sha256": "e645f92ebc3fe905c01a8fa3eb9866523230941195f560f3f42049f309e4ecd0",
+              "fullGet": true,
+              "path": "astra-1.html"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/satsuki-c6s/ai-3d-amusement-park/aa9ffcb9ec054db631be5848b4b067468c0f63a8/astra-2.html",
+              "httpStatus": 200,
+              "contentType": "text/plain",
+              "bytes": 46705,
+              "sha256": "1bbb7fd41596009bd987793965265e3e718e70a7b90e0d8633d51f243dc7f1c8",
+              "fullGet": true,
+              "path": "astra-2.html"
+            }
+          ]
+        },
+        {
+          "caseId": "frostline-cable-rescue",
+          "sourceUrl": "https://github.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue",
+          "commit": "8a8b035b04c3aa080088abac2c1baf091d9446d8",
+          "docs": [
+            {
+              "url": "https://raw.githubusercontent.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue/8a8b035b04c3aa080088abac2c1baf091d9446d8/README.md",
+              "httpStatus": 200,
+              "contentType": "text/plain",
+              "bytes": 4353,
+              "sha256": "957856d2fb9bc590a0e7bc9ed3b5bcb73580b7126da24b75a5fdba884c5622cf",
+              "fullGet": true,
+              "path": "README.md"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue/8a8b035b04c3aa080088abac2c1baf091d9446d8/Documentation/%E9%AA%8C%E8%AF%81%E6%8A%A5%E5%91%8A.md",
+              "httpStatus": 200,
+              "contentType": "text/plain",
+              "bytes": 3586,
+              "sha256": "8882b68488327d929879fc67126ed0a60f3bd8c051d2a0c6083b33cb2706e2c3",
+              "fullGet": true,
+              "path": "Documentation/验证报告.md"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue/8a8b035b04c3aa080088abac2c1baf091d9446d8/shots/new/vegetation-02/performance.txt",
+              "httpStatus": 200,
+              "contentType": "text/plain",
+              "bytes": 408,
+              "sha256": "0c1e6d2013300997f32e23b850f50b51be62c4af8f6861a9206a5322a88faf00",
+              "fullGet": true,
+              "path": "shots/new/vegetation-02/performance.txt"
+            }
+          ]
+        }
+      ],
+      "previewChecks": [
+        {
+          "url": "https://raw.githubusercontent.com/satsuki-c6s/ai-3d-amusement-park/aa9ffcb9ec054db631be5848b4b067468c0f63a8/astra-1.gif",
+          "httpStatus": 200,
+          "contentType": "image/gif",
+          "bytes": 706745,
+          "sha256": "801f2f7d956b6c29fde29ed567bcd6aeb0469b7cecee0830b1bb5e2c7dc06f53",
+          "fullGet": true,
+          "caseId": "satsuki-amusement-park",
+          "sourceUrl": "https://github.com/satsuki-c6s/ai-3d-amusement-park",
+          "dimensions": [
+            640,
+            360
+          ],
+          "frames": 88,
+          "decoded": true,
+          "actualImageFormat": "GIF",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "teddy-ivory-skyship",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2118960658083729408/img/OEtTNmTVvW0XC7_Q.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 115047,
+          "sha256": "c1c74cebd41af96daf2f24fff5ceacbf9a9bc1792e93ea96118b7713e339a70b",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2118960786353836161",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "teddy-fresnel-lighthouse",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2118812432781225984/img/SrLJK_Bo0-Cw1noK.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 175196,
+          "sha256": "435fa0b615ba0299938d7d70a2c2bc05f79486b6217901e29fa3348329fad034",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2118812488032715126",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue/8a8b035b04c3aa080088abac2c1baf091d9446d8/shots/new/vegetation-02/mission-0.png",
+          "httpStatus": 200,
+          "contentType": "image/png",
+          "bytes": 2798801,
+          "sha256": "413a991e105c0f59ec63fcd28cdf4f0711861902cfdce5df1b0fdfe1c50e2dbf",
+          "fullGet": true,
+          "caseId": "frostline-cable-rescue",
+          "sourceUrl": "https://github.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "frames": 1,
+          "decoded": true,
+          "actualImageFormat": "PNG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "one2x-blender-spider",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2118734503107801088/img/KjRWLq4bfejY7nZl.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 132031,
+          "sha256": "d88695f31bd158fbd19aa252273714bfae0815a1b03f17c7e5ad3c030cc74359",
+          "dimensions": [
+            900,
+            1200
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/One2xDatalab/status/2118734639737258439",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "cfeng-eiffel-tower",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2119033880712040448/img/iGBUQAUeP97QOM3Q.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 211756,
+          "sha256": "b4bbeeee5d7ebe36d418c19183346feb5c55dd2aec0055444407006dad225262",
+          "dimensions": [
+            1001,
+            1200
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/cfenghub/status/2119040166744527184",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "teddy-neon-tram",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2118636328736997376/img/gqZeUPrEBZie8t4G.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 129838,
+          "sha256": "2f8ef8f8c1a3b1e472a8bcecba6d2197364e82bf1c0944a6de51fbdd96f9723f",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2118636567648715060",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "andriy-mini-golf",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2119118536190590977/img/Klu-iysxj9Htmyaz.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 96121,
+          "sha256": "ada8c77e10282b4f92baf0381593afd3f0c1303f2d94bc6b8bc5de9c1cca0116",
+          "dimensions": [
+            893,
+            1200
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/Andr1ycp/status/2119118596202979727",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        }
+      ]
     }
   ]
 }

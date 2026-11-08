@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-11-06 (Asia/Shanghai)** · **443 Astra examples** · **119 source / project links** · **132 demo links** · **228 complete videos** · **12 separate references**.
+Updated **2026-11-08 (Asia/Shanghai)** · **451 Astra examples** · **121 source / project links** · **133 demo links** · **234 complete videos** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -44,18 +44,18 @@ Select a title or image to open the creator's demo directly. Case pages retain s
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-11-06.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-11-08.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Website screenshots were refreshed on **November 6, 2026** from the current local production build. See the creator previews and latest additions below for this update. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Website screenshots were refreshed on **November 8, 2026** from the current local production build. See the creator previews and latest additions below for this update. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
-<summary>Gallery, mobile and case screenshots · November 6, 2026</summary>
+<summary>Gallery, mobile and case screenshots · November 8, 2026</summary>
 
-[![Gallery filters and more works](docs/media/collection-2026-11-06.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Gallery filters and more works](docs/media/collection-2026-11-08.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-11-06.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-11-08.jpg)
 
-[![Opening observatory — WebGL telescope comparison](docs/media/case-2026-11-06.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-observatory-telescope/)
+[![Ivory skyship — WebGL comparison and complete recording](docs/media/case-2026-11-08.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-ivory-skyship/)
 
 </details>
 
@@ -63,33 +63,37 @@ Website screenshots were refreshed on **November 6, 2026** from the current loca
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The November 6 update adds **six works and six complete recordings**, published November 4–6. Explore an opening observatory, a glowing armillary sphere, a village waterwheel, a monster-truck sequence and asteroid football. A Blender Baba Yaga hut comparison retains the creator’s reported roof defects. Every preview opens its corresponding case page.
+The November 8 update adds **eight works, six complete recordings, two source projects and one live demo**. Explore Lumière Park and its day/night switch, a Unity mountain-rescue game, an ivory skyship, a Fresnel lens, a lunar spider, an Eiffel Tower tour, a neon tram and mini-golf. X posts date to November 6–8; first publication dates for the repositories remain unverified. Each preview opens its case page.
 
 <!-- atlas:update-previews:start -->
 **This update in pictures — creator works**
 
-| Observatory telescope · Astra right | Coastal armillary sphere · Astra right | Village waterwheel · Astra middle |
+| Lumière Park · source & demo | Ivory skyship · Astra right | Fresnel lens · Astra right |
 | --- | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2118527388980248576/img/fBDPLkKvCHDEQ5Io.jpg" height="165" alt="Observatory telescope · Astra right">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-observatory-telescope/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2118259296731537409/img/oZ25Lyg6ttJ-jbU4.jpg" height="165" alt="Coastal armillary sphere · Astra right">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-armillary-sphere/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2118190692732370944/img/Vzc5EQU3MBBbxdGO.jpg" height="165" alt="Village waterwheel · Astra middle">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-village-waterwheel/) |
+| [<img src="https://raw.githubusercontent.com/satsuki-c6s/ai-3d-amusement-park/aa9ffcb9ec054db631be5848b4b067468c0f63a8/astra-1.gif" height="165" alt="Lumière Park · source & demo">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/satsuki-amusement-park/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2118960658083729408/img/OEtTNmTVvW0XC7_Q.jpg" height="165" alt="Ivory skyship · Astra right">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-ivory-skyship/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2118812432781225984/img/SrLJK_Bo0-Cw1noK.jpg" height="165" alt="Fresnel lens · Astra right">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-fresnel-lighthouse/) |
 
-| Monster truck crush · Astra top | Asteroid football · Astra top | Baba Yaga hut · Modeling limits |
+| Frostline Rescue · Unity source | Moon spider · Astra top | Eiffel Tower · Astra bottom |
 | --- | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2118072061385900032/img/4QAd1XGdtX3XY9s4.jpg" height="165" alt="Monster truck crush · Astra top">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/olo-monster-truck/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2117953378525274112/img/2SXx5ebvtHRwPx-h.jpg" height="165" alt="Asteroid football · Astra top">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ninja-asteroid-stadium/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2117949553009741824/img/nPldMsxCX69-emW0.jpg" height="165" alt="Baba Yaga hut · Modeling limits">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/max-baba-yaga-house/) |
+| [<img src="https://raw.githubusercontent.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue/8a8b035b04c3aa080088abac2c1baf091d9446d8/shots/new/vegetation-02/mission-0.png" height="165" alt="Frostline Rescue · Unity source">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/frostline-cable-rescue/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2118734503107801088/img/KjRWLq4bfejY7nZl.jpg" height="165" alt="Moon spider · Astra top">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/one2x-blender-spider/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2119033880712040448/img/iGBUQAUeP97QOM3Q.jpg" height="165" alt="Eiffel Tower · Astra bottom">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/cfeng-eiffel-tower/) |
 
-[Watch the recordings](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Download originals](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-06)
+| Neon tram · Astra right | Mini-golf · Astra top |
+| --- | --- |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2118636328736997376/img/gqZeUPrEBZie8t4G.jpg" height="165" alt="Neon tram · Astra right">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-neon-tram/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2119118536190590977/img/Klu-iysxj9Htmyaz.jpg" height="165" alt="Mini-golf · Astra top">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/andriy-mini-golf/) |
+
+[Watch the recordings](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Download originals](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-08)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [A Brass Telescope in an Opening Observatory](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-observatory-telescope/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2118527878942106036) |
-| [A Glowing Armillary Sphere by the Sea](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-armillary-sphere/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2118259327106687253) |
-| [A Wooden Waterwheel in a Village Sluice](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-village-waterwheel/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2118190769463038119) |
-| [A 3D Monster Truck Crush Sequence](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/olo-monster-truck/) | Olo Polo / @olo_polo13 | [Original](https://x.com/olo_polo13/status/2118072310183887069) |
-| [Galactic Football on a Floating Asteroid](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ninja-asteroid-stadium/) | NinjaCodex / @N1njaCodex | [Original](https://x.com/N1njaCodex/status/2117953463753597211) |
-| [Baba Yaga’s Hut, with Modeling Defects Retained](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/max-baba-yaga-house/) | Max / @maxt3chno | [Original](https://x.com/maxt3chno/status/2117949666448883731) |
-| [A Translucent Jellyfish in a Coastal Bay](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-coastal-jellyfish/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2117942156472308140) |
-| [A Swinging Bronze Bell in a Sunlit Tower](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-bronze-bell/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2117896308472385787) |
+| [Lumière Park: A 3D Amusement Park in One HTML File](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/satsuki-amusement-park/) | さつき / satsuki-c6s | [Demo](https://satsuki-c6s.github.io/ai-3d-amusement-park/astra-1.html) · [Source](https://github.com/satsuki-c6s/ai-3d-amusement-park) · [Original](https://github.com/satsuki-c6s/ai-3d-amusement-park) |
+| [An Ivory Skyship Above a Floating City](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-ivory-skyship/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2118960786353836161) |
+| [A Rotating Fresnel Lens Inside a Stone Lighthouse](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-fresnel-lighthouse/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2118812488032715126) |
+| [Frostline Rescue: A Unity Crane and Cable Rescue Game](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/frostline-cable-rescue/) | ffffrrrr-cmyk | [Source](https://github.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue) · [Original](https://github.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue) |
+| [An Eight-Legged Cyber Spider on the Moon](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/one2x-blender-spider/) | One2x Datalab / @One2xDatalab | [Original](https://x.com/One2xDatalab/status/2118734639737258439) |
+| [An Eiffel Tower Tour in a Single Three.js Page](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/cfeng-eiffel-tower/) | CF长风 / @cfenghub | [Original](https://x.com/cfenghub/status/2119040166744527184) |
+| [An Elevated Tram in a Rainy Neon City](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-neon-tram/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2118636567648715060) |
+| [Low-Poly Mini-Golf in WebGL](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/andriy-mini-golf/) | AndrIy / @Andr1ycp | [Original](https://x.com/Andr1ycp/status/2119118596202979727) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

@@ -1054,6 +1054,26 @@
       "sha256": "194bbea5be33056ea053746805d90f97aa36ba4347065584792de52d6b98489c",
       "contentType": "text/html",
       "scope": "Complete author-linked HTML GET. The identical file in a local browser changed the selected colour to Zombie lime and the mood to Zapped on interaction. Live external browser navigation timed out."
+    },
+    {
+      "id": "satsuki-amusement-park",
+      "url": "https://satsuki-c6s.github.io/ai-3d-amusement-park/astra-1.html",
+      "status": 200,
+      "title": "Lumière Park",
+      "observedAt": "2026-11-08",
+      "result": "reachable",
+      "bytes": 42290,
+      "sha256": "e645f92ebc3fe905c01a8fa3eb9866523230941195f560f3f42049f309e4ecd0",
+      "contentType": "text/html",
+      "scope": "Full HTML GET and live browser rendering/day-night toggle verified. Creator checks and all controls were not independently rerun.",
+      "browserVerification": {
+        "url": "https://satsuki-c6s.github.io/ai-3d-amusement-park/astra-1.html",
+        "checkedAt": "2026-11-08",
+        "rendered": true,
+        "dayNightSwitchVerified": true,
+        "logs": [],
+        "limits": "Verified rendered scene and night toggle; did not rerun creator checks or all interactions."
+      }
     }
   ]
 }
