@@ -2,6 +2,19 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-11-08 · 8 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Lumière Park：一页 HTML 的三维游乐园 / Lumière Park: A 3D Amusement Park in One HTML File](https://carpentry-liu.github.io/awesome-astra-3d/cases/satsuki-amusement-park/) | さつき / satsuki-c6s | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [掠过云上浮城的象牙白飞艇 / An Ivory Skyship Above a Floating City](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-ivory-skyship/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [石灯塔里的旋转菲涅耳透镜 / A Rotating Fresnel Lens Inside a Stone Lighthouse](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-fresnel-lighthouse/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [霜岭索道救援：Unity 三维吊机游戏 / Frostline Rescue: A Unity Crane and Cable Rescue Game](https://carpentry-liu.github.io/awesome-astra-3d/cases/frostline-cable-rescue/) | ffffrrrr-cmyk | 源码 / 工程 |
+| [月面八足机械蜘蛛的 Blender 动画 / An Eight-Legged Cyber Spider on the Moon](https://carpentry-liu.github.io/awesome-astra-3d/cases/one2x-blender-spider/) | One2x Datalab / @One2xDatalab | 完整视频 · 提示词 / 过程 |
+| [单页 Three.js 埃菲尔铁塔导览 / An Eiffel Tower Tour in a Single Three.js Page](https://carpentry-liu.github.io/awesome-astra-3d/cases/cfeng-eiffel-tower/) | CF长风 / @cfenghub | 完整视频 · 提示词 / 过程 |
+| [雨夜霓虹城的高架电车 / An Elevated Tram in a Rainy Neon City](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-neon-tram/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [低多边形迷你高尔夫球场 / Low-Poly Mini-Golf in WebGL](https://carpentry-liu.github.io/awesome-astra-3d/cases/andriy-mini-golf/) | AndrIy / @Andr1ycp | 完整视频 · 提示词 / 过程 |
+
 ## 2026-11-06 · 6 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

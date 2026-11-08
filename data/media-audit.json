@@ -77242,6 +77242,1137 @@
           }
         ]
       }
+    },
+    {
+      "checkedAt": "2026-11-08",
+      "round": "daily",
+      "scope": "Eight new previews and six complete clips, with original and playback renditions. Historical verification is a separate sample.",
+      "addedCaseIds": [
+        "satsuki-amusement-park",
+        "teddy-ivory-skyship",
+        "teddy-fresnel-lighthouse",
+        "frostline-cable-rescue",
+        "one2x-blender-spider",
+        "cfeng-eiffel-tower",
+        "teddy-neon-tram",
+        "andriy-mini-golf"
+      ],
+      "removedCaseIds": [],
+      "previews": [
+        {
+          "url": "https://raw.githubusercontent.com/satsuki-c6s/ai-3d-amusement-park/aa9ffcb9ec054db631be5848b4b067468c0f63a8/astra-1.gif",
+          "httpStatus": 200,
+          "contentType": "image/gif",
+          "bytes": 706745,
+          "sha256": "801f2f7d956b6c29fde29ed567bcd6aeb0469b7cecee0830b1bb5e2c7dc06f53",
+          "fullGet": true,
+          "caseId": "satsuki-amusement-park",
+          "sourceUrl": "https://github.com/satsuki-c6s/ai-3d-amusement-park",
+          "dimensions": [
+            640,
+            360
+          ],
+          "frames": 88,
+          "decoded": true,
+          "actualImageFormat": "GIF",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "teddy-ivory-skyship",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2118960658083729408/img/OEtTNmTVvW0XC7_Q.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 115047,
+          "sha256": "c1c74cebd41af96daf2f24fff5ceacbf9a9bc1792e93ea96118b7713e339a70b",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2118960786353836161",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "teddy-fresnel-lighthouse",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2118812432781225984/img/SrLJK_Bo0-Cw1noK.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 175196,
+          "sha256": "435fa0b615ba0299938d7d70a2c2bc05f79486b6217901e29fa3348329fad034",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2118812488032715126",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue/8a8b035b04c3aa080088abac2c1baf091d9446d8/shots/new/vegetation-02/mission-0.png",
+          "httpStatus": 200,
+          "contentType": "image/png",
+          "bytes": 2798801,
+          "sha256": "413a991e105c0f59ec63fcd28cdf4f0711861902cfdce5df1b0fdfe1c50e2dbf",
+          "fullGet": true,
+          "caseId": "frostline-cable-rescue",
+          "sourceUrl": "https://github.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "frames": 1,
+          "decoded": true,
+          "actualImageFormat": "PNG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "one2x-blender-spider",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2118734503107801088/img/KjRWLq4bfejY7nZl.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 132031,
+          "sha256": "d88695f31bd158fbd19aa252273714bfae0815a1b03f17c7e5ad3c030cc74359",
+          "dimensions": [
+            900,
+            1200
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/One2xDatalab/status/2118734639737258439",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "cfeng-eiffel-tower",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2119033880712040448/img/iGBUQAUeP97QOM3Q.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 211756,
+          "sha256": "b4bbeeee5d7ebe36d418c19183346feb5c55dd2aec0055444407006dad225262",
+          "dimensions": [
+            1001,
+            1200
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/cfenghub/status/2119040166744527184",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "teddy-neon-tram",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2118636328736997376/img/gqZeUPrEBZie8t4G.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 129838,
+          "sha256": "2f8ef8f8c1a3b1e472a8bcecba6d2197364e82bf1c0944a6de51fbdd96f9723f",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2118636567648715060",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "andriy-mini-golf",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2119118536190590977/img/Klu-iysxj9Htmyaz.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 96121,
+          "sha256": "ada8c77e10282b4f92baf0381593afd3f0c1303f2d94bc6b8bc5de9c1cca0116",
+          "dimensions": [
+            893,
+            1200
+          ],
+          "decoded": true,
+          "fullGet": true,
+          "frames": 1,
+          "sourceUrl": "https://x.com/Andr1ycp/status/2119118596202979727",
+          "archiveOrdinal": 1,
+          "actualImageFormat": "JPEG",
+          "visuallyReviewed": true
+        }
+      ],
+      "newVideos": [
+        {
+          "caseId": "teddy-ivory-skyship",
+          "filename": "teddy-ivory-skyship-1-original.mp4",
+          "kind": "original",
+          "bytes": 976972,
+          "sha256": "cad1aa4b29b4a561c5198db1ab9c94a3ddd9a56bef5934cf53adcb8363b98568",
+          "durationSeconds": 12.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2118960786353836161",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-08/teddy-ivory-skyship-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "teddy-ivory-skyship",
+          "filename": "teddy-ivory-skyship-1-web.mp4",
+          "kind": "web",
+          "bytes": 200609,
+          "sha256": "d3728e7008440903e43cf3a11e5682a0cf36c24881ccea93d8c74d551162f8cc",
+          "durationSeconds": 12.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2118960786353836161",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-08/teddy-ivory-skyship-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "teddy-fresnel-lighthouse",
+          "filename": "teddy-fresnel-lighthouse-1-original.mp4",
+          "kind": "original",
+          "bytes": 2380476,
+          "sha256": "3cd0dd4698066d41bf42ccd0b58256e2809a20766591dfc7dab1575a4684fb05",
+          "durationSeconds": 12.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2118812488032715126",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-08/teddy-fresnel-lighthouse-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "teddy-fresnel-lighthouse",
+          "filename": "teddy-fresnel-lighthouse-1-web.mp4",
+          "kind": "web",
+          "bytes": 442708,
+          "sha256": "a5d7bfb3e5a7aaed6e4b5fa7b0650b3c09840007b2c285a395e2d192359461a8",
+          "durationSeconds": 12.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2118812488032715126",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-08/teddy-fresnel-lighthouse-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "one2x-blender-spider",
+          "filename": "one2x-blender-spider-1-original.mp4",
+          "kind": "original",
+          "bytes": 5187889,
+          "sha256": "49dd834d9eca369f004abd884fae370719655f2c9f35cad0ce7f5c47882cbfaa",
+          "durationSeconds": 12.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/One2xDatalab/status/2118734639737258439",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-08/one2x-blender-spider-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "one2x-blender-spider",
+          "filename": "one2x-blender-spider-1-web.mp4",
+          "kind": "web",
+          "bytes": 629978,
+          "sha256": "aeed2fc64123b723b3a757c287dcf505e117c4ce0026fa24b22c068cb8faced7",
+          "durationSeconds": 12.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/One2xDatalab/status/2118734639737258439",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-08/one2x-blender-spider-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "cfeng-eiffel-tower",
+          "filename": "cfeng-eiffel-tower-1-original.mp4",
+          "kind": "original",
+          "bytes": 31011113,
+          "sha256": "129fef40ec7dda74a7ddad25f377df355e5f484e4556c130e8514b869ee337b8",
+          "durationSeconds": 40.06,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/cfenghub/status/2119040166744527184",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-08/cfeng-eiffel-tower-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 40.002,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "cfeng-eiffel-tower",
+          "filename": "cfeng-eiffel-tower-1-web.mp4",
+          "kind": "web",
+          "bytes": 2962460,
+          "sha256": "6be23000e1d14739bb5cc9b8eceb9002ef70fc510a65bbec8644c7b9623e1b03",
+          "durationSeconds": 40.06,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/cfenghub/status/2119040166744527184",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-08/cfeng-eiffel-tower-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 40.002,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "teddy-neon-tram",
+          "filename": "teddy-neon-tram-1-original.mp4",
+          "kind": "original",
+          "bytes": 1949926,
+          "sha256": "93b34f95e956fb653eca9a610961d6ac29962bdd459093153f1c05985940b59b",
+          "durationSeconds": 12.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2118636567648715060",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-08/teddy-neon-tram-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "teddy-neon-tram",
+          "filename": "teddy-neon-tram-1-web.mp4",
+          "kind": "web",
+          "bytes": 402907,
+          "sha256": "62185365b56c27363834e9f124175d0d4a1c28a3c26afdc610d0712211b35e0a",
+          "durationSeconds": 12.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2118636567648715060",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-08/teddy-neon-tram-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "andriy-mini-golf",
+          "filename": "andriy-mini-golf-1-original.mp4",
+          "kind": "original",
+          "bytes": 4553855,
+          "sha256": "9023276f5db8f76e49315c82cd3d9831be58c6c422f7e10f31835b5d8a6a26e3",
+          "durationSeconds": 12.05,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/Andr1ycp/status/2119118596202979727",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-08/andriy-mini-golf-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "andriy-mini-golf",
+          "filename": "andriy-mini-golf-1-web.mp4",
+          "kind": "web",
+          "bytes": 733940,
+          "sha256": "bccd42f49f3277add9360a1ee72c0b27ff1b68180908c524592ec14031120e72",
+          "durationSeconds": 12.05,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/Andr1ycp/status/2119118596202979727",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-08/andriy-mini-golf-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        }
+      ],
+      "historicalChecks": {
+        "images": [
+          {
+            "caseId": "teddy-observatory-telescope",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2118527388980248576/img/fBDPLkKvCHDEQ5Io.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-08T01:30:35.721968+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 156230,
+            "bytes": 156230,
+            "sha256": "a3bc1085e886feb99a65d374f0d25e2197dae93f547b2670d8dc1f6870c3d8dc",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-armillary-sphere",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2118259296731537409/img/oZ25Lyg6ttJ-jbU4.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-08T01:30:35.723400+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 162656,
+            "bytes": 162656,
+            "sha256": "5ad8c9ecc3d0f3dccd4751b6534a613decc0bbbf5ad9834c189fda75aa12ebaf",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-village-waterwheel",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2118190692732370944/img/Vzc5EQU3MBBbxdGO.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-08T01:30:35.724046+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 147036,
+            "bytes": 147036,
+            "sha256": "aadd2ffa1c3c8eb97f000c4d67bb83bedbe4f90c7c30e638f93e50bde5daf988",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "olo-monster-truck",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2118072061385900032/img/4QAd1XGdtX3XY9s4.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-08T01:30:35.724430+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 177254,
+            "bytes": 177254,
+            "sha256": "ac1008b42fa61c1f242cc6fe8fee56308f9a95b1605847fad00b1aa25431d69e",
+            "dimensions": [
+              1064,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "ninja-asteroid-stadium",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2117953378525274112/img/2SXx5ebvtHRwPx-h.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-08T01:30:35.725331+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 130536,
+            "bytes": 130536,
+            "sha256": "a4093838218355df1056c0cf40c9a13ece44ee4af602cd530755da85ad704e55",
+            "dimensions": [
+              960,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "max-baba-yaga-house",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2117949553009741824/img/nPldMsxCX69-emW0.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-08T01:30:36.948436+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 131599,
+            "bytes": 131599,
+            "sha256": "c7273ee1485637431e8bd46d72f85337335d63460119e2a4d66c5481ca5b5205",
+            "dimensions": [
+              1200,
+              768
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-coastal-jellyfish",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2117941677147246592/img/AE3Kf1d9WkZsmT3L.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-08T01:30:36.970146+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 105838,
+            "bytes": 105838,
+            "sha256": "a7e9f1c0d819c303d334fe1cf1134351ffac93d44db7f530f09dcde7cc053054",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-bronze-bell",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2117896181485604864/img/SPATaSIQ3dPKKubQ.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-08T01:30:37.031989+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 148079,
+            "bytes": 148079,
+            "sha256": "c40adb55b61923fd5f3a18eac721e676e707f926258fd28291b87a9caeec5d7d",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "openai-codex-device-enclosure",
+            "url": "https://images.ctfassets.net/kftzwdyauwt9/5aP4AhwHhDUmDxisSLcb2X/12114476f73d643b73dffe90b819cc0c/prototype-device-enclosure-diagram.png",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-08T01:30:37.040219+00:00",
+            "status": 200,
+            "contentType": "image/png",
+            "contentLength": 1506841,
+            "bytes": 1506841,
+            "sha256": "9550fb2d390e58a902a23a3fa3bdd7f900937ca8d11826336779122e91bf49e6",
+            "dimensions": [
+              7017,
+              4963
+            ],
+            "format": "PNG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "noclipepe-childhood-rug",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2117914428892962817/img/PIRLbGw_4Y_kosMz.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-08T01:30:37.428856+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 163402,
+            "bytes": 163402,
+            "sha256": "24d8ea7644cbe19947c8c53a9aa7691742c8b8282d47f8551703423f270821b0",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "andriy-lightsaber-corridor",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2118097612125450241/img/qOtvs9bC7BN_6wy3.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-08T01:30:38.198339+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 137099,
+            "bytes": 137099,
+            "sha256": "8be28b56b16c1ce28c95d9152ff658e8ad9e7526144686e0b18684bfa08dd2c5",
+            "dimensions": [
+              893,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "vib3coded-chalk-square-comparison",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2113601799215108097/img/NlxhpC135VtcLGkI.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-08T01:30:38.218671+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 111631,
+            "bytes": 111631,
+            "sha256": "2c807caf73920fff28ce7ba56647853f52db15276311b85ec6e88d7f29f8bda9",
+            "dimensions": [
+              948,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "itznomadic-gemera-collaboration",
+            "url": "https://raw.githubusercontent.com/ITzNomadic/koenigsegg-gemera-blender/main/renders_4k/01_Gemera_Front_ThreeQuarter_4K.png",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-08T01:30:38.384968+00:00",
+            "status": 200,
+            "contentType": "image/png",
+            "contentLength": 5896084,
+            "bytes": 5896084,
+            "sha256": "943da3c06f7c3cb26bb642e9d54cfea9341f7e073ecfaf778af8af5035277739",
+            "dimensions": [
+              3840,
+              2160
+            ],
+            "format": "PNG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "maker-evan-apache",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2108456490931757056/img/-6_KMXSmRh3iOUOw.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-08T01:30:38.894942+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 132885,
+            "bytes": 132885,
+            "sha256": "fd8142675f34e3f821c50b1c40d77c14511da5856c49286395ea2a89c2ace83d",
+            "dimensions": [
+              890,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "polta-kureha-car-print",
+            "url": "https://assets.st-note.com/img/1790166407-SI216Nry9jECzDofZALqaciQ.png?width=1200",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-08T01:30:39.017109+00:00",
+            "status": 200,
+            "contentType": "image/png",
+            "contentLength": 90878,
+            "bytes": 90878,
+            "sha256": "a8614ba3987bfe4fd76efdb1385ec4a747d2e30c4319f9399068f21d1994b2e3",
+            "dimensions": [
+              1200,
+              632
+            ],
+            "format": "PNG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "usnul-old-circle",
+            "url": "https://canada1.discourse-cdn.com/flex035/uploads/threejs/original/3X/9/e/9ea420c0428450136648e842ad208b0fdab46f80.jpeg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-08T01:30:39.418479+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 230615,
+            "bytes": 230615,
+            "sha256": "d5736afa044bac56a51083b246eaff95ec5cb79798dffbfecba75fbce4b1d3b2",
+            "dimensions": [
+              1440,
+              900
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "simonw-pluribus-egg",
+            "url": "https://static.simonwillison.net/static/2026/pluribus-blender-viewer.webp",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-08T01:30:39.439924+00:00",
+            "status": 200,
+            "contentType": "image/webp",
+            "contentLength": 78424,
+            "bytes": 78424,
+            "sha256": "ca854b85ded6469a824015e1451f0aebee458492662384b4021899cd3ab14d12",
+            "dimensions": [
+              1327,
+              934
+            ],
+            "format": "WEBP",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "lexn-verdant-forest",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2096262956774490112/img/9UcY8pI6LuZ8v2c_.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-08T01:30:40.332969+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 206473,
+            "bytes": 206473,
+            "sha256": "e1df4bba9522e440942d2a20884b993ed9c5ba110050acea74d675401a6d213a",
+            "dimensions": [
+              1200,
+              750
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "yuanyang-softie-webgpu",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2096792079976554496/img/3POcd351G7kC4jze.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-08T01:30:40.559284+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 61065,
+            "bytes": 61065,
+            "sha256": "2b9776e1ae5bd4dbe8a5cadbd9906196c520df3b623a868e2915de78a6fb9425",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "aibattle-sonic-godot",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2095992908448944130/img/v8BSAp4Xt5knPeV0.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-08T01:30:40.846538+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 156398,
+            "bytes": 156398,
+            "sha256": "98895f9ea13b5768341dde1695a82687f878f44f3ecd3dca38a5487483ed8f59",
+            "dimensions": [
+              900,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          }
+        ],
+        "videoEndpoints": [
+          {
+            "caseId": "teddy-observatory-telescope",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-observatory-telescope-1-web.mp4",
+            "expectedBytes": 244257,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-08T01:30:42.191645+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/244257",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "teddy-observatory-telescope",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-06/teddy-observatory-telescope-1-original.mp4",
+            "expectedBytes": 1021476,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-08T01:30:42.193665+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/1021476",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "teddy-armillary-sphere",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-armillary-sphere-1-web.mp4",
+            "expectedBytes": 431955,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-08T01:30:42.192651+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/431955",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "teddy-armillary-sphere",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-06/teddy-armillary-sphere-1-original.mp4",
+            "expectedBytes": 1794046,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-08T01:30:42.192239+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/1794046",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "teddy-village-waterwheel",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-village-waterwheel-1-web.mp4",
+            "expectedBytes": 666960,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-08T01:30:42.192982+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/666960",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "teddy-village-waterwheel",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-06/teddy-village-waterwheel-1-original.mp4",
+            "expectedBytes": 2256129,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-08T01:30:42.962493+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/2256129",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "sourish-mri-brain",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/sourish-mri-brain-1-web.mp4",
+            "expectedBytes": 1069156,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-08T01:30:42.982985+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/1069156",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "sourish-mri-brain",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-06/sourish-mri-brain-1-original.mp4",
+            "expectedBytes": 5318368,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-08T01:30:43.210828+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/5318368",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "aibattle-sonic-godot",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/aibattle-sonic-godot-1-web.mp4",
+            "expectedBytes": 8289737,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-08T01:30:43.736664+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/8289737",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "aibattle-sonic-godot",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-06/aibattle-sonic-godot-1-original.mp4",
+            "expectedBytes": 26328880,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-08T01:30:43.757346+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/26328880",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          }
+        ],
+        "conclusion": {
+          "checkedImages": 20,
+          "decodedImages": 20,
+          "checkedVideoCases": 5,
+          "checkedVideoEndpoints": 10,
+          "verifiedVideoEndpoints": 10,
+          "failures": [],
+          "limits": "Historical videos were not downloaded or replayed in full. Image decode and bounded video endpoints only."
+        }
+      },
+      "browserVerification": {
+        "environment": "Local production build with SHA-256 checked playback files",
+        "playback": [
+          {
+            "id": "teddy-ivory-skyship",
+            "ordinal": 1,
+            "from": 0,
+            "duration": 12,
+            "ended": true,
+            "readyState": 4,
+            "error": null,
+            "currentTime": 12,
+            "filename": "teddy-ivory-skyship-1-web.mp4"
+          },
+          {
+            "id": "cfeng-eiffel-tower",
+            "ordinal": 1,
+            "from": 0,
+            "duration": 40.064,
+            "ended": true,
+            "readyState": 4,
+            "error": null,
+            "currentTime": 40.064,
+            "filename": "cfeng-eiffel-tower-1-web.mp4"
+          },
+          {
+            "id": "teddy-fresnel-lighthouse",
+            "ordinal": 1,
+            "from": 0,
+            "duration": 12,
+            "ended": true,
+            "readyState": 4,
+            "error": null,
+            "currentTime": 12,
+            "filename": "teddy-fresnel-lighthouse-1-web.mp4"
+          },
+          {
+            "id": "one2x-blender-spider",
+            "ordinal": 1,
+            "from": 0,
+            "duration": 12,
+            "ended": true,
+            "readyState": 4,
+            "error": null,
+            "currentTime": 12,
+            "filename": "one2x-blender-spider-1-web.mp4"
+          },
+          {
+            "id": "teddy-neon-tram",
+            "ordinal": 1,
+            "from": 0,
+            "duration": 12,
+            "ended": true,
+            "readyState": 4,
+            "error": null,
+            "currentTime": 12,
+            "filename": "teddy-neon-tram-1-web.mp4"
+          },
+          {
+            "id": "andriy-mini-golf",
+            "ordinal": 1,
+            "from": 0,
+            "duration": 12.051156,
+            "ended": true,
+            "readyState": 4,
+            "error": null,
+            "currentTime": 12.051156,
+            "filename": "andriy-mini-golf-1-web.mp4"
+          }
+        ],
+        "desktopNewPreviewWidths": [
+          640,
+          1200,
+          1200,
+          1920,
+          900,
+          1001,
+          1200,
+          893
+        ],
+        "desktopFeaturedPreviewWidths": [
+          1200,
+          1440,
+          1920,
+          1920,
+          2048,
+          1600
+        ],
+        "testedViewportWidths": [
+          1440,
+          390,
+          320
+        ],
+        "mobileVideoFilterLanguageAndClearVerified": true,
+        "preDeploymentModal": {
+          "caseId": "teddy-ivory-skyship",
+          "legacyHashOpens": true,
+          "expectedUnavailablePublicVideo": true,
+          "outcome": "New public playback file is not deployed yet; visible image fallback and original download remain available."
+        },
+        "horizontalOverflow": false,
+        "consoleWarnings": 0,
+        "consoleErrors": 0,
+        "screenshots": [
+          {
+            "asset": "docs/media/homepage-2026-11-08.jpg",
+            "captureViewport": [
+              1440,
+              1100
+            ],
+            "pixelDimensions": [
+              1425,
+              1089
+            ],
+            "bytes": 180895,
+            "sha256": "d11ccbb4709ca69c0c27edcb3bdfa803f96be52e3d379d68c7cec3192f7ac401"
+          },
+          {
+            "asset": "docs/media/collection-2026-11-08.jpg",
+            "captureViewport": [
+              1440,
+              1100
+            ],
+            "pixelDimensions": [
+              1425,
+              1089
+            ],
+            "bytes": 178285,
+            "sha256": "682bd079773126e285da0404ac99df3da50306a3cdb749148a22bea8324f07c8"
+          },
+          {
+            "asset": "docs/media/mobile-2026-11-08.jpg",
+            "captureViewport": [
+              390,
+              844
+            ],
+            "pixelDimensions": [
+              375,
+              812
+            ],
+            "bytes": 45680,
+            "sha256": "c3ecfe389f83e8ea0753d02f5ccdac9d240548efed8b79877ed3e0e14efebdee"
+          },
+          {
+            "asset": "docs/media/case-2026-11-08.jpg",
+            "captureViewport": [
+              1440,
+              1100
+            ],
+            "pixelDimensions": [
+              1425,
+              1089
+            ],
+            "bytes": 119317,
+            "sha256": "3e1ac430b222dc95abed6e33f380d28d0536655a00717d4103a424e3b9845ba2"
+          }
+        ]
+      }
     }
   ]
 }

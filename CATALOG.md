@@ -1,13 +1,18 @@
 # 案例目录
 
-由 `data/cases.json` 生成。最近核查：2026-11-06。[上手路线](START_HERE.md) · [最新收录](UPDATES.md)。作品归属基于公开来源，不代表独立复现。
+由 `data/cases.json` 生成。最近核查：2026-11-08。[上手路线](START_HERE.md) · [最新收录](UPDATES.md)。作品归属基于公开来源，不代表独立复现。
 
-## GPT-6 Astra 案例（443）
+## GPT-6 Astra 案例（451）
 
 ### 程序化场景
 
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
+| [Lumière Park：一页 HTML 的三维游乐园](https://github.com/satsuki-c6s/ai-3d-amusement-park) | さつき / satsuki-c6s · GitHub | 作者自述 | [在线作品](https://satsuki-c6s.github.io/ai-3d-amusement-park/astra-1.html) · [源码](https://github.com/satsuki-c6s/ai-3d-amusement-park) · [提示词/过程](https://github.com/satsuki-c6s/ai-3d-amusement-park/blob/aa9ffcb9ec054db631be5848b4b067468c0f63a8/prompt.txt) |
+| [掠过云上浮城的象牙白飞艇](https://x.com/teddyaisi/status/2118960786353836161) | Teddy / @teddyaisi · X | 作者自述 | [视频](https://x.com/teddyaisi/status/2118960786353836161) · [提示词/过程](https://x.com/teddyaisi/status/2118960786353836161) |
+| [石灯塔里的旋转菲涅耳透镜](https://x.com/teddyaisi/status/2118812488032715126) | Teddy / @teddyaisi · X | 作者自述 | [视频](https://x.com/teddyaisi/status/2118812488032715126) · [提示词/过程](https://x.com/teddyaisi/status/2118812488032715126) |
+| [单页 Three.js 埃菲尔铁塔导览](https://x.com/cfenghub/status/2119040166744527184) | CF长风 / @cfenghub · X | 作者自述 | [视频](https://x.com/cfenghub/status/2119040166744527184) · [提示词/过程](https://x.com/cfenghub/status/2119040166744527184) |
+| [雨夜霓虹城的高架电车](https://x.com/teddyaisi/status/2118636567648715060) | Teddy / @teddyaisi · X | 作者自述 | [视频](https://x.com/teddyaisi/status/2118636567648715060) · [提示词/过程](https://x.com/teddyaisi/status/2118636567648715060) |
 | [开顶天文台里的黄铜望远镜](https://x.com/teddyaisi/status/2118527878942106036) | Teddy / @teddyaisi · X | 作者自述 | [视频](https://x.com/teddyaisi/status/2118527878942106036) · [提示词/过程](https://x.com/teddyaisi/status/2118527878942106036) |
 | [海边观测台的发光浑天仪](https://x.com/teddyaisi/status/2118259327106687253) | Teddy / @teddyaisi · X | 作者自述 | [视频](https://x.com/teddyaisi/status/2118259327106687253) · [提示词/过程](https://x.com/teddyaisi/status/2118259327106687253) |
 | [接住山村水流的木制水车](https://x.com/teddyaisi/status/2118190769463038119) | Teddy / @teddyaisi · X | 作者自述 | [视频](https://x.com/teddyaisi/status/2118190769463038119) · [提示词/过程](https://x.com/teddyaisi/status/2118190769463038119) |
@@ -82,6 +87,8 @@
 
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
+| [霜岭索道救援：Unity 三维吊机游戏](https://github.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue) | ffffrrrr-cmyk · GitHub | 作者自述 | [源码](https://github.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue) |
+| [低多边形迷你高尔夫球场](https://x.com/Andr1ycp/status/2119118596202979727) | AndrIy / @Andr1ycp · X | 作者自述 | [视频](https://x.com/Andr1ycp/status/2119118596202979727) · [提示词/过程](https://x.com/Andr1ycp/status/2119118596202979727) |
 | [漂浮小行星上的像素足球场](https://x.com/N1njaCodex/status/2117953463753597211) | NinjaCodex / @N1njaCodex · X | 作者自述 | [视频](https://x.com/N1njaCodex/status/2117953463753597211) · [提示词/过程](https://x.com/N1njaCodex/status/2117953463753597211) |
 | [童年道路地毯上的玩具赛车](https://x.com/noclipepe/status/2117914944410628430) | noclipepe / @noclipepe · X | 作者自述 | [视频](https://x.com/noclipepe/status/2117914944410628430) · [提示词/过程](https://x.com/noclipepe/status/2117914944410628430) |
 | [科幻走廊里的光剑近战](https://x.com/Andr1ycp/status/2118097668190896301) | AndrIy / @Andr1ycp · X | 作者自述 | [视频](https://x.com/Andr1ycp/status/2118097668190896301) · [提示词/过程](https://x.com/Andr1ycp/status/2118097668190896301) |
@@ -182,6 +189,7 @@
 
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
+| [月面八足机械蜘蛛的 Blender 动画](https://x.com/One2xDatalab/status/2118734639737258439) | One2x Datalab / @One2xDatalab · X | 作者自述 | [视频](https://x.com/One2xDatalab/status/2118734639737258439) · [提示词/过程](https://x.com/One2xDatalab/status/2118734639737258439) |
 | [芭芭雅嘎鸡脚屋：保留建模缺陷](https://x.com/maxt3chno/status/2117949666448883731) | Max / @maxt3chno · X | 作者自述 | [视频](https://x.com/maxt3chno/status/2117949666448883731) · [提示词/过程](https://x.com/maxt3chno/status/2117949666448883731) |
 | [阿尔卑斯湖泊：四种 Blender 工作流对照](https://x.com/Lummox_eth/status/2115164427657904336) | Lummox / @Lummox_eth · X | 作者自述 | [视频](https://x.com/Lummox_eth/status/2115164427657904336) · [提示词/过程](https://x.com/Lummox_eth/status/2115164427657904336) |
 | [暴风雨灯塔：Blender 中的光束与海浪](https://x.com/ivanainai/status/2115204470573351126) | Ivana / @ivanainai · X | 作者自述 | [视频](https://x.com/ivanainai/status/2115204470573351126) · [提示词/过程](https://x.com/ivanainai/status/2115204470573351126) |

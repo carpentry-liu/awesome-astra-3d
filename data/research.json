@@ -12566,6 +12566,308 @@
       "newMediaFiles": 12,
       "newMediaBytes": 62127231,
       "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-06"
+    },
+    {
+      "observedAt": "2026-11-08",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "baselineCommit": "f155c0e74700840a7c056adba0905ca571385c15",
+      "baselineCount": 455,
+      "resultingCount": 463,
+      "addedCaseIds": [
+        "satsuki-amusement-park",
+        "teddy-ivory-skyship",
+        "teddy-fresnel-lighthouse",
+        "frostline-cable-rescue",
+        "one2x-blender-spider",
+        "cfeng-eiffel-tower",
+        "teddy-neon-tram",
+        "andriy-mini-golf"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "coverage": [
+        {
+          "id": "satsuki-amusement-park",
+          "sourceDate": null,
+          "sourceUrl": "https://github.com/satsuki-c6s/ai-3d-amusement-park",
+          "modelLabel": "GPT-6 Astra · Three.js r169"
+        },
+        {
+          "id": "teddy-ivory-skyship",
+          "sourceDate": "2026-11-07",
+          "sourceUrl": "https://x.com/teddyaisi/status/2118960786353836161",
+          "modelLabel": "GPT-6 Astra / GPT-6.1 Sol · WebGL"
+        },
+        {
+          "id": "teddy-fresnel-lighthouse",
+          "sourceDate": "2026-11-07",
+          "sourceUrl": "https://x.com/teddyaisi/status/2118812488032715126",
+          "modelLabel": "GPT-6 Astra / GPT-6.1 Sol · WebGL"
+        },
+        {
+          "id": "frostline-cable-rescue",
+          "sourceDate": null,
+          "sourceUrl": "https://github.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue",
+          "modelLabel": "GPT-6 Astra · Unity / URP / C#"
+        },
+        {
+          "id": "one2x-blender-spider",
+          "sourceDate": "2026-11-06",
+          "sourceUrl": "https://x.com/One2xDatalab/status/2118734639737258439",
+          "modelLabel": "GPT-6 Astra / Claude Opus 5.5 · Blender 代码"
+        },
+        {
+          "id": "cfeng-eiffel-tower",
+          "sourceDate": "2026-11-07",
+          "sourceUrl": "https://x.com/cfenghub/status/2119040166744527184",
+          "modelLabel": "GPT-6 Astra / Claude Fable 5.1 · Three.js"
+        },
+        {
+          "id": "teddy-neon-tram",
+          "sourceDate": "2026-11-06",
+          "sourceUrl": "https://x.com/teddyaisi/status/2118636567648715060",
+          "modelLabel": "GPT-6 Astra / GPT-6.1 Sol · WebGL"
+        },
+        {
+          "id": "andriy-mini-golf",
+          "sourceDate": "2026-11-08",
+          "sourceUrl": "https://x.com/Andr1ycp/status/2119118596202979727",
+          "modelLabel": "GPT-6 Astra High / Claude Opus 5.5 High · WebGL"
+        }
+      ],
+      "queries": [
+        "\"GPT-6 Astra\" 3D after:2026-11-06",
+        "\"Astra\" \"Blender\" after:2026-11-06",
+        "\"Astra\" \"Three.js\" after:2026-11-06",
+        "\"GPT-6\" \"3D\" 小红书 哔哩哔哩 11月",
+        "Astra 3D pushed:>=2026-11-06",
+        "\"Astra\" site:x.com \"3D\" after:2026-11-06",
+        "\"Astra\" site:bilibili.com/video \"11\" \"2026\"",
+        "\"Astra\" site:xiaohongshu.com \"3D\""
+      ],
+      "discoverySources": [
+        "https://aivs.tv/models/gpt-6-astra/",
+        "https://teapawt.net/vib3coded",
+        "https://teapawt.net/teddyaisi",
+        "https://teapawt.net/noclipepe",
+        "https://teapawt.net/Andr1ycp",
+        "https://teapawt.net/maker_jackie",
+        "https://teapawt.net/sgarlen01",
+        "https://teapawt.net/KostiKoNeuro",
+        "https://teapawt.net/az9713",
+        "https://teapawt.net/Kontentsukpi",
+        "https://teapawt.net/jinhuaachen",
+        "https://teapawt.net/gia9ang",
+        "https://teapawt.net/lilobench",
+        "https://teapawt.net/ESC__AI",
+        "https://teapawt.net/Capocci_AI",
+        "https://teapawt.net/Lummox_eth",
+        "https://teapawt.net/frankzydou"
+      ],
+      "primarySourceChecks": [
+        {
+          "caseId": "andriy-mini-golf",
+          "sourceUrl": "https://x.com/Andr1ycp/status/2119118596202979727",
+          "bytes": 105094,
+          "sha256": "7ffe7dfa9ed32446d9f30722231db98d9d859974f36feab3e747648c98937fd1",
+          "createdAtShanghai": "2026-11-08T01:23:39+08:00",
+          "selectedMediaId": "2119118536190590977",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-ivory-skyship",
+          "sourceUrl": "https://x.com/teddyaisi/status/2118960786353836161",
+          "bytes": 112945,
+          "sha256": "ab6daecc8e2058dfa28fbfc7ff4e77ec6778230fb2160b1270367b3256828f81",
+          "createdAtShanghai": "2026-11-07T14:56:34+08:00",
+          "selectedMediaId": "2118960658083729408",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-fresnel-lighthouse",
+          "sourceUrl": "https://x.com/teddyaisi/status/2118812488032715126",
+          "bytes": 114583,
+          "sha256": "d1f8ab9934bb828cb248f7580ca8ba36b1f5dd24d96c7804da74732b8f75f736",
+          "createdAtShanghai": "2026-11-07T05:07:17+08:00",
+          "selectedMediaId": "2118812432781225984",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "one2x-blender-spider",
+          "sourceUrl": "https://x.com/One2xDatalab/status/2118734639737258439",
+          "bytes": 126367,
+          "sha256": "8dfcbe2291c38774bf2ad5366b6deaf69a71efb19e8eccd82bc283dd3df734d6",
+          "createdAtShanghai": "2026-11-06T23:57:56+08:00",
+          "selectedMediaId": "2118734503107801088",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "teddy-neon-tram",
+          "sourceUrl": "https://x.com/teddyaisi/status/2118636567648715060",
+          "bytes": 137768,
+          "sha256": "7e84c345ad6e20ae6891c9298b4df794c0e4637200c2e29518081f642f54b6fd",
+          "createdAtShanghai": "2026-11-06T17:28:14+08:00",
+          "selectedMediaId": "2118636328736997376",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        },
+        {
+          "caseId": "cfeng-eiffel-tower",
+          "sourceUrl": "https://x.com/cfenghub/status/2119040166744527184",
+          "bytes": 141241,
+          "sha256": "4b9a10d0832af8ab93fe56415c547d21da27346f7b07bdd65f79cd7b0cd751ab",
+          "createdAtShanghai": "2026-11-07T20:12:00+08:00",
+          "selectedMediaId": "2119033880712040448",
+          "sourceVideoCount": 1,
+          "archiveOrdinal": 1,
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "status": 200
+        }
+      ],
+      "repositoryChecks": [
+        {
+          "caseId": "satsuki-amusement-park",
+          "sourceUrl": "https://github.com/satsuki-c6s/ai-3d-amusement-park",
+          "commit": "aa9ffcb9ec054db631be5848b4b067468c0f63a8",
+          "docs": [
+            {
+              "url": "https://raw.githubusercontent.com/satsuki-c6s/ai-3d-amusement-park/aa9ffcb9ec054db631be5848b4b067468c0f63a8/README.md",
+              "httpStatus": 200,
+              "contentType": "text/plain",
+              "bytes": 2279,
+              "sha256": "0dc7e2d1edfa9e0b2b858a99d91584eb3fb145a37ebfd8c7a22c7e626c76dab7",
+              "fullGet": true,
+              "path": "README.md"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/satsuki-c6s/ai-3d-amusement-park/aa9ffcb9ec054db631be5848b4b067468c0f63a8/prompt.txt",
+              "httpStatus": 200,
+              "contentType": "text/plain",
+              "bytes": 2584,
+              "sha256": "9c5b0ac32b2632bbf78e970994e157a4a990b06e93170175afb78451aa584428",
+              "fullGet": true,
+              "path": "prompt.txt"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/satsuki-c6s/ai-3d-amusement-park/aa9ffcb9ec054db631be5848b4b067468c0f63a8/astra-1.html",
+              "httpStatus": 200,
+              "contentType": "text/plain",
+              "bytes": 42290,
+              "sha256": "e645f92ebc3fe905c01a8fa3eb9866523230941195f560f3f42049f309e4ecd0",
+              "fullGet": true,
+              "path": "astra-1.html"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/satsuki-c6s/ai-3d-amusement-park/aa9ffcb9ec054db631be5848b4b067468c0f63a8/astra-2.html",
+              "httpStatus": 200,
+              "contentType": "text/plain",
+              "bytes": 46705,
+              "sha256": "1bbb7fd41596009bd987793965265e3e718e70a7b90e0d8633d51f243dc7f1c8",
+              "fullGet": true,
+              "path": "astra-2.html"
+            }
+          ]
+        },
+        {
+          "caseId": "frostline-cable-rescue",
+          "sourceUrl": "https://github.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue",
+          "commit": "8a8b035b04c3aa080088abac2c1baf091d9446d8",
+          "docs": [
+            {
+              "url": "https://raw.githubusercontent.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue/8a8b035b04c3aa080088abac2c1baf091d9446d8/README.md",
+              "httpStatus": 200,
+              "contentType": "text/plain",
+              "bytes": 4353,
+              "sha256": "957856d2fb9bc590a0e7bc9ed3b5bcb73580b7126da24b75a5fdba884c5622cf",
+              "fullGet": true,
+              "path": "README.md"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue/8a8b035b04c3aa080088abac2c1baf091d9446d8/Documentation/%E9%AA%8C%E8%AF%81%E6%8A%A5%E5%91%8A.md",
+              "httpStatus": 200,
+              "contentType": "text/plain",
+              "bytes": 3586,
+              "sha256": "8882b68488327d929879fc67126ed0a60f3bd8c051d2a0c6083b33cb2706e2c3",
+              "fullGet": true,
+              "path": "Documentation/验证报告.md"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue/8a8b035b04c3aa080088abac2c1baf091d9446d8/shots/new/vegetation-02/performance.txt",
+              "httpStatus": 200,
+              "contentType": "text/plain",
+              "bytes": 408,
+              "sha256": "0c1e6d2013300997f32e23b850f50b51be62c4af8f6861a9206a5322a88faf00",
+              "fullGet": true,
+              "path": "shots/new/vegetation-02/performance.txt"
+            }
+          ]
+        }
+      ],
+      "excludedOrDeferred": [
+        {
+          "url": "https://x.com/vib3coded/status/2119146343344070827",
+          "reason": "Flying koi garden is explicitly Claude Opus 5.5, not Astra."
+        },
+        {
+          "url": "https://x.com/vib3coded/status/2118765227584246106",
+          "reason": "Floating-island park is explicitly Sonnet 5.5. Distinct from the collected Satsuki Astra park."
+        },
+        {
+          "url": "https://x.com/vib3coded/status/2119070574853120456",
+          "reason": "Isle Brawl combines Tripo assets with Claude Opus; not an Astra creation."
+        },
+        {
+          "url": "https://x.com/jinhuaachen/status/2118557554599158212",
+          "reason": "Forest video is attributed to Can It Code?; matching primary video and precise Astra role still not established."
+        },
+        {
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xp8x1x/threejs_blender_opus_55_astra_updated_the_fog/",
+          "reason": "Current mixed-model fog update found; title does not establish exact model version and roles. Deferred rather than attributing entire scene to GPT-6 Astra."
+        },
+        {
+          "url": "https://www.bilibili.com/zh-Hans/video/BV1e6xU68Eha/",
+          "reason": "Search result claims GPT-6.2 Astra and is not established as a GPT-6 Astra 3D creation."
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV16DYL6FEH3/",
+          "reason": "Search returns a September demonstration, not a new November work."
+        }
+      ],
+      "platformLimits": [
+        "X discovery mirrors and aivs.tv were used only to find leads; each accepted X post was checked against its original HTML, exact timestamp and media metadata.",
+        "Public Xiaohongshu searches did not return a new attributable work with viewable outcome media. No login-only content accessed.",
+        "Bilibili searches mainly returned old demonstrations and a different-version claim; snippets alone were not accepted as authorship proof.",
+        "The note.com article linked by Satsuki was unavailable through web open. Attribution instead uses the pinned creator README, task, HTML and GIF.",
+        "Source dates for both GitHub projects remain null because first public release time was not established; the park author reports creation on November 7.",
+        "Six X additions are creator-attributed comparisons; no independent generation or cost benchmark was performed."
+      ],
+      "newSourceProjects": 2,
+      "newAuthorDemos": 1,
+      "completeSourceClips": 6,
+      "newMediaFiles": 12,
+      "newMediaBytes": 51432833,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-08"
     }
   ]
 }

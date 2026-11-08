@@ -1,5 +1,430 @@
 [
   {
+    "id": "satsuki-amusement-park",
+    "title": "Lumière Park：一页 HTML 的三维游乐园",
+    "titleEn": "Lumière Park: A 3D Amusement Park in One HTML File",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra · Three.js r169",
+    "summary": "薄荷色箱庭里，摩天轮、环形过山车和旋转木马同时运转。作者公开两次 Astra 产物、GIF、完整任务和可打开的 HTML。",
+    "imageCaption": "作者仓库 astra-1.gif 的实际成果录像；对应 Astra 第一次试验的最终版本，非首轮未经修复的输出。",
+    "outcome": "可从在线演示进入 Astra 游乐园，或查看两份 HTML 与 prompt.txt。作者记录每次经过一轮修复；发布时只将本地 Three.js 导入改为 jsDelivr。未独立复现生成或作者的十项检查。",
+    "evidenceNote": "固定提交的 README 将 astra-1.html 与 astra-2.html 明确归于 GPT-6 Astra，注明制作日为 11 月 7 日；首次公开时间未单独核实。GIF 全帧解码，公开演示实际渲染已查看。",
+    "promptSummary": "用单个 HTML 搭建含摩天轮、垂直回环过山车、旋转木马、昼夜切换和可拖动视角的 Three.js 游乐园；原任务还定义了自动检查接口。",
+    "promptAvailability": "full",
+    "outputType": [
+      "Three.js HTML 源码",
+      "公开交互演示",
+      "作者 GIF 录像",
+      "完整任务说明"
+    ],
+    "group": "astra",
+    "addedAt": "2026-11-08",
+    "observedAt": "2026-11-08",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": "https://github.com/satsuki-c6s/ai-3d-amusement-park",
+    "demoUrl": "https://satsuki-c6s.github.io/ai-3d-amusement-park/astra-1.html",
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "さつき / satsuki-c6s",
+    "sourceUrl": "https://github.com/satsuki-c6s/ai-3d-amusement-park",
+    "sourceDate": null,
+    "imageUrl": "https://raw.githubusercontent.com/satsuki-c6s/ai-3d-amusement-park/aa9ffcb9ec054db631be5848b4b067468c0f63a8/astra-1.gif",
+    "imageKind": "source-media",
+    "videoUrl": null,
+    "promptUrl": "https://github.com/satsuki-c6s/ai-3d-amusement-park/blob/aa9ffcb9ec054db631be5848b4b067468c0f63a8/prompt.txt",
+    "evidenceUrls": [
+      "https://github.com/satsuki-c6s/ai-3d-amusement-park/tree/aa9ffcb9ec054db631be5848b4b067468c0f63a8",
+      "https://raw.githubusercontent.com/satsuki-c6s/ai-3d-amusement-park/aa9ffcb9ec054db631be5848b4b067468c0f63a8/README.md",
+      "https://raw.githubusercontent.com/satsuki-c6s/ai-3d-amusement-park/aa9ffcb9ec054db631be5848b4b067468c0f63a8/prompt.txt",
+      "https://raw.githubusercontent.com/satsuki-c6s/ai-3d-amusement-park/aa9ffcb9ec054db631be5848b4b067468c0f63a8/astra-1.html",
+      "https://raw.githubusercontent.com/satsuki-c6s/ai-3d-amusement-park/aa9ffcb9ec054db631be5848b4b067468c0f63a8/astra-2.html"
+    ],
+    "sourceAccess": "固定提交的模型说明、源码入口与成果图已核对。公开演示完成渲染与昼夜切换检查，未重跑作者自动评测。"
+  },
+  {
+    "id": "teddy-ivory-skyship",
+    "title": "掠过云上浮城的象牙白飞艇",
+    "titleEn": "An Ivory Skyship Above a Floating City",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra / GPT-6.1 Sol · WebGL",
+    "summary": "带金色栏杆的白色船体悬在几何气囊下，从粉桃色云海和浮城旁飞过。Astra 在右栏，可比较船体比例与镜头运动。",
+    "imageCaption": "Teddy 原帖对照封面：Sol 左栏，Astra 右栏。用时、token 和费用为作者标注。",
+    "outcome": "完整 12 秒双栏录像已归档。呈现飞艇与浮城的视觉设计，未公开源码或试玩，不代表飞行物理验证。",
+    "evidenceNote": "原帖明确说明两模型执行相同 WebGL 任务，作者、发布时间、媒体 ID 和模型标签相符；属于作者展示，未独立复现。",
+    "promptSummary": "让象牙白飞艇飞过桃色云海上的浮空城市；原帖提供概述，完整指令未公开。",
+    "promptAvailability": "partial",
+    "outputType": [
+      "WebGL 幻想飞艇场景",
+      "双模型对照",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "addedAt": "2026-11-08",
+    "observedAt": "2026-11-08",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2118960786353836161",
+    "sourceDate": "2026-11-07",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2118960658083729408/img/OEtTNmTVvW0XC7_Q.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/teddyaisi/status/2118960786353836161",
+    "promptUrl": "https://x.com/teddyaisi/status/2118960786353836161",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2118960786353836161"
+    ],
+    "sourceAccess": "原帖、同帖元数据与模型标签已核对。成果图完整获取并解码，原版和播放版录像均通过全长解码；未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "An Ivory Skyship Above a Floating City",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2118960658083729408/img/OEtTNmTVvW0XC7_Q.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2118960786353836161",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-ivory-skyship-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-08/teddy-ivory-skyship-1-original.mp4",
+        "bytes": 976972,
+        "sha256": "cad1aa4b29b4a561c5198db1ab9c94a3ddd9a56bef5934cf53adcb8363b98568",
+        "durationSeconds": 12.0
+      }
+    ]
+  },
+  {
+    "id": "teddy-fresnel-lighthouse",
+    "title": "石灯塔里的旋转菲涅耳透镜",
+    "titleEn": "A Rotating Fresnel Lens Inside a Stone Lighthouse",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra / GPT-6.1 Sol · WebGL",
+    "summary": "层叠玻璃透镜与黄铜支架在灯塔中转动，暖色光束扫过石墙和海面。Astra 在右栏。",
+    "imageCaption": "Teddy 原帖双栏成果图：左为 Sol，右为 Astra。",
+    "outcome": "完整 12 秒录像保留玻璃、金属和旋转光束的展示。未公开工程或验证光学参数，不能作为真实灯塔设计依据。",
+    "evidenceNote": "同帖原文、元数据与画面模型标签已对应；成本和时间只代表作者报告的一次运行。",
+    "promptSummary": "在石灯塔中制作旋转的大型菲涅耳透镜，使琥珀色光束扫过室内和海面；完整提示词未公开。",
+    "promptAvailability": "partial",
+    "outputType": [
+      "WebGL 透镜与灯塔",
+      "玻璃材质及扫光",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "addedAt": "2026-11-08",
+    "observedAt": "2026-11-08",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2118812488032715126",
+    "sourceDate": "2026-11-07",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2118812432781225984/img/SrLJK_Bo0-Cw1noK.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/teddyaisi/status/2118812488032715126",
+    "promptUrl": "https://x.com/teddyaisi/status/2118812488032715126",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2118812488032715126"
+    ],
+    "sourceAccess": "原帖、同帖元数据与模型标签已核对。成果图完整获取并解码，原版和播放版录像均通过全长解码；未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "A Rotating Fresnel Lens Inside a Stone Lighthouse",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2118812432781225984/img/SrLJK_Bo0-Cw1noK.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2118812488032715126",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-fresnel-lighthouse-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-08/teddy-fresnel-lighthouse-1-original.mp4",
+        "bytes": 2380476,
+        "sha256": "3cd0dd4698066d41bf42ccd0b58256e2809a20766591dfc7dab1575a4684fb05",
+        "durationSeconds": 12.0
+      }
+    ]
+  },
+  {
+    "id": "frostline-cable-rescue",
+    "title": "霜岭索道救援：Unity 三维吊机游戏",
+    "titleEn": "Frostline Rescue: A Unity Crane and Cable Rescue Game",
+    "category": "3D 游戏",
+    "modelLabel": "GPT-6 Astra · Unity / URP / C#",
+    "summary": "在雪山索道旁操纵吊机，锁接救援舱并送往平台。公开工程包含四关、钢缆关节、阵风、中文操作界面和验证记录。",
+    "imageCaption": "作者仓库 vegetation-02/mission-0.png：初次接应关卡实际运行截图，标注为 Development Build。",
+    "outcome": "可取得 Unity 工程与构建步骤，需要本机编辑器和许可；无网页试玩。本库未运行 Windows 游戏。作者报告自动关卡检查通过，同时保留手感及完整性能未验收的限制。",
+    "evidenceNote": "固定提交 README 明确声明核心源码由 gpt-6-astra 生成。新增场景截图可见成果；同目录性能记录仅为静止场景采样，不能替代完整流程性能或独立复现。",
+    "promptSummary": "未找到完整原始创作提示词；仓库提供关卡、控制、构建和验证说明。",
+    "promptAvailability": "not-found",
+    "outputType": [
+      "Unity / C# 工程",
+      "四关吊机救援游戏",
+      "实际运行截图",
+      "作者验证记录"
+    ],
+    "group": "astra",
+    "addedAt": "2026-11-08",
+    "observedAt": "2026-11-08",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": "https://github.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue",
+    "demoUrl": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "ffffrrrr-cmyk",
+    "sourceUrl": "https://github.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue",
+    "sourceDate": null,
+    "imageUrl": "https://raw.githubusercontent.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue/8a8b035b04c3aa080088abac2c1baf091d9446d8/shots/new/vegetation-02/mission-0.png",
+    "imageKind": "author-screenshot",
+    "videoUrl": null,
+    "promptUrl": null,
+    "evidenceUrls": [
+      "https://github.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue/tree/8a8b035b04c3aa080088abac2c1baf091d9446d8",
+      "https://raw.githubusercontent.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue/8a8b035b04c3aa080088abac2c1baf091d9446d8/README.md",
+      "https://raw.githubusercontent.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue/8a8b035b04c3aa080088abac2c1baf091d9446d8/Documentation/%E9%AA%8C%E8%AF%81%E6%8A%A5%E5%91%8A.md",
+      "https://raw.githubusercontent.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue/8a8b035b04c3aa080088abac2c1baf091d9446d8/shots/new/vegetation-02/performance.txt"
+    ],
+    "sourceAccess": "固定提交的模型说明、运行截图和验证文档已核对；未下载运行 Windows 游戏或执行构建。"
+  },
+  {
+    "id": "one2x-blender-spider",
+    "title": "月面八足机械蜘蛛的 Blender 动画",
+    "titleEn": "An Eight-Legged Cyber Spider on the Moon",
+    "category": "Blender 建模",
+    "modelLabel": "GPT-6 Astra / Claude Opus 5.5 · Blender 代码",
+    "summary": "金属蜘蛛在月面岩石间移动，关节腿和青色灯光随运动变化。上栏为 Astra，下栏为 Opus。",
+    "imageCaption": "One2x Datalab 原帖上下对照，Astra 位于上栏；远处地球与岩石提供场景参照。",
+    "outcome": "完整 12 秒录像已归档。作者称两模型各执行一次任务，并使用 Astra 最后输出的脚本渲染；未公开脚本或绑定工程，未验证步态物理。",
+    "evidenceNote": "作者明确写出模型分工和 Blender 代码流程，原帖与视频对应。轮次和费用属于作者单次记录；未独立复现。",
+    "promptSummary": "以 Blender 代码制作八足赛博蜘蛛在月面活动的 12 秒动画；完整提示词未公开。",
+    "promptAvailability": "partial",
+    "outputType": [
+      "Blender 机械角色动画",
+      "双模型对照",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "addedAt": "2026-11-08",
+    "observedAt": "2026-11-08",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "One2x Datalab / @One2xDatalab",
+    "sourceUrl": "https://x.com/One2xDatalab/status/2118734639737258439",
+    "sourceDate": "2026-11-06",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2118734503107801088/img/KjRWLq4bfejY7nZl.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/One2xDatalab/status/2118734639737258439",
+    "promptUrl": "https://x.com/One2xDatalab/status/2118734639737258439",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/One2xDatalab/status/2118734639737258439"
+    ],
+    "sourceAccess": "原帖、同帖元数据与模型标签已核对。成果图完整获取并解码，原版和播放版录像均通过全长解码；未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "An Eight-Legged Cyber Spider on the Moon",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2118734503107801088/img/KjRWLq4bfejY7nZl.jpg",
+        "sourceUrl": "https://x.com/One2xDatalab/status/2118734639737258439",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/one2x-blender-spider-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-08/one2x-blender-spider-1-original.mp4",
+        "bytes": 5187889,
+        "sha256": "49dd834d9eca369f004abd884fae370719655f2c9f35cad0ce7f5c47882cbfaa",
+        "durationSeconds": 12.0
+      }
+    ]
+  },
+  {
+    "id": "cfeng-eiffel-tower",
+    "title": "单页 Three.js 埃菲尔铁塔导览",
+    "titleEn": "An Eiffel Tower Tour in a Single Three.js Page",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra / Claude Fable 5.1 · Three.js",
+    "summary": "从塔脚上升到观景平台，观察桁架、河道和周边街区。Astra 在下栏，包含导览文案、楼层入口与昼夜控制界面。",
+    "imageCaption": "CF长风 原帖封面：上方 Fable 5.1，下方 GPT-6 Astra。",
+    "outcome": "完整约 40 秒对照录像已归档。作者称使用 Three.js 单页 HTML、无外部资产或贴图；本库未取得源码与试玩，无法独立验证资产来源和尺寸准确性。",
+    "evidenceNote": "原帖明确模型、引擎和任务，视频标签一致。保留作者的实现声明，不将录像当作独立工程复现。",
+    "promptSummary": "通过 Three.js 代码在单页 HTML 中构建巴黎埃菲尔铁塔，不使用外部资产或贴图；完整指令未公开。",
+    "promptAvailability": "partial",
+    "outputType": [
+      "Three.js 建筑导览",
+      "双模型对照",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "addedAt": "2026-11-08",
+    "observedAt": "2026-11-08",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "CF长风 / @cfenghub",
+    "sourceUrl": "https://x.com/cfenghub/status/2119040166744527184",
+    "sourceDate": "2026-11-07",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2119033880712040448/img/iGBUQAUeP97QOM3Q.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/cfenghub/status/2119040166744527184",
+    "promptUrl": "https://x.com/cfenghub/status/2119040166744527184",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/cfenghub/status/2119040166744527184"
+    ],
+    "sourceAccess": "原帖、同帖元数据与模型标签已核对。成果图完整获取并解码，原版和播放版录像均通过全长解码；未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "An Eiffel Tower Tour in a Single Three.js Page",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2119033880712040448/img/iGBUQAUeP97QOM3Q.jpg",
+        "sourceUrl": "https://x.com/cfenghub/status/2119040166744527184",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/cfeng-eiffel-tower-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-08/cfeng-eiffel-tower-1-original.mp4",
+        "bytes": 31011113,
+        "sha256": "129fef40ec7dda74a7ddad25f377df355e5f484e4556c130e8514b869ee337b8",
+        "durationSeconds": 40.06
+      }
+    ]
+  },
+  {
+    "id": "teddy-neon-tram",
+    "title": "雨夜霓虹城的高架电车",
+    "titleEn": "An Elevated Tram in a Rainy Neon City",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra / GPT-6.1 Sol · WebGL",
+    "summary": "电车绕过高架弯道，车窗、霓虹灯与湿地面反射形成夜间层次。Astra 在右栏。",
+    "imageCaption": "Teddy 原帖成果图：Sol 在左，Astra 在右；费用标注为作者估算。",
+    "outcome": "完整 12 秒录像已归档，可观察电车、弯道与镜头衔接。未公开源码、试玩或车辆运动参数。",
+    "evidenceNote": "作者明确将场景归于两种模型的 WebGL 生成，原帖作者、时间、媒体 ID 和标签已核对，未独立复现。",
+    "promptSummary": "制作雨夜霓虹城市上方绕高架弯道行驶的 WebGL 电车场景；完整提示词未公开。",
+    "promptAvailability": "partial",
+    "outputType": [
+      "WebGL 城市夜景",
+      "电车动画对照",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "addedAt": "2026-11-08",
+    "observedAt": "2026-11-08",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2118636567648715060",
+    "sourceDate": "2026-11-06",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2118636328736997376/img/gqZeUPrEBZie8t4G.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/teddyaisi/status/2118636567648715060",
+    "promptUrl": "https://x.com/teddyaisi/status/2118636567648715060",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2118636567648715060"
+    ],
+    "sourceAccess": "原帖、同帖元数据与模型标签已核对。成果图完整获取并解码，原版和播放版录像均通过全长解码；未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "An Elevated Tram in a Rainy Neon City",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2118636328736997376/img/gqZeUPrEBZie8t4G.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2118636567648715060",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-neon-tram-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-08/teddy-neon-tram-1-original.mp4",
+        "bytes": 1949926,
+        "sha256": "93b34f95e956fb653eca9a610961d6ac29962bdd459093153f1c05985940b59b",
+        "durationSeconds": 12.0
+      }
+    ]
+  },
+  {
+    "id": "andriy-mini-golf",
+    "title": "低多边形迷你高尔夫球场",
+    "titleEn": "Low-Poly Mini-Golf in WebGL",
+    "category": "3D 游戏",
+    "modelLabel": "GPT-6 Astra High / Claude Opus 5.5 High · WebGL",
+    "summary": "球沿绿色坡面滚向球洞，镜头跟随击球，入洞后显示成绩横幅。上栏 Astra，下栏 Opus。",
+    "imageCaption": "AndrIy 原帖对照图，Astra 在上栏；两栏均为作者给出的游戏成果。",
+    "outcome": "完整约 12 秒录像已归档，包含击球到入洞的过程。尚未找到源码或公开试玩，未独立验证碰撞、坡面和完整游戏规则。",
+    "evidenceNote": "原帖明确为 Astra 与 Opus 的同题 WebGL 对照，视频标签与作者对应。视觉展示不等于物理引擎准确性测试。",
+    "promptSummary": "以 WebGL 制作低多边形三维迷你高尔夫球场，关注球体运动、坡面碰撞和跟随镜头；完整提示词未公开。",
+    "promptAvailability": "partial",
+    "outputType": [
+      "WebGL 迷你高尔夫",
+      "双模型对照",
+      "完整原帖录像"
+    ],
+    "group": "astra",
+    "addedAt": "2026-11-08",
+    "observedAt": "2026-11-08",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "licenseNotes": "作品、录像和相关素材的权利归各自权利人。本库的 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "AndrIy / @Andr1ycp",
+    "sourceUrl": "https://x.com/Andr1ycp/status/2119118596202979727",
+    "sourceDate": "2026-11-08",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2119118536190590977/img/Klu-iysxj9Htmyaz.jpg",
+    "imageKind": "author-comparison",
+    "videoUrl": "https://x.com/Andr1ycp/status/2119118596202979727",
+    "promptUrl": "https://x.com/Andr1ycp/status/2119118596202979727",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/Andr1ycp/status/2119118596202979727"
+    ],
+    "sourceAccess": "原帖、同帖元数据与模型标签已核对。成果图完整获取并解码，原版和播放版录像均通过全长解码；未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "Low-Poly Mini-Golf in WebGL",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2119118536190590977/img/Klu-iysxj9Htmyaz.jpg",
+        "sourceUrl": "https://x.com/Andr1ycp/status/2119118596202979727",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/andriy-mini-golf-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-08/andriy-mini-golf-1-original.mp4",
+        "bytes": 4553855,
+        "sha256": "9023276f5db8f76e49315c82cd3d9831be58c6c422f7e10f31835b5d8a6a26e3",
+        "durationSeconds": 12.05
+      }
+    ]
+  },
+  {
     "id": "teddy-observatory-telescope",
     "title": "开顶天文台里的黄铜望远镜",
     "titleEn": "A Brass Telescope in an Opening Observatory",
