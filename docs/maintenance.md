@@ -79,6 +79,10 @@ npm start
 
 临时脚本、源页面与详细检查保留于忽略目录 `work/2026-11-08/`。视频在 Release，不向 Git 提交 MP4、下载缓存、第三方工程或迁移说明；不重新部署 ChatGPT Sites。
 
+内容提交 `087079d` 经 [PR #7](https://github.com/carpentry-liu/awesome-astra-3d/pull/7) 合入，[GitHub Pages 工作流](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/42435830852)首次部署成功。`py -3.13 -X utf8 work/2026-11-08/verify-production.py` 的 55 项线上核验全部通过：公开 463 条 JSON 与事实源一致，八件作品的中英详情与单条 JSON、八张成果预览、首页、sitemap、四张仓库实拍、分享图、双语 README 和录像清单均正常；六个 Pages 播放文件完整 GET 的长度和 SHA-256 匹配，六个 Release 原版端点的 MP4 头与总长度匹配。`verify-rendered.py` 在 GitHub 实际渲染的中英文 README 各核对八张预览与跳转，并完整获取、解码八张实际服务的图片。
+
+线上浏览器另将飞艇录像用原生控件从 0 播至 12 秒 ended，readyState 为 4、媒体错误为空。旧 `#case=teddy-ivory-skyship` 地址打开正确弹窗，视频与原版下载指向本轮发布地址，无错误回退。六段逐条全程播放的完整记录仍以本地生产构建检查为准。
+
 ## 内容验证（2026-11-06）
 
 本轮新增开顶天文台、海岸浑天仪、山村水车、怪兽卡车、小行星足球场和 Blender 鸡脚屋六件作品，原帖发表于上海时间 11 月 4—6 日。当前为 443 条 Astra 案例、12 条方法参考、119 个源码 / 工程入口、132 个演示入口与 228 段完整录像。本轮没有新增公开工程或试玩地址，应用代码和依赖不变。
