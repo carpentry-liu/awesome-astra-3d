@@ -7,6 +7,7 @@
 | [当前网站实拍](media/README.md) | 中英文 README 共用的四张真实截图 |
 | [贡献要求](../CONTRIBUTING.md) | 案例字段、模型证据与权利 |
 | [初始需求](requirements/R-0001-astra-3d-atlas.md) · [扩充需求](requirements/R-0002-catalog-growth.md) | 收录和公开材料的验收范围 |
+| [GIF 分类需求](requirements/R-0003-gif-gallery.md) · [设计](features/F-0001-gif-gallery/02-设计.md) · [验证](features/F-0001-gif-gallery/04-测试.md) | 原生 GIF 分组、可控播放与独立统计 |
 | [仓库审查与清理](refactoring/REF-0001-repository-cleanup/01-动机与方案.md) | 清理无消费者的组件、依赖与旧文档 |
 | [生成与发布审查](refactoring/REF-0002-catalog-build/01-动机与方案.md) · [验证](refactoring/REF-0002-catalog-build/03-验证.md) | 专题与模板分离、首次启动、PR 检查和录像下载 |
 

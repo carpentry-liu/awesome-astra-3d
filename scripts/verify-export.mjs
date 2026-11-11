@@ -6,6 +6,7 @@ import {
   SITE_URL,
   PAGE_SIZE,
   TOPICS,
+  escapeHtml,
   casePath,
   browsePath,
   sitemapEntries,
@@ -198,6 +199,11 @@ for (const language of ['zh', 'en']) {
       ),
       `Missing rights section: ${record.id}`,
     );
+    if (record.animatedGif) {
+      assert(page.includes('class="gif-player"'), `Missing GIF player: ${record.id}`);
+      assert(page.includes(`href="${escapeHtml(record.animatedGif.url)}"`), `Missing original GIF: ${record.id}`);
+      assert(!page.includes(`src="${escapeHtml(record.animatedGif.url)}"`), `GIF must wait for explicit playback: ${record.id}`);
+    }
     if (record.group === 'reference')
       assert(
         page.includes(

@@ -1,5 +1,429 @@
 [
   {
+    "id": "havis-corgi-frisbee",
+    "title": "柯基码头接飞盘：跳跃与入水动作",
+    "titleEn": "Corgi Dock Jump: Frisbee Catch and Splash",
+    "category": "角色与动画",
+    "modelLabel": "GPT-6 Astra · 作者动作对照",
+    "summary": "柯基从湖边木码头起跳接飞盘，落水后激起水花；上下对照保留角色运动、环境与水面反馈的差别。",
+    "imageCaption": "作者原帖对照封面，GPT-6 Astra 位于下半幅；画面中的费用和耗时为作者声明。",
+    "evidenceNote": "原帖明确比较 GPT-6 Astra 与 Claude Opus 5.5，录像下方标为 Astra。模型调用、计费与创作工程未独立复现。",
+    "outcome": "可看 12 秒完整原片。代码和可交互演示未公开；不据此推断物理模拟精度或模型总体性能。",
+    "promptSummary": "让柯基从码头跳起接住飞盘。原帖仅提供任务简述。",
+    "group": "astra",
+    "promptAvailability": "author-description",
+    "outputType": [
+      "三维动作对照",
+      "完整运行录像"
+    ],
+    "addedAt": "2026-11-11",
+    "observedAt": "2026-11-11",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/HavisT83099/status/2119554699888058378",
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Havis | Claude Code / @HavisT83099",
+    "sourceUrl": "https://x.com/HavisT83099/status/2119554699888058378",
+    "sourceDate": "2026-11-09",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2119554631063818240/img/qjASvKf_3h3WvgC7.jpg",
+    "imageKind": "author-comparison",
+    "promptUrl": "https://x.com/HavisT83099/status/2119554699888058378",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/HavisT83099/status/2119554699888058378"
+    ],
+    "sourceAccess": "原帖作者、精确时间戳和媒体标签已核对。封面及两种完整 MP4 已下载并完整解码，未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "柯基码头接飞盘 · Astra 在下方",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2119554631063818240/img/qjASvKf_3h3WvgC7.jpg",
+        "sourceUrl": "https://x.com/HavisT83099/status/2119554699888058378",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/havis-corgi-frisbee-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-11/havis-corgi-frisbee-1-original.mp4",
+        "bytes": 4386706,
+        "sha256": "b65cdf74478a0d3f31f926d96c8686e014d0bfff435b4aec3d13a0c1d8c2e913",
+        "durationSeconds": 12.0
+      }
+    ]
+  },
+  {
+    "id": "envol-christ-redeemer",
+    "title": "云海中的里约基督像：Three.js 环绕镜头",
+    "titleEn": "Christ the Redeemer: A Three.js Orbit above the Clouds",
+    "category": "建筑可视化",
+    "modelLabel": "GPT-6 Astra · Three.js（作者声明）",
+    "summary": "环绕基督像、山脉、海湾与城市，观察两个模型对雕像形体、云层和远景密度的处理。",
+    "imageCaption": "EnvolDev 原帖对照封面；GPT-6 Astra 在下半幅，Claude Opus 5.5 在上半幅。",
+    "evidenceNote": "原帖与录像标签均明确 GPT-6 Astra，作者描述 Three.js 三维结果。其费用、时间及优劣评价没有经过本库独立验证。",
+    "outcome": "保存 25 秒完整对照录像。未发现同帖公开源码或试玩地址，不能把录屏当作可交互演示。",
+    "promptSummary": null,
+    "group": "astra",
+    "promptAvailability": "not-found",
+    "outputType": [
+      "三维动作对照",
+      "完整运行录像"
+    ],
+    "addedAt": "2026-11-11",
+    "observedAt": "2026-11-11",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/EnvolDev/status/2119527377109672111",
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Tony / @EnvolDev",
+    "sourceUrl": "https://x.com/EnvolDev/status/2119527377109672111",
+    "sourceDate": "2026-11-09",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2119508814924070912/img/Uqob8a79x3696puL.jpg",
+    "imageKind": "author-comparison",
+    "promptUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/EnvolDev/status/2119527377109672111"
+    ],
+    "sourceAccess": "原帖作者、精确时间戳和媒体标签已核对。封面及两种完整 MP4 已下载并完整解码，未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "里约基督像 Three.js 对照 · Astra 在下方",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2119508814924070912/img/Uqob8a79x3696puL.jpg",
+        "sourceUrl": "https://x.com/EnvolDev/status/2119527377109672111",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/envol-christ-redeemer-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-11/envol-christ-redeemer-1-original.mp4",
+        "bytes": 46937906,
+        "sha256": "6bbe362831b6dca06346a451aa3940c0a30a733ce0d6261f4e112a9a5c8a5bc0",
+        "durationSeconds": 25.0
+      }
+    ]
+  },
+  {
+    "id": "teddy-coral-marble",
+    "title": "珊瑚色弹珠轨道与配重翻板桥",
+    "titleEn": "Coral Marble Run and Counterweighted Bridge",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra · WebGL（作者声明）",
+    "summary": "紫色条纹弹珠沿珊瑚色弯道下滚，经过配重翻板，再进入下一段轨道。三模型同屏展示，Astra 在中间。",
+    "imageCaption": "teddyaisi 原帖三栏对照，中间为 GPT-6 Astra，左侧为 GPT-6.1 Sol，右侧为 GPT-6.1 Terra。",
+    "evidenceNote": "原帖明确列出三个模型与 WebGL 任务；中栏 Astra 标签和媒体 ID 已核对。仅收录可见输出，不采纳未经复核的计费结论。",
+    "outcome": "可看 20 秒完整场景录像。没有公开工程和独立演示；机械动作的力学真实性未核实。",
+    "promptSummary": "让条纹弹珠沿珊瑚色轨道滚动，压动配重桥，再进入下一弯道。",
+    "group": "astra",
+    "promptAvailability": "author-description",
+    "outputType": [
+      "三维动作对照",
+      "完整运行录像"
+    ],
+    "addedAt": "2026-11-11",
+    "observedAt": "2026-11-11",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/teddyaisi/status/2119302049234084047",
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2119302049234084047",
+    "sourceDate": "2026-11-08",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2119301958947459072/img/L5gB6gCXVjmf6X6x.jpg",
+    "imageKind": "author-comparison",
+    "promptUrl": "https://x.com/teddyaisi/status/2119302049234084047",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2119302049234084047"
+    ],
+    "sourceAccess": "原帖作者、精确时间戳和媒体标签已核对。封面及两种完整 MP4 已下载并完整解码，未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "珊瑚轨道弹珠 · Astra 在中间",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2119301958947459072/img/L5gB6gCXVjmf6X6x.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2119302049234084047",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-coral-marble-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-11/teddy-coral-marble-1-original.mp4",
+        "bytes": 1537314,
+        "sha256": "b699bb0ff31a60c9e005d0e28f9d2378ef4a40762bef5c164041a68ee7c30cd4",
+        "durationSeconds": 20.0
+      }
+    ]
+  },
+  {
+    "id": "teddy-gondola-pulley",
+    "title": "山谷滑轮塔与黄色摆动吊舱",
+    "titleEn": "Yellow Gondola and Pulley Tower over a Valley",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra · WebGL（作者声明）",
+    "summary": "黄色吊舱沿山谷索道经过滑轮塔，镜头跟随车厢与悬吊连接处，比较三种输出的空间比例与运动表现。",
+    "imageCaption": "teddyaisi 三栏完整对照的原始封面，中间一栏是 GPT-6 Astra。",
+    "evidenceNote": "原始 X 帖子、发布时间和对应媒体已核对；视频中栏明确标注 GPT-6 Astra。任务与实现归属依据作者声明。",
+    "outcome": "保存 20 秒完整录像与最高码率原版，源码及试玩地址未取得；画面成本和耗时未独立验证。",
+    "promptSummary": "让吊舱经过滑轮塔并在运行中摆动；仅记录原帖任务摘要。",
+    "group": "astra",
+    "promptAvailability": "author-description",
+    "outputType": [
+      "三维动作对照",
+      "完整运行录像"
+    ],
+    "addedAt": "2026-11-11",
+    "observedAt": "2026-11-11",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/teddyaisi/status/2119289934351946228",
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2119289934351946228",
+    "sourceDate": "2026-11-08",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2119289892543033344/img/vv43921RsW0xwRTO.jpg",
+    "imageKind": "author-comparison",
+    "promptUrl": "https://x.com/teddyaisi/status/2119289934351946228",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2119289934351946228"
+    ],
+    "sourceAccess": "原帖作者、精确时间戳和媒体标签已核对。封面及两种完整 MP4 已下载并完整解码，未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "滑轮塔与摆动吊舱 · Astra 在中间",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2119289892543033344/img/vv43921RsW0xwRTO.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2119289934351946228",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-gondola-pulley-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-11/teddy-gondola-pulley-1-original.mp4",
+        "bytes": 1815750,
+        "sha256": "f7b5398129d2b1b7113e06baf4c0ae989ac9fe8e994a83f0d3b6e6f05b1917b0",
+        "durationSeconds": 20.0
+      }
+    ]
+  },
+  {
+    "id": "openai-lantern-gif",
+    "title": "雪夜提灯猴子：官方角色循环 GIF",
+    "titleEn": "Lantern Monkey: Official Character GIF Loop",
+    "group": "gif",
+    "category": "角色动图",
+    "author": "OpenAI",
+    "platform": "OpenAI",
+    "modelLabel": "GPT-Image-2.6 Sunburst",
+    "sourceDate": null,
+    "evidenceLevel": "official",
+    "summary": "雪林小屋前，猴子提起发光的灯笼，再回到起始姿态。官方直接生成的九帧动图。",
+    "imageCaption": "OpenAI 原始 GIF 的首帧，静态预览由本库提取；打开后可播放完整动图。",
+    "evidenceNote": "官方 Image generation 文档明确标注 Sunburst 生成此 GIF；原始文件为九帧、1.8 秒。",
+    "outcome": "展示一次短动作循环，未提供可编辑三维模型；不是 Astra 建模录像。",
+    "promptAvailability": "not-found",
+    "promptSummary": null,
+    "addedAt": "2026-11-11",
+    "observedAt": "2026-11-11",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "platforms": [
+      "OpenAI"
+    ],
+    "sourceUrl": "https://developers.openai.com/api/docs/guides/image-generation#generate-animated-gif-output",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-11/openai-lantern-gif-poster.jpg",
+    "imageKind": "gif-frame",
+    "outputType": [
+      "原生 GIF 动图",
+      "原始 GIF 文件"
+    ],
+    "promptUrl": null,
+    "evidenceUrls": [
+      "https://developers.openai.com/images/platform/guides/image-prompting/monkey-lantern-gpt-image-2-6-sunburst.gif"
+    ],
+    "evidenceStatus": "官方原始动图",
+    "sourceAccess": "原始文件完整 GET，全部帧已解码且内容不同。卡片为同一文件的首帧，模型生成过程未复跑。",
+    "animatedGif": {
+      "url": "https://developers.openai.com/images/platform/guides/image-prompting/monkey-lantern-gpt-image-2-6-sunburst.gif",
+      "frames": 9,
+      "durationMs": 1800,
+      "width": 512,
+      "height": 512,
+      "bytes": 1280950,
+      "sha256": "5d786a550b93a24fed3aec36725eab00f767cb4aa84985027004e40eb6c61f52",
+      "checkedAt": "2026-11-11"
+    }
+  },
+  {
+    "id": "lightlyn-earbuds-gif",
+    "title": "耳机开盒：升起、落回与合盖",
+    "titleEn": "Earbuds Unboxing: Lift, Settle and Close",
+    "group": "gif",
+    "category": "产品动图",
+    "author": "Linger / Lightlyn",
+    "platform": "Lightlyn",
+    "modelLabel": "GPT-Image-2.6 Sunburst",
+    "sourceDate": "2026-11-05",
+    "evidenceLevel": "author",
+    "summary": "耳机盒打开，耳机升起后落回，盒盖闭合。九帧产品循环，来源附原始 GIF 与完整提示词。",
+    "imageCaption": "Lightlyn 原始 GIF 的首帧；播放后可见开盒与合盖的完整循环。",
+    "evidenceNote": "Linger 的测试页标注 Sunburst 与 11 月 5 日发布日期，提供原始 GIF 下载。全帧解码核实为九帧、1.8 秒。",
+    "outcome": "仅核实公开动图和归属声明，未复跑模型；作品与标识权利归作者。",
+    "promptAvailability": "full",
+    "promptSummary": "固定产品与背景，让耳机盒打开、耳机升起再落回并合盖。完整提示词见来源。",
+    "addedAt": "2026-11-11",
+    "observedAt": "2026-11-11",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "platforms": [
+      "Lightlyn"
+    ],
+    "sourceUrl": "https://image.lightlyn.com/gpt-image-2-6?lang=en",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-11/lightlyn-earbuds-gif-poster.jpg",
+    "imageKind": "gif-frame",
+    "outputType": [
+      "原生 GIF 动图",
+      "原始 GIF 文件"
+    ],
+    "promptUrl": "https://image.lightlyn.com/gpt-image-2-6?lang=en",
+    "evidenceUrls": [
+      "https://image.lightlyn.com/examples/gpt-image-2-6/gif-product.gif"
+    ],
+    "evidenceStatus": "作者声明为 GPT-Image-2.6 原生 GIF",
+    "sourceAccess": "原始文件完整 GET，全部帧已解码且内容不同。卡片为同一文件的首帧，模型生成过程未复跑。",
+    "animatedGif": {
+      "url": "https://image.lightlyn.com/examples/gpt-image-2-6/gif-product.gif",
+      "frames": 9,
+      "durationMs": 1800,
+      "width": 960,
+      "height": 960,
+      "bytes": 2221707,
+      "sha256": "1908d92f1ff3431b26c244b2e4a9023592b1a3652a4822a15c645d1d49b9931c",
+      "checkedAt": "2026-11-11"
+    }
+  },
+  {
+    "id": "imageat-pixel-knight-gif",
+    "title": "蓝羽骑士：像素侧身行走循环",
+    "titleEn": "Blue-Plumed Knight: Pixel Walk Cycle",
+    "group": "gif",
+    "category": "像素动图",
+    "author": "imageat",
+    "platform": "imageat",
+    "modelLabel": "GPT-Image-2.6（来源未标明该例子子型号）",
+    "sourceDate": null,
+    "evidenceLevel": "author",
+    "summary": "银甲与蓝色羽饰的像素骑士侧身行走，披风随步伐摆动；原始动图包含八帧。",
+    "imageCaption": "imageat 原始 GIF 的首帧；卡片静止，详情中可播放八帧步行动画。",
+    "evidenceNote": "作者专题说明展示的动画直接由 GPT Image 2.6 输出，未标明该例子具体子型号或首次发布日期。原始 GIF 已全帧解码。",
+    "outcome": "可作步态观察素材，当前文件带深色背景；未提供透明精灵图集或绑定骨骼。",
+    "promptAvailability": "full",
+    "promptSummary": "像素骑士侧视行走，银甲、蓝羽与披风，深色背景。完整提示词在原始展示页。",
+    "addedAt": "2026-11-11",
+    "observedAt": "2026-11-11",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "platforms": [
+      "imageat"
+    ],
+    "sourceUrl": "https://imageat.com/gpt-image-2-6",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-11/imageat-pixel-knight-gif-poster.jpg",
+    "imageKind": "gif-frame",
+    "outputType": [
+      "原生 GIF 动图",
+      "原始 GIF 文件"
+    ],
+    "promptUrl": "https://imageat.com/gpt-image-2-6",
+    "evidenceUrls": [
+      "https://cdn.imageat.com/marketing/gpt-image-2-6/pixel-knight-walk.gif"
+    ],
+    "evidenceStatus": "作者声明为 GPT-Image-2.6 原生 GIF",
+    "sourceAccess": "原始文件完整 GET，全部帧已解码且内容不同。卡片为同一文件的首帧，模型生成过程未复跑。",
+    "animatedGif": {
+      "url": "https://cdn.imageat.com/marketing/gpt-image-2-6/pixel-knight-walk.gif",
+      "frames": 8,
+      "durationMs": 880,
+      "width": 768,
+      "height": 768,
+      "bytes": 489017,
+      "sha256": "327e4a9f09663d7bcead3c635229f844090954190d9d593e4ad1f503dd6bde35",
+      "checkedAt": "2026-11-11"
+    }
+  },
+  {
+    "id": "predis-sneaker-spin-gif",
+    "title": "粉色转台上的白鞋：十六帧产品转动",
+    "titleEn": "Sneaker Turntable: A Sixteen-Frame Product Spin",
+    "group": "gif",
+    "category": "产品动图",
+    "author": "Predis.ai",
+    "platform": "Predis.ai",
+    "modelLabel": "GPT-Image-2.6 Sunburst",
+    "sourceDate": null,
+    "evidenceLevel": "author",
+    "summary": "白色运动鞋在粉色转台上旋转，蓝墙与固定灯光衬出鞋侧、鞋跟和鞋头。十六帧原始 GIF。",
+    "imageCaption": "Predis.ai 原始 GIF 的首帧；详情保留未经转码的原始动图入口。",
+    "evidenceNote": "作者注明于 11 月 8 日用 Sunburst 制作，首次公开时间未单独核实。原文件为 608×816、十六帧、1.6 秒。",
+    "outcome": "产品旋转是生成的视角变化，不是已验证的三维资产或尺寸测量。",
+    "promptAvailability": "full",
+    "promptSummary": "固定相机，让白鞋在粉色转台转一圈后回到初始角度。完整提示词与原始文件均在来源页。",
+    "addedAt": "2026-11-11",
+    "observedAt": "2026-11-11",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "platforms": [
+      "Predis.ai"
+    ],
+    "sourceUrl": "https://predis.ai/ai-models/gpt-image-2-6/",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-11/predis-sneaker-spin-gif-poster.jpg",
+    "imageKind": "gif-frame",
+    "outputType": [
+      "原生 GIF 动图",
+      "原始 GIF 文件"
+    ],
+    "promptUrl": "https://predis.ai/ai-models/gpt-image-2-6/",
+    "evidenceUrls": [
+      "https://predis.ai/assets/img/ai-models/gpt-image-2-6/spin.gif"
+    ],
+    "evidenceStatus": "作者声明为 GPT-Image-2.6 原生 GIF",
+    "sourceAccess": "原始文件完整 GET，全部帧已解码且内容不同。卡片为同一文件的首帧，模型生成过程未复跑。",
+    "animatedGif": {
+      "url": "https://predis.ai/assets/img/ai-models/gpt-image-2-6/spin.gif",
+      "frames": 16,
+      "durationMs": 1600,
+      "width": 608,
+      "height": 816,
+      "bytes": 1181941,
+      "sha256": "3c1cff6297f9fedf5291f4dc0d273557dbb2dadf3e311fdb86d8781cd330eb5f",
+      "checkedAt": "2026-11-11"
+    }
+  },
+  {
     "id": "satsuki-amusement-park",
     "title": "Lumière Park：一页 HTML 的三维游乐园",
     "titleEn": "Lumière Park: A 3D Amusement Park in One HTML File",

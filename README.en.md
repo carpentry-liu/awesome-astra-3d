@@ -13,10 +13,26 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-11-08 (Asia/Shanghai)** · **451 Astra examples** · **121 source / project links** · **133 demo links** · **234 complete videos** · **12 separate references**.
+Updated **2026-11-11 (Asia/Shanghai)** · **455 Astra examples** · **121 source / project links** · **133 demo links** · **238 complete videos** · **4 GIF animations** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
+
+## Native GIF animations · GPT-Image-2.6
+
+[Browse GIFs](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=gif#collection) · [Official generation guide](https://developers.openai.com/api/docs/guides/image-generation#generate-animated-gif-output)
+
+These four original GIFs animate below. Open a preview for creator attribution, frame counts and the original file. This collection is counted separately from GPT-6 Astra; these are not recordings converted to GIF.
+
+| Lantern monkey · OpenAI | Earbuds reveal · Lightlyn |
+| --- | --- |
+| [<img src="https://developers.openai.com/images/platform/guides/image-prompting/monkey-lantern-gpt-image-2-6-sunburst.gif" height="200" alt="Lantern monkey · OpenAI GIF">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/openai-lantern-gif/) | [<img src="https://image.lightlyn.com/examples/gpt-image-2-6/gif-product.gif" height="200" alt="Earbuds reveal · Lightlyn GIF">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lightlyn-earbuds-gif/) |
+
+| Pixel knight · imageat | Sneaker turntable · Predis.ai |
+| --- | --- |
+| [<img src="https://cdn.imageat.com/marketing/gpt-image-2-6/pixel-knight-walk.gif" height="200" alt="Pixel knight · imageat GIF">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/imageat-pixel-knight-gif/) | [<img src="https://predis.ai/assets/img/ai-models/gpt-image-2-6/spin.gif" height="200" alt="Sneaker turntable · Predis.ai GIF">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/predis-sneaker-spin-gif/) |
+
+Third-party works remain the creators’ property. The site shows still previews until you press Play GIF.
 
 ## Six featured works to start from
 
@@ -44,18 +60,18 @@ Select a title or image to open the creator's demo directly. Case pages retain s
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-11-08.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-11-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Website screenshots were refreshed on **November 8, 2026** from the current local production build. See the creator previews and latest additions below for this update. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Website screenshots were refreshed on **November 11, 2026** from the current local production build. See the creator previews and latest additions below for this update. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
-<summary>Gallery, mobile and case screenshots · November 8, 2026</summary>
+<summary>Gallery, mobile and case screenshots · November 11, 2026</summary>
 
-[![Gallery filters and more works](docs/media/collection-2026-11-08.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![New GIF collection: character, product and pixel loops](docs/media/collection-2026-11-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=gif#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-11-08.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-11-11.jpg)
 
-[![Ivory skyship — WebGL comparison and complete recording](docs/media/case-2026-11-08.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-ivory-skyship/)
+[![Official lantern GIF — individual work page](docs/media/case-2026-11-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/openai-lantern-gif/)
 
 </details>
 
@@ -63,37 +79,33 @@ Website screenshots were refreshed on **November 8, 2026** from the current loca
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The November 8 update adds **eight works, six complete recordings, two source projects and one live demo**. Explore Lumière Park and its day/night switch, a Unity mountain-rescue game, an ivory skyship, a Fresnel lens, a lunar spider, an Eiffel Tower tour, a neon tram and mini-golf. X posts date to November 6–8; first publication dates for the repositories remain unverified. Each preview opens its case page.
+The November 11 update adds **four Astra works with four complete recordings, plus four native GPT-Image-2.6 GIFs**. New Astra recordings cover a corgi dock jump, Christ the Redeemer, a coral marble run and a gondola pulley tower; original X posts date to November 8–9. GIFs are a separate collection, with source attribution and original multi-frame files.
 
 <!-- atlas:update-previews:start -->
-**This update in pictures — creator works**
+**New Astra works · Original creator previews**
 
-| Lumière Park · source & demo | Ivory skyship · Astra right | Fresnel lens · Astra right |
-| --- | --- | --- |
-| [<img src="https://raw.githubusercontent.com/satsuki-c6s/ai-3d-amusement-park/aa9ffcb9ec054db631be5848b4b067468c0f63a8/astra-1.gif" height="165" alt="Lumière Park · source & demo">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/satsuki-amusement-park/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2118960658083729408/img/OEtTNmTVvW0XC7_Q.jpg" height="165" alt="Ivory skyship · Astra right">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-ivory-skyship/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2118812432781225984/img/SrLJK_Bo0-Cw1noK.jpg" height="165" alt="Fresnel lens · Astra right">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-fresnel-lighthouse/) |
-
-| Frostline Rescue · Unity source | Moon spider · Astra top | Eiffel Tower · Astra bottom |
-| --- | --- | --- |
-| [<img src="https://raw.githubusercontent.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue/8a8b035b04c3aa080088abac2c1baf091d9446d8/shots/new/vegetation-02/mission-0.png" height="165" alt="Frostline Rescue · Unity source">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/frostline-cable-rescue/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2118734503107801088/img/KjRWLq4bfejY7nZl.jpg" height="165" alt="Moon spider · Astra top">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/one2x-blender-spider/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2119033880712040448/img/iGBUQAUeP97QOM3Q.jpg" height="165" alt="Eiffel Tower · Astra bottom">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/cfeng-eiffel-tower/) |
-
-| Neon tram · Astra right | Mini-golf · Astra top |
+| Corgi dock jump · Havis | Christ the Redeemer · EnvolDev |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2118636328736997376/img/gqZeUPrEBZie8t4G.jpg" height="165" alt="Neon tram · Astra right">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-neon-tram/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2119118536190590977/img/Klu-iysxj9Htmyaz.jpg" height="165" alt="Mini-golf · Astra top">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/andriy-mini-golf/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2119554631063818240/img/qjASvKf_3h3WvgC7.jpg" height="165" alt="Corgi dock jump · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-corgi-frisbee/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2119508814924070912/img/Uqob8a79x3696puL.jpg" height="165" alt="Christ the Redeemer · EnvolDev">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/envol-christ-redeemer/) |
 
-[Watch the recordings](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Download originals](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-08)
+| Coral marble run · teddyaisi | Gondola pulley tower · teddyaisi |
+| --- | --- |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2119301958947459072/img/L5gB6gCXVjmf6X6x.jpg" height="165" alt="Coral marble run · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-coral-marble/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2119289892543033344/img/vv43921RsW0xwRTO.jpg" height="165" alt="Gondola pulley tower · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-gondola-pulley/) |
+
+[GIF animations](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=gif#collection) · [Full videos](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Download originals](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-11)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [Lumière Park: A 3D Amusement Park in One HTML File](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/satsuki-amusement-park/) | さつき / satsuki-c6s | [Demo](https://satsuki-c6s.github.io/ai-3d-amusement-park/astra-1.html) · [Source](https://github.com/satsuki-c6s/ai-3d-amusement-park) · [Original](https://github.com/satsuki-c6s/ai-3d-amusement-park) |
-| [An Ivory Skyship Above a Floating City](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-ivory-skyship/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2118960786353836161) |
-| [A Rotating Fresnel Lens Inside a Stone Lighthouse](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-fresnel-lighthouse/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2118812488032715126) |
-| [Frostline Rescue: A Unity Crane and Cable Rescue Game](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/frostline-cable-rescue/) | ffffrrrr-cmyk | [Source](https://github.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue) · [Original](https://github.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue) |
-| [An Eight-Legged Cyber Spider on the Moon](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/one2x-blender-spider/) | One2x Datalab / @One2xDatalab | [Original](https://x.com/One2xDatalab/status/2118734639737258439) |
-| [An Eiffel Tower Tour in a Single Three.js Page](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/cfeng-eiffel-tower/) | CF长风 / @cfenghub | [Original](https://x.com/cfenghub/status/2119040166744527184) |
-| [An Elevated Tram in a Rainy Neon City](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-neon-tram/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2118636567648715060) |
-| [Low-Poly Mini-Golf in WebGL](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/andriy-mini-golf/) | AndrIy / @Andr1ycp | [Original](https://x.com/Andr1ycp/status/2119118596202979727) |
+| [Corgi Dock Jump: Frisbee Catch and Splash](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-corgi-frisbee/) | Havis \| Claude Code / @HavisT83099 | [Original](https://x.com/HavisT83099/status/2119554699888058378) |
+| [Christ the Redeemer: A Three.js Orbit above the Clouds](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/envol-christ-redeemer/) | Tony / @EnvolDev | [Original](https://x.com/EnvolDev/status/2119527377109672111) |
+| [Coral Marble Run and Counterweighted Bridge](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-coral-marble/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2119302049234084047) |
+| [Yellow Gondola and Pulley Tower over a Valley](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-gondola-pulley/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2119289934351946228) |
+| [Lantern Monkey: Official Character GIF Loop](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/openai-lantern-gif/) | OpenAI | [GIF](https://developers.openai.com/images/platform/guides/image-prompting/monkey-lantern-gpt-image-2-6-sunburst.gif) · [Original](https://developers.openai.com/api/docs/guides/image-generation#generate-animated-gif-output) |
+| [Earbuds Unboxing: Lift, Settle and Close](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lightlyn-earbuds-gif/) | Linger / Lightlyn | [GIF](https://image.lightlyn.com/examples/gpt-image-2-6/gif-product.gif) · [Original](https://image.lightlyn.com/gpt-image-2-6?lang=en) |
+| [Blue-Plumed Knight: Pixel Walk Cycle](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/imageat-pixel-knight-gif/) | imageat | [GIF](https://cdn.imageat.com/marketing/gpt-image-2-6/pixel-knight-walk.gif) · [Original](https://imageat.com/gpt-image-2-6) |
+| [Sneaker Turntable: A Sixteen-Frame Product Spin](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/predis-sneaker-spin-gif/) | Predis.ai | [GIF](https://predis.ai/assets/img/ai-models/gpt-image-2-6/spin.gif) · [Original](https://predis.ai/ai-models/gpt-image-2-6/) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)
@@ -102,7 +114,7 @@ The November 8 update adds **eight works, six complete recordings, two source pr
 
 | Label | Meaning |
 | --- | --- |
-| Official showcase | An official project page explicitly identifies Astra |
+| Official showcase | An official project page or guide explicitly identifies the model |
 | Author statement | An accessible creator post, article or repository identifies the model |
 | Secondary evidence | The original page is restricted; a mirror, quote or collection provides the statement |
 | Method reference | Separately grouped composition and prompting references, excluded from Astra counts |

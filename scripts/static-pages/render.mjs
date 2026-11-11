@@ -66,6 +66,7 @@ function resources(record, lang) {
       ? link(record.repositoryUrl, t.source, 'button primary')
       : null,
     record.demoUrl ? link(record.demoUrl, t.demo, 'button') : null,
+    record.animatedGif ? link(record.animatedGif.url, t.gifOriginal, 'button') : null,
     link(record.sourceUrl, t.original, 'button'),
     record.promptUrl ? link(record.promptUrl, t.process, 'button') : null,
   ]
@@ -130,13 +131,14 @@ function card(record, currentPath, lang) {
   const t = labels[lang],
     title = languageTitle(record, lang);
   const badges = [
+    record.animatedGif ? 'GIF' : null,
     record.repositoryUrl ? t.source : null,
     record.demoUrl ? t.demo : null,
     record.archivedVideos?.length
       ? `${record.archivedVideos.length} ${t.video}`
       : null,
   ].filter(Boolean);
-  return `<article class="work-card" data-case-id="${escapeHtml(record.id)}" data-group="${escapeHtml(record.group)}"><a class="card-image" href="${relativeHref(currentPath, casePath(record.id, lang))}">${imageMarkup(record.imageUrl, title, currentPath, lang)}</a><div class="card-content"><p class="eyebrow">${escapeHtml(record.group === 'astra' ? t.astra : t.reference)}</p><h3><a href="${relativeHref(currentPath, casePath(record.id, lang))}">${escapeHtml(title)}</a></h3><p class="creator">${escapeHtml(record.author || t.unknown)} · ${escapeHtml(record.platform)}</p><div class="badges">${badges.map((v) => `<span>${escapeHtml(v)}</span>`).join('')}</div>${resources(record, lang)}</div></article>`;
+  return `<article class="work-card" data-case-id="${escapeHtml(record.id)}" data-group="${escapeHtml(record.group)}"><a class="card-image" href="${relativeHref(currentPath, casePath(record.id, lang))}">${imageMarkup(record.imageUrl, title, currentPath, lang)}</a><div class="card-content"><p class="eyebrow">${escapeHtml(t[record.group])}</p><h3><a href="${relativeHref(currentPath, casePath(record.id, lang))}">${escapeHtml(title)}</a></h3><p class="creator">${escapeHtml(record.author || t.unknown)} · ${escapeHtml(record.platform)}</p><div class="badges">${badges.map((v) => `<span>${escapeHtml(v)}</span>`).join('')}</div>${resources(record, lang)}</div></article>`;
 }
 
 function topicLinks(currentPath, lang) {
@@ -149,7 +151,7 @@ export function renderCase(record, language = 'zh') {
     title = languageTitle(record, language);
   const description =
     language === 'en'
-      ? `${title}. ${record.group === 'astra' ? 'GPT-6 Astra source record' : 'Separate method reference'} by ${record.author || 'an uncredited creator'}, with public materials and attribution.`
+      ? `${title}. ${record.group === 'astra' ? 'GPT-6 Astra source record' : record.group === 'gif' ? 'GPT-Image GIF animation' : 'Separate method reference'} by ${record.author || 'an uncredited creator'}, with public materials and attribution.`
       : `${record.group === 'reference' ? '独立方法参考（不计入 Astra）。' : ''}${title}。${record.summary}`.slice(
           0,
           200,
@@ -165,9 +167,11 @@ export function renderCase(record, language = 'zh') {
   const prompt = record.promptExcerpt
     ? `<h3>${t.excerpt}</h3><blockquote>${escapeHtml(record.promptExcerpt)}</blockquote>`
     : '';
-  const body = `<div class="breadcrumbs"><a href="${relativeHref(currentPath, browsePath(1, language))}">${t.browse}</a><span aria-hidden="true">/</span><span>${escapeHtml(record.group === 'astra' ? t.astra : t.reference)}</span></div>
-<section class="record-heading"><p class="eyebrow">${escapeHtml(record.category)} · ${escapeHtml(evidenceLabel(record.evidenceLevel, language))}</p><h1>${escapeHtml(title)}</h1><p class="creator">${escapeHtml(record.author || t.unknown)} · ${escapeHtml(record.platform)}</p>${record.group === 'reference' ? `<p class="notice">${t.methods}</p>` : ''}${resources(record, language)}</section>
-<figure class="hero-image">${imageMarkup(record.imageUrl, record.imageCaption || title, currentPath, language, '', true)}<figcaption${sourceLanguageAttribute(record.imageCaption, language)}>${escapeHtml(record.imageCaption)} · ${escapeHtml(record.author || t.unknown)}</figcaption></figure>
+  const gif = record.animatedGif;
+  const hero = gif ? `<div class="gif-player" data-gif="${external(gif.url)}"><img src="${escapeHtml(mediaHref(record.imageUrl, currentPath))}" data-poster="${escapeHtml(mediaHref(record.imageUrl, currentPath))}" alt="${escapeHtml(title)}" width="${gif.width}" height="${gif.height}" referrerpolicy="no-referrer"/><div class="gif-controls"><button type="button" hidden aria-pressed="false" data-play="${t.gifPlay}" data-stop="${t.gifStop}">${t.gifPlay}</button><span>${gif.frames} ${t.gifFrames} · ${gif.durationMs / 1000}s · ${gif.width} × ${gif.height}</span></div><p role="status" hidden>${t.gifFailed}</p><noscript>${link(gif.url, t.gifOriginal)}</noscript></div>` : imageMarkup(record.imageUrl, record.imageCaption || title, currentPath, language, '', true);
+  const body = `<div class="breadcrumbs"><a href="${relativeHref(currentPath, browsePath(1, language))}">${t.browse}</a><span aria-hidden="true">/</span><span>${escapeHtml(t[record.group])}</span></div>
+<section class="record-heading"><p class="eyebrow">${escapeHtml(record.category)} · ${escapeHtml(evidenceLabel(record.evidenceLevel, language))}</p><h1>${escapeHtml(title)}</h1><p class="creator">${escapeHtml(record.author || t.unknown)} · ${escapeHtml(record.platform)}</p>${record.group === 'reference' ? `<p class="notice">${t.methods}</p>` : record.group === 'gif' ? `<p class="notice">${t.gifNotice}</p>` : ''}${resources(record, language)}</section>
+<figure class="hero-image">${hero}<figcaption${sourceLanguageAttribute(record.imageCaption, language)}>${escapeHtml(record.imageCaption)} · ${escapeHtml(record.author || t.unknown)}</figcaption></figure>
 <div class="record-layout"><div class="record-main"><section aria-labelledby="summary"><h2 id="summary">${t.summary}</h2>${sourceText(record.summary, language)}<h3>${t.output}</h3><ul${language === 'en' ? ' lang="zh-Hans"' : ''}>${record.outputType.map((output) => `<li>${escapeHtml(output)}</li>`).join('')}</ul></section>
 ${videos ? `<section aria-labelledby="videos"><h2 id="videos">${t.video}</h2><div class="clips">${videos}</div></section>` : ''}
 <section aria-labelledby="prompt"><h2 id="prompt">${t.prompt}</h2><h3>${t.availability}</h3>${sourceText(readerStatus('promptAvailability', record.promptAvailability, language), language)}${prompt}${record.promptSummary ? `<h3>${t.task}</h3>${sourceText(record.promptSummary, language)}` : ''}<p>${record.promptUrl ? t.fullPrompt : t.noPrompt}</p>${record.promptUrl ? link(record.promptUrl, t.process, 'button') : ''}</section>
@@ -221,21 +225,22 @@ export function renderBrowse(records, page, language) {
     pageCount = Math.ceil(records.length / PAGE_SIZE);
   const selected = records.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE);
   const astra = records.filter((record) => record.group === 'astra').length,
-    reference = records.length - astra;
+    reference = records.filter((record) => record.group === 'reference').length,
+    gif = records.filter((record) => record.group === 'gif').length;
   const title = `${t.browse} · ${t.page} ${page} / ${pageCount}`;
   const description =
     language === 'en'
-      ? `${astra} Astra records and ${reference} separate method references. ${t.intro}`
-      : `${astra} 条 Astra 案例与 ${reference} 条独立方法参考。${t.intro}`;
-  const sections = ['astra', 'reference']
+      ? `${astra} Astra records, ${gif} GIF animations and ${reference} separate method references. ${t.intro}`
+      : `${astra} 条 Astra 案例、${gif} 件 GIF 动图与 ${reference} 条独立方法参考。${t.intro}`;
+  const sections = ['astra', 'gif', 'reference']
     .map((group) => {
       const groupRecords = selected.filter((record) => record.group === group);
       return groupRecords.length
-        ? `<section class="directory-group" aria-labelledby="${group}"><h2 id="${group}">${group === 'astra' ? t.astra : t.reference}</h2><div class="work-grid">${groupRecords.map((record) => card(record, currentPath, language)).join('')}</div></section>`
+        ? `<section class="directory-group" aria-labelledby="${group}"><h2 id="${group}">${t[group]}</h2><div class="work-grid">${groupRecords.map((record) => card(record, currentPath, language)).join('')}</div></section>`
         : '';
     })
     .join('');
-  const body = `<section class="directory-heading"><p class="eyebrow">ASTRA 3D ATLAS / INDEX</p><h1>${t.browse}</h1><p class="lede">${t.intro}</p><p>${astra} Astra · ${reference} ${language === 'en' ? 'separate references' : '独立参考'} · ${t.page} ${page} / ${pageCount}</p><p class="media-note">${t.methods}</p>${topicLinks(currentPath, language)}</section>${sections}
+  const body = `<section class="directory-heading"><p class="eyebrow">ASTRA 3D ATLAS / INDEX</p><h1>${t.browse}</h1><p class="lede">${t.intro}</p><p>${astra} Astra · ${gif} GIF · ${reference} ${language === 'en' ? 'separate references' : '独立参考'} · ${t.page} ${page} / ${pageCount}</p><p class="media-note">${t.methods}</p>${topicLinks(currentPath, language)}</section>${sections}
 <nav class="pagination" aria-label="${t.allPages}">${page > 1 ? `<a class="button" rel="prev" href="${relativeHref(currentPath, browsePath(page - 1, language))}">${t.prev}</a>` : ''}<div class="page-links">${Array.from({ length: pageCount }, (_, i) => `<a href="${relativeHref(currentPath, browsePath(i + 1, language))}"${page === i + 1 ? ' aria-current="page"' : ''}>${i + 1}</a>`).join('')}</div>${page < pageCount ? `<a class="button" rel="next" href="${relativeHref(currentPath, browsePath(page + 1, language))}">${t.next}</a>` : ''}</nav>`;
   return pageTemplate({ currentPath, language, title, description, body });
 }

@@ -49,9 +49,13 @@ import { readerStatus } from '@/src/case-copy';
 import { registerCatalogTool } from '@/src/webmcp';
 import casesData from '@/data/catalog-index.json';
 import { VideoPlayer, videoTime } from '@/src/video-player';
+import { GifPlayer } from '@/src/gif-player';
 import { Welcome } from './welcome';
 import { navigateToSection } from '@/src/section-navigation';
-import { PAGE_SIZE as pageSize, REPOSITORY_URL as github } from '@/src/site.mjs';
+import {
+  PAGE_SIZE as pageSize,
+  REPOSITORY_URL as github,
+} from '@/src/site.mjs';
 
 const allCases = casesData as CaseIndex[];
 const latestAdded =
@@ -60,6 +64,7 @@ const latestAdded =
     .sort()
     .at(-1) ?? '';
 const imageKinds: Record<string, [string, string]> = {
+  'gif-frame': ['GIF 动图 · 点击观看', 'GIF loop · Open to play'],
   illustration: ['模型示意图', 'Illustration'],
   comparison: ['对照媒体', 'Comparison'],
   'concept-art': ['概念图', 'Concept art'],
@@ -199,6 +204,8 @@ export default function Home() {
   const t = messages[locale];
   const selectedIndex = allCases.find((c) => c.id === selectedId);
   const astraCount = allCases.filter((c) => c.group === 'astra').length;
+  const gifCount = allCases.filter((c) => c.group === 'gif').length;
+  const referenceCount = allCases.filter((c) => c.group === 'reference').length;
   const scoped = allCases.filter((c) => c.group === group);
   const categories = ['全部', ...new Set(scoped.map((c) => c.category))];
   const platforms = ['全部', ...new Set(scoped.map((c) => c.platform))];
@@ -434,7 +441,11 @@ export default function Home() {
         <div className="result-bar">
           <span aria-live="polite">
             <strong>{cases.length}</strong> {t.results} <i>/</i>{' '}
-            {group === 'astra' ? t.sourceGrade : t.referenceGrade}
+            {group === 'astra'
+              ? t.sourceGrade
+              : group === 'gif'
+                ? t.gifGrade
+                : t.referenceGrade}
           </span>
         </div>
         {cases.length ? (
@@ -641,8 +652,12 @@ export default function Home() {
         locale={locale}
         search={activeSearch}
         onOpen={openCase}
-        onExplore={(nextResource, nextOrder = 'curated') => {
-          setGroup('astra');
+        onExplore={(
+          nextResource,
+          nextOrder = 'curated',
+          nextGroup = 'astra',
+        ) => {
+          setGroup(nextGroup);
           resetFilters();
           setResource(nextResource);
           setOrder(nextOrder);
@@ -680,12 +695,24 @@ export default function Home() {
             <TabsTrigger value="astra">
               {t.astra} <span>{astraCount}</span>
             </TabsTrigger>
+            <TabsTrigger value="gif">
+              {t.gif} <span>{gifCount}</span>
+            </TabsTrigger>
             <TabsTrigger value="reference">
-              {t.reference} <span>{allCases.length - astraCount}</span>
+              {t.reference} <span>{referenceCount}</span>
             </TabsTrigger>
             <TabsTrigger value="about">{t.about}</TabsTrigger>
           </TabsList>
           <TabsContent value="astra">{grid}</TabsContent>
+          <TabsContent value="gif">
+            <p className="reference-notice">
+              {t.gifNotice}{' '}
+              <OutLink href="https://developers.openai.com/api/docs/guides/image-generation#generate-animated-gif-output">
+                {t.gifDocs} ↗
+              </OutLink>
+            </p>
+            {grid}
+          </TabsContent>
           <TabsContent value="reference">
             <p className="reference-notice">{t.referenceNotice}</p>
             {grid}
@@ -818,7 +845,15 @@ export default function Home() {
                 <p className="source-language-note">{t.sourceLanguage}</p>
               )}
               <div className="detail-media-wrapper">
-                {selected.archivedVideos?.length ? (
+                {selected.animatedGif ? (
+                  <GifPlayer
+                    key={selected.id}
+                    gif={selected.animatedGif}
+                    poster={selected.imageUrl}
+                    title={workTitle(selected, locale)}
+                    locale={locale}
+                  />
+                ) : selected.archivedVideos?.length ? (
                   selected.archivedVideos.map((video) => (
                     <VideoPlayer
                       key={video.playbackUrl}
@@ -845,6 +880,12 @@ export default function Home() {
                   {t.original}
                   <ExternalLink size={16} />
                 </OutLink>
+                {selected.animatedGif && (
+                  <OutLink href={selected.animatedGif.url}>
+                    {t.gifOriginal}
+                    <ExternalLink size={16} />
+                  </OutLink>
+                )}
                 {selected.demoUrl && (
                   <OutLink href={selected.demoUrl}>
                     {t.openWork}

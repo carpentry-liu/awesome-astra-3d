@@ -12868,6 +12868,240 @@
       "newMediaFiles": 12,
       "newMediaBytes": 51432833,
       "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-08"
+    },
+    {
+      "observedAt": "2026-11-11",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "baselineCommit": "414fbb77632f0c4bf836a29f4a644fb277820a33",
+      "baselineCount": 463,
+      "resultingCount": 471,
+      "addedCaseIds": [
+        "havis-corgi-frisbee",
+        "envol-christ-redeemer",
+        "teddy-coral-marble",
+        "teddy-gondola-pulley",
+        "openai-lantern-gif",
+        "lightlyn-earbuds-gif",
+        "imageat-pixel-knight-gif",
+        "predis-sneaker-spin-gif"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "coverage": [
+        {
+          "id": "havis-corgi-frisbee",
+          "sourceDate": "2026-11-09",
+          "sourceUrl": "https://x.com/HavisT83099/status/2119554699888058378",
+          "modelLabel": "GPT-6 Astra · 作者动作对照",
+          "group": "astra"
+        },
+        {
+          "id": "envol-christ-redeemer",
+          "sourceDate": "2026-11-09",
+          "sourceUrl": "https://x.com/EnvolDev/status/2119527377109672111",
+          "modelLabel": "GPT-6 Astra · Three.js（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "teddy-coral-marble",
+          "sourceDate": "2026-11-08",
+          "sourceUrl": "https://x.com/teddyaisi/status/2119302049234084047",
+          "modelLabel": "GPT-6 Astra · WebGL（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "teddy-gondola-pulley",
+          "sourceDate": "2026-11-08",
+          "sourceUrl": "https://x.com/teddyaisi/status/2119289934351946228",
+          "modelLabel": "GPT-6 Astra · WebGL（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "openai-lantern-gif",
+          "sourceDate": null,
+          "sourceUrl": "https://developers.openai.com/api/docs/guides/image-generation#generate-animated-gif-output",
+          "modelLabel": "GPT-Image-2.6 Sunburst",
+          "group": "gif"
+        },
+        {
+          "id": "lightlyn-earbuds-gif",
+          "sourceDate": "2026-11-05",
+          "sourceUrl": "https://image.lightlyn.com/gpt-image-2-6?lang=en",
+          "modelLabel": "GPT-Image-2.6 Sunburst",
+          "group": "gif"
+        },
+        {
+          "id": "imageat-pixel-knight-gif",
+          "sourceDate": null,
+          "sourceUrl": "https://imageat.com/gpt-image-2-6",
+          "modelLabel": "GPT-Image-2.6（来源未标明该例子子型号）",
+          "group": "gif"
+        },
+        {
+          "id": "predis-sneaker-spin-gif",
+          "sourceDate": null,
+          "sourceUrl": "https://predis.ai/ai-models/gpt-image-2-6/",
+          "modelLabel": "GPT-Image-2.6 Sunburst",
+          "group": "gif"
+        }
+      ],
+      "queries": [
+        "ChatGPT GIF creation Images 2.6",
+        "GPT Image 2.6 gif examples animation",
+        "GPT-6 Astra 3D after:2026-11-08",
+        "Astra Blender after:2026-11-08 site:bilibili.com",
+        "Astra 3D after:2026-11-08 site:xiaohongshu.com",
+        "Astra Rigging TopologyAI",
+        "Astra rigging animating Reddit"
+      ],
+      "discoverySources": [
+        "https://aivs.tv/models/gpt-6-astra/",
+        "https://teapawt.net/vib3coded",
+        "https://teapawt.net/teddyaisi",
+        "https://teapawt.net/noclipepe",
+        "https://teapawt.net/Andr1ycp",
+        "https://teapawt.net/maker_jackie",
+        "https://teapawt.net/sgarlen01",
+        "https://teapawt.net/KostiKoNeuro",
+        "https://teapawt.net/az9713",
+        "https://teapawt.net/Kontentsukpi",
+        "https://teapawt.net/jinhuaachen",
+        "https://teapawt.net/gia9ang",
+        "https://teapawt.net/lilobench",
+        "https://teapawt.net/ESC__AI",
+        "https://teapawt.net/Capocci_AI",
+        "https://teapawt.net/Lummox_eth",
+        "https://teapawt.net/frankzydou",
+        "https://developers.openai.com/api/docs/guides/image-generation",
+        "https://yepshot.com/gpt-image-2-6-prompts",
+        "https://image.lightlyn.com/gpt-image-2-6?lang=en",
+        "https://imageat.com/gpt-image-2-6",
+        "https://predis.ai/ai-models/gpt-image-2-6/"
+      ],
+      "primarySourceChecks": [
+        {
+          "caseId": "envol-christ-redeemer",
+          "sourceUrl": "https://x.com/EnvolDev/status/2119527377109672111",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 135805,
+          "sha256": "2451463cf7278e2542b273f8febba7db3a7a49b256f640e7248078db14da2af8",
+          "createdAtShanghai": "2026-11-09T04:28:00+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2119508814924070912"
+        },
+        {
+          "caseId": "havis-corgi-frisbee",
+          "sourceUrl": "https://x.com/HavisT83099/status/2119554699888058378",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 161762,
+          "sha256": "1e36628bc1486063d8bf1c5478ed5bdd37b1af55ef9051d3972079c2532bd8e0",
+          "createdAtShanghai": "2026-11-09T06:16:34+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2119554631063818240"
+        },
+        {
+          "caseId": "teddy-coral-marble",
+          "sourceUrl": "https://x.com/teddyaisi/status/2119302049234084047",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 127364,
+          "sha256": "0af123253decd6d4475b94d316f32f42aaab8d2fd2628fe3046d6391f9986884",
+          "createdAtShanghai": "2026-11-08T13:32:37+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2119301958947459072"
+        },
+        {
+          "caseId": "teddy-gondola-pulley",
+          "sourceUrl": "https://x.com/teddyaisi/status/2119289934351946228",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 140497,
+          "sha256": "f6fc339c5e27f3e78f269159bd654712d1b1a62de9a053f50d1ba18f845c5030",
+          "createdAtShanghai": "2026-11-08T12:44:29+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2119289892543033344"
+        },
+        {
+          "url": "https://developers.openai.com/api/docs/guides/image-generation#generate-animated-gif-output",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "contentLength": 1349143,
+          "bytes": 1349143,
+          "sha256": "0fa281b4fe882c4ff3dead51fb0995c2b8d6c6afdf3ea94f8975493d28607256",
+          "fullGet": true,
+          "caseId": "openai-lantern-gif",
+          "modelStatementMatched": true
+        },
+        {
+          "url": "https://image.lightlyn.com/gpt-image-2-6?lang=en",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "contentLength": null,
+          "bytes": 44364,
+          "sha256": "ce2c3dae079f4a3ef1980d3364ac6ae98c2e17dc36d325760e2d6a75b00af059",
+          "fullGet": true,
+          "caseId": "lightlyn-earbuds-gif",
+          "modelStatementMatched": true
+        },
+        {
+          "url": "https://imageat.com/gpt-image-2-6",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "contentLength": null,
+          "bytes": 227227,
+          "sha256": "02bb07bfa8104721cbc13c2ebdc7c8c9b3b8f4964b2d5685d9ed125360ef8037",
+          "fullGet": true,
+          "caseId": "imageat-pixel-knight-gif",
+          "modelStatementMatched": true
+        },
+        {
+          "url": "https://predis.ai/ai-models/gpt-image-2-6/",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "contentLength": null,
+          "bytes": 93712,
+          "sha256": "037629e3a03f229b97a668b670d03a16cc875d8c5495092b2a5cf3d5fdd3cfb1",
+          "fullGet": true,
+          "caseId": "predis-sneaker-spin-gif",
+          "modelStatementMatched": true
+        }
+      ],
+      "excludedOrDeferred": [
+        {
+          "url": "https://x.com/miso_bits/status/2119473319384645820",
+          "reason": "Author explicitly says this is the brief in motion and the two model runs are next; not accepted as an Astra output."
+        },
+        {
+          "url": "https://x.com/XtraAi/status/2119719083407016257",
+          "reason": "Visible r/TopologyAI watermark; exact original authorship and date unresolved. Search also returned an older comparison. Avoid a potentially duplicate repost."
+        },
+        {
+          "url": "https://yepshot.com/gpt-image-2-6-prompts",
+          "reason": "Displayed results linked to WebP previews; this batch prioritizes sources exposing original GIF bytes."
+        },
+        {
+          "url": "https://teapawt.net/Lummox_eth",
+          "reason": "Staged or illustrative comparison costs have not been independently established; not accepted as benchmark evidence."
+        }
+      ],
+      "platformLimits": [
+        "Public Chinese-platform searches did not establish an additional new attributable Astra work with viewable outcome media.",
+        "X discovery mirrors were leads only; accepted posts were checked against original HTML, author and exact timestamp.",
+        "The four GIFs have separate primary attribution and are excluded from Astra and method-reference totals. Unknown first-publication dates remain null.",
+        "Link availability and full media decoding do not independently reproduce model generation or cost claims."
+      ],
+      "completeSourceClips": 4,
+      "newGifWorks": 4,
+      "newMediaFiles": 8,
+      "newMediaBytes": 57378111,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-11"
     }
   ]
 }

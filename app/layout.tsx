@@ -12,7 +12,7 @@ const shareImage = new URL('share.jpg', SITE_URL).href;
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: `GPT-6 Astra 3D Examples — ${count} Blender & Three.js 案例 | Astra 3D Atlas`,
-  description: `浏览 ${count} 个 GPT-6 Astra 三维案例：Blender、Houdini、Rhino、Three.js、Godot、CAD 与空间重建。按源码、演示入口与完整视频筛选，附原作者、公开提示词和工程。`,
+  description: `浏览 ${count} 个 GPT-6 Astra 三维案例：Blender、Houdini、Rhino、Three.js、Godot、CAD 与空间重建。按源码、演示入口与完整视频筛选，附原作者、公开提示词和工程；新增独立 GPT-Image-2.6 GIF 动图分类。`,
   alternates: {
     canonical: SITE_URL,
   },
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     type: 'website',
     siteName: 'Astra 3D Atlas',
     title: 'Awesome GPT-6 Astra 3D — Projects, Demos & Complete Videos',
-    description: 'Explore public Blender projects, interactive worlds, browser games and complete source clips. Follow original creators and start from available materials.',
+    description: 'Explore public Blender projects, interactive worlds, browser games and complete source clips. Also explore native GPT-Image-2.6 GIF loops with original files and creator attribution.',
     url: SITE_URL,
     images: [{url:shareImage,alt:'Astra 3D Atlas — actual gallery preview'}],
   },

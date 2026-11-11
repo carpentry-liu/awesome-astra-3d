@@ -78373,6 +78373,1188 @@
           }
         ]
       }
+    },
+    {
+      "checkedAt": "2026-11-11",
+      "round": "daily",
+      "scope": "Eight new previews, four complete X clips and four native GIFs. Historical checks remain a separate sample.",
+      "addedCaseIds": [
+        "havis-corgi-frisbee",
+        "envol-christ-redeemer",
+        "teddy-coral-marble",
+        "teddy-gondola-pulley",
+        "openai-lantern-gif",
+        "lightlyn-earbuds-gif",
+        "imageat-pixel-knight-gif",
+        "predis-sneaker-spin-gif"
+      ],
+      "removedCaseIds": [],
+      "previews": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2119554631063818240/img/qjASvKf_3h3WvgC7.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 119654,
+          "bytes": 119654,
+          "sha256": "571e41bc8c8425a51c229256d62605ace1abdbd3d4e75b3de44a0aed9083a18e",
+          "fullGet": true,
+          "caseId": "havis-corgi-frisbee",
+          "sourceUrl": "https://x.com/HavisT83099/status/2119554699888058378",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            960,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2119508814924070912/img/Uqob8a79x3696puL.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 188651,
+          "bytes": 188651,
+          "sha256": "0b4fd817fa51d78f129102c11a3f3c911a20c945bd2bcb183255d97c26ed5eec",
+          "fullGet": true,
+          "caseId": "envol-christ-redeemer",
+          "sourceUrl": "https://x.com/EnvolDev/status/2119527377109672111",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2119301958947459072/img/L5gB6gCXVjmf6X6x.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 115753,
+          "bytes": 115753,
+          "sha256": "50b491a40a43bac8e03c9c3efccb60114d7bfbe353df860ace39b4297222f8c5",
+          "fullGet": true,
+          "caseId": "teddy-coral-marble",
+          "sourceUrl": "https://x.com/teddyaisi/status/2119302049234084047",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2119289892543033344/img/vv43921RsW0xwRTO.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 122132,
+          "bytes": 122132,
+          "sha256": "e74b4fe3ecda75f991c39015c3320bfba0c70203a7897fd6dde6e530a0340806",
+          "fullGet": true,
+          "caseId": "teddy-gondola-pulley",
+          "sourceUrl": "https://x.com/teddyaisi/status/2119289934351946228",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "openai-lantern-gif",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-11/openai-lantern-gif-poster.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 80272,
+          "sha256": "90de343681a7fd1304500d930e01cf28e9a1982a0e82d593b839ae3c575e4f54",
+          "dimensions": [
+            512,
+            512
+          ],
+          "decoded": true,
+          "frames": 1,
+          "sourceUrl": "https://developers.openai.com/images/platform/guides/image-prompting/monkey-lantern-gpt-image-2-6-sunburst.gif",
+          "frameIndex": 0,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "lightlyn-earbuds-gif",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-11/lightlyn-earbuds-gif-poster.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 79542,
+          "sha256": "b3caddb1e0ea02dd664f8eaef9e62c5f9aa58bc1a7426bd1e976209ab475e434",
+          "dimensions": [
+            960,
+            960
+          ],
+          "decoded": true,
+          "frames": 1,
+          "sourceUrl": "https://image.lightlyn.com/examples/gpt-image-2-6/gif-product.gif",
+          "frameIndex": 0,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "imageat-pixel-knight-gif",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-11/imageat-pixel-knight-gif-poster.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 52819,
+          "sha256": "9df556b7a1ba42fda9854297ef3ee077c37259409a816eb43061c00c2636c3d6",
+          "dimensions": [
+            768,
+            768
+          ],
+          "decoded": true,
+          "frames": 1,
+          "sourceUrl": "https://cdn.imageat.com/marketing/gpt-image-2-6/pixel-knight-walk.gif",
+          "frameIndex": 0,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "predis-sneaker-spin-gif",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-11/predis-sneaker-spin-gif-poster.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 48651,
+          "sha256": "9a8d7f777dd6c7344e6aa55111dd5cf20486ca6adbc9bf6114aec63284cbb7b7",
+          "dimensions": [
+            608,
+            816
+          ],
+          "decoded": true,
+          "frames": 1,
+          "sourceUrl": "https://predis.ai/assets/img/ai-models/gpt-image-2-6/spin.gif",
+          "frameIndex": 0,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        }
+      ],
+      "animatedGifs": [
+        {
+          "url": "https://developers.openai.com/images/platform/guides/image-prompting/monkey-lantern-gpt-image-2-6-sunburst.gif",
+          "httpStatus": 200,
+          "contentType": "image/gif",
+          "contentLength": 1280950,
+          "bytes": 1280950,
+          "sha256": "5d786a550b93a24fed3aec36725eab00f767cb4aa84985027004e40eb6c61f52",
+          "fullGet": true,
+          "caseId": "openai-lantern-gif",
+          "sourceUrl": "https://developers.openai.com/api/docs/guides/image-generation#generate-animated-gif-output",
+          "dimensions": [
+            512,
+            512
+          ],
+          "frames": 9,
+          "durationMs": 1800,
+          "frameDurationsMs": [
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200
+          ],
+          "distinctFrames": 9,
+          "loop": 0,
+          "actualImageFormat": "GIF",
+          "decoded": true,
+          "allFramesDecoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://image.lightlyn.com/examples/gpt-image-2-6/gif-product.gif",
+          "httpStatus": 200,
+          "contentType": "image/gif",
+          "contentLength": 2221707,
+          "bytes": 2221707,
+          "sha256": "1908d92f1ff3431b26c244b2e4a9023592b1a3652a4822a15c645d1d49b9931c",
+          "fullGet": true,
+          "caseId": "lightlyn-earbuds-gif",
+          "sourceUrl": "https://image.lightlyn.com/gpt-image-2-6?lang=en",
+          "dimensions": [
+            960,
+            960
+          ],
+          "frames": 9,
+          "durationMs": 1800,
+          "frameDurationsMs": [
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200
+          ],
+          "distinctFrames": 9,
+          "loop": 0,
+          "actualImageFormat": "GIF",
+          "decoded": true,
+          "allFramesDecoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://cdn.imageat.com/marketing/gpt-image-2-6/pixel-knight-walk.gif",
+          "httpStatus": 200,
+          "contentType": "image/gif",
+          "contentLength": 489017,
+          "bytes": 489017,
+          "sha256": "327e4a9f09663d7bcead3c635229f844090954190d9d593e4ad1f503dd6bde35",
+          "fullGet": true,
+          "caseId": "imageat-pixel-knight-gif",
+          "sourceUrl": "https://imageat.com/gpt-image-2-6",
+          "dimensions": [
+            768,
+            768
+          ],
+          "frames": 8,
+          "durationMs": 880,
+          "frameDurationsMs": [
+            110,
+            110,
+            110,
+            110,
+            110,
+            110,
+            110,
+            110
+          ],
+          "distinctFrames": 8,
+          "loop": 0,
+          "actualImageFormat": "GIF",
+          "decoded": true,
+          "allFramesDecoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://predis.ai/assets/img/ai-models/gpt-image-2-6/spin.gif",
+          "httpStatus": 200,
+          "contentType": "image/gif",
+          "contentLength": 1181941,
+          "bytes": 1181941,
+          "sha256": "3c1cff6297f9fedf5291f4dc0d273557dbb2dadf3e311fdb86d8781cd330eb5f",
+          "fullGet": true,
+          "caseId": "predis-sneaker-spin-gif",
+          "sourceUrl": "https://predis.ai/ai-models/gpt-image-2-6/",
+          "dimensions": [
+            608,
+            816
+          ],
+          "frames": 16,
+          "durationMs": 1600,
+          "frameDurationsMs": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "distinctFrames": 16,
+          "loop": 0,
+          "actualImageFormat": "GIF",
+          "decoded": true,
+          "allFramesDecoded": true,
+          "visuallyReviewed": true
+        }
+      ],
+      "newVideos": [
+        {
+          "caseId": "envol-christ-redeemer",
+          "filename": "envol-christ-redeemer-1-original.mp4",
+          "kind": "original",
+          "bytes": 46937906,
+          "sha256": "6bbe362831b6dca06346a451aa3940c0a30a733ce0d6261f4e112a9a5c8a5bc0",
+          "durationSeconds": 25.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/EnvolDev/status/2119527377109672111",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-11/envol-christ-redeemer-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 25,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "envol-christ-redeemer",
+          "filename": "envol-christ-redeemer-1-web.mp4",
+          "kind": "web",
+          "bytes": 1004858,
+          "sha256": "67963eb72bfa1183ad4478490411a7ffa53409d41c0260da77516df7e3ff2f87",
+          "durationSeconds": 25.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/EnvolDev/status/2119527377109672111",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-11/envol-christ-redeemer-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 25,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "havis-corgi-frisbee",
+          "filename": "havis-corgi-frisbee-1-original.mp4",
+          "kind": "original",
+          "bytes": 4386706,
+          "sha256": "b65cdf74478a0d3f31f926d96c8686e014d0bfff435b4aec3d13a0c1d8c2e913",
+          "durationSeconds": 12.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/HavisT83099/status/2119554699888058378",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-11/havis-corgi-frisbee-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "havis-corgi-frisbee",
+          "filename": "havis-corgi-frisbee-1-web.mp4",
+          "kind": "web",
+          "bytes": 635183,
+          "sha256": "b5c64bfa386835379ff3e5861fb5bc191398ffb73169b570e75a5dcb839e4b47",
+          "durationSeconds": 12.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/HavisT83099/status/2119554699888058378",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-11/havis-corgi-frisbee-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "teddy-coral-marble",
+          "filename": "teddy-coral-marble-1-original.mp4",
+          "kind": "original",
+          "bytes": 1537314,
+          "sha256": "b699bb0ff31a60c9e005d0e28f9d2378ef4a40762bef5c164041a68ee7c30cd4",
+          "durationSeconds": 20.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2119302049234084047",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-11/teddy-coral-marble-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 20,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "teddy-coral-marble",
+          "filename": "teddy-coral-marble-1-web.mp4",
+          "kind": "web",
+          "bytes": 515593,
+          "sha256": "90678bc6b34d765b345b268ae380e6ed3884bc26c68ca9758eb961d8ac409e91",
+          "durationSeconds": 20.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2119302049234084047",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-11/teddy-coral-marble-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 20,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "teddy-gondola-pulley",
+          "filename": "teddy-gondola-pulley-1-original.mp4",
+          "kind": "original",
+          "bytes": 1815750,
+          "sha256": "f7b5398129d2b1b7113e06baf4c0ae989ac9fe8e994a83f0d3b6e6f05b1917b0",
+          "durationSeconds": 20.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2119289934351946228",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-11/teddy-gondola-pulley-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 20,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "teddy-gondola-pulley",
+          "filename": "teddy-gondola-pulley-1-web.mp4",
+          "kind": "web",
+          "bytes": 544801,
+          "sha256": "eaba3aa00e7ac2e5e1a2f404936f9da3c9ce4e8a144ea0268f454f67a4d10f69",
+          "durationSeconds": 20.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2119289934351946228",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-11/teddy-gondola-pulley-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 20,
+          "releaseDigestMatched": true
+        }
+      ],
+      "historicalChecks": {
+        "images": [
+          {
+            "caseId": "satsuki-amusement-park",
+            "url": "https://raw.githubusercontent.com/satsuki-c6s/ai-3d-amusement-park/aa9ffcb9ec054db631be5848b4b067468c0f63a8/astra-1.gif",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-11T10:29:10.957344+00:00",
+            "status": 200,
+            "contentType": "image/gif",
+            "contentLength": 706745,
+            "bytes": 706745,
+            "sha256": "801f2f7d956b6c29fde29ed567bcd6aeb0469b7cecee0830b1bb5e2c7dc06f53",
+            "dimensions": [
+              640,
+              360
+            ],
+            "format": "GIF",
+            "frames": 88,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-ivory-skyship",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2118960658083729408/img/OEtTNmTVvW0XC7_Q.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-11T10:29:10.958689+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 115047,
+            "bytes": 115047,
+            "sha256": "c1c74cebd41af96daf2f24fff5ceacbf9a9bc1792e93ea96118b7713e339a70b",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-fresnel-lighthouse",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2118812432781225984/img/SrLJK_Bo0-Cw1noK.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-11T10:29:10.958976+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 175196,
+            "bytes": 175196,
+            "sha256": "435fa0b615ba0299938d7d70a2c2bc05f79486b6217901e29fa3348329fad034",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "frostline-cable-rescue",
+            "url": "https://raw.githubusercontent.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue/8a8b035b04c3aa080088abac2c1baf091d9446d8/shots/new/vegetation-02/mission-0.png",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-11T10:29:10.959307+00:00",
+            "status": 200,
+            "contentType": "image/png",
+            "contentLength": 2798801,
+            "bytes": 2798801,
+            "sha256": "413a991e105c0f59ec63fcd28cdf4f0711861902cfdce5df1b0fdfe1c50e2dbf",
+            "dimensions": [
+              1920,
+              1080
+            ],
+            "format": "PNG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "one2x-blender-spider",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2118734503107801088/img/KjRWLq4bfejY7nZl.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-11T10:29:10.959510+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 132031,
+            "bytes": 132031,
+            "sha256": "d88695f31bd158fbd19aa252273714bfae0815a1b03f17c7e5ad3c030cc74359",
+            "dimensions": [
+              900,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "cfeng-eiffel-tower",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2119033880712040448/img/iGBUQAUeP97QOM3Q.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-11T10:29:12.381270+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 211756,
+            "bytes": 211756,
+            "sha256": "b4bbeeee5d7ebe36d418c19183346feb5c55dd2aec0055444407006dad225262",
+            "dimensions": [
+              1001,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-neon-tram",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2118636328736997376/img/gqZeUPrEBZie8t4G.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-11T10:29:12.382086+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 129838,
+            "bytes": 129838,
+            "sha256": "2f8ef8f8c1a3b1e472a8bcecba6d2197364e82bf1c0944a6de51fbdd96f9723f",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "andriy-mini-golf",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2119118536190590977/img/Klu-iysxj9Htmyaz.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-11T10:29:13.504811+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 96121,
+            "bytes": 96121,
+            "sha256": "ada8c77e10282b4f92baf0381593afd3f0c1303f2d94bc6b8bc5de9c1cca0116",
+            "dimensions": [
+              893,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-observatory-telescope",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2118527388980248576/img/fBDPLkKvCHDEQ5Io.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-11T10:29:13.867928+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 156230,
+            "bytes": 156230,
+            "sha256": "a3bc1085e886feb99a65d374f0d25e2197dae93f547b2670d8dc1f6870c3d8dc",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-armillary-sphere",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2118259296731537409/img/oZ25Lyg6ttJ-jbU4.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-11T10:29:14.054988+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 162656,
+            "bytes": 162656,
+            "sha256": "5ad8c9ecc3d0f3dccd4751b6534a613decc0bbbf5ad9834c189fda75aa12ebaf",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-village-waterwheel",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2118190692732370944/img/Vzc5EQU3MBBbxdGO.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-11T10:29:14.171955+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 147036,
+            "bytes": 147036,
+            "sha256": "aadd2ffa1c3c8eb97f000c4d67bb83bedbe4f90c7c30e638f93e50bde5daf988",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "vanshd-neon-overdrive",
+            "url": "https://raw.githubusercontent.com/vanshd132/Neon-Overdrive/main/docs/screenshots/gameplay-neon-downtown.png",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-11T10:29:14.282550+00:00",
+            "status": 200,
+            "contentType": "image/png",
+            "contentLength": 269841,
+            "bytes": 269841,
+            "sha256": "411417c40ce2fd5bd52d90d9fd6886edb4ad065d7764c62b43e8a19385b4dafb",
+            "dimensions": [
+              1600,
+              900
+            ],
+            "format": "PNG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "shmopix-halloween-pumpkin",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2110850807423815682/img/F3gjQ9FFzkXUAV8s.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-11T10:29:14.970956+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 48253,
+            "bytes": 48253,
+            "sha256": "15f2240ad6583bdb24eaf0a8e83769127e61c496cf7cd0c0e063998d5e9ad34a",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "vib3coded-castle-jelly",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2108649604161863680/img/q4PFb-ZFSwAj5K7x.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-11T10:29:15.455918+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 100447,
+            "bytes": 100447,
+            "sha256": "45f0f466b9571f31fc1af32aac463458c2b6038abc7e828a5fc2e20652a38ce2",
+            "dimensions": [
+              948,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "anteloc-ldraw-nova-buildings",
+            "url": "https://raw.githubusercontent.com/anteloc/ldraw-nova-docker/master/models-gallery/cathedral.png",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-11T10:29:15.960011+00:00",
+            "status": 200,
+            "contentType": "image/png",
+            "contentLength": 97635,
+            "bytes": 97635,
+            "sha256": "caa3dfb875ceed70bb87de9b4d6381fb8f79610292cd2bcb61d9ce9a83efad87",
+            "dimensions": [
+              1280,
+              720
+            ],
+            "format": "PNG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "topology-roman-legionary",
+            "url": "https://i.redd.it/g95irt9is7sh1.jpeg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-11T10:29:15.964766+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 145992,
+            "bytes": 145992,
+            "sha256": "2d5a2bb92ba1795e8feeaffdd743d36c256f1b45945468dd0ffa01b92cd1fffe",
+            "dimensions": [
+              1280,
+              1091
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "msb-robot-piano",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2098024329237979136/img/wMFuarfC4XiiGwyM.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-11T10:29:16.784251+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 77395,
+            "bytes": 77395,
+            "sha256": "70d12968dba2b69252706a38744e32507e9a89805d101548889780caff983d58",
+            "dimensions": [
+              1200,
+              674
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "badx-photo-building",
+            "url": "https://pbs.twimg.com/ext_tw_video_thumb/2095982524044541952/pu/img/NojpJgktJm7E-l-F.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-11T10:29:17.036555+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 103908,
+            "bytes": 103908,
+            "sha256": "243a1df3d0b091e2aceae8bea4be99674d390b1336643ef1bbf179a8fcde3bae",
+            "dimensions": [
+              675,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "dqlh-room-planner",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2096578530561966080/img/h00AqoyEsyqlQzgD.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-11T10:29:17.481809+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 70221,
+            "bytes": 70221,
+            "sha256": "e76cb778a414f84ed2dc2b89c90b7fa5a15f0bacc39a081e611687fc587cb09d",
+            "dimensions": [
+              652,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "aibattle-sonic-godot",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2095992908448944130/img/v8BSAp4Xt5knPeV0.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-11T10:29:17.696840+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 156398,
+            "bytes": 156398,
+            "sha256": "98895f9ea13b5768341dde1695a82687f878f44f3ecd3dca38a5487483ed8f59",
+            "dimensions": [
+              900,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          }
+        ],
+        "videoEndpoints": [
+          {
+            "caseId": "teddy-ivory-skyship",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-ivory-skyship-1-web.mp4",
+            "expectedBytes": 200609,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-11T10:29:19.952568+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/200609",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "teddy-ivory-skyship",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-08/teddy-ivory-skyship-1-original.mp4",
+            "expectedBytes": 976972,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-11T10:29:19.953084+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/976972",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "teddy-fresnel-lighthouse",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-fresnel-lighthouse-1-web.mp4",
+            "expectedBytes": 442708,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-11T10:29:19.953272+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/442708",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "teddy-fresnel-lighthouse",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-08/teddy-fresnel-lighthouse-1-original.mp4",
+            "expectedBytes": 2380476,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-11T10:29:19.952971+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/2380476",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "one2x-blender-spider",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/one2x-blender-spider-1-web.mp4",
+            "expectedBytes": 629978,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-11T10:29:19.953181+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/629978",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "one2x-blender-spider",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-08/one2x-blender-spider-1-original.mp4",
+            "expectedBytes": 5187889,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-11T10:29:20.808346+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/5187889",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "routine-tripo-three-games",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/routine-tripo-three-games-1-web.mp4",
+            "expectedBytes": 1519748,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-11T10:29:20.833687+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/1519748",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "routine-tripo-three-games",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-07/routine-tripo-three-games-1-original.mp4",
+            "expectedBytes": 7009964,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-11T10:29:21.000963+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/7009964",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "aibattle-sonic-godot",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/aibattle-sonic-godot-1-web.mp4",
+            "expectedBytes": 8289737,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-11T10:29:21.633655+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/8289737",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "aibattle-sonic-godot",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-06/aibattle-sonic-godot-1-original.mp4",
+            "expectedBytes": 26328880,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-11T10:29:22.060635+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/26328880",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          }
+        ],
+        "conclusion": {
+          "checkedImages": 20,
+          "decodedImages": 20,
+          "checkedVideoCases": 5,
+          "checkedVideoEndpoints": 10,
+          "verifiedVideoEndpoints": 10,
+          "failures": [],
+          "limits": "Historical videos were not downloaded or replayed in full. Image decode and bounded video endpoints only."
+        }
+      },
+      "browserVerification": {
+        "environment": "Local production build; original GIFs loaded from source; SHA-256 checked MP4s served locally",
+        "gifPlayback": [
+          {
+            "id": "openai-lantern-gif",
+            "playing": "true",
+            "src": "https://developers.openai.com/images/platform/guides/image-prompting/monkey-lantern-gpt-image-2-6-sunburst.gif",
+            "width": 512
+          },
+          {
+            "id": "lightlyn-earbuds-gif",
+            "playing": "true",
+            "src": "https://image.lightlyn.com/examples/gpt-image-2-6/gif-product.gif",
+            "width": 960
+          },
+          {
+            "id": "imageat-pixel-knight-gif",
+            "playing": "true",
+            "src": "https://cdn.imageat.com/marketing/gpt-image-2-6/pixel-knight-walk.gif",
+            "width": 768
+          },
+          {
+            "id": "predis-sneaker-spin-gif",
+            "playing": "true",
+            "src": "https://predis.ai/assets/img/ai-models/gpt-image-2-6/spin.gif",
+            "width": 608
+          }
+        ],
+        "gifStopRestoresPoster": true,
+        "legacyHashGifDetail": true,
+        "copiedCaseUrlVerified": true,
+        "playback": [
+          {
+            "from": 0,
+            "duration": 12,
+            "ended": true,
+            "id": "havis-corgi-frisbee",
+            "readyState": 4,
+            "source": "http://127.0.0.1:4399/videos/havis-corgi-frisbee-1-web.mp4",
+            "time": 12
+          },
+          {
+            "from": 0,
+            "duration": 25,
+            "ended": true,
+            "hasError": false,
+            "id": "envol-christ-redeemer",
+            "readyState": 4,
+            "source": "http://127.0.0.1:4399/videos/envol-christ-redeemer-1-web.mp4",
+            "time": 25
+          },
+          {
+            "from": 0,
+            "duration": 20,
+            "ended": true,
+            "hasError": false,
+            "id": "teddy-coral-marble",
+            "readyState": 4,
+            "source": "http://127.0.0.1:4399/videos/teddy-coral-marble-1-web.mp4",
+            "time": 20
+          },
+          {
+            "from": 0,
+            "duration": 20,
+            "ended": true,
+            "hasError": false,
+            "id": "teddy-gondola-pulley",
+            "readyState": 4,
+            "source": "http://127.0.0.1:4399/videos/teddy-gondola-pulley-1-web.mp4",
+            "time": 20
+          }
+        ],
+        "desktopNewPreviewWidths": [
+          960,
+          1200,
+          1200,
+          1200,
+          512,
+          960,
+          768,
+          608
+        ],
+        "desktopFeaturedPreviewWidths": [
+          1200,
+          1440,
+          1920,
+          1920,
+          2048,
+          1600
+        ],
+        "testedViewportWidths": [
+          1440,
+          390,
+          320
+        ],
+        "languageAndFilterPreservation": true,
+        "emptyStateAndClear": true,
+        "horizontalOverflow": false,
+        "consoleWarnings": 0,
+        "consoleErrors": 0,
+        "screenshots": [
+          {
+            "path": "docs/media/homepage-2026-11-11.jpg",
+            "bytes": 174223,
+            "sha256": "7dfba721c955051e60eafca497cab8e6ee476eb591d6d8365a39b0956699840d",
+            "dimensions": [
+              1247,
+              1089
+            ],
+            "source": "Actual local production-browser screenshot"
+          },
+          {
+            "path": "docs/media/collection-2026-11-11.jpg",
+            "bytes": 119289,
+            "sha256": "d15216791f4d480fc55fe1c5b92382b983e225d8d5688b21ae605771d7123f3d",
+            "dimensions": [
+              1425,
+              1089
+            ],
+            "source": "Actual local production-browser screenshot"
+          },
+          {
+            "path": "docs/media/mobile-2026-11-11.jpg",
+            "bytes": 39721,
+            "sha256": "7442bf433ac6f282a8a308c6ddd6fa8563f826fa7804f90d8b0254ed85ec8dbb",
+            "dimensions": [
+              375,
+              812
+            ],
+            "source": "Actual local production-browser screenshot"
+          },
+          {
+            "path": "docs/media/case-2026-11-11.jpg",
+            "bytes": 100569,
+            "sha256": "b2a594bddf45416bfd6bf2dc011886ceca38ac1a824da06bf3f093875850d83a",
+            "dimensions": [
+              1425,
+              1089
+            ],
+            "source": "Actual local production-browser screenshot"
+          }
+        ]
+      }
     }
   ]
 }

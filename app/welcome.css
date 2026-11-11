@@ -29,6 +29,7 @@
 .welcome-actions {
   display: flex;
   flex-direction: column;
+  flex-wrap: wrap;
   gap: 16px;
   flex-shrink: 0;
   align-items: center;
@@ -725,3 +726,5 @@
     flex-wrap: wrap;
   }
 }
+
+.gif-entry { color: #a4c4ff; }
