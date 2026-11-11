@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import { resolveArchivedVideo } from './video-contract.mjs';
+import { validateAnimatedGif } from './gif-contract.mjs';
 import { assertCaseId } from '../src/site.mjs';
 const cases = JSON.parse(
   fs.readFileSync(new URL('../data/cases.json', import.meta.url), 'utf8'),
@@ -28,7 +29,8 @@ for (const c of cases) {
     'licenseNotes',
   ])
     assert(typeof c[k] === 'string' && c[k].trim(), `${c.id}: missing ${k}`);
-  assert(['astra', 'reference'].includes(c.group));
+  assert(['astra', 'gif', 'reference'].includes(c.group));
+  validateAnimatedGif(c);
   assert(
     ['official', 'author', 'secondary', 'reference'].includes(c.evidenceLevel),
   );
@@ -111,5 +113,5 @@ for (const c of cases)
     resolveArchivedVideo(c.id, video, media);
   }
 console.log(
-  `Validated ${cases.length} records: ${cases.filter((c) => c.group === 'astra').length} Astra, ${cases.filter((c) => c.group === 'reference').length} references; URLs, provenance, dates and media types checked.`,
+  `Validated ${cases.length} records: ${cases.filter((c) => c.group === 'astra').length} Astra, ${cases.filter((c) => c.group === 'reference').length} references, ${cases.filter((c) => c.group === 'gif').length} GIFs; URLs, provenance, dates and media types checked.`,
 );

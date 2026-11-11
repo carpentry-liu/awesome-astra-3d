@@ -83,7 +83,11 @@ export function Welcome({
   locale: Locale;
   search: string;
   onOpen: (event: MouseEvent<HTMLAnchorElement>, item: CaseIndex) => void;
-  onExplore: (resource: string, order?: string) => void;
+  onExplore: (
+    resource: string,
+    order?: string,
+    group?: CaseIndex['group'],
+  ) => void;
 }) {
   const [failedImages, setFailedImages] = useState<string[]>([]);
   const t = messages[locale];
@@ -197,6 +201,16 @@ export function Welcome({
               }}
             >
               {t.latest} <ArrowUpRight size={17} />
+            </a>
+            <a
+              className="latest-link gif-entry"
+              href={collectionHref('all', 'newest', search, 'gif')}
+              onClick={(event) => {
+                if (navigateToSection(event, 'collection'))
+                  onExplore('all', 'newest', 'gif');
+              }}
+            >
+              {t.gif} · GPT-Image-2.6 <ArrowUpRight size={17} />
             </a>
           </div>
         </div>

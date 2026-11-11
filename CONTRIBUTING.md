@@ -17,3 +17,7 @@
 预览优先使用原作者成果图。原帖默认封面为黑屏或尚未展示成果时，可从已完整核验的原帖录像截取实际成果帧，并将 JPEG 与完整录像一起归档到 Release；必须注明截帧时间、原帖、文件校验和及原作者权利。截帧不能替代完整视频，不提交第三方媒体到代码目录。
 
 贡献通过 GitHub Issue 或 Pull Request；不自动发布社媒内容。
+
+## GIF 动图
+
+原生 GIF 输出使用 `group: "gif"`，当前 GPT-Image-2.6 作品与 Astra 三维、方法参考分别统计。需官方或作者原始来源、可获取的原始 GIF，以及 `animatedGif` 元数据：`url`、`frames`、`durationMs`、`width`、`height`、`bytes`、`sha256`、`checkedAt`。核查完整文件、全部帧解码与不同帧内容；卡片使用 `imageKind: "gif-frame"` 的首帧预览，并注明来源。只有静态封面、视频转 GIF、或子型号不明的作品不能凭猜测填入原生模型归属。未知日期与子型号如实保留。

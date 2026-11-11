@@ -2,6 +2,19 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-11-11 · 8 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [柯基码头接飞盘：跳跃与入水动作 / Corgi Dock Jump: Frisbee Catch and Splash](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-corgi-frisbee/) | Havis \| Claude Code / @HavisT83099 | 完整视频 · 提示词 / 过程 |
+| [云海中的里约基督像：Three.js 环绕镜头 / Christ the Redeemer: A Three.js Orbit above the Clouds](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-christ-redeemer/) | Tony / @EnvolDev | 完整视频 |
+| [珊瑚色弹珠轨道与配重翻板桥 / Coral Marble Run and Counterweighted Bridge](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-coral-marble/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [山谷滑轮塔与黄色摆动吊舱 / Yellow Gondola and Pulley Tower over a Valley](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-gondola-pulley/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [雪夜提灯猴子：官方角色循环 GIF / Lantern Monkey: Official Character GIF Loop](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-lantern-gif/) | OpenAI | GIF 动图（独立分组） |
+| [耳机开盒：升起、落回与合盖 / Earbuds Unboxing: Lift, Settle and Close](https://carpentry-liu.github.io/awesome-astra-3d/cases/lightlyn-earbuds-gif/) | Linger / Lightlyn | GIF 动图（独立分组） · 提示词 / 过程 |
+| [蓝羽骑士：像素侧身行走循环 / Blue-Plumed Knight: Pixel Walk Cycle](https://carpentry-liu.github.io/awesome-astra-3d/cases/imageat-pixel-knight-gif/) | imageat | GIF 动图（独立分组） · 提示词 / 过程 |
+| [粉色转台上的白鞋：十六帧产品转动 / Sneaker Turntable: A Sixteen-Frame Product Spin](https://carpentry-liu.github.io/awesome-astra-3d/cases/predis-sneaker-spin-gif/) | Predis.ai | GIF 动图（独立分组） · 提示词 / 过程 |
+
 ## 2026-11-08 · 8 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
@@ -680,7 +693,7 @@
 | [AURELION-07：可编辑科幻巡洋舰 / AURELION-07 Shipyard](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-aurelion-shipyard/) | Thomas Ricouard | 提示词 / 过程 |
 | [Giverny：莫奈花园灵感的三维场景 / Giverny Water Garden](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-giverny-garden/) | Thomas Ricouard | 提示词 / 过程 |
 
-## 2026-09-06 · 23 个案例
+## 2026-09-06 · 35 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
@@ -707,3 +720,15 @@
 | [3D 时装设计游戏：换装、发型与走秀](https://carpentry-liu.github.io/awesome-astra-3d/cases/claire-fashion-game/) | Claire Vo / How I AI | 提示词 / 过程 |
 | [家庭任务世界：把家务清单变成 3D 探索](https://carpentry-liu.github.io/awesome-astra-3d/cases/claire-family-journey/) | Claire Vo / How I AI | 提示词 / 过程 |
 | [Godot 3D Sonic：Medium 与 Max 对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/aibattle-sonic-godot/) | AiBattle (@AiBattle_)；Reddit 转引者 stealthispost | 完整视频 · 提示词 / 过程 |
+| [AI 眼镜组件爆炸视图](https://carpentry-liu.github.io/awesome-astra-3d/cases/reference-freestyle-333/) | 苍何 / freestylefly | 提示词 / 过程 |
+| [手机爆炸拆解图](https://carpentry-liu.github.io/awesome-astra-3d/cases/reference-freestyle-361/) | @Ankit_patel211 | 提示词 / 过程 |
+| [照片转收藏玩具](https://carpentry-liu.github.io/awesome-astra-3d/cases/reference-freestyle-378/) | @Genematicai | 提示词 / 过程 |
+| [羊毛毡国家微缩世界](https://carpentry-liu.github.io/awesome-astra-3d/cases/reference-freestyle-390/) | @volkan_iras | 提示词 / 过程 |
+| [珠宝中的微缩城市](https://carpentry-liu.github.io/awesome-astra-3d/cases/reference-freestyle-438/) | @Umar__786Ai | 提示词 / 过程 |
+| [赛博角色正侧背视图](https://carpentry-liu.github.io/awesome-astra-3d/cases/reference-freestyle-439/) | @Kashberg_0 | 提示词 / 过程 |
+| [玻璃镀铬 App 图标](https://carpentry-liu.github.io/awesome-astra-3d/cases/reference-freestyle-444/) | @vista8 | 提示词 / 过程 |
+| [地图与城市微缩海报](https://carpentry-liu.github.io/awesome-astra-3d/cases/reference-freestyle-489/) | @SimplyAnnisa | 提示词 / 过程 |
+| [等距微缩咖啡街区](https://carpentry-liu.github.io/awesome-astra-3d/cases/reference-wuyoscar-isometric-cafe/) | EvoLinkAI（来源归属）/ wuyoscar（收录） | 提示词 / 过程 |
+| [等距奇幻村庄地图](https://carpentry-liu.github.io/awesome-astra-3d/cases/reference-wuyoscar-isometric-village/) | 未核实 | 提示词 / 过程 |
+| [刀版图转立体包装效果图](https://carpentry-liu.github.io/awesome-astra-3d/cases/reference-wuyoscar-dieline-box/) | @Salmaaboukarr | 提示词 / 过程 |
+| [厨房小猫 CG 风格静帧](https://carpentry-liu.github.io/awesome-astra-3d/cases/reference-wuyoscar-kitten-cg/) | wuyoscar（策展条目，未署独立作者） | 提示词 / 过程 |

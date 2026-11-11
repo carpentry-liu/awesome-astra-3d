@@ -575,3 +575,11 @@ footer > a:last-child {
     scroll-behavior: auto;
   }
 }
+
+/* Native GIFs use first-frame previews and explicit playback. */
+.gif-player { width: 100%; }
+.gif-player > img { display: block; width: 100%; max-height: 62vh; object-fit: contain; background: #0c1018; }
+.gif-controls { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 12px; padding: 14px; }
+.gif-controls button { padding: 9px 18px; border: 1px solid #75a7ff; border-radius: 6px; background: #182c4a; color: #e9f2ff; cursor: pointer; font: inherit; }
+.gif-controls button:focus-visible { outline: 2px solid #b4d0ff; outline-offset: 3px; }
+.gif-controls span, .gif-player > p { font-size: 13px; color: #aebbd0; }

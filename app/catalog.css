@@ -2,8 +2,10 @@
   gap: 20px;
 }
 .group-tabs {
-  height: 48px !important;
-  gap: 28px !important;
+  height: auto !important;
+  min-height: 48px;
+  flex-wrap: wrap;
+  gap: 0 28px !important;
   max-width: 100%;
   border-bottom: 1px solid var(--border);
   width: 100%;
@@ -492,12 +494,12 @@
     gap: 36px;
   }
   .group-tabs {
-    gap: 24px !important;
+    gap: 0 24px !important;
   }
 }
 @media (max-width: 640px) {
   .group-tabs {
-    gap: 20px !important;
+    gap: 0 16px !important;
   }
   .group-tabs [data-slot='tabs-trigger'] {
     font-size: 14px;

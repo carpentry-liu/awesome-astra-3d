@@ -13,10 +13,26 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-11-08（Asia/Shanghai）**：**451 条 Astra 案例** · **121 条源码 / 工程** · **133 个演示入口** · **234 个完整视频**。另有 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-11-11（Asia/Shanghai）**：**455 条 Astra 案例** · **121 条源码 / 工程** · **133 个演示入口** · **238 个完整视频**。另有 **4 件 GIF 动图** 与 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
+
+## 新增分类：GIF 动图 · GPT-Image-2.6
+
+[进入 GIF 动图分类](https://carpentry-liu.github.io/awesome-astra-3d/?group=gif#collection) · [官方生成说明](https://developers.openai.com/api/docs/guides/image-generation#generate-animated-gif-output)
+
+下方直接展示四份原始 GIF，点击可查看作者、帧数和原始文件。该分类与 GPT-6 Astra 分开统计，收录原生动图输出。
+
+| 雪夜提灯 · OpenAI | 耳机开盒 · Lightlyn |
+| --- | --- |
+| [<img src="https://developers.openai.com/images/platform/guides/image-prompting/monkey-lantern-gpt-image-2-6-sunburst.gif" height="200" alt="雪夜提灯 · OpenAI GIF">](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-lantern-gif/) | [<img src="https://image.lightlyn.com/examples/gpt-image-2-6/gif-product.gif" height="200" alt="耳机开盒 · Lightlyn GIF">](https://carpentry-liu.github.io/awesome-astra-3d/cases/lightlyn-earbuds-gif/) |
+
+| 像素骑士 · imageat | 白鞋转台 · Predis.ai |
+| --- | --- |
+| [<img src="https://cdn.imageat.com/marketing/gpt-image-2-6/pixel-knight-walk.gif" height="200" alt="像素骑士 · imageat GIF">](https://carpentry-liu.github.io/awesome-astra-3d/cases/imageat-pixel-knight-gif/) | [<img src="https://predis.ai/assets/img/ai-models/gpt-image-2-6/spin.gif" height="200" alt="白鞋转台 · Predis.ai GIF">](https://carpentry-liu.github.io/awesome-astra-3d/cases/predis-sneaker-spin-gif/) |
+
+动图版权归各原作者；网站默认展示首帧，打开作品后点击“播放 GIF”。
 
 ## 六件精选，先选一个想继续做的作品
 
@@ -44,18 +60,18 @@
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-11-08.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-11-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-网站实拍更新于 **2026-11-08**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+网站实拍更新于 **2026-11-11**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
-<summary>查看案例区、手机与作品详情实拍 · 2026-11-08</summary>
+<summary>查看案例区、手机与作品详情实拍 · 2026-11-11</summary>
 
-[![案例区：筛选与更多作品](docs/media/collection-2026-11-08.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![新增 GIF 分类：角色、产品与像素动画](docs/media/collection-2026-11-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?group=gif#collection)
 
-![手机端：精选作品与材料导航](docs/media/mobile-2026-11-08.jpg)
+![手机端：精选作品与材料导航](docs/media/mobile-2026-11-11.jpg)
 
-[![云上飞艇的 WebGL 对照与完整录像](docs/media/case-2026-11-08.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-ivory-skyship/)
+[![官方提灯 GIF 的独立作品页](docs/media/case-2026-11-11.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-lantern-gif/)
 
 </details>
 
@@ -63,37 +79,33 @@
 
 这里按本库收录日期排列；作品首次发布、模型配置与核查日期在各档案中分别记录。稳定精选不随日更替换。
 
-11 月 8 日收录 **8 件作品、6 段完整录像、2 份公开工程与 1 个试玩入口**。本轮加入可切换昼夜的 Lumière Park、Unity 雪山索道救援，以及飞艇、灯塔透镜、月面蜘蛛、铁塔导览、雨夜电车与迷你高尔夫。六条 X 原帖发表于 11 月 6—8 日，工程首次公开时间未核实；每张预览均可进入对应档案。
+11 月 11 日新增 **4 件 Astra 作品、4 段完整录像，以及 4 件 GPT-Image-2.6 原生 GIF**。三维作品包含柯基接飞盘、里约基督像、珊瑚弹珠轨道与滑轮塔吊舱，原始 X 帖子发表于 11 月 8—9 日。动图独立分类，保留原作者、真实原始文件和已核查帧数。
 
 <!-- atlas:update-previews:start -->
-**本轮成果预览（第三方原作）**
+**新增 Astra 作品 · 第三方原作预览**
 
-| Lumière Park · 源码与试玩 | 云上飞艇 · Astra 右栏 | 灯塔透镜 · Astra 右栏 |
-| --- | --- | --- |
-| [<img src="https://raw.githubusercontent.com/satsuki-c6s/ai-3d-amusement-park/aa9ffcb9ec054db631be5848b4b067468c0f63a8/astra-1.gif" height="165" alt="Lumière Park · 源码与试玩">](https://carpentry-liu.github.io/awesome-astra-3d/cases/satsuki-amusement-park/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2118960658083729408/img/OEtTNmTVvW0XC7_Q.jpg" height="165" alt="云上飞艇 · Astra 右栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-ivory-skyship/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2118812432781225984/img/SrLJK_Bo0-Cw1noK.jpg" height="165" alt="灯塔透镜 · Astra 右栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-fresnel-lighthouse/) |
-
-| 霜岭索道救援 · Unity 工程 | 月面机械蜘蛛 · Astra 上栏 | 埃菲尔铁塔 · Astra 下栏 |
-| --- | --- | --- |
-| [<img src="https://raw.githubusercontent.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue/8a8b035b04c3aa080088abac2c1baf091d9446d8/shots/new/vegetation-02/mission-0.png" height="165" alt="霜岭索道救援 · Unity 工程">](https://carpentry-liu.github.io/awesome-astra-3d/cases/frostline-cable-rescue/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2118734503107801088/img/KjRWLq4bfejY7nZl.jpg" height="165" alt="月面机械蜘蛛 · Astra 上栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/one2x-blender-spider/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2119033880712040448/img/iGBUQAUeP97QOM3Q.jpg" height="165" alt="埃菲尔铁塔 · Astra 下栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/cfeng-eiffel-tower/) |
-
-| 雨夜电车 · Astra 右栏 | 迷你高尔夫 · Astra 上栏 |
+| 柯基接飞盘 · Havis | 里约基督像 · EnvolDev |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2118636328736997376/img/gqZeUPrEBZie8t4G.jpg" height="165" alt="雨夜电车 · Astra 右栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-neon-tram/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2119118536190590977/img/Klu-iysxj9Htmyaz.jpg" height="165" alt="迷你高尔夫 · Astra 上栏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/andriy-mini-golf/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2119554631063818240/img/qjASvKf_3h3WvgC7.jpg" height="165" alt="柯基接飞盘 · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-corgi-frisbee/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2119508814924070912/img/Uqob8a79x3696puL.jpg" height="165" alt="里约基督像 · EnvolDev">](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-christ-redeemer/) |
 
-[观看完整录像](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video&order=newest#collection) · [下载原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-08)
+| 珊瑚弹珠轨道 · teddyaisi | 滑轮塔吊舱 · teddyaisi |
+| --- | --- |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2119301958947459072/img/L5gB6gCXVjmf6X6x.jpg" height="165" alt="珊瑚弹珠轨道 · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-coral-marble/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2119289892543033344/img/vv43921RsW0xwRTO.jpg" height="165" alt="滑轮塔吊舱 · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-gondola-pulley/) |
+
+[GIF 动图分类](https://carpentry-liu.github.io/awesome-astra-3d/?group=gif#collection) · [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video&order=newest#collection) · [下载原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-11)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
-| [Lumière Park：一页 HTML 的三维游乐园](https://carpentry-liu.github.io/awesome-astra-3d/cases/satsuki-amusement-park/) | さつき / satsuki-c6s | [演示](https://satsuki-c6s.github.io/ai-3d-amusement-park/astra-1.html) · [源码](https://github.com/satsuki-c6s/ai-3d-amusement-park) · [原始来源](https://github.com/satsuki-c6s/ai-3d-amusement-park) |
-| [掠过云上浮城的象牙白飞艇](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-ivory-skyship/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2118960786353836161) |
-| [石灯塔里的旋转菲涅耳透镜](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-fresnel-lighthouse/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2118812488032715126) |
-| [霜岭索道救援：Unity 三维吊机游戏](https://carpentry-liu.github.io/awesome-astra-3d/cases/frostline-cable-rescue/) | ffffrrrr-cmyk | [源码](https://github.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue) · [原始来源](https://github.com/ffffrrrr-cmyk/gpt6-Astra-AlpineCableRescue) |
-| [月面八足机械蜘蛛的 Blender 动画](https://carpentry-liu.github.io/awesome-astra-3d/cases/one2x-blender-spider/) | One2x Datalab / @One2xDatalab | [原始来源](https://x.com/One2xDatalab/status/2118734639737258439) |
-| [单页 Three.js 埃菲尔铁塔导览](https://carpentry-liu.github.io/awesome-astra-3d/cases/cfeng-eiffel-tower/) | CF长风 / @cfenghub | [原始来源](https://x.com/cfenghub/status/2119040166744527184) |
-| [雨夜霓虹城的高架电车](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-neon-tram/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2118636567648715060) |
-| [低多边形迷你高尔夫球场](https://carpentry-liu.github.io/awesome-astra-3d/cases/andriy-mini-golf/) | AndrIy / @Andr1ycp | [原始来源](https://x.com/Andr1ycp/status/2119118596202979727) |
+| [柯基码头接飞盘：跳跃与入水动作](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-corgi-frisbee/) | Havis \| Claude Code / @HavisT83099 | [原始来源](https://x.com/HavisT83099/status/2119554699888058378) |
+| [云海中的里约基督像：Three.js 环绕镜头](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-christ-redeemer/) | Tony / @EnvolDev | [原始来源](https://x.com/EnvolDev/status/2119527377109672111) |
+| [珊瑚色弹珠轨道与配重翻板桥](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-coral-marble/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2119302049234084047) |
+| [山谷滑轮塔与黄色摆动吊舱](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-gondola-pulley/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2119289934351946228) |
+| [雪夜提灯猴子：官方角色循环 GIF](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-lantern-gif/) | OpenAI | [GIF](https://developers.openai.com/images/platform/guides/image-prompting/monkey-lantern-gpt-image-2-6-sunburst.gif) · [原始来源](https://developers.openai.com/api/docs/guides/image-generation#generate-animated-gif-output) |
+| [耳机开盒：升起、落回与合盖](https://carpentry-liu.github.io/awesome-astra-3d/cases/lightlyn-earbuds-gif/) | Linger / Lightlyn | [GIF](https://image.lightlyn.com/examples/gpt-image-2-6/gif-product.gif) · [原始来源](https://image.lightlyn.com/gpt-image-2-6?lang=en) |
+| [蓝羽骑士：像素侧身行走循环](https://carpentry-liu.github.io/awesome-astra-3d/cases/imageat-pixel-knight-gif/) | imageat | [GIF](https://cdn.imageat.com/marketing/gpt-image-2-6/pixel-knight-walk.gif) · [原始来源](https://imageat.com/gpt-image-2-6) |
+| [粉色转台上的白鞋：十六帧产品转动](https://carpentry-liu.github.io/awesome-astra-3d/cases/predis-sneaker-spin-gif/) | Predis.ai | [GIF](https://predis.ai/assets/img/ai-models/gpt-image-2-6/spin.gif) · [原始来源](https://predis.ai/ai-models/gpt-image-2-6/) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)
@@ -102,7 +114,7 @@
 
 | 标记 | 代表什么 |
 | --- | --- |
-| 官方展示 | 官方作品页或文章明确标注 Astra |
+| 官方展示 | 官方作品页或文档明确标注对应模型 |
 | 作者自述 | 可读取的作者文章、帖子或仓库明确声明模型 |
 | 转引待复核 | 原页读取受限，依据镜像、原文引文或整理页；保留佐证 |
 | 方法参考 | 独立的构图或提示词参考，不计入 Astra 案例 |
