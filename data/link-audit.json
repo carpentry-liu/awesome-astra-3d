@@ -27256,6 +27256,342 @@
           "allFramesDecoded": true
         }
       ]
+    },
+    {
+      "checkedAt": "2026-11-12",
+      "round": "daily",
+      "scope": "Six original X posts, two GIF source records, eight still previews and two original animated files.",
+      "addedCaseIds": [
+        "envol-ice-cathedral",
+        "teddy-alpine-snowblower",
+        "teddy-lantern-cart",
+        "havis-hedgehog-picnic",
+        "teddy-postal-village",
+        "teddy-flywheel-printing",
+        "varg-paper-boat-gif",
+        "varg-pip-mascot-gif"
+      ],
+      "removedCaseIds": [],
+      "sourceChecks": [
+        {
+          "caseId": "teddy-lantern-cart",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120482204799381869",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 101269,
+          "sha256": "fc1140f524bbd81377869b256ad96c953d9761cbd90c9a0885972dd05781e33a",
+          "createdAtShanghai": "2026-11-11T19:42:08+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120482173019123712"
+        },
+        {
+          "caseId": "teddy-alpine-snowblower",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120554236899737947",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 101137,
+          "sha256": "987d96057ed86abdd93814d7accc5084c2ed2586f773ac2e6adc20a93dee1b3a",
+          "createdAtShanghai": "2026-11-12T00:28:22+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120554114300194816"
+        },
+        {
+          "caseId": "envol-ice-cathedral",
+          "sourceUrl": "https://x.com/EnvolDev/status/2120584341524742481",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 170912,
+          "sha256": "c431cfdc21e1d3ce64850cfebf031a67e7e506f489ccb6d40c5fb9a7a05dacbc",
+          "createdAtShanghai": "2026-11-12T02:28:00+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120415352014413824"
+        },
+        {
+          "caseId": "havis-hedgehog-picnic",
+          "sourceUrl": "https://x.com/HavisT83099/status/2120489591811576166",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 164975,
+          "sha256": "c20dde72a9764d620c1789091f83c6d860e0532a0a680861e755d3d432760b36",
+          "createdAtShanghai": "2026-11-11T20:11:30+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120489522827804672"
+        },
+        {
+          "caseId": "teddy-flywheel-printing",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120005462330581412",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 104698,
+          "sha256": "da451af1298d2a49bae9a2d4c1084910d56b594fe2e2058fa5e14021687433d3",
+          "createdAtShanghai": "2026-11-10T12:07:44+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120005232306601984"
+        },
+        {
+          "caseId": "teddy-postal-village",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120143502109790337",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 101151,
+          "sha256": "8b24ac00b842980f8b185aeae4c4c5871a9a8b692ce00c026eaff6ea4953b79c",
+          "createdAtShanghai": "2026-11-10T21:16:15+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120143434254340096"
+        },
+        {
+          "url": "https://clawhub.ai/vargai/skills/gpt-image-gif",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "contentLength": null,
+          "bytes": 124046,
+          "sha256": "c0ed054bf154f9fed510dc9d70aff5fa74da84deae1566675a6be486f5624498",
+          "fullGet": true,
+          "caseId": "varg-paper-boat-gif",
+          "modelStatementMatched": true
+        },
+        {
+          "url": "https://clawhub.ai/vargai/skills/gpt-image-gif",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "contentLength": null,
+          "bytes": 124046,
+          "sha256": "bd11de7a47717adbcf08c39238466cf4a33ae360a15475e9c720f17b94a90178",
+          "fullGet": true,
+          "caseId": "varg-pip-mascot-gif",
+          "modelStatementMatched": true
+        }
+      ],
+      "previewChecks": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2120415352014413824/img/NHi-1Jzz0xtbTBP_.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 231430,
+          "bytes": 231430,
+          "sha256": "404f5c78cb975c20fdb6be415370d3d113f553cdac76b43c5352d5d6cac2dbf7",
+          "fullGet": true,
+          "caseId": "envol-ice-cathedral",
+          "sourceUrl": "https://x.com/EnvolDev/status/2120584341524742481",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            1067
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2120554114300194816/img/7uv1a-cPvF_fFA9Q.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 126441,
+          "bytes": 126441,
+          "sha256": "f668617433bef090169a4a4ab2611b82e1b57bee2a9c6d50674050ed95f2c883",
+          "fullGet": true,
+          "caseId": "teddy-alpine-snowblower",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120554236899737947",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2120482173019123712/img/YmtA9-2Mwn_ieMJN.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 122401,
+          "bytes": 122401,
+          "sha256": "7162c2d0f086afba90319e203d5d116d1e52d5c8c36f48261e357e74de98dc87",
+          "fullGet": true,
+          "caseId": "teddy-lantern-cart",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120482204799381869",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2120489522827804672/img/TPjZ8VYRHQRESSUe.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 139663,
+          "bytes": 139663,
+          "sha256": "70a5221d5e524ea1f10bd72ca59d4ef05dfaeff7c9b98c8c70b5f6fc302e9352",
+          "fullGet": true,
+          "caseId": "havis-hedgehog-picnic",
+          "sourceUrl": "https://x.com/HavisT83099/status/2120489591811576166",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            960,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2120143434254340096/img/OJfgHzsE2zUIKNIR.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 139395,
+          "bytes": 139395,
+          "sha256": "6d23127451117d8cc0571f0037a51f552b343e680177eaaf197bc5ad976bd28f",
+          "fullGet": true,
+          "caseId": "teddy-postal-village",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120143502109790337",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2120005232306601984/img/qO_RWL0dPYo_JJJQ.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 132476,
+          "bytes": 132476,
+          "sha256": "1d32e1d71ef76916e5c29556197be42355cfa1e3a9fdc308fddd43a1e75a8892",
+          "fullGet": true,
+          "caseId": "teddy-flywheel-printing",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120005462330581412",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "varg-paper-boat-gif",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-12/varg-paper-boat-gif-poster.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 79888,
+          "sha256": "058dbaa27e28b1a336c5daaddd486c4de5b2a90be68dadd465b443a150f7c547",
+          "dimensions": [
+            1024,
+            768
+          ],
+          "decoded": true,
+          "frames": 1,
+          "sourceUrl": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_1ddefdae1769.gif",
+          "frameIndex": 0,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "varg-pip-mascot-gif",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-12/varg-pip-mascot-gif-poster.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 89406,
+          "sha256": "b207f9749b070f67372990f87e353cc02197e41cbf22427421a12e27f003be5c",
+          "dimensions": [
+            768,
+            768
+          ],
+          "decoded": true,
+          "frames": 1,
+          "sourceUrl": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_4fbc831c7e61.gif",
+          "frameIndex": 0,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        }
+      ],
+      "animatedGifChecks": [
+        {
+          "url": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_1ddefdae1769.gif",
+          "httpStatus": 200,
+          "contentType": "image/gif",
+          "contentLength": 906260,
+          "bytes": 906260,
+          "sha256": "01e994331e488a90e3dff4cc0825c71df79bd98ab8298e1e2a1073e9dd48f457",
+          "fullGet": true,
+          "caseId": "varg-paper-boat-gif",
+          "sourceUrl": "https://clawhub.ai/vargai/skills/gpt-image-gif",
+          "dimensions": [
+            1024,
+            768
+          ],
+          "frames": 9,
+          "durationMs": 1350,
+          "frameDurationsMs": [
+            150,
+            150,
+            150,
+            150,
+            150,
+            150,
+            150,
+            150,
+            150
+          ],
+          "distinctFrames": 9,
+          "loop": 0,
+          "actualImageFormat": "GIF",
+          "decoded": true,
+          "allFramesDecoded": true
+        },
+        {
+          "url": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_4fbc831c7e61.gif",
+          "httpStatus": 200,
+          "contentType": "image/gif",
+          "contentLength": 861656,
+          "bytes": 861656,
+          "sha256": "4181f1852a28a86c5656d8ed84184e2e09edb7e50ebb6e900d8ed7bcfc60b161",
+          "fullGet": true,
+          "caseId": "varg-pip-mascot-gif",
+          "sourceUrl": "https://clawhub.ai/vargai/skills/gpt-image-gif",
+          "dimensions": [
+            768,
+            768
+          ],
+          "frames": 9,
+          "durationMs": 1260,
+          "frameDurationsMs": [
+            140,
+            140,
+            140,
+            140,
+            140,
+            140,
+            140,
+            140,
+            140
+          ],
+          "distinctFrames": 9,
+          "loop": 0,
+          "actualImageFormat": "GIF",
+          "decoded": true,
+          "allFramesDecoded": true
+        }
+      ]
     }
   ]
 }

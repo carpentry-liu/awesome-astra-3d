@@ -313,6 +313,7 @@ const categoryNames: Record<string, string> = {
   '角色动图': 'Character loops',
   '产品动图': 'Product loops',
   '像素动图': 'Pixel animation',
+  '场景动图': 'Scene loops',
   '3D 教育': '3D education',
   '3D 网页': '3D websites',
   '3D 游戏': '3D games',
