@@ -63,6 +63,24 @@ npm start
 
 面向 `main` 的 PR 运行检查、lint 和 Pages 构建，并用 `git diff --exit-code --stat` 确认受控的派生文件已随源数据提交。PR 不下载视频、不部署，也没有 Pages 写权限。[Pages 工作流](../.github/workflows/pages.yml) 在推送 `main` 或手动发布时才获取并校验完整播放文件，再部署。部署后核对公开 JSON、双语详情、metadata、截图和媒体地址；必要时全量 GET 新视频并比对 hash。
 
+## 内容验证（2026-11-12）
+
+本轮新增 **6 件 Astra 作品、6 段完整 X 录像与 2 件原生 GIF**：冰峡航船、雪夜除雪车、鼓楼灯车、刺猬野餐、纸艺邮递村、飞轮印花机，以及月夜纸船和 Pip 小狐狸 GIF。当前 479 条记录包含 **461 条 Astra、6 条 GIF、12 条方法参考**，提供 121 个源码 / 工程入口、133 个演示入口和 244 段完整录像。
+
+六条 X 原帖发表于上海时间 11 月 10—12 日。两件 GIF 的作者注明制作于 11 月 4—5 日，但单件首发时间未确认，`sourceDate` 保持 null。冰峡作品的原帖任务名为 Cathedral of Ice，实际成果是冰壁间的航船；标题和核查说明按画面记录，不将其称为教堂建筑。对照录像保留全部模型栏，并逐条标明 Astra 位置。
+
+| 范围 | 实际命令、结果与边界 |
+| --- | --- |
+| 来源检索 | 检索 X、GitHub、Reddit、Bilibili、小红书及作者网站，补查 16 个作者公开时间线。镜像仅用于发现；六条 X 原始 HTML 的作者、时间和媒体 ID 与来源数据一致。`verify-gif-sources.py` 确认 varg.ai 制作说明中的 GPT Image 2.6 归属和两个原始 GIF 文件。混合 Tripo 流程、缺少原文件的推广页、转载及未公开模型产物的基准库未计入。 |
+| 完整录像 | `py -3.13 -X utf8 work/2026-11-12/download-social.py` 获取 12 个完整 MP4，共 53,859,135 字节。来源时长、MIME、长度、媒体 ID、SHA-256 与 `ffmpeg -v error -xerror -err_detect explode -i FILE -f null -` 全长解码通过，无裁剪或转码。`publish-media.py` 校验 [Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-12) 的 12 个 MP4 和 2 张 GIF 首帧，共 14 个附件的尺寸与服务器摘要。 |
+| 原生 GIF | `download-gifs.py` 完整获取并逐帧解码两件原始 GIF，均为九帧且帧内容不同；纸船为 1024×768、1.35 秒，Pip 为 768×768、1.26 秒。全部帧未改写，首帧 JPEG 归档 Release。模型子型号和创作流程没有独立复跑。 |
+| 本地浏览器 | 六段新录像均用原生控件从 0 播至 ended，时长分别为 25、20、20、12、20、20 秒，readyState 为 4、媒体错误为空。两件新 GIF 均加载原文件并停止恢复首帧；六张精选与八张新预览正常。英文切换保留 GIF 分类及排序，Scene loops 筛出一条，All 恢复六条。1440、390、320 视口无横向溢出，四个检查标签页的控制台警告 / 错误为 0。 |
+| 实拍与旧素材 | 双语 README 更新六张 Astra 预览、两张 GIF 展示和四张真实网站截图，分享封面与首页图字节一致。`audit-old.py` 完整获取并解码 20 张历史图，对 5 段旧录像的 Pages / Release 共 10 个端点核对 MP4 头和总长度，全部通过；未重新全程播放历史视频或宣称全库复查。 |
+| 命令与构建 | `npm.cmd run catalog` 同步 479 条记录；`npm.cmd run check` 通过 31 项测试、数据校验和 TypeScript，`npm.cmd run lint` 通过。普通 `npm.cmd run build` 及设置 `$env:GITHUB_PAGES='true'` 后的子路径构建均验证 994 个静态页、21,362 条本地引用、479 份详情 JSON 和 995 个 sitemap 地址。保留既有 chunk 体积和 Node shell API 弃用警告。 |
+| 增量边界 | `py -3.13 -X utf8 work/2026-11-12/verify-diff.py` 确认原有 471 条案例、476 个录像版本和历史研究 / 审计保持不变。应用代码仅补充“场景动图”的英文标签，未修改依赖、工作流、专题或演示审计。 |
+
+原始资料、检查脚本与浏览器记录保留于忽略目录 `work/2026-11-12/`。视频保存在 Release；不提交媒体下载、缓存或迁移说明，不重新部署 ChatGPT Site。
+
 ## 内容验证（2026-11-11）
 
 新增 4 件 Astra 作品、4 段完整录像与 4 件独立分类的 GPT-Image-2.6 GIF。当前 455 条 Astra、4 条 GIF、12 条方法参考，121 个源码 / 工程入口、133 个演示入口、238 段录像。四条 Astra 原帖发表于 11 月 8—9 日；收录日期为 11 月 11 日。

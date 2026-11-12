@@ -1,5 +1,433 @@
 [
   {
+    "id": "envol-ice-cathedral",
+    "group": "astra",
+    "category": "程序化场景",
+    "title": "冰峡航船：冰壁、海面与极光的四模型对照",
+    "titleEn": "Ice Fjord Vessel: Water, Cliffs and Aurora Comparison",
+    "modelLabel": "GPT-6 Astra · Extra High（作者声明）",
+    "summary": "蓝色冰壁间的小型航船、海面与极光构成冰峡场景。完整四栏录像保留各模型结果，Astra 位于左下。",
+    "imageCaption": "作者原帖的四栏封面；左下为 GPT-6 Astra。原帖任务名为 Cathedral of Ice，实际画面是冰峡航船，并非教堂建筑。",
+    "evidenceNote": "原帖与录像左下标签明确标注 GPT-6 Astra。作者使用 Cathedral of Ice 作为任务名，但可见成果是冰峡中的船。费用、耗时与排名仅为作者声明，未独立复现。",
+    "promptAvailability": "author-description",
+    "promptSummary": "原帖仅公开 Cathedral of Ice 任务名与四模型设置，未给出完整输入；按实际画面记录冰峡航船。",
+    "outputType": [
+      "三维场景对照录像",
+      "完整原始 MP4"
+    ],
+    "outcome": "保留 25 秒完整录像及所有对照栏。尚无可核验的公开工程或试玩入口，不推断航行物理精度。",
+    "addedAt": "2026-11-12",
+    "observedAt": "2026-11-12",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/EnvolDev/status/2120584341524742481",
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Tony / @EnvolDev",
+    "sourceUrl": "https://x.com/EnvolDev/status/2120584341524742481",
+    "sourceDate": "2026-11-12",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2120415352014413824/img/NHi-1Jzz0xtbTBP_.jpg",
+    "imageKind": "author-comparison",
+    "promptUrl": "https://x.com/EnvolDev/status/2120584341524742481",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/EnvolDev/status/2120584341524742481"
+    ],
+    "sourceAccess": "原帖作者、精确时间戳和媒体标签已核对。封面及两种完整 MP4 已下载并完整解码，未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "冰峡航船 · EnvolDev · 完整对照",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2120415352014413824/img/NHi-1Jzz0xtbTBP_.jpg",
+        "sourceUrl": "https://x.com/EnvolDev/status/2120584341524742481",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/envol-ice-cathedral-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-12/envol-ice-cathedral-1-original.mp4",
+        "bytes": 36748957,
+        "sha256": "c2de21ea1b168ed553c94c30dd4b7778affbc94ed52f006eab4c228f6362937c",
+        "durationSeconds": 25.0
+      }
+    ]
+  },
+  {
+    "id": "teddy-alpine-snowblower",
+    "group": "astra",
+    "category": "程序化场景",
+    "title": "雪夜除雪车：沿阿尔卑斯木屋车道前行",
+    "titleEn": "Alpine Snowblower: Clearing the Lodge Driveway",
+    "modelLabel": "GPT-6 Astra · WebGL（作者声明）",
+    "summary": "红色除雪车沿弯曲车道穿过雪夜木屋，向侧面抛出积雪。Astra 的右栏展示灯光、机械行进与雪粒轨迹。",
+    "imageCaption": "作者双栏 WebGL 对照封面，GPT-6 Astra 在右，GPT-6.1 Sol 在左。",
+    "evidenceNote": "原帖说明同一 WebGL 任务，录像右栏明确标注 GPT-6 Astra。标签中的费用、时间和 token 数没有独立核实。",
+    "promptAvailability": "author-description",
+    "promptSummary": "让红色除雪车沿阿尔卑斯木屋旁的弯曲车道行驶，并把雪向侧方抛出。",
+    "outputType": [
+      "WebGL 程序场景",
+      "完整对照录像"
+    ],
+    "outcome": "20 秒完整片段可查看行进和抛雪。仅有录像与任务简述，未公开可运行工程。",
+    "addedAt": "2026-11-12",
+    "observedAt": "2026-11-12",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/teddyaisi/status/2120554236899737947",
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2120554236899737947",
+    "sourceDate": "2026-11-12",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2120554114300194816/img/7uv1a-cPvF_fFA9Q.jpg",
+    "imageKind": "author-comparison",
+    "promptUrl": "https://x.com/teddyaisi/status/2120554236899737947",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2120554236899737947"
+    ],
+    "sourceAccess": "原帖作者、精确时间戳和媒体标签已核对。封面及两种完整 MP4 已下载并完整解码，未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "雪夜除雪车 · teddyaisi · 完整对照",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2120554114300194816/img/7uv1a-cPvF_fFA9Q.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2120554236899737947",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-alpine-snowblower-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-12/teddy-alpine-snowblower-1-original.mp4",
+        "bytes": 3276568,
+        "sha256": "e5fc5ff26caaae483a932664823fd8c0215ede6638a691f5b5b867742b49e597",
+        "durationSeconds": 20.0
+      }
+    ]
+  },
+  {
+    "id": "teddy-lantern-cart",
+    "group": "astra",
+    "category": "程序化场景",
+    "title": "鼓楼灯车：木车驶过，长街灯笼依次亮起",
+    "titleEn": "Lantern Cart: Lighting a Street beneath the Drum Tower",
+    "modelLabel": "GPT-6 Astra · WebGL（作者声明）",
+    "summary": "暮色中，木制灯车从鼓楼下驶出，沿街灯笼随车经过点亮。Astra 右栏保留屋檐、街道透视与暖色光照。",
+    "imageCaption": "作者双栏封面：Astra 在右，Sol 在左。图片和录像均为原帖完整对照。",
+    "evidenceNote": "作者明确给 Sol 与 Astra 相同的 WebGL 任务，右栏模型名称与之对应。未取得独立可操作场景。",
+    "promptAvailability": "author-description",
+    "promptSummary": "木制灯笼车在黄昏从鼓楼下驶出，经过时依次点亮街边成排的灯笼。",
+    "outputType": [
+      "WebGL 灯光动画",
+      "完整对照录像"
+    ],
+    "outcome": "保存 20 秒片段，可观察车辆和灯光的时序；不把观感对照作为独立质量排名。",
+    "addedAt": "2026-11-12",
+    "observedAt": "2026-11-12",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/teddyaisi/status/2120482204799381869",
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2120482204799381869",
+    "sourceDate": "2026-11-11",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2120482173019123712/img/YmtA9-2Mwn_ieMJN.jpg",
+    "imageKind": "author-comparison",
+    "promptUrl": "https://x.com/teddyaisi/status/2120482204799381869",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2120482204799381869"
+    ],
+    "sourceAccess": "原帖作者、精确时间戳和媒体标签已核对。封面及两种完整 MP4 已下载并完整解码，未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "鼓楼灯车 · teddyaisi · 完整对照",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2120482173019123712/img/YmtA9-2Mwn_ieMJN.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2120482204799381869",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-lantern-cart-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-12/teddy-lantern-cart-1-original.mp4",
+        "bytes": 2183632,
+        "sha256": "18b8b64bbc4f0df8eafd4abcc83f52abf501179466e78f55abf9710554221ab3",
+        "durationSeconds": 20.0
+      }
+    ]
+  },
+  {
+    "id": "havis-hedgehog-picnic",
+    "group": "astra",
+    "category": "角色与动画",
+    "title": "刺猬野餐事故：从苹果旁滚向野餐篮",
+    "titleEn": "Hedgehog Picnic: A Tumble toward the Basket",
+    "modelLabel": "GPT-6 Astra · 作者动作对照",
+    "summary": "低多边形树林与草坡上，小刺猬从苹果旁滚向红白格野餐布和篮子。上下两栏分别展示作者的动作测试。",
+    "imageCaption": "原帖上下对照封面，下半幅标注 GPT-6 Astra，上半幅为 Claude Opus 5.5。",
+    "evidenceNote": "作者声明对两个模型使用同一输入、各一次生成。录像下栏清楚标注 Astra；成本与完成时间是作者估算。",
+    "promptAvailability": "author-description",
+    "promptSummary": "让刺猬闻苹果后滑倒，沿山坡翻滚，最后落入野餐篮。",
+    "outputType": [
+      "三维角色动作录像",
+      "完整原始 MP4"
+    ],
+    "outcome": "保存 12 秒完整对照，任务描述与最终运动表现分开记录。未公开角色绑定或工程文件。",
+    "addedAt": "2026-11-12",
+    "observedAt": "2026-11-12",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/HavisT83099/status/2120489591811576166",
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Havis | Claude Code / @HavisT83099",
+    "sourceUrl": "https://x.com/HavisT83099/status/2120489591811576166",
+    "sourceDate": "2026-11-11",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2120489522827804672/img/TPjZ8VYRHQRESSUe.jpg",
+    "imageKind": "author-comparison",
+    "promptUrl": "https://x.com/HavisT83099/status/2120489591811576166",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/HavisT83099/status/2120489591811576166"
+    ],
+    "sourceAccess": "原帖作者、精确时间戳和媒体标签已核对。封面及两种完整 MP4 已下载并完整解码，未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "刺猬野餐 · Havis · 完整对照",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2120489522827804672/img/TPjZ8VYRHQRESSUe.jpg",
+        "sourceUrl": "https://x.com/HavisT83099/status/2120489591811576166",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/havis-hedgehog-picnic-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-12/havis-hedgehog-picnic-1-original.mp4",
+        "bytes": 5058616,
+        "sha256": "07c344b01efa05b2e3ec919d253cac94c76314f88763ae461c34ae28d11fa205",
+        "durationSeconds": 12.0
+      }
+    ]
+  },
+  {
+    "id": "teddy-postal-village",
+    "group": "astra",
+    "category": "等距与微缩",
+    "title": "纸艺邮递村：红色信封穿过山坡滑道",
+    "titleEn": "Paper Postal Village: A Red Envelope on the Chute",
+    "modelLabel": "GPT-6 Astra · WebGL（作者声明）",
+    "summary": "纸艺山坡、小屋和蜿蜒滑道组成微缩邮递村，红色信封沿路线下滑。三栏对照中的 Astra 位于中间。",
+    "imageCaption": "作者三栏原帖封面；左为 Sol，中为 Astra，右为 Terra。",
+    "evidenceNote": "原帖明确标注三个模型与相同 WebGL 任务。中栏画面为 Astra；未将其他两栏作为 Astra 成果。",
+    "promptAvailability": "author-description",
+    "promptSummary": "构建纸艺山坡村落，让一封红色信沿邮递滑道穿过村子。",
+    "outputType": [
+      "WebGL 微缩场景",
+      "完整对照录像"
+    ],
+    "outcome": "20 秒完整片段展示路线路径和空间层级；未公开脚本，不能据录像确定真实碰撞或动力学机制。",
+    "addedAt": "2026-11-12",
+    "observedAt": "2026-11-12",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/teddyaisi/status/2120143502109790337",
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2120143502109790337",
+    "sourceDate": "2026-11-10",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2120143434254340096/img/OJfgHzsE2zUIKNIR.jpg",
+    "imageKind": "author-comparison",
+    "promptUrl": "https://x.com/teddyaisi/status/2120143502109790337",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2120143502109790337"
+    ],
+    "sourceAccess": "原帖作者、精确时间戳和媒体标签已核对。封面及两种完整 MP4 已下载并完整解码，未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "纸艺邮递村 · teddyaisi · 完整对照",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2120143434254340096/img/OJfgHzsE2zUIKNIR.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2120143502109790337",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-postal-village-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-12/teddy-postal-village-1-original.mp4",
+        "bytes": 1265059,
+        "sha256": "506ecf311d1dc65eb78f11b151c8fd597e12738250e87df1c4ce32380ffcf34b",
+        "durationSeconds": 20.0
+      }
+    ]
+  },
+  {
+    "id": "teddy-flywheel-printing",
+    "group": "astra",
+    "category": "拆解与剖面",
+    "title": "飞轮印花机：朱红花纹与纸张进给",
+    "titleEn": "Flywheel Printing Press: Vermilion Rosette and Paper Feed",
+    "modelLabel": "GPT-6 Astra · WebGL（作者声明）",
+    "summary": "铸铁印刷机把朱红花纹印到象牙色纸张上，飞轮与夹纸机构构成机械动作主题。Astra 的中栏呈现印刷台与图案。",
+    "imageCaption": "原帖三栏机械场景对照，GPT-6 Astra 位于中栏。",
+    "evidenceNote": "作者明确称三个模型收到同一 WebGL 任务。Astra 中栏与原帖标签对应；不依据画面推断机械机构的工程正确性。",
+    "promptAvailability": "author-description",
+    "promptSummary": "用飞轮驱动铸铁压印机，将朱红团花压在浅色纸张上，再由夹纸机构送进下一段纸。",
+    "outputType": [
+      "WebGL 机械动画",
+      "完整对照录像"
+    ],
+    "outcome": "20 秒原片可看机械与印花表现；没有公开零件尺寸、装配或可编辑模型。",
+    "addedAt": "2026-11-12",
+    "observedAt": "2026-11-12",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/teddyaisi/status/2120005462330581412",
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2120005462330581412",
+    "sourceDate": "2026-11-10",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2120005232306601984/img/qO_RWL0dPYo_JJJQ.jpg",
+    "imageKind": "author-comparison",
+    "promptUrl": "https://x.com/teddyaisi/status/2120005462330581412",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2120005462330581412"
+    ],
+    "sourceAccess": "原帖作者、精确时间戳和媒体标签已核对。封面及两种完整 MP4 已下载并完整解码，未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "飞轮印花机 · teddyaisi · 完整对照",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2120005232306601984/img/qO_RWL0dPYo_JJJQ.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2120005462330581412",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-flywheel-printing-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-12/teddy-flywheel-printing-1-original.mp4",
+        "bytes": 1780084,
+        "sha256": "a779d490500ab9c94536656f7385a4a217266fc3a8ac5a8f11afe6f4c8a66ff9",
+        "durationSeconds": 20.0
+      }
+    ]
+  },
+  {
+    "id": "varg-paper-boat-gif",
+    "group": "gif",
+    "category": "场景动图",
+    "platform": "varg.ai",
+    "author": "varg.ai / @vargai",
+    "sourceDate": null,
+    "title": "月夜纸船：海面起伏与月光倒影循环",
+    "titleEn": "Moonlit Paper Boat: A Night-Sea GIF Loop",
+    "modelLabel": "GPT-Image-2.6（作者声明，未注明子型号）",
+    "evidenceLevel": "author",
+    "summary": "橙色折纸船在深蓝夜海上轻轻起伏，月光在水面拉出金色倒影。原始 GIF 包含九帧，单轮 1.35 秒。",
+    "imageCaption": "varg.ai 原始 GIF 的第零帧；首帧由本库提取，播放时加载同一份原始动图。",
+    "evidenceNote": "varg.ai 发布的制作说明将此文件列为 GPT Image 2.6 生成示例，并公开原始 GIF、尺寸和帧间隔。作者说明制作于 11 月 4—5 日，单件首发时间未确认。",
+    "promptAvailability": "author-description",
+    "promptSummary": "以夜海上的纸船为主题制作循环动图；作者展示九帧、每帧 150 毫秒的原始结果。",
+    "outcome": "九帧全部解码且内容不同。模型子型号、计费及生成过程未独立复现，不涉及可编辑三维资产。",
+    "addedAt": "2026-11-12",
+    "observedAt": "2026-11-12",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "platforms": [
+      "varg.ai"
+    ],
+    "sourceUrl": "https://clawhub.ai/vargai/skills/gpt-image-gif",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-12/varg-paper-boat-gif-poster.jpg",
+    "imageKind": "gif-frame",
+    "outputType": [
+      "原生 GIF 动图",
+      "原始 GIF 文件"
+    ],
+    "promptUrl": "https://clawhub.ai/vargai/skills/gpt-image-gif",
+    "evidenceUrls": [
+      "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_1ddefdae1769.gif"
+    ],
+    "evidenceStatus": "作者声明为 GPT-Image-2.6 原生 GIF",
+    "sourceAccess": "原始文件完整 GET，全部帧已解码且内容不同。卡片为同一文件的首帧，模型生成过程未复跑。",
+    "animatedGif": {
+      "url": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_1ddefdae1769.gif",
+      "frames": 9,
+      "durationMs": 1350,
+      "width": 1024,
+      "height": 768,
+      "bytes": 906260,
+      "sha256": "01e994331e488a90e3dff4cc0825c71df79bd98ab8298e1e2a1073e9dd48f457",
+      "checkedAt": "2026-11-12"
+    }
+  },
+  {
+    "id": "varg-pip-mascot-gif",
+    "group": "gif",
+    "category": "角色动图",
+    "platform": "varg.ai",
+    "author": "varg.ai / @vargai",
+    "sourceDate": null,
+    "title": "Pip 小狐狸：从角色静帧到挥手跳跃",
+    "titleEn": "Pip the Fox: From Character Still to Waving and Hopping",
+    "modelLabel": "GPT-Image-2.6（作者声明，未注明子型号）",
+    "evidenceLevel": "author",
+    "summary": "围着蓝绿色围巾的橙色小狐狸挥手、跳起，再回到起始姿态。九帧动画保留白底与同一角色的基本轮廓。",
+    "imageCaption": "varg.ai 原始 Pip 动图的第零帧，由本库提取；原始动画为 768×768、九帧。",
+    "evidenceNote": "作者把原始 GIF 与确认过的角色静帧并列，说明将静帧作为输入生成动画；模型标为 GPT Image 2.6，未写明 Flare 或 Sunburst。",
+    "promptAvailability": "author-description",
+    "promptSummary": "先确认 Pip 角色静帧，再将其作为参考制作挥手和小跳循环；原始文件为九帧、每帧 140 毫秒。",
+    "outcome": "原始文件完整获取并逐帧解码，单轮 1.26 秒。输入静帧只作流程参考，未另计为新作品或生成结果。",
+    "addedAt": "2026-11-12",
+    "observedAt": "2026-11-12",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "platforms": [
+      "varg.ai"
+    ],
+    "sourceUrl": "https://clawhub.ai/vargai/skills/gpt-image-gif",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-12/varg-pip-mascot-gif-poster.jpg",
+    "imageKind": "gif-frame",
+    "outputType": [
+      "原生 GIF 动图",
+      "原始 GIF 文件"
+    ],
+    "promptUrl": "https://clawhub.ai/vargai/skills/gpt-image-gif",
+    "evidenceUrls": [
+      "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_4fbc831c7e61.gif"
+    ],
+    "evidenceStatus": "作者声明为 GPT-Image-2.6 原生 GIF",
+    "sourceAccess": "原始文件完整 GET，全部帧已解码且内容不同。卡片为同一文件的首帧，模型生成过程未复跑。",
+    "animatedGif": {
+      "url": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_4fbc831c7e61.gif",
+      "frames": 9,
+      "durationMs": 1260,
+      "width": 768,
+      "height": 768,
+      "bytes": 861656,
+      "sha256": "4181f1852a28a86c5656d8ed84184e2e09edb7e50ebb6e900d8ed7bcfc60b161",
+      "checkedAt": "2026-11-12"
+    }
+  },
+  {
     "id": "havis-corgi-frisbee",
     "title": "柯基码头接飞盘：跳跃与入水动作",
     "titleEn": "Corgi Dock Jump: Frisbee Catch and Splash",

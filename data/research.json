@@ -13102,6 +13102,251 @@
       "newMediaFiles": 8,
       "newMediaBytes": 57378111,
       "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-11"
+    },
+    {
+      "observedAt": "2026-11-12",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "baselineCommit": "b6b2099e1ac386c3a4ccf4b29c9ce3238ddfdaf2",
+      "baselineCount": 471,
+      "resultingCount": 479,
+      "addedCaseIds": [
+        "envol-ice-cathedral",
+        "teddy-alpine-snowblower",
+        "teddy-lantern-cart",
+        "havis-hedgehog-picnic",
+        "teddy-postal-village",
+        "teddy-flywheel-printing",
+        "varg-paper-boat-gif",
+        "varg-pip-mascot-gif"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "coverage": [
+        {
+          "id": "envol-ice-cathedral",
+          "sourceDate": "2026-11-12",
+          "sourceUrl": "https://x.com/EnvolDev/status/2120584341524742481",
+          "modelLabel": "GPT-6 Astra · Extra High（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "teddy-alpine-snowblower",
+          "sourceDate": "2026-11-12",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120554236899737947",
+          "modelLabel": "GPT-6 Astra · WebGL（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "teddy-lantern-cart",
+          "sourceDate": "2026-11-11",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120482204799381869",
+          "modelLabel": "GPT-6 Astra · WebGL（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "havis-hedgehog-picnic",
+          "sourceDate": "2026-11-11",
+          "sourceUrl": "https://x.com/HavisT83099/status/2120489591811576166",
+          "modelLabel": "GPT-6 Astra · 作者动作对照",
+          "group": "astra"
+        },
+        {
+          "id": "teddy-postal-village",
+          "sourceDate": "2026-11-10",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120143502109790337",
+          "modelLabel": "GPT-6 Astra · WebGL（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "teddy-flywheel-printing",
+          "sourceDate": "2026-11-10",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120005462330581412",
+          "modelLabel": "GPT-6 Astra · WebGL（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "varg-paper-boat-gif",
+          "sourceDate": null,
+          "sourceUrl": "https://clawhub.ai/vargai/skills/gpt-image-gif",
+          "modelLabel": "GPT-Image-2.6（作者声明，未注明子型号）",
+          "group": "gif"
+        },
+        {
+          "id": "varg-pip-mascot-gif",
+          "sourceDate": null,
+          "sourceUrl": "https://clawhub.ai/vargai/skills/gpt-image-gif",
+          "modelLabel": "GPT-Image-2.6（作者声明，未注明子型号）",
+          "group": "gif"
+        }
+      ],
+      "queries": [
+        "\"GPT-6 Astra\" \"3D\" after:2026-11-09",
+        "site:x.com Astra Blender after:2026-11-09",
+        "\"GPT-Image-2.6\" \"gif\" examples",
+        "site:github.com \"Astra\" \"3D\" \"November\"",
+        "\"Astra\" \"Blender\" \"Nov 11\" \"2026\"",
+        "site:x.com \"Astra\" \"Three.js\" after:2026-11-09",
+        "\"Frontier3DBench\" github",
+        "GitHub: \"gpt-6\" \"astra\" pushed:>=2026-11-08",
+        "site:bilibili.com \"Astra\" \"3D\" after:2026-11-09",
+        "site:xiaohongshu.com \"Astra\" 3D after:2026-11-09",
+        "site:reddit.com \"Astra\" \"3D\" after:2026-11-09"
+      ],
+      "discoverySources": [
+        "https://aivs.tv/models/gpt-6-astra/",
+        "https://teapawt.net/vib3coded",
+        "https://teapawt.net/teddyaisi",
+        "https://teapawt.net/noclipepe",
+        "https://teapawt.net/Andr1ycp",
+        "https://teapawt.net/maker_jackie",
+        "https://teapawt.net/sgarlen01",
+        "https://teapawt.net/KostiKoNeuro",
+        "https://teapawt.net/az9713",
+        "https://teapawt.net/EnvolDev",
+        "https://teapawt.net/HavisT83099",
+        "https://teapawt.net/miso_bits",
+        "https://teapawt.net/Lummox_eth",
+        "https://teapawt.net/XtraAi",
+        "https://teapawt.net/evanjcha",
+        "https://teapawt.net/ruofeng",
+        "https://sparkpix.ai/gpt-image-2-6",
+        "https://gifbake.com/gallery",
+        "https://clawhub.ai/vargai/skills/gpt-image-gif",
+        "https://imagesv2.ai/blog/gpt-image-2-6-gif",
+        "https://lab.einsia.ai/frontier3dbench/",
+        "https://github.com/Einsia/Frontier3D"
+      ],
+      "primarySourceChecks": [
+        {
+          "caseId": "teddy-lantern-cart",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120482204799381869",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 101269,
+          "sha256": "fc1140f524bbd81377869b256ad96c953d9761cbd90c9a0885972dd05781e33a",
+          "createdAtShanghai": "2026-11-11T19:42:08+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120482173019123712"
+        },
+        {
+          "caseId": "teddy-alpine-snowblower",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120554236899737947",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 101137,
+          "sha256": "987d96057ed86abdd93814d7accc5084c2ed2586f773ac2e6adc20a93dee1b3a",
+          "createdAtShanghai": "2026-11-12T00:28:22+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120554114300194816"
+        },
+        {
+          "caseId": "envol-ice-cathedral",
+          "sourceUrl": "https://x.com/EnvolDev/status/2120584341524742481",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 170912,
+          "sha256": "c431cfdc21e1d3ce64850cfebf031a67e7e506f489ccb6d40c5fb9a7a05dacbc",
+          "createdAtShanghai": "2026-11-12T02:28:00+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120415352014413824"
+        },
+        {
+          "caseId": "havis-hedgehog-picnic",
+          "sourceUrl": "https://x.com/HavisT83099/status/2120489591811576166",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 164975,
+          "sha256": "c20dde72a9764d620c1789091f83c6d860e0532a0a680861e755d3d432760b36",
+          "createdAtShanghai": "2026-11-11T20:11:30+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120489522827804672"
+        },
+        {
+          "caseId": "teddy-flywheel-printing",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120005462330581412",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 104698,
+          "sha256": "da451af1298d2a49bae9a2d4c1084910d56b594fe2e2058fa5e14021687433d3",
+          "createdAtShanghai": "2026-11-10T12:07:44+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120005232306601984"
+        },
+        {
+          "caseId": "teddy-postal-village",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120143502109790337",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 101151,
+          "sha256": "8b24ac00b842980f8b185aeae4c4c5871a9a8b692ce00c026eaff6ea4953b79c",
+          "createdAtShanghai": "2026-11-10T21:16:15+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120143434254340096"
+        },
+        {
+          "url": "https://clawhub.ai/vargai/skills/gpt-image-gif",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "contentLength": null,
+          "bytes": 124046,
+          "sha256": "c0ed054bf154f9fed510dc9d70aff5fa74da84deae1566675a6be486f5624498",
+          "fullGet": true,
+          "caseId": "varg-paper-boat-gif",
+          "modelStatementMatched": true
+        },
+        {
+          "url": "https://clawhub.ai/vargai/skills/gpt-image-gif",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "contentLength": null,
+          "bytes": 124046,
+          "sha256": "bd11de7a47717adbcf08c39238466cf4a33ae360a15475e9c720f17b94a90178",
+          "fullGet": true,
+          "caseId": "varg-pip-mascot-gif",
+          "modelStatementMatched": true
+        }
+      ],
+      "excludedOrDeferred": [
+        {
+          "url": "https://x.com/vib3coded/status/2120189916910895354",
+          "reason": "Mixed Tripo/Fable scene workflow with image-reference role only; not accepted as a new Astra 3D work."
+        },
+        {
+          "url": "https://sparkpix.ai/gpt-image-2-6",
+          "reason": "Public showcase assets inspected in this pass exposed animated WebP; original GIF URL was not established, so not added."
+        },
+        {
+          "url": "https://imagesv2.ai/blog/gpt-image-2-6-gif",
+          "reason": "Current source page returned Post not found despite an indexed article."
+        },
+        {
+          "url": "https://github.com/Einsia/Frontier3D",
+          "reason": "Research repository explicitly excludes model submissions and experiment outputs. Benchmark reviewed as a lead; no specific Astra output asset established for a new catalog entry."
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1ANxb6XEaz/",
+          "reason": "Older repost claims GPT-6.2 Astra and identifies another X author. No fresh primary attribution established in this pass."
+        }
+      ],
+      "platformLimits": [
+        "Public Chinese-platform searches did not establish a fresh attributable work for this batch.",
+        "Public X timelines and aivs.tv were discovery leads only; accepted posts were independently checked against original HTML, author, exact timestamp and media ID.",
+        "The ice-fjord recording is titled Cathedral of Ice by its author; catalog naming follows the visible ship and ice cliffs, not a claimed cathedral building.",
+        "GIF examples are newly collected today; author gives November 4–5 creation dates, not a verified first-publication date.",
+        "Model identity and cost claims are author statements, not independent generation or benchmarks."
+      ],
+      "completeSourceClips": 6,
+      "newGifWorks": 2,
+      "newMediaFiles": 12,
+      "newMediaBytes": 53859135,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-12"
     }
   ]
 }

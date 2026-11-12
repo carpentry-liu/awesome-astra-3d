@@ -2,6 +2,19 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-11-12 · 8 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [冰峡航船：冰壁、海面与极光的四模型对照 / Ice Fjord Vessel: Water, Cliffs and Aurora Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-ice-cathedral/) | Tony / @EnvolDev | 完整视频 · 提示词 / 过程 |
+| [雪夜除雪车：沿阿尔卑斯木屋车道前行 / Alpine Snowblower: Clearing the Lodge Driveway](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-alpine-snowblower/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [鼓楼灯车：木车驶过，长街灯笼依次亮起 / Lantern Cart: Lighting a Street beneath the Drum Tower](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-lantern-cart/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [刺猬野餐事故：从苹果旁滚向野餐篮 / Hedgehog Picnic: A Tumble toward the Basket](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-hedgehog-picnic/) | Havis \| Claude Code / @HavisT83099 | 完整视频 · 提示词 / 过程 |
+| [纸艺邮递村：红色信封穿过山坡滑道 / Paper Postal Village: A Red Envelope on the Chute](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-postal-village/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [飞轮印花机：朱红花纹与纸张进给 / Flywheel Printing Press: Vermilion Rosette and Paper Feed](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-flywheel-printing/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [月夜纸船：海面起伏与月光倒影循环 / Moonlit Paper Boat: A Night-Sea GIF Loop](https://carpentry-liu.github.io/awesome-astra-3d/cases/varg-paper-boat-gif/) | varg.ai / @vargai | GIF 动图（独立分组） · 提示词 / 过程 |
+| [Pip 小狐狸：从角色静帧到挥手跳跃 / Pip the Fox: From Character Still to Waving and Hopping](https://carpentry-liu.github.io/awesome-astra-3d/cases/varg-pip-mascot-gif/) | varg.ai / @vargai | GIF 动图（独立分组） · 提示词 / 过程 |
+
 ## 2026-11-11 · 8 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
