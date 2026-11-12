@@ -18,6 +18,7 @@ import {
   Layers3,
   ExternalLink,
   Play,
+  Pause,
   FileJson,
   Link2,
   SlidersHorizontal,
@@ -49,7 +50,7 @@ import { readerStatus } from '@/src/case-copy';
 import { registerCatalogTool } from '@/src/webmcp';
 import casesData from '@/data/catalog-index.json';
 import { VideoPlayer, videoTime } from '@/src/video-player';
-import { GifPlayer } from '@/src/gif-player';
+import { GifPlayer, useGifPlayback } from '@/src/gif-player';
 import { Welcome } from './welcome';
 import { navigateToSection } from '@/src/section-navigation';
 import {
@@ -64,7 +65,7 @@ const latestAdded =
     .sort()
     .at(-1) ?? '';
 const imageKinds: Record<string, [string, string]> = {
-  'gif-frame': ['GIF 动图 · 点击观看', 'GIF loop · Open to play'],
+  'gif-frame': ['GIF 动图', 'GIF animation'],
   illustration: ['模型示意图', 'Illustration'],
   comparison: ['对照媒体', 'Comparison'],
   'concept-art': ['概念图', 'Concept art'],
@@ -94,22 +95,34 @@ function Preview({
   item,
   locale,
   priority = false,
+  animate = false,
 }: {
   item: CaseIndex;
   locale: Locale;
   priority?: boolean;
+  animate?: boolean;
 }) {
   const [failed, setFailed] = useState(false);
+  const [animationFailed, setAnimationFailed] = useState(false);
+  const animation = animate && !animationFailed ? item.animatedGif?.url : null;
   const t = messages[locale];
   return item.imageUrl && !failed ? (
-    <img
-      src={item.imageUrl}
-      data-image-kind={item.imageKind}
-      alt={workTitle(item, locale)}
-      loading={priority ? 'eager' : 'lazy'}
-      referrerPolicy="no-referrer"
-      onError={() => setFailed(true)}
-    />
+    <>
+      <img
+        key={animation || item.imageUrl}
+        src={animation || item.imageUrl}
+        data-image-kind={item.imageKind}
+        alt={workTitle(item, locale)}
+        loading={priority ? 'eager' : 'lazy'}
+        referrerPolicy="no-referrer"
+        onError={() => (animation ? setAnimationFailed(true) : setFailed(true))}
+      />
+      {animationFailed && (
+        <output className="gif-preview-note">
+          {t.gifPreviewFailed}
+        </output>
+      )}
+    </>
   ) : (
     <div className="media-note">
       <span>{item.platform.toUpperCase()}</span>
@@ -148,6 +161,7 @@ function validDetail(value: unknown, id: string): value is Case {
 }
 
 export default function Home() {
+  const [gifPlaying, setGifPlaying] = useGifPlayback();
   const [query, setQuery] = useState(''),
     [group, setGroup] = useState('astra'),
     [category, setCategory] = useState('全部'),
@@ -419,6 +433,15 @@ export default function Home() {
             ))}
           </div>
           <div className="collection-tools">
+            {group === 'gif' && (
+              <button
+                aria-pressed={gifPlaying}
+                onClick={() => setGifPlaying(!gifPlaying)}
+              >
+                {gifPlaying ? <Pause size={14} /> : <Play size={14} />}
+                {gifPlaying ? t.gifStopAll : t.gifPlayAll}
+              </button>
+            )}
             <button
               aria-pressed={order === 'newest'}
               onClick={() =>
@@ -461,7 +484,12 @@ export default function Home() {
                       onClick={(event) => openCase(event, item)}
                       aria-label={`${t.openArchive}: ${workTitle(item, locale)}`}
                     >
-                      <Preview item={item} locale={locale} priority={i < 3} />
+                      <Preview
+                        item={item}
+                        locale={locale}
+                        priority={i < 3}
+                        animate={gifPlaying && !selectedId}
+                      />
                       <span className="image-index">
                         {String(scoped.indexOf(item) + 1).padStart(2, '0')} /{' '}
                         {categoryLabel(item.category, locale)}

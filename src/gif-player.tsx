@@ -1,7 +1,20 @@
 /* oxlint-disable next/no-img-element -- Keep original GIF bytes and attribution. */
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import type { AnimatedGif, Locale } from './catalog';
 import { messages } from './i18n';
+
+export function useGifPlayback() {
+  // Keep SSR and hydration identical; start motion once the visitor's preference is known.
+  const [playing, setPlaying] = useState(false);
+  useEffect(() => {
+    const preference = window.matchMedia('(prefers-reduced-motion: reduce)');
+    const sync = () => setPlaying(!preference.matches);
+    sync();
+    preference.addEventListener('change', sync);
+    return () => preference.removeEventListener('change', sync);
+  }, []);
+  return [playing, setPlaying] as const;
+}
 
 export function GifPlayer({
   gif,
@@ -14,7 +27,7 @@ export function GifPlayer({
   title: string;
   locale: Locale;
 }) {
-  const [playing, setPlaying] = useState(false);
+  const [playing, setPlaying] = useGifPlayback();
   const [failed, setFailed] = useState(false);
   const t = messages[locale];
   return (

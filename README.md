@@ -32,7 +32,7 @@
 | --- | --- |
 | [<img src="https://developers.openai.com/images/platform/guides/image-prompting/monkey-lantern-gpt-image-2-6-sunburst.gif" height="200" alt="雪夜提灯 · OpenAI GIF">](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-lantern-gif/) | [<img src="https://cdn.imageat.com/marketing/gpt-image-2-6/pixel-knight-walk.gif" height="200" alt="像素骑士 · imageat GIF">](https://carpentry-liu.github.io/awesome-astra-3d/cases/imageat-pixel-knight-gif/) |
 
-动图版权归各原作者；网站默认展示首帧，打开作品后点击“播放 GIF”。
+动图版权归各原作者；GIF 分类预览与详情自动播放，支持停止 / 播放。系统开启减少动态效果时默认显示首帧。
 
 ## 六件精选，先选一个想继续做的作品
 
@@ -67,7 +67,7 @@
 <details>
 <summary>查看案例区、手机与作品详情实拍 · 2026-11-12</summary>
 
-[![今日六件 Astra 作品与完整录像](docs/media/collection-2026-11-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![GIF 动图自动播放与统一停止](docs/media/collection-2026-11-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?group=gif#collection)
 
 ![手机端：精选作品与材料导航](docs/media/mobile-2026-11-12.jpg)
 

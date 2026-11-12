@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import test from 'node:test';
+import vm from 'node:vm';
 import {
   filterCases,
   readCatalogSearch,
@@ -110,11 +111,15 @@ test('GIF contract rejects stills, unverified identity, unsafe URLs and missing 
     assert.throws(() => validateAnimatedGif({ ...gif, ...patch }));
 });
 
-test('static GIF pages expose original bytes and still preview without autoplay; directory counts stay separate', () => {
+test('GIF cards receive only the playback URL; static details opt into automatic playback with still fallback', () => {
+  assert.deepEqual(makeCatalogIndex([gif])[0].animatedGif, {
+    url: gif.animatedGif.url,
+  });
   for (const lang of ['zh', 'en']) {
     const html = renderCase(gif, lang);
     assert(html.includes('data-gif="https://example.org/loop.gif"'));
     assert(html.includes('data-poster="https://example.org/still.jpg"'));
+    assert(html.includes('data-autoplay="true"'));
     assert(html.includes('href="https://example.org/loop.gif"'));
     assert(!html.includes('src="https://example.org/loop.gif"'));
     assert(html.includes('<noscript>'));
@@ -138,4 +143,74 @@ test('static GIF pages expose original bytes and still preview without autoplay;
       }),
     /Unsafe source URL/,
   );
+});
+
+test('static GIF playback starts automatically, honors motion preferences and recovers from media errors', () => {
+  const script = fs.readFileSync(
+    new URL('../public/static-pages.js', import.meta.url),
+    'utf8',
+  );
+  for (const reduced of [false, true]) {
+    const element = (dataset = {}) => {
+      const attributes = new Map([['aria-pressed', 'false']]);
+      return {
+        dataset,
+        hidden: true,
+        listeners: {},
+        addEventListener(type, callback) {
+          this.listeners[type] = callback;
+        },
+        getAttribute(name) {
+          return attributes.get(name);
+        },
+        setAttribute(name, value) {
+          attributes.set(name, value);
+        },
+      };
+    };
+    const image = { ...element({ poster: 'still.jpg' }), src: 'still.jpg' };
+    const button = element({ play: 'Play', stop: 'Stop' });
+    const status = element();
+    const preference = { ...element(), matches: reduced };
+    const player = {
+      dataset: { gif: 'original.gif', autoplay: 'true' },
+      querySelector(selector) {
+        return { img: image, button, '[role="status"]': status }[selector];
+      },
+    };
+    vm.runInNewContext(script, {
+      document: {
+        querySelectorAll(selector) {
+          return selector === '.gif-player[data-gif]' ? [player] : [];
+        },
+      },
+      window: {
+        matchMedia(query) {
+          assert.equal(query, '(prefers-reduced-motion: reduce)');
+          return preference;
+        },
+      },
+    });
+    assert.equal(image.src, reduced ? 'still.jpg' : 'original.gif');
+    assert.equal(button.hidden, false);
+    assert.equal(button.getAttribute('aria-pressed'), String(!reduced));
+    // A visitor may override the default; a second activation always restores it.
+    button.listeners.click();
+    assert.equal(image.src, reduced ? 'original.gif' : 'still.jpg');
+    button.listeners.click();
+    assert.equal(image.src, reduced ? 'still.jpg' : 'original.gif');
+    preference.matches = true;
+    preference.listeners.change();
+    assert.equal(image.src, 'still.jpg');
+    preference.matches = false;
+    preference.listeners.change();
+    assert.equal(image.src, 'original.gif');
+    image.listeners.error();
+    assert.equal(image.src, 'still.jpg');
+    assert.equal(status.hidden, false);
+    assert.equal(button.getAttribute('aria-pressed'), 'false');
+    button.listeners.click();
+    assert.equal(image.src, 'original.gif');
+    assert.equal(status.hidden, true);
+  }
 });

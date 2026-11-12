@@ -7,6 +7,7 @@ import {
   PAGE_SIZE,
   TOPICS,
   escapeHtml,
+  mediaHref,
   casePath,
   browsePath,
   sitemapEntries,
@@ -202,7 +203,8 @@ for (const language of ['zh', 'en']) {
     if (record.animatedGif) {
       assert(page.includes('class="gif-player"'), `Missing GIF player: ${record.id}`);
       assert(page.includes(`href="${escapeHtml(record.animatedGif.url)}"`), `Missing original GIF: ${record.id}`);
-      assert(!page.includes(`src="${escapeHtml(record.animatedGif.url)}"`), `GIF must wait for explicit playback: ${record.id}`);
+      assert(page.includes('data-autoplay="true"'), `Missing automatic GIF playback: ${record.id}`);
+      assert(page.includes(`data-poster="${escapeHtml(mediaHref(record.imageUrl, casePath(record.id, language)))}"`), `Missing GIF still fallback: ${record.id}`);
     }
     if (record.group === 'reference')
       assert(
