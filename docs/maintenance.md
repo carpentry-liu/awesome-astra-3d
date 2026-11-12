@@ -81,6 +81,10 @@ npm start
 
 原始资料、检查脚本与浏览器记录保留于忽略目录 `work/2026-11-12/`。视频保存在 Release；不提交媒体下载、缓存或迁移说明，不重新部署 ChatGPT Site。
 
+内容提交经 [PR #9](https://github.com/carpentry-liu/awesome-astra-3d/pull/9) 合入 `d8e5ebe`，[GitHub Pages 工作流](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/43146443963) 发布成功。工作流下载并核验全部 244 个播放版文件；原版保留在 Release。`py -3.13 -X utf8 work/2026-11-12/verify-production.py` 的 61 项线上检查通过：公开目录与本地 479 条记录一致，八件作品的中英详情和单条 JSON、八张预览、全部六份原始 GIF、首页、sitemap、四张实拍、分享图、双语 README 和录像清单均正常。六个新 Pages 播放文件完整 GET 的长度和 SHA-256 匹配，六个 Release 原版的 MP4 头及总长度匹配。
+
+`verify-rendered.py` 在 GitHub 实际渲染的中英文 README 各核对八张新增作品预览与跳转，并解码八张实际服务的图片。线上浏览器确认 461 / 6 / 12 分组、冰峡航船从 0 播至 25 秒 ended，以及纸船原始 GIF 加载和停止恢复首帧。远程浏览器指针激活未改变页面时改用键盘打开档案；不据此声称线上指针操作已复核。六段录像及两件 GIF 的逐项完整交互记录以本地生产构建为准。
+
 ## 内容验证（2026-11-11）
 
 新增 4 件 Astra 作品、4 段完整录像与 4 件独立分类的 GPT-Image-2.6 GIF。当前 455 条 Astra、4 条 GIF、12 条方法参考，121 个源码 / 工程入口、133 个演示入口、238 段录像。四条 Astra 原帖发表于 11 月 8—9 日；收录日期为 11 月 11 日。
