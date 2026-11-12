@@ -32,7 +32,7 @@ Six original GIF works are now indexed. The new paper boat and Pip loops appear 
 | --- | --- |
 | [<img src="https://developers.openai.com/images/platform/guides/image-prompting/monkey-lantern-gpt-image-2-6-sunburst.gif" height="200" alt="Lantern Monkey · OpenAI GIF">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/openai-lantern-gif/) | [<img src="https://cdn.imageat.com/marketing/gpt-image-2-6/pixel-knight-walk.gif" height="200" alt="Pixel Knight · imageat GIF">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/imageat-pixel-knight-gif/) |
 
-Third-party works remain the creators’ property. The site shows still previews until you press Play GIF.
+Third-party works remain the creators’ property. GIF previews and details play automatically, with stop / play controls. Reduced-motion preferences start with still images.
 
 ## Six featured works to start from
 
@@ -67,7 +67,7 @@ Website screenshots were refreshed on **November 12, 2026** from the current loc
 <details>
 <summary>Gallery, mobile and case screenshots · November 12, 2026</summary>
 
-[![Six new Astra works with complete clips](docs/media/collection-2026-11-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![GIF autoplay with collection-wide stop controls](docs/media/collection-2026-11-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=gif#collection)
 
 ![Mobile featured works and material navigation](docs/media/mobile-2026-11-12.jpg)
 

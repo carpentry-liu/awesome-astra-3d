@@ -30,6 +30,7 @@ export const indexFields = [
 export function makeCatalogIndex(records) {
   return records.map((record) => ({
     ...Object.fromEntries(indexFields.map((key) => [key, record[key]])),
+    ...(record.animatedGif ? { animatedGif: { url: record.animatedGif.url } } : {}),
     ...(record.archivedVideos?.length
       ? {
           archivedVideos: record.archivedVideos.map(({ durationSeconds }) => ({

@@ -13,7 +13,7 @@ export type CaseIndex = Pick<Case,
  'id'|'title'|'titleEn'|'group'|'category'|'platform'|'platforms'|'author'|
  'sourceUrl'|'addedAt'|'observedAt'|'modelLabel'|'evidenceLevel'|'summary'|
  'outputType'|'imageUrl'|'imageKind'|'imageCaption'|'demoUrl'|'repositoryUrl'|'outcome'
-> & {archivedVideos?:Pick<ArchivedVideo,'durationSeconds'>[]};
+> & {archivedVideos?:Pick<ArchivedVideo,'durationSeconds'>[];animatedGif?:Pick<AnimatedGif,'url'>};
 export type Locale = 'zh'|'en';
 export function readLocale(search:string):Locale{return new URLSearchParams(search).get('lang')==='en'?'en':'zh';}
 export function writeLocale(search:string,locale:Locale):string{
