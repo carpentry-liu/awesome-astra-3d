@@ -82,6 +82,10 @@ npm start
 
 新增演示完整 HTML 返回 200，浏览器显示比赛、场地和视角控件；外站操作检查超时，未宣称完整试玩。原始资料和运行日志留在忽略目录 `work/2026-11-13/`，不提交下载、原作者全文、迁移资料或临时脚本；不重新部署 ChatGPT Site。
 
+内容经 [PR #11](https://github.com/carpentry-liu/awesome-astra-3d/pull/11) 合入 `b6ad25e`，[Pages 工作流](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/43360665114) 构建与发布成功，并获取、校验全部 250 个播放版视频。`py -3.13 -X utf8 work/2026-11-13/verify-production.py` 的 63 项线上检查通过：公开目录与 487 条本地记录一致，八件新增作品的中英详情和 JSON、八张预览、全部八份原始 GIF、首页、sitemap、截图及 README 等发布文件正常；六个新 Pages 视频完整 GET 的长度与 SHA-256 匹配，六个 Release 原版的 MP4 头和总长度匹配。
+
+`verify-rendered.py` 核对 GitHub 实际渲染的中英文 README 各八个预览跳转，并成功解码八张实际服务的图片。线上浏览器确认 467 / 8 / 12 分组、八张 GIF 自动载入原始动画，以及雪山缆车录像从 0 播到 12 秒 ended，readyState 为 4、媒体错误为空；目录与录像页控制台 warn / error 均为空。线上实拍及交互记录保存在忽略目录，不将这次抽样描述为全部历史作品逐一试玩。
+
 ## 内容验证（2026-11-12）
 
 本轮新增 **6 件 Astra 作品、6 段完整 X 录像与 2 件原生 GIF**：冰峡航船、雪夜除雪车、鼓楼灯车、刺猬野餐、纸艺邮递村、飞轮印花机，以及月夜纸船和 Pip 小狐狸 GIF。当前 479 条记录包含 **461 条 Astra、6 条 GIF、12 条方法参考**，提供 121 个源码 / 工程入口、133 个演示入口和 244 段完整录像。
