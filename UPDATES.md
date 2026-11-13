@@ -2,6 +2,19 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-11-13 · 8 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [雪山缆车：红色车厢沿高架轨道爬坡 / Snowy Funicular: A Red Car Climbs the Mountain Track](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-snow-funicular/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [锻锤落下：高温钢坯与火星的机械动画 / Drop Hammer: Hot Steel and Sparks in a Forge](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-drop-hammer/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [摩洛哥庭院：木百叶开合与蓝色瓷砖上的光影 / Moroccan Courtyard: Shutters and Moving Sunlight](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-moroccan-shutters/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [雾中城堡：悬崖、塔楼与秋色的照片重建对照 / Castle above the Fog: Cliffside Towers and Autumn Color](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-fog-castle/) | Havis \| Claude Code / @HavisT83099 | 完整视频 · 提示词 / 过程 |
+| [狐狸扑雪：听声、起跳与扎进雪堆的动作对照 / Fox Snow Dive: Listening, Leaping and Landing](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-fox-snow-dive/) | Havis \| Claude Code / @HavisT83099 | 完整视频 · 提示词 / 过程 |
+| [Hollybrook Open：球场、看台与比赛控制面板 / Hollybrook Open: A Tennis Court with Match Controls](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3-hollybrook-tennis/) | Vib3Coded / @vib3coded | 演示入口 · 完整视频 |
+| [落日海岸公路：红色敞篷车的跟拍循环 / Coastal Drive: A Red Convertible at Sunset](https://carpentry-liu.github.io/awesome-astra-3d/cases/imageat-coastal-drive-gif/) | imageat | GIF 动图（独立分组） · 提示词 / 过程 |
+| [伊斯坦布尔茶馆：把杯中蒸汽与猫咪做成微动场景 / Istanbul Cafe: Steam and a Cat in a Photo-to-GIF Loop](https://carpentry-liu.github.io/awesome-astra-3d/cases/imageat-cafe-photo-gif/) | imageat | GIF 动图（独立分组） · 提示词 / 过程 |
+
 ## 2026-11-12 · 8 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

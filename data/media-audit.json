@@ -80702,6 +80702,1256 @@
         ],
         "limits": "No independent reproduction of creator generation workflows. Historical video sample checks remain bounded endpoint checks, not full replay."
       }
+    },
+    {
+      "checkedAt": "2026-11-13",
+      "round": "daily",
+      "scope": "Eight new previews, six complete X clips and two native GIFs; historical checks are a separate sample.",
+      "addedCaseIds": [
+        "teddy-snow-funicular",
+        "teddy-drop-hammer",
+        "teddy-moroccan-shutters",
+        "havis-fog-castle",
+        "havis-fox-snow-dive",
+        "vib3-hollybrook-tennis",
+        "imageat-coastal-drive-gif",
+        "imageat-cafe-photo-gif"
+      ],
+      "removedCaseIds": [],
+      "previews": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2121063004808847360/img/u0F7_uh4OceGFZ1V.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 119338,
+          "bytes": 119338,
+          "sha256": "fcea21ab7254e083276d064730af3364d1a50a394cad00f2745845f876a17a35",
+          "fullGet": true,
+          "caseId": "teddy-snow-funicular",
+          "sourceUrl": "https://x.com/teddyaisi/status/2121063324364497321",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2120931569271754752/img/jR_eo7Y80MoFFTHt.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 114619,
+          "bytes": 114619,
+          "sha256": "9536b56b7cdf0c3e7d0865442f85a779a4e922fd94b9cdc6bf575b4bf25bc45b",
+          "fullGet": true,
+          "caseId": "teddy-drop-hammer",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120931951142162944",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2120713889063256065/img/7w5okATfacXgRmmJ.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 157408,
+          "bytes": 157408,
+          "sha256": "19730ebc11a9f9df840a0a7c7f98ad667472eb9eef326fa1fd8f7d0d6c57793b",
+          "fullGet": true,
+          "caseId": "teddy-moroccan-shutters",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120714093191663759",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "havis-fog-castle",
+          "contentType": "image/jpeg",
+          "bytes": 268158,
+          "sha256": "59d465a9ac9c748207bde021d8ba4c4275ec9107c2e4b0d6e052743915294ac5",
+          "dimensions": [
+            1080,
+            1350
+          ],
+          "frameSeconds": 6.825,
+          "sourceUrl": "https://x.com/HavisT83099/status/2121015591662129272",
+          "sourceVideoSha256": "88a8dec44bdabc2a5d7a9505e94a7681e1a36de69ed3665c1e2bffa5cebc7dcc",
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/havis-fog-castle-result-frame.jpg",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/havis-fog-castle-result-frame.jpg",
+          "decoded": true,
+          "frames": 1,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2120851901193330691/img/gcCUy8w1J14fMwf9.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 98654,
+          "bytes": 98654,
+          "sha256": "a42625811960b7047733f4547f71503e2550c03791c5e8d183eb0109e3930951",
+          "fullGet": true,
+          "caseId": "havis-fox-snow-dive",
+          "sourceUrl": "https://x.com/HavisT83099/status/2120851970588061822",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            960,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2120831514338312192/img/gVzswH1zS0Nhyw4I.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 132644,
+          "bytes": 132644,
+          "sha256": "907ee58e17739ab6b98f99711a775ff2f99eba89a5f5a6e03037f3b149562c13",
+          "fullGet": true,
+          "caseId": "vib3-hollybrook-tennis",
+          "sourceUrl": "https://x.com/vib3coded/status/2120831587294064781",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            948,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "imageat-coastal-drive-gif",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/imageat-coastal-drive-gif-poster.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 151246,
+          "sha256": "76bc7a9a6d20b23f46060d630e296ab5ecfbc1a856dce3adb2bbd5ea31a8d798",
+          "dimensions": [
+            1024,
+            576
+          ],
+          "decoded": true,
+          "frames": 1,
+          "sourceUrl": "https://cdn.imageat.com/marketing/gpt-image-2-6/coastal-drive.gif",
+          "frameIndex": 0,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "imageat-cafe-photo-gif",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/imageat-cafe-photo-gif-poster.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 276528,
+          "sha256": "749ef7bbacbf9916d8f2603ec417b78670262782419e59773ee75b20099812ba",
+          "dimensions": [
+            816,
+            816
+          ],
+          "decoded": true,
+          "frames": 1,
+          "sourceUrl": "https://cdn.imageat.com/marketing/gpt-image-2-6/istanbul-cafe-photo-to-gif.gif",
+          "frameIndex": 0,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        }
+      ],
+      "animatedGifs": [
+        {
+          "url": "https://cdn.imageat.com/marketing/gpt-image-2-6/coastal-drive.gif",
+          "httpStatus": 200,
+          "contentType": "image/gif",
+          "contentLength": 2508743,
+          "bytes": 2508743,
+          "sha256": "73d922590b63e7e38c027866da1a55865980f1bf3deca792a8b54288d230908a",
+          "fullGet": true,
+          "caseId": "imageat-coastal-drive-gif",
+          "sourceUrl": "https://imageat.com/gpt-image-2-6",
+          "dimensions": [
+            1024,
+            576
+          ],
+          "frames": 12,
+          "durationMs": 1440,
+          "frameDurationsMs": [
+            120,
+            120,
+            120,
+            120,
+            120,
+            120,
+            120,
+            120,
+            120,
+            120,
+            120,
+            120
+          ],
+          "distinctFrames": 12,
+          "loop": 0,
+          "actualImageFormat": "GIF",
+          "decoded": true,
+          "allFramesDecoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://cdn.imageat.com/marketing/gpt-image-2-6/istanbul-cafe-photo-to-gif.gif",
+          "httpStatus": 200,
+          "contentType": "image/gif",
+          "contentLength": 3130944,
+          "bytes": 3130944,
+          "sha256": "bb37c9956007c45a7158f157f09680fed3aa1a11c6c92aea470fab41e4aab4a5",
+          "fullGet": true,
+          "caseId": "imageat-cafe-photo-gif",
+          "sourceUrl": "https://imageat.com/gpt-image-2-6",
+          "dimensions": [
+            816,
+            816
+          ],
+          "frames": 8,
+          "durationMs": 1600,
+          "frameDurationsMs": [
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200
+          ],
+          "distinctFrames": 8,
+          "loop": 0,
+          "actualImageFormat": "GIF",
+          "decoded": true,
+          "allFramesDecoded": true,
+          "visuallyReviewed": true
+        }
+      ],
+      "newVideos": [
+        {
+          "caseId": "havis-fog-castle",
+          "filename": "havis-fog-castle-1-original.mp4",
+          "kind": "original",
+          "bytes": 6242231,
+          "sha256": "88a8dec44bdabc2a5d7a9505e94a7681e1a36de69ed3665c1e2bffa5cebc7dcc",
+          "durationSeconds": 13.65,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/HavisT83099/status/2121015591662129272",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/havis-fog-castle-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 13.6,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "havis-fog-castle",
+          "filename": "havis-fog-castle-1-web.mp4",
+          "kind": "web",
+          "bytes": 600640,
+          "sha256": "733084e2a60ba578e461c0b40d8fa3878a65c80b3159b311aa89b812da40527d",
+          "durationSeconds": 13.65,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/HavisT83099/status/2121015591662129272",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/havis-fog-castle-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 13.6,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "havis-fox-snow-dive",
+          "filename": "havis-fox-snow-dive-1-original.mp4",
+          "kind": "original",
+          "bytes": 3672214,
+          "sha256": "960b56995bc10d4252ebbf0a8177ebae406967406460693fa25cea4e209273c8",
+          "durationSeconds": 12.05,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/HavisT83099/status/2120851970588061822",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/havis-fox-snow-dive-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "havis-fox-snow-dive",
+          "filename": "havis-fox-snow-dive-1-web.mp4",
+          "kind": "web",
+          "bytes": 515443,
+          "sha256": "eb1694cc139f3e3c5b233e9e4d408d3ef1e9ff67608d0c50268849f65aa9f460",
+          "durationSeconds": 12.05,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/HavisT83099/status/2120851970588061822",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/havis-fox-snow-dive-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "teddy-drop-hammer",
+          "filename": "teddy-drop-hammer-1-original.mp4",
+          "kind": "original",
+          "bytes": 681893,
+          "sha256": "23ba9dedc0ce3a882f9111bcfcbe48add303cf94d6c4884ba9df559c587e33a6",
+          "durationSeconds": 12.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2120931951142162944",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/teddy-drop-hammer-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "teddy-drop-hammer",
+          "filename": "teddy-drop-hammer-1-web.mp4",
+          "kind": "web",
+          "bytes": 182445,
+          "sha256": "9446bc79f95151f6e09deda5024f0ca63d347487a83dfed454522a1497294068",
+          "durationSeconds": 12.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2120931951142162944",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/teddy-drop-hammer-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "teddy-moroccan-shutters",
+          "filename": "teddy-moroccan-shutters-1-original.mp4",
+          "kind": "original",
+          "bytes": 1713854,
+          "sha256": "1d5bd92f28cb84e826c94966e8ebf8408258f4f76e1ca6716277d8d5ae55ed39",
+          "durationSeconds": 20.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2120714093191663759",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/teddy-moroccan-shutters-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 20,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "teddy-moroccan-shutters",
+          "filename": "teddy-moroccan-shutters-1-web.mp4",
+          "kind": "web",
+          "bytes": 408971,
+          "sha256": "0bb338441c250a0dfee4d2b19e017c9c759554907e26bc76fba47c87f887a62a",
+          "durationSeconds": 20.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2120714093191663759",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/teddy-moroccan-shutters-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 20,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "teddy-snow-funicular",
+          "filename": "teddy-snow-funicular-1-original.mp4",
+          "kind": "original",
+          "bytes": 1344775,
+          "sha256": "5e1d76120b22d7d94160ea946adfa86a3f3a86c71004c2ac095f8709424c84e6",
+          "durationSeconds": 12.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2121063324364497321",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/teddy-snow-funicular-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "teddy-snow-funicular",
+          "filename": "teddy-snow-funicular-1-web.mp4",
+          "kind": "web",
+          "bytes": 381231,
+          "sha256": "ef1637ca24252a6124f2f270014c35576c6c420875b69325cc953247585ced74",
+          "durationSeconds": 12.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2121063324364497321",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/teddy-snow-funicular-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "vib3-hollybrook-tennis",
+          "filename": "vib3-hollybrook-tennis-1-original.mp4",
+          "kind": "original",
+          "bytes": 17402848,
+          "sha256": "ae6b1210b7511639af4ccbec6403971db72e704af8c54a5df963f19ae98cba68",
+          "durationSeconds": 18.03,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/vib3coded/status/2120831587294064781",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/vib3-hollybrook-tennis-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 18,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "vib3-hollybrook-tennis",
+          "filename": "vib3-hollybrook-tennis-1-web.mp4",
+          "kind": "web",
+          "bytes": 1293221,
+          "sha256": "833b8baae9be25ac514c16c31c5055636c42f2e4d841344cc38625a83f19125e",
+          "durationSeconds": 18.03,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/vib3coded/status/2120831587294064781",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/vib3-hollybrook-tennis-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 18,
+          "releaseDigestMatched": true
+        }
+      ],
+      "historicalChecks": {
+        "images": [
+          {
+            "caseId": "envol-ice-cathedral",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2120415352014413824/img/NHi-1Jzz0xtbTBP_.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-13T03:20:55.671770+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 231430,
+            "bytes": 231430,
+            "sha256": "404f5c78cb975c20fdb6be415370d3d113f553cdac76b43c5352d5d6cac2dbf7",
+            "dimensions": [
+              1200,
+              1067
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-alpine-snowblower",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2120554114300194816/img/7uv1a-cPvF_fFA9Q.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-13T03:20:55.672913+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 126441,
+            "bytes": 126441,
+            "sha256": "f668617433bef090169a4a4ab2611b82e1b57bee2a9c6d50674050ed95f2c883",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-lantern-cart",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2120482173019123712/img/YmtA9-2Mwn_ieMJN.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-13T03:20:55.673153+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 122401,
+            "bytes": 122401,
+            "sha256": "7162c2d0f086afba90319e203d5d116d1e52d5c8c36f48261e357e74de98dc87",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "havis-hedgehog-picnic",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2120489522827804672/img/TPjZ8VYRHQRESSUe.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-13T03:20:55.673517+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 139663,
+            "bytes": 139663,
+            "sha256": "70a5221d5e524ea1f10bd72ca59d4ef05dfaeff7c9b98c8c70b5f6fc302e9352",
+            "dimensions": [
+              960,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-postal-village",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2120143434254340096/img/OJfgHzsE2zUIKNIR.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-13T03:20:55.673802+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 139395,
+            "bytes": 139395,
+            "sha256": "6d23127451117d8cc0571f0037a51f552b343e680177eaaf197bc5ad976bd28f",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-flywheel-printing",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2120005232306601984/img/qO_RWL0dPYo_JJJQ.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-13T03:20:57.260609+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 132476,
+            "bytes": 132476,
+            "sha256": "1d32e1d71ef76916e5c29556197be42355cfa1e3a9fdc308fddd43a1e75a8892",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "havis-corgi-frisbee",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2119554631063818240/img/qjASvKf_3h3WvgC7.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-13T03:20:57.358599+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 119654,
+            "bytes": 119654,
+            "sha256": "571e41bc8c8425a51c229256d62605ace1abdbd3d4e75b3de44a0aed9083a18e",
+            "dimensions": [
+              960,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "envol-christ-redeemer",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2119508814924070912/img/Uqob8a79x3696puL.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-13T03:20:57.567672+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 188651,
+            "bytes": 188651,
+            "sha256": "0b4fd817fa51d78f129102c11a3f3c911a20c945bd2bcb183255d97c26ed5eec",
+            "dimensions": [
+              1200,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-coral-marble",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2119301958947459072/img/L5gB6gCXVjmf6X6x.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-13T03:20:57.588811+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 115753,
+            "bytes": 115753,
+            "sha256": "50b491a40a43bac8e03c9c3efccb60114d7bfbe353df860ace39b4297222f8c5",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-gondola-pulley",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2119289892543033344/img/vv43921RsW0xwRTO.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-13T03:20:57.827717+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 122132,
+            "bytes": 122132,
+            "sha256": "e74b4fe3ecda75f991c39015c3320bfba0c70203a7897fd6dde6e530a0340806",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "satsuki-amusement-park",
+            "url": "https://raw.githubusercontent.com/satsuki-c6s/ai-3d-amusement-park/aa9ffcb9ec054db631be5848b4b067468c0f63a8/astra-1.gif",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-13T03:20:58.861100+00:00",
+            "status": 200,
+            "contentType": "image/gif",
+            "contentLength": 706745,
+            "bytes": 706745,
+            "sha256": "801f2f7d956b6c29fde29ed567bcd6aeb0469b7cecee0830b1bb5e2c7dc06f53",
+            "dimensions": [
+              640,
+              360
+            ],
+            "format": "GIF",
+            "frames": 88,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "derek-opencitymaker",
+            "url": "https://raw.githubusercontent.com/derek-wangpch/OpenCityMaker/master/docs/images/citymaker-game.png",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-13T03:20:59.125687+00:00",
+            "status": 200,
+            "contentType": "image/png",
+            "contentLength": 268315,
+            "bytes": 268315,
+            "sha256": "d739b7560f9700730f4679d866fd1cf4c6af28921178444ceb1e8790b060f3bf",
+            "dimensions": [
+              1440,
+              1100
+            ],
+            "format": "PNG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "real2gym-astra-scene-reconstruction",
+            "url": "https://real2gym.github.io/assets/media/e89ffc949fd4f3d224dcb20170373b83636398ebe4ca88e84565dda9ed8f3311.png",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-13T03:20:59.140552+00:00",
+            "status": 200,
+            "contentType": "image/png",
+            "contentLength": 1400416,
+            "bytes": 1400416,
+            "sha256": "e89ffc949fd4f3d224dcb20170373b83636398ebe4ca88e84565dda9ed8f3311",
+            "dimensions": [
+              2290,
+              1036
+            ],
+            "format": "PNG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "nitzan-palm-bay-one-shot",
+            "url": "https://nitzan.games/experiments/one-shot-gta/astra-preview.png",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-13T03:20:59.294407+00:00",
+            "status": 200,
+            "contentType": "image/png",
+            "contentLength": 354273,
+            "bytes": 354273,
+            "sha256": "ff9896a852afbf37bb06b579657d88853afcc02d87a6b0c08505cc6fc3864716",
+            "dimensions": [
+              1440,
+              960
+            ],
+            "format": "PNG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "shyrz-deepseek-whale-cad",
+            "url": "https://raw.githubusercontent.com/shyrz/gpt-6-astra-3dp-test/02938ed9ab87a1719043c8db151eac75f5b578b3/models/preview-smooth.png",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-13T03:21:01.279874+00:00",
+            "status": 200,
+            "contentType": "image/png",
+            "contentLength": 254779,
+            "bytes": 254779,
+            "sha256": "7dd4573b4bd81df12a4abafeda429c6282bf2081b91f27eb486e61e2eb26a3ee",
+            "dimensions": [
+              2250,
+              1320
+            ],
+            "format": "PNG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "routine-yohaku",
+            "url": "https://rutinelabo.com/blog/wp-content/uploads/2026/09/gpt6-astra-3d-website-images1.webp",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-13T03:21:01.338135+00:00",
+            "status": 200,
+            "contentType": "image/webp",
+            "contentLength": 45710,
+            "bytes": 45710,
+            "sha256": "a64d59ccc2a461ae8abe7c070d018a7bf36c5af3cd94467499e3b02b64864d69",
+            "dimensions": [
+              1920,
+              1080
+            ],
+            "format": "WEBP",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "rion-temple-diorama",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2098403015669780480/img/48Ok5jAMHEjoZCDR.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-13T03:21:01.447761+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 56517,
+            "bytes": 56517,
+            "sha256": "9a97238739cc797edca0a86618a4fff4ff856a8685f56a2e6aa1867e52699f32",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "taro-skyrim-village",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2097166730498113536/img/7GvqTsPqYabmN0A8.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-13T03:21:02.083837+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 142238,
+            "bytes": 142238,
+            "sha256": "9c9cbd259a893444392ed43dcb391e62636358a5f2f570cf4232cc13a2128a63",
+            "dimensions": [
+              1200,
+              1022
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "icooper-desktop-exploded",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2096578527097421824/img/URU9i3UmgYiA-oul.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-13T03:21:02.886059+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 96565,
+            "bytes": 96565,
+            "sha256": "a458ade27a67e8056a77033a3773747c79a821004d83229afc91439a3d318b2b",
+            "dimensions": [
+              1200,
+              697
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "aibattle-sonic-godot",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2095992908448944130/img/v8BSAp4Xt5knPeV0.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-13T03:21:03.112548+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 156398,
+            "bytes": 156398,
+            "sha256": "98895f9ea13b5768341dde1695a82687f878f44f3ecd3dca38a5487483ed8f59",
+            "dimensions": [
+              900,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          }
+        ],
+        "videoEndpoints": [
+          {
+            "caseId": "envol-ice-cathedral",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/envol-ice-cathedral-1-web.mp4",
+            "expectedBytes": 723363,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-13T03:21:05.455540+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/723363",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "envol-ice-cathedral",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-12/envol-ice-cathedral-1-original.mp4",
+            "expectedBytes": 36748957,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-13T03:21:05.457157+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/36748957",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "teddy-alpine-snowblower",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-alpine-snowblower-1-web.mp4",
+            "expectedBytes": 838496,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-13T03:21:05.456191+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/838496",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "teddy-alpine-snowblower",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-12/teddy-alpine-snowblower-1-original.mp4",
+            "expectedBytes": 3276568,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-13T03:21:05.456386+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/3276568",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "teddy-lantern-cart",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-lantern-cart-1-web.mp4",
+            "expectedBytes": 495450,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-13T03:21:05.456570+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/495450",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "teddy-lantern-cart",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-12/teddy-lantern-cart-1-original.mp4",
+            "expectedBytes": 2183632,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-13T03:21:06.521516+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/2183632",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "luckeyfaraday-sonic-four-model",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/luckeyfaraday-sonic-four-model-1-web.mp4",
+            "expectedBytes": 895630,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-13T03:21:06.813455+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/895630",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "luckeyfaraday-sonic-four-model",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-09/luckeyfaraday-sonic-four-model-1-original.mp4",
+            "expectedBytes": 4158006,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-13T03:21:07.340142+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/4158006",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "aibattle-sonic-godot",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/aibattle-sonic-godot-1-web.mp4",
+            "expectedBytes": 8289737,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-13T03:21:07.698063+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/8289737",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "aibattle-sonic-godot",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-06/aibattle-sonic-godot-1-original.mp4",
+            "expectedBytes": 26328880,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-13T03:21:07.919473+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/26328880",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          }
+        ],
+        "conclusion": {
+          "checkedImages": 20,
+          "decodedImages": 20,
+          "checkedVideoCases": 5,
+          "checkedVideoEndpoints": 10,
+          "verifiedVideoEndpoints": 10,
+          "failures": [],
+          "limits": "Historical videos were not downloaded or replayed in full. Image decode and bounded video endpoints only."
+        }
+      },
+      "browserVerification": {
+        "checkedAt": "2026-11-13",
+        "environment": "Local production build at http://127.0.0.1:4403/",
+        "scope": "Six complete new recordings, eight GIF previews, two new GIF detail pages, responsive layout and language/filter checks",
+        "videos": [
+          {
+            "currentTime": 12,
+            "duration": 12,
+            "ended": true,
+            "error": null,
+            "readyState": 4,
+            "src": "http://127.0.0.1:4403/videos/teddy-snow-funicular-1-web.mp4"
+          },
+          {
+            "currentTime": 12,
+            "duration": 12,
+            "ended": true,
+            "error": null,
+            "readyState": 4,
+            "src": "http://127.0.0.1:4403/videos/teddy-drop-hammer-1-web.mp4"
+          },
+          {
+            "currentTime": 20,
+            "duration": 20,
+            "ended": true,
+            "error": null,
+            "readyState": 4,
+            "src": "http://127.0.0.1:4403/videos/teddy-moroccan-shutters-1-web.mp4"
+          },
+          {
+            "currentTime": 13.653333,
+            "duration": 13.653333,
+            "ended": true,
+            "error": null,
+            "readyState": 4,
+            "src": "http://127.0.0.1:4403/videos/havis-fog-castle-1-web.mp4"
+          },
+          {
+            "currentTime": 12.051156,
+            "duration": 12.051156,
+            "ended": true,
+            "error": null,
+            "readyState": 4,
+            "src": "http://127.0.0.1:4403/videos/havis-fox-snow-dive-1-web.mp4"
+          },
+          {
+            "currentTime": 18.026667,
+            "duration": 18.026667,
+            "ended": true,
+            "error": null,
+            "readyState": 4,
+            "src": "http://127.0.0.1:4403/videos/vib3-hollybrook-tennis-1-web.mp4"
+          }
+        ],
+        "responsive": [
+          {
+            "client": 1425,
+            "overflow": false,
+            "scroll": 1425,
+            "width": 1440
+          },
+          {
+            "client": 375,
+            "overflow": false,
+            "scroll": 375,
+            "width": 390
+          },
+          {
+            "client": 305,
+            "overflow": false,
+            "scroll": 305,
+            "width": 320
+          }
+        ],
+        "logs": {
+          "home": [],
+          "detail": [],
+          "video": []
+        },
+        "homeImages": [
+          {
+            "src": "https://raw.githubusercontent.com/fatasia/within/main/public/previews/sakura.webp",
+            "width": 1200
+          },
+          {
+            "src": "https://raw.githubusercontent.com/derek-wangpch/OpenCityMaker/master/docs/images/citymaker-game.png",
+            "width": 1440
+          },
+          {
+            "src": "https://raw.githubusercontent.com/KostiKoNeuro/kimi-vs-astra/main/2b-blender/astra/hero.png",
+            "width": 1920
+          },
+          {
+            "src": "https://raw.githubusercontent.com/pratikgx/embryo-explorer/main/media/preview.jpg",
+            "width": 1920
+          },
+          {
+            "src": "https://raw.githubusercontent.com/bambssquad/jetis-digital-twin-astra/main/outputs/revision02-overview.jpg",
+            "width": 2048
+          },
+          {
+            "src": "https://raw.githubusercontent.com/az9713/gpt-6-astra-builds/main/latest/screenshots/04-golden-gate.png",
+            "width": 1600
+          }
+        ],
+        "newImages": [
+          {
+            "alt": "雪山缆车：红色车厢沿高架轨道爬坡",
+            "src": "https://pbs.twimg.com/amplify_video_thumb/2121063004808847360/img/u0F7_uh4OceGFZ1V.jpg",
+            "width": 1200
+          },
+          {
+            "alt": "锻锤落下：高温钢坯与火星的机械动画",
+            "src": "https://pbs.twimg.com/amplify_video_thumb/2120931569271754752/img/jR_eo7Y80MoFFTHt.jpg",
+            "width": 1200
+          },
+          {
+            "alt": "摩洛哥庭院：木百叶开合与蓝色瓷砖上的光影",
+            "src": "https://pbs.twimg.com/amplify_video_thumb/2120713889063256065/img/7w5okATfacXgRmmJ.jpg",
+            "width": 1200
+          },
+          {
+            "alt": "雾中城堡：悬崖、塔楼与秋色的照片重建对照",
+            "src": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/havis-fog-castle-result-frame.jpg",
+            "width": 1080
+          },
+          {
+            "alt": "狐狸扑雪：听声、起跳与扎进雪堆的动作对照",
+            "src": "https://pbs.twimg.com/amplify_video_thumb/2120851901193330691/img/gcCUy8w1J14fMwf9.jpg",
+            "width": 960
+          },
+          {
+            "alt": "Hollybrook Open：球场、看台与比赛控制面板",
+            "src": "https://pbs.twimg.com/amplify_video_thumb/2120831514338312192/img/gVzswH1zS0Nhyw4I.jpg",
+            "width": 948
+          }
+        ],
+        "gifCards": [
+          {
+            "alt": "落日海岸公路：红色敞篷车的跟拍循环",
+            "src": "https://cdn.imageat.com/marketing/gpt-image-2-6/coastal-drive.gif",
+            "width": 1024
+          },
+          {
+            "alt": "伊斯坦布尔茶馆：把杯中蒸汽与猫咪做成微动场景",
+            "src": "https://cdn.imageat.com/marketing/gpt-image-2-6/istanbul-cafe-photo-to-gif.gif",
+            "width": 816
+          },
+          {
+            "alt": "月夜纸船：海面起伏与月光倒影循环",
+            "src": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_1ddefdae1769.gif",
+            "width": 1024
+          },
+          {
+            "alt": "Pip 小狐狸：从角色静帧到挥手跳跃",
+            "src": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_4fbc831c7e61.gif",
+            "width": 768
+          },
+          {
+            "alt": "雪夜提灯猴子：官方角色循环 GIF",
+            "src": "https://developers.openai.com/images/platform/guides/image-prompting/monkey-lantern-gpt-image-2-6-sunburst.gif",
+            "width": 512
+          },
+          {
+            "alt": "耳机开盒：升起、落回与合盖",
+            "src": "https://image.lightlyn.com/examples/gpt-image-2-6/gif-product.gif",
+            "width": 960
+          },
+          {
+            "alt": "蓝羽骑士：像素侧身行走循环",
+            "src": "https://cdn.imageat.com/marketing/gpt-image-2-6/pixel-knight-walk.gif",
+            "width": 768
+          },
+          {
+            "alt": "粉色转台上的白鞋：十六帧产品转动",
+            "src": "https://predis.ai/assets/img/ai-models/gpt-image-2-6/spin.gif",
+            "width": 608
+          }
+        ],
+        "detailGifStates": [
+          {
+            "src": "https://cdn.imageat.com/marketing/gpt-image-2-6/coastal-drive.gif",
+            "width": 1024
+          },
+          {
+            "src": "https://cdn.imageat.com/marketing/gpt-image-2-6/istanbul-cafe-photo-to-gif.gif",
+            "width": 816
+          }
+        ],
+        "stoppedDetail": {
+          "src": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/imageat-cafe-photo-gif-poster.jpg",
+          "width": 816
+        },
+        "limits": "Native video Space actions reported locator deadlines, but immediate read-only media state confirmed playing and subsequent state confirmed ended. Author demo HTML and controls were accessible; full gameplay was not verified.",
+        "filterClear": "English Scene loops returns 3; All restores 8; language change preserves GIF and newest order.",
+        "screenshots": [
+          "docs/media/homepage-2026-11-13.jpg",
+          "docs/media/collection-2026-11-13.jpg",
+          "docs/media/mobile-2026-11-13.jpg",
+          "docs/media/case-2026-11-13.jpg"
+        ]
+      }
     }
   ]
 }
