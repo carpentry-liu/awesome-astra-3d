@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-11-12 (Asia/Shanghai)** · **461 Astra examples** · **121 source / project links** · **133 demo links** · **244 complete videos** · **6 GIF animations** · **12 separate references**.
+Updated **2026-11-13 (Asia/Shanghai)** · **467 Astra examples** · **121 source / project links** · **134 demo links** · **250 complete videos** · **8 GIF animations** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -22,17 +22,17 @@ Source / project totals count public material links; demo totals count creator-h
 
 [GIF collection](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=gif&order=newest#collection) · [Official generation guide](https://developers.openai.com/api/docs/guides/image-generation#generate-animated-gif-output)
 
-Six original GIF works are now indexed. The new paper boat and Pip loops appear first below, followed by two earlier picks. Open each image for its source, model attribution and original file. GIFs are counted separately from Astra.
+Eight original GIF works are now indexed. The new coastal-drive and cafe loops appear below alongside the paper boat and Pip. Open each image for its source and original file. GIFs are counted separately from Astra.
+
+| Coastal Drive · imageat | Istanbul Cafe · imageat |
+| --- | --- |
+| [<img src="https://cdn.imageat.com/marketing/gpt-image-2-6/coastal-drive.gif" height="200" alt="Coastal Drive · imageat GIF">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/imageat-coastal-drive-gif/) | [<img src="https://cdn.imageat.com/marketing/gpt-image-2-6/istanbul-cafe-photo-to-gif.gif" height="200" alt="Istanbul Cafe · imageat GIF">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/imageat-cafe-photo-gif/) |
 
 | Moonlit Paper Boat · varg.ai | Pip the Fox · varg.ai |
 | --- | --- |
 | [<img src="https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_1ddefdae1769.gif" height="200" alt="Moonlit Paper Boat · varg.ai GIF">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/varg-paper-boat-gif/) | [<img src="https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_4fbc831c7e61.gif" height="200" alt="Pip the Fox · varg.ai GIF">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/varg-pip-mascot-gif/) |
 
-| Lantern Monkey · OpenAI | Pixel Knight · imageat |
-| --- | --- |
-| [<img src="https://developers.openai.com/images/platform/guides/image-prompting/monkey-lantern-gpt-image-2-6-sunburst.gif" height="200" alt="Lantern Monkey · OpenAI GIF">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/openai-lantern-gif/) | [<img src="https://cdn.imageat.com/marketing/gpt-image-2-6/pixel-knight-walk.gif" height="200" alt="Pixel Knight · imageat GIF">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/imageat-pixel-knight-gif/) |
-
-Third-party works remain the creators’ property. GIF previews and details play automatically, with stop / play controls. Reduced-motion preferences start with still images.
+Third-party works remain the creators’ property. GIF previews and details play automatically, with Stop / Play controls. Reduced-motion preferences start on the still frame.
 
 ## Six featured works to start from
 
@@ -60,18 +60,18 @@ Select a title or image to open the creator's demo directly. Case pages retain s
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-11-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-11-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Website screenshots were refreshed on **November 12, 2026** from the current local production build. See the creator previews and latest additions below for this update. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+Website screenshots were refreshed on **November 13, 2026** from the current local production build. See the creator previews and latest additions below for this update. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
-<summary>Gallery, mobile and case screenshots · November 12, 2026</summary>
+<summary>Gallery, mobile and case screenshots · November 13, 2026</summary>
 
-[![GIF autoplay with collection-wide stop controls](docs/media/collection-2026-11-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=gif#collection)
+[![New Astra works with complete source recordings](docs/media/collection-2026-11-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-11-12.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-11-13.jpg)
 
-[![Moonlit paper boat GIF — individual work page](docs/media/case-2026-11-12.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/varg-paper-boat-gif/)
+[![Coastal drive GIF — individual work page](docs/media/case-2026-11-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/imageat-coastal-drive-gif/)
 
 </details>
 
@@ -79,37 +79,37 @@ Website screenshots were refreshed on **November 12, 2026** from the current loc
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The November 12 update adds **six Astra works with six complete recordings and two native GIFs**: an ice-fjord vessel, Alpine snowblower, lantern cart, hedgehog picnic, paper postal village and flywheel press. Original X posts date to November 10–12. The two varg.ai GIFs show a moonlit paper boat and Pip the fox; their author dates creation to November 4–5, while first publication remains unverified.
+The November 13 update adds **six Astra works, six complete recordings, one public demo and two native GIFs**: a snowy funicular, drop hammer, Moroccan courtyard, foggy castle, snow-diving fox and Hollybrook tennis court. The X posts date to November 12–13. The coastal-drive and cafe GIFs are newly collected today; their first-publication dates remain unverified.
 
 <!-- atlas:update-previews:start -->
 **New Astra works · Original creator previews**
 
-| Ice Fjord Vessel · EnvolDev | Alpine Snowblower · teddyaisi |
+| Snowy Funicular · teddyaisi | Drop Hammer · teddyaisi |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2120415352014413824/img/NHi-1Jzz0xtbTBP_.jpg" height="165" alt="Ice Fjord Vessel · EnvolDev">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/envol-ice-cathedral/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2120554114300194816/img/7uv1a-cPvF_fFA9Q.jpg" height="165" alt="Alpine Snowblower · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-alpine-snowblower/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2121063004808847360/img/u0F7_uh4OceGFZ1V.jpg" height="165" alt="Snowy Funicular · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-snow-funicular/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2120931569271754752/img/jR_eo7Y80MoFFTHt.jpg" height="165" alt="Drop Hammer · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-drop-hammer/) |
 
-| Lantern Cart · teddyaisi | Hedgehog Picnic · Havis |
+| Moroccan Courtyard · teddyaisi | Castle above the Fog · Havis |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2120482173019123712/img/YmtA9-2Mwn_ieMJN.jpg" height="165" alt="Lantern Cart · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-lantern-cart/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2120489522827804672/img/TPjZ8VYRHQRESSUe.jpg" height="165" alt="Hedgehog Picnic · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-hedgehog-picnic/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2120713889063256065/img/7w5okATfacXgRmmJ.jpg" height="165" alt="Moroccan Courtyard · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-moroccan-shutters/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/havis-fog-castle-result-frame.jpg" height="165" alt="Castle above the Fog · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-fog-castle/) |
 
-| Paper Postal Village · teddyaisi | Flywheel Printing Press · teddyaisi |
+| Fox Snow Dive · Havis | Hollybrook Open · vib3coded |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2120143434254340096/img/OJfgHzsE2zUIKNIR.jpg" height="165" alt="Paper Postal Village · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-postal-village/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2120005232306601984/img/qO_RWL0dPYo_JJJQ.jpg" height="165" alt="Flywheel Printing Press · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-flywheel-printing/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2120851901193330691/img/gcCUy8w1J14fMwf9.jpg" height="165" alt="Fox Snow Dive · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-fox-snow-dive/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2120831514338312192/img/gVzswH1zS0Nhyw4I.jpg" height="165" alt="Hollybrook Open · vib3coded">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3-hollybrook-tennis/) |
 
-[GIF animations](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=gif&order=newest#collection) · [Full videos](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Download originals](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-12)
+[GIF animations](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=gif&order=newest#collection) · [Full videos](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Download originals](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-13)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [Ice Fjord Vessel: Water, Cliffs and Aurora Comparison](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/envol-ice-cathedral/) | Tony / @EnvolDev | [Original](https://x.com/EnvolDev/status/2120584341524742481) |
-| [Alpine Snowblower: Clearing the Lodge Driveway](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-alpine-snowblower/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2120554236899737947) |
-| [Lantern Cart: Lighting a Street beneath the Drum Tower](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-lantern-cart/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2120482204799381869) |
-| [Hedgehog Picnic: A Tumble toward the Basket](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-hedgehog-picnic/) | Havis \| Claude Code / @HavisT83099 | [Original](https://x.com/HavisT83099/status/2120489591811576166) |
-| [Paper Postal Village: A Red Envelope on the Chute](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-postal-village/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2120143502109790337) |
-| [Flywheel Printing Press: Vermilion Rosette and Paper Feed](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-flywheel-printing/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2120005462330581412) |
-| [Moonlit Paper Boat: A Night-Sea GIF Loop](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/varg-paper-boat-gif/) | varg.ai / @vargai | [GIF](https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_1ddefdae1769.gif) · [Original](https://clawhub.ai/vargai/skills/gpt-image-gif) |
-| [Pip the Fox: From Character Still to Waving and Hopping](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/varg-pip-mascot-gif/) | varg.ai / @vargai | [GIF](https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_4fbc831c7e61.gif) · [Original](https://clawhub.ai/vargai/skills/gpt-image-gif) |
+| [Snowy Funicular: A Red Car Climbs the Mountain Track](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-snow-funicular/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2121063324364497321) |
+| [Drop Hammer: Hot Steel and Sparks in a Forge](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-drop-hammer/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2120931951142162944) |
+| [Moroccan Courtyard: Shutters and Moving Sunlight](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-moroccan-shutters/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2120714093191663759) |
+| [Castle above the Fog: Cliffside Towers and Autumn Color](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-fog-castle/) | Havis \| Claude Code / @HavisT83099 | [Original](https://x.com/HavisT83099/status/2121015591662129272) |
+| [Fox Snow Dive: Listening, Leaping and Landing](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-fox-snow-dive/) | Havis \| Claude Code / @HavisT83099 | [Original](https://x.com/HavisT83099/status/2120851970588061822) |
+| [Hollybrook Open: A Tennis Court with Match Controls](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3-hollybrook-tennis/) | Vib3Coded / @vib3coded | [Demo](https://hollybrook-tennis.vercel.app/) · [Original](https://x.com/vib3coded/status/2120831587294064781) |
+| [Coastal Drive: A Red Convertible at Sunset](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/imageat-coastal-drive-gif/) | imageat | [GIF](https://cdn.imageat.com/marketing/gpt-image-2-6/coastal-drive.gif) · [Original](https://imageat.com/gpt-image-2-6) |
+| [Istanbul Cafe: Steam and a Cat in a Photo-to-GIF Loop](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/imageat-cafe-photo-gif/) | imageat | [GIF](https://cdn.imageat.com/marketing/gpt-image-2-6/istanbul-cafe-photo-to-gif.gif) · [Original](https://imageat.com/gpt-image-2-6) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

@@ -13347,6 +13347,291 @@
       "newMediaFiles": 12,
       "newMediaBytes": 53859135,
       "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-12"
+    },
+    {
+      "observedAt": "2026-11-13",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "baselineCommit": "506173ab0be064d23632d671c547a9f306638509",
+      "baselineCount": 479,
+      "resultingCount": 487,
+      "addedCaseIds": [
+        "teddy-snow-funicular",
+        "teddy-drop-hammer",
+        "teddy-moroccan-shutters",
+        "havis-fog-castle",
+        "havis-fox-snow-dive",
+        "vib3-hollybrook-tennis",
+        "imageat-coastal-drive-gif",
+        "imageat-cafe-photo-gif"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "coverage": [
+        {
+          "id": "teddy-snow-funicular",
+          "sourceDate": "2026-11-13",
+          "sourceUrl": "https://x.com/teddyaisi/status/2121063324364497321",
+          "modelLabel": "GPT-6 Astra · Three.js（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "teddy-drop-hammer",
+          "sourceDate": "2026-11-13",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120931951142162944",
+          "modelLabel": "GPT-6 Astra · Three.js（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "teddy-moroccan-shutters",
+          "sourceDate": "2026-11-12",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120714093191663759",
+          "modelLabel": "GPT-6 Astra · WebGL（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "havis-fog-castle",
+          "sourceDate": "2026-11-13",
+          "sourceUrl": "https://x.com/HavisT83099/status/2121015591662129272",
+          "modelLabel": "GPT-6 Astra（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "havis-fox-snow-dive",
+          "sourceDate": "2026-11-12",
+          "sourceUrl": "https://x.com/HavisT83099/status/2120851970588061822",
+          "modelLabel": "GPT-6 Astra · 作者动作对照",
+          "group": "astra"
+        },
+        {
+          "id": "vib3-hollybrook-tennis",
+          "sourceDate": "2026-11-12",
+          "sourceUrl": "https://x.com/vib3coded/status/2120831587294064781",
+          "modelLabel": "GPT-6 Astra（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "imageat-coastal-drive-gif",
+          "sourceDate": null,
+          "sourceUrl": "https://imageat.com/gpt-image-2-6",
+          "modelLabel": "GPT-Image-2.6（作者声明，未注明子型号）",
+          "group": "gif"
+        },
+        {
+          "id": "imageat-cafe-photo-gif",
+          "sourceDate": null,
+          "sourceUrl": "https://imageat.com/gpt-image-2-6",
+          "modelLabel": "GPT-Image-2.6（作者声明，未注明子型号）",
+          "group": "gif"
+        }
+      ],
+      "queries": [
+        "\"GPT-6 Astra\" \"November\" \"2026\" 3d",
+        "\"GPT-6 Astra\" site:x.com 3d since:2026-11-10",
+        "\"GPT-Image-2.6\" GIF examples",
+        "\"GPT-6 Astra\" site:x.com (3d OR threejs OR blender) after:2026-11-10",
+        "\"GPT-Image-2.6\" gif examples -site:wikipedia.org -site:reddit.com",
+        "GitHub: \"gpt-6\" \"astra\" pushed:>=2026-11-10",
+        "\"Astra\" \"3D\" site:x.com after:2026-11-11",
+        "\"Astra\" \"Blender\" site:reddit.com after:2026-11-10",
+        "\"Astra\" 3D site:xiaohongshu.com after:2026-11-10",
+        "\"Astra\" 3D site:bilibili.com after:2026-11-10"
+      ],
+      "discoverySources": [
+        "https://aivs.tv/models/gpt-6-astra/",
+        "https://teapawt.net/vib3coded",
+        "https://teapawt.net/teddyaisi",
+        "https://teapawt.net/noclipepe",
+        "https://teapawt.net/Andr1ycp",
+        "https://teapawt.net/maker_jackie",
+        "https://teapawt.net/sgarlen01",
+        "https://teapawt.net/KostiKoNeuro",
+        "https://teapawt.net/az9713",
+        "https://teapawt.net/EnvolDev",
+        "https://teapawt.net/HavisT83099",
+        "https://teapawt.net/miso_bits",
+        "https://teapawt.net/Lummox_eth",
+        "https://teapawt.net/XtraAi",
+        "https://teapawt.net/evanjcha",
+        "https://teapawt.net/ruofeng",
+        "https://vanikya.ai/gpt-image-2-6",
+        "https://imageat.com/gpt-image-2-6",
+        "https://gifbake.com/gallery"
+      ],
+      "primarySourceChecks": [
+        {
+          "caseId": "teddy-snow-funicular",
+          "sourceUrl": "https://x.com/teddyaisi/status/2121063324364497321",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 111860,
+          "sha256": "39684a4d4cf5316f143c07164ce9c0e03f8647eb5b394d055f913d7423dfb19b",
+          "createdAtShanghai": "2026-11-13T10:11:18+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121063004808847360"
+        },
+        {
+          "caseId": "teddy-drop-hammer",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120931951142162944",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 98611,
+          "sha256": "1c2da79c5bf8893869c96fc054bc4c063aa804b79157ab28d8e9f3ece91b541c",
+          "createdAtShanghai": "2026-11-13T01:29:16+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120931569271754752"
+        },
+        {
+          "caseId": "teddy-moroccan-shutters",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120714093191663759",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 138655,
+          "sha256": "b03d808b163cc37661d5ee3d4ca7eddd17204666feb20a8d80697415ae06429e",
+          "createdAtShanghai": "2026-11-12T11:03:35+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120713889063256065"
+        },
+        {
+          "caseId": "havis-fox-snow-dive",
+          "sourceUrl": "https://x.com/HavisT83099/status/2120851970588061822",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 162214,
+          "sha256": "761132f33a64003392ab3a857768737d08c6f72ea42e6f55080727d873edfb92",
+          "createdAtShanghai": "2026-11-12T20:11:27+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120851901193330691"
+        },
+        {
+          "caseId": "vib3-hollybrook-tennis",
+          "sourceUrl": "https://x.com/vib3coded/status/2120831587294064781",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 144487,
+          "sha256": "377792614f0e06a87566a10cefab6784d1066109325f07e7ac8d31918c2d1984",
+          "createdAtShanghai": "2026-11-12T18:50:28+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120831514338312192"
+        },
+        {
+          "caseId": "havis-fog-castle",
+          "sourceUrl": "https://x.com/HavisT83099/status/2121015591662129272",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 126062,
+          "sha256": "c57b52409be24eb1ece905e4f1cb167af135c0a71e2e188a0d546ddb0ea2dc3f",
+          "createdAtShanghai": "2026-11-13T07:01:38+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121015520455487488"
+        },
+        {
+          "key": "imageat",
+          "url": "https://imageat.com/gpt-image-2-6",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 227553,
+          "sha256": "247c7e48388bceab2b7fb04eaac3f4390bf5f64067a734060a1f04cd026057ea",
+          "assets": [
+            "#gifs",
+            "/tools/ai-gif-generator",
+            "/tools/mp4-to-gif",
+            "https://cdn.imageat.com/marketing/gpt-image-2-6/avocado-omg-sticker.gif",
+            "https://cdn.imageat.com/marketing/gpt-image-2-6/cat-wave.gif",
+            "https://cdn.imageat.com/marketing/gpt-image-2-6/coastal-drive.gif",
+            "https://cdn.imageat.com/marketing/gpt-image-2-6/earbud-case-spin.gif",
+            "https://cdn.imageat.com/marketing/gpt-image-2-6/istanbul-cafe-photo-to-gif.gif",
+            "https://cdn.imageat.com/marketing/gpt-image-2-6/neon-hello-sign.gif",
+            "https://cdn.imageat.com/marketing/gpt-image-2-6/pixel-knight-walk.gif"
+          ],
+          "title": [
+            "GPT Image 2.6: OpenAI&#x27;s Image Model, Now With GIFs | imageat"
+          ]
+        },
+        {
+          "key": "tennis-demo",
+          "url": "https://hollybrook-tennis.vercel.app",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 153194,
+          "sha256": "6d54e39619e5611df1c48a7ecf84b9993dd1e6740db35331fad4f91c49298289",
+          "assets": [],
+          "title": [
+            "Hollybrook Open — The Final"
+          ]
+        },
+        {
+          "key": "tennis-reply",
+          "url": "https://x.com/vib3coded/status/2120831765694824717",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 121991,
+          "sha256": "6880386362fa60fd45a9b807f7cf6009840abe562bcffaccbda2511f4cdc2fe4",
+          "assets": [],
+          "title": []
+        }
+      ],
+      "excludedOrDeferred": [
+        {
+          "url": "https://vanikya.ai/gpt-image-2-6",
+          "reason": "Fetched source exposed poster WebP URLs for the GIF examples; no original animated GIF URL established, so deferred."
+        },
+        {
+          "url": "https://x.com/teddyaisi/status/2120891555490005185",
+          "reason": "Animated SVG comparison, outside this 3D and native GIF increment."
+        },
+        {
+          "url": "https://x.com/teddyaisi/status/2120858620795748859",
+          "reason": "Animated SVG comparison, not a GPT-Image-2.6 native GIF."
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1ANxb6XEaz/",
+          "reason": "Older repost claiming GPT-6.2 Astra; primary attribution for a new work not established."
+        }
+      ],
+      "platformLimits": [
+        "Web search could not read selected X originals (403); full HTTP GET separately verified original HTML author, exact timestamp and media ID against same-post metadata.",
+        "X timelines and aivs.tv were discovery leads, not standalone model proof.",
+        "GitHub search returned mainly unrelated projects; public Reddit, Bilibili and Xiaohongshu searches did not establish another fresh attributable work for this batch.",
+        "Castle source prose and video cost/time labels disagree; no independent benchmark conclusion recorded.",
+        "GIF first-publication dates remain null; November 13 is collection and verification date.",
+        "Author model and cost statements were not independently reproduced."
+      ],
+      "completeSourceClips": 6,
+      "newGifWorks": 2,
+      "newMediaFiles": 12,
+      "newMediaBytes": 34439766,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-13",
+      "previewCorrection": {
+        "caseId": "havis-fog-castle",
+        "rejectedPreview": "https://pbs.twimg.com/amplify_video_thumb/2121015520455487488/img/TkNytcFP7GD7lMi1.jpg",
+        "reason": "Original post thumbnail visibly labels the input as The reference; replaced with an actual result frame from the unchanged original recording.",
+        "replacement": {
+          "caseId": "havis-fog-castle",
+          "contentType": "image/jpeg",
+          "bytes": 268158,
+          "sha256": "59d465a9ac9c748207bde021d8ba4c4275ec9107c2e4b0d6e052743915294ac5",
+          "dimensions": [
+            1080,
+            1350
+          ],
+          "frameSeconds": 6.825,
+          "sourceUrl": "https://x.com/HavisT83099/status/2121015591662129272",
+          "sourceVideoSha256": "88a8dec44bdabc2a5d7a9505e94a7681e1a36de69ed3665c1e2bffa5cebc7dcc",
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/havis-fog-castle-result-frame.jpg",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/havis-fog-castle-result-frame.jpg",
+          "decoded": true,
+          "frames": 1,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        }
+      }
     }
   ]
 }

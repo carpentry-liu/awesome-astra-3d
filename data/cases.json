@@ -1,5 +1,435 @@
 [
   {
+    "id": "teddy-snow-funicular",
+    "group": "astra",
+    "category": "程序化场景",
+    "title": "雪山缆车：红色车厢沿高架轨道爬坡",
+    "titleEn": "Snowy Funicular: A Red Car Climbs the Mountain Track",
+    "modelLabel": "GPT-6 Astra · Three.js（作者声明）",
+    "summary": "红色车厢沿雪山间的高架轨道爬升，车窗、轨道支架与雾雪构成空间层次。双栏录像中 Astra 在右。",
+    "imageCaption": "作者原帖的完整双栏对照封面：GPT-6.1 Sol 在左，GPT-6 Astra 在右。",
+    "evidenceNote": "作者明确给两个模型相同的 Three.js 缆车任务，右栏模型标签与原帖一致。耗时和费用为作者记录，未独立核实。",
+    "promptAvailability": "author-description",
+    "promptSummary": "在雪山隘口中，让红色缆车沿轨道向上行驶。",
+    "outputType": [
+      "Three.js 程序场景",
+      "完整对照录像"
+    ],
+    "outcome": "保留 12 秒原片和两个模型的完整画面。未公开运行工程，不推断轨道受力或车辆动力学精度。",
+    "addedAt": "2026-11-13",
+    "observedAt": "2026-11-13",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/teddyaisi/status/2121063324364497321",
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2121063324364497321",
+    "sourceDate": "2026-11-13",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2121063004808847360/img/u0F7_uh4OceGFZ1V.jpg",
+    "imageKind": "author-comparison",
+    "promptUrl": "https://x.com/teddyaisi/status/2121063324364497321",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2121063324364497321"
+    ],
+    "sourceAccess": "原帖作者、精确时间戳和媒体标签已核对。封面及两种完整 MP4 已下载并完整解码，未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "雪山缆车：红色车厢沿高架轨道爬坡 · 完整原帖片段",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2121063004808847360/img/u0F7_uh4OceGFZ1V.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2121063324364497321",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-snow-funicular-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/teddy-snow-funicular-1-original.mp4",
+        "bytes": 1344775,
+        "sha256": "5e1d76120b22d7d94160ea946adfa86a3f3a86c71004c2ac095f8709424c84e6",
+        "durationSeconds": 12.0
+      }
+    ]
+  },
+  {
+    "id": "teddy-drop-hammer",
+    "group": "astra",
+    "category": "程序化场景",
+    "title": "锻锤落下：高温钢坯与火星的机械动画",
+    "titleEn": "Drop Hammer: Hot Steel and Sparks in a Forge",
+    "modelLabel": "GPT-6 Astra · Three.js（作者声明）",
+    "summary": "深色锻压机中，锤头落向橙红色钢坯，火星在工作台附近散开。Astra 右栏展示机械结构与热光。",
+    "imageCaption": "作者双栏机械场景对照封面，Astra 位于右栏，Sol 位于左栏。",
+    "evidenceNote": "原帖明确称两模型接到相同 Three.js 锻锤任务，录像右栏标注 GPT-6 Astra。未据此判断真实锻造工艺或材料性能。",
+    "promptAvailability": "author-description",
+    "promptSummary": "构建锻锤击打高温钢坯的 Three.js 动画。",
+    "outputType": [
+      "Three.js 机械动画",
+      "完整对照录像"
+    ],
+    "outcome": "12 秒完整录像可观察锤头、钢坯与火星。未公开可编辑装配、尺寸或源码。",
+    "addedAt": "2026-11-13",
+    "observedAt": "2026-11-13",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/teddyaisi/status/2120931951142162944",
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2120931951142162944",
+    "sourceDate": "2026-11-13",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2120931569271754752/img/jR_eo7Y80MoFFTHt.jpg",
+    "imageKind": "author-comparison",
+    "promptUrl": "https://x.com/teddyaisi/status/2120931951142162944",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2120931951142162944"
+    ],
+    "sourceAccess": "原帖作者、精确时间戳和媒体标签已核对。封面及两种完整 MP4 已下载并完整解码，未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "锻锤落下：高温钢坯与火星的机械动画 · 完整原帖片段",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2120931569271754752/img/jR_eo7Y80MoFFTHt.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2120931951142162944",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-drop-hammer-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/teddy-drop-hammer-1-original.mp4",
+        "bytes": 681893,
+        "sha256": "23ba9dedc0ce3a882f9111bcfcbe48add303cf94d6c4884ba9df559c587e33a6",
+        "durationSeconds": 12.0
+      }
+    ]
+  },
+  {
+    "id": "teddy-moroccan-shutters",
+    "group": "astra",
+    "category": "建筑与室内",
+    "title": "摩洛哥庭院：木百叶开合与蓝色瓷砖上的光影",
+    "titleEn": "Moroccan Courtyard: Shutters and Moving Sunlight",
+    "modelLabel": "GPT-6 Astra · WebGL（作者声明）",
+    "summary": "木质窗扇、马蹄拱和蓝白瓷砖组成庭院。双栏动画对照窗扇开合时室内的明暗变化，Astra 在右。",
+    "imageCaption": "原帖完整双栏封面；右栏为 Astra 的庭院，左栏为 Sol。",
+    "evidenceNote": "作者的任务简述明确包含三扇木窗、瓷砖地面和马蹄拱。保留两模型完整画面，不将任务要求当作全部实现证明。",
+    "promptAvailability": "author-description",
+    "promptSummary": "让庭院的三扇雕花木窗关闭后重新打开，改变蓝色瓷砖与马蹄拱上的日光条带。",
+    "outputType": [
+      "WebGL 建筑场景",
+      "完整对照录像"
+    ],
+    "outcome": "保留 20 秒原片；尚无公开工程或独立试玩入口，未验证建筑尺寸与光照物理精度。",
+    "addedAt": "2026-11-13",
+    "observedAt": "2026-11-13",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/teddyaisi/status/2120714093191663759",
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2120714093191663759",
+    "sourceDate": "2026-11-12",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2120713889063256065/img/7w5okATfacXgRmmJ.jpg",
+    "imageKind": "author-comparison",
+    "promptUrl": "https://x.com/teddyaisi/status/2120714093191663759",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2120714093191663759"
+    ],
+    "sourceAccess": "原帖作者、精确时间戳和媒体标签已核对。封面及两种完整 MP4 已下载并完整解码，未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "摩洛哥庭院：木百叶开合与蓝色瓷砖上的光影 · 完整原帖片段",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2120713889063256065/img/7w5okATfacXgRmmJ.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2120714093191663759",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-moroccan-shutters-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/teddy-moroccan-shutters-1-original.mp4",
+        "bytes": 1713854,
+        "sha256": "1d5bd92f28cb84e826c94966e8ebf8408258f4f76e1ca6716277d8d5ae55ed39",
+        "durationSeconds": 20.0
+      }
+    ]
+  },
+  {
+    "id": "havis-fog-castle",
+    "group": "astra",
+    "category": "建筑与室内",
+    "title": "雾中城堡：悬崖、塔楼与秋色的照片重建对照",
+    "titleEn": "Castle above the Fog: Cliffside Towers and Autumn Color",
+    "modelLabel": "GPT-6 Astra（作者声明）",
+    "summary": "悬崖上竖立着尖顶城堡，暖色天空与低处浓雾形成对照。Astra 在下半幅，呈现塔楼和层叠岩壁。",
+    "imageCaption": "本库截取作者完整原版录像第 6.825 秒的成果画面；下栏为 GPT-6 Astra，上栏为 Opus 5.5。原帖默认封面是输入参考图，未用于本条成果预览。",
+    "evidenceNote": "作者称使用同一照片与提示各生成一次。正文的费用和时间与录像标签不一致，未将两套数字作为核实结果或性能结论。",
+    "promptAvailability": "author-description",
+    "promptSummary": "以雾上城堡照片为参考，把场景做成可观察的动态作品。",
+    "outputType": [
+      "三维建筑对照录像",
+      "完整原始 MP4"
+    ],
+    "outcome": "保留约 13.65 秒完整原片。雾层和建筑细节按可见画面展示，未取得输入照片授权、工程或可操作演示。",
+    "addedAt": "2026-11-13",
+    "observedAt": "2026-11-13",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/HavisT83099/status/2121015591662129272",
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Havis | Claude Code / @HavisT83099",
+    "sourceUrl": "https://x.com/HavisT83099/status/2121015591662129272",
+    "sourceDate": "2026-11-13",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/havis-fog-castle-result-frame.jpg",
+    "imageKind": "video-frame",
+    "promptUrl": "https://x.com/HavisT83099/status/2121015591662129272",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/HavisT83099/status/2121015591662129272"
+    ],
+    "sourceAccess": "原帖作者、精确时间戳和媒体标签已核对。封面及两种完整 MP4 已下载并完整解码，未独立运行创作工程。 成果预览来自同一原版录像的实际截帧，原片未改动。",
+    "archivedVideos": [
+      {
+        "label": "雾中城堡：悬崖、塔楼与秋色的照片重建对照 · 完整原帖片段",
+        "posterUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/havis-fog-castle-result-frame.jpg",
+        "sourceUrl": "https://x.com/HavisT83099/status/2121015591662129272",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/havis-fog-castle-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/havis-fog-castle-1-original.mp4",
+        "bytes": 6242231,
+        "sha256": "88a8dec44bdabc2a5d7a9505e94a7681e1a36de69ed3665c1e2bffa5cebc7dcc",
+        "durationSeconds": 13.65
+      }
+    ]
+  },
+  {
+    "id": "havis-fox-snow-dive",
+    "group": "astra",
+    "category": "角色与动画",
+    "title": "狐狸扑雪：听声、起跳与扎进雪堆的动作对照",
+    "titleEn": "Fox Snow Dive: Listening, Leaping and Landing",
+    "modelLabel": "GPT-6 Astra · 作者动作对照",
+    "summary": "橙色狐狸在雪地针叶林中起跳，朝雪堆扑下。Astra 的下栏以简化角色和雪面轨迹展示动作。",
+    "imageCaption": "作者原帖上下对照图，下栏为 GPT-6 Astra，上栏为 Claude Opus 5.5。",
+    "evidenceNote": "原帖明确标注两个模型、同一输入与各一次生成；录像下栏标注 Astra。未公开角色网格、绑定或控制脚本。",
+    "promptAvailability": "author-description",
+    "promptSummary": "狐狸听到雪下声响后跳起，再头朝下扑入雪堆。",
+    "outputType": [
+      "三维角色动作录像",
+      "完整原始 MP4"
+    ],
+    "outcome": "保存约 12.05 秒完整片段；动作目标不等于真实动物运动学验证，作者费用估计未独立复核。",
+    "addedAt": "2026-11-13",
+    "observedAt": "2026-11-13",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/HavisT83099/status/2120851970588061822",
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Havis | Claude Code / @HavisT83099",
+    "sourceUrl": "https://x.com/HavisT83099/status/2120851970588061822",
+    "sourceDate": "2026-11-12",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2120851901193330691/img/gcCUy8w1J14fMwf9.jpg",
+    "imageKind": "author-comparison",
+    "promptUrl": "https://x.com/HavisT83099/status/2120851970588061822",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/HavisT83099/status/2120851970588061822"
+    ],
+    "sourceAccess": "原帖作者、精确时间戳和媒体标签已核对。封面及两种完整 MP4 已下载并完整解码，未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "狐狸扑雪：听声、起跳与扎进雪堆的动作对照 · 完整原帖片段",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2120851901193330691/img/gcCUy8w1J14fMwf9.jpg",
+        "sourceUrl": "https://x.com/HavisT83099/status/2120851970588061822",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/havis-fox-snow-dive-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/havis-fox-snow-dive-1-original.mp4",
+        "bytes": 3672214,
+        "sha256": "960b56995bc10d4252ebbf0a8177ebae406967406460693fa25cea4e209273c8",
+        "durationSeconds": 12.05
+      }
+    ]
+  },
+  {
+    "id": "vib3-hollybrook-tennis",
+    "group": "astra",
+    "category": "3D 游戏",
+    "title": "Hollybrook Open：球场、看台与比赛控制面板",
+    "titleEn": "Hollybrook Open: A Tennis Court with Match Controls",
+    "modelLabel": "GPT-6 Astra（作者声明）",
+    "summary": "蓝色球场、观众看台和侧边控制面板组成网球场景。作者同时公开 Astra 与 Sol 的演示地址；本条指向 Astra 版本。",
+    "imageCaption": "作者上下对照录像封面；Astra 在下方，Sol 在上方，两个版本的价格文字仅为作者说明。",
+    "evidenceNote": "原帖与后续回复分别提供模型声明和演示地址；Astra 对应 hollybrook-tennis.vercel.app，未混用 Sol 的 hollybrook-open-3d 入口。",
+    "promptAvailability": "not-found",
+    "promptSummary": "作者未公开完整输入；可查看原始对照与 Astra 公开演示。",
+    "outputType": [
+      "浏览器三维场景",
+      "公开演示入口",
+      "完整对照录像"
+    ],
+    "outcome": "保留约 18.03 秒完整录像；演示可达性与操作情况另行记录，未获得源码或独立复现生成流程。",
+    "addedAt": "2026-11-13",
+    "observedAt": "2026-11-13",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": "https://hollybrook-tennis.vercel.app/",
+    "videoUrl": "https://x.com/vib3coded/status/2120831587294064781",
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Vib3Coded / @vib3coded",
+    "sourceUrl": "https://x.com/vib3coded/status/2120831587294064781",
+    "sourceDate": "2026-11-12",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2120831514338312192/img/gVzswH1zS0Nhyw4I.jpg",
+    "imageKind": "author-comparison",
+    "promptUrl": null,
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/vib3coded/status/2120831587294064781",
+      "https://x.com/vib3coded/status/2120831765694824717"
+    ],
+    "sourceAccess": "原帖作者、精确时间戳和媒体标签已核对。封面及两种完整 MP4 已下载并完整解码，未独立运行创作工程。",
+    "archivedVideos": [
+      {
+        "label": "Hollybrook Open：球场、看台与比赛控制面板 · 完整原帖片段",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2120831514338312192/img/gVzswH1zS0Nhyw4I.jpg",
+        "sourceUrl": "https://x.com/vib3coded/status/2120831587294064781",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/vib3-hollybrook-tennis-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/vib3-hollybrook-tennis-1-original.mp4",
+        "bytes": 17402848,
+        "sha256": "ae6b1210b7511639af4ccbec6403971db72e704af8c54a5df963f19ae98cba68",
+        "durationSeconds": 18.03
+      }
+    ]
+  },
+  {
+    "id": "imageat-coastal-drive-gif",
+    "group": "gif",
+    "category": "场景动图",
+    "platform": "imageat",
+    "author": "imageat",
+    "sourceDate": null,
+    "title": "落日海岸公路：红色敞篷车的跟拍循环",
+    "titleEn": "Coastal Drive: A Red Convertible at Sunset",
+    "modelLabel": "GPT-Image-2.6（作者声明，未注明子型号）",
+    "evidenceLevel": "author",
+    "summary": "红色敞篷车驶过落日海岸，棕榈树与路面向后移动。原始 GIF 为十二帧，单轮 1.44 秒。",
+    "imageCaption": "imageat 原始 GIF 的首帧由本库提取，动画加载同一份原文件。",
+    "evidenceNote": "作者展示页明确将该文件列为 GPT Image 2.6 直接生成的 GIF。文件已逐帧解码，首次发布日期与子型号未核实。",
+    "promptAvailability": "author-description",
+    "promptSummary": "让复古红色敞篷车沿海岸公路行驶，以侧向跟拍保持夕阳与海面的背景。",
+    "outcome": "1024×576、十二帧全部解码且有变化。保留原始 GIF；这不是可编辑三维工程，也未独立复跑模型。",
+    "addedAt": "2026-11-13",
+    "observedAt": "2026-11-13",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "platforms": [
+      "imageat"
+    ],
+    "sourceUrl": "https://imageat.com/gpt-image-2-6",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/imageat-coastal-drive-gif-poster.jpg",
+    "imageKind": "gif-frame",
+    "outputType": [
+      "原生 GIF 动图",
+      "原始 GIF 文件"
+    ],
+    "promptUrl": "https://imageat.com/gpt-image-2-6",
+    "evidenceUrls": [
+      "https://cdn.imageat.com/marketing/gpt-image-2-6/coastal-drive.gif"
+    ],
+    "evidenceStatus": "作者声明为 GPT-Image-2.6 原生 GIF",
+    "sourceAccess": "原始文件完整 GET，全部帧已解码且内容不同。卡片自动加载原始动图，首帧仅用于停止与失败回退；模型生成过程未复跑。",
+    "animatedGif": {
+      "url": "https://cdn.imageat.com/marketing/gpt-image-2-6/coastal-drive.gif",
+      "frames": 12,
+      "durationMs": 1440,
+      "width": 1024,
+      "height": 576,
+      "bytes": 2508743,
+      "sha256": "73d922590b63e7e38c027866da1a55865980f1bf3deca792a8b54288d230908a",
+      "checkedAt": "2026-11-13"
+    }
+  },
+  {
+    "id": "imageat-cafe-photo-gif",
+    "group": "gif",
+    "category": "场景动图",
+    "platform": "imageat",
+    "author": "imageat",
+    "sourceDate": null,
+    "title": "伊斯坦布尔茶馆：把杯中蒸汽与猫咪做成微动场景",
+    "titleEn": "Istanbul Cafe: Steam and a Cat in a Photo-to-GIF Loop",
+    "modelLabel": "GPT-Image-2.6（作者声明，未注明子型号）",
+    "evidenceLevel": "author",
+    "summary": "茶馆桌上的玻璃茶杯升起蒸汽，猫伏在花纹坐垫上。原始八帧 GIF 保留街景构图，单轮 1.6 秒。",
+    "imageCaption": "同一份原始 GIF 的第零帧，由本库提取；未把作者输入静帧另算为作品。",
+    "evidenceNote": "作者页并列静帧和 Photo to GIF 成果，并明确归于 GPT Image 2.6。只收录原始动画，首次发布日期保持未知。",
+    "promptAvailability": "author-description",
+    "promptSummary": "围绕茶杯蒸汽和猫的细微动作，把固定茶馆场景转为循环动图。",
+    "outcome": "816×816、八帧全部解码且内容不同。人物与背景细节不代表真实拍摄记录，生成过程未独立复现。",
+    "addedAt": "2026-11-13",
+    "observedAt": "2026-11-13",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "platforms": [
+      "imageat"
+    ],
+    "sourceUrl": "https://imageat.com/gpt-image-2-6",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/imageat-cafe-photo-gif-poster.jpg",
+    "imageKind": "gif-frame",
+    "outputType": [
+      "原生 GIF 动图",
+      "原始 GIF 文件"
+    ],
+    "promptUrl": "https://imageat.com/gpt-image-2-6",
+    "evidenceUrls": [
+      "https://cdn.imageat.com/marketing/gpt-image-2-6/istanbul-cafe-photo-to-gif.gif"
+    ],
+    "evidenceStatus": "作者声明为 GPT-Image-2.6 原生 GIF",
+    "sourceAccess": "原始文件完整 GET，全部帧已解码且内容不同。卡片自动加载原始动图，首帧仅用于停止与失败回退；模型生成过程未复跑。",
+    "animatedGif": {
+      "url": "https://cdn.imageat.com/marketing/gpt-image-2-6/istanbul-cafe-photo-to-gif.gif",
+      "frames": 8,
+      "durationMs": 1600,
+      "width": 816,
+      "height": 816,
+      "bytes": 3130944,
+      "sha256": "bb37c9956007c45a7158f157f09680fed3aa1a11c6c92aea470fab41e4aab4a5",
+      "checkedAt": "2026-11-13"
+    }
+  },
+  {
     "id": "envol-ice-cathedral",
     "group": "astra",
     "category": "程序化场景",

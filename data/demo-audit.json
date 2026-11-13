@@ -1074,6 +1074,18 @@
         "logs": [],
         "limits": "Verified rendered scene and night toggle; did not rerun creator checks or all interactions."
       }
+    },
+    {
+      "id": "vib3-hollybrook-tennis",
+      "url": "https://hollybrook-tennis.vercel.app/",
+      "status": 200,
+      "title": "Hollybrook Open — The Final",
+      "observedAt": "2026-11-13",
+      "result": "reachable",
+      "bytes": 153194,
+      "sha256": "6d54e39619e5611df1c48a7ecf84b9993dd1e6740db35331fad4f91c49298289",
+      "contentType": "text/html",
+      "scope": "Full HTML GET; creator reply maps this exact domain to Astra. Browser interactions are recorded separately; reachability is not full gameplay verification."
     }
   ]
 }

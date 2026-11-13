@@ -27592,6 +27592,366 @@
           "allFramesDecoded": true
         }
       ]
+    },
+    {
+      "checkedAt": "2026-11-13",
+      "round": "daily",
+      "scope": "Six original X posts, author reply and demo, two GIFs from the imageat source page, and eight new previews.",
+      "addedCaseIds": [
+        "teddy-snow-funicular",
+        "teddy-drop-hammer",
+        "teddy-moroccan-shutters",
+        "havis-fog-castle",
+        "havis-fox-snow-dive",
+        "vib3-hollybrook-tennis",
+        "imageat-coastal-drive-gif",
+        "imageat-cafe-photo-gif"
+      ],
+      "removedCaseIds": [],
+      "sourceChecks": [
+        {
+          "caseId": "teddy-snow-funicular",
+          "sourceUrl": "https://x.com/teddyaisi/status/2121063324364497321",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 111860,
+          "sha256": "39684a4d4cf5316f143c07164ce9c0e03f8647eb5b394d055f913d7423dfb19b",
+          "createdAtShanghai": "2026-11-13T10:11:18+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121063004808847360"
+        },
+        {
+          "caseId": "teddy-drop-hammer",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120931951142162944",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 98611,
+          "sha256": "1c2da79c5bf8893869c96fc054bc4c063aa804b79157ab28d8e9f3ece91b541c",
+          "createdAtShanghai": "2026-11-13T01:29:16+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120931569271754752"
+        },
+        {
+          "caseId": "teddy-moroccan-shutters",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120714093191663759",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 138655,
+          "sha256": "b03d808b163cc37661d5ee3d4ca7eddd17204666feb20a8d80697415ae06429e",
+          "createdAtShanghai": "2026-11-12T11:03:35+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120713889063256065"
+        },
+        {
+          "caseId": "havis-fox-snow-dive",
+          "sourceUrl": "https://x.com/HavisT83099/status/2120851970588061822",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 162214,
+          "sha256": "761132f33a64003392ab3a857768737d08c6f72ea42e6f55080727d873edfb92",
+          "createdAtShanghai": "2026-11-12T20:11:27+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120851901193330691"
+        },
+        {
+          "caseId": "vib3-hollybrook-tennis",
+          "sourceUrl": "https://x.com/vib3coded/status/2120831587294064781",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 144487,
+          "sha256": "377792614f0e06a87566a10cefab6784d1066109325f07e7ac8d31918c2d1984",
+          "createdAtShanghai": "2026-11-12T18:50:28+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120831514338312192"
+        },
+        {
+          "caseId": "havis-fog-castle",
+          "sourceUrl": "https://x.com/HavisT83099/status/2121015591662129272",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 126062,
+          "sha256": "c57b52409be24eb1ece905e4f1cb167af135c0a71e2e188a0d546ddb0ea2dc3f",
+          "createdAtShanghai": "2026-11-13T07:01:38+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121015520455487488"
+        },
+        {
+          "key": "imageat",
+          "url": "https://imageat.com/gpt-image-2-6",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 227553,
+          "sha256": "247c7e48388bceab2b7fb04eaac3f4390bf5f64067a734060a1f04cd026057ea",
+          "assets": [
+            "#gifs",
+            "/tools/ai-gif-generator",
+            "/tools/mp4-to-gif",
+            "https://cdn.imageat.com/marketing/gpt-image-2-6/avocado-omg-sticker.gif",
+            "https://cdn.imageat.com/marketing/gpt-image-2-6/cat-wave.gif",
+            "https://cdn.imageat.com/marketing/gpt-image-2-6/coastal-drive.gif",
+            "https://cdn.imageat.com/marketing/gpt-image-2-6/earbud-case-spin.gif",
+            "https://cdn.imageat.com/marketing/gpt-image-2-6/istanbul-cafe-photo-to-gif.gif",
+            "https://cdn.imageat.com/marketing/gpt-image-2-6/neon-hello-sign.gif",
+            "https://cdn.imageat.com/marketing/gpt-image-2-6/pixel-knight-walk.gif"
+          ],
+          "title": [
+            "GPT Image 2.6: OpenAI&#x27;s Image Model, Now With GIFs | imageat"
+          ]
+        },
+        {
+          "key": "tennis-demo",
+          "url": "https://hollybrook-tennis.vercel.app",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 153194,
+          "sha256": "6d54e39619e5611df1c48a7ecf84b9993dd1e6740db35331fad4f91c49298289",
+          "assets": [],
+          "title": [
+            "Hollybrook Open — The Final"
+          ]
+        },
+        {
+          "key": "tennis-reply",
+          "url": "https://x.com/vib3coded/status/2120831765694824717",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 121991,
+          "sha256": "6880386362fa60fd45a9b807f7cf6009840abe562bcffaccbda2511f4cdc2fe4",
+          "assets": [],
+          "title": []
+        }
+      ],
+      "previewChecks": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2121063004808847360/img/u0F7_uh4OceGFZ1V.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 119338,
+          "bytes": 119338,
+          "sha256": "fcea21ab7254e083276d064730af3364d1a50a394cad00f2745845f876a17a35",
+          "fullGet": true,
+          "caseId": "teddy-snow-funicular",
+          "sourceUrl": "https://x.com/teddyaisi/status/2121063324364497321",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2120931569271754752/img/jR_eo7Y80MoFFTHt.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 114619,
+          "bytes": 114619,
+          "sha256": "9536b56b7cdf0c3e7d0865442f85a779a4e922fd94b9cdc6bf575b4bf25bc45b",
+          "fullGet": true,
+          "caseId": "teddy-drop-hammer",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120931951142162944",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2120713889063256065/img/7w5okATfacXgRmmJ.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 157408,
+          "bytes": 157408,
+          "sha256": "19730ebc11a9f9df840a0a7c7f98ad667472eb9eef326fa1fd8f7d0d6c57793b",
+          "fullGet": true,
+          "caseId": "teddy-moroccan-shutters",
+          "sourceUrl": "https://x.com/teddyaisi/status/2120714093191663759",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "havis-fog-castle",
+          "contentType": "image/jpeg",
+          "bytes": 268158,
+          "sha256": "59d465a9ac9c748207bde021d8ba4c4275ec9107c2e4b0d6e052743915294ac5",
+          "dimensions": [
+            1080,
+            1350
+          ],
+          "frameSeconds": 6.825,
+          "sourceUrl": "https://x.com/HavisT83099/status/2121015591662129272",
+          "sourceVideoSha256": "88a8dec44bdabc2a5d7a9505e94a7681e1a36de69ed3665c1e2bffa5cebc7dcc",
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/havis-fog-castle-result-frame.jpg",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/havis-fog-castle-result-frame.jpg",
+          "decoded": true,
+          "frames": 1,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2120851901193330691/img/gcCUy8w1J14fMwf9.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 98654,
+          "bytes": 98654,
+          "sha256": "a42625811960b7047733f4547f71503e2550c03791c5e8d183eb0109e3930951",
+          "fullGet": true,
+          "caseId": "havis-fox-snow-dive",
+          "sourceUrl": "https://x.com/HavisT83099/status/2120851970588061822",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            960,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2120831514338312192/img/gVzswH1zS0Nhyw4I.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 132644,
+          "bytes": 132644,
+          "sha256": "907ee58e17739ab6b98f99711a775ff2f99eba89a5f5a6e03037f3b149562c13",
+          "fullGet": true,
+          "caseId": "vib3-hollybrook-tennis",
+          "sourceUrl": "https://x.com/vib3coded/status/2120831587294064781",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            948,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "imageat-coastal-drive-gif",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/imageat-coastal-drive-gif-poster.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 151246,
+          "sha256": "76bc7a9a6d20b23f46060d630e296ab5ecfbc1a856dce3adb2bbd5ea31a8d798",
+          "dimensions": [
+            1024,
+            576
+          ],
+          "decoded": true,
+          "frames": 1,
+          "sourceUrl": "https://cdn.imageat.com/marketing/gpt-image-2-6/coastal-drive.gif",
+          "frameIndex": 0,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "imageat-cafe-photo-gif",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/imageat-cafe-photo-gif-poster.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 276528,
+          "sha256": "749ef7bbacbf9916d8f2603ec417b78670262782419e59773ee75b20099812ba",
+          "dimensions": [
+            816,
+            816
+          ],
+          "decoded": true,
+          "frames": 1,
+          "sourceUrl": "https://cdn.imageat.com/marketing/gpt-image-2-6/istanbul-cafe-photo-to-gif.gif",
+          "frameIndex": 0,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        }
+      ],
+      "animatedGifChecks": [
+        {
+          "url": "https://cdn.imageat.com/marketing/gpt-image-2-6/coastal-drive.gif",
+          "httpStatus": 200,
+          "contentType": "image/gif",
+          "contentLength": 2508743,
+          "bytes": 2508743,
+          "sha256": "73d922590b63e7e38c027866da1a55865980f1bf3deca792a8b54288d230908a",
+          "fullGet": true,
+          "caseId": "imageat-coastal-drive-gif",
+          "sourceUrl": "https://imageat.com/gpt-image-2-6",
+          "dimensions": [
+            1024,
+            576
+          ],
+          "frames": 12,
+          "durationMs": 1440,
+          "frameDurationsMs": [
+            120,
+            120,
+            120,
+            120,
+            120,
+            120,
+            120,
+            120,
+            120,
+            120,
+            120,
+            120
+          ],
+          "distinctFrames": 12,
+          "loop": 0,
+          "actualImageFormat": "GIF",
+          "decoded": true,
+          "allFramesDecoded": true
+        },
+        {
+          "url": "https://cdn.imageat.com/marketing/gpt-image-2-6/istanbul-cafe-photo-to-gif.gif",
+          "httpStatus": 200,
+          "contentType": "image/gif",
+          "contentLength": 3130944,
+          "bytes": 3130944,
+          "sha256": "bb37c9956007c45a7158f157f09680fed3aa1a11c6c92aea470fab41e4aab4a5",
+          "fullGet": true,
+          "caseId": "imageat-cafe-photo-gif",
+          "sourceUrl": "https://imageat.com/gpt-image-2-6",
+          "dimensions": [
+            816,
+            816
+          ],
+          "frames": 8,
+          "durationMs": 1600,
+          "frameDurationsMs": [
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200
+          ],
+          "distinctFrames": 8,
+          "loop": 0,
+          "actualImageFormat": "GIF",
+          "decoded": true,
+          "allFramesDecoded": true
+        }
+      ]
     }
   ]
 }
