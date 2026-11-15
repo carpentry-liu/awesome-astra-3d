@@ -77,7 +77,13 @@ npm start
 | 历史媒体 | `audit-old.py` 完整解码 20 张旧图，核对 5 段历史录像共 10 个 Pages 与 Release 端点的 MP4 头和总长度。结果为抽样检查。 |
 | 构建与实拍 | `npm.cmd run check` 的 32 项测试、数据和 TypeScript 校验通过，`npm.cmd run lint` 通过。普通构建与 GitHub Pages 构建各通过 1,028 个静态页面、22,076 条本地引用、496 份详情 JSON 和 1,029 个 sitemap 地址的核对。保留现有 chunk 体积及 Node 包装警告。中英文 README 和分享封面同步实拍。 |
 
-原始素材、浏览器截图和验证日志位于忽略目录 `work/2026-11-15/`。朝向、画面和模型标签按原作者材料记录，核验范围为已发布产物。
+原始素材、浏览器截图和验证日志位于忽略目录 `work/2026-11-15/`。模型归属以原作者材料为依据，核验范围为已发布产物。
+
+`verify-diff.py` 确认原 487 条案例、500 个录像版本和历史审计完整保留，四张新图与浏览器捕获字节一致。提交前 `git diff --check` 通过。
+
+经 [PR #12](https://github.com/carpentry-liu/awesome-astra-3d/pull/12) 合入 `3a17f02`，[GitHub Pages 工作流](https://github.com/carpentry-liu/awesome-astra-3d/actions/runs/43671001411) 核对全部 256 个播放文件并发布成功。`verify-production.py` 的 71 项检查通过，覆盖 496 条公开目录、9 件新增作品的双语详情与 JSON、9 张预览、全部 10 份原始 GIF、六组新录像、办公室预演 MP4 和 GLB、首页、sitemap、README 和实拍。新 Pages 视频完整 GET 的长度与 SHA-256 匹配，Release 原版的 MP4 头与总长度匹配。
+
+`verify-rendered.py` 核对 GitHub 中英文 README 各 9 个新增预览跳转，解码 9 张实际服务的图。线上浏览器确认 10 张 GIF 卡片自动加载原图，晶矿列车由 0 播到 10 秒结尾，媒体错误为空。已检目录与录像页控制台警告及错误为 0。
 
 ## 内容验证（2026-11-13）
 
