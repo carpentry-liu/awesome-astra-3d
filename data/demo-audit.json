@@ -1086,6 +1086,18 @@
       "sha256": "6d54e39619e5611df1c48a7ecf84b9993dd1e6740db35331fad4f91c49298289",
       "contentType": "text/html",
       "scope": "Full HTML GET; creator reply maps this exact domain to Astra. Browser interactions are recorded separately; reachability is not full gameplay verification."
+    },
+    {
+      "id": "vibeprevis-office-birthday",
+      "url": "https://vibeprevisbench.github.io/#gallery",
+      "status": 200,
+      "title": "VibePrevisBench",
+      "observedAt": "2026-11-15",
+      "result": "reachable",
+      "bytes": 144954,
+      "sha256": "bc8a8bdace1593e325697d89277b1b75695885845b100bc01d458aba08349483",
+      "contentType": "text/html",
+      "scope": "Opened the author gallery, found B250_236, opened its Astra result and selected Interactive 3D. Verified the linked Astra GLB and 45-second proxy by full GET."
     }
   ]
 }

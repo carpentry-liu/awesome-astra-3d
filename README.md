@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-11-13（Asia/Shanghai）**：**467 条 Astra 案例** · **121 条源码 / 工程** · **134 个演示入口** · **250 个完整视频**。另有 **8 件 GIF 动图** 与 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-11-15（Asia/Shanghai）**：**474 条 Astra 案例** · **122 条源码 / 工程** · **135 个演示入口** · **256 个完整视频**。另有 **10 件 GIF 动图** 与 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -22,17 +22,17 @@
 
 [GIF 动图分类](https://carpentry-liu.github.io/awesome-astra-3d/?group=gif&order=newest#collection) · [官方生成说明](https://developers.openai.com/api/docs/guides/image-generation#generate-animated-gif-output)
 
-现有八件原生 GIF。下方展示新增的落日海岸公路、茶馆微动，以及月夜纸船和 Pip 小狐狸；点击图片可查看来源与原始文件。动图与 Astra 分开统计。
+现有十件原生 GIF。本次加入 Lightlyn 的提灯橘猫和 Kasper Zack Games 的像素爆炸原始素材。点击下方动图可查看原始文件与制作说明。
 
-| 落日海岸公路 · imageat | 茶馆微动 · imageat |
+| 提灯橘猫 · Lightlyn | 像素爆炸原始素材 · Kasper Zack Games |
 | --- | --- |
-| [<img src="https://cdn.imageat.com/marketing/gpt-image-2-6/coastal-drive.gif" height="200" alt="落日海岸公路 · imageat GIF">](https://carpentry-liu.github.io/awesome-astra-3d/cases/imageat-coastal-drive-gif/) | [<img src="https://cdn.imageat.com/marketing/gpt-image-2-6/istanbul-cafe-photo-to-gif.gif" height="200" alt="茶馆微动 · imageat GIF">](https://carpentry-liu.github.io/awesome-astra-3d/cases/imageat-cafe-photo-gif/) |
+| [<img src="https://image.lightlyn.com/examples/gpt-image-2-6/gif-mascot.gif" height="200" alt="提灯橘猫 · Lightlyn">](https://carpentry-liu.github.io/awesome-astra-3d/cases/lightlyn-lantern-cat-gif/) | [<img src="https://raw.githubusercontent.com/kasperzackgames/chatgpt-pixel-effects/d25ce128ac5f2487e8187d0f1c6f4ac27dced599/example/explosion.gif" height="200" alt="像素爆炸原始素材 · Kasper Zack Games">](https://carpentry-liu.github.io/awesome-astra-3d/cases/kasper-pixel-explosion-gif/) |
 
-| 月夜纸船 · varg.ai | Pip 小狐狸 · varg.ai |
+| 落日海岸公路 · imageat | 月夜纸船 · varg.ai |
 | --- | --- |
-| [<img src="https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_1ddefdae1769.gif" height="200" alt="月夜纸船 · varg.ai GIF">](https://carpentry-liu.github.io/awesome-astra-3d/cases/varg-paper-boat-gif/) | [<img src="https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_4fbc831c7e61.gif" height="200" alt="Pip 小狐狸 · varg.ai GIF">](https://carpentry-liu.github.io/awesome-astra-3d/cases/varg-pip-mascot-gif/) |
+| [<img src="https://cdn.imageat.com/marketing/gpt-image-2-6/coastal-drive.gif" height="200" alt="落日海岸公路 · imageat">](https://carpentry-liu.github.io/awesome-astra-3d/cases/imageat-coastal-drive-gif/) | [<img src="https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_1ddefdae1769.gif" height="200" alt="月夜纸船 · varg.ai">](https://carpentry-liu.github.io/awesome-astra-3d/cases/varg-paper-boat-gif/) |
 
-动图版权归各原作者；GIF 分类预览与详情自动播放，支持停止 / 播放。系统开启减少动态效果时默认显示首帧。
+GIF 分类预览与详情自动播放，支持停止与播放。系统开启减少动态效果时默认显示首帧。作品权利归原作者。
 
 ## 六件精选，先选一个想继续做的作品
 
@@ -60,18 +60,18 @@
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-11-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-11-15.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-网站实拍更新于 **2026-11-13**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+网站实拍更新于 **2026-11-15**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
-<summary>查看案例区、手机与作品详情实拍 · 2026-11-13</summary>
+<summary>查看案例区、手机与作品详情实拍 · 2026-11-15</summary>
 
-[![今日新增 Astra 作品与完整录像](docs/media/collection-2026-11-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![今日新增 Astra 作品与完整录像](docs/media/collection-2026-11-15.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端：精选作品与材料导航](docs/media/mobile-2026-11-13.jpg)
+![手机端：精选作品与材料导航](docs/media/mobile-2026-11-15.jpg)
 
-[![落日海岸公路 GIF 的独立作品页](docs/media/case-2026-11-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/imageat-coastal-drive-gif/)
+[![提灯橘猫 GIF 的独立作品页](docs/media/case-2026-11-15.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/lightlyn-lantern-cat-gif/)
 
 </details>
 
@@ -79,37 +79,43 @@
 
 这里按本库收录日期排列；作品首次发布、模型配置与核查日期在各档案中分别记录。稳定精选不随日更替换。
 
-11 月 13 日新增 **6 件 Astra 作品、6 段完整录像、1 个演示入口与 2 件原生 GIF**：雪山缆车、锻锤、摩洛哥庭院、雾中城堡、狐狸扑雪与 Hollybrook 网球场。X 原帖发表于 11 月 12—13 日；落日海岸公路与茶馆微动 GIF 为今天新收录，首发时间未核实。
+11 月 15 日新增 **7 件 Astra 作品、6 段完整录像和 2 件原生 GIF**。X 作者展示了三维装机、晶矿列车、郁金香田风车、深海巨蚌、唱片机和白瓷壶倒茶。另可查看办公室生日惊喜的 45 秒 Blender 预演、交互 GLB 和作者评测框架。
 
 <!-- atlas:update-previews:start -->
-**新增 Astra 作品 · 第三方原作预览**
+**新增 Astra 作品**
 
-| 雪山缆车 · teddyaisi | 锻锤与钢坯 · teddyaisi |
+| 游戏电脑装机 · Havis | 晶矿列车 · Lummox |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2121063004808847360/img/u0F7_uh4OceGFZ1V.jpg" height="165" alt="雪山缆车 · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-snow-funicular/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2120931569271754752/img/jR_eo7Y80MoFFTHt.jpg" height="165" alt="锻锤与钢坯 · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-drop-hammer/) |
+| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/havis-gaming-pc-result.jpg" height="165" alt="游戏电脑装机 · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-gaming-pc/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2121686841367605248/img/obukcs2lvUJPEvQb.jpg" height="165" alt="晶矿列车 · Lummox">](https://carpentry-liu.github.io/awesome-astra-3d/cases/lummox-crystal-train/) |
 
-| 摩洛哥庭院 · teddyaisi | 雾中城堡 · Havis |
+| 郁金香田风车 · Havis | 深海巨蚌 · teddyaisi |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2120713889063256065/img/7w5okATfacXgRmmJ.jpg" height="165" alt="摩洛哥庭院 · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-moroccan-shutters/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/havis-fog-castle-result-frame.jpg" height="165" alt="雾中城堡 · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-fog-castle/) |
+| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/havis-tulip-windmill-result.jpg" height="165" alt="郁金香田风车 · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-tulip-windmill/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2121497590634266625/img/Oh0sSg9atC_IZK2T.jpg" height="165" alt="深海巨蚌 · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-giant-clam/) |
 
-| 狐狸扑雪 · Havis | Hollybrook 网球场 · vib3coded |
+| 唱针落下 · teddyaisi | 白瓷壶倒茶 · teddyaisi |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2120851901193330691/img/gcCUy8w1J14fMwf9.jpg" height="165" alt="狐狸扑雪 · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-fox-snow-dive/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2120831514338312192/img/gVzswH1zS0Nhyw4I.jpg" height="165" alt="Hollybrook 网球场 · vib3coded">](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3-hollybrook-tennis/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2121497199465189376/img/dgxcAvbTYYHQlO4g.jpg" height="165" alt="唱针落下 · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-record-tonearm/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2121306767087017984/img/9T6B2w2bXIGMlFkY.jpg" height="165" alt="白瓷壶倒茶 · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-teapot-pour/) |
 
-[GIF 动图分类](https://carpentry-liu.github.io/awesome-astra-3d/?group=gif&order=newest#collection) · [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video&order=newest#collection) · [下载原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-13)
+**Blender 预演 · 办公室生日惊喜**
+
+[<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/vibeprevis-office-birthday-result.jpg" height="200" alt="办公室生日预演 · VibePrevisBench">](https://carpentry-liu.github.io/awesome-astra-3d/cases/vibeprevis-office-birthday/)
+
+打开[作者画廊](https://vibeprevisbench.github.io/#gallery)，选择 **Birthday surprise through the office → GPT-6 Astra**，可在 45 秒预演与交互三维视图间切换。
+
+[完整录像](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video&order=newest#collection) · [下载原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-15)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
-| [雪山缆车：红色车厢沿高架轨道爬坡](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-snow-funicular/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2121063324364497321) |
-| [锻锤落下：高温钢坯与火星的机械动画](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-drop-hammer/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2120931951142162944) |
-| [摩洛哥庭院：木百叶开合与蓝色瓷砖上的光影](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-moroccan-shutters/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2120714093191663759) |
-| [雾中城堡：悬崖、塔楼与秋色的照片重建对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-fog-castle/) | Havis \| Claude Code / @HavisT83099 | [原始来源](https://x.com/HavisT83099/status/2121015591662129272) |
-| [狐狸扑雪：听声、起跳与扎进雪堆的动作对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-fox-snow-dive/) | Havis \| Claude Code / @HavisT83099 | [原始来源](https://x.com/HavisT83099/status/2120851970588061822) |
-| [Hollybrook Open：球场、看台与比赛控制面板](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3-hollybrook-tennis/) | Vib3Coded / @vib3coded | [演示](https://hollybrook-tennis.vercel.app/) · [原始来源](https://x.com/vib3coded/status/2120831587294064781) |
-| [落日海岸公路：红色敞篷车的跟拍循环](https://carpentry-liu.github.io/awesome-astra-3d/cases/imageat-coastal-drive-gif/) | imageat | [GIF](https://cdn.imageat.com/marketing/gpt-image-2-6/coastal-drive.gif) · [原始来源](https://imageat.com/gpt-image-2-6) |
-| [伊斯坦布尔茶馆：把杯中蒸汽与猫咪做成微动场景](https://carpentry-liu.github.io/awesome-astra-3d/cases/imageat-cafe-photo-gif/) | imageat | [GIF](https://cdn.imageat.com/marketing/gpt-image-2-6/istanbul-cafe-photo-to-gif.gif) · [原始来源](https://imageat.com/gpt-image-2-6) |
+| [游戏电脑装机：主板、显卡与 RGB 灯效的三维对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-gaming-pc/) | Havis \| Claude Code / @HavisT83099 | [原始来源](https://x.com/HavisT83099/status/2121747908588380589) |
+| [晶矿列车：矿石车驶出发光洞口](https://carpentry-liu.github.io/awesome-astra-3d/cases/lummox-crystal-train/) | Lummox / @Lummox_eth | [原始来源](https://x.com/Lummox_eth/status/2121686941464760464) |
+| [郁金香田的风车：用同一张照片重建夕阳场景](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-tulip-windmill/) | Havis \| Claude Code / @HavisT83099 | [原始来源](https://x.com/HavisT83099/status/2121596994145640579) |
+| [办公室生日惊喜：Blender 预演的 45 秒长镜头](https://carpentry-liu.github.io/awesome-astra-3d/cases/vibeprevis-office-birthday/) | VibePrevisBench 作者团队 | [演示](https://vibeprevisbench.github.io/#gallery) · [源码](https://github.com/vibeprevisbench/vibeprevisbench) · [原始来源](https://vibeprevisbench.github.io/#gallery) |
+| [深海巨蚌：贝壳打开，露出一颗珍珠](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-giant-clam/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2121533596854825094) |
+| [唱针落下：Three.js 唱片机特写](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-record-tonearm/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2121497480730927503) |
+| [白瓷壶倒茶：细水流落进杯中](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-teapot-pour/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2121382349690798262) |
+| [提灯橘猫：抬爪、眨眼与暖光循环](https://carpentry-liu.github.io/awesome-astra-3d/cases/lightlyn-lantern-cat-gif/) | Lightlyn Images | [GIF](https://image.lightlyn.com/examples/gpt-image-2-6/gif-mascot.gif) · [原始来源](https://image.lightlyn.com/gpt-image-2-6?lang=en) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)

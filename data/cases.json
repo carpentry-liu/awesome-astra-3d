@@ -1,5 +1,484 @@
 [
   {
+    "id": "havis-gaming-pc",
+    "group": "astra",
+    "category": "产品与角色",
+    "title": "游戏电脑装机：主板、显卡与 RGB 灯效的三维对照",
+    "titleEn": "Gaming PC Build: Motherboard, GPU and RGB in 3D",
+    "modelLabel": "GPT-6 Astra · Three.js（作者声明）",
+    "summary": "从主板特写到装好的整机，对照 CPU、显卡、机箱与风扇灯效如何入镜。Astra 在下栏，灯效在装配结束前就亮起，侧板也更雾化。",
+    "imageCaption": "本库从作者完整原版第 11 秒截取。上方为 Claude Opus 5.5，下方为 GPT-6 Astra，可见装配后的机箱与风扇灯环。",
+    "evidenceNote": "原帖声明相同任务各跑一次，录像标题卡明确为 Three.js。正文与画面部分时间或价格标签不一致，保留原样，只对比可见成果。",
+    "promptAvailability": "author-description",
+    "promptSummary": "用 Three.js 做出游戏电脑，让主要部件飞入并完成装配，最后点亮 RGB。",
+    "outputType": [
+      "Three.js 产品装配",
+      "完整对照录像"
+    ],
+    "outcome": "可完整观察装配顺序、镜头、材质和灯效。没有公开三维工程或可操作装机页面。",
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/HavisT83099/status/2121747908588380589",
+    "addedAt": "2026-11-15",
+    "observedAt": "2026-11-15",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Havis | Claude Code / @HavisT83099",
+    "sourceUrl": "https://x.com/HavisT83099/status/2121747908588380589",
+    "sourceDate": "2026-11-15",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/havis-gaming-pc-result.jpg",
+    "imageKind": "video-frame",
+    "promptUrl": "https://x.com/HavisT83099/status/2121747908588380589",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/HavisT83099/status/2121747908588380589"
+    ],
+    "sourceAccess": "原始帖子、作者、时间戳与媒体 ID 已核对。两种完整 MP4 均已下载并全长解码。",
+    "archivedVideos": [
+      {
+        "label": "电脑装机完整对照 · Astra 在下方",
+        "posterUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/havis-gaming-pc-result.jpg",
+        "sourceUrl": "https://x.com/HavisT83099/status/2121747908588380589",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/havis-gaming-pc-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/havis-gaming-pc-1-original.mp4",
+        "bytes": 6107869,
+        "sha256": "eb553a836cbeb1148f5fec313cc3933bf07814e21417d452d4b95f0e6404586c",
+        "durationSeconds": 14.47
+      }
+    ]
+  },
+  {
+    "id": "lummox-crystal-train",
+    "group": "astra",
+    "category": "程序化场景",
+    "title": "晶矿列车：矿石车驶出发光洞口",
+    "titleEn": "Crystal Mine Railway: A Train Leaves a Luminous Cavern",
+    "modelLabel": "GPT-6 Astra（作者声明）",
+    "summary": "黄色矿车拖着青色晶石越过山谷栈桥，四栏画面展示不同轨道、矿洞和灯光。GPT-6 Astra 位于右上。",
+    "imageCaption": "作者原帖的四栏成果封面。Astra 位于右上，另三栏分别标为 Fable 5.2、Blender MCP 与 Opus 5.5。",
+    "evidenceNote": "原帖列出四种同题流程，右上画面的 6.0 Astra 标签与正文的 GPT-6 Astra 对应。各流程使用的引擎、资产和成本未独立复核。",
+    "promptAvailability": "author-description",
+    "promptSummary": "制作一段装载发光晶矿的列车穿过山地轨道的动态场景。",
+    "outputType": [
+      "三维环境对照",
+      "完整四栏录像"
+    ],
+    "outcome": "保留 10 秒完整四栏录像，可比较轮对、轨道、车灯和环境。原帖没有随附 Astra 工程。",
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/Lummox_eth/status/2121686941464760464",
+    "addedAt": "2026-11-15",
+    "observedAt": "2026-11-15",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Lummox / @Lummox_eth",
+    "sourceUrl": "https://x.com/Lummox_eth/status/2121686941464760464",
+    "sourceDate": "2026-11-15",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2121686841367605248/img/obukcs2lvUJPEvQb.jpg",
+    "imageKind": "author-comparison",
+    "promptUrl": "https://x.com/Lummox_eth/status/2121686941464760464",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/Lummox_eth/status/2121686941464760464"
+    ],
+    "sourceAccess": "原始帖子、作者、时间戳与媒体 ID 已核对。两种完整 MP4 均已下载并全长解码。",
+    "archivedVideos": [
+      {
+        "label": "晶矿列车四栏原片 · Astra 在右上",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2121686841367605248/img/obukcs2lvUJPEvQb.jpg",
+        "sourceUrl": "https://x.com/Lummox_eth/status/2121686941464760464",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/lummox-crystal-train-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/lummox-crystal-train-1-original.mp4",
+        "bytes": 5279744,
+        "sha256": "cfc8016690a1a409654425fd431500b3cd47b394722fc5cea4de04dae7bd0691",
+        "durationSeconds": 10.0
+      }
+    ]
+  },
+  {
+    "id": "havis-tulip-windmill",
+    "group": "astra",
+    "category": "建筑与室内",
+    "title": "郁金香田的风车：用同一张照片重建夕阳场景",
+    "titleEn": "Tulip Field Windmill: Rebuilding a Sunset Photo",
+    "modelLabel": "GPT-6 Astra（作者声明）",
+    "summary": "郁金香、风车和桥在暖色天空下构成同题场景。Astra 下栏的观赏点是水面与桥的倒影，太阳位置和花朵外观与上栏有明显差异。",
+    "imageCaption": "本库从原版录像第 6.825 秒截取实际成果。GPT-6 Astra 在下栏，Claude Opus 5.5 在上栏。",
+    "evidenceNote": "作者称两次使用同一照片和任务。原贴的封面是参考照片，正文的成本与时间和视频标签也不一致，案例保留实际成果画面。",
+    "promptAvailability": "author-description",
+    "promptSummary": "根据一张郁金香田边风车的照片，制作含风车转动、夕阳和桥面倒影的场景。",
+    "outputType": [
+      "照片重建对照",
+      "完整对照录像"
+    ],
+    "outcome": "约 13.65 秒，展示相同参考任务下两套输出。未取得编辑工程、尺寸或原始参考素材的授权信息。",
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/HavisT83099/status/2121596994145640579",
+    "addedAt": "2026-11-15",
+    "observedAt": "2026-11-15",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Havis | Claude Code / @HavisT83099",
+    "sourceUrl": "https://x.com/HavisT83099/status/2121596994145640579",
+    "sourceDate": "2026-11-14",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/havis-tulip-windmill-result.jpg",
+    "imageKind": "video-frame",
+    "promptUrl": "https://x.com/HavisT83099/status/2121596994145640579",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/HavisT83099/status/2121596994145640579"
+    ],
+    "sourceAccess": "原始帖子、作者、时间戳与媒体 ID 已核对。两种完整 MP4 均已下载并全长解码。",
+    "archivedVideos": [
+      {
+        "label": "郁金香田完整成果对照 · Astra 在下方",
+        "posterUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/havis-tulip-windmill-result.jpg",
+        "sourceUrl": "https://x.com/HavisT83099/status/2121596994145640579",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/havis-tulip-windmill-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/havis-tulip-windmill-1-original.mp4",
+        "bytes": 9680423,
+        "sha256": "9f0cb9d99c48257f9208db6bab50379da82751b318163219aca8899c740900b6",
+        "durationSeconds": 13.65
+      }
+    ]
+  },
+  {
+    "id": "vibeprevis-office-birthday",
+    "group": "astra",
+    "category": "Blender 建模",
+    "title": "办公室生日惊喜：Blender 预演的 45 秒长镜头",
+    "titleEn": "Office Birthday Surprise: A 45-Second Blender Previs",
+    "modelLabel": "GPT-6 Astra (max) · Blender（研究团队标注）",
+    "summary": "镜头跟随拿气球的人穿过走廊、前台和会议室，低细节人物和空间用来复核走位与构图。作者提供 Astra 代理视频、可切换视角的三维场景和测试框架。",
+    "imageCaption": "VibePrevisBench 的 B250_236，GPT-6 Astra Blender 灰盒预演录像第 24 秒的成果帧，由本库截取。",
+    "evidenceNote": "作者的 B250_236 记录把 gpt-6-astra 的代理录像和 GLB 标为同一结果。场景数据标注为 45 秒单镜头。计入的是 Astra 搭建的灰盒和运镜。",
+    "promptAvailability": "full-prompt-on-source",
+    "promptSummary": "用 Blender 将参考视频重建为预演，按时间保留人物走位、动作、空间位置和相机运动。",
+    "outputType": [
+      "45 秒 Blender 灰盒预演",
+      "交互 GLB 场景",
+      "公开评测框架"
+    ],
+    "outcome": "在作者画廊打开 Birthday surprise through the office，选择 GPT-6 Astra，然后切到 Proxy video 或 Interactive 3D。公开的 GLB 是导出场景，GitHub 入口为评测框架。",
+    "author": "VibePrevisBench 作者团队",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub",
+      "作者网站",
+      "arXiv"
+    ],
+    "sourceUrl": "https://vibeprevisbench.github.io/#gallery",
+    "sourceDate": null,
+    "repositoryUrl": "https://github.com/vibeprevisbench/vibeprevisbench",
+    "demoUrl": "https://vibeprevisbench.github.io/#gallery",
+    "videoUrl": "https://vibeprevisbench.github.io/assets/cases/B250_236/gpt-6-astra/proxy.mp4",
+    "promptUrl": "https://vibeprevisbench.github.io/#gallery",
+    "evidenceUrls": [
+      "https://vibeprevisbench.github.io/assets/cases/B250_236/gpt-6-astra/proxy.mp4",
+      "https://vibeprevisbench.github.io/assets/cases/B250_236/gpt-6-astra/scene.glb",
+      "https://vibeprevisbench.github.io/data/cases.json",
+      "https://arxiv.org/abs/2611.15789"
+    ],
+    "addedAt": "2026-11-15",
+    "observedAt": "2026-11-15",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/vibeprevis-office-birthday-result.jpg",
+    "imageKind": "video-frame",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "核对作者画廊中 B250_236 的 Astra 结果。代理视频完整下载并解码至 45 秒，GLB 的网格、相机和动画结构已校验。"
+  },
+  {
+    "id": "teddy-giant-clam",
+    "group": "astra",
+    "category": "程序化场景",
+    "title": "深海巨蚌：贝壳打开，露出一颗珍珠",
+    "titleEn": "Deep-Sea Clam: A Shell Opens to Reveal a Pearl",
+    "modelLabel": "GPT-6 Astra · Three.js（作者声明）",
+    "summary": "在蓝色海底洞穴中，两枚贝壳先后张开，亮色珍珠与暗色岩壁形成对比。右侧 Astra 画面可看到扇形壳纹和开合幅度。",
+    "imageCaption": "作者原帖的双栏封面。左为 GPT-6.1 Sol，右为 GPT-6 Astra，贝壳打开过程可在完整录像查看。",
+    "evidenceNote": "作者明确用同一 Three.js 任务对照两模型，录像右栏标签为 GPT-6 Astra。",
+    "promptAvailability": "author-description",
+    "promptSummary": "让深海洞穴中的巨蚌张开并露出珍珠，然后合上一半。",
+    "outputType": [
+      "Three.js 水下场景",
+      "完整对照录像"
+    ],
+    "outcome": "完整 12 秒可对比贝壳层次、开合动作和珍珠照明。原帖未附工程。",
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/teddyaisi/status/2121533596854825094",
+    "addedAt": "2026-11-15",
+    "observedAt": "2026-11-15",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2121533596854825094",
+    "sourceDate": "2026-11-14",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2121497590634266625/img/Oh0sSg9atC_IZK2T.jpg",
+    "imageKind": "author-comparison",
+    "promptUrl": "https://x.com/teddyaisi/status/2121533596854825094",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2121533596854825094"
+    ],
+    "sourceAccess": "原始帖子、作者、时间戳与媒体 ID 已核对。两种完整 MP4 均已下载并全长解码。",
+    "archivedVideos": [
+      {
+        "label": "海底巨蚌完整对照 · Astra 在右侧",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2121497590634266625/img/Oh0sSg9atC_IZK2T.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2121533596854825094",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-giant-clam-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/teddy-giant-clam-1-original.mp4",
+        "bytes": 816271,
+        "sha256": "33339efdb5cc8a3454ebc6044e272be8e6d7ccecf900e2a610794c49b52bf04f",
+        "durationSeconds": 12.0
+      }
+    ]
+  },
+  {
+    "id": "teddy-record-tonearm",
+    "group": "astra",
+    "category": "拆解与剖面",
+    "title": "唱针落下：Three.js 唱片机特写",
+    "titleEn": "Needle Drop: A Three.js Turntable Close-up",
+    "modelLabel": "GPT-6 Astra · Three.js（作者声明）",
+    "summary": "暖光下，唱臂从唱盘边缘横移并落向旋转唱片。右栏 Astra 把唱针头、黑胶与木质底座放在同一近景中。",
+    "imageCaption": "作者原帖双栏成果封面，GPT-6 Astra 在右栏，GPT-6.1 Sol 在左栏。",
+    "evidenceNote": "原帖明确提出相同 Three.js 唱臂任务；完整录像保留双栏，针头入槽的角度和距离可目视对照。",
+    "promptAvailability": "author-description",
+    "promptSummary": "用特写展示铜色唱臂转向转动的黑胶唱片，再把唱针落到唱片槽附近。",
+    "outputType": [
+      "Three.js 机械近景",
+      "完整对照录像"
+    ],
+    "outcome": "12 秒动画表现部件运动和材质，没有公开工程，也没有验证唱臂几何或音频模拟。",
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/teddyaisi/status/2121497480730927503",
+    "addedAt": "2026-11-15",
+    "observedAt": "2026-11-15",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2121497480730927503",
+    "sourceDate": "2026-11-14",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2121497199465189376/img/dgxcAvbTYYHQlO4g.jpg",
+    "imageKind": "author-comparison",
+    "promptUrl": "https://x.com/teddyaisi/status/2121497480730927503",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2121497480730927503"
+    ],
+    "sourceAccess": "原始帖子、作者、时间戳与媒体 ID 已核对。两种完整 MP4 均已下载并全长解码。",
+    "archivedVideos": [
+      {
+        "label": "唱片机完整对照 · Astra 在右侧",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2121497199465189376/img/dgxcAvbTYYHQlO4g.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2121497480730927503",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-record-tonearm-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/teddy-record-tonearm-1-original.mp4",
+        "bytes": 755594,
+        "sha256": "9e94f8338703bf061acf1ddf04faa8211cdbb937ed36a46cc99594cce2fdc5d6",
+        "durationSeconds": 12.0
+      }
+    ]
+  },
+  {
+    "id": "teddy-teapot-pour",
+    "group": "astra",
+    "category": "程序化场景",
+    "title": "白瓷壶倒茶：细水流落进杯中",
+    "titleEn": "Porcelain Teapot: A Thin Stream Pours into a Cup",
+    "modelLabel": "GPT-6 Astra · Three.js（作者声明）",
+    "summary": "白瓷壶倾斜后，一束琥珀色水流落进茶杯。右窗 Astra 可以观察液面纹理和壶嘴、水流、杯缘的关系。",
+    "imageCaption": "作者原帖双栏成果封面。左栏为 GPT-6.1 Sol，右栏为 GPT-6 Astra。",
+    "evidenceNote": "原帖明确为相同 Three.js 倒茶简报，原始录像右栏标明 GPT-6 Astra。",
+    "promptAvailability": "author-description",
+    "promptSummary": "倾斜白色瓷壶，从壶嘴倒一股细茶流进杯中。",
+    "outputType": [
+      "Three.js 产品动画",
+      "完整对照录像"
+    ],
+    "outcome": "完整 12 秒保留壶体倾角、茶流和杯中反馈；未验证流体模拟方法。",
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": "https://x.com/teddyaisi/status/2121382349690798262",
+    "addedAt": "2026-11-15",
+    "observedAt": "2026-11-15",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2121382349690798262",
+    "sourceDate": "2026-11-14",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2121306767087017984/img/9T6B2w2bXIGMlFkY.jpg",
+    "imageKind": "author-comparison",
+    "promptUrl": "https://x.com/teddyaisi/status/2121382349690798262",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2121382349690798262"
+    ],
+    "sourceAccess": "原始帖子、作者、时间戳与媒体 ID 已核对。两种完整 MP4 均已下载并全长解码。",
+    "archivedVideos": [
+      {
+        "label": "倒茶完整对照 · Astra 在右侧",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2121306767087017984/img/9T6B2w2bXIGMlFkY.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2121382349690798262",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-teapot-pour-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/teddy-teapot-pour-1-original.mp4",
+        "bytes": 621973,
+        "sha256": "dac6dd74c0df4aa416f259024f360cb21542ad8348c45c2122559edf0b147654",
+        "durationSeconds": 12.0
+      }
+    ]
+  },
+  {
+    "id": "lightlyn-lantern-cat-gif",
+    "group": "gif",
+    "category": "角色动图",
+    "title": "提灯橘猫：抬爪、眨眼与暖光循环",
+    "titleEn": "Lantern Cat: A Wave, a Blink and a Warm Glow",
+    "modelLabel": "GPT-Image-2.6 Flare（作者声明）",
+    "summary": "薄荷色背景上，橘猫提着一盏暖灯，挥爪、闭眼，再回到初始姿势。九帧循环适合作为吉祥物动效参考。",
+    "imageCaption": "作者原始 GIF 的第一帧，停止播放时显示。挥爪、眨眼及提灯亮度变化可在原始动图查看。",
+    "evidenceNote": "Lightlyn Images 的原始示例明确标记 2.6 Flare，页面提供 mascot GIF 原文件下载。",
+    "promptAvailability": "full-prompt-on-source",
+    "promptSummary": "画一只提灯的橘猫，做出短促的招手与眨眼循环，保持浅色背景。",
+    "outputType": [
+      "原生 GIF 动图",
+      "原始 GIF 文件"
+    ],
+    "outcome": "960×960、9 帧，共 1.8 秒。生成过程按作者说明归属 Flare，未复跑。",
+    "author": "Lightlyn Images",
+    "platform": "作者网站",
+    "platforms": [
+      "作者网站"
+    ],
+    "sourceDate": null,
+    "repositoryUrl": null,
+    "demoUrl": null,
+    "videoUrl": null,
+    "addedAt": "2026-11-15",
+    "observedAt": "2026-11-15",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "promptUrl": "https://image.lightlyn.com/gpt-image-2-6?lang=en",
+    "sourceUrl": "https://image.lightlyn.com/gpt-image-2-6?lang=en",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/lightlyn-lantern-cat-gif-poster.jpg",
+    "imageKind": "gif-frame",
+    "evidenceLevel": "author",
+    "evidenceStatus": "作者声明为 GPT-Image-2.6 原生 GIF",
+    "evidenceUrls": [
+      "https://image.lightlyn.com/examples/gpt-image-2-6/gif-mascot.gif"
+    ],
+    "sourceAccess": "原始 GIF 完整获取并逐帧解码，确认至少两帧内容不同。首帧用于停止和加载失败时的回退。",
+    "animatedGif": {
+      "url": "https://image.lightlyn.com/examples/gpt-image-2-6/gif-mascot.gif",
+      "frames": 9,
+      "durationMs": 1800,
+      "width": 960,
+      "height": 960,
+      "bytes": 1802355,
+      "sha256": "a0ff5ff5bf98f6b097f302cbf569dc0ee5146a76b1bae3044db339a6fb36d15e",
+      "checkedAt": "2026-11-15"
+    }
+  },
+  {
+    "id": "kasper-pixel-explosion-gif",
+    "group": "gif",
+    "category": "像素动图",
+    "title": "像素爆炸素材：从原始 GIF 到 Godot 精灵表",
+    "titleEn": "Pixel Explosion: From Original GIF to Godot Sprites",
+    "modelLabel": "ChatGPT Images 2.6（作者声明）",
+    "summary": "亮粉色底上，火光扩成爆炸云后逐渐消散。这是作者公开的原始 16 帧素材，可沿仓库查看抠色、对齐与精灵表的制作过程。",
+    "imageCaption": "作者原始 GIF 第 1 帧，亮粉色是后续抠色使用的背景。爆炸主体在后续帧展开。",
+    "evidenceNote": "作者在 Reddit 说明效果与脚本的职责，并在公开仓库区分 ChatGPT 原始 explosion.gif 与后处理 preview.gif。本条采用始终可追溯的固定提交链接。",
+    "promptAvailability": "full-prompt-on-source",
+    "promptSummary": "生成一段像素风地面爆炸，保持爆点固定，使用纯色背景便于统一抠色。",
+    "outputType": [
+      "原生 GIF 动图",
+      "可下载精灵表",
+      "公开 Godot 示例"
+    ],
+    "outcome": "原始文件为 316×301、16 帧、1.28 秒。整理好的精灵表、场景与清理脚本由作者另行提供。",
+    "author": "Kasper Zack Games",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub",
+      "Reddit"
+    ],
+    "sourceDate": null,
+    "repositoryUrl": "https://github.com/kasperzackgames/chatgpt-pixel-effects",
+    "promptUrl": "https://github.com/kasperzackgames/chatgpt-pixel-effects/blob/d25ce128ac5f2487e8187d0f1c6f4ac27dced599/PROMPT.md",
+    "evidenceUrls": [
+      "https://www.reddit.com/r/aigamedev/comments/1xrpexe/how_i_turn_chatgpts_new_gifs_into_gameready_pixel/",
+      "https://raw.githubusercontent.com/kasperzackgames/chatgpt-pixel-effects/d25ce128ac5f2487e8187d0f1c6f4ac27dced599/example/explosion.gif"
+    ],
+    "demoUrl": null,
+    "videoUrl": null,
+    "addedAt": "2026-11-15",
+    "observedAt": "2026-11-15",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "sourceUrl": "https://github.com/kasperzackgames/chatgpt-pixel-effects",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/kasper-pixel-explosion-gif-poster.jpg",
+    "imageKind": "gif-frame",
+    "evidenceLevel": "author",
+    "evidenceStatus": "作者声明为 GPT-Image-2.6 原生 GIF",
+    "sourceAccess": "原始 GIF 完整获取并逐帧解码，确认至少两帧内容不同。首帧用于停止和加载失败时的回退。",
+    "animatedGif": {
+      "url": "https://raw.githubusercontent.com/kasperzackgames/chatgpt-pixel-effects/d25ce128ac5f2487e8187d0f1c6f4ac27dced599/example/explosion.gif",
+      "frames": 16,
+      "durationMs": 1280,
+      "width": 316,
+      "height": 301,
+      "bytes": 455284,
+      "sha256": "761364fbfd57b13163bc112f90489bdd5dec2511c673197eafb7ed954f5be18a",
+      "checkedAt": "2026-11-15"
+    }
+  },
+  {
     "id": "teddy-snow-funicular",
     "group": "astra",
     "category": "程序化场景",

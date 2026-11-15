@@ -13632,6 +13632,344 @@
           "releaseDigestMatched": true
         }
       }
+    },
+    {
+      "observedAt": "2026-11-15",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "baselineCommit": "ed53e13908f2874146f0f747b24b1baabd338029",
+      "baselineCount": 487,
+      "resultingCount": 496,
+      "addedCaseIds": [
+        "havis-gaming-pc",
+        "lummox-crystal-train",
+        "havis-tulip-windmill",
+        "vibeprevis-office-birthday",
+        "teddy-giant-clam",
+        "teddy-record-tonearm",
+        "teddy-teapot-pour",
+        "lightlyn-lantern-cat-gif",
+        "kasper-pixel-explosion-gif"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "coverage": [
+        {
+          "id": "havis-gaming-pc",
+          "sourceDate": "2026-11-15",
+          "sourceUrl": "https://x.com/HavisT83099/status/2121747908588380589",
+          "modelLabel": "GPT-6 Astra · Three.js（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "lummox-crystal-train",
+          "sourceDate": "2026-11-15",
+          "sourceUrl": "https://x.com/Lummox_eth/status/2121686941464760464",
+          "modelLabel": "GPT-6 Astra（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "havis-tulip-windmill",
+          "sourceDate": "2026-11-14",
+          "sourceUrl": "https://x.com/HavisT83099/status/2121596994145640579",
+          "modelLabel": "GPT-6 Astra（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "vibeprevis-office-birthday",
+          "sourceDate": null,
+          "sourceUrl": "https://vibeprevisbench.github.io/#gallery",
+          "modelLabel": "GPT-6 Astra (max) · Blender（研究团队标注）",
+          "group": "astra"
+        },
+        {
+          "id": "teddy-giant-clam",
+          "sourceDate": "2026-11-14",
+          "sourceUrl": "https://x.com/teddyaisi/status/2121533596854825094",
+          "modelLabel": "GPT-6 Astra · Three.js（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "teddy-record-tonearm",
+          "sourceDate": "2026-11-14",
+          "sourceUrl": "https://x.com/teddyaisi/status/2121497480730927503",
+          "modelLabel": "GPT-6 Astra · Three.js（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "teddy-teapot-pour",
+          "sourceDate": "2026-11-14",
+          "sourceUrl": "https://x.com/teddyaisi/status/2121382349690798262",
+          "modelLabel": "GPT-6 Astra · Three.js（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "lightlyn-lantern-cat-gif",
+          "sourceDate": null,
+          "sourceUrl": "https://image.lightlyn.com/gpt-image-2-6?lang=en",
+          "modelLabel": "GPT-Image-2.6 Flare（作者声明）",
+          "group": "gif"
+        },
+        {
+          "id": "kasper-pixel-explosion-gif",
+          "sourceDate": null,
+          "sourceUrl": "https://github.com/kasperzackgames/chatgpt-pixel-effects",
+          "modelLabel": "ChatGPT Images 2.6（作者声明）",
+          "group": "gif"
+        }
+      ],
+      "queries": [
+        "\"GPT-6 Astra\" Three.js Blender 3D after:2026-11-12 site:x.com",
+        "\"GPT-6 Astra\" 3D scene game after:2026-11-12 GitHub Reddit showcase",
+        "GPT-6 Astra 三维 3D 建模 11月14日 11月15日 小红书 Bilibili 2026",
+        "\"GPT-6 Astra\" \"Nov 14, 2026\" 3D demo animation Codex",
+        "\"VibePrevisBench\" Blender github results demos GPT-6 Astra",
+        "\"GPT-Image-2.6\" native animated GIF examples creator .gif November 2026",
+        "site:xiaohongshu.com/explore Astra 3D Codex 11月 GPT-6"
+      ],
+      "discoverySources": [
+        "https://aivs.tv/models/gpt-6-astra/",
+        "https://teapawt.net/vib3coded",
+        "https://teapawt.net/teddyaisi",
+        "https://teapawt.net/noclipepe",
+        "https://teapawt.net/Andr1ycp",
+        "https://teapawt.net/maker_jackie",
+        "https://teapawt.net/sgarlen01",
+        "https://teapawt.net/KostiKoNeuro",
+        "https://teapawt.net/az9713",
+        "https://teapawt.net/EnvolDev",
+        "https://teapawt.net/HavisT83099",
+        "https://teapawt.net/miso_bits",
+        "https://teapawt.net/Lummox_eth",
+        "https://teapawt.net/XtraAi",
+        "https://teapawt.net/evanjcha",
+        "https://teapawt.net/ruofeng",
+        "https://teapawt.net/YouArtStudio",
+        "https://teapawt.net/Olo_polo13",
+        "https://teapawt.net/N1njaCodex",
+        "https://teapawt.net/cfenghub",
+        "https://teapawt.net/One2xDatalab",
+        "https://teapawt.net/maxT3chno",
+        "https://teapawt.net/SimoneGiannini",
+        "https://teapawt.net/Dimillian",
+        "https://teapawt.net/MengTo",
+        "https://arxiv.org/abs/2611.15789",
+        "https://vibeprevisbench.github.io/#gallery",
+        "https://www.reddit.com/r/aigamedev/comments/1xrpexe/how_i_turn_chatgpts_new_gifs_into_gameready_pixel/",
+        "https://github.com/kasperzackgames/chatgpt-pixel-effects",
+        "https://sparkpix.ai/gpt-image-2-6",
+        "https://image.lightlyn.com/gpt-image-2-6?lang=en"
+      ],
+      "primarySourceChecks": [
+        {
+          "caseId": "havis-gaming-pc",
+          "sourceUrl": "https://x.com/HavisT83099/status/2121747908588380589",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 166195,
+          "sha256": "c747195dc4450e5343ffa3481eed9369e3f811da25b67df817c0b254fea27acb",
+          "createdAtShanghai": "2026-11-15T07:31:36+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121747820545785856",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "lummox-crystal-train",
+          "sourceUrl": "https://x.com/Lummox_eth/status/2121686941464760464",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 169410,
+          "sha256": "e963bc099b5d8745ce09a2d96ed2ad9c8893959929c355e0fce362572e9a6621",
+          "createdAtShanghai": "2026-11-15T03:29:20+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121686841367605248",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "havis-tulip-windmill",
+          "sourceUrl": "https://x.com/HavisT83099/status/2121596994145640579",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 165342,
+          "sha256": "9360fc5226c02e70518bb03cc1fb876de80891a4b20eaaef1b61b1ce77f96991",
+          "createdAtShanghai": "2026-11-14T21:31:55+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121596879800541184",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "teddy-giant-clam",
+          "sourceUrl": "https://x.com/teddyaisi/status/2121533596854825094",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 99306,
+          "sha256": "7e19033eec729df3255aba633f2c620ef22967b9ee628aea7f60291e9bf6e63c",
+          "createdAtShanghai": "2026-11-14T17:20:00+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121497590634266625",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "teddy-record-tonearm",
+          "sourceUrl": "https://x.com/teddyaisi/status/2121497480730927503",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 113560,
+          "sha256": "4c43f9bf83ad7c15d4ede11978a91f12774dae5832c3bbf44d5949ce0893e053",
+          "createdAtShanghai": "2026-11-14T14:56:29+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121497199465189376",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "teddy-teapot-pour",
+          "sourceUrl": "https://x.com/teddyaisi/status/2121382349690798262",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 98447,
+          "sha256": "c07cbc043fd9140a1016b9e46c64bc526de7fea1ecbe2a6d5305393fe80d997c",
+          "createdAtShanghai": "2026-11-14T07:19:00+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121306767087017984",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "key": "previs-gallery",
+          "url": "https://vibeprevisbench.github.io/",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 144954,
+          "sha256": "bc8a8bdace1593e325697d89277b1b75695885845b100bc01d458aba08349483",
+          "fullGet": true,
+          "title": "VibePrevisBench"
+        },
+        {
+          "key": "previs-data",
+          "url": "https://vibeprevisbench.github.io/data/cases.json",
+          "httpStatus": 200,
+          "contentType": "application/json",
+          "bytes": 348137,
+          "sha256": "6a8e5632505b9f45837aad75f0d302f86dcd1c2777ee78369f34fd729aa7b5f4",
+          "fullGet": true
+        },
+        {
+          "key": "previs-astra-proxy",
+          "url": "https://vibeprevisbench.github.io/assets/cases/B250_236/gpt-6-astra/proxy.mp4",
+          "httpStatus": 200,
+          "contentType": "video/mp4",
+          "bytes": 1540367,
+          "sha256": "dc5223de83559c250b8ca4fef46fd03ac56be04c634d31529afbf17f75c1b690",
+          "fullGet": true,
+          "durationSeconds": 45,
+          "decodeChecked": true,
+          "model": "GPT-6 Astra",
+          "case": "B250_236"
+        },
+        {
+          "key": "previs-astra-glb",
+          "url": "https://vibeprevisbench.github.io/assets/cases/B250_236/gpt-6-astra/scene.glb",
+          "httpStatus": 200,
+          "contentType": "model/gltf-binary",
+          "bytes": 5486176,
+          "sha256": "1d9d49559a7778f6a8fd8abf9aeb5bf73c970353222368f3e36f84fce924191c",
+          "fullGet": true,
+          "version": 2,
+          "declaredBytes": 5486176,
+          "structures": {
+            "scenes": 1,
+            "nodes": 4096,
+            "meshes": 330,
+            "cameras": 1,
+            "animations": 390
+          },
+          "model": "GPT-6 Astra",
+          "case": "B250_236"
+        },
+        {
+          "key": "previs-repository",
+          "url": "https://raw.githubusercontent.com/vibeprevisbench/vibeprevisbench/b0b5e01677317ab9de89835d5c12e0baa74f9b19/README.md",
+          "httpStatus": 200,
+          "contentType": "text/plain",
+          "bytes": 24111,
+          "sha256": "b156e7ca87f6d2a39d70365ba74ee165e04f157e4535112ec2d708b52ac99f5a",
+          "fullGet": true
+        },
+        {
+          "key": "previs-paper",
+          "url": "https://arxiv.org/abs/2611.15789",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 44641,
+          "sha256": "f48b0adf49638a9dbc965fe5eed4b63610e33af8b777f7fc4499a2872499d062",
+          "fullGet": true
+        },
+        {
+          "key": "pixel-effects-readme",
+          "url": "https://raw.githubusercontent.com/kasperzackgames/chatgpt-pixel-effects/d25ce128ac5f2487e8187d0f1c6f4ac27dced599/README.md",
+          "httpStatus": 200,
+          "bytes": 27339,
+          "sha256": "3192aa444cfa166acd9d040be285bd4164e6cf71413f7e274e7ff83c6ccb6854",
+          "fullGet": true
+        },
+        {
+          "key": "lightlyn",
+          "url": "https://image.lightlyn.com/gpt-image-2-6?lang=en",
+          "httpStatus": 200,
+          "bytes": 44364,
+          "sha256": "37cc8fede45efcf38be8d05acce3c787287f555543fe7a0010369e2f6fa53607",
+          "fullGet": true
+        }
+      ],
+      "excludedOrDeferred": [
+        {
+          "url": "https://x.com/EnvolDev/status/2121701704139956250",
+          "reason": "A follow-up four-way comparison from the same creator and subject as the existing Rio Redeemer work; kept out of the new-work count to avoid overlapping entries."
+        },
+        {
+          "url": "https://x.com/N1njaCodex/status/2121567646172790933",
+          "reason": "Prompt-only post did not establish attributable Astra output or a playable result."
+        },
+        {
+          "url": "https://x.com/vib3coded/status/2121757817883271496",
+          "reason": "Prompt-only post lacked media and distinct Astra attribution."
+        },
+        {
+          "url": "https://sparkpix.ai/gpt-image-2-6",
+          "reason": "Published gallery exposed animated WebP previews; no suitable original file was confirmed in the retrieved page."
+        },
+        {
+          "url": "https://www.reddit.com/r/ChatGPT/comments/1xu03hs/7_gif_prompts_i_tested_on_gpt_image_26_the_model/",
+          "reason": "The web view exposed gallery descriptions; direct requests for the original attachment metadata returned 403."
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1ANxb6XEaz/",
+          "reason": "November 1 greybox model claim, outside this increment."
+        }
+      ],
+      "platformLimits": [
+        "X web retrieval returned 403, while separate direct full GET matched exact post timestamps, authors, media IDs, and the selected source MP4 URLs.",
+        "Public mirrors provided discovery leads. No new attributable first-hand Xiaohongshu or Bilibili result was confirmed.",
+        "PC and tulip source thumbnail files are a task card and the input reference. The catalog uses the source result frames at 11 and 6.825 seconds.",
+        "Benchmark paper date and site repository dates do not establish the detailed case's first-publication date. GIF publication dates are also unverified.",
+        "Author timings and costs and external benchmark scores were not independently replicated."
+      ],
+      "completeSourceClips": 6,
+      "newGifWorks": 2,
+      "newMediaFiles": 12,
+      "newMediaBytes": 26440007,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-15"
     }
   ]
 }
