@@ -2,6 +2,20 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-11-15 · 9 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [游戏电脑装机：主板、显卡与 RGB 灯效的三维对照 / Gaming PC Build: Motherboard, GPU and RGB in 3D](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-gaming-pc/) | Havis \| Claude Code / @HavisT83099 | 完整视频 · 提示词 / 过程 |
+| [晶矿列车：矿石车驶出发光洞口 / Crystal Mine Railway: A Train Leaves a Luminous Cavern](https://carpentry-liu.github.io/awesome-astra-3d/cases/lummox-crystal-train/) | Lummox / @Lummox_eth | 完整视频 · 提示词 / 过程 |
+| [郁金香田的风车：用同一张照片重建夕阳场景 / Tulip Field Windmill: Rebuilding a Sunset Photo](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-tulip-windmill/) | Havis \| Claude Code / @HavisT83099 | 完整视频 · 提示词 / 过程 |
+| [办公室生日惊喜：Blender 预演的 45 秒长镜头 / Office Birthday Surprise: A 45-Second Blender Previs](https://carpentry-liu.github.io/awesome-astra-3d/cases/vibeprevis-office-birthday/) | VibePrevisBench 作者团队 | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [深海巨蚌：贝壳打开，露出一颗珍珠 / Deep-Sea Clam: A Shell Opens to Reveal a Pearl](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-giant-clam/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [唱针落下：Three.js 唱片机特写 / Needle Drop: A Three.js Turntable Close-up](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-record-tonearm/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [白瓷壶倒茶：细水流落进杯中 / Porcelain Teapot: A Thin Stream Pours into a Cup](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-teapot-pour/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [提灯橘猫：抬爪、眨眼与暖光循环 / Lantern Cat: A Wave, a Blink and a Warm Glow](https://carpentry-liu.github.io/awesome-astra-3d/cases/lightlyn-lantern-cat-gif/) | Lightlyn Images | GIF 动图（独立分组） · 提示词 / 过程 |
+| [像素爆炸素材：从原始 GIF 到 Godot 精灵表 / Pixel Explosion: From Original GIF to Godot Sprites](https://carpentry-liu.github.io/awesome-astra-3d/cases/kasper-pixel-explosion-gif/) | Kasper Zack Games | 源码 / 工程 · GIF 动图（独立分组） · 提示词 / 过程 |
+
 ## 2026-11-13 · 8 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

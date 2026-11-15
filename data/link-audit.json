@@ -27952,6 +27952,437 @@
           "allFramesDecoded": true
         }
       ]
+    },
+    {
+      "checkedAt": "2026-11-15",
+      "round": "daily",
+      "scope": "Six original X posts, one Blender benchmark result and two original GIFs.",
+      "addedCaseIds": [
+        "havis-gaming-pc",
+        "lummox-crystal-train",
+        "havis-tulip-windmill",
+        "vibeprevis-office-birthday",
+        "teddy-giant-clam",
+        "teddy-record-tonearm",
+        "teddy-teapot-pour",
+        "lightlyn-lantern-cat-gif",
+        "kasper-pixel-explosion-gif"
+      ],
+      "removedCaseIds": [],
+      "sourceChecks": [
+        {
+          "caseId": "havis-gaming-pc",
+          "sourceUrl": "https://x.com/HavisT83099/status/2121747908588380589",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 166195,
+          "sha256": "c747195dc4450e5343ffa3481eed9369e3f811da25b67df817c0b254fea27acb",
+          "createdAtShanghai": "2026-11-15T07:31:36+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121747820545785856",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "lummox-crystal-train",
+          "sourceUrl": "https://x.com/Lummox_eth/status/2121686941464760464",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 169410,
+          "sha256": "e963bc099b5d8745ce09a2d96ed2ad9c8893959929c355e0fce362572e9a6621",
+          "createdAtShanghai": "2026-11-15T03:29:20+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121686841367605248",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "havis-tulip-windmill",
+          "sourceUrl": "https://x.com/HavisT83099/status/2121596994145640579",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 165342,
+          "sha256": "9360fc5226c02e70518bb03cc1fb876de80891a4b20eaaef1b61b1ce77f96991",
+          "createdAtShanghai": "2026-11-14T21:31:55+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121596879800541184",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "teddy-giant-clam",
+          "sourceUrl": "https://x.com/teddyaisi/status/2121533596854825094",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 99306,
+          "sha256": "7e19033eec729df3255aba633f2c620ef22967b9ee628aea7f60291e9bf6e63c",
+          "createdAtShanghai": "2026-11-14T17:20:00+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121497590634266625",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "teddy-record-tonearm",
+          "sourceUrl": "https://x.com/teddyaisi/status/2121497480730927503",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 113560,
+          "sha256": "4c43f9bf83ad7c15d4ede11978a91f12774dae5832c3bbf44d5949ce0893e053",
+          "createdAtShanghai": "2026-11-14T14:56:29+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121497199465189376",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "teddy-teapot-pour",
+          "sourceUrl": "https://x.com/teddyaisi/status/2121382349690798262",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 98447,
+          "sha256": "c07cbc043fd9140a1016b9e46c64bc526de7fea1ecbe2a6d5305393fe80d997c",
+          "createdAtShanghai": "2026-11-14T07:19:00+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121306767087017984",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "key": "previs-gallery",
+          "url": "https://vibeprevisbench.github.io/",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 144954,
+          "sha256": "bc8a8bdace1593e325697d89277b1b75695885845b100bc01d458aba08349483",
+          "fullGet": true,
+          "title": "VibePrevisBench"
+        },
+        {
+          "key": "previs-data",
+          "url": "https://vibeprevisbench.github.io/data/cases.json",
+          "httpStatus": 200,
+          "contentType": "application/json",
+          "bytes": 348137,
+          "sha256": "6a8e5632505b9f45837aad75f0d302f86dcd1c2777ee78369f34fd729aa7b5f4",
+          "fullGet": true
+        },
+        {
+          "key": "previs-astra-proxy",
+          "url": "https://vibeprevisbench.github.io/assets/cases/B250_236/gpt-6-astra/proxy.mp4",
+          "httpStatus": 200,
+          "contentType": "video/mp4",
+          "bytes": 1540367,
+          "sha256": "dc5223de83559c250b8ca4fef46fd03ac56be04c634d31529afbf17f75c1b690",
+          "fullGet": true,
+          "durationSeconds": 45,
+          "decodeChecked": true,
+          "model": "GPT-6 Astra",
+          "case": "B250_236"
+        },
+        {
+          "key": "previs-astra-glb",
+          "url": "https://vibeprevisbench.github.io/assets/cases/B250_236/gpt-6-astra/scene.glb",
+          "httpStatus": 200,
+          "contentType": "model/gltf-binary",
+          "bytes": 5486176,
+          "sha256": "1d9d49559a7778f6a8fd8abf9aeb5bf73c970353222368f3e36f84fce924191c",
+          "fullGet": true,
+          "version": 2,
+          "declaredBytes": 5486176,
+          "structures": {
+            "scenes": 1,
+            "nodes": 4096,
+            "meshes": 330,
+            "cameras": 1,
+            "animations": 390
+          },
+          "model": "GPT-6 Astra",
+          "case": "B250_236"
+        },
+        {
+          "key": "previs-repository",
+          "url": "https://raw.githubusercontent.com/vibeprevisbench/vibeprevisbench/b0b5e01677317ab9de89835d5c12e0baa74f9b19/README.md",
+          "httpStatus": 200,
+          "contentType": "text/plain",
+          "bytes": 24111,
+          "sha256": "b156e7ca87f6d2a39d70365ba74ee165e04f157e4535112ec2d708b52ac99f5a",
+          "fullGet": true
+        },
+        {
+          "key": "previs-paper",
+          "url": "https://arxiv.org/abs/2611.15789",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 44641,
+          "sha256": "f48b0adf49638a9dbc965fe5eed4b63610e33af8b777f7fc4499a2872499d062",
+          "fullGet": true
+        },
+        {
+          "key": "pixel-effects-readme",
+          "url": "https://raw.githubusercontent.com/kasperzackgames/chatgpt-pixel-effects/d25ce128ac5f2487e8187d0f1c6f4ac27dced599/README.md",
+          "httpStatus": 200,
+          "bytes": 27339,
+          "sha256": "3192aa444cfa166acd9d040be285bd4164e6cf71413f7e274e7ff83c6ccb6854",
+          "fullGet": true
+        },
+        {
+          "key": "lightlyn",
+          "url": "https://image.lightlyn.com/gpt-image-2-6?lang=en",
+          "httpStatus": 200,
+          "bytes": 44364,
+          "sha256": "37cc8fede45efcf38be8d05acce3c787287f555543fe7a0010369e2f6fa53607",
+          "fullGet": true
+        }
+      ],
+      "previewChecks": [
+        {
+          "caseId": "havis-gaming-pc",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/havis-gaming-pc-result.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 90078,
+          "sha256": "b8f341ebdecdca642686c530b18686e48f2e87a9ffcf07812b3a292ff8bb8b46",
+          "dimensions": [
+            1080,
+            1350
+          ],
+          "decoded": true,
+          "frames": 1,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2121747820545785856/vid/avc1/1080x1350/S942FEfSwnLzCzhC.mp4?tag=29",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true,
+          "timestampSeconds": 11
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2121686841367605248/img/obukcs2lvUJPEvQb.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 373268,
+          "bytes": 373268,
+          "sha256": "75376ad06e49f45ab22886f93f47c64e964ea2cb638e539d7fc52b9a4f80ffb3",
+          "fullGet": true,
+          "caseId": "lummox-crystal-train",
+          "sourceUrl": "https://x.com/Lummox_eth/status/2121686941464760464",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1080,
+            1080
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "havis-tulip-windmill",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/havis-tulip-windmill-result.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 265943,
+          "sha256": "c396b753034a6d8f0e6be4e3aafa352cf70ed8887bf29569b266752467cb7a77",
+          "dimensions": [
+            1080,
+            1350
+          ],
+          "decoded": true,
+          "frames": 1,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2121596879800541184/vid/avc1/1080x1350/YbNIL0GkXe_NcY95.mp4?tag=29",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true,
+          "timestampSeconds": 6.825
+        },
+        {
+          "caseId": "vibeprevis-office-birthday",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/vibeprevis-office-birthday-result.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 23663,
+          "sha256": "f9d09ce10d0c5f6cccaf41e8aa9d639bf14d5cb61fa738f301e8513018e04213",
+          "dimensions": [
+            640,
+            360
+          ],
+          "decoded": true,
+          "frames": 1,
+          "sourceUrl": "https://vibeprevisbench.github.io/assets/cases/B250_236/gpt-6-astra/proxy.mp4",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true,
+          "timestampSeconds": 24
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2121497590634266625/img/Oh0sSg9atC_IZK2T.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 111825,
+          "bytes": 111825,
+          "sha256": "36e1c8525439ba1b9750daf53b0e9d32fa5437710821e1b0ffcac369c5624f46",
+          "fullGet": true,
+          "caseId": "teddy-giant-clam",
+          "sourceUrl": "https://x.com/teddyaisi/status/2121533596854825094",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2121497199465189376/img/dgxcAvbTYYHQlO4g.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 105811,
+          "bytes": 105811,
+          "sha256": "c5087889b07c2e329d12400a8867b58133de9cd04e323513ec8d25fc3bbb4f86",
+          "fullGet": true,
+          "caseId": "teddy-record-tonearm",
+          "sourceUrl": "https://x.com/teddyaisi/status/2121497480730927503",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2121306767087017984/img/9T6B2w2bXIGMlFkY.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 85647,
+          "bytes": 85647,
+          "sha256": "78006bba613982a51d9c1a83493f32a725770e48c93753355810c68a4d3bee95",
+          "fullGet": true,
+          "caseId": "teddy-teapot-pour",
+          "sourceUrl": "https://x.com/teddyaisi/status/2121382349690798262",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "lightlyn-lantern-cat-gif",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/lightlyn-lantern-cat-gif-poster.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 134894,
+          "sha256": "a89e93c1c99bb947c5b286275baf4797bfab5fafe79b324baf7a7badcf32d29b",
+          "dimensions": [
+            960,
+            960
+          ],
+          "decoded": true,
+          "frames": 1,
+          "sourceUrl": "https://image.lightlyn.com/examples/gpt-image-2-6/gif-mascot.gif",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true,
+          "frameIndex": 0
+        },
+        {
+          "caseId": "kasper-pixel-explosion-gif",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/kasper-pixel-explosion-gif-poster.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 5066,
+          "sha256": "77fec8f79646b83aeca8a656c2da4c67b89370f1e15678fa1a3a891613a22bf2",
+          "dimensions": [
+            316,
+            301
+          ],
+          "decoded": true,
+          "frames": 1,
+          "sourceUrl": "https://raw.githubusercontent.com/kasperzackgames/chatgpt-pixel-effects/d25ce128ac5f2487e8187d0f1c6f4ac27dced599/example/explosion.gif",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true,
+          "frameIndex": 0
+        }
+      ],
+      "animatedGifChecks": [
+        {
+          "url": "https://raw.githubusercontent.com/kasperzackgames/chatgpt-pixel-effects/d25ce128ac5f2487e8187d0f1c6f4ac27dced599/example/explosion.gif",
+          "httpStatus": 200,
+          "contentType": "image/gif",
+          "contentLength": 455284,
+          "bytes": 455284,
+          "sha256": "761364fbfd57b13163bc112f90489bdd5dec2511c673197eafb7ed954f5be18a",
+          "fullGet": true,
+          "caseId": "kasper-pixel-explosion-gif",
+          "sourceUrl": "https://github.com/kasperzackgames/chatgpt-pixel-effects",
+          "dimensions": [
+            316,
+            301
+          ],
+          "frames": 16,
+          "durationMs": 1280,
+          "frameDurationsMs": [
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80
+          ],
+          "distinctFrames": 16,
+          "loop": 0,
+          "actualImageFormat": "GIF",
+          "decoded": true,
+          "allFramesDecoded": true
+        },
+        {
+          "url": "https://image.lightlyn.com/examples/gpt-image-2-6/gif-mascot.gif",
+          "httpStatus": 200,
+          "contentType": "image/gif",
+          "contentLength": 1802355,
+          "bytes": 1802355,
+          "sha256": "a0ff5ff5bf98f6b097f302cbf569dc0ee5146a76b1bae3044db339a6fb36d15e",
+          "fullGet": true,
+          "caseId": "lightlyn-lantern-cat-gif",
+          "sourceUrl": "https://image.lightlyn.com/gpt-image-2-6?lang=en",
+          "dimensions": [
+            960,
+            960
+          ],
+          "frames": 9,
+          "durationMs": 1800,
+          "frameDurationsMs": [
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200
+          ],
+          "distinctFrames": 9,
+          "loop": 0,
+          "actualImageFormat": "GIF",
+          "decoded": true,
+          "allFramesDecoded": true
+        }
+      ]
     }
   ]
 }

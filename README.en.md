@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-11-13 (Asia/Shanghai)** · **467 Astra examples** · **121 source / project links** · **134 demo links** · **250 complete videos** · **8 GIF animations** · **12 separate references**.
+Updated **2026-11-15 (Asia/Shanghai)** · **474 Astra examples** · **122 source / project links** · **135 demo links** · **256 complete videos** · **10 GIF animations** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -22,17 +22,17 @@ Source / project totals count public material links; demo totals count creator-h
 
 [GIF collection](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=gif&order=newest#collection) · [Official generation guide](https://developers.openai.com/api/docs/guides/image-generation#generate-animated-gif-output)
 
-Eight original GIF works are now indexed. The new coastal-drive and cafe loops appear below alongside the paper boat and Pip. Open each image for its source and original file. GIFs are counted separately from Astra.
+The collection now has ten original GIFs. This update adds Lightlyn’s lantern cat and Kasper Zack Games’ raw explosion sprite. Open the previews for the original files and production notes.
 
-| Coastal Drive · imageat | Istanbul Cafe · imageat |
+| Lantern Cat · Lightlyn | Raw Pixel Explosion · Kasper Zack Games |
 | --- | --- |
-| [<img src="https://cdn.imageat.com/marketing/gpt-image-2-6/coastal-drive.gif" height="200" alt="Coastal Drive · imageat GIF">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/imageat-coastal-drive-gif/) | [<img src="https://cdn.imageat.com/marketing/gpt-image-2-6/istanbul-cafe-photo-to-gif.gif" height="200" alt="Istanbul Cafe · imageat GIF">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/imageat-cafe-photo-gif/) |
+| [<img src="https://image.lightlyn.com/examples/gpt-image-2-6/gif-mascot.gif" height="200" alt="Lantern Cat · Lightlyn">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lightlyn-lantern-cat-gif/) | [<img src="https://raw.githubusercontent.com/kasperzackgames/chatgpt-pixel-effects/d25ce128ac5f2487e8187d0f1c6f4ac27dced599/example/explosion.gif" height="200" alt="Raw Pixel Explosion · Kasper Zack Games">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kasper-pixel-explosion-gif/) |
 
-| Moonlit Paper Boat · varg.ai | Pip the Fox · varg.ai |
+| Coastal Drive · imageat | Moonlit Paper Boat · varg.ai |
 | --- | --- |
-| [<img src="https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_1ddefdae1769.gif" height="200" alt="Moonlit Paper Boat · varg.ai GIF">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/varg-paper-boat-gif/) | [<img src="https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_4fbc831c7e61.gif" height="200" alt="Pip the Fox · varg.ai GIF">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/varg-pip-mascot-gif/) |
+| [<img src="https://cdn.imageat.com/marketing/gpt-image-2-6/coastal-drive.gif" height="200" alt="Coastal Drive · imageat">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/imageat-coastal-drive-gif/) | [<img src="https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_1ddefdae1769.gif" height="200" alt="Moonlit Paper Boat · varg.ai">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/varg-paper-boat-gif/) |
 
-Third-party works remain the creators’ property. GIF previews and details play automatically, with Stop / Play controls. Reduced-motion preferences start on the still frame.
+GIF previews and case pages play automatically, with Stop / Play controls. Reduced-motion preferences start on the still frame. Works remain the creators’ property.
 
 ## Six featured works to start from
 
@@ -60,18 +60,18 @@ Select a title or image to open the creator's demo directly. Case pages retain s
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-11-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-11-15.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
 Website screenshots were refreshed on **November 13, 2026** from the current local production build. See the creator previews and latest additions below for this update. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
 
 <details>
 <summary>Gallery, mobile and case screenshots · November 13, 2026</summary>
 
-[![New Astra works with complete source recordings](docs/media/collection-2026-11-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![New Astra works with complete source recordings](docs/media/collection-2026-11-15.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-11-13.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-11-15.jpg)
 
-[![Coastal drive GIF — individual work page](docs/media/case-2026-11-13.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/imageat-coastal-drive-gif/)
+[![Lantern cat GIF case page](docs/media/case-2026-11-15.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lightlyn-lantern-cat-gif/)
 
 </details>
 
@@ -79,37 +79,43 @@ Website screenshots were refreshed on **November 13, 2026** from the current loc
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The November 13 update adds **six Astra works, six complete recordings, one public demo and two native GIFs**: a snowy funicular, drop hammer, Moroccan courtyard, foggy castle, snow-diving fox and Hollybrook tennis court. The X posts date to November 12–13. The coastal-drive and cafe GIFs are newly collected today; their first-publication dates remain unverified.
+The November 15 update adds **seven Astra works, six complete recordings and two original GIFs**. The X clips cover a gaming PC build, a crystal mine railway, a tulip field windmill, a giant clam, a turntable and a teapot. The office birthday case adds a 45-second Blender previs, an interactive GLB and the authors’ evaluation framework.
 
 <!-- atlas:update-previews:start -->
-**New Astra works · Original creator previews**
+**New Astra works**
 
-| Snowy Funicular · teddyaisi | Drop Hammer · teddyaisi |
+| Gaming PC Assembly · Havis | Crystal Mine Railway · Lummox |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2121063004808847360/img/u0F7_uh4OceGFZ1V.jpg" height="165" alt="Snowy Funicular · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-snow-funicular/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2120931569271754752/img/jR_eo7Y80MoFFTHt.jpg" height="165" alt="Drop Hammer · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-drop-hammer/) |
+| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/havis-gaming-pc-result.jpg" height="165" alt="Gaming PC Assembly · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-gaming-pc/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2121686841367605248/img/obukcs2lvUJPEvQb.jpg" height="165" alt="Crystal Mine Railway · Lummox">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lummox-crystal-train/) |
 
-| Moroccan Courtyard · teddyaisi | Castle above the Fog · Havis |
+| Tulip Field Windmill · Havis | Deep-Sea Clam · teddyaisi |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2120713889063256065/img/7w5okATfacXgRmmJ.jpg" height="165" alt="Moroccan Courtyard · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-moroccan-shutters/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/havis-fog-castle-result-frame.jpg" height="165" alt="Castle above the Fog · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-fog-castle/) |
+| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/havis-tulip-windmill-result.jpg" height="165" alt="Tulip Field Windmill · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-tulip-windmill/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2121497590634266625/img/Oh0sSg9atC_IZK2T.jpg" height="165" alt="Deep-Sea Clam · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-giant-clam/) |
 
-| Fox Snow Dive · Havis | Hollybrook Open · vib3coded |
+| Needle Drop · teddyaisi | Porcelain Teapot · teddyaisi |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2120851901193330691/img/gcCUy8w1J14fMwf9.jpg" height="165" alt="Fox Snow Dive · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-fox-snow-dive/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2120831514338312192/img/gVzswH1zS0Nhyw4I.jpg" height="165" alt="Hollybrook Open · vib3coded">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3-hollybrook-tennis/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2121497199465189376/img/dgxcAvbTYYHQlO4g.jpg" height="165" alt="Needle Drop · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-record-tonearm/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2121306767087017984/img/9T6B2w2bXIGMlFkY.jpg" height="165" alt="Porcelain Teapot · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-teapot-pour/) |
 
-[GIF animations](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=gif&order=newest#collection) · [Full videos](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Download originals](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-13)
+**Blender previs · Office Birthday Surprise**
+
+[<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/vibeprevis-office-birthday-result.jpg" height="200" alt="Office Birthday Previs · VibePrevisBench">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vibeprevis-office-birthday/)
+
+Open [the case gallery](https://vibeprevisbench.github.io/#gallery) and select **Birthday surprise through the office → GPT-6 Astra** to switch between the 45-second proxy and interactive 3D.
+
+[Full videos](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Download originals](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-15)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [Snowy Funicular: A Red Car Climbs the Mountain Track](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-snow-funicular/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2121063324364497321) |
-| [Drop Hammer: Hot Steel and Sparks in a Forge](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-drop-hammer/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2120931951142162944) |
-| [Moroccan Courtyard: Shutters and Moving Sunlight](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-moroccan-shutters/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2120714093191663759) |
-| [Castle above the Fog: Cliffside Towers and Autumn Color](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-fog-castle/) | Havis \| Claude Code / @HavisT83099 | [Original](https://x.com/HavisT83099/status/2121015591662129272) |
-| [Fox Snow Dive: Listening, Leaping and Landing](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-fox-snow-dive/) | Havis \| Claude Code / @HavisT83099 | [Original](https://x.com/HavisT83099/status/2120851970588061822) |
-| [Hollybrook Open: A Tennis Court with Match Controls](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3-hollybrook-tennis/) | Vib3Coded / @vib3coded | [Demo](https://hollybrook-tennis.vercel.app/) · [Original](https://x.com/vib3coded/status/2120831587294064781) |
-| [Coastal Drive: A Red Convertible at Sunset](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/imageat-coastal-drive-gif/) | imageat | [GIF](https://cdn.imageat.com/marketing/gpt-image-2-6/coastal-drive.gif) · [Original](https://imageat.com/gpt-image-2-6) |
-| [Istanbul Cafe: Steam and a Cat in a Photo-to-GIF Loop](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/imageat-cafe-photo-gif/) | imageat | [GIF](https://cdn.imageat.com/marketing/gpt-image-2-6/istanbul-cafe-photo-to-gif.gif) · [Original](https://imageat.com/gpt-image-2-6) |
+| [Gaming PC Build: Motherboard, GPU and RGB in 3D](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-gaming-pc/) | Havis \| Claude Code / @HavisT83099 | [Original](https://x.com/HavisT83099/status/2121747908588380589) |
+| [Crystal Mine Railway: A Train Leaves a Luminous Cavern](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lummox-crystal-train/) | Lummox / @Lummox_eth | [Original](https://x.com/Lummox_eth/status/2121686941464760464) |
+| [Tulip Field Windmill: Rebuilding a Sunset Photo](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-tulip-windmill/) | Havis \| Claude Code / @HavisT83099 | [Original](https://x.com/HavisT83099/status/2121596994145640579) |
+| [Office Birthday Surprise: A 45-Second Blender Previs](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vibeprevis-office-birthday/) | VibePrevisBench 作者团队 | [Demo](https://vibeprevisbench.github.io/#gallery) · [Source](https://github.com/vibeprevisbench/vibeprevisbench) · [Original](https://vibeprevisbench.github.io/#gallery) |
+| [Deep-Sea Clam: A Shell Opens to Reveal a Pearl](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-giant-clam/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2121533596854825094) |
+| [Needle Drop: A Three.js Turntable Close-up](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-record-tonearm/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2121497480730927503) |
+| [Porcelain Teapot: A Thin Stream Pours into a Cup](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-teapot-pour/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2121382349690798262) |
+| [Lantern Cat: A Wave, a Blink and a Warm Glow](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lightlyn-lantern-cat-gif/) | Lightlyn Images | [GIF](https://image.lightlyn.com/examples/gpt-image-2-6/gif-mascot.gif) · [Original](https://image.lightlyn.com/gpt-image-2-6?lang=en) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)
