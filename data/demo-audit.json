@@ -1098,6 +1098,26 @@
       "sha256": "bc8a8bdace1593e325697d89277b1b75695885845b100bc01d458aba08349483",
       "contentType": "text/html",
       "scope": "Opened the author gallery, found B250_236, opened its Astra result and selected Interactive 3D. Verified the linked Astra GLB and 45-second proxy by full GET."
+    },
+    {
+      "id": "frontier3d-typewriter",
+      "url": "https://lab.einsia.ai/frontier3dbench/#case-typewriter",
+      "status": 200,
+      "title": "Frontier3DBench: Benchmarking Coding Agents for 3D Creation across Objects, Scenes, and Interactive Open Worlds",
+      "observedAt": "2026-11-16",
+      "result": "reachable",
+      "bytes": 89553,
+      "sha256": "917f6f25a6cffdf73e0f4fcd5172420ee61ef6fe0386f3d35ff5208b827605e1",
+      "contentType": "text/html",
+      "scope": "Official Typewriter gallery rendered the GPT-6 Astra WebGL object and view controls; the matching GLB was downloaded and parsed."
+    },
+    {
+      "id": "gptblender-floor-plan-house",
+      "url": "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/#interactive-demo",
+      "status": 404,
+      "observedAt": "2026-11-16",
+      "result": "unlisted",
+      "scope": "Unlisted after the creator walkthrough, both previously verified renders and the former project repository returned HTTP 404. No replacement result or archived playback was verified. The original record is retained for restoration."
     }
   ]
 }

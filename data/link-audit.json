@@ -28383,6 +28383,448 @@
           "allFramesDecoded": true
         }
       ]
+    },
+    {
+      "checkedAt": "2026-11-16",
+      "round": "daily",
+      "scope": "Six public X originals, a Typewriter GLB, two original GIFs, and one retired creator page.",
+      "addedCaseIds": [
+        "havis-racing-drone",
+        "lummox-vintage-tram",
+        "rubens-mini-colosseum",
+        "frontier3d-typewriter",
+        "havis-v8-engine",
+        "teddy-clockwork-swan",
+        "andriy-plush-dragon",
+        "vinano-window-kitten-gif",
+        "predis-sale-lettering-gif"
+      ],
+      "removedCaseIds": [
+        "gptblender-floor-plan-house"
+      ],
+      "sourceChecks": [
+        {
+          "caseId": "havis-racing-drone",
+          "sourceUrl": "https://x.com/HavisT83099/status/2122110265499988342",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 125731,
+          "sha256": "4bd71aac6c4e81eb9cc487cabaca985551bd887bc256eeb5392759ee39bcea51",
+          "createdAtShanghai": "2026-11-16T07:31:28+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122110197816606720",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "lummox-vintage-tram",
+          "sourceUrl": "https://x.com/Lummox_eth/status/2121920575517962425",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 171153,
+          "sha256": "a649bda9d4ce119068cd92f9bc90da3c389f7d5a44b6d8e1695bd1c1dbbda548",
+          "createdAtShanghai": "2026-11-15T18:57:43+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121920476813332480",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "rubens-mini-colosseum",
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2121792804301209874",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 141062,
+          "sha256": "8def718cd159dbc952eb68432186c8339bcb03f39fa794cde6526b339263bb7a",
+          "createdAtShanghai": "2026-11-15T10:30:00+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121753309639815168",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "havis-v8-engine",
+          "sourceUrl": "https://x.com/HavisT83099/status/2121959358300819498",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 167479,
+          "sha256": "2c45e1c7c9748b5ce82e57d14338d6827f95cc4d6dea194218551bdce3974444",
+          "createdAtShanghai": "2026-11-15T21:31:49+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121959268656025600",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "teddy-clockwork-swan",
+          "sourceUrl": "https://x.com/teddyaisi/status/2121320945570984394",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 98494,
+          "sha256": "db3acd3fbd10601ae426d81d426f974a4b0133b86852b85564f93a2e51411aed",
+          "createdAtShanghai": "2026-11-14T03:15:00+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121305823423188992",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "andriy-plush-dragon",
+          "sourceUrl": "https://x.com/Andr1ycp/status/2120987887516909855",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 132664,
+          "sha256": "b5d734e428db7ad4ba32e626d335857b98b252f6bba9fb3b03e856cb9c1581e3",
+          "createdAtShanghai": "2026-11-13T05:11:33+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120987848576749568",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "key": "frontier-showcase",
+          "url": "https://lab.einsia.ai/frontier3dbench/",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 89553,
+          "sha256": "917f6f25a6cffdf73e0f4fcd5172420ee61ef6fe0386f3d35ff5208b827605e1",
+          "fullGet": true,
+          "title": "Frontier3DBench: Benchmarking Coding Agents for 3D Creation across Objects, Scenes, and Interactive Open Worlds",
+          "model": "GPT-6 Astra",
+          "showcase": "Typewriter"
+        },
+        {
+          "key": "frontier-typewriter-glb",
+          "url": "https://lab.einsia.ai/frontier3d/models/typewriter-astra.glb?v=02190fc2c95c",
+          "httpStatus": 200,
+          "contentType": "model/gltf-binary",
+          "bytes": 929256,
+          "sha256": "02190fc2c95cd726a53213a91e31e7dbb2a12c905157e8adad30b0ddb09debc5",
+          "fullGet": true,
+          "glbVersion": 2,
+          "declaredBytes": 929256,
+          "structures": {
+            "scenes": 1,
+            "nodes": 21,
+            "meshes": 21,
+            "materials": 13
+          },
+          "extensions": [
+            "KHR_draco_mesh_compression",
+            "KHR_mesh_quantization"
+          ]
+        },
+        {
+          "key": "frontier-repo",
+          "url": "https://raw.githubusercontent.com/Einsia/Frontier3D/main/README.md",
+          "httpStatus": 200,
+          "contentType": "text/plain",
+          "bytes": 3801,
+          "sha256": "91a1541f268eee4a49e7538136e1e6dbbd03327e4735ec26fa2488bffd4b51f0",
+          "fullGet": true
+        },
+        {
+          "key": "vinano",
+          "url": "https://vinano.ai/gif-generator",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 466656,
+          "sha256": "92fbaa810567ce9459c7c54109ca0cafe60da07713b03eb999ff57ac9758f03f",
+          "fullGet": true
+        },
+        {
+          "key": "predis",
+          "url": "https://predis.ai/ai-models/gpt-image-2-6/",
+          "httpStatus": 200,
+          "bytes": 93712,
+          "sha256": "8a3534e36da56045f1fc5fb71421a11db0d7dc1eeef5668f5d9de21d55005111",
+          "fullGet": true
+        },
+        {
+          "key": "colosseum-repost",
+          "url": "https://x.com/cfenghub/status/2121947019031801879",
+          "mediaId": "2121753309639815168",
+          "originalSource": "https://x.com/rubenssoto_ai/status/2121792804301209874",
+          "result": "same recording as Rubens Soto's original"
+        }
+      ],
+      "previewChecks": [
+        {
+          "caseId": "havis-racing-drone",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/havis-racing-drone-result.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 127034,
+          "sha256": "53aff0b96d9ba0ff2c38ba1d7284093a41e4c10c310fb0647f10dd6e8784b468",
+          "dimensions": [
+            1080,
+            1350
+          ],
+          "decoded": true,
+          "frames": 1,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122110197816606720/vid/avc1/1080x1350/rS-J5QiixdM2rtHK.mp4?tag=29",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true,
+          "timestampSeconds": 6.93
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2121920476813332480/img/vOyiBPqorVPC10WT.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 340102,
+          "bytes": 340102,
+          "sha256": "7b8468855ce73571f155ca0608d6c5d143f67a9c2b20f42bcae356901e799de4",
+          "fullGet": true,
+          "caseId": "lummox-vintage-tram",
+          "sourceUrl": "https://x.com/Lummox_eth/status/2121920575517962425",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2121753309639815168/img/RIttUzXqOA05U3d4.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 188374,
+          "bytes": 188374,
+          "sha256": "c64387cde923b23dc64c16f6c12c29c76e4c521af0f7caebfdb9d573fd226ad3",
+          "fullGet": true,
+          "caseId": "rubens-mini-colosseum",
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2121792804301209874",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1067,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "key": "frontier-typewriter-poster",
+          "url": "https://lab.einsia.ai/frontier3d/media/typewriter-astra.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 17145,
+          "sha256": "4aa4592e95bd21ada8351a9d116dde87b923e60d2dbb2ffd49b525e921b5780d",
+          "fullGet": true,
+          "dimensions": [
+            512,
+            320
+          ],
+          "decoded": true,
+          "frames": 1,
+          "caseId": "frontier3d-typewriter",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "havis-v8-engine",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/havis-v8-engine-result.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 236826,
+          "sha256": "a8a1c23015d2f62e5e1d33f2f81064b2dbda1956caf9becd5d157a328a1e9f7f",
+          "dimensions": [
+            1080,
+            1350
+          ],
+          "decoded": true,
+          "frames": 1,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2121959268656025600/vid/avc1/1080x1350/SSPXL30jaeCb0k0L.mp4?tag=29",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true,
+          "timestampSeconds": 11.7
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2121305823423188992/img/-8SaVTk41dbma-R7.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 121262,
+          "bytes": 121262,
+          "sha256": "8e46a39361d9fa9826b3de6ba5a6c8a5a60d48e8143b7e417c36ef696f6e2911",
+          "fullGet": true,
+          "caseId": "teddy-clockwork-swan",
+          "sourceUrl": "https://x.com/teddyaisi/status/2121320945570984394",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2120987848576749568/img/qBB1R2687q4WDQNn.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 77942,
+          "bytes": 77942,
+          "sha256": "5ce7487648faf128afbe6c42ed90ccbe1e9766536fd245990444647e7d177a57",
+          "fullGet": true,
+          "caseId": "andriy-plush-dragon",
+          "sourceUrl": "https://x.com/Andr1ycp/status/2120987887516909855",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            893,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "vinano-window-kitten-gif",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/vinano-window-kitten-gif-poster.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 48140,
+          "sha256": "b888ebf8b589ac832c1b8df1643559f17b3a2ddff8a8bb5f8c828587e631c3a8",
+          "dimensions": [
+            414,
+            411
+          ],
+          "decoded": true,
+          "frames": 1,
+          "sourceUrl": "https://img.vinano.ai/mode-img/gif_generator/gif_generator_case01.gif",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true,
+          "frameIndex": 0
+        },
+        {
+          "caseId": "predis-sale-lettering-gif",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/predis-sale-lettering-gif-poster.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 29936,
+          "sha256": "ba5058dae34e7ffe9e821163d91a0430dad1a55b85d57439972aa34dd7e6aec2",
+          "dimensions": [
+            1008,
+            672
+          ],
+          "decoded": true,
+          "frames": 1,
+          "sourceUrl": "https://predis.ai/assets/img/ai-models/gpt-image-2-6/sale.gif",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true,
+          "frameIndex": 0
+        }
+      ],
+      "animatedGifChecks": [
+        {
+          "url": "https://img.vinano.ai/mode-img/gif_generator/gif_generator_case01.gif",
+          "httpStatus": 200,
+          "contentType": "image/gif",
+          "contentLength": 655146,
+          "bytes": 655146,
+          "sha256": "bc2005f5a14b05d03bcba891d4f2be7042361cb5a9d412aee84b748a826ed5d5",
+          "fullGet": true,
+          "caseId": "vinano-window-kitten-gif",
+          "sourceUrl": "https://vinano.ai/gif-generator",
+          "dimensions": [
+            414,
+            411
+          ],
+          "frames": 9,
+          "durationMs": 1620,
+          "frameDurationsMs": [
+            180,
+            180,
+            180,
+            180,
+            180,
+            180,
+            180,
+            180,
+            180
+          ],
+          "distinctFrames": 9,
+          "loop": 0,
+          "actualImageFormat": "GIF",
+          "decoded": true,
+          "allFramesDecoded": true
+        },
+        {
+          "url": "https://predis.ai/assets/img/ai-models/gpt-image-2-6/sale.gif",
+          "httpStatus": 200,
+          "contentType": "image/gif",
+          "contentLength": 1011059,
+          "bytes": 1011059,
+          "sha256": "e16bc93f680ea5b9cd1dfca424554a46ae3cbc12b9bf10a679e20ffc558f274b",
+          "fullGet": true,
+          "caseId": "predis-sale-lettering-gif",
+          "sourceUrl": "https://predis.ai/ai-models/gpt-image-2-6/",
+          "dimensions": [
+            1008,
+            672
+          ],
+          "frames": 12,
+          "durationMs": 1800,
+          "frameDurationsMs": [
+            150,
+            150,
+            150,
+            150,
+            150,
+            150,
+            150,
+            150,
+            150,
+            150,
+            150,
+            150
+          ],
+          "distinctFrames": 12,
+          "loop": 0,
+          "actualImageFormat": "GIF",
+          "decoded": true,
+          "allFramesDecoded": true
+        }
+      ],
+      "unlisted": [
+        {
+          "caseId": "gptblender-floor-plan-house",
+          "action": "unlisted",
+          "reason": "Unlisted after the creator walkthrough, both previously verified renders and the former project repository returned HTTP 404. No replacement result or archived playback was verified. The original record is retained for restoration.",
+          "checks": [
+            {
+              "key": "floor-plan-source",
+              "url": "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/",
+              "error": "HTTP Error 404: Not Found"
+            },
+            {
+              "key": "floor-plan-asset",
+              "url": "https://gptblender.com/assets/floor-plan-guide/optimized/04-apartment-overview-soft-warm-1280.webp",
+              "alt": "last verified rendering",
+              "error": "HTTP Error 404: Not Found"
+            },
+            {
+              "key": "floor-plan-asset",
+              "url": "https://gptblender.com/assets/floor-plan-guide/optimized/01-living-dining-soft-warm-1280.webp",
+              "alt": "last verified rendering",
+              "error": "HTTP Error 404: Not Found"
+            },
+            {
+              "key": "retired-repository",
+              "url": "https://github.com/qduoduo-hwh/gptblender_demo",
+              "httpStatus": 404,
+              "method": "GitHub repository read"
+            }
+          ],
+          "archive": "docs/archive/unlisted-cases-2026-09-25.json"
+        }
+      ]
     }
   ]
 }

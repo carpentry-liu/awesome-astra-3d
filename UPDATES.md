@@ -2,6 +2,20 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-11-16 · 9 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [竞速无人机：机架与摄像头的三维装配演示 / Racing Drone: A 3D Frame and Camera Assembly](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-racing-drone/) | Havis \| Claude Code / @HavisT83099 | 完整视频 · 提示词 / 过程 |
+| [街角的复古电车：同一主题的四种三维实现 / Vintage Tram at the Corner: Four 3D Approaches](https://carpentry-liu.github.io/awesome-astra-3d/cases/lummox-vintage-tram/) | Lummox / @Lummox_eth | 完整视频 · 提示词 / 过程 |
+| [微缩罗马竞技场：从城墙拱廊到场内视角 / Miniature Colosseum: Exterior Arcades and Arena Views](https://carpentry-liu.github.io/awesome-astra-3d/cases/rubens-mini-colosseum/) | Rubens Soto \| AI & SaaS / @rubenssoto_ai | 完整视频 · 提示词 / 过程 |
+| [机械打字机：可旋转的 Blender 重建与 GLB / Mechanical Typewriter: An Interactive Blender Reconstruction](https://carpentry-liu.github.io/awesome-astra-3d/cases/frontier3d-typewriter/) | Frontier3DBench / Einsia | 源码 / 工程 · 演示入口 |
+| [V8 引擎装配：缸体、皮带与橙色排气管 / V8 Assembly: Block, Belt and Orange Headers](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-v8-engine/) | Havis \| Claude Code / @HavisT83099 | 完整视频 · 提示词 / 过程 |
+| [银色机械天鹅：展开金属翼再俯向水面 / Clockwork Swan: Silver Wings over a Reflective Basin](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-clockwork-swan/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [毛绒小龙：在程序化角色里切换材质与配色 / Plush Dragon: Material and Color Variants](https://carpentry-liu.github.io/awesome-astra-3d/cases/andriy-plush-dragon/) | AndrIy / @Andr1ycp | 完整视频 · 提示词 / 过程 |
+| [窗台小猫：轻甩尾巴与眨眼的九帧微动 / Windowsill Kitten: A Nine-Frame Blink and Tail Loop](https://carpentry-liu.github.io/awesome-astra-3d/cases/vinano-window-kitten-gif/) | ViNano AI | GIF 动图（独立分组） · 提示词 / 过程 |
+| [逐字出现的促销横幅：从空底色到闪光收尾 / Letter-by-Letter Sale Banner: Text Reveal with a Sparkle](https://carpentry-liu.github.io/awesome-astra-3d/cases/predis-sale-lettering-gif/) | Predis.ai | GIF 动图（独立分组） · 提示词 / 过程 |
+
 ## 2026-11-15 · 9 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
@@ -464,11 +478,10 @@
 | [F-22：Blender 到 Godot 飞行对照 / F-22 — Blender to Godot Flight Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/dgreses-f22-comparison/) | Demetrius Greses Jr / @dgresesjr | 完整视频 · 提示词 / 过程 |
 | [CRISPR：交互教学场景的模型对照 / CRISPR — Interactive Learning Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/roman-crispr-comparison/) | Alejandro / @AlejandroRomaan | 完整视频 · 提示词 / 过程 |
 
-## 2026-09-30 · 9 个案例
+## 2026-09-30 · 8 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
-| [GPTBlender：平面图到四卧室住宅 / GPTBlender — Floor Plan to Furnished Home](https://carpentry-liu.github.io/awesome-astra-3d/cases/gptblender-floor-plan-house/) | GPTBlender / qduoduo-hwh | 演示入口 · 提示词 / 过程 |
 | [Clairval：森林湖泊与法式村庄 / Clairval — Forest Lake Village](https://carpentry-liu.github.io/awesome-astra-3d/cases/givros-forest-village/) | Givros / @givros | 完整视频 · 提示词 / 过程 |
 | [Windfield：三维冒险与地形编辑器 / Windfield — Adventure and Terrain Editor](https://carpentry-liu.github.io/awesome-astra-3d/cases/fuguai-windfield-editor/) | ふぐあい(ふぐおん) / @fuguai1 | 提示词 / 过程 |
 | [Super Heavy：Blender 火箭捕获对照 / Super Heavy — Blender Catch Comparison](https://carpentry-liu.github.io/awesome-astra-3d/cases/vortlyn-booster-catch/) | Vortlyn / @Vortlyn | 完整视频 · 提示词 / 过程 |

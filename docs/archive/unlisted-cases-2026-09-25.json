@@ -2173,5 +2173,54 @@
       "outcome": "showcase",
       "addedAt": "2026-09-06"
     }
+  },
+  {
+    "removedAt": "2026-11-16",
+    "reason": "Unlisted after the creator walkthrough, both previously verified renders and the former project repository returned HTTP 404. No replacement result or archived playback was verified. The original record is retained for restoration.",
+    "case": {
+      "id": "gptblender-floor-plan-house",
+      "title": "GPTBlender：平面图到四卧室住宅",
+      "titleEn": "GPTBlender — Floor Plan to Furnished Home",
+      "group": "astra",
+      "category": "建筑与室内",
+      "platform": "作者博客",
+      "platforms": [
+        "作者博客",
+        "GitHub"
+      ],
+      "author": "GPTBlender / qduoduo-hwh",
+      "sourceUrl": "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/",
+      "sourceDate": null,
+      "secondaryPublishedAt": null,
+      "observedAt": "2026-10-16",
+      "addedAt": "2026-09-30",
+      "modelLabel": "GPT-6 Astra（Blender 场景）+ BlenderKit（部分家具）",
+      "evidenceLevel": "author",
+      "evidenceStatus": "已读取作者教程、仓库与模型溯源",
+      "evidenceNote": "作者明确声明 Astra 通过 Blender 脚本生成并组装场景；家具含第三方 BlenderKit 资产，未独立复现建模过程。",
+      "sourceAccess": "已读取教程与仓库；实际加载模型并切换俯视，下载轻量 GLB 并核对 provenance SHA-256。原始创作日期未知，9 月 7 日为仓库注明的渲染更新日期。 2026-10-16 原 GitHub preview.webp 完整 GET 返回404，替换为原作者教程直接公布的同作 overview 成果图；另核对客餐厅渲染，均完整 GET、MIME/长度/SHA-256/解码和实际查看通过。本轮未重做旧模型加载或生成实验。 原 GitHub 工程入口本轮完整 GET 返回404，已撤掉当前源码与其失效证据跳转；历史 GLB 与交互观察保留原核查日期，不代表当前可用。",
+      "summary": "从平面图搭建四卧室住宅，教程对照白模、材质版及 BlenderKit 家具版，并展示分阶段成果。当前可查看作者全屋与客餐厅渲染；旧仓库已返回404，本轮未复查历史 GLB 下载或交互功能。",
+      "outputType": [
+        "Blender 房屋场景",
+        "作者分阶段建模教程",
+        "实际 Cycles 成果渲染"
+      ],
+      "promptAvailability": "作者教程公开任务提示词",
+      "promptExcerpt": null,
+      "promptSummary": "将平面图转为暖色现代住宅，使用 Blender CLI、BlenderKit 家具与 Cycles 渲染，并逐步核对布局。",
+      "promptUrl": "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/",
+      "imageUrl": "https://gptblender.com/assets/floor-plan-guide/optimized/04-apartment-overview-soft-warm-1280.webp",
+      "imageKind": "author-render",
+      "imageCaption": "作者教程中同一四卧室住宅的实际 Cycles 全屋俯视渲染；部分家具来自 BlenderKit。",
+      "demoUrl": "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/#interactive-demo",
+      "videoUrl": null,
+      "repositoryUrl": null,
+      "evidenceUrls": [
+        "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/",
+        "https://gptblender.com/assets/floor-plan-guide/optimized/01-living-dining-soft-warm-1280.webp"
+      ],
+      "licenseNotes": "原工程历史标注 MIT；家具含 BlenderKit 第三方资产，仍受各自许可约束。旧仓库当前404，资产许可文件本轮未重新获取；不据此主张模型商业授权。图片等媒体不适用本库 MIT。",
+      "outcome": "本轮作者教程与两张同作品实际成果渲染完整获取、解码并查看。原 GitHub 仓库返回404，已撤掉失效源码入口；既有 GLB 文件和模型查看器核查属于历史观察，本轮未重新下载、操作或独立重做建模。"
+    }
   }
 ]
