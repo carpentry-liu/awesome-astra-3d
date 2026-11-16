@@ -2,10 +2,16 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
-## 2026-11-16 · 9 个案例
+## 2026-11-16 · 15 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
 | --- | --- | --- |
+| [日落浮岛：两版 Blender 场景如何迭代 / A Floating Island at Sunset: Two Blender Passes](https://carpentry-liu.github.io/awesome-astra-3d/cases/realcodebear-blender-island-fable/) | RealCodeBear | 源码 / 工程 · 演示入口 · Fable 5.2 · 提示词 / 过程 |
+| [达芬奇机械手稿：从笔绘到可拆解三维模型 / Da Vinci’s Living Codex: Sketch to Exploded View](https://carpentry-liu.github.io/awesome-astra-3d/cases/nanami-davinci-mechanics-fable/) | coding-nanami / u/Sufficient_Nobody477 | 源码 / 工程 · 演示入口 · Fable 5.2 · 提示词 / 过程 |
+| [Yonkers Rises：纽约地图站起来走路 / Yonkers Rises: A City Boundary Becomes a Walking Mech](https://carpentry-liu.github.io/awesome-astra-3d/cases/simonw-yonkers-fable/) | Simon Willison | 源码 / 工程 · 演示入口 · Fable 5.2 · 提示词 / 过程 |
+| [Shelby GT500：参照多视图在 Blender 里建车 / Shelby GT500: Modeling a Car from Reference Views](https://carpentry-liu.github.io/awesome-astra-3d/cases/max-shelby-fable/) | Max / @maxt3chno | 完整视频 · Fable 5.2 · 提示词 / 过程 |
+| [把常去的午餐店做成三维模型与 AR 导览 / A Favorite Lunch Spot Rebuilt for an AR Walkthrough](https://carpentry-liu.github.io/awesome-astra-3d/cases/trace-lunch-spot-fable/) | Trace / @Trace_AR | 完整视频 · Fable 5.2 |
+| [暗黑风浏览器游戏：从灰盒到布光与关卡 / A Dark Fantasy Browser Game: Blockout, Lighting and Levels](https://carpentry-liu.github.io/awesome-astra-3d/cases/mengto-dark-fantasy-fable/) | Meng To / @MengTo | 完整视频 · Fable 5.2 · 提示词 / 过程 |
 | [竞速无人机：机架与摄像头的三维装配演示 / Racing Drone: A 3D Frame and Camera Assembly](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-racing-drone/) | Havis \| Claude Code / @HavisT83099 | 完整视频 · 提示词 / 过程 |
 | [街角的复古电车：同一主题的四种三维实现 / Vintage Tram at the Corner: Four 3D Approaches](https://carpentry-liu.github.io/awesome-astra-3d/cases/lummox-vintage-tram/) | Lummox / @Lummox_eth | 完整视频 · 提示词 / 过程 |
 | [微缩罗马竞技场：从城墙拱廊到场内视角 / Miniature Colosseum: Exterior Arcades and Arena Views](https://carpentry-liu.github.io/awesome-astra-3d/cases/rubens-mini-colosseum/) | Rubens Soto \| AI & SaaS / @rubenssoto_ai | 完整视频 · 提示词 / 过程 |

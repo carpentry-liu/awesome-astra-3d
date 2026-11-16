@@ -7,12 +7,14 @@ import './welcome.css';
 import './gallery.css';
 import cases from '@/data/catalog-index.json';
 import { SITE_URL } from '@/src/site.mjs';
-const count = cases.filter((c) => c.group === 'astra').length;
 const shareImage = new URL('share.jpg', SITE_URL).href;
+const title = 'GPT-6 Astra & Claude Fable 5.2 3D Examples | Astra 3D Atlas';
+const astraCount = cases.filter((c) => c.group === 'astra').length;
+const fableCount = cases.filter((c) => c.group === 'fable').length;
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
-  title: `GPT-6 Astra 3D Examples — ${count} Blender & Three.js 案例 | Astra 3D Atlas`,
-  description: `浏览 ${count} 个 GPT-6 Astra 三维案例：Blender、Houdini、Rhino、Three.js、Godot、CAD 与空间重建。按源码、演示入口与完整视频筛选，附原作者、公开提示词和工程；新增独立 GPT-Image-2.6 GIF 动图分类。`,
+  title,
+  description: `浏览 ${astraCount} 个 GPT-6 Astra 三维案例与 ${fableCount} 个 Claude Fable 5.2 案例。查看 Blender 工程、Three.js 演示、完整录像、原作者过程与 GPT-Image-2.6 GIF 动图。`,
   alternates: {
     canonical: SITE_URL,
   },
@@ -20,14 +22,14 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     siteName: 'Astra 3D Atlas',
-    title: 'Awesome GPT-6 Astra 3D — Projects, Demos & Complete Videos',
-    description: 'Explore public Blender projects, interactive worlds, browser games and complete source clips. Also explore native GPT-Image-2.6 GIF loops with original files and creator attribution.',
+    title,
+    description: 'Explore public Blender projects, Three.js demos and complete creator recordings, plus native GPT-Image-2.6 GIF loops.',
     url: SITE_URL,
     images: [{url:shareImage,alt:'Astra 3D Atlas — actual gallery preview'}],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Awesome GPT-6 Astra 3D — Projects, Demos & Complete Videos',
+    title,
     description: 'Public project links, playable demos, complete clips and original creator records.',
     images: [shareImage],
   },

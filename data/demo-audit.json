@@ -1118,6 +1118,53 @@
       "observedAt": "2026-11-16",
       "result": "unlisted",
       "scope": "Unlisted after the creator walkthrough, both previously verified renders and the former project repository returned HTTP 404. No replacement result or archived playback was verified. The original record is retained for restoration."
+    },
+    {
+      "id": "realcodebear-blender-island-fable",
+      "url": "https://realcodebear.github.io/blender-fable-5.2/#island",
+      "observedAt": "2026-11-16",
+      "result": "verified-interactive",
+      "status": 200,
+      "scope": "Chromium rendered the author WebGL scene and responded to controls.",
+      "browserEvidence": {
+        "canvas": {
+          "width": 1180,
+          "height": 664
+        },
+        "model": "https://realcodebear.github.io/blender-fable-5.2/models/s2_v2.glb"
+      },
+      "modelResponses": [
+        [
+          "https://realcodebear.github.io/blender-fable-5.2/models/s2_v2.glb",
+          200
+        ]
+      ]
+    },
+    {
+      "id": "nanami-davinci-mechanics-fable",
+      "url": "https://davinci-mechanics.vercel.app/",
+      "observedAt": "2026-11-16",
+      "result": "verified-interactive",
+      "status": 200,
+      "scope": "Chromium rendered the author WebGL scene and responded to controls.",
+      "browserEvidence": {
+        "canvas": {
+          "width": 1280,
+          "height": 820
+        },
+        "leaf": "The Aerial Screw"
+      },
+      "modelResponses": []
+    },
+    {
+      "id": "simonw-yonkers-fable",
+      "url": "https://tools.simonwillison.net/yonkers-rises",
+      "observedAt": "2026-11-16",
+      "result": "verified-interactive",
+      "status": 200,
+      "scope": "Chromium rendered the author WebGL scene and responded to controls.",
+      "browserEvidence": "YONKERS RISES\nSTOMPING THE BRONX\n11.1 km\nMECH HEIGHT\n2\nSTOMPS",
+      "modelResponses": []
     }
   ]
 }

@@ -1,5 +1,310 @@
 [
   {
+    "id": "realcodebear-blender-island-fable",
+    "title": "日落浮岛：两版 Blender 场景如何迭代",
+    "titleEn": "A Floating Island at Sunset: Two Blender Passes",
+    "category": "Blender 建模",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub",
+      "个人网站"
+    ],
+    "author": "RealCodeBear",
+    "sourceUrl": "https://github.com/realcodebear/blender-fable-5.2",
+    "sourceDate": null,
+    "modelLabel": "Claude Fable 5.2 · Medium / Max",
+    "evidenceNote": "作者仓库将静物、浮岛、霓虹雨城的两轮建模均归于 Claude Fable 5.2。第一轮为 Medium 快速生成，第二轮在第一版基础上给每个场景分配 Max effort 会话。作者提供各版构建脚本、渲染与工程。",
+    "sourceAccess": "作者的浮岛成果图和 v2 .blend 文件已完整获取。网页切换至 v2 后，实际加载了作者的 GLB 与 WebGL 视口。工程内脚本仅提供公开链接。",
+    "summary": "先用滑块比较两个版本的风车、木屋、瀑布和日落光照，再打开浮岛工程检查材质与镜头。同一作者页面还展示台灯静物和雨夜霓虹街景。网页使用近似灯光与烘焙材质。",
+    "outputType": [
+      "Blender 工程",
+      "Python",
+      "GLB",
+      "可交互三维预览",
+      "对照渲染"
+    ],
+    "promptAvailability": "full-prompt-on-source",
+    "promptSummary": "先在 Blender 中做三种复杂度的场景，再以高推理设置重做每个场景。浮岛第二轮任务补充环境、道具、光照与验收细节。",
+    "promptUrl": "https://realcodebear.github.io/blender-fable-5.2/#prompts",
+    "imageKind": "author-render",
+    "imageCaption": "RealCodeBear 的浮岛 v2 Blender 渲染。",
+    "demoUrl": "https://realcodebear.github.io/blender-fable-5.2/#island",
+    "repositoryUrl": "https://github.com/realcodebear/blender-fable-5.2",
+    "evidenceUrls": [
+      "https://realcodebear.github.io/blender-fable-5.2/blend/S2_FloatingIsland_v2.blend",
+      "https://realcodebear.github.io/blender-fable-5.2/models/s2_v2.glb"
+    ],
+    "outcome": "comparison",
+    "group": "fable",
+    "addedAt": "2026-11-16",
+    "observedAt": "2026-11-16",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "第三方作品、素材及录像保留原作者及各权利方的权利。本库 MIT 许可适用于本库自身代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-fable",
+    "videoUrl": null,
+    "imageUrl": "https://realcodebear.github.io/blender-fable-5.2/img/s2_v2.jpg"
+  },
+  {
+    "id": "nanami-davinci-mechanics-fable",
+    "title": "达芬奇机械手稿：从笔绘到可拆解三维模型",
+    "titleEn": "Da Vinci’s Living Codex: Sketch to Exploded View",
+    "category": "拆解与剖面",
+    "platform": "Reddit",
+    "platforms": [
+      "Reddit",
+      "GitHub",
+      "个人网站"
+    ],
+    "author": "coding-nanami / u/Sufficient_Nobody477",
+    "sourceUrl": "https://www.reddit.com/r/TopologyAI/comments/1xvghw6/used_fable_52_to_build_an_interactive_3d_da_vinci/",
+    "sourceDate": null,
+    "modelLabel": "Claude Fable 5.2 · Claude Code",
+    "evidenceNote": "作者在 Reddit 署名原帖说明，先用 Claude 聊天试做交互草稿，再用 Claude Code Fable 5.2 开发 Three.js 版本。源码仓库提供页面及机械设计出处。几何、笔绘、纸面和合成声音由代码生成。",
+    "sourceAccess": "核对原帖中作者公开的源码与演示链接。完整获取作者预览图和 HTML，实现页实际渲染 WebGL 场景并响应螺旋升力装置的换页按钮。",
+    "summary": "把扑翼机、自走小车和螺旋升力装置装进一本三维手稿。拖动书页上的分界线比较墨线和木构，转动摇柄看机构运动，也能拉开零件。",
+    "outputType": [
+      "Three.js",
+      "程序化几何",
+      "交互拆解"
+    ],
+    "promptAvailability": "author-description",
+    "promptSummary": "作者先在对话里测试早期交互稿，再迭代机械运动、纸面绘制和翻页表现。",
+    "promptUrl": "https://www.reddit.com/r/TopologyAI/comments/1xvghw6/used_fable_52_to_build_an_interactive_3d_da_vinci/",
+    "imageKind": "author-screenshot",
+    "imageCaption": "作者在源码仓库发布的扑翼机截图，左侧为墨线，右侧为木构。",
+    "demoUrl": "https://davinci-mechanics.vercel.app/",
+    "repositoryUrl": "https://github.com/coding-nanami/davinci-mechanics",
+    "evidenceUrls": [
+      "https://github.com/coding-nanami/davinci-mechanics/blob/main/index.html"
+    ],
+    "outcome": "showcase",
+    "group": "fable",
+    "addedAt": "2026-11-16",
+    "observedAt": "2026-11-16",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "第三方作品、素材及录像保留原作者及各权利方的权利。本库 MIT 许可适用于本库自身代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-fable",
+    "videoUrl": null,
+    "imageUrl": "https://raw.githubusercontent.com/coding-nanami/davinci-mechanics/main/docs/media/orni.jpg"
+  },
+  {
+    "id": "simonw-yonkers-fable",
+    "title": "Yonkers Rises：纽约地图站起来走路",
+    "titleEn": "Yonkers Rises: A City Boundary Becomes a Walking Mech",
+    "category": "程序化场景",
+    "platform": "个人网站",
+    "platforms": [
+      "个人网站",
+      "GitHub"
+    ],
+    "author": "Simon Willison",
+    "sourceUrl": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+    "sourceDate": "2026-11-10",
+    "modelLabel": "Claude Fable 5.2 · Medium",
+    "evidenceNote": "作者博客与源码提交写明 Fable 5.2 Medium，并链接原始提示词和会话。轮廓使用 OpenStreetMap 数据，建筑体块由程序虚构。",
+    "sourceAccess": "核对作者博客、共享会话及固定版本 HTML。网页实测绘制三维动画，暂停后保留当前画面与步数。",
+    "summary": "把 Yonkers 的行政边界折成立体机甲，让它从纽约地面站起并绕城行走。可以暂停、重播、转动视角，观察二维地理轮廓如何变为动画。",
+    "outputType": [
+      "Three.js",
+      "HTML 源码",
+      "地图数据",
+      "三维动画"
+    ],
+    "promptAvailability": "full-prompt-on-source",
+    "promptSummary": "用 Three.js 和 OpenStreetMap 数据，做一个 Yonkers 从地面站起、在纽约各区间行走的动画。",
+    "promptUrl": "https://claude.ai/share/97443910-2e0a-4e17-9b9e-11d14d8ff65c",
+    "imageKind": "demo-screenshot",
+    "imageCaption": "本库实拍作者在线演示约 13.5 秒处。海岸线和行政边界 © OpenStreetMap contributors。",
+    "demoUrl": "https://tools.simonwillison.net/yonkers-rises",
+    "repositoryUrl": "https://github.com/simonw/tools/blob/ffe3233016ea2f4805e35adcfb8745ea26c755dd/yonkers-rises.html",
+    "evidenceUrls": [
+      "https://tools.simonwillison.net/colophon#yonkers-rises",
+      "https://www.openstreetmap.org/copyright"
+    ],
+    "outcome": "showcase-with-limitations",
+    "group": "fable",
+    "addedAt": "2026-11-16",
+    "observedAt": "2026-11-16",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "第三方作品、素材及录像保留原作者及各权利方的权利。本库 MIT 许可适用于本库自身代码。 地图海岸线和行政边界数据 © OpenStreetMap contributors；截图取自作者公开演示。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-fable",
+    "videoUrl": null,
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-fable-5-2-2026-11-16/yonkers-proof.jpg"
+  },
+  {
+    "id": "max-shelby-fable",
+    "title": "Shelby GT500：参照多视图在 Blender 里建车",
+    "titleEn": "Shelby GT500: Modeling a Car from Reference Views",
+    "category": "Blender 建模",
+    "modelLabel": "Claude Fable 5.2 · High 执行",
+    "evidenceNote": "Max 在原帖说明，先由 Fable 5.2 整理提示词，再由 Fable 5.2 High 通过 Blender MCP 执行。作者在回复中公开多视图参考与建模任务，原帖指出仍有细节偏差。",
+    "summary": "以侧视、顶视和前后视图校对车身比例，细化蓝色车漆、白条纹、格栅和车轮。完整录像可看到 Blender 场景中的车辆与参考图。",
+    "outputType": [
+      "Blender 建模",
+      "参考视图",
+      "完整运行录像"
+    ],
+    "promptAvailability": "full-prompt-on-source",
+    "promptSummary": "从多视图参考描出 Shelby GT500 轮廓，检查车体比例、前后细节、材质与最终镜头。",
+    "promptUrl": "https://x.com/maxt3chno/status/2121603721742127142",
+    "imageKind": "video-poster",
+    "imageCaption": "Max 原帖的录像封面，展示 Blender 内的车身与参考图。",
+    "evidenceUrls": [
+      "https://x.com/maxt3chno/status/2121603721742127142",
+      "https://api.fxtwitter.com/maxt3chno/status/2121603388009775599"
+    ],
+    "outcome": "showcase-with-limitations",
+    "group": "fable",
+    "addedAt": "2026-11-16",
+    "observedAt": "2026-11-16",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "第三方作品、素材及录像保留原作者及各权利方的权利。本库 MIT 许可适用于本库自身代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-fable",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/maxt3chno/status/2121603388009775599",
+    "repositoryUrl": null,
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Max / @maxt3chno",
+    "sourceUrl": "https://x.com/maxt3chno/status/2121603388009775599",
+    "sourceDate": "2026-11-14",
+    "sourceAccess": "核对 X 原帖作者、发布时间、媒体 ID 和两版 MP4 地址。完整下载最高画质原版与平台播放版，逐帧解码后归档。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2121603281424134144/img/jzRnrgAr1ABDjmjb.jpg",
+    "archivedVideos": [
+      {
+        "label": "Shelby 建模成果展示 · 完整原帖录像",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2121603281424134144/img/jzRnrgAr1ABDjmjb.jpg",
+        "sourceUrl": "https://x.com/maxt3chno/status/2121603388009775599",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/max-shelby-fable-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-fable-5-2-2026-11-16/max-shelby-fable-1-original.mp4",
+        "bytes": 20787104,
+        "sha256": "95c17b67a1a25f9f385a036e64fb97087038aef87ce197d39f4c3bbfb7d3170f",
+        "durationSeconds": 25.63
+      }
+    ]
+  },
+  {
+    "id": "trace-lunch-spot-fable",
+    "title": "把常去的午餐店做成三维模型与 AR 导览",
+    "titleEn": "A Favorite Lunch Spot Rebuilt for an AR Walkthrough",
+    "category": "建筑可视化",
+    "modelLabel": "Claude Fable 5.2",
+    "evidenceNote": "Trace 的 X 原帖明确写出 Fable 5.2，使用实地照片作为参考，录像展示建筑模型和 AR 导览。比例、测绘精度与完整制作流程未由本库独立验证。",
+    "summary": "从餐厅照片构建可放到桌面上的三维模型，再切到 AR 的室内信息与空间导览。档案提供作者完整演示录像。",
+    "outputType": [
+      "建筑模型",
+      "AR 导览",
+      "完整运行录像"
+    ],
+    "promptAvailability": "author-description",
+    "promptSummary": "根据原址照片重建餐厅，做一个可以观察外部和走进室内的增强现实演示。",
+    "imageKind": "video-poster",
+    "imageCaption": "Trace 原帖的录像封面，显示桌面的建筑模型。",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/Trace_AR/status/2121284000232714559"
+    ],
+    "outcome": "showcase-with-limitations",
+    "group": "fable",
+    "addedAt": "2026-11-16",
+    "observedAt": "2026-11-16",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "第三方作品、素材及录像保留原作者及各权利方的权利。本库 MIT 许可适用于本库自身代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-fable",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/Trace_AR/status/2121284000232714559",
+    "repositoryUrl": null,
+    "promptUrl": null,
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Trace / @Trace_AR",
+    "sourceUrl": "https://x.com/Trace_AR/status/2121284000232714559",
+    "sourceDate": "2026-11-14",
+    "sourceAccess": "核对 X 原帖作者、发布时间、媒体 ID 和两版 MP4 地址。完整下载最高画质原版与平台播放版，逐帧解码后归档。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2121283720644644864/img/eJZYdM4iRXfDyKw8.jpg",
+    "archivedVideos": [
+      {
+        "label": "餐厅三维模型与 AR 导览 · 完整原帖录像",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2121283720644644864/img/eJZYdM4iRXfDyKw8.jpg",
+        "sourceUrl": "https://x.com/Trace_AR/status/2121284000232714559",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/trace-lunch-spot-fable-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-fable-5-2-2026-11-16/trace-lunch-spot-fable-1-original.mp4",
+        "bytes": 9348680,
+        "sha256": "c5a604a9fb71ffbbf63ed91554aece4eadab3e1bb16057e07e6020dade5899e1",
+        "durationSeconds": 68.46000000000001
+      }
+    ]
+  },
+  {
+    "id": "mengto-dark-fantasy-fable",
+    "title": "暗黑风浏览器游戏：从灰盒到布光与关卡",
+    "titleEn": "A Dark Fantasy Browser Game: Blockout, Lighting and Levels",
+    "category": "3D 游戏",
+    "modelLabel": "Claude Fable 5.2 + Opus 5.5 · 联合工作流",
+    "evidenceNote": "Meng To 的原帖把 Fable 5.2 和 Opus 5.5 列为 Claude Code 开发工作流的一部分，另列出 Seedream 5.0 Pro、Tripo 3D。录像记录游戏运行，具体代码和资产贡献以作者逐帖披露为准。",
+    "summary": "用 Three.js 制作的暗黑奇幻游戏原型。原帖录像展示第三人称移动、光照与特效。作者后续线程公开制作方法与使用的工具。",
+    "outputType": [
+      "Three.js",
+      "浏览器游戏",
+      "完整运行录像"
+    ],
+    "promptAvailability": "linked",
+    "promptSummary": "原帖列出网页原型、三维素材、照明、声音等制作环节，分帖说明过程。",
+    "promptUrl": "https://x.com/MengTo/status/2121896633848017145",
+    "imageKind": "video-poster",
+    "imageCaption": "Meng To 原帖的录像封面，显示角色与三维关卡。",
+    "evidenceUrls": [
+      "https://x.com/MengTo/status/2121896861015658865",
+      "https://api.fxtwitter.com/MengTo/status/2121896633848017145"
+    ],
+    "outcome": "showcase-with-limitations",
+    "group": "fable",
+    "addedAt": "2026-11-16",
+    "observedAt": "2026-11-16",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "第三方作品、素材及录像保留原作者及各权利方的权利。本库 MIT 许可适用于本库自身代码。",
+    "evidenceLevel": "author",
+    "evidenceStatus": "explicit-fable",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/MengTo/status/2121896633848017145",
+    "repositoryUrl": null,
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Meng To / @MengTo",
+    "sourceUrl": "https://x.com/MengTo/status/2121896633848017145",
+    "sourceDate": "2026-11-15",
+    "sourceAccess": "核对 X 原帖作者、发布时间、媒体 ID 和两版 MP4 地址。完整下载最高画质原版与平台播放版，逐帧解码后归档。",
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2121896455816548352/pu/img/64C320SXAJ7oPGQ8.jpg",
+    "archivedVideos": [
+      {
+        "label": "暗黑奇幻关卡运行 · 完整原帖录像",
+        "posterUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2121896455816548352/pu/img/64C320SXAJ7oPGQ8.jpg",
+        "sourceUrl": "https://x.com/MengTo/status/2121896633848017145",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/mengto-fil-fable-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-fable-5-2-2026-11-16/mengto-fil-fable-1-original.mp4",
+        "bytes": 19139301,
+        "sha256": "7aed024033160b9380383333aca67ef1f0f52e42cb1c219dfd6302cd3f7d3d07",
+        "durationSeconds": 99.18
+      }
+    ]
+  },
+  {
     "id": "havis-racing-drone",
     "group": "astra",
     "category": "产品与角色",

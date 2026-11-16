@@ -54,11 +54,16 @@ import { GifPlayer, useGifPlayback } from '@/src/gif-player';
 import { Welcome } from './welcome';
 import { navigateToSection } from '@/src/section-navigation';
 import {
+  CASE_GROUPS,
+  FABLE_RELEASE_URL,
   PAGE_SIZE as pageSize,
   REPOSITORY_URL as github,
 } from '@/src/site.mjs';
 
 const allCases = casesData as CaseIndex[];
+const groupCounts = Object.fromEntries(
+  CASE_GROUPS.map((group) => [group, allCases.filter((c) => c.group === group).length]),
+);
 const latestAdded =
   allCases
     .map((c) => c.addedAt)
@@ -78,6 +83,7 @@ const imageKinds: Record<string, [string, string]> = {
   'source-media': ['来源媒体', 'Source media'],
   'author-screenshot': ['作者作品图', 'Creator screenshot'],
   'author-render': ['作者渲染图', 'Creator render'],
+  'demo-screenshot': ['演示实拍', 'Live demo screenshot'],
   'author-comparison': ['作者对照图', 'Creator comparison'],
   'video-poster': ['视频封面', 'Video poster'],
   'editorial-cover': ['分享卡片', 'Editorial cover'],
@@ -217,9 +223,6 @@ export default function Home() {
   }, []);
   const t = messages[locale];
   const selectedIndex = allCases.find((c) => c.id === selectedId);
-  const astraCount = allCases.filter((c) => c.group === 'astra').length;
-  const gifCount = allCases.filter((c) => c.group === 'gif').length;
-  const referenceCount = allCases.filter((c) => c.group === 'reference').length;
   const scoped = allCases.filter((c) => c.group === group);
   const categories = ['全部', ...new Set(scoped.map((c) => c.category))];
   const platforms = ['全部', ...new Set(scoped.map((c) => c.platform))];
@@ -464,11 +467,11 @@ export default function Home() {
         <div className="result-bar">
           <span aria-live="polite">
             <strong>{cases.length}</strong> {t.results} <i>/</i>{' '}
-            {group === 'astra'
-              ? t.sourceGrade
-              : group === 'gif'
-                ? t.gifGrade
-                : t.referenceGrade}
+            {group === 'gif'
+              ? t.gifGrade
+              : group === 'reference'
+                ? t.referenceGrade
+                : t.sourceGrade}
           </span>
         </div>
         {cases.length ? (
@@ -720,18 +723,21 @@ export default function Home() {
           className="catalog-tabs"
         >
           <TabsList variant="line" className="group-tabs">
-            <TabsTrigger value="astra">
-              {t.astra} <span>{astraCount}</span>
-            </TabsTrigger>
-            <TabsTrigger value="gif">
-              {t.gif} <span>{gifCount}</span>
-            </TabsTrigger>
-            <TabsTrigger value="reference">
-              {t.reference} <span>{referenceCount}</span>
-            </TabsTrigger>
+            {CASE_GROUPS.map((value) => (
+              <TabsTrigger key={value} value={value}>
+                {t[value]} <span>{groupCounts[value]}</span>
+              </TabsTrigger>
+            ))}
             <TabsTrigger value="about">{t.about}</TabsTrigger>
           </TabsList>
           <TabsContent value="astra">{grid}</TabsContent>
+          <TabsContent value="fable">
+            <p className="reference-notice">
+              {t.fableNotice}{' '}
+              <OutLink href={FABLE_RELEASE_URL}>{t.fableDocs} ↗</OutLink>
+            </p>
+            {grid}
+          </TabsContent>
           <TabsContent value="gif">
             <p className="reference-notice">
               {t.gifNotice}{' '}

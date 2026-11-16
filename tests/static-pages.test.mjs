@@ -14,6 +14,7 @@ import {
   selectTopicRecords,
   sitemapEntries,
 } from '../scripts/generate-case-pages.mjs';
+import { renderBrowse } from '../scripts/static-pages/render.mjs';
 
 const records = JSON.parse(
   fs.readFileSync(new URL('../data/cases.json', import.meta.url), 'utf8'),
@@ -122,6 +123,21 @@ test('references have independent routes, attribution and correct counts', () =>
   assert(html.includes(`href="${SITE_URL}en/cases/${reference.id}/"`));
   assert(html.includes('property="og:type" content="article"'));
   assert(html.includes('name="twitter:card" content="summary_large_image"'));
+});
+
+test('Fable 5.2 works link to their collection and keep their model in bilingual details', () => {
+  const record = records.find((item) => item.group === 'fable');
+  for (const [language, label, search] of [
+    ['zh', 'Claude Fable 5.2 案例', '?group=fable#collection'],
+    ['en', 'Claude Fable 5.2 example', '?lang=en&amp;group=fable#collection'],
+  ]) {
+    const directory = renderBrowse([record], 1, language);
+    assert(directory.includes(search));
+    assert(directory.includes('data-group="fable"'));
+    const detail = renderCase(record, language);
+    assert(detail.includes(label));
+    assert(detail.includes(record.sourceUrl));
+  }
 });
 
 test('all four topics have stable 8–12 Astra records and actual advertised materials', () => {

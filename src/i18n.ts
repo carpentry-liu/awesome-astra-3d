@@ -14,7 +14,7 @@ export const messages = {
     hero: '下一次三维创作，',
     heroAccent: '从一个作品开始。',
     description:
-      '探索 GPT-6 Astra 的空间、游戏与模型。找到公开工程、试玩入口、完整录像与原作者过程。',
+      '探索 GPT-6 Astra 与 Claude Fable 5.2 的三维空间、游戏与模型。打开工程、试玩作品，也可以沿原帖看制作过程。',
     picks: '编辑精选',
     updated: '收录更新',
     gif: 'GIF 动图',
@@ -30,6 +30,9 @@ export const messages = {
     gifFailed: '动图加载失败，请尝试原始文件或作者来源。',
     gifFrames: '帧',
     astra: 'Astra 案例',
+    fable: 'Fable 5.2',
+    fableNotice: '用 Claude Fable 5.2 制作的 Blender 工程、交互场景与游戏。档案附原始出处和创作工具。',
+    fableDocs: 'Anthropic 发布说明',
     source: '源码 / 工程',
     demo: '演示入口',
     video: '完整视频',
@@ -102,7 +105,7 @@ export const messages = {
     aboutIntro:
       '记录公开作品、生成过程与可获得的产物。收录不代表效果保证，也不代表已经独立复现。',
     evidenceTitle: '证据怎么读',
-    officialNote: 'OpenAI 作品详情明确标注 Astra。',
+    officialNote: '模型开发方在作品说明中明确标注型号。',
     authorNote: '可读取的作者原帖、文章或仓库明确写出模型。',
     secondaryNote: 'X 原页访问受限，依据作者文字的镜像、引文或整理页。',
     referenceNote: '参考仓库里的图片与提示词，不纳入 Astra 数量。',
@@ -120,7 +123,7 @@ export const messages = {
       '欢迎补充原帖、可运行作品、公开提示词或纠错。请提供模型声明，缺失信息保留未知。',
     submit: '提交案例',
     downloadJson: '下载 JSON',
-    footerNote: '独立整理，非 OpenAI 官方项目。作品版权归原作者。',
+    footerNote: '独立整理的公开作品索引。作品版权归原作者。',
     contributionGuide: '贡献指南',
     openIndex: '开放索引',
     loadingDetail: '正在读取作品档案…',
@@ -163,7 +166,7 @@ export const messages = {
     hero: 'Your next 3D creation',
     heroAccent: 'starts with a real project.',
     description:
-      'Explore GPT-6 Astra spaces, games and models. Find public projects, demos, complete clips and the creators’ process.',
+      'Explore 3D worlds, games and models made with GPT-6 Astra and Claude Fable 5.2. Open projects, try demos and follow the creators’ process.',
     picks: 'Editor’s picks',
     updated: 'Collection updated',
     gif: 'GIF animations',
@@ -179,6 +182,9 @@ export const messages = {
     gifFailed: 'Animation could not load. Try the original file or creator source.',
     gifFrames: 'frames',
     astra: 'Astra works',
+    fable: 'Fable 5.2',
+    fableNotice: 'Blender projects, interactive scenes and games made with Claude Fable 5.2. Each record credits its source and tools.',
+    fableDocs: 'Anthropic release notes',
     source: 'Code / projects',
     demo: 'Demo links',
     video: 'Complete clips',
@@ -254,7 +260,7 @@ export const messages = {
     aboutIntro:
       'Public works, creation processes and available outputs. Inclusion is not an effect guarantee or a claim of independent reproduction.',
     evidenceTitle: 'Reading the evidence',
-    officialNote: 'An OpenAI work page explicitly identifies Astra.',
+    officialNote: 'The model developer names the model in the work’s description.',
     authorNote:
       'The creator’s accessible post, article or repository explicitly names the model.',
     secondaryNote:
@@ -278,7 +284,7 @@ export const messages = {
     submit: 'Submit a case',
     downloadJson: 'Download JSON',
     footerNote:
-      'Independent collection, not an official OpenAI project. Works belong to their creators.',
+      'Independent index of public works. Works belong to their creators.',
     contributionGuide: 'Contribution guide',
     openIndex: 'Open index',
     loadingDetail: 'Loading the work archive…',

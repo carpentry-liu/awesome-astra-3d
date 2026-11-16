@@ -203,7 +203,17 @@ export function Welcome({
               {t.latest} <ArrowUpRight size={17} />
             </a>
             <a
-              className="latest-link gif-entry"
+              className="latest-link collection-entry"
+              href={collectionHref('all', 'curated', search, 'fable')}
+              onClick={(event) => {
+                if (navigateToSection(event, 'collection'))
+                  onExplore('all', 'curated', 'fable');
+              }}
+            >
+              {t.fable} <ArrowUpRight size={17} />
+            </a>
+            <a
+              className="latest-link collection-entry"
               href={collectionHref('all', 'newest', search, 'gif')}
               onClick={(event) => {
                 if (navigateToSection(event, 'collection'))

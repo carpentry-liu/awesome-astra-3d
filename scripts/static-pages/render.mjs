@@ -1,5 +1,5 @@
 import { readerStatus } from '../../src/case-copy.ts';
-import { REPOSITORY_URL } from '../../src/site.mjs';
+import { CASE_GROUPS, REPOSITORY_URL } from '../../src/site.mjs';
 import { labels } from './labels.mjs';
 import {
   PAGE_SIZE,
@@ -151,8 +151,8 @@ export function renderCase(record, language = 'zh') {
     title = languageTitle(record, language);
   const description =
     language === 'en'
-      ? `${title}. ${record.group === 'astra' ? 'GPT-6 Astra source record' : record.group === 'gif' ? 'GPT-Image GIF animation' : 'Separate method reference'} by ${record.author || 'an uncredited creator'}, with public materials and attribution.`
-      : `${record.group === 'reference' ? '独立方法参考（不计入 Astra）。' : ''}${title}。${record.summary}`.slice(
+      ? `${title}. ${t[record.group]} · ${record.author || t.unknown}. ${t.intro}`
+      : `${title} · ${t[record.group]}。${record.summary}`.slice(
           0,
           200,
         );
@@ -225,14 +225,15 @@ export function renderBrowse(records, page, language) {
     pageCount = Math.ceil(records.length / PAGE_SIZE);
   const selected = records.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE);
   const astra = records.filter((record) => record.group === 'astra').length,
+    fable = records.filter((record) => record.group === 'fable').length,
     reference = records.filter((record) => record.group === 'reference').length,
     gif = records.filter((record) => record.group === 'gif').length;
   const title = `${t.browse} · ${t.page} ${page} / ${pageCount}`;
   const description =
     language === 'en'
-      ? `${astra} Astra records, ${gif} GIF animations and ${reference} separate method references. ${t.intro}`
-      : `${astra} 条 Astra 案例、${gif} 件 GIF 动图与 ${reference} 条独立方法参考。${t.intro}`;
-  const sections = ['astra', 'gif', 'reference']
+      ? `${astra} Astra works, ${fable} Claude Fable 5.2 works, ${gif} GIFs and ${reference} method references. ${t.intro}`
+      : `${astra} 条 Astra 案例、${fable} 条 Claude Fable 5.2 案例、${gif} 件 GIF 动图与 ${reference} 条方法参考。${t.intro}`;
+  const sections = CASE_GROUPS
     .map((group) => {
       const groupRecords = selected.filter((record) => record.group === group);
       return groupRecords.length
@@ -240,7 +241,8 @@ export function renderBrowse(records, page, language) {
         : '';
     })
     .join('');
-  const body = `<section class="directory-heading"><p class="eyebrow">ASTRA 3D ATLAS / INDEX</p><h1>${t.browse}</h1><p class="lede">${t.intro}</p><p>${astra} Astra · ${gif} GIF · ${reference} ${language === 'en' ? 'separate references' : '独立参考'} · ${t.page} ${page} / ${pageCount}</p><p class="media-note">${t.methods}</p>${topicLinks(currentPath, language)}</section>${sections}
+  const fableHref = `${relativeHref(currentPath, '')}?${language === 'en' ? 'lang=en&' : ''}group=fable#collection`;
+  const body = `<section class="directory-heading"><p class="eyebrow">ASTRA 3D ATLAS / INDEX</p><h1>${t.browse}</h1><p class="lede">${t.intro}</p><p>${astra} Astra · <a href="${escapeHtml(fableHref)}">${fable} Fable 5.2</a> · ${gif} GIF · ${reference} ${language === 'en' ? 'separate references' : '独立参考'} · ${t.page} ${page} / ${pageCount}</p><p class="media-note">${t.methods}</p>${topicLinks(currentPath, language)}</section>${sections}
 <nav class="pagination" aria-label="${t.allPages}">${page > 1 ? `<a class="button" rel="prev" href="${relativeHref(currentPath, browsePath(page - 1, language))}">${t.prev}</a>` : ''}<div class="page-links">${Array.from({ length: pageCount }, (_, i) => `<a href="${relativeHref(currentPath, browsePath(i + 1, language))}"${page === i + 1 ? ' aria-current="page"' : ''}>${i + 1}</a>`).join('')}</div>${page < pageCount ? `<a class="button" rel="next" href="${relativeHref(currentPath, browsePath(page + 1, language))}">${t.next}</a>` : ''}</nav>`;
   return pageTemplate({ currentPath, language, title, description, body });
 }

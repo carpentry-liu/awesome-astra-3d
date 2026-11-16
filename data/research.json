@@ -1,5 +1,5 @@
 {
-  "observedAt": "2026-09-12",
+  "observedAt": "2026-11-16",
   "officialSources": [
     "https://developers.openai.com/showcase/all",
     "https://developers.openai.com/api/docs/models/gpt-6-astra"
@@ -14327,6 +14327,90 @@
       "newMediaFiles": 12,
       "newMediaBytes": 87985660,
       "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-16"
+    },
+    {
+      "observedAt": "2026-11-16",
+      "round": "fable-5-2-launch",
+      "timezone": "Asia/Shanghai",
+      "baselineCommit": "c2d9847889fb504678be6b3d532b02ca911bfe7c",
+      "baselineCount": 504,
+      "resultingCount": 510,
+      "model": "Claude Fable 5.2",
+      "officialModelPage": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "queries": [
+        "Claude Fable 5.2 Blender MCP and Three.js results",
+        "Claude Fable 5.2 interactive 3D projects GitHub and Reddit",
+        "Claude Fable 5.2 三维建模 Blender 建筑游戏 哔哩哔哩 小红书",
+        "Claude Fable 5.2 3D animation site:x.com"
+      ],
+      "addedCaseIds": [
+        "realcodebear-blender-island-fable",
+        "nanami-davinci-mechanics-fable",
+        "simonw-yonkers-fable",
+        "max-shelby-fable",
+        "trace-lunch-spot-fable",
+        "mengto-dark-fantasy-fable"
+      ],
+      "originalSources": [
+        "https://github.com/realcodebear/blender-fable-5.2",
+        "https://www.reddit.com/r/TopologyAI/comments/1xvghw6/used_fable_52_to_build_an_interactive_3d_da_vinci/",
+        "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+        "https://x.com/maxt3chno/status/2121603388009775599",
+        "https://x.com/Trace_AR/status/2121284000232714559",
+        "https://x.com/MengTo/status/2121896633848017145"
+      ],
+      "primarySourceChecks": [
+        {
+          "sourceUrl": "https://x.com/maxt3chno/status/2121603388009775599",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 145283,
+          "sha256": "b65273a02e920d2af2a00fff5a3b977c8ae789261f931434ffb217cb7b5ff5e6",
+          "createdAtShanghai": "2026-11-14T21:57:19+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121603281424134144",
+          "sourceVideoCount": 1,
+          "caseId": "max-shelby-fable",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "sourceUrl": "https://x.com/Trace_AR/status/2121284000232714559",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 100670,
+          "sha256": "0c639376566139a0cc10442743ce7e8faea43e77f71c0a9bd3f6046475bb3578",
+          "createdAtShanghai": "2026-11-14T00:48:11+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121283720644644864",
+          "sourceVideoCount": 1,
+          "caseId": "trace-lunch-spot-fable",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "sourceUrl": "https://x.com/MengTo/status/2121896633848017145",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 281126,
+          "sha256": "2d3399e40afae787d202dddc0773116180feee63ce2ecfd506a34810994c3579",
+          "createdAtShanghai": "2026-11-15T17:22:35+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121896455816548352",
+          "sourceVideoCount": 1,
+          "caseId": "mengto-dark-fantasy-fable",
+          "originalHtmlMediaMatched": true
+        }
+      ],
+      "completeSourceClips": 3,
+      "newMediaFiles": 6,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-fable-5-2-2026-11-16",
+      "limits": [
+        "Fil is the creator’s production tool in the linked follow-up. It is not a playable URL for the game.",
+        "No first-party Xiaohongshu or Bilibili work was selected for this launch.",
+        "Blender render or WebGL verification does not reproduce the generation process. Mixed-model attribution follows creators."
+      ]
     }
   ]
 }

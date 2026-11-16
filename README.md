@@ -1,22 +1,36 @@
 <div align="center">
 
-# Awesome GPT-6 Astra 3D
+# Awesome GPT-6 Astra & Claude Fable 5.2 3D
 
 ### 找到下一次三维创作的起点：公开工程、试玩入口与完整录像。
 
 从 Blender 模型到 Three.js 游戏、建筑漫游与机械拆解。先看作品，再找原作者、工程文件和制作过程，选择一个小改动开始。
 
-**[浏览作品库](https://carpentry-liu.github.io/awesome-astra-3d/) · [三条上手路线](START_HERE.md) · [最新收录](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [提交案例](CONTRIBUTING.md)**
+**[浏览作品库](https://carpentry-liu.github.io/awesome-astra-3d/) · [Fable 5.2 专区](https://carpentry-liu.github.io/awesome-astra-3d/?group=fable#collection) · [三条上手路线](START_HERE.md) · [最新收录](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [提交案例](CONTRIBUTING.md)**
 
 简体中文 · [English README](README.en.md) · [English website](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-11-16（Asia/Shanghai）**：**480 条 Astra 案例** · **123 条源码 / 工程** · **135 个演示入口** · **262 个完整视频**。另有 **12 件 GIF 动图** 与 **12 条独立方法参考**，不计入 Astra 数量。
+更新于 **2026-11-16（Asia/Shanghai）** · **480** 条 Astra 案例（123 条源码 / 工程、135 个演示入口、262 个完整视频） · **6** 条 Fable 5.2 案例 · **12** 件 GIF 动图 · **12** 条方法参考。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
+
+## Claude Fable 5.2 · 三维作品
+
+[浏览全部 Fable 5.2 作品](https://carpentry-liu.github.io/awesome-astra-3d/?group=fable#collection) · [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/?group=fable&resource=video#collection) · [Anthropic 发布说明](https://www.anthropic.com/claude-fable-and-mythos-5-2)
+
+| 日落浮岛 · RealCodeBear | 达芬奇机械手稿 · coding-nanami |
+| --- | --- |
+| [![日落浮岛 · RealCodeBear](https://realcodebear.github.io/blender-fable-5.2/img/s2_v2.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/realcodebear-blender-island-fable/) | [![达芬奇机械手稿 · coding-nanami](https://raw.githubusercontent.com/coding-nanami/davinci-mechanics/main/docs/media/orni.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/nanami-davinci-mechanics-fable/) |
+| [看两版对照](https://realcodebear.github.io/blender-fable-5.2/#island) · [下载 .blend](https://realcodebear.github.io/blender-fable-5.2/blend/S2_FloatingIsland_v2.blend) | [动手拆解](https://davinci-mechanics.vercel.app/) · [查看源码](https://github.com/coding-nanami/davinci-mechanics) |
+
+| Shelby GT500 · Max | 照片变 AR 导览 · Trace |
+| --- | --- |
+| [![Shelby GT500 · Max](https://pbs.twimg.com/amplify_video_thumb/2121603281424134144/img/jzRnrgAr1ABDjmjb.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/max-shelby-fable/) | [![照片变 AR 导览 · Trace](https://pbs.twimg.com/amplify_video_thumb/2121283720644644864/img/eJZYdM4iRXfDyKw8.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/trace-lunch-spot-fable/) |
+| [播放完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/max-shelby-fable/#videos) · [建模提示词](https://x.com/maxt3chno/status/2121603721742127142) | [播放完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/trace-lunch-spot-fable/#videos) · [作者原帖](https://x.com/Trace_AR/status/2121284000232714559) |
 
 ## GIF 动图 · GPT-Image-2.6
 
@@ -67,11 +81,11 @@ GIF 分类预览与详情自动播放，支持停止与播放。系统开启减�
 <details>
 <summary>查看案例区、手机与作品详情实拍 · 2026-11-16</summary>
 
-[![今日新增 Astra 作品与完整录像](docs/media/collection-2026-11-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![Fable 5.2 作品与材料筛选](docs/media/collection-2026-11-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?group=fable#collection)
 
-![手机端：精选作品与材料导航](docs/media/mobile-2026-11-16.jpg)
+![手机端 Fable 5.2 分类与材料导航](docs/media/mobile-2026-11-16.jpg)
 
-[![窗台小猫 GIF 的独立作品页](docs/media/case-2026-11-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/vinano-window-kitten-gif/)
+[![达芬奇机械手稿的独立作品页](docs/media/case-2026-11-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/nanami-davinci-mechanics-fable/)
 
 </details>
 
@@ -109,14 +123,14 @@ Astra 一栏支持旋转与缩放，也可下载作者的 GLB。
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
+| [日落浮岛：两版 Blender 场景如何迭代](https://carpentry-liu.github.io/awesome-astra-3d/cases/realcodebear-blender-island-fable/) | RealCodeBear | [演示](https://realcodebear.github.io/blender-fable-5.2/#island) · [源码](https://github.com/realcodebear/blender-fable-5.2) · [原始来源](https://github.com/realcodebear/blender-fable-5.2) |
+| [达芬奇机械手稿：从笔绘到可拆解三维模型](https://carpentry-liu.github.io/awesome-astra-3d/cases/nanami-davinci-mechanics-fable/) | coding-nanami / u/Sufficient_Nobody477 | [演示](https://davinci-mechanics.vercel.app/) · [源码](https://github.com/coding-nanami/davinci-mechanics) · [原始来源](https://www.reddit.com/r/TopologyAI/comments/1xvghw6/used_fable_52_to_build_an_interactive_3d_da_vinci/) |
+| [Yonkers Rises：纽约地图站起来走路](https://carpentry-liu.github.io/awesome-astra-3d/cases/simonw-yonkers-fable/) | Simon Willison | [演示](https://tools.simonwillison.net/yonkers-rises) · [源码](https://github.com/simonw/tools/blob/ffe3233016ea2f4805e35adcfb8745ea26c755dd/yonkers-rises.html) · [原始来源](https://simonwillison.net/2026/Nov/10/yonkers-rises/) |
+| [Shelby GT500：参照多视图在 Blender 里建车](https://carpentry-liu.github.io/awesome-astra-3d/cases/max-shelby-fable/) | Max / @maxt3chno | [原始来源](https://x.com/maxt3chno/status/2121603388009775599) |
+| [把常去的午餐店做成三维模型与 AR 导览](https://carpentry-liu.github.io/awesome-astra-3d/cases/trace-lunch-spot-fable/) | Trace / @Trace_AR | [原始来源](https://x.com/Trace_AR/status/2121284000232714559) |
+| [暗黑风浏览器游戏：从灰盒到布光与关卡](https://carpentry-liu.github.io/awesome-astra-3d/cases/mengto-dark-fantasy-fable/) | Meng To / @MengTo | [原始来源](https://x.com/MengTo/status/2121896633848017145) |
 | [竞速无人机：机架与摄像头的三维装配演示](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-racing-drone/) | Havis \| Claude Code / @HavisT83099 | [原始来源](https://x.com/HavisT83099/status/2122110265499988342) |
 | [街角的复古电车：同一主题的四种三维实现](https://carpentry-liu.github.io/awesome-astra-3d/cases/lummox-vintage-tram/) | Lummox / @Lummox_eth | [原始来源](https://x.com/Lummox_eth/status/2121920575517962425) |
-| [微缩罗马竞技场：从城墙拱廊到场内视角](https://carpentry-liu.github.io/awesome-astra-3d/cases/rubens-mini-colosseum/) | Rubens Soto \| AI & SaaS / @rubenssoto_ai | [原始来源](https://x.com/rubenssoto_ai/status/2121792804301209874) |
-| [机械打字机：可旋转的 Blender 重建与 GLB](https://carpentry-liu.github.io/awesome-astra-3d/cases/frontier3d-typewriter/) | Frontier3DBench / Einsia | [演示](https://lab.einsia.ai/frontier3dbench/#case-typewriter) · [源码](https://github.com/Einsia/Frontier3D) · [原始来源](https://lab.einsia.ai/frontier3dbench/#case-typewriter) |
-| [V8 引擎装配：缸体、皮带与橙色排气管](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-v8-engine/) | Havis \| Claude Code / @HavisT83099 | [原始来源](https://x.com/HavisT83099/status/2121959358300819498) |
-| [银色机械天鹅：展开金属翼再俯向水面](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-clockwork-swan/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2121320945570984394) |
-| [毛绒小龙：在程序化角色里切换材质与配色](https://carpentry-liu.github.io/awesome-astra-3d/cases/andriy-plush-dragon/) | AndrIy / @Andr1ycp | [原始来源](https://x.com/Andr1ycp/status/2120987887516909855) |
-| [窗台小猫：轻甩尾巴与眨眼的九帧微动](https://carpentry-liu.github.io/awesome-astra-3d/cases/vinano-window-kitten-gif/) | ViNano AI | [GIF](https://img.vinano.ai/mode-img/gif_generator/gif_generator_case01.gif) · [原始来源](https://vinano.ai/gif-generator) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)

@@ -3,6 +3,14 @@ export const SITE_URL = 'https://carpentry-liu.github.io/awesome-astra-3d/';
 export const REPOSITORY_URL =
   'https://github.com/carpentry-liu/awesome-astra-3d';
 export const PAGE_SIZE = 36;
+export const CASE_GROUPS = /** @type {const} */ ([
+  'astra',
+  'fable',
+  'gif',
+  'reference',
+]);
+export const FABLE_RELEASE_URL =
+  'https://www.anthropic.com/claude-fable-and-mythos-5-2';
 
 export function assertCaseId(id) {
   if (typeof id !== 'string' || !/^[a-z0-9][a-z0-9-]*$/.test(id))

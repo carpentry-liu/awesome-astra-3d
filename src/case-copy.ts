@@ -99,6 +99,10 @@ const statusCopy: Record<
       '来源明确提到 Astra；具体模型设置以原文为准，未独立复现。',
       'The source explicitly mentions Astra. Consult the original model settings; the work is not independently reproduced.',
     ],
+    'explicit-fable': [
+      '作者明确提到 Claude Fable 5.2，设置和工具分工见原始说明。',
+      'The creator explicitly names Claude Fable 5.2. See their original notes for settings and tool roles.',
+    ],
     'source-available-author-attributed': [
       '作者公开源码并提供模型归属声明；本库未独立复现。',
       'Public source code and a creator attribution statement are available; this collection has not independently reproduced the work.',
