@@ -14,6 +14,7 @@ const safe = (s) =>
     .replaceAll('|', '\\|')
     .replaceAll('\n', ' ');
 const astra = data.filter((c) => c.group === 'astra');
+const fable = data.filter((c) => c.group === 'fable');
 const gif = data.filter((c) => c.group === 'gif');
 const references = data.filter((c) => c.group === 'reference');
 const latest = data
@@ -29,6 +30,7 @@ const demoCount = astra.filter((c) => c.demoUrl).length;
 let text = `# 案例目录\n\n由 \`data/cases.json\` 生成。最近核查：${latest}。[上手路线](START_HERE.md) · [最新收录](UPDATES.md)。作品归属基于公开来源，不代表独立复现。\n\n`;
 for (const [group, title] of [
   ['astra', 'GPT-6 Astra 案例'],
+  ['fable', 'Claude Fable 5.2 案例'],
   ['gif', 'GPT-Image-2.6 GIF 动图'],
   ['reference', '独立方法参考'],
 ]) {
@@ -65,6 +67,7 @@ for (const date of [...new Set(data.map((c) => c.addedAt))].sort((a, b) =>
         c.repositoryUrl ? '源码 / 工程' : null,
         c.demoUrl ? '演示入口' : null,
         c.archivedVideos?.length ? '完整视频' : null,
+        c.group === 'fable' ? 'Fable 5.2' : null,
         c.animatedGif ? 'GIF 动图（独立分组）' : null,
         c.promptUrl ? '提示词 / 过程' : null,
       ]
@@ -78,11 +81,11 @@ fs.writeFileSync(new URL('UPDATES.md', root), updates.trimEnd() + '\n');
 for (const [file, summary] of [
   [
     'README.md',
-    `截至 **${latest}（Asia/Shanghai）**：**${astra.length} 条 Astra 案例** · **${sourceCount} 条源码 / 工程** · **${demoCount} 个演示入口** · **${videoCount} 个完整视频**。另有 **${gif.length} 件 GIF 动图** 与 **${references.length} 条独立方法参考**，不计入 Astra 数量。`,
+    `更新于 **${latest}（Asia/Shanghai）** · **${astra.length}** 条 Astra 案例（${sourceCount} 条源码 / 工程、${demoCount} 个演示入口、${videoCount} 个完整视频） · **${fable.length}** 条 Fable 5.2 案例 · **${gif.length}** 件 GIF 动图 · **${references.length}** 条方法参考。`,
   ],
   [
     'README.en.md',
-    `Updated **${latest} (Asia/Shanghai)** · **${astra.length} Astra examples** · **${sourceCount} source / project links** · **${demoCount} demo links** · **${videoCount} complete videos** · **${gif.length} GIF animations** · **${references.length} separate references**.`,
+    `Updated **${latest} (Asia/Shanghai)** · **${astra.length} Astra examples** (${sourceCount} source / project links, ${demoCount} demo links, ${videoCount} complete clips) · **${fable.length} Fable 5.2 examples** · **${gif.length} GIF animations** · **${references.length} method references**.`,
   ],
 ]) {
   const url = new URL(file, root),

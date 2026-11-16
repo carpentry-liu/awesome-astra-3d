@@ -132,7 +132,7 @@ test('GIF cards receive only the playback URL; static details opt into automatic
       1,
       lang,
     );
-    assert(browse.includes('1 Astra · 1 GIF · 1 '));
+    assert.match(browse, /1 Astra · <a [^>]+>0 Fable 5\.2<\/a> · 1 GIF · 1 /u);
     assert(browse.includes('data-group="gif"'));
   }
   assert.throws(

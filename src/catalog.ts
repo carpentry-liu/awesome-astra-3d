@@ -1,8 +1,10 @@
+import { CASE_GROUPS } from './site.mjs';
+
 export type EvidenceLevel = 'official' | 'author' | 'secondary' | 'reference';
 export type ArchivedVideo = {label?:string;posterUrl?:string;playbackUrl:string;downloadUrl:string;durationSeconds:number;bytes:number;sha256:string;sourceUrl:string};
 export type AnimatedGif = {url:string;frames:number;durationMs:number;width:number;height:number;bytes:number;sha256:string;checkedAt:string};
 export type Case = {
- id:string; title:string; titleEn:string|null; group:'astra'|'gif'|'reference'; category:string; platform:string; platforms:string[]; author:string|null;
+ id:string; title:string; titleEn:string|null; group:(typeof CASE_GROUPS)[number]; category:string; platform:string; platforms:string[]; author:string|null;
  sourceUrl:string; sourceDate:string|null; secondaryPublishedAt:string|null; observedAt:string; addedAt:string; modelLabel:string; evidenceLevel:EvidenceLevel; evidenceStatus:string; evidenceNote:string; sourceAccess:string;
  summary:string; outputType:string[]; promptAvailability:string; promptExcerpt:string|null; promptSummary:string|null; promptUrl:string|null;
  imageUrl:string|null; imageKind:string; imageCaption:string; demoUrl:string|null; videoUrl:string|null; repositoryUrl:string|null; evidenceUrls:string[]; licenseNotes:string; outcome:string; archivedVideos?:ArchivedVideo[]; animatedGif?:AnimatedGif;
@@ -39,7 +41,7 @@ export function readCatalogSearch(search:string):Required<Filters>{
  for(const [field,param] of Object.entries(searchFields)){
   const value=params.get(param);if(value!==null)result[field as keyof Filters]=value.slice(0,256);
  }
- if(!['astra','gif','reference','about'].includes(result.group))result.group='astra';
+ if(result.group!=='about'&&!CASE_GROUPS.some((group)=>group===result.group))result.group='astra';
  if(!Object.hasOwn(resourceLabels,result.resource))result.resource='all';
  if(!['curated','newest'].includes(result.order))result.order='curated';
  return result;
@@ -56,7 +58,7 @@ export function validateSearch(input:unknown):Filters{
  if(!input||typeof input!=='object'||Array.isArray(input))throw new Error('Expected a search object');
  const obj=input as Record<string,unknown>;
  for(const [key,value] of Object.entries(obj)){if(!Object.hasOwn(searchFields,key)||typeof value!=='string')throw new Error('Unknown field or non-string value');}
- if(obj.group && !['astra','gif','reference'].includes(obj.group as string))throw new Error('Unknown group');
+ if(obj.group && !CASE_GROUPS.some((group)=>group===obj.group))throw new Error('Unknown group');
  if(obj.resource&&!Object.hasOwn(resourceLabels,obj.resource as string))throw new Error('Unknown resource');
  if(obj.order&&!['curated','newest'].includes(obj.order as string))throw new Error('Unknown order');
  return obj as Filters;

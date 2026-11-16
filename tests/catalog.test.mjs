@@ -26,6 +26,17 @@ test('reference selection has separate counts', () => {
     cases.filter((c) => c.group === 'reference').length,
   );
 });
+test('Fable 5.2 links preserve locale and scope keyword and material filters', () => {
+  const target = collectionHref('source', 'newest', '?lang=en&group=gif&q=kitten', 'fable');
+  assert.equal(target, './?lang=en&group=fable&resource=source&order=newest#collection');
+  const filters = readCatalogSearch(target.split('#')[0].slice(2));
+  assert.equal(filters.group, 'fable');
+  assert.equal(filters.query, '');
+  assert.deepEqual(validateSearch({ group: 'fable' }), { group: 'fable' });
+  const matches = filterCases(makeCatalogIndex(cases), { ...filters, query: 'realcodebear blender' });
+  assert(matches.length > 0);
+  assert(matches.every((record) => record.group === 'fable' && record.repositoryUrl));
+});
 test('search combines words across author and output fields', () => {
   assert(
     filterCases(cases, { query: 'SIMON blender' }).some(

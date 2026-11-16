@@ -554,6 +554,39 @@
 | [J 型挂钩：OpenSCAD 打印设计对照](https://x.com/WescheNex1q/status/2104590493191479337) | Wësche / @WescheNex1q · X | 转引待复核 | [提示词/过程](https://x.com/WescheNex1q/status/2104590493191479337) |
 | [三个可编辑三维项目：别墅建筑、递归电影与涡轮 CAD](https://github.com/az9713/gpt-6-3d-projects) | az9713 · GitHub | 作者自述 | [在线作品](https://az9713.github.io/gpt-6-3d-projects/) · [源码](https://github.com/az9713/gpt-6-3d-projects) |
 
+## Claude Fable 5.2 案例（6）
+
+### Blender 建模
+
+| 作品 | 作者 / 来源 | 证据 | 产物与过程 |
+|---|---|---|---|
+| [日落浮岛：两版 Blender 场景如何迭代](https://github.com/realcodebear/blender-fable-5.2) | RealCodeBear · GitHub | 作者自述 | [在线作品](https://realcodebear.github.io/blender-fable-5.2/#island) · [源码](https://github.com/realcodebear/blender-fable-5.2) · [提示词/过程](https://realcodebear.github.io/blender-fable-5.2/#prompts) |
+| [Shelby GT500：参照多视图在 Blender 里建车](https://x.com/maxt3chno/status/2121603388009775599) | Max / @maxt3chno · X | 作者自述 | [视频](https://x.com/maxt3chno/status/2121603388009775599) · [提示词/过程](https://x.com/maxt3chno/status/2121603721742127142) |
+
+### 拆解与剖面
+
+| 作品 | 作者 / 来源 | 证据 | 产物与过程 |
+|---|---|---|---|
+| [达芬奇机械手稿：从笔绘到可拆解三维模型](https://www.reddit.com/r/TopologyAI/comments/1xvghw6/used_fable_52_to_build_an_interactive_3d_da_vinci/) | coding-nanami / u/Sufficient_Nobody477 · Reddit | 作者自述 | [在线作品](https://davinci-mechanics.vercel.app/) · [源码](https://github.com/coding-nanami/davinci-mechanics) · [提示词/过程](https://www.reddit.com/r/TopologyAI/comments/1xvghw6/used_fable_52_to_build_an_interactive_3d_da_vinci/) |
+
+### 程序化场景
+
+| 作品 | 作者 / 来源 | 证据 | 产物与过程 |
+|---|---|---|---|
+| [Yonkers Rises：纽约地图站起来走路](https://simonwillison.net/2026/Nov/10/yonkers-rises/) | Simon Willison · 个人网站 | 作者自述 | [在线作品](https://tools.simonwillison.net/yonkers-rises) · [源码](https://github.com/simonw/tools/blob/ffe3233016ea2f4805e35adcfb8745ea26c755dd/yonkers-rises.html) · [提示词/过程](https://claude.ai/share/97443910-2e0a-4e17-9b9e-11d14d8ff65c) |
+
+### 建筑可视化
+
+| 作品 | 作者 / 来源 | 证据 | 产物与过程 |
+|---|---|---|---|
+| [把常去的午餐店做成三维模型与 AR 导览](https://x.com/Trace_AR/status/2121284000232714559) | Trace / @Trace_AR · X | 作者自述 | [视频](https://x.com/Trace_AR/status/2121284000232714559) |
+
+### 3D 游戏
+
+| 作品 | 作者 / 来源 | 证据 | 产物与过程 |
+|---|---|---|---|
+| [暗黑风浏览器游戏：从灰盒到布光与关卡](https://x.com/MengTo/status/2121896633848017145) | Meng To / @MengTo · X | 作者自述 | [视频](https://x.com/MengTo/status/2121896633848017145) · [提示词/过程](https://x.com/MengTo/status/2121896633848017145) |
+
 ## GPT-Image-2.6 GIF 动图（12）
 
 ### 角色动图

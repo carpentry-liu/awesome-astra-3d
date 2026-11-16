@@ -213,6 +213,11 @@ for (const language of ['zh', 'en']) {
         ),
         `Reference is not distinguished: ${record.id}`,
       );
+    if (record.group === 'fable')
+      assert(
+        page.includes(language === 'en' ? 'Claude Fable 5.2 example' : 'Claude Fable 5.2 案例'),
+        `Missing Fable 5.2 attribution in ${language}: ${record.id}`,
+      );
     pageCount++;
   }
   for (const topic of TOPICS) {

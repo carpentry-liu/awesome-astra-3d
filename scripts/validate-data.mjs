@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import { resolveArchivedVideo } from './video-contract.mjs';
 import { validateAnimatedGif } from './gif-contract.mjs';
-import { assertCaseId } from '../src/site.mjs';
+import { assertCaseId, CASE_GROUPS } from '../src/site.mjs';
 const cases = JSON.parse(
   fs.readFileSync(new URL('../data/cases.json', import.meta.url), 'utf8'),
 );
@@ -29,7 +29,7 @@ for (const c of cases) {
     'licenseNotes',
   ])
     assert(typeof c[k] === 'string' && c[k].trim(), `${c.id}: missing ${k}`);
-  assert(['astra', 'gif', 'reference'].includes(c.group));
+  assert(CASE_GROUPS.includes(c.group), `${c.id}: invalid case group`);
   validateAnimatedGif(c);
   assert(
     ['official', 'author', 'secondary', 'reference'].includes(c.evidenceLevel),
@@ -40,6 +40,10 @@ for (const c of cases) {
   );
   if (c.group === 'astra')
     assert(/astra/i.test(c.modelLabel), `${c.id}: no Astra statement`);
+  if (c.group === 'fable') {
+    assert(/\bfable\s+5\.2(?![.\d])/i.test(c.modelLabel), `${c.id}: no Fable 5.2 statement`);
+    assert(['official', 'author'].includes(c.evidenceLevel), `${c.id}: Fable attribution needs a primary source`);
+  }
   for (const k of ['sourceDate', 'secondaryPublishedAt'])
     assert(
       c[k] === null || /^\d{4}-\d{2}-\d{2}$/.test(c[k]),
@@ -112,6 +116,5 @@ for (const c of cases)
   for (const video of c.archivedVideos ?? []) {
     resolveArchivedVideo(c.id, video, media);
   }
-console.log(
-  `Validated ${cases.length} records: ${cases.filter((c) => c.group === 'astra').length} Astra, ${cases.filter((c) => c.group === 'reference').length} references, ${cases.filter((c) => c.group === 'gif').length} GIFs; URLs, provenance, dates and media types checked.`,
-);
+const counts = CASE_GROUPS.map((group) => `${cases.filter((c) => c.group === group).length} ${group}`);
+console.log(`Validated ${cases.length} records: ${counts.join(', ')}; URLs, provenance, dates and media types checked.`);

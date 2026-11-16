@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://carpentry-liu.github.io/awesome-astra-3d/</loc><lastmod>2026-11-16</lastmod></url>
+<url><loc>https://carpentry-liu.github.io/awesome-astra-3d/cases/realcodebear-blender-island-fable/</loc><lastmod>2026-11-16</lastmod></url>
+<url><loc>https://carpentry-liu.github.io/awesome-astra-3d/cases/nanami-davinci-mechanics-fable/</loc><lastmod>2026-11-16</lastmod></url>
+<url><loc>https://carpentry-liu.github.io/awesome-astra-3d/cases/simonw-yonkers-fable/</loc><lastmod>2026-11-16</lastmod></url>
+<url><loc>https://carpentry-liu.github.io/awesome-astra-3d/cases/max-shelby-fable/</loc><lastmod>2026-11-16</lastmod></url>
+<url><loc>https://carpentry-liu.github.io/awesome-astra-3d/cases/trace-lunch-spot-fable/</loc><lastmod>2026-11-16</lastmod></url>
+<url><loc>https://carpentry-liu.github.io/awesome-astra-3d/cases/mengto-dark-fantasy-fable/</loc><lastmod>2026-11-16</lastmod></url>
 <url><loc>https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-racing-drone/</loc><lastmod>2026-11-16</lastmod></url>
 <url><loc>https://carpentry-liu.github.io/awesome-astra-3d/cases/lummox-vintage-tram/</loc><lastmod>2026-11-16</lastmod></url>
 <url><loc>https://carpentry-liu.github.io/awesome-astra-3d/cases/rubens-mini-colosseum/</loc><lastmod>2026-11-16</lastmod></url>
@@ -523,6 +529,13 @@
 <url><loc>https://carpentry-liu.github.io/awesome-astra-3d/browse/12/</loc><lastmod>2026-11-16</lastmod></url>
 <url><loc>https://carpentry-liu.github.io/awesome-astra-3d/browse/13/</loc><lastmod>2026-11-16</lastmod></url>
 <url><loc>https://carpentry-liu.github.io/awesome-astra-3d/browse/14/</loc><lastmod>2026-11-16</lastmod></url>
+<url><loc>https://carpentry-liu.github.io/awesome-astra-3d/browse/15/</loc><lastmod>2026-11-16</lastmod></url>
+<url><loc>https://carpentry-liu.github.io/awesome-astra-3d/en/cases/realcodebear-blender-island-fable/</loc><lastmod>2026-11-16</lastmod></url>
+<url><loc>https://carpentry-liu.github.io/awesome-astra-3d/en/cases/nanami-davinci-mechanics-fable/</loc><lastmod>2026-11-16</lastmod></url>
+<url><loc>https://carpentry-liu.github.io/awesome-astra-3d/en/cases/simonw-yonkers-fable/</loc><lastmod>2026-11-16</lastmod></url>
+<url><loc>https://carpentry-liu.github.io/awesome-astra-3d/en/cases/max-shelby-fable/</loc><lastmod>2026-11-16</lastmod></url>
+<url><loc>https://carpentry-liu.github.io/awesome-astra-3d/en/cases/trace-lunch-spot-fable/</loc><lastmod>2026-11-16</lastmod></url>
+<url><loc>https://carpentry-liu.github.io/awesome-astra-3d/en/cases/mengto-dark-fantasy-fable/</loc><lastmod>2026-11-16</lastmod></url>
 <url><loc>https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-racing-drone/</loc><lastmod>2026-11-16</lastmod></url>
 <url><loc>https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lummox-vintage-tram/</loc><lastmod>2026-11-16</lastmod></url>
 <url><loc>https://carpentry-liu.github.io/awesome-astra-3d/en/cases/rubens-mini-colosseum/</loc><lastmod>2026-11-16</lastmod></url>
@@ -1045,4 +1058,5 @@
 <url><loc>https://carpentry-liu.github.io/awesome-astra-3d/en/browse/12/</loc><lastmod>2026-11-16</lastmod></url>
 <url><loc>https://carpentry-liu.github.io/awesome-astra-3d/en/browse/13/</loc><lastmod>2026-11-16</lastmod></url>
 <url><loc>https://carpentry-liu.github.io/awesome-astra-3d/en/browse/14/</loc><lastmod>2026-11-16</lastmod></url>
+<url><loc>https://carpentry-liu.github.io/awesome-astra-3d/en/browse/15/</loc><lastmod>2026-11-16</lastmod></url>
 </urlset>

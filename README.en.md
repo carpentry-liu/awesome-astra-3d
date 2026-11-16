@@ -1,22 +1,36 @@
 <div align="center">
 
-# Awesome GPT-6 Astra 3D
+# Awesome GPT-6 Astra & Claude Fable 5.2 3D
 
 ### Your next 3D starting point: public projects, creator demos and complete clips.
 
 Explore Blender models, Three.js games, architectural worlds and exploded assemblies. See the result, inspect the creator's materials, then start with one small change.
 
-**[Explore the gallery](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en) · [Three starting paths](START_HERE.en.md) · [Latest additions](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection) · [Contribute](CONTRIBUTING.md)**
+**[Explore the gallery](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en) · [Fable 5.2 collection](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=fable#collection) · [Three starting paths](START_HERE.en.md) · [Latest additions](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection) · [Contribute](CONTRIBUTING.md)**
 
 [简体中文](README.md) · English · [English website](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-11-16 (Asia/Shanghai)** · **480 Astra examples** · **123 source / project links** · **135 demo links** · **262 complete videos** · **12 GIF animations** · **12 separate references**.
+Updated **2026-11-16 (Asia/Shanghai)** · **480 Astra examples** (123 source / project links, 135 demo links, 262 complete clips) · **6 Fable 5.2 examples** · **12 GIF animations** · **12 method references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
+
+## Claude Fable 5.2 · 3D works
+
+[Explore all Fable 5.2 works](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=fable#collection) · [Complete videos](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=fable&resource=video#collection) · [Anthropic release notes](https://www.anthropic.com/claude-fable-and-mythos-5-2)
+
+| Floating Island · RealCodeBear | Da Vinci’s Living Codex · coding-nanami |
+| --- | --- |
+| [![Floating Island · RealCodeBear](https://realcodebear.github.io/blender-fable-5.2/img/s2_v2.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/realcodebear-blender-island-fable/) | [![Da Vinci’s Living Codex · coding-nanami](https://raw.githubusercontent.com/coding-nanami/davinci-mechanics/main/docs/media/orni.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/nanami-davinci-mechanics-fable/) |
+| [Compare both passes](https://realcodebear.github.io/blender-fable-5.2/#island) · [Download .blend](https://realcodebear.github.io/blender-fable-5.2/blend/S2_FloatingIsland_v2.blend) | [Operate the models](https://davinci-mechanics.vercel.app/) · [Browse the source](https://github.com/coding-nanami/davinci-mechanics) |
+
+| Shelby GT500 · Max | Photo-to-AR Walkthrough · Trace |
+| --- | --- |
+| [![Shelby GT500 · Max](https://pbs.twimg.com/amplify_video_thumb/2121603281424134144/img/jzRnrgAr1ABDjmjb.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/max-shelby-fable/) | [![Photo-to-AR Walkthrough · Trace](https://pbs.twimg.com/amplify_video_thumb/2121283720644644864/img/eJZYdM4iRXfDyKw8.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/trace-lunch-spot-fable/) |
+| [Play the full video](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/max-shelby-fable/#videos) · [Read the prompt](https://x.com/maxt3chno/status/2121603721742127142) | [Play the full video](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/trace-lunch-spot-fable/#videos) · [Original post](https://x.com/Trace_AR/status/2121284000232714559) |
 
 ## Native GIF animations · GPT-Image-2.6
 
@@ -67,11 +81,11 @@ The screenshots are from the **November 16, 2026** local production build. Brows
 <details>
 <summary>Gallery, mobile and case screenshots · November 16, 2026</summary>
 
-[![New Astra works with complete source recordings](docs/media/collection-2026-11-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Fable 5.2 works and resource filters](docs/media/collection-2026-11-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=fable#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-11-16.jpg)
+![Fable 5.2 collection and resource filters on mobile](docs/media/mobile-2026-11-16.jpg)
 
-[![Windowsill kitten GIF case page](docs/media/case-2026-11-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vinano-window-kitten-gif/)
+[![Da Vinci’s Living Codex case page](docs/media/case-2026-11-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/nanami-davinci-mechanics-fable/)
 
 </details>
 
@@ -109,14 +123,14 @@ Open the Astra column to rotate the author’s model, or download its GLB.
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
+| [A Floating Island at Sunset: Two Blender Passes](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/realcodebear-blender-island-fable/) | RealCodeBear | [Demo](https://realcodebear.github.io/blender-fable-5.2/#island) · [Source](https://github.com/realcodebear/blender-fable-5.2) · [Original](https://github.com/realcodebear/blender-fable-5.2) |
+| [Da Vinci’s Living Codex: Sketch to Exploded View](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/nanami-davinci-mechanics-fable/) | coding-nanami / u/Sufficient_Nobody477 | [Demo](https://davinci-mechanics.vercel.app/) · [Source](https://github.com/coding-nanami/davinci-mechanics) · [Original](https://www.reddit.com/r/TopologyAI/comments/1xvghw6/used_fable_52_to_build_an_interactive_3d_da_vinci/) |
+| [Yonkers Rises: A City Boundary Becomes a Walking Mech](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/simonw-yonkers-fable/) | Simon Willison | [Demo](https://tools.simonwillison.net/yonkers-rises) · [Source](https://github.com/simonw/tools/blob/ffe3233016ea2f4805e35adcfb8745ea26c755dd/yonkers-rises.html) · [Original](https://simonwillison.net/2026/Nov/10/yonkers-rises/) |
+| [Shelby GT500: Modeling a Car from Reference Views](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/max-shelby-fable/) | Max / @maxt3chno | [Original](https://x.com/maxt3chno/status/2121603388009775599) |
+| [A Favorite Lunch Spot Rebuilt for an AR Walkthrough](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/trace-lunch-spot-fable/) | Trace / @Trace_AR | [Original](https://x.com/Trace_AR/status/2121284000232714559) |
+| [A Dark Fantasy Browser Game: Blockout, Lighting and Levels](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/mengto-dark-fantasy-fable/) | Meng To / @MengTo | [Original](https://x.com/MengTo/status/2121896633848017145) |
 | [Racing Drone: A 3D Frame and Camera Assembly](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-racing-drone/) | Havis \| Claude Code / @HavisT83099 | [Original](https://x.com/HavisT83099/status/2122110265499988342) |
 | [Vintage Tram at the Corner: Four 3D Approaches](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lummox-vintage-tram/) | Lummox / @Lummox_eth | [Original](https://x.com/Lummox_eth/status/2121920575517962425) |
-| [Miniature Colosseum: Exterior Arcades and Arena Views](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/rubens-mini-colosseum/) | Rubens Soto \| AI & SaaS / @rubenssoto_ai | [Original](https://x.com/rubenssoto_ai/status/2121792804301209874) |
-| [Mechanical Typewriter: An Interactive Blender Reconstruction](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/frontier3d-typewriter/) | Frontier3DBench / Einsia | [Demo](https://lab.einsia.ai/frontier3dbench/#case-typewriter) · [Source](https://github.com/Einsia/Frontier3D) · [Original](https://lab.einsia.ai/frontier3dbench/#case-typewriter) |
-| [V8 Assembly: Block, Belt and Orange Headers](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-v8-engine/) | Havis \| Claude Code / @HavisT83099 | [Original](https://x.com/HavisT83099/status/2121959358300819498) |
-| [Clockwork Swan: Silver Wings over a Reflective Basin](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-clockwork-swan/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2121320945570984394) |
-| [Plush Dragon: Material and Color Variants](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/andriy-plush-dragon/) | AndrIy / @Andr1ycp | [Original](https://x.com/Andr1ycp/status/2120987887516909855) |
-| [Windowsill Kitten: A Nine-Frame Blink and Tail Loop](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vinano-window-kitten-gif/) | ViNano AI | [GIF](https://img.vinano.ai/mode-img/gif_generator/gif_generator_case01.gif) · [Original](https://vinano.ai/gif-generator) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

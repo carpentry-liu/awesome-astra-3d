@@ -1,5 +1,5 @@
 name: 补充或更正案例
-description: 提供可追溯的 Astra 3D 作品
+description: 提供可追溯的三维作品或 GIF 动图
 title: '[case] '
 body:
   - type: input
@@ -12,7 +12,7 @@ body:
     id: evidence
     attributes:
       label: 模型声明与输出
-      description: 写明原文如何提及 Astra，输出是图片、真实三维资产还是交互网页。
+      description: 链接原文中明确的模型版本，说明输出和联合使用的工具。
     validations:
       required: true
   - type: textarea

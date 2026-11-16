@@ -28825,6 +28825,303 @@
           "archive": "docs/archive/unlisted-cases-2026-09-25.json"
         }
       ]
+    },
+    {
+      "checkedAt": "2026-11-16",
+      "round": "fable-5-2-launch",
+      "addedCaseIds": [
+        "realcodebear-blender-island-fable",
+        "nanami-davinci-mechanics-fable",
+        "simonw-yonkers-fable",
+        "max-shelby-fable",
+        "trace-lunch-spot-fable",
+        "mengto-dark-fantasy-fable"
+      ],
+      "sourceChecks": [
+        {
+          "sourceUrl": "https://x.com/maxt3chno/status/2121603388009775599",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 145283,
+          "sha256": "b65273a02e920d2af2a00fff5a3b977c8ae789261f931434ffb217cb7b5ff5e6",
+          "createdAtShanghai": "2026-11-14T21:57:19+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121603281424134144",
+          "sourceVideoCount": 1,
+          "caseId": "max-shelby-fable",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "sourceUrl": "https://x.com/Trace_AR/status/2121284000232714559",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 100670,
+          "sha256": "0c639376566139a0cc10442743ce7e8faea43e77f71c0a9bd3f6046475bb3578",
+          "createdAtShanghai": "2026-11-14T00:48:11+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121283720644644864",
+          "sourceVideoCount": 1,
+          "caseId": "trace-lunch-spot-fable",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "sourceUrl": "https://x.com/MengTo/status/2121896633848017145",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 281126,
+          "sha256": "2d3399e40afae787d202dddc0773116180feee63ce2ecfd506a34810994c3579",
+          "createdAtShanghai": "2026-11-15T17:22:35+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121896455816548352",
+          "sourceVideoCount": 1,
+          "caseId": "mengto-dark-fantasy-fable",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "key": "island-source",
+          "url": "https://raw.githubusercontent.com/realcodebear/blender-fable-5.2/main/README.md",
+          "httpStatus": 200,
+          "contentType": "text/plain",
+          "bytes": 4131,
+          "sha256": "9566df54a9efa7545934fc4f1b158867991e0bdaa01180500ec289336eb380be",
+          "fullGet": true
+        },
+        {
+          "key": "island-preview",
+          "url": "https://realcodebear.github.io/blender-fable-5.2/img/s2_v2.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 434847,
+          "sha256": "391455ddb004e61895ced554e7f4debea109f1b315a1a694faac7eca0619634a",
+          "fullGet": true,
+          "decoded": true,
+          "dimensions": [
+            1920,
+            1080
+          ]
+        },
+        {
+          "key": "island-project",
+          "url": "https://realcodebear.github.io/blender-fable-5.2/blend/S2_FloatingIsland_v2.blend",
+          "httpStatus": 200,
+          "contentType": "application/x-blender",
+          "bytes": 1335021,
+          "sha256": "25423c917e4ab4c234d74d837394a71094142a67cb01d287e524be596e405b19",
+          "fullGet": true,
+          "fileSignature": "28b52ffda04106"
+        },
+        {
+          "key": "island-demo",
+          "url": "https://realcodebear.github.io/blender-fable-5.2/",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 98824,
+          "sha256": "9d6c70cd62650cd2daa91c6a01d94ea9615c4d7bd46e88c8da3cd3f31b613880",
+          "fullGet": true
+        },
+        {
+          "key": "davinci-preview",
+          "url": "https://raw.githubusercontent.com/coding-nanami/davinci-mechanics/main/docs/media/orni.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 73751,
+          "sha256": "c932fbc2986f56da1e14a3c7a41bc59c7b582c1b5c17dba0bc4de36bf042e2d1",
+          "fullGet": true,
+          "decoded": true,
+          "dimensions": [
+            900,
+            594
+          ]
+        },
+        {
+          "key": "davinci-source",
+          "url": "https://raw.githubusercontent.com/coding-nanami/davinci-mechanics/main/index.html",
+          "httpStatus": 200,
+          "contentType": "text/plain",
+          "bytes": 235464,
+          "sha256": "bccadf4169ce64663f1fe899b3d0d077dd36a03bf92425266477ca9636f8f73e",
+          "fullGet": true
+        },
+        {
+          "key": "davinci-demo",
+          "url": "https://davinci-mechanics.vercel.app/",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 153641,
+          "sha256": "15dfcadd795885ee321a7da91a4a57ee06d976442855d42224e1f260fe33df05",
+          "fullGet": true
+        },
+        {
+          "key": "yonkers-demo",
+          "url": "https://tools.simonwillison.net/yonkers-rises",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 53552,
+          "sha256": "8164d11c30df2b797510c1fce376ed5de108df317355709909b1fc1d2b4e7637",
+          "fullGet": true
+        },
+        {
+          "key": "yonkers-blog",
+          "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 15827,
+          "sha256": "adb861b3096fa7632ac980ee807910e53245667e093fb2e497b074547650cf56",
+          "fullGet": true
+        },
+        {
+          "key": "yonkers-source",
+          "url": "https://raw.githubusercontent.com/simonw/tools/ffe3233016ea2f4805e35adcfb8745ea26c755dd/yonkers-rises.html",
+          "httpStatus": 200,
+          "contentType": "text/plain",
+          "bytes": 53128,
+          "sha256": "3d2954a158032c7ac61f8fda8e7e1e8efa44b79876d9c4276a92fce5bbbb6896",
+          "fullGet": true
+        },
+        {
+          "key": "yonkers-prompt",
+          "url": "https://claude.ai/share/97443910-2e0a-4e17-9b9e-11d14d8ff65c",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 173554,
+          "sha256": "fd797a3c88196d2132832444da00f5176fca7debb327450cb75b2345ead1c337",
+          "fullGet": true
+        },
+        {
+          "key": "shelby-prompt",
+          "url": "https://x.com/maxt3chno/status/2121603721742127142",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 222429,
+          "sha256": "16e795bdb0602af53e9fd07d7741090a40cf33dfdc4425ce441348f2ed97b1b0",
+          "fullGet": true
+        },
+        {
+          "key": "meng-process",
+          "url": "https://x.com/MengTo/status/2121896861015658865",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 293584,
+          "sha256": "f3e4a46b1b3cdc56664dd6b4633c57b2ee13e7b293e0608c915b15cecaf04b4f",
+          "fullGet": true
+        }
+      ],
+      "previewChecks": [
+        {
+          "key": "island-preview",
+          "url": "https://realcodebear.github.io/blender-fable-5.2/img/s2_v2.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 434847,
+          "sha256": "391455ddb004e61895ced554e7f4debea109f1b315a1a694faac7eca0619634a",
+          "fullGet": true,
+          "decoded": true,
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "caseId": "realcodebear-blender-island-fable",
+          "visuallyReviewed": true
+        },
+        {
+          "key": "davinci-preview",
+          "url": "https://raw.githubusercontent.com/coding-nanami/davinci-mechanics/main/docs/media/orni.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 73751,
+          "sha256": "c932fbc2986f56da1e14a3c7a41bc59c7b582c1b5c17dba0bc4de36bf042e2d1",
+          "fullGet": true,
+          "decoded": true,
+          "dimensions": [
+            900,
+            594
+          ],
+          "caseId": "nanami-davinci-mechanics-fable",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "simonw-yonkers-fable",
+          "kind": "frame",
+          "filename": "yonkers-proof.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 146110,
+          "sha256": "f5cc0fd0728d356f4a84ff242149a5752f9def00070115a1ce5b5869a6e81999",
+          "dimensions": [
+            1280,
+            820
+          ],
+          "sourceUrl": "https://tools.simonwillison.net/yonkers-rises",
+          "previewKind": "browser-screenshot",
+          "timestampSeconds": 13.5,
+          "assetId": 753058301,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-fable-5-2-2026-11-16/yonkers-proof.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2121603281424134144/img/jzRnrgAr1ABDjmjb.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 96881,
+          "bytes": 96881,
+          "sha256": "47369380e4043130c3611333be7ab7368dd6e64e41d3f33dedc89c09d758cd29",
+          "fullGet": true,
+          "caseId": "max-shelby-fable",
+          "sourceUrl": "https://x.com/maxt3chno/status/2121603388009775599",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            750
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2121283720644644864/img/eJZYdM4iRXfDyKw8.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 113766,
+          "bytes": 113766,
+          "sha256": "57a0923e43cac29ac70321d628689f164c1aaec6d2b7e24779ac199fc9b1069b",
+          "fullGet": true,
+          "caseId": "trace-lunch-spot-fable",
+          "sourceUrl": "https://x.com/Trace_AR/status/2121284000232714559",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2121896455816548352/pu/img/64C320SXAJ7oPGQ8.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 132628,
+          "bytes": 132628,
+          "sha256": "48d65fd14cf1caf81b94b46ce233eb7c4e77ab5512901754269521dc9f29f698",
+          "fullGet": true,
+          "caseId": "mengto-dark-fantasy-fable",
+          "sourceUrl": "https://x.com/MengTo/status/2121896633848017145",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        }
+      ]
     }
   ]
 }
