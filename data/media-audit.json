@@ -83053,6 +83053,1129 @@
           "limits": "Historical videos were not downloaded or replayed in full. Image decode and bounded video endpoints only."
         }
       }
+    },
+    {
+      "checkedAt": "2026-11-16",
+      "round": "daily",
+      "scope": "Nine previews, six complete X clips, two animated GIFs and one interactive GLB. Historical sample and removal recorded.",
+      "addedCaseIds": [
+        "havis-racing-drone",
+        "lummox-vintage-tram",
+        "rubens-mini-colosseum",
+        "frontier3d-typewriter",
+        "havis-v8-engine",
+        "teddy-clockwork-swan",
+        "andriy-plush-dragon",
+        "vinano-window-kitten-gif",
+        "predis-sale-lettering-gif"
+      ],
+      "removedCaseIds": [
+        "gptblender-floor-plan-house"
+      ],
+      "previews": [
+        {
+          "caseId": "havis-racing-drone",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/havis-racing-drone-result.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 127034,
+          "sha256": "53aff0b96d9ba0ff2c38ba1d7284093a41e4c10c310fb0647f10dd6e8784b468",
+          "dimensions": [
+            1080,
+            1350
+          ],
+          "decoded": true,
+          "frames": 1,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122110197816606720/vid/avc1/1080x1350/rS-J5QiixdM2rtHK.mp4?tag=29",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true,
+          "timestampSeconds": 6.93
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2121920476813332480/img/vOyiBPqorVPC10WT.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 340102,
+          "bytes": 340102,
+          "sha256": "7b8468855ce73571f155ca0608d6c5d143f67a9c2b20f42bcae356901e799de4",
+          "fullGet": true,
+          "caseId": "lummox-vintage-tram",
+          "sourceUrl": "https://x.com/Lummox_eth/status/2121920575517962425",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2121753309639815168/img/RIttUzXqOA05U3d4.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 188374,
+          "bytes": 188374,
+          "sha256": "c64387cde923b23dc64c16f6c12c29c76e4c521af0f7caebfdb9d573fd226ad3",
+          "fullGet": true,
+          "caseId": "rubens-mini-colosseum",
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2121792804301209874",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1067,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "key": "frontier-typewriter-poster",
+          "url": "https://lab.einsia.ai/frontier3d/media/typewriter-astra.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 17145,
+          "sha256": "4aa4592e95bd21ada8351a9d116dde87b923e60d2dbb2ffd49b525e921b5780d",
+          "fullGet": true,
+          "dimensions": [
+            512,
+            320
+          ],
+          "decoded": true,
+          "frames": 1,
+          "caseId": "frontier3d-typewriter",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "havis-v8-engine",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/havis-v8-engine-result.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 236826,
+          "sha256": "a8a1c23015d2f62e5e1d33f2f81064b2dbda1956caf9becd5d157a328a1e9f7f",
+          "dimensions": [
+            1080,
+            1350
+          ],
+          "decoded": true,
+          "frames": 1,
+          "sourceUrl": "https://video.twimg.com/amplify_video/2121959268656025600/vid/avc1/1080x1350/SSPXL30jaeCb0k0L.mp4?tag=29",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true,
+          "timestampSeconds": 11.7
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2121305823423188992/img/-8SaVTk41dbma-R7.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 121262,
+          "bytes": 121262,
+          "sha256": "8e46a39361d9fa9826b3de6ba5a6c8a5a60d48e8143b7e417c36ef696f6e2911",
+          "fullGet": true,
+          "caseId": "teddy-clockwork-swan",
+          "sourceUrl": "https://x.com/teddyaisi/status/2121320945570984394",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2120987848576749568/img/qBB1R2687q4WDQNn.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 77942,
+          "bytes": 77942,
+          "sha256": "5ce7487648faf128afbe6c42ed90ccbe1e9766536fd245990444647e7d177a57",
+          "fullGet": true,
+          "caseId": "andriy-plush-dragon",
+          "sourceUrl": "https://x.com/Andr1ycp/status/2120987887516909855",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            893,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "vinano-window-kitten-gif",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/vinano-window-kitten-gif-poster.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 48140,
+          "sha256": "b888ebf8b589ac832c1b8df1643559f17b3a2ddff8a8bb5f8c828587e631c3a8",
+          "dimensions": [
+            414,
+            411
+          ],
+          "decoded": true,
+          "frames": 1,
+          "sourceUrl": "https://img.vinano.ai/mode-img/gif_generator/gif_generator_case01.gif",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true,
+          "frameIndex": 0
+        },
+        {
+          "caseId": "predis-sale-lettering-gif",
+          "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/predis-sale-lettering-gif-poster.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 29936,
+          "sha256": "ba5058dae34e7ffe9e821163d91a0430dad1a55b85d57439972aa34dd7e6aec2",
+          "dimensions": [
+            1008,
+            672
+          ],
+          "decoded": true,
+          "frames": 1,
+          "sourceUrl": "https://predis.ai/assets/img/ai-models/gpt-image-2-6/sale.gif",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true,
+          "frameIndex": 0
+        }
+      ],
+      "animatedGifs": [
+        {
+          "url": "https://img.vinano.ai/mode-img/gif_generator/gif_generator_case01.gif",
+          "httpStatus": 200,
+          "contentType": "image/gif",
+          "contentLength": 655146,
+          "bytes": 655146,
+          "sha256": "bc2005f5a14b05d03bcba891d4f2be7042361cb5a9d412aee84b748a826ed5d5",
+          "fullGet": true,
+          "caseId": "vinano-window-kitten-gif",
+          "sourceUrl": "https://vinano.ai/gif-generator",
+          "dimensions": [
+            414,
+            411
+          ],
+          "frames": 9,
+          "durationMs": 1620,
+          "frameDurationsMs": [
+            180,
+            180,
+            180,
+            180,
+            180,
+            180,
+            180,
+            180,
+            180
+          ],
+          "distinctFrames": 9,
+          "loop": 0,
+          "actualImageFormat": "GIF",
+          "decoded": true,
+          "allFramesDecoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://predis.ai/assets/img/ai-models/gpt-image-2-6/sale.gif",
+          "httpStatus": 200,
+          "contentType": "image/gif",
+          "contentLength": 1011059,
+          "bytes": 1011059,
+          "sha256": "e16bc93f680ea5b9cd1dfca424554a46ae3cbc12b9bf10a679e20ffc558f274b",
+          "fullGet": true,
+          "caseId": "predis-sale-lettering-gif",
+          "sourceUrl": "https://predis.ai/ai-models/gpt-image-2-6/",
+          "dimensions": [
+            1008,
+            672
+          ],
+          "frames": 12,
+          "durationMs": 1800,
+          "frameDurationsMs": [
+            150,
+            150,
+            150,
+            150,
+            150,
+            150,
+            150,
+            150,
+            150,
+            150,
+            150,
+            150
+          ],
+          "distinctFrames": 12,
+          "loop": 0,
+          "actualImageFormat": "GIF",
+          "decoded": true,
+          "allFramesDecoded": true,
+          "visuallyReviewed": true
+        }
+      ],
+      "newVideos": [
+        {
+          "caseId": "andriy-plush-dragon",
+          "filename": "andriy-plush-dragon-1-original.mp4",
+          "kind": "original",
+          "bytes": 2692770,
+          "sha256": "9cfeeb4f9d1e78b8518b19781d1a838a281c09cb04a245abdc963a525c6b3085",
+          "durationSeconds": 12.05,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/Andr1ycp/status/2120987887516909855",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/andriy-plush-dragon-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "andriy-plush-dragon",
+          "filename": "andriy-plush-dragon-1-web.mp4",
+          "kind": "web",
+          "bytes": 475402,
+          "sha256": "4c5305d024c76b4996f3b2ef334e4cd79be373545d984aa60215a53348393412",
+          "durationSeconds": 12.05,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/Andr1ycp/status/2120987887516909855",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/andriy-plush-dragon-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "havis-racing-drone",
+          "filename": "havis-racing-drone-1-original.mp4",
+          "kind": "original",
+          "bytes": 7503983,
+          "sha256": "96ef122f01dd8990f1e6dbfd9a2e706d352c20fe4817f406658109c81ea82ab9",
+          "durationSeconds": 13.86,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/HavisT83099/status/2122110265499988342",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/havis-racing-drone-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 13.8,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "havis-racing-drone",
+          "filename": "havis-racing-drone-1-web.mp4",
+          "kind": "web",
+          "bytes": 1093224,
+          "sha256": "143fd3e13487517264047645514f916e0fc0fc31df6fcf06770d2699404de5ae",
+          "durationSeconds": 13.86,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/HavisT83099/status/2122110265499988342",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/havis-racing-drone-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 13.8,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "havis-v8-engine",
+          "filename": "havis-v8-engine-1-original.mp4",
+          "kind": "original",
+          "bytes": 12050366,
+          "sha256": "11bcabae6f516b3e5c1f977237aaf8f017c77482a16e22a2c790ec492b5ffe7e",
+          "durationSeconds": 14.47,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/HavisT83099/status/2121959358300819498",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/havis-v8-engine-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 14.4,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "havis-v8-engine",
+          "filename": "havis-v8-engine-1-web.mp4",
+          "kind": "web",
+          "bytes": 946139,
+          "sha256": "971f821b860489384a27c3a3ef21cfbf646fd0d38a82a6ef5795d97d5d7511e1",
+          "durationSeconds": 14.47,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/HavisT83099/status/2121959358300819498",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/havis-v8-engine-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 14.4,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "lummox-vintage-tram",
+          "filename": "lummox-vintage-tram-1-original.mp4",
+          "kind": "original",
+          "bytes": 16481260,
+          "sha256": "d7156a91810b5c5becacbe0e029782fa2ced7b447cb6bcdf47c2012796585e17",
+          "durationSeconds": 10.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/Lummox_eth/status/2121920575517962425",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/lummox-vintage-tram-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 10,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "lummox-vintage-tram",
+          "filename": "lummox-vintage-tram-1-web.mp4",
+          "kind": "web",
+          "bytes": 825623,
+          "sha256": "ef6ff4797955849cff075e432c2e789a8f641c01841023497d65d4032543870d",
+          "durationSeconds": 10.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/Lummox_eth/status/2121920575517962425",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/lummox-vintage-tram-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 10,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "rubens-mini-colosseum",
+          "filename": "rubens-mini-colosseum-1-original.mp4",
+          "kind": "original",
+          "bytes": 43048971,
+          "sha256": "97b718230cf0d899539d46213d9bf87851db60a7350a76c7f6dede5a16836fcc",
+          "durationSeconds": 30.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2121792804301209874",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/rubens-mini-colosseum-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 30,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "rubens-mini-colosseum",
+          "filename": "rubens-mini-colosseum-1-web.mp4",
+          "kind": "web",
+          "bytes": 1571751,
+          "sha256": "ef3cafc7d7c3ebd1dba835c9a8e4b7a98227506a5a0eaa56c5ff75a69e31c159",
+          "durationSeconds": 30.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2121792804301209874",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/rubens-mini-colosseum-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 30,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "teddy-clockwork-swan",
+          "filename": "teddy-clockwork-swan-1-original.mp4",
+          "kind": "original",
+          "bytes": 1044624,
+          "sha256": "85f53235e044bb45536457a9b5f9d212a612b06bf2e9853061beae1a409e64a2",
+          "durationSeconds": 12.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2121320945570984394",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/teddy-clockwork-swan-1-original.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "teddy-clockwork-swan",
+          "filename": "teddy-clockwork-swan-1-web.mp4",
+          "kind": "web",
+          "bytes": 251547,
+          "sha256": "f595a3362ab186317b731e5ceef1e9596ab5e5d99442a316e889c81c41a10414",
+          "durationSeconds": 12.0,
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2121320945570984394",
+          "sourceMediaIndex": 1,
+          "sourceVideoCount": 1,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/teddy-clockwork-swan-1-web.mp4",
+          "strictDecodeExitCode": 0,
+          "strictDecodeCommand": "ffmpeg -v error -xerror -err_detect explode -i FILE -f null -",
+          "complete": true,
+          "transcoded": false,
+          "sourceDurationSeconds": 12,
+          "releaseDigestMatched": true
+        }
+      ],
+      "externalResultMedia": [
+        {
+          "key": "frontier-typewriter-glb",
+          "url": "https://lab.einsia.ai/frontier3d/models/typewriter-astra.glb?v=02190fc2c95c",
+          "httpStatus": 200,
+          "contentType": "model/gltf-binary",
+          "bytes": 929256,
+          "sha256": "02190fc2c95cd726a53213a91e31e7dbb2a12c905157e8adad30b0ddb09debc5",
+          "fullGet": true,
+          "glbVersion": 2,
+          "declaredBytes": 929256,
+          "structures": {
+            "scenes": 1,
+            "nodes": 21,
+            "meshes": 21,
+            "materials": 13
+          },
+          "extensions": [
+            "KHR_draco_mesh_compression",
+            "KHR_mesh_quantization"
+          ]
+        }
+      ],
+      "historicalChecks": {
+        "images": [
+          {
+            "caseId": "havis-gaming-pc",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/havis-gaming-pc-result.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-16T01:03:44.240283+00:00",
+            "status": 200,
+            "contentType": "application/octet-stream",
+            "contentLength": 90078,
+            "bytes": 90078,
+            "sha256": "b8f341ebdecdca642686c530b18686e48f2e87a9ffcf07812b3a292ff8bb8b46",
+            "dimensions": [
+              1080,
+              1350
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "lummox-crystal-train",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2121686841367605248/img/obukcs2lvUJPEvQb.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-16T01:03:44.241424+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 373268,
+            "bytes": 373268,
+            "sha256": "75376ad06e49f45ab22886f93f47c64e964ea2cb638e539d7fc52b9a4f80ffb3",
+            "dimensions": [
+              1080,
+              1080
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "havis-tulip-windmill",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/havis-tulip-windmill-result.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-16T01:03:44.241735+00:00",
+            "status": 200,
+            "contentType": "application/octet-stream",
+            "contentLength": 265943,
+            "bytes": 265943,
+            "sha256": "c396b753034a6d8f0e6be4e3aafa352cf70ed8887bf29569b266752467cb7a77",
+            "dimensions": [
+              1080,
+              1350
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "vibeprevis-office-birthday",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/vibeprevis-office-birthday-result.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-16T01:03:44.242015+00:00",
+            "status": 200,
+            "contentType": "application/octet-stream",
+            "contentLength": 23663,
+            "bytes": 23663,
+            "sha256": "f9d09ce10d0c5f6cccaf41e8aa9d639bf14d5cb61fa738f301e8513018e04213",
+            "dimensions": [
+              640,
+              360
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-giant-clam",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2121497590634266625/img/Oh0sSg9atC_IZK2T.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-16T01:03:44.242430+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 111825,
+            "bytes": 111825,
+            "sha256": "36e1c8525439ba1b9750daf53b0e9d32fa5437710821e1b0ffcac369c5624f46",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-record-tonearm",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2121497199465189376/img/dgxcAvbTYYHQlO4g.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-16T01:03:45.865840+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 105811,
+            "bytes": 105811,
+            "sha256": "c5087889b07c2e329d12400a8867b58133de9cd04e323513ec8d25fc3bbb4f86",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-teapot-pour",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2121306767087017984/img/9T6B2w2bXIGMlFkY.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-16T01:03:45.873455+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 85647,
+            "bytes": 85647,
+            "sha256": "78006bba613982a51d9c1a83493f32a725770e48c93753355810c68a4d3bee95",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-snow-funicular",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2121063004808847360/img/u0F7_uh4OceGFZ1V.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-16T01:03:46.850551+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 119338,
+            "bytes": 119338,
+            "sha256": "fcea21ab7254e083276d064730af3364d1a50a394cad00f2745845f876a17a35",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-drop-hammer",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2120931569271754752/img/jR_eo7Y80MoFFTHt.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-16T01:03:46.957022+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 114619,
+            "bytes": 114619,
+            "sha256": "9536b56b7cdf0c3e7d0865442f85a779a4e922fd94b9cdc6bf575b4bf25bc45b",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "teddy-moroccan-shutters",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2120713889063256065/img/7w5okATfacXgRmmJ.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-16T01:03:47.146944+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 157408,
+            "bytes": 157408,
+            "sha256": "19730ebc11a9f9df840a0a7c7f98ad667472eb9eef326fa1fd8f7d0d6c57793b",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "havis-fog-castle",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-13/havis-fog-castle-result-frame.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-16T01:03:47.941215+00:00",
+            "status": 200,
+            "contentType": "application/octet-stream",
+            "contentLength": 268158,
+            "bytes": 268158,
+            "sha256": "59d465a9ac9c748207bde021d8ba4c4275ec9107c2e4b0d6e052743915294ac5",
+            "dimensions": [
+              1080,
+              1350
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "timjayas-cow-cycle-comparison",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2115074253842460672/img/_LRNu3iUMdXYnv6p.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-16T01:03:48.153614+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 46679,
+            "bytes": 46679,
+            "sha256": "d9524db110a1e5f52601425074815dd9bfd0ed01fe6b55fd94f2b0646c524447",
+            "dimensions": [
+              1200,
+              625
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "shimecki-apartment-tile-walkthrough",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2100220843775156224/img/QCFfTKkNlB-R01D9.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-16T01:03:48.358057+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 101567,
+            "bytes": 101567,
+            "sha256": "0653f3d309b3aa21c54ae9b90fb1def11f410764b84d7c3bf0493febf985d364",
+            "dimensions": [
+              1140,
+              674
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "miguelsolorio-hallowmere",
+            "url": "https://raw.githubusercontent.com/miguelsolorio/hallowmere/main/screenshots/gameplay.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-16T01:03:48.731378+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 88657,
+            "bytes": 88657,
+            "sha256": "61cb9026bff294646703f607dbb69fbd755c3dfa861009be1dd21bdf9fa37c04",
+            "dimensions": [
+              1280,
+              720
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "vib3coded-villa-jelly",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2107617007289937920/img/U87PZ2yFlwt-4M3d.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-16T01:03:49.324639+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 106599,
+            "bytes": 106599,
+            "sha256": "6ce633fe97b5a5b059a49ddc825a9bb579de271bbc3bfa3ab7e53c0ec788c3ee",
+            "dimensions": [
+              948,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "gptblender-floor-plan-house",
+            "url": "https://gptblender.com/assets/floor-plan-guide/optimized/04-apartment-overview-soft-warm-1280.webp",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-16T01:03:49.658057+00:00",
+            "errors": [
+              "HTTP Error 404: Not Found",
+              "HTTP Error 404: Not Found"
+            ],
+            "result": "unresolved"
+          },
+          {
+            "caseId": "vib3-squid-shoal",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2098042921576734720/img/8Go_80pnT47iG_p5.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-16T01:03:49.991976+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 40373,
+            "bytes": 40373,
+            "sha256": "552888bf6cc9171a3f86f851d5e9b13409a9127872255263c2f507b534d9dc2e",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "goan-temple-heaven",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2097323160601546752/img/2k2LggwN0cvh5mVI.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-16T01:03:50.278018+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 61017,
+            "bytes": 61017,
+            "sha256": "80965635f0ed1863d0b21af2232e7e2632877e9c3f01f49ecdb13657c875cd91",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "simonsmith-lego-minifig",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2096766389113556999/img/hN9hsB2OZfAAoSY5.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-16T01:03:50.562267+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 19844,
+            "bytes": 19844,
+            "sha256": "2ae7fbc834e1546391f3fb60bec3ccb7ddcacc07ebe21f356e2211abf05d9f5b",
+            "dimensions": [
+              1200,
+              675
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          },
+          {
+            "caseId": "aibattle-sonic-godot",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2095992908448944130/img/v8BSAp4Xt5knPeV0.jpg",
+            "method": "complete HTTP GET and full Pillow decode",
+            "checkedAt": "2026-11-16T01:03:50.584439+00:00",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "contentLength": 156398,
+            "bytes": 156398,
+            "sha256": "98895f9ea13b5768341dde1695a82687f878f44f3ecd3dca38a5487483ed8f59",
+            "dimensions": [
+              900,
+              1200
+            ],
+            "format": "JPEG",
+            "frames": 1,
+            "decoded": true,
+            "attempt": 1,
+            "result": "image-verified"
+          }
+        ],
+        "videoEndpoints": [
+          {
+            "caseId": "havis-gaming-pc",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/havis-gaming-pc-1-web.mp4",
+            "expectedBytes": 871583,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-16T01:03:51.981541+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/871583",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "havis-gaming-pc",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/havis-gaming-pc-1-original.mp4",
+            "expectedBytes": 6107869,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-16T01:03:51.981677+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/6107869",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "lummox-crystal-train",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/lummox-crystal-train-1-web.mp4",
+            "expectedBytes": 875709,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-16T01:03:51.981773+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/875709",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "lummox-crystal-train",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/lummox-crystal-train-1-original.mp4",
+            "expectedBytes": 5279744,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-16T01:03:51.981836+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/5279744",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "havis-tulip-windmill",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/havis-tulip-windmill-1-web.mp4",
+            "expectedBytes": 903229,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-16T01:03:51.981914+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/903229",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "havis-tulip-windmill",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/havis-tulip-windmill-1-original.mp4",
+            "expectedBytes": 9680423,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-16T01:03:52.973412+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/9680423",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "maker-evan-apache",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/maker-evan-apache-1-web.mp4",
+            "expectedBytes": 571183,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-16T01:03:52.985275+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/571183",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "maker-evan-apache",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-10-11/maker-evan-apache-1-original.mp4",
+            "expectedBytes": 3559886,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-16T01:03:52.989529+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/3559886",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "aibattle-sonic-godot",
+            "url": "https://carpentry-liu.github.io/awesome-astra-3d/videos/aibattle-sonic-godot-1-web.mp4",
+            "expectedBytes": 8289737,
+            "endpointKind": "Pages playback",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-16T01:03:53.961242+00:00",
+            "status": 206,
+            "contentType": "video/mp4",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/8289737",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          },
+          {
+            "caseId": "aibattle-sonic-godot",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-09-06/aibattle-sonic-godot-1-original.mp4",
+            "expectedBytes": 26328880,
+            "endpointKind": "Release original",
+            "method": "HTTP Range bytes=0-4095; MP4 header and total length only",
+            "checkedAt": "2026-11-16T01:03:54.086329+00:00",
+            "status": 206,
+            "contentType": "application/octet-stream",
+            "contentLength": "4096",
+            "contentRange": "bytes 0-4095/26328880",
+            "bytesRead": 4096,
+            "manifestLengthMatched": true,
+            "attempt": 1,
+            "result": "mp4-endpoint-verified"
+          }
+        ],
+        "conclusion": {
+          "checkedImages": 20,
+          "decodedImages": 19,
+          "checkedVideoCases": 5,
+          "checkedVideoEndpoints": 10,
+          "verifiedVideoEndpoints": 10,
+          "failures": [
+            {
+              "caseId": "gptblender-floor-plan-house",
+              "url": "https://gptblender.com/assets/floor-plan-guide/optimized/04-apartment-overview-soft-warm-1280.webp",
+              "method": "complete HTTP GET and full Pillow decode",
+              "checkedAt": "2026-11-16T01:03:49.658057+00:00",
+              "errors": [
+                "HTTP Error 404: Not Found",
+                "HTTP Error 404: Not Found"
+              ],
+              "result": "unresolved"
+            }
+          ],
+          "limits": "Historical videos were not downloaded or replayed in full. Image decode and bounded video endpoints only."
+        }
+      },
+      "unlisted": [
+        {
+          "caseId": "gptblender-floor-plan-house",
+          "action": "unlisted",
+          "reason": "Unlisted after the creator walkthrough, both previously verified renders and the former project repository returned HTTP 404. No replacement result or archived playback was verified. The original record is retained for restoration.",
+          "checks": [
+            {
+              "key": "floor-plan-source",
+              "url": "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/",
+              "error": "HTTP Error 404: Not Found"
+            },
+            {
+              "key": "floor-plan-asset",
+              "url": "https://gptblender.com/assets/floor-plan-guide/optimized/04-apartment-overview-soft-warm-1280.webp",
+              "alt": "last verified rendering",
+              "error": "HTTP Error 404: Not Found"
+            },
+            {
+              "key": "floor-plan-asset",
+              "url": "https://gptblender.com/assets/floor-plan-guide/optimized/01-living-dining-soft-warm-1280.webp",
+              "alt": "last verified rendering",
+              "error": "HTTP Error 404: Not Found"
+            },
+            {
+              "key": "retired-repository",
+              "url": "https://github.com/qduoduo-hwh/gptblender_demo",
+              "httpStatus": 404,
+              "method": "GitHub repository read"
+            }
+          ],
+          "archive": "docs/archive/unlisted-cases-2026-09-25.json"
+        }
+      ]
     }
   ]
 }

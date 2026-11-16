@@ -13970,6 +13970,363 @@
       "newMediaFiles": 12,
       "newMediaBytes": 26440007,
       "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-15"
+    },
+    {
+      "observedAt": "2026-11-16",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "baselineCommit": "039702a4371921f6e234e4fb8a254211bf9ea096",
+      "baselineCount": 496,
+      "resultingCount": 504,
+      "addedCaseIds": [
+        "havis-racing-drone",
+        "lummox-vintage-tram",
+        "rubens-mini-colosseum",
+        "frontier3d-typewriter",
+        "havis-v8-engine",
+        "teddy-clockwork-swan",
+        "andriy-plush-dragon",
+        "vinano-window-kitten-gif",
+        "predis-sale-lettering-gif"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [
+        "gptblender-floor-plan-house"
+      ],
+      "coverage": [
+        {
+          "id": "havis-racing-drone",
+          "sourceUrl": "https://x.com/HavisT83099/status/2122110265499988342",
+          "sourceDate": "2026-11-16",
+          "modelLabel": "GPT-6 Astra · Three.js（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "lummox-vintage-tram",
+          "sourceUrl": "https://x.com/Lummox_eth/status/2121920575517962425",
+          "sourceDate": "2026-11-15",
+          "modelLabel": "GPT-6 Astra（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "rubens-mini-colosseum",
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2121792804301209874",
+          "sourceDate": "2026-11-15",
+          "modelLabel": "GPT-6 Astra（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "frontier3d-typewriter",
+          "sourceUrl": "https://lab.einsia.ai/frontier3dbench/#case-typewriter",
+          "sourceDate": null,
+          "modelLabel": "GPT-6 Astra · Blender（研究团队标注）",
+          "group": "astra"
+        },
+        {
+          "id": "havis-v8-engine",
+          "sourceUrl": "https://x.com/HavisT83099/status/2121959358300819498",
+          "sourceDate": "2026-11-15",
+          "modelLabel": "GPT-6 Astra（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "teddy-clockwork-swan",
+          "sourceUrl": "https://x.com/teddyaisi/status/2121320945570984394",
+          "sourceDate": "2026-11-14",
+          "modelLabel": "GPT-6 Astra · Three.js（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "andriy-plush-dragon",
+          "sourceUrl": "https://x.com/Andr1ycp/status/2120987887516909855",
+          "sourceDate": "2026-11-13",
+          "modelLabel": "GPT-6 Astra (High)（作者声明）",
+          "group": "astra"
+        },
+        {
+          "id": "vinano-window-kitten-gif",
+          "sourceUrl": "https://vinano.ai/gif-generator",
+          "sourceDate": null,
+          "modelLabel": "GPT-Image-2.6（作者示例）",
+          "group": "gif"
+        },
+        {
+          "id": "predis-sale-lettering-gif",
+          "sourceUrl": "https://predis.ai/ai-models/gpt-image-2-6/",
+          "sourceDate": null,
+          "modelLabel": "GPT-Image-2.6 Sunburst（作者声明）",
+          "group": "gif"
+        }
+      ],
+      "queries": [
+        "\"GPT-6 Astra\" Three.js Blender 3D after:2026-11-14 site:x.com",
+        "\"GPT-6 Astra\" 3D game Blender after:2026-11-14 site:github.com OR site:reddit.com",
+        "GPT-6 Astra 3D Blender 11月15日 16日 案例 小红书 哔哩哔哩",
+        "\"GPT Image 2.6\" original GIF example November 15 2026 animation creator",
+        "\"rubenssoto_ai\" \"Colosseum\" GPT-6 Astra 3D November",
+        "site:lab.einsia.ai/frontier3dbench \"Astra\" scene play download",
+        "site:gptblender.com \"apartment-overview-soft-warm\" \"floor-plan\""
+      ],
+      "discoverySources": [
+        "https://aivs.tv/models/gpt-6-astra/",
+        "https://teapawt.net/vib3coded",
+        "https://teapawt.net/teddyaisi",
+        "https://teapawt.net/noclipepe",
+        "https://teapawt.net/Andr1ycp",
+        "https://teapawt.net/maker_jackie",
+        "https://teapawt.net/sgarlen01",
+        "https://teapawt.net/KostiKoNeuro",
+        "https://teapawt.net/az9713",
+        "https://teapawt.net/EnvolDev",
+        "https://teapawt.net/HavisT83099",
+        "https://teapawt.net/miso_bits",
+        "https://teapawt.net/Lummox_eth",
+        "https://teapawt.net/XtraAi",
+        "https://teapawt.net/evanjcha",
+        "https://teapawt.net/ruofeng",
+        "https://teapawt.net/YouArtStudio",
+        "https://teapawt.net/Olo_polo13",
+        "https://teapawt.net/N1njaCodex",
+        "https://teapawt.net/cfenghub",
+        "https://teapawt.net/One2xDatalab",
+        "https://teapawt.net/maxT3chno",
+        "https://teapawt.net/SimoneGiannini",
+        "https://teapawt.net/Dimillian",
+        "https://teapawt.net/MengTo",
+        "https://teapawt.net/RockkstarX",
+        "https://teapawt.net/MartinSzremeti",
+        "https://teapawt.net/RGR17140",
+        "https://teapawt.net/Ciorki0",
+        "https://teapawt.net/kidrealey",
+        "https://teapawt.net/sshcodes",
+        "https://teapawt.net/rubenssoto_ai",
+        "https://lab.einsia.ai/frontier3dbench/",
+        "https://github.com/Einsia/Frontier3D",
+        "https://vinano.ai/gif-generator",
+        "https://predis.ai/ai-models/gpt-image-2-6/",
+        "https://www.reddit.com/r/aigamedev/comments/1xx4t53/dinosaur_game_gpt_image_26_claude_fable_52/",
+        "https://note.com/mbbs/n/n85afc2e63159",
+        "https://hellogen.ai/blog/gpt-image-2-6-gif-generator"
+      ],
+      "primarySourceChecks": [
+        {
+          "caseId": "havis-racing-drone",
+          "sourceUrl": "https://x.com/HavisT83099/status/2122110265499988342",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 125731,
+          "sha256": "4bd71aac6c4e81eb9cc487cabaca985551bd887bc256eeb5392759ee39bcea51",
+          "createdAtShanghai": "2026-11-16T07:31:28+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122110197816606720",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "lummox-vintage-tram",
+          "sourceUrl": "https://x.com/Lummox_eth/status/2121920575517962425",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 171153,
+          "sha256": "a649bda9d4ce119068cd92f9bc90da3c389f7d5a44b6d8e1695bd1c1dbbda548",
+          "createdAtShanghai": "2026-11-15T18:57:43+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121920476813332480",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "rubens-mini-colosseum",
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2121792804301209874",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 141062,
+          "sha256": "8def718cd159dbc952eb68432186c8339bcb03f39fa794cde6526b339263bb7a",
+          "createdAtShanghai": "2026-11-15T10:30:00+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121753309639815168",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "havis-v8-engine",
+          "sourceUrl": "https://x.com/HavisT83099/status/2121959358300819498",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 167479,
+          "sha256": "2c45e1c7c9748b5ce82e57d14338d6827f95cc4d6dea194218551bdce3974444",
+          "createdAtShanghai": "2026-11-15T21:31:49+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121959268656025600",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "teddy-clockwork-swan",
+          "sourceUrl": "https://x.com/teddyaisi/status/2121320945570984394",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 98494,
+          "sha256": "db3acd3fbd10601ae426d81d426f974a4b0133b86852b85564f93a2e51411aed",
+          "createdAtShanghai": "2026-11-14T03:15:00+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121305823423188992",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "andriy-plush-dragon",
+          "sourceUrl": "https://x.com/Andr1ycp/status/2120987887516909855",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 132664,
+          "sha256": "b5d734e428db7ad4ba32e626d335857b98b252f6bba9fb3b03e856cb9c1581e3",
+          "createdAtShanghai": "2026-11-13T05:11:33+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120987848576749568",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "key": "frontier-showcase",
+          "url": "https://lab.einsia.ai/frontier3dbench/",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 89553,
+          "sha256": "917f6f25a6cffdf73e0f4fcd5172420ee61ef6fe0386f3d35ff5208b827605e1",
+          "fullGet": true,
+          "title": "Frontier3DBench: Benchmarking Coding Agents for 3D Creation across Objects, Scenes, and Interactive Open Worlds",
+          "model": "GPT-6 Astra",
+          "showcase": "Typewriter"
+        },
+        {
+          "key": "frontier-typewriter-glb",
+          "url": "https://lab.einsia.ai/frontier3d/models/typewriter-astra.glb?v=02190fc2c95c",
+          "httpStatus": 200,
+          "contentType": "model/gltf-binary",
+          "bytes": 929256,
+          "sha256": "02190fc2c95cd726a53213a91e31e7dbb2a12c905157e8adad30b0ddb09debc5",
+          "fullGet": true,
+          "glbVersion": 2,
+          "declaredBytes": 929256,
+          "structures": {
+            "scenes": 1,
+            "nodes": 21,
+            "meshes": 21,
+            "materials": 13
+          },
+          "extensions": [
+            "KHR_draco_mesh_compression",
+            "KHR_mesh_quantization"
+          ]
+        },
+        {
+          "key": "frontier-repo",
+          "url": "https://raw.githubusercontent.com/Einsia/Frontier3D/main/README.md",
+          "httpStatus": 200,
+          "contentType": "text/plain",
+          "bytes": 3801,
+          "sha256": "91a1541f268eee4a49e7538136e1e6dbbd03327e4735ec26fa2488bffd4b51f0",
+          "fullGet": true
+        },
+        {
+          "key": "vinano",
+          "url": "https://vinano.ai/gif-generator",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 466656,
+          "sha256": "92fbaa810567ce9459c7c54109ca0cafe60da07713b03eb999ff57ac9758f03f",
+          "fullGet": true
+        },
+        {
+          "key": "predis",
+          "url": "https://predis.ai/ai-models/gpt-image-2-6/",
+          "httpStatus": 200,
+          "bytes": 93712,
+          "sha256": "8a3534e36da56045f1fc5fb71421a11db0d7dc1eeef5668f5d9de21d55005111",
+          "fullGet": true
+        },
+        {
+          "key": "colosseum-repost",
+          "url": "https://x.com/cfenghub/status/2121947019031801879",
+          "mediaId": "2121753309639815168",
+          "originalSource": "https://x.com/rubenssoto_ai/status/2121792804301209874",
+          "result": "same recording as Rubens Soto's original"
+        }
+      ],
+      "excludedOrDeferred": [
+        {
+          "url": "https://x.com/cfenghub/status/2121947019031801879",
+          "reason": "Points to Rubens Soto's original and contains the same media ID. Recorded as corroboration only."
+        },
+        {
+          "url": "https://x.com/noclipepe/status/2121971326583759135",
+          "reason": "Same crystal-train four-way result already represented in the November 15 collection."
+        },
+        {
+          "url": "https://x.com/vib3coded/status/2122080731086065936",
+          "reason": "Prompt-only post did not establish a playable Astra output."
+        },
+        {
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xx4t53/dinosaur_game_gpt_image_26_claude_fable_52/",
+          "reason": "Author credits Images 2.6 for GIF assets and Claude for the game. The accessible gallery exposed video posters, so original GIF bytes were not established."
+        },
+        {
+          "url": "https://hellogen.ai/blog/gpt-image-2-6-gif-generator",
+          "reason": "The inspected article pages exposed MP4 previews, without a verified original GIF endpoint."
+        }
+      ],
+      "platformLimits": [
+        "X search access was limited; verify full creator HTML, author and timestamps against matching exact media IDs, and source MP4 URLs.",
+        "X mirrors provided discovery leads. No fresh first-hand Xiaohongshu or Bilibili work was established for this increment.",
+        "The creator showcase demonstrates the typewriter's GLB but the benchmark's repository lists generalized evaluation assets rather than the model submission.",
+        "The typewriter and GIF first-publication dates remain null. The two older X posts are new catalog additions, and keep their exact original dates.",
+        "Scores and generation costs are attributed to authors."
+      ],
+      "unlisted": [
+        {
+          "caseId": "gptblender-floor-plan-house",
+          "action": "unlisted",
+          "reason": "Unlisted after the creator walkthrough, both previously verified renders and the former project repository returned HTTP 404. No replacement result or archived playback was verified. The original record is retained for restoration.",
+          "checks": [
+            {
+              "key": "floor-plan-source",
+              "url": "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/",
+              "error": "HTTP Error 404: Not Found"
+            },
+            {
+              "key": "floor-plan-asset",
+              "url": "https://gptblender.com/assets/floor-plan-guide/optimized/04-apartment-overview-soft-warm-1280.webp",
+              "alt": "last verified rendering",
+              "error": "HTTP Error 404: Not Found"
+            },
+            {
+              "key": "floor-plan-asset",
+              "url": "https://gptblender.com/assets/floor-plan-guide/optimized/01-living-dining-soft-warm-1280.webp",
+              "alt": "last verified rendering",
+              "error": "HTTP Error 404: Not Found"
+            },
+            {
+              "key": "retired-repository",
+              "url": "https://github.com/qduoduo-hwh/gptblender_demo",
+              "httpStatus": 404,
+              "method": "GitHub repository read"
+            }
+          ],
+          "archive": "docs/archive/unlisted-cases-2026-09-25.json"
+        }
+      ],
+      "completeSourceClips": 6,
+      "newGifWorks": 2,
+      "newMediaFiles": 12,
+      "newMediaBytes": 87985660,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-16"
     }
   ]
 }

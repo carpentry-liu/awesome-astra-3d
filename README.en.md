@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-11-15 (Asia/Shanghai)** · **474 Astra examples** · **122 source / project links** · **135 demo links** · **256 complete videos** · **10 GIF animations** · **12 separate references**.
+Updated **2026-11-16 (Asia/Shanghai)** · **480 Astra examples** · **123 source / project links** · **135 demo links** · **262 complete videos** · **12 GIF animations** · **12 separate references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -22,15 +22,15 @@ Source / project totals count public material links; demo totals count creator-h
 
 [GIF collection](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=gif&order=newest#collection) · [Official generation guide](https://developers.openai.com/api/docs/guides/image-generation#generate-animated-gif-output)
 
-The collection now has ten original GIFs. This update adds Lightlyn’s lantern cat and Kasper Zack Games’ raw explosion sprite. Open the previews for the original files and production notes.
+The collection now has twelve original GIFs. The windowsill kitten and letter reveal banner are new. Each preview opens the case and original file.
+
+| Windowsill Kitten · ViNano | Letter Reveal Banner · Predis.ai |
+| --- | --- |
+| [<img src="https://img.vinano.ai/mode-img/gif_generator/gif_generator_case01.gif" height="200" alt="Windowsill Kitten · ViNano">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vinano-window-kitten-gif/) | [<img src="https://predis.ai/assets/img/ai-models/gpt-image-2-6/sale.gif" height="200" alt="Letter Reveal Banner · Predis.ai">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/predis-sale-lettering-gif/) |
 
 | Lantern Cat · Lightlyn | Raw Pixel Explosion · Kasper Zack Games |
 | --- | --- |
 | [<img src="https://image.lightlyn.com/examples/gpt-image-2-6/gif-mascot.gif" height="200" alt="Lantern Cat · Lightlyn">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lightlyn-lantern-cat-gif/) | [<img src="https://raw.githubusercontent.com/kasperzackgames/chatgpt-pixel-effects/d25ce128ac5f2487e8187d0f1c6f4ac27dced599/example/explosion.gif" height="200" alt="Raw Pixel Explosion · Kasper Zack Games">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kasper-pixel-explosion-gif/) |
-
-| Coastal Drive · imageat | Moonlit Paper Boat · varg.ai |
-| --- | --- |
-| [<img src="https://cdn.imageat.com/marketing/gpt-image-2-6/coastal-drive.gif" height="200" alt="Coastal Drive · imageat">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/imageat-coastal-drive-gif/) | [<img src="https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_1ddefdae1769.gif" height="200" alt="Moonlit Paper Boat · varg.ai">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/varg-paper-boat-gif/) |
 
 GIF previews and case pages play automatically, with Stop / Play controls. Reduced-motion preferences start on the still frame. Works remain the creators’ property.
 
@@ -60,18 +60,18 @@ Select a title or image to open the creator's demo directly. Case pages retain s
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-11-15.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-11-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-Website screenshots were refreshed on **November 13, 2026** from the current local production build. See the creator previews and latest additions below for this update. Browse in Chinese or English, open task topics and share individual case pages. The gallery starts with 36 cards and can load the remaining matches.
+The screenshots are from the **November 16, 2026** local production build. Browse in Chinese or English, open topics and share individual case pages.
 
 <details>
-<summary>Gallery, mobile and case screenshots · November 13, 2026</summary>
+<summary>Gallery, mobile and case screenshots · November 16, 2026</summary>
 
-[![New Astra works with complete source recordings](docs/media/collection-2026-11-15.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![New Astra works with complete source recordings](docs/media/collection-2026-11-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Mobile featured works and material navigation](docs/media/mobile-2026-11-15.jpg)
+![Mobile featured works and material navigation](docs/media/mobile-2026-11-16.jpg)
 
-[![Lantern cat GIF case page](docs/media/case-2026-11-15.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lightlyn-lantern-cat-gif/)
+[![Windowsill kitten GIF case page](docs/media/case-2026-11-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vinano-window-kitten-gif/)
 
 </details>
 
@@ -79,43 +79,44 @@ Website screenshots were refreshed on **November 13, 2026** from the current loc
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The November 15 update adds **seven Astra works, six complete recordings and two original GIFs**. The X clips cover a gaming PC build, a crystal mine railway, a tulip field windmill, a giant clam, a turntable and a teapot. The office birthday case adds a 45-second Blender previs, an interactive GLB and the authors’ evaluation framework.
+The November 16 update adds **seven Astra works, six complete recordings and two original GIFs**. The X clips cover a racing drone, a vintage tram, a miniature Colosseum, a V8 engine, a clockwork swan and a plush dragon. The mechanical typewriter includes an interactive model and its GLB.
 
 <!-- atlas:update-previews:start -->
 **New Astra works**
 
-| Gaming PC Assembly · Havis | Crystal Mine Railway · Lummox |
+| Racing Drone · Havis | Vintage Tram · Lummox |
 | --- | --- |
-| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/havis-gaming-pc-result.jpg" height="165" alt="Gaming PC Assembly · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-gaming-pc/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2121686841367605248/img/obukcs2lvUJPEvQb.jpg" height="165" alt="Crystal Mine Railway · Lummox">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lummox-crystal-train/) |
+| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/havis-racing-drone-result.jpg" height="165" alt="Racing Drone · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-racing-drone/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2121920476813332480/img/vOyiBPqorVPC10WT.jpg" height="165" alt="Vintage Tram · Lummox">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lummox-vintage-tram/) |
 
-| Tulip Field Windmill · Havis | Deep-Sea Clam · teddyaisi |
+| Miniature Colosseum · Rubens Soto | V8 Engine · Havis |
 | --- | --- |
-| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/havis-tulip-windmill-result.jpg" height="165" alt="Tulip Field Windmill · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-tulip-windmill/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2121497590634266625/img/Oh0sSg9atC_IZK2T.jpg" height="165" alt="Deep-Sea Clam · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-giant-clam/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2121753309639815168/img/RIttUzXqOA05U3d4.jpg" height="165" alt="Miniature Colosseum · Rubens Soto">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/rubens-mini-colosseum/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/havis-v8-engine-result.jpg" height="165" alt="V8 Engine · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-v8-engine/) |
 
-| Needle Drop · teddyaisi | Porcelain Teapot · teddyaisi |
+| Clockwork Swan · teddyaisi | Plush Dragon · AndrIy |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2121497199465189376/img/dgxcAvbTYYHQlO4g.jpg" height="165" alt="Needle Drop · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-record-tonearm/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2121306767087017984/img/9T6B2w2bXIGMlFkY.jpg" height="165" alt="Porcelain Teapot · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-teapot-pour/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2121305823423188992/img/-8SaVTk41dbma-R7.jpg" height="165" alt="Clockwork Swan · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-clockwork-swan/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2120987848576749568/img/qBB1R2687q4WDQNn.jpg" height="165" alt="Plush Dragon · AndrIy">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/andriy-plush-dragon/) |
 
-**Blender previs · Office Birthday Surprise**
+**Interactive 3D · Mechanical Typewriter**
 
-[<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/vibeprevis-office-birthday-result.jpg" height="200" alt="Office Birthday Previs · VibePrevisBench">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vibeprevis-office-birthday/)
+[<img src="https://lab.einsia.ai/frontier3d/media/typewriter-astra.jpg" height="200" alt="Mechanical Typewriter · Frontier3DBench">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/frontier3d-typewriter/)
 
-Open [the case gallery](https://vibeprevisbench.github.io/#gallery) and select **Birthday surprise through the office → GPT-6 Astra** to switch between the 45-second proxy and interactive 3D.
+Open the Astra column to rotate the author’s model, or download its GLB.
+[Open the gallery](https://lab.einsia.ai/frontier3dbench/#case-typewriter) · [GLB](https://lab.einsia.ai/frontier3d/models/typewriter-astra.glb?v=02190fc2c95c)
 
-[Full videos](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Download originals](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-15)
+[Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Download originals](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-16)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [Gaming PC Build: Motherboard, GPU and RGB in 3D](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-gaming-pc/) | Havis \| Claude Code / @HavisT83099 | [Original](https://x.com/HavisT83099/status/2121747908588380589) |
-| [Crystal Mine Railway: A Train Leaves a Luminous Cavern](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lummox-crystal-train/) | Lummox / @Lummox_eth | [Original](https://x.com/Lummox_eth/status/2121686941464760464) |
-| [Tulip Field Windmill: Rebuilding a Sunset Photo](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-tulip-windmill/) | Havis \| Claude Code / @HavisT83099 | [Original](https://x.com/HavisT83099/status/2121596994145640579) |
-| [Office Birthday Surprise: A 45-Second Blender Previs](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vibeprevis-office-birthday/) | VibePrevisBench 作者团队 | [Demo](https://vibeprevisbench.github.io/#gallery) · [Source](https://github.com/vibeprevisbench/vibeprevisbench) · [Original](https://vibeprevisbench.github.io/#gallery) |
-| [Deep-Sea Clam: A Shell Opens to Reveal a Pearl](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-giant-clam/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2121533596854825094) |
-| [Needle Drop: A Three.js Turntable Close-up](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-record-tonearm/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2121497480730927503) |
-| [Porcelain Teapot: A Thin Stream Pours into a Cup](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-teapot-pour/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2121382349690798262) |
-| [Lantern Cat: A Wave, a Blink and a Warm Glow](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lightlyn-lantern-cat-gif/) | Lightlyn Images | [GIF](https://image.lightlyn.com/examples/gpt-image-2-6/gif-mascot.gif) · [Original](https://image.lightlyn.com/gpt-image-2-6?lang=en) |
+| [Racing Drone: A 3D Frame and Camera Assembly](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-racing-drone/) | Havis \| Claude Code / @HavisT83099 | [Original](https://x.com/HavisT83099/status/2122110265499988342) |
+| [Vintage Tram at the Corner: Four 3D Approaches](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lummox-vintage-tram/) | Lummox / @Lummox_eth | [Original](https://x.com/Lummox_eth/status/2121920575517962425) |
+| [Miniature Colosseum: Exterior Arcades and Arena Views](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/rubens-mini-colosseum/) | Rubens Soto \| AI & SaaS / @rubenssoto_ai | [Original](https://x.com/rubenssoto_ai/status/2121792804301209874) |
+| [Mechanical Typewriter: An Interactive Blender Reconstruction](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/frontier3d-typewriter/) | Frontier3DBench / Einsia | [Demo](https://lab.einsia.ai/frontier3dbench/#case-typewriter) · [Source](https://github.com/Einsia/Frontier3D) · [Original](https://lab.einsia.ai/frontier3dbench/#case-typewriter) |
+| [V8 Assembly: Block, Belt and Orange Headers](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-v8-engine/) | Havis \| Claude Code / @HavisT83099 | [Original](https://x.com/HavisT83099/status/2121959358300819498) |
+| [Clockwork Swan: Silver Wings over a Reflective Basin](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-clockwork-swan/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2121320945570984394) |
+| [Plush Dragon: Material and Color Variants](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/andriy-plush-dragon/) | AndrIy / @Andr1ycp | [Original](https://x.com/Andr1ycp/status/2120987887516909855) |
+| [Windowsill Kitten: A Nine-Frame Blink and Tail Loop](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vinano-window-kitten-gif/) | ViNano AI | [GIF](https://img.vinano.ai/mode-img/gif_generator/gif_generator_case01.gif) · [Original](https://vinano.ai/gif-generator) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

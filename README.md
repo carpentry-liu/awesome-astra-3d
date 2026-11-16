@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-截至 **2026-11-15（Asia/Shanghai）**：**474 条 Astra 案例** · **122 条源码 / 工程** · **135 个演示入口** · **256 个完整视频**。另有 **10 件 GIF 动图** 与 **12 条独立方法参考**，不计入 Astra 数量。
+截至 **2026-11-16（Asia/Shanghai）**：**480 条 Astra 案例** · **123 条源码 / 工程** · **135 个演示入口** · **262 个完整视频**。另有 **12 件 GIF 动图** 与 **12 条独立方法参考**，不计入 Astra 数量。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -22,15 +22,15 @@
 
 [GIF 动图分类](https://carpentry-liu.github.io/awesome-astra-3d/?group=gif&order=newest#collection) · [官方生成说明](https://developers.openai.com/api/docs/guides/image-generation#generate-animated-gif-output)
 
-现有十件原生 GIF。本次加入 Lightlyn 的提灯橘猫和 Kasper Zack Games 的像素爆炸原始素材。点击下方动图可查看原始文件与制作说明。
+现有十二件原生 GIF。本次加入窗台小猫和逐字促销横幅。点击动图可查看作品、提示词和原始文件。
+
+| 窗台小猫 · ViNano | 逐字促销横幅 · Predis.ai |
+| --- | --- |
+| [<img src="https://img.vinano.ai/mode-img/gif_generator/gif_generator_case01.gif" height="200" alt="窗台小猫 · ViNano">](https://carpentry-liu.github.io/awesome-astra-3d/cases/vinano-window-kitten-gif/) | [<img src="https://predis.ai/assets/img/ai-models/gpt-image-2-6/sale.gif" height="200" alt="逐字促销横幅 · Predis.ai">](https://carpentry-liu.github.io/awesome-astra-3d/cases/predis-sale-lettering-gif/) |
 
 | 提灯橘猫 · Lightlyn | 像素爆炸原始素材 · Kasper Zack Games |
 | --- | --- |
 | [<img src="https://image.lightlyn.com/examples/gpt-image-2-6/gif-mascot.gif" height="200" alt="提灯橘猫 · Lightlyn">](https://carpentry-liu.github.io/awesome-astra-3d/cases/lightlyn-lantern-cat-gif/) | [<img src="https://raw.githubusercontent.com/kasperzackgames/chatgpt-pixel-effects/d25ce128ac5f2487e8187d0f1c6f4ac27dced599/example/explosion.gif" height="200" alt="像素爆炸原始素材 · Kasper Zack Games">](https://carpentry-liu.github.io/awesome-astra-3d/cases/kasper-pixel-explosion-gif/) |
-
-| 落日海岸公路 · imageat | 月夜纸船 · varg.ai |
-| --- | --- |
-| [<img src="https://cdn.imageat.com/marketing/gpt-image-2-6/coastal-drive.gif" height="200" alt="落日海岸公路 · imageat">](https://carpentry-liu.github.io/awesome-astra-3d/cases/imageat-coastal-drive-gif/) | [<img src="https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_1ddefdae1769.gif" height="200" alt="月夜纸船 · varg.ai">](https://carpentry-liu.github.io/awesome-astra-3d/cases/varg-paper-boat-gif/) |
 
 GIF 分类预览与详情自动播放，支持停止与播放。系统开启减少动态效果时默认显示首帧。作品权利归原作者。
 
@@ -60,18 +60,18 @@ GIF 分类预览与详情自动播放，支持停止与播放。系统开启减�
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-11-15.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-11-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-网站实拍更新于 **2026-11-15**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+网站实拍更新于 **2026-11-16**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
-<summary>查看案例区、手机与作品详情实拍 · 2026-11-15</summary>
+<summary>查看案例区、手机与作品详情实拍 · 2026-11-16</summary>
 
-[![今日新增 Astra 作品与完整录像](docs/media/collection-2026-11-15.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![今日新增 Astra 作品与完整录像](docs/media/collection-2026-11-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端：精选作品与材料导航](docs/media/mobile-2026-11-15.jpg)
+![手机端：精选作品与材料导航](docs/media/mobile-2026-11-16.jpg)
 
-[![提灯橘猫 GIF 的独立作品页](docs/media/case-2026-11-15.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/lightlyn-lantern-cat-gif/)
+[![窗台小猫 GIF 的独立作品页](docs/media/case-2026-11-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/vinano-window-kitten-gif/)
 
 </details>
 
@@ -79,43 +79,44 @@ GIF 分类预览与详情自动播放，支持停止与播放。系统开启减�
 
 这里按本库收录日期排列；作品首次发布、模型配置与核查日期在各档案中分别记录。稳定精选不随日更替换。
 
-11 月 15 日新增 **7 件 Astra 作品、6 段完整录像和 2 件原生 GIF**。X 作者展示了三维装机、晶矿列车、郁金香田风车、深海巨蚌、唱片机和白瓷壶倒茶。另可查看办公室生日惊喜的 45 秒 Blender 预演、交互 GLB 和作者评测框架。
+11 月 16 日新增 **7 件 Astra 作品、6 段完整录像和 2 件原生 GIF**。本次 X 原片包括竞速无人机、复古电车、微缩罗马竞技场、V8 引擎、机械天鹅和毛绒小龙。机械打字机另有交互三维展示与 GLB。
 
 <!-- atlas:update-previews:start -->
 **新增 Astra 作品**
 
-| 游戏电脑装机 · Havis | 晶矿列车 · Lummox |
+| 竞速无人机 · Havis | 复古电车 · Lummox |
 | --- | --- |
-| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/havis-gaming-pc-result.jpg" height="165" alt="游戏电脑装机 · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-gaming-pc/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2121686841367605248/img/obukcs2lvUJPEvQb.jpg" height="165" alt="晶矿列车 · Lummox">](https://carpentry-liu.github.io/awesome-astra-3d/cases/lummox-crystal-train/) |
+| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/havis-racing-drone-result.jpg" height="165" alt="竞速无人机 · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-racing-drone/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2121920476813332480/img/vOyiBPqorVPC10WT.jpg" height="165" alt="复古电车 · Lummox">](https://carpentry-liu.github.io/awesome-astra-3d/cases/lummox-vintage-tram/) |
 
-| 郁金香田风车 · Havis | 深海巨蚌 · teddyaisi |
+| 微缩竞技场 · Rubens Soto | V8 引擎 · Havis |
 | --- | --- |
-| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/havis-tulip-windmill-result.jpg" height="165" alt="郁金香田风车 · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-tulip-windmill/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2121497590634266625/img/Oh0sSg9atC_IZK2T.jpg" height="165" alt="深海巨蚌 · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-giant-clam/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2121753309639815168/img/RIttUzXqOA05U3d4.jpg" height="165" alt="微缩竞技场 · Rubens Soto">](https://carpentry-liu.github.io/awesome-astra-3d/cases/rubens-mini-colosseum/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/havis-v8-engine-result.jpg" height="165" alt="V8 引擎 · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-v8-engine/) |
 
-| 唱针落下 · teddyaisi | 白瓷壶倒茶 · teddyaisi |
+| 机械天鹅 · teddyaisi | 毛绒小龙 · AndrIy |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2121497199465189376/img/dgxcAvbTYYHQlO4g.jpg" height="165" alt="唱针落下 · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-record-tonearm/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2121306767087017984/img/9T6B2w2bXIGMlFkY.jpg" height="165" alt="白瓷壶倒茶 · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-teapot-pour/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2121305823423188992/img/-8SaVTk41dbma-R7.jpg" height="165" alt="机械天鹅 · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-clockwork-swan/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2120987848576749568/img/qBB1R2687q4WDQNn.jpg" height="165" alt="毛绒小龙 · AndrIy">](https://carpentry-liu.github.io/awesome-astra-3d/cases/andriy-plush-dragon/) |
 
-**Blender 预演 · 办公室生日惊喜**
+**交互三维 · 机械打字机**
 
-[<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-15/vibeprevis-office-birthday-result.jpg" height="200" alt="办公室生日预演 · VibePrevisBench">](https://carpentry-liu.github.io/awesome-astra-3d/cases/vibeprevis-office-birthday/)
+[<img src="https://lab.einsia.ai/frontier3d/media/typewriter-astra.jpg" height="200" alt="机械打字机 · Frontier3DBench">](https://carpentry-liu.github.io/awesome-astra-3d/cases/frontier3d-typewriter/)
 
-打开[作者画廊](https://vibeprevisbench.github.io/#gallery)，选择 **Birthday surprise through the office → GPT-6 Astra**，可在 45 秒预演与交互三维视图间切换。
+Astra 一栏支持旋转与缩放，也可下载作者的 GLB。
+[打开作者画廊](https://lab.einsia.ai/frontier3dbench/#case-typewriter) · [GLB](https://lab.einsia.ai/frontier3d/models/typewriter-astra.glb?v=02190fc2c95c)
 
-[完整录像](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video&order=newest#collection) · [下载原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-15)
+[完整录像](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video&order=newest#collection) · [下载原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-16)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
-| [游戏电脑装机：主板、显卡与 RGB 灯效的三维对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-gaming-pc/) | Havis \| Claude Code / @HavisT83099 | [原始来源](https://x.com/HavisT83099/status/2121747908588380589) |
-| [晶矿列车：矿石车驶出发光洞口](https://carpentry-liu.github.io/awesome-astra-3d/cases/lummox-crystal-train/) | Lummox / @Lummox_eth | [原始来源](https://x.com/Lummox_eth/status/2121686941464760464) |
-| [郁金香田的风车：用同一张照片重建夕阳场景](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-tulip-windmill/) | Havis \| Claude Code / @HavisT83099 | [原始来源](https://x.com/HavisT83099/status/2121596994145640579) |
-| [办公室生日惊喜：Blender 预演的 45 秒长镜头](https://carpentry-liu.github.io/awesome-astra-3d/cases/vibeprevis-office-birthday/) | VibePrevisBench 作者团队 | [演示](https://vibeprevisbench.github.io/#gallery) · [源码](https://github.com/vibeprevisbench/vibeprevisbench) · [原始来源](https://vibeprevisbench.github.io/#gallery) |
-| [深海巨蚌：贝壳打开，露出一颗珍珠](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-giant-clam/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2121533596854825094) |
-| [唱针落下：Three.js 唱片机特写](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-record-tonearm/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2121497480730927503) |
-| [白瓷壶倒茶：细水流落进杯中](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-teapot-pour/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2121382349690798262) |
-| [提灯橘猫：抬爪、眨眼与暖光循环](https://carpentry-liu.github.io/awesome-astra-3d/cases/lightlyn-lantern-cat-gif/) | Lightlyn Images | [GIF](https://image.lightlyn.com/examples/gpt-image-2-6/gif-mascot.gif) · [原始来源](https://image.lightlyn.com/gpt-image-2-6?lang=en) |
+| [竞速无人机：机架与摄像头的三维装配演示](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-racing-drone/) | Havis \| Claude Code / @HavisT83099 | [原始来源](https://x.com/HavisT83099/status/2122110265499988342) |
+| [街角的复古电车：同一主题的四种三维实现](https://carpentry-liu.github.io/awesome-astra-3d/cases/lummox-vintage-tram/) | Lummox / @Lummox_eth | [原始来源](https://x.com/Lummox_eth/status/2121920575517962425) |
+| [微缩罗马竞技场：从城墙拱廊到场内视角](https://carpentry-liu.github.io/awesome-astra-3d/cases/rubens-mini-colosseum/) | Rubens Soto \| AI & SaaS / @rubenssoto_ai | [原始来源](https://x.com/rubenssoto_ai/status/2121792804301209874) |
+| [机械打字机：可旋转的 Blender 重建与 GLB](https://carpentry-liu.github.io/awesome-astra-3d/cases/frontier3d-typewriter/) | Frontier3DBench / Einsia | [演示](https://lab.einsia.ai/frontier3dbench/#case-typewriter) · [源码](https://github.com/Einsia/Frontier3D) · [原始来源](https://lab.einsia.ai/frontier3dbench/#case-typewriter) |
+| [V8 引擎装配：缸体、皮带与橙色排气管](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-v8-engine/) | Havis \| Claude Code / @HavisT83099 | [原始来源](https://x.com/HavisT83099/status/2121959358300819498) |
+| [银色机械天鹅：展开金属翼再俯向水面](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-clockwork-swan/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2121320945570984394) |
+| [毛绒小龙：在程序化角色里切换材质与配色](https://carpentry-liu.github.io/awesome-astra-3d/cases/andriy-plush-dragon/) | AndrIy / @Andr1ycp | [原始来源](https://x.com/Andr1ycp/status/2120987887516909855) |
+| [窗台小猫：轻甩尾巴与眨眼的九帧微动](https://carpentry-liu.github.io/awesome-astra-3d/cases/vinano-window-kitten-gif/) | ViNano AI | [GIF](https://img.vinano.ai/mode-img/gif_generator/gif_generator_case01.gif) · [原始来源](https://vinano.ai/gif-generator) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)

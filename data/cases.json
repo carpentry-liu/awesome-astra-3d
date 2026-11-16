@@ -1,5 +1,480 @@
 [
   {
+    "id": "havis-racing-drone",
+    "group": "astra",
+    "category": "产品与角色",
+    "title": "竞速无人机：机架与摄像头的三维装配演示",
+    "titleEn": "Racing Drone: A 3D Frame and Camera Assembly",
+    "modelLabel": "GPT-6 Astra · Three.js（作者声明）",
+    "summary": "两栏展示四旋翼竞速机的机架、镜头模组及电机装配。Astra 位于下栏，用浅色背景突出外形与部件位置。",
+    "imageCaption": "本库从完整原版第 6.93 秒截取结果。上方为 Claude Opus 5.5，下方为 GPT-6 Astra。",
+    "evidenceNote": "任务卡标明 Three.js 装配与离地演示，原帖说明两个模型使用同一任务。画面标注的时间是片段中的进度，正文记录作者总结。",
+    "promptAvailability": "author-description",
+    "promptSummary": "让竞速无人机的各部件依次装入机架，展示通电和离地过程。",
+    "outputType": [
+      "Three.js 装配动画",
+      "完整对照录像"
+    ],
+    "outcome": "完整约 13.86 秒，可比较部件入镜、材质和取景。作品公开材料为程序场景录屏。",
+    "addedAt": "2026-11-16",
+    "observedAt": "2026-11-16",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/HavisT83099/status/2122110265499988342",
+    "repositoryUrl": null,
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Havis | Claude Code / @HavisT83099",
+    "sourceUrl": "https://x.com/HavisT83099/status/2122110265499988342",
+    "sourceDate": "2026-11-16",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/havis-racing-drone-result.jpg",
+    "imageKind": "video-frame",
+    "promptUrl": "https://x.com/HavisT83099/status/2122110265499988342",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/HavisT83099/status/2122110265499988342"
+    ],
+    "sourceAccess": "原帖作者、时间戳、媒体 ID 与 MP4 地址已核对。最高码率版本和平台播放版已下载并完整解码。",
+    "archivedVideos": [
+      {
+        "label": "竞速无人机装配对照 · Astra 在下方",
+        "posterUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/havis-racing-drone-result.jpg",
+        "sourceUrl": "https://x.com/HavisT83099/status/2122110265499988342",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/havis-racing-drone-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/havis-racing-drone-1-original.mp4",
+        "bytes": 7503983,
+        "sha256": "96ef122f01dd8990f1e6dbfd9a2e706d352c20fe4817f406658109c81ea82ab9",
+        "durationSeconds": 13.86
+      }
+    ]
+  },
+  {
+    "id": "lummox-vintage-tram",
+    "group": "astra",
+    "category": "程序化场景",
+    "title": "街角的复古电车：同一主题的四种三维实现",
+    "titleEn": "Vintage Tram at the Corner: Four 3D Approaches",
+    "modelLabel": "GPT-6 Astra（作者声明）",
+    "summary": "红白电车沿弯轨驶过临街建筑，四栏画面提供不同的街景、灯光和轮廓。Astra 位于右上。",
+    "imageCaption": "Lummox 原帖成果封面。右上为 GPT-6 Astra，其他栏保留作者标注的流程。",
+    "evidenceNote": "原帖单独列出 Astra 结果，录像右上保留 GPT-6 Astra 标签。Blender MCP、Kimi K3.1 与 Claude Code 为作者另列的流程。",
+    "promptAvailability": "author-description",
+    "promptSummary": "制作一辆经过欧洲街道弯轨的复古有轨电车，展示行进过程及街景。",
+    "outputType": [
+      "三维街景动画",
+      "完整四栏录像"
+    ],
+    "outcome": "保留 10 秒完整录像，可比较车头、轨道曲线与街道场景。流程成本为作者记录。",
+    "addedAt": "2026-11-16",
+    "observedAt": "2026-11-16",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/Lummox_eth/status/2121920575517962425",
+    "repositoryUrl": null,
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Lummox / @Lummox_eth",
+    "sourceUrl": "https://x.com/Lummox_eth/status/2121920575517962425",
+    "sourceDate": "2026-11-15",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2121920476813332480/img/vOyiBPqorVPC10WT.jpg",
+    "imageKind": "author-comparison",
+    "promptUrl": "https://x.com/Lummox_eth/status/2121920575517962425",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/Lummox_eth/status/2121920575517962425"
+    ],
+    "sourceAccess": "原帖作者、时间戳、媒体 ID 与 MP4 地址已核对。最高码率版本和平台播放版已下载并完整解码。",
+    "archivedVideos": [
+      {
+        "label": "复古电车四栏原片 · Astra 在右上",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2121920476813332480/img/vOyiBPqorVPC10WT.jpg",
+        "sourceUrl": "https://x.com/Lummox_eth/status/2121920575517962425",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/lummox-vintage-tram-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/lummox-vintage-tram-1-original.mp4",
+        "bytes": 16481260,
+        "sha256": "d7156a91810b5c5becacbe0e029782fa2ced7b447cb6bcdf47c2012796585e17",
+        "durationSeconds": 10.0
+      }
+    ]
+  },
+  {
+    "id": "rubens-mini-colosseum",
+    "group": "astra",
+    "category": "建筑可视化",
+    "title": "微缩罗马竞技场：从城墙拱廊到场内视角",
+    "titleEn": "Miniature Colosseum: Exterior Arcades and Arena Views",
+    "modelLabel": "GPT-6 Astra（作者声明）",
+    "summary": "两个模型分别搭建微缩竞技场。镜头从外部拱廊移到看台和内场，Astra 在下栏，周围街区较为简洁。",
+    "imageCaption": "Rubens Soto 原帖双栏成果封面。上栏标注 Opus 5.5，下栏标注 GPT-6 Astra。",
+    "evidenceNote": "中文转发的媒体 ID 与 Rubens Soto 的原帖相同，按原作者收录。对照中的估算开支按作者标注，画面用于比较空间与镜头。",
+    "promptAvailability": "author-description",
+    "promptSummary": "构建一座可从外部和内场观察的微缩罗马竞技场。",
+    "outputType": [
+      "微缩建筑对照",
+      "完整对照录像"
+    ],
+    "outcome": "30 秒原片保留全景与内部机位。微缩构图和历史外观为创作展示。",
+    "addedAt": "2026-11-16",
+    "observedAt": "2026-11-16",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/rubenssoto_ai/status/2121792804301209874",
+    "repositoryUrl": null,
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Rubens Soto | AI & SaaS / @rubenssoto_ai",
+    "sourceUrl": "https://x.com/rubenssoto_ai/status/2121792804301209874",
+    "sourceDate": "2026-11-15",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2121753309639815168/img/RIttUzXqOA05U3d4.jpg",
+    "imageKind": "author-comparison",
+    "promptUrl": "https://x.com/rubenssoto_ai/status/2121792804301209874",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/rubenssoto_ai/status/2121792804301209874",
+      "https://x.com/cfenghub/status/2121947019031801879"
+    ],
+    "sourceAccess": "原帖作者、时间戳、媒体 ID 与 MP4 地址已核对。最高码率版本和平台播放版已下载并完整解码。",
+    "archivedVideos": [
+      {
+        "label": "微缩竞技场完整对照 · Astra 在下方",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2121753309639815168/img/RIttUzXqOA05U3d4.jpg",
+        "sourceUrl": "https://x.com/rubenssoto_ai/status/2121792804301209874",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/rubens-mini-colosseum-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/rubens-mini-colosseum-1-original.mp4",
+        "bytes": 43048971,
+        "sha256": "97b718230cf0d899539d46213d9bf87851db60a7350a76c7f6dede5a16836fcc",
+        "durationSeconds": 30.0
+      }
+    ]
+  },
+  {
+    "id": "frontier3d-typewriter",
+    "group": "astra",
+    "category": "Blender 建模",
+    "title": "机械打字机：可旋转的 Blender 重建与 GLB",
+    "titleEn": "Mechanical Typewriter: An Interactive Blender Reconstruction",
+    "modelLabel": "GPT-6 Astra · Blender（研究团队标注）",
+    "summary": "根据打字机参考建立几何与材质，保留键盘、纸卷和金属外壳。Frontier3DBench 画廊并排展示三个模型的结果，可查看 Astra 版本和下载其 GLB。",
+    "imageCaption": "Frontier3DBench 作者画廊中 GPT-6 Astra 的打字机实际成果图。",
+    "evidenceNote": "作者的 Typewriter 栏将此结果图和 GLB 同时标在 GPT-6 Astra 下。公开仓库提供任务和评测框架，GLB 由作者画廊提供。",
+    "promptAvailability": "brief-summary-only",
+    "promptSummary": "根据参考图重建机械打字机的机身、键盘和纸张结构。",
+    "outputType": [
+      "Blender 对象重建",
+      "交互 GLB",
+      "公开评测框架"
+    ],
+    "outcome": "打开画廊的 Typewriter 一栏，选择第一列 GPT-6 Astra，可拖动旋转、缩放和复位。适合查看模型结构与导出成果。",
+    "author": "Frontier3DBench / Einsia",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub",
+      "作者网站"
+    ],
+    "sourceDate": null,
+    "sourceUrl": "https://lab.einsia.ai/frontier3dbench/#case-typewriter",
+    "repositoryUrl": "https://github.com/Einsia/Frontier3D",
+    "demoUrl": "https://lab.einsia.ai/frontier3dbench/#case-typewriter",
+    "promptUrl": null,
+    "evidenceUrls": [
+      "https://lab.einsia.ai/frontier3d/models/typewriter-astra.glb?v=02190fc2c95c",
+      "https://lab.einsia.ai/frontier3dbench/Frontier3DBench.pdf"
+    ],
+    "addedAt": "2026-11-16",
+    "observedAt": "2026-11-16",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "videoUrl": null,
+    "imageUrl": "https://lab.einsia.ai/frontier3d/media/typewriter-astra.jpg",
+    "imageKind": "author-render",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "实际成果图和原始 GLB 均完整获取。GLB 解析确认有 21 个网格及 13 种材质，浏览器载入作者画廊的 Astra 模型与视角控件。"
+  },
+  {
+    "id": "havis-v8-engine",
+    "group": "astra",
+    "category": "拆解与剖面",
+    "title": "V8 引擎装配：缸体、皮带与橙色排气管",
+    "titleEn": "V8 Assembly: Block, Belt and Orange Headers",
+    "modelLabel": "GPT-6 Astra（作者声明）",
+    "summary": "通过装配与转动镜头比较 V8 外观。Astra 位于下栏，红色顶盖、橙色排气管和皮带轮在成品视角中可见。",
+    "imageCaption": "本库从完整原版第 11.7 秒截取成品。上方为 Opus 5.5 的传动特写，下方为 GPT-6 Astra 组装出的整机。",
+    "evidenceNote": "作者称两模型分别完成同题的一次代码生成，录像下栏标明 GPT-6 Astra。",
+    "promptAvailability": "author-description",
+    "promptSummary": "用代码制作 V8 引擎的三维装配和部件展示。",
+    "outputType": [
+      "V8 装配动画",
+      "完整对照录像"
+    ],
+    "outcome": "约 14.47 秒对照，可观察装配顺序、近景与材质。作品为可视化动画，机械工作条件未复现验证。",
+    "addedAt": "2026-11-16",
+    "observedAt": "2026-11-16",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/HavisT83099/status/2121959358300819498",
+    "repositoryUrl": null,
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Havis | Claude Code / @HavisT83099",
+    "sourceUrl": "https://x.com/HavisT83099/status/2121959358300819498",
+    "sourceDate": "2026-11-15",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/havis-v8-engine-result.jpg",
+    "imageKind": "video-frame",
+    "promptUrl": "https://x.com/HavisT83099/status/2121959358300819498",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/HavisT83099/status/2121959358300819498"
+    ],
+    "sourceAccess": "原帖作者、时间戳、媒体 ID 与 MP4 地址已核对。最高码率版本和平台播放版已下载并完整解码。",
+    "archivedVideos": [
+      {
+        "label": "V8 引擎完整对照 · Astra 在下方",
+        "posterUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/havis-v8-engine-result.jpg",
+        "sourceUrl": "https://x.com/HavisT83099/status/2121959358300819498",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/havis-v8-engine-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/havis-v8-engine-1-original.mp4",
+        "bytes": 12050366,
+        "sha256": "11bcabae6f516b3e5c1f977237aaf8f017c77482a16e22a2c790ec492b5ffe7e",
+        "durationSeconds": 14.47
+      }
+    ]
+  },
+  {
+    "id": "teddy-clockwork-swan",
+    "group": "astra",
+    "category": "角色与动画",
+    "title": "银色机械天鹅：展开金属翼再俯向水面",
+    "titleEn": "Clockwork Swan: Silver Wings over a Reflective Basin",
+    "modelLabel": "GPT-6 Astra · Three.js（作者声明）",
+    "summary": "冷光下的银色天鹅抬翼、低头，随后收翅抬起。右栏 Astra 展示细长翼片、金属反光与镜面倒影。",
+    "imageCaption": "作者双栏成果封面。左为 GPT-6.1 Sol，右为 GPT-6 Astra。",
+    "evidenceNote": "同一 Three.js 任务由原帖描述，原始对照录像的右侧标为 GPT-6 Astra。",
+    "promptAvailability": "author-description",
+    "promptSummary": "让机械天鹅展翼、俯向镜面水池，随后抬头并收回翅膀。",
+    "outputType": [
+      "Three.js 机械角色动画",
+      "完整对照录像"
+    ],
+    "outcome": "完整 12 秒保留动作往返过程，可观察翼片和关节表现。",
+    "addedAt": "2026-11-16",
+    "observedAt": "2026-11-16",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/teddyaisi/status/2121320945570984394",
+    "repositoryUrl": null,
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "Teddy / @teddyaisi",
+    "sourceUrl": "https://x.com/teddyaisi/status/2121320945570984394",
+    "sourceDate": "2026-11-14",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2121305823423188992/img/-8SaVTk41dbma-R7.jpg",
+    "imageKind": "author-comparison",
+    "promptUrl": "https://x.com/teddyaisi/status/2121320945570984394",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2121320945570984394"
+    ],
+    "sourceAccess": "原帖作者、时间戳、媒体 ID 与 MP4 地址已核对。最高码率版本和平台播放版已下载并完整解码。",
+    "archivedVideos": [
+      {
+        "label": "机械天鹅完整对照 · Astra 在右侧",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2121305823423188992/img/-8SaVTk41dbma-R7.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2121320945570984394",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-clockwork-swan-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/teddy-clockwork-swan-1-original.mp4",
+        "bytes": 1044624,
+        "sha256": "85f53235e044bb45536457a9b5f9d212a612b06bf2e9853061beae1a409e64a2",
+        "durationSeconds": 12.0
+      }
+    ]
+  },
+  {
+    "id": "andriy-plush-dragon",
+    "group": "astra",
+    "category": "角色与动画",
+    "title": "毛绒小龙：在程序化角色里切换材质与配色",
+    "titleEn": "Plush Dragon: Material and Color Variants",
+    "modelLabel": "GPT-6 Astra (High)（作者声明）",
+    "summary": "两栏界面各有一只带小翅膀的龙。Astra 位于上栏，可看到薄荷绿、珊瑚色版本，以及角色轮廓和侧栏控件。",
+    "imageCaption": "作者原帖的程序化角色对照。GPT-6 Astra (High) 位于上方，Opus 5.5 (High) 位于下方。",
+    "evidenceNote": "作者明确对比 GPT-6 Astra 和 Opus 5.5 的毛绒角色任务，录像同时展示名称和界面。",
+    "promptAvailability": "author-description",
+    "promptSummary": "制作可视化的毛绒小龙，让用户切换外观并观察布料或毛绒质感。",
+    "outputType": [
+      "程序化角色对照",
+      "完整原始录像"
+    ],
+    "outcome": "约 12.05 秒录屏可比较材质与配色。可操作工程及布料模拟参数未公开。",
+    "addedAt": "2026-11-16",
+    "observedAt": "2026-11-16",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/Andr1ycp/status/2120987887516909855",
+    "repositoryUrl": null,
+    "evidenceStatus": "explicit-astra",
+    "platform": "X",
+    "platforms": [
+      "X"
+    ],
+    "author": "AndrIy / @Andr1ycp",
+    "sourceUrl": "https://x.com/Andr1ycp/status/2120987887516909855",
+    "sourceDate": "2026-11-13",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2120987848576749568/img/qBB1R2687q4WDQNn.jpg",
+    "imageKind": "author-comparison",
+    "promptUrl": "https://x.com/Andr1ycp/status/2120987887516909855",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/Andr1ycp/status/2120987887516909855"
+    ],
+    "sourceAccess": "原帖作者、时间戳、媒体 ID 与 MP4 地址已核对。最高码率版本和平台播放版已下载并完整解码。",
+    "archivedVideos": [
+      {
+        "label": "毛绒小龙完整对照 · Astra 在上方",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2120987848576749568/img/qBB1R2687q4WDQNn.jpg",
+        "sourceUrl": "https://x.com/Andr1ycp/status/2120987887516909855",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/andriy-plush-dragon-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/andriy-plush-dragon-1-original.mp4",
+        "bytes": 2692770,
+        "sha256": "9cfeeb4f9d1e78b8518b19781d1a838a281c09cb04a245abdc963a525c6b3085",
+        "durationSeconds": 12.05
+      }
+    ]
+  },
+  {
+    "id": "vinano-window-kitten-gif",
+    "group": "gif",
+    "category": "角色动图",
+    "title": "窗台小猫：轻甩尾巴与眨眼的九帧微动",
+    "titleEn": "Windowsill Kitten: A Nine-Frame Blink and Tail Loop",
+    "modelLabel": "GPT-Image-2.6（作者示例）",
+    "summary": "日光从窗户照进来，小猫坐在窗台上，尾巴轻摆、眼睛闭合。仅用小幅动作表现静止画面里的生命感。",
+    "imageCaption": "ViNano 示例原始 GIF 首帧，停止播放时显示。",
+    "evidenceNote": "ViNano 在 GPT Image 2.6 GIF 页面公开小猫原文件和示例任务。作者页面没有标明 Flare 或 Sunburst 子型号。",
+    "promptAvailability": "full-prompt-on-source",
+    "promptSummary": "让一只窗台上的小橘猫轻轻甩尾、眨眼，保持午后光线与背景稳定。",
+    "outputType": [
+      "原生 GIF 动图",
+      "原始 GIF 文件"
+    ],
+    "outcome": "实际文件 414×411，9 帧、1.62 秒。作者文件完整保留。",
+    "author": "ViNano AI",
+    "platform": "作者网站",
+    "platforms": [
+      "作者网站"
+    ],
+    "sourceDate": null,
+    "addedAt": "2026-11-16",
+    "observedAt": "2026-11-16",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "sourceUrl": "https://vinano.ai/gif-generator",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/vinano-window-kitten-gif-poster.jpg",
+    "imageKind": "gif-frame",
+    "promptUrl": "https://vinano.ai/gif-generator",
+    "evidenceUrls": [
+      "https://img.vinano.ai/mode-img/gif_generator/gif_generator_case01.gif"
+    ],
+    "evidenceStatus": "作者声明为 GPT-Image-2.6 原生 GIF",
+    "sourceAccess": "原始 GIF 已完整获取并逐帧解码，核对尺寸、帧数、时长与 SHA-256，确认有不同画面。",
+    "animatedGif": {
+      "url": "https://img.vinano.ai/mode-img/gif_generator/gif_generator_case01.gif",
+      "frames": 9,
+      "durationMs": 1620,
+      "width": 414,
+      "height": 411,
+      "bytes": 655146,
+      "sha256": "bc2005f5a14b05d03bcba891d4f2be7042361cb5a9d412aee84b748a826ed5d5",
+      "checkedAt": "2026-11-16"
+    }
+  },
+  {
+    "id": "predis-sale-lettering-gif",
+    "group": "gif",
+    "category": "产品动图",
+    "title": "逐字出现的促销横幅：从空底色到闪光收尾",
+    "titleEn": "Letter-by-Letter Sale Banner: Text Reveal with a Sparkle",
+    "modelLabel": "GPT-Image-2.6 Sunburst（作者声明）",
+    "summary": "珊瑚红底色上，白色促销标题按顺序出现，完整文案停留后在右侧闪光。可观察短文本的出字节奏和清晰度。",
+    "imageCaption": "Predis.ai 原始 GIF 首帧。按任务设计从空白底色开始，文字出现在后续帧。",
+    "evidenceNote": "作者明确标注 Sunburst GIF，并提供完整提示词和原始 GIF 下载。11 月 8 日是作者记录的制作日。",
+    "promptAvailability": "full-prompt-on-source",
+    "promptSummary": "让短促销文案从左向右依次出现，停留后在末字边缘闪光。",
+    "outputType": [
+      "原生 GIF 动图",
+      "文字横幅动效",
+      "原始 GIF 文件"
+    ],
+    "outcome": "原始文件 1008×672、12 帧、1.8 秒。首帧无文字，其后完整标题及闪光可见。",
+    "author": "Predis.ai",
+    "platform": "作者网站",
+    "platforms": [
+      "作者网站"
+    ],
+    "sourceDate": null,
+    "addedAt": "2026-11-16",
+    "observedAt": "2026-11-16",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "licenseNotes": "作品、动画与相关素材的权利归各自权利人。本库 MIT 许可仅适用于本库代码。",
+    "evidenceLevel": "author",
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "sourceUrl": "https://predis.ai/ai-models/gpt-image-2-6/",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/predis-sale-lettering-gif-poster.jpg",
+    "imageKind": "gif-frame",
+    "promptUrl": "https://predis.ai/ai-models/gpt-image-2-6/",
+    "evidenceUrls": [
+      "https://predis.ai/assets/img/ai-models/gpt-image-2-6/sale.gif"
+    ],
+    "evidenceStatus": "作者声明为 GPT-Image-2.6 原生 GIF",
+    "sourceAccess": "原始 GIF 已完整获取并逐帧解码，核对尺寸、帧数、时长与 SHA-256，确认有不同画面。",
+    "animatedGif": {
+      "url": "https://predis.ai/assets/img/ai-models/gpt-image-2-6/sale.gif",
+      "frames": 12,
+      "durationMs": 1800,
+      "width": 1008,
+      "height": 672,
+      "bytes": 1011059,
+      "sha256": "e16bc93f680ea5b9cd1dfca424554a46ae3cbc12b9bf10a679e20ffc558f274b",
+      "checkedAt": "2026-11-16"
+    }
+  },
+  {
     "id": "havis-gaming-pc",
     "group": "astra",
     "category": "产品与角色",
@@ -14213,51 +14688,6 @@
         "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2104604955852111872/img/f_r2ZL_03hPGHIdW.jpg"
       }
     ]
-  },
-  {
-    "id": "gptblender-floor-plan-house",
-    "title": "GPTBlender：平面图到四卧室住宅",
-    "titleEn": "GPTBlender — Floor Plan to Furnished Home",
-    "group": "astra",
-    "category": "建筑与室内",
-    "platform": "作者博客",
-    "platforms": [
-      "作者博客",
-      "GitHub"
-    ],
-    "author": "GPTBlender / qduoduo-hwh",
-    "sourceUrl": "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/",
-    "sourceDate": null,
-    "secondaryPublishedAt": null,
-    "observedAt": "2026-10-16",
-    "addedAt": "2026-09-30",
-    "modelLabel": "GPT-6 Astra（Blender 场景）+ BlenderKit（部分家具）",
-    "evidenceLevel": "author",
-    "evidenceStatus": "已读取作者教程、仓库与模型溯源",
-    "evidenceNote": "作者明确声明 Astra 通过 Blender 脚本生成并组装场景；家具含第三方 BlenderKit 资产，未独立复现建模过程。",
-    "sourceAccess": "已读取教程与仓库；实际加载模型并切换俯视，下载轻量 GLB 并核对 provenance SHA-256。原始创作日期未知，9 月 7 日为仓库注明的渲染更新日期。 2026-10-16 原 GitHub preview.webp 完整 GET 返回404，替换为原作者教程直接公布的同作 overview 成果图；另核对客餐厅渲染，均完整 GET、MIME/长度/SHA-256/解码和实际查看通过。本轮未重做旧模型加载或生成实验。 原 GitHub 工程入口本轮完整 GET 返回404，已撤掉当前源码与其失效证据跳转；历史 GLB 与交互观察保留原核查日期，不代表当前可用。",
-    "summary": "从平面图搭建四卧室住宅，教程对照白模、材质版及 BlenderKit 家具版，并展示分阶段成果。当前可查看作者全屋与客餐厅渲染；旧仓库已返回404，本轮未复查历史 GLB 下载或交互功能。",
-    "outputType": [
-      "Blender 房屋场景",
-      "作者分阶段建模教程",
-      "实际 Cycles 成果渲染"
-    ],
-    "promptAvailability": "作者教程公开任务提示词",
-    "promptExcerpt": null,
-    "promptSummary": "将平面图转为暖色现代住宅，使用 Blender CLI、BlenderKit 家具与 Cycles 渲染，并逐步核对布局。",
-    "promptUrl": "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/",
-    "imageUrl": "https://gptblender.com/assets/floor-plan-guide/optimized/04-apartment-overview-soft-warm-1280.webp",
-    "imageKind": "author-render",
-    "imageCaption": "作者教程中同一四卧室住宅的实际 Cycles 全屋俯视渲染；部分家具来自 BlenderKit。",
-    "demoUrl": "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/#interactive-demo",
-    "videoUrl": null,
-    "repositoryUrl": null,
-    "evidenceUrls": [
-      "https://gptblender.com/turn-floor-plan-into-3d-model-gpt6-astra/",
-      "https://gptblender.com/assets/floor-plan-guide/optimized/01-living-dining-soft-warm-1280.webp"
-    ],
-    "licenseNotes": "原工程历史标注 MIT；家具含 BlenderKit 第三方资产，仍受各自许可约束。旧仓库当前404，资产许可文件本轮未重新获取；不据此主张模型商业授权。图片等媒体不适用本库 MIT。",
-    "outcome": "本轮作者教程与两张同作品实际成果渲染完整获取、解码并查看。原 GitHub 仓库返回404，已撤掉失效源码入口；既有 GLB 文件和模型查看器核查属于历史观察，本轮未重新下载、操作或独立重做建模。"
   },
   {
     "id": "givros-forest-village",
