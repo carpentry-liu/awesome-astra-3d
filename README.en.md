@@ -13,7 +13,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-11-16 (Asia/Shanghai)** · **480 Astra examples** (123 source / project links, 135 demo links, 262 complete clips) · **6 Fable 5.2 examples** · **12 GIF animations** · **12 method references**.
+Updated **2026-11-17 (Asia/Shanghai)** · **484 Astra examples** (123 source / project links, 135 demo links, 266 complete clips) · **10 Fable 5.2 examples** · **14 GIF animations** · **12 method references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -36,11 +36,11 @@ Source / project totals count public material links; demo totals count creator-h
 
 [GIF collection](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=gif&order=newest#collection) · [Official generation guide](https://developers.openai.com/api/docs/guides/image-generation#generate-animated-gif-output)
 
-The collection now has twelve original GIFs. The windowsill kitten and letter reveal banner are new. Each preview opens the case and original file.
+The collection now has fourteen native GIFs. The waving avocado and orange bird were added on November 17. Each preview opens its creator record and original file.
 
-| Windowsill Kitten · ViNano | Letter Reveal Banner · Predis.ai |
+| Waving Avocado Reaction Sticker | Orange Bird Lifting Its Wings in a Native GIF |
 | --- | --- |
-| [<img src="https://img.vinano.ai/mode-img/gif_generator/gif_generator_case01.gif" height="200" alt="Windowsill Kitten · ViNano">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vinano-window-kitten-gif/) | [<img src="https://predis.ai/assets/img/ai-models/gpt-image-2-6/sale.gif" height="200" alt="Letter Reveal Banner · Predis.ai">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/predis-sale-lettering-gif/) |
+| [<img src="https://predis.ai/assets/img/ai-models/gpt-image-2-6/avocado.gif" height="186" alt="Waving Avocado Reaction Sticker">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/predis-avocado-wave-gif/) | [<img src="https://ofox.ai/blog/_assets/downloads/image26-gif-complete/ofox-native-bird.gif" height="186" alt="Orange Bird Lifting Its Wings in a Native GIF">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ofox-wing-lift-bird-gif/) |
 
 | Lantern Cat · Lightlyn | Raw Pixel Explosion · Kasper Zack Games |
 | --- | --- |
@@ -74,18 +74,18 @@ Select a title or image to open the creator's demo directly. Case pages retain s
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-11-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-11-17.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-The screenshots are from the **November 16, 2026** local production build. Browse in Chinese or English, open topics and share individual case pages.
+The screenshots are from the **November 17, 2026** local production build. Browse in Chinese or English, open topics and share individual case pages.
 
 <details>
-<summary>Gallery, mobile and case screenshots · November 16, 2026</summary>
+<summary>Gallery, mobile and case screenshots · November 17, 2026</summary>
 
-[![Fable 5.2 works and resource filters](docs/media/collection-2026-11-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=fable#collection)
+[![Latest Astra works and the Fable 5.2 tab](docs/media/collection-2026-11-17.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Fable 5.2 collection and resource filters on mobile](docs/media/mobile-2026-11-16.jpg)
+![Latest Fable 5.2 works on mobile](docs/media/mobile-2026-11-17.jpg)
 
-[![Da Vinci’s Living Codex case page](docs/media/case-2026-11-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/nanami-davinci-mechanics-fable/)
+[![Hidden Layers case page](docs/media/case-2026-11-17.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kyzo-butterfly-worlds-fable/)
 
 </details>
 
@@ -93,44 +93,47 @@ The screenshots are from the **November 16, 2026** local production build. Brows
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The November 16 update adds **seven Astra works, six complete recordings and two original GIFs**. The X clips cover a racing drone, a vintage tram, a miniature Colosseum, a V8 engine, a clockwork swan and a plush dragon. The mechanical typewriter includes an interactive model and its GLB.
+November 17 adds **4 Astra works, 4 Claude Fable 5.2 works and 2 native GIFs**, with **8 complete X recordings**.
 
 <!-- atlas:update-previews:start -->
-**New Astra works**
+**New in Astra**
 
-| Racing Drone · Havis | Vintage Tram · Lummox |
+| Oasis in the Dunes: Water, Palms and Shifting Light | An Alpine Train through Flower Fields and a Stone Viaduct |
 | --- | --- |
-| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/havis-racing-drone-result.jpg" height="165" alt="Racing Drone · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-racing-drone/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2121920476813332480/img/vOyiBPqorVPC10WT.jpg" height="165" alt="Vintage Tram · Lummox">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lummox-vintage-tram/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2122270987291066368/img/VWK93tsMt4ZQf2qb.jpg" height="160" alt="Oasis in the Dunes: Water, Palms and Shifting Light">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/chetan-oasis-dunes/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2122388066060910592/img/33B4Dm_M2QX9Ty2g.jpg" height="160" alt="An Alpine Train through Flower Fields and a Stone Viaduct">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/rubens-alpine-railway-astra/) |
+| [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/chetan-oasis-dunes/#videos) | [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/rubens-alpine-railway-astra/#videos) |
 
-| Miniature Colosseum · Rubens Soto | V8 Engine · Havis |
+| Icelandic Humpback Breach: Four Takes on One Three.js Brief | An Exploded Supercar Viewer with Part Inspection |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2121753309639815168/img/RIttUzXqOA05U3d4.jpg" height="165" alt="Miniature Colosseum · Rubens Soto">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/rubens-mini-colosseum/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/havis-v8-engine-result.jpg" height="165" alt="V8 Engine · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-v8-engine/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2122544139694985216/img/7iCTcLnNSG-EWg9s.jpg" height="160" alt="Icelandic Humpback Breach: Four Takes on One Three.js Brief">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-iceland-whale-breach/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/liam-supercar-exploded-frame-51.jpg" height="160" alt="An Exploded Supercar Viewer with Part Inspection">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/liam-supercar-exploded/) |
+| [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-iceland-whale-breach/#videos) | [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/liam-supercar-exploded/#videos) |
 
-| Clockwork Swan · teddyaisi | Plush Dragon · AndrIy |
+**New in Claude Fable 5.2**
+
+| Hidden Layers: Six 3D Worlds Following a Glasswing Butterfly | Rebuilding the Eiffel Tower from Its 1900 Drawings |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2121305823423188992/img/-8SaVTk41dbma-R7.jpg" height="165" alt="Clockwork Swan · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-clockwork-swan/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2120987848576749568/img/qBB1R2687q4WDQNn.jpg" height="165" alt="Plush Dragon · AndrIy">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/andriy-plush-dragon/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2122273558659510273/img/6LZ4CetD4TzAwKcC.jpg" height="160" alt="Hidden Layers: Six 3D Worlds Following a Glasswing Butterfly">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kyzo-butterfly-worlds-fable/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/nicolas-eiffel-fable-frame-42.jpg" height="160" alt="Rebuilding the Eiffel Tower from Its 1900 Drawings">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/nicolas-eiffel-fable/) |
+| [Demo](https://hidden-layers-eta.vercel.app/?q=low&world=conservatory&p=0.4) · [Source](https://github.com/ky-zo/fable-butterfly) · [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kyzo-butterfly-worlds-fable/#videos) | [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/nicolas-eiffel-fable/#videos) |
 
-**Interactive 3D · Mechanical Typewriter**
+| VICE ’86: A Procedural City and Driving Game | A 3D Claw Machine Built by Four Models |
+| --- | --- |
+| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/pplx-miami-heat-fable-frame-31.jpg" height="160" alt="VICE ’86: A Procedural City and Driving Game">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/pplx-miami-heat-fable/) | [<img src="https://pbs.twimg.com/ext_tw_video_thumb/2122359262072500224/pu/img/zXcsGnEW_cXZasCU.jpg" height="160" alt="A 3D Claw Machine Built by Four Models">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/marcus-claw-machine-fable/) |
+| [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/pplx-miami-heat-fable/#videos) | [Demo](https://automators.site/battles/claw-machine-grabbing-plush-cartoon-animation) · [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/marcus-claw-machine-fable/#videos) |
 
-[<img src="https://lab.einsia.ai/frontier3d/media/typewriter-astra.jpg" height="200" alt="Mechanical Typewriter · Frontier3DBench">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/frontier3d-typewriter/)
-
-Open the Astra column to rotate the author’s model, or download its GLB.
-[Open the gallery](https://lab.einsia.ai/frontier3dbench/#case-typewriter) · [GLB](https://lab.einsia.ai/frontier3d/models/typewriter-astra.glb?v=02190fc2c95c)
-
-[Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&resource=video&order=newest#collection) · [Download originals](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-16)
+[Latest Astra](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection) · [Latest Fable 5.2](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=fable&order=newest#collection) · [Download full originals](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-17)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [A Floating Island at Sunset: Two Blender Passes](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/realcodebear-blender-island-fable/) | RealCodeBear | [Demo](https://realcodebear.github.io/blender-fable-5.2/#island) · [Source](https://github.com/realcodebear/blender-fable-5.2) · [Original](https://github.com/realcodebear/blender-fable-5.2) |
-| [Da Vinci’s Living Codex: Sketch to Exploded View](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/nanami-davinci-mechanics-fable/) | coding-nanami / u/Sufficient_Nobody477 | [Demo](https://davinci-mechanics.vercel.app/) · [Source](https://github.com/coding-nanami/davinci-mechanics) · [Original](https://www.reddit.com/r/TopologyAI/comments/1xvghw6/used_fable_52_to_build_an_interactive_3d_da_vinci/) |
-| [Yonkers Rises: A City Boundary Becomes a Walking Mech](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/simonw-yonkers-fable/) | Simon Willison | [Demo](https://tools.simonwillison.net/yonkers-rises) · [Source](https://github.com/simonw/tools/blob/ffe3233016ea2f4805e35adcfb8745ea26c755dd/yonkers-rises.html) · [Original](https://simonwillison.net/2026/Nov/10/yonkers-rises/) |
-| [Shelby GT500: Modeling a Car from Reference Views](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/max-shelby-fable/) | Max / @maxt3chno | [Original](https://x.com/maxt3chno/status/2121603388009775599) |
-| [A Favorite Lunch Spot Rebuilt for an AR Walkthrough](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/trace-lunch-spot-fable/) | Trace / @Trace_AR | [Original](https://x.com/Trace_AR/status/2121284000232714559) |
-| [A Dark Fantasy Browser Game: Blockout, Lighting and Levels](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/mengto-dark-fantasy-fable/) | Meng To / @MengTo | [Original](https://x.com/MengTo/status/2121896633848017145) |
-| [Racing Drone: A 3D Frame and Camera Assembly](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/havis-racing-drone/) | Havis \| Claude Code / @HavisT83099 | [Original](https://x.com/HavisT83099/status/2122110265499988342) |
-| [Vintage Tram at the Corner: Four 3D Approaches](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lummox-vintage-tram/) | Lummox / @Lummox_eth | [Original](https://x.com/Lummox_eth/status/2121920575517962425) |
+| [Oasis in the Dunes: Water, Palms and Shifting Light](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/chetan-oasis-dunes/) | Chetan Ankola / @chetanankola | [Original](https://x.com/chetanankola/status/2122276006690013225) |
+| [An Alpine Train through Flower Fields and a Stone Viaduct](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/rubens-alpine-railway-astra/) | Rubens Soto \| AI & SaaS / @rubenssoto_ai | [Original](https://x.com/rubenssoto_ai/status/2122389082114490781) |
+| [Icelandic Humpback Breach: Four Takes on One Three.js Brief](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-iceland-whale-breach/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2122544449968373997) |
+| [An Exploded Supercar Viewer with Part Inspection](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/liam-supercar-exploded/) | Liam(リアム) / @Liam4480 | [Original](https://x.com/Liam4480/status/2121869339058196575) |
+| [Hidden Layers: Six 3D Worlds Following a Glasswing Butterfly](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kyzo-butterfly-worlds-fable/) | kyzo / @ky__zo | [Demo](https://hidden-layers-eta.vercel.app/?q=low&world=conservatory&p=0.4) · [Source](https://github.com/ky-zo/fable-butterfly) · [Original](https://x.com/ky__zo/status/2122274109795054036) |
+| [Rebuilding the Eiffel Tower from Its 1900 Drawings](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/nicolas-eiffel-fable/) | Nicolas Diolez / @NicolasDiolez | [Original](https://x.com/NicolasDiolez/status/2122328846649250010) |
+| [VICE ’86: A Procedural City and Driving Game](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/pplx-miami-heat-fable/) | Aravind Srinivas / @AravSrinivas | [Original](https://x.com/AravSrinivas/status/2122338465648103676) |
+| [A 3D Claw Machine Built by Four Models](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/marcus-claw-machine-fable/) | Marcus \| AI / @mmmarcus_ai | [Demo](https://automators.site/battles/claw-machine-grabbing-plush-cartoon-animation) · [Original](https://x.com/mmmarcus_ai/status/2122359273996837281) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

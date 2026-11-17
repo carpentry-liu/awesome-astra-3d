@@ -1,5 +1,568 @@
 [
   {
+    "id": "chetan-oasis-dunes",
+    "group": "astra",
+    "title": "沙漠绿洲：把棕榈树、风沙和水面做成三维场景",
+    "titleEn": "Oasis in the Dunes: Water, Palms and Shifting Light",
+    "category": "程序化场景",
+    "platforms": [
+      "X",
+      "Reddit"
+    ],
+    "modelLabel": "GPT-6 Astra",
+    "evidenceNote": "Chetan Ankola 的 X 原帖与 Reddit 制作说明写明 GPT-6 Astra、Three.js、Blender 和 WebGPU。场景复用了作者此前的雾效、水面和天空，并有人为调整光照参数。",
+    "summary": "从亮光下的沙丘转到暮色中的绿洲，棕榈、沙尘和水面随光照变化。作者演示了植被摆放和环境参数，公开资料以录像为主。",
+    "outputType": [
+      "Three.js",
+      "WebGPU",
+      "场景布置",
+      "完整运行录像"
+    ],
+    "promptAvailability": "author-description",
+    "promptUrl": "https://www.reddit.com/r/vibecoding/comments/1xxm17x/oasis_dunes_in_threejs/",
+    "promptSummary": "作者组合了沙地、植被、水面、光照和雾效，并手动调节画面。",
+    "imageCaption": "Chetan Ankola 原帖的绿洲场景封面。",
+    "evidenceUrls": [
+      "https://www.reddit.com/r/vibecoding/comments/1xxm17x/oasis_dunes_in_threejs/",
+      "https://api.fxtwitter.com/chetanankola/status/2122276006690013225"
+    ],
+    "outcome": "showcase",
+    "addedAt": "2026-11-17",
+    "observedAt": "2026-11-17",
+    "promptExcerpt": null,
+    "secondaryPublishedAt": null,
+    "licenseNotes": "第三方作品与媒体保留各自权利。本库 MIT 许可适用于本库自身代码。",
+    "evidenceLevel": "author",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/chetanankola/status/2122276006690013225",
+    "repositoryUrl": null,
+    "sourceDate": "2026-11-16",
+    "sourceUrl": "https://x.com/chetanankola/status/2122276006690013225",
+    "platform": "X",
+    "author": "Chetan Ankola / @chetanankola",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "核对 X 原帖作者、发布时间、媒体 ID 和两个原平台版本的 MP4 地址。两种文件完整获取并全长解码。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2122270987291066368/img/VWK93tsMt4ZQf2qb.jpg",
+    "imageKind": "video-poster",
+    "archivedVideos": [
+      {
+        "label": "沙丘绿洲 · 完整原帖录像",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2122270987291066368/img/VWK93tsMt4ZQf2qb.jpg",
+        "sourceUrl": "https://x.com/chetanankola/status/2122276006690013225",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/chetan-oasis-dunes-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/chetan-oasis-dunes-1-original.mp4",
+        "bytes": 79066818,
+        "sha256": "68b76d4861ab3333d93ea44d9037a9c6a498ecf3aa03a07e6787f6fcab3cd4e6",
+        "durationSeconds": 35.35
+      }
+    ]
+  },
+  {
+    "id": "rubens-alpine-railway-astra",
+    "group": "astra",
+    "title": "高山列车：从花田、河谷到石拱桥的三维镜头",
+    "titleEn": "An Alpine Train through Flower Fields and a Stone Viaduct",
+    "category": "程序化场景",
+    "modelLabel": "GPT-6 Astra Max",
+    "evidenceNote": "Rubens Soto 的单模型原帖明确写出 GPT-6 Astra Max。后续同题对照包含同一 Astra 作品，本条保留作者最初发布的完整版本。",
+    "summary": "白蓝色列车驶过高山花田，镜头沿着河谷转向石拱桥和远处山脊，完整展示同一三维场景的几次视角切换。",
+    "outputType": [
+      "三维场景",
+      "镜头动画",
+      "完整运行录像"
+    ],
+    "promptAvailability": "author-description",
+    "imageCaption": "Rubens Soto 原帖的高山列车封面。",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/rubenssoto_ai/status/2122389082114490781"
+    ],
+    "outcome": "showcase",
+    "addedAt": "2026-11-17",
+    "observedAt": "2026-11-17",
+    "promptExcerpt": null,
+    "secondaryPublishedAt": null,
+    "licenseNotes": "第三方作品与媒体保留各自权利。本库 MIT 许可适用于本库自身代码。",
+    "evidenceLevel": "author",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/rubenssoto_ai/status/2122389082114490781",
+    "repositoryUrl": null,
+    "promptUrl": null,
+    "promptSummary": null,
+    "sourceDate": "2026-11-17",
+    "platforms": [
+      "X"
+    ],
+    "sourceUrl": "https://x.com/rubenssoto_ai/status/2122389082114490781",
+    "platform": "X",
+    "author": "Rubens Soto | AI & SaaS / @rubenssoto_ai",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "核对 X 原帖作者、发布时间、媒体 ID 和两个原平台版本的 MP4 地址。两种文件完整获取并全长解码。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2122388066060910592/img/33B4Dm_M2QX9Ty2g.jpg",
+    "imageKind": "video-poster",
+    "archivedVideos": [
+      {
+        "label": "高山列车 · 完整 Astra 原帖录像",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2122388066060910592/img/33B4Dm_M2QX9Ty2g.jpg",
+        "sourceUrl": "https://x.com/rubenssoto_ai/status/2122389082114490781",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/rubens-nov17-3d-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/rubens-nov17-3d-1-original.mp4",
+        "bytes": 27525182,
+        "sha256": "105f80a98dfa8aa0a8a5d1aa23b796582439d02178f0471a7668ce700c4ac5aa",
+        "durationSeconds": 30.06
+      }
+    ]
+  },
+  {
+    "id": "teddy-iceland-whale-breach",
+    "group": "astra",
+    "title": "冰岛座头鲸跃出海面：同一 Three.js 任务的四种演绎",
+    "titleEn": "Icelandic Humpback Breach: Four Takes on One Three.js Brief",
+    "category": "角色与动画",
+    "modelLabel": "GPT-6 Astra · xhigh；对照 Fable 5.2、Gemini 4 Carbon、Gemini 4 Hydrogen",
+    "evidenceNote": "teddyaisi 的原帖给出相同 Three.js 任务及四格标注。左下角为 GPT-6 Astra，左上角为 Claude Fable 5.2，右上与右下分别为 Gemini 4 Carbon 和 Hydrogen。",
+    "summary": "在玄武岩海蚀柱外，让座头鲸出水、翻身、拍落海面并抬尾。可查看四份水面、光照、溅水和动作节奏的不同处理。",
+    "outputType": [
+      "Three.js",
+      "四模型对照",
+      "完整运行录像"
+    ],
+    "promptAvailability": "author-description",
+    "promptSummary": "制作约 20 秒的座头鲸跃水动画，动作包含出水、翻转、拍落和尾鳍收尾。",
+    "imageCaption": "原作者四格视频封面。Astra 位于左下，Fable 5.2 位于左上。",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/teddyaisi/status/2122544449968373997"
+    ],
+    "outcome": "comparison",
+    "addedAt": "2026-11-17",
+    "observedAt": "2026-11-17",
+    "promptExcerpt": null,
+    "secondaryPublishedAt": null,
+    "licenseNotes": "第三方作品与媒体保留各自权利。本库 MIT 许可适用于本库自身代码。",
+    "evidenceLevel": "author",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/teddyaisi/status/2122544449968373997",
+    "repositoryUrl": null,
+    "promptUrl": "https://x.com/teddyaisi/status/2122544449968373997",
+    "sourceDate": "2026-11-17",
+    "platforms": [
+      "X"
+    ],
+    "sourceUrl": "https://x.com/teddyaisi/status/2122544449968373997",
+    "platform": "X",
+    "author": "Teddy / @teddyaisi",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "核对 X 原帖作者、发布时间、媒体 ID 和两个原平台版本的 MP4 地址。两种文件完整获取并全长解码。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2122544139694985216/img/7iCTcLnNSG-EWg9s.jpg",
+    "imageKind": "video-poster",
+    "archivedVideos": [
+      {
+        "label": "座头鲸跃水 · 四模型完整原帖对照",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2122544139694985216/img/7iCTcLnNSG-EWg9s.jpg",
+        "sourceUrl": "https://x.com/teddyaisi/status/2122544449968373997",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/teddy-iceland-whale-breach-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/teddy-iceland-whale-breach-1-original.mp4",
+        "bytes": 5080739,
+        "sha256": "9c197b8d227e120eb4f43552a3156e1b9e19f98936affbe416146e7083d80591",
+        "durationSeconds": 20.0
+      }
+    ]
+  },
+  {
+    "id": "liam-supercar-exploded",
+    "group": "astra",
+    "title": "跑车零件拆解：座椅、发动机与悬架的交互视图",
+    "titleEn": "An Exploded Supercar Viewer with Part Inspection",
+    "category": "拆解与剖面",
+    "platforms": [
+      "X",
+      "note"
+    ],
+    "modelLabel": "ChatGPT Work · Astra",
+    "evidenceNote": "Liam 的 X 原帖明确标注 ChatGPT Work 的 Astra，作者在 note 发布完整日文提示词。请求采用 Three.js 基本几何，支持与单独部件相关的说明和滑块。",
+    "summary": "围绕座椅展开车身、V8 发动机、车轮和悬架。用滑块比较装配与拆解状态，点选部件查看说明。提示词公开，尺寸与部件信息用于示意。",
+    "outputType": [
+      "Three.js",
+      "三维拆解",
+      "完整运行录像"
+    ],
+    "promptAvailability": "full-prompt-on-source",
+    "promptUrl": "https://note.com/kei4485677/n/na8df3791b9d7",
+    "promptSummary": "让车身、内装、驱动、悬架与灯具围绕座椅展开，提供连续滑块、类别筛选和部件说明。",
+    "imageCaption": "本库截取 Liam 原帖录像的实际拆解视图。 截帧时间 51 秒。",
+    "evidenceUrls": [
+      "https://note.com/kei4485677/n/na8df3791b9d7",
+      "https://api.fxtwitter.com/Liam4480/status/2121869339058196575"
+    ],
+    "outcome": "showcase-with-limitations",
+    "addedAt": "2026-11-17",
+    "observedAt": "2026-11-17",
+    "promptExcerpt": null,
+    "secondaryPublishedAt": null,
+    "licenseNotes": "第三方作品与媒体保留各自权利。本库 MIT 许可适用于本库自身代码。",
+    "evidenceLevel": "author",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/Liam4480/status/2121869339058196575",
+    "repositoryUrl": null,
+    "sourceDate": "2026-11-15",
+    "sourceUrl": "https://x.com/Liam4480/status/2121869339058196575",
+    "platform": "X",
+    "author": "Liam(リアム) / @Liam4480",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "核对 X 原帖作者、发布时间、媒体 ID 和两个原平台版本的 MP4 地址。两种文件完整获取并全长解码。",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/liam-supercar-exploded-frame-51.jpg",
+    "imageKind": "video-frame",
+    "archivedVideos": [
+      {
+        "label": "跑车拆解与部件选择 · 完整原帖录像",
+        "posterUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/liam-supercar-exploded-frame-51.jpg",
+        "sourceUrl": "https://x.com/Liam4480/status/2121869339058196575",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/liam-supercar-exploded-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/liam-supercar-exploded-1-original.mp4",
+        "bytes": 6544023,
+        "sha256": "d07213366367f9a7d433b027e3d4d5141fc4c00c95735a4628d5cf639028eb3c",
+        "durationSeconds": 90.07
+      }
+    ]
+  },
+  {
+    "id": "kyzo-butterfly-worlds-fable",
+    "group": "fable",
+    "title": "Hidden Layers：跟着玻璃翼蝶穿过六层三维世界",
+    "titleEn": "Hidden Layers: Six 3D Worlds Following a Glasswing Butterfly",
+    "category": "程序化场景",
+    "platforms": [
+      "X",
+      "GitHub",
+      "个人网站"
+    ],
+    "modelLabel": "Claude Fable 5.2",
+    "evidenceNote": "kyzo 的 X 原帖明确写出 Fable 5.2，作者仓库公开提示词与六个场景的实现。作者说明模型、材质与着色器由程序绘制。",
+    "summary": "一只玻璃翼蝶困在起雾的温室。滚动推进飞行，从温室经过夜海和丝线，最后回到蛹与玻璃。作者公开六章源码、提示词和可操作演示。",
+    "outputType": [
+      "Three.js",
+      "交互叙事",
+      "源代码",
+      "完整运行录像"
+    ],
+    "promptAvailability": "full-prompt-in-repository",
+    "promptUrl": "https://github.com/ky-zo/fable-butterfly/blob/main/PROMPTS.md",
+    "promptSummary": "把同一只蝴蝶放进六个连贯的空间，每层采用独立的视觉规则，并让结尾回到开场。",
+    "imageCaption": "kyzo 原帖录像中的起雾温室。",
+    "repositoryUrl": "https://github.com/ky-zo/fable-butterfly",
+    "evidenceUrls": [
+      "https://github.com/ky-zo/fable-butterfly/blob/main/docs/ARC.md",
+      "https://api.fxtwitter.com/ky__zo/status/2122274109795054036"
+    ],
+    "outcome": "showcase",
+    "addedAt": "2026-11-17",
+    "observedAt": "2026-11-17",
+    "promptExcerpt": null,
+    "secondaryPublishedAt": null,
+    "licenseNotes": "第三方作品与媒体保留各自权利。本库 MIT 许可适用于本库自身代码。",
+    "evidenceLevel": "author",
+    "demoUrl": "https://hidden-layers-eta.vercel.app/?q=low&world=conservatory&p=0.4",
+    "videoUrl": "https://x.com/ky__zo/status/2122274109795054036",
+    "sourceDate": "2026-11-16",
+    "sourceUrl": "https://x.com/ky__zo/status/2122274109795054036",
+    "platform": "X",
+    "author": "kyzo / @ky__zo",
+    "evidenceStatus": "explicit-fable",
+    "sourceAccess": "核对 X 原帖作者、发布时间、媒体 ID 和两个原平台版本的 MP4 地址。两种文件完整获取并全长解码。 从作者仓库指向的备用演示载入温室实景、飞行说明和六章选择器。入口采用作者公开的低画质参数以降低启动负担。",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2122273558659510273/img/6LZ4CetD4TzAwKcC.jpg",
+    "imageKind": "video-poster",
+    "archivedVideos": [
+      {
+        "label": "玻璃翼蝶与温室 · 完整原帖录像",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2122273558659510273/img/6LZ4CetD4TzAwKcC.jpg",
+        "sourceUrl": "https://x.com/ky__zo/status/2122274109795054036",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/kyzo-butterfly-worlds-fable-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/kyzo-butterfly-worlds-fable-1-original.mp4",
+        "bytes": 32053948,
+        "sha256": "4567aa6c8c7a7d5eb031eb90b6f4e8bdf0043cf79629b87f65774397d36363f9",
+        "durationSeconds": 27.65
+      }
+    ]
+  },
+  {
+    "id": "nicolas-eiffel-fable",
+    "group": "fable",
+    "title": "从 1900 年图纸重建埃菲尔铁塔",
+    "titleEn": "Rebuilding the Eiffel Tower from Its 1900 Drawings",
+    "category": "Blender 建模",
+    "platforms": [
+      "X",
+      "Reddit",
+      "Fab"
+    ],
+    "modelLabel": "Claude Fable 5.2 · High",
+    "evidenceNote": "Nicolas Diolez 选取原始图纸、反复校对结构，并对照法国 IGN LiDAR 数据。作者说明 Fable 5.2 编写 Blender 5.3 的几何、纹理和影片脚本。精度数据为作者自述。",
+    "summary": "用埃菲尔的原始图纸重建格构、铆钉和平台，影片从城市远景转到塔身细节。作者在 Fab 提供 Blender、GLB 等付费工程格式与公开预览。",
+    "outputType": [
+      "Blender",
+      "图纸重建",
+      "程序化 PBR",
+      "完整运行录像"
+    ],
+    "promptAvailability": "author-description",
+    "promptUrl": "https://www.reddit.com/r/ClaudeAI/comments/1xxqbuw/im_a_photogrammetry_guy_and_this_eiffel_tower_is/",
+    "promptSummary": "分阶段照着图纸修正塔体，反复检查近景，并用现成测绘数据核对几何。",
+    "imageCaption": "本库截自 Nicolas Diolez 原帖的实际塔身渲染。 截帧时间 42 秒。",
+    "evidenceUrls": [
+      "https://www.fab.com/listings/79937820-b531-49d2-b7a1-98cf4b50872d",
+      "https://www.reddit.com/r/ClaudeAI/comments/1xxqbuw/im_a_photogrammetry_guy_and_this_eiffel_tower_is/",
+      "https://api.fxtwitter.com/NicolasDiolez/status/2122328846649250010"
+    ],
+    "outcome": "showcase-with-limitations",
+    "addedAt": "2026-11-17",
+    "observedAt": "2026-11-17",
+    "promptExcerpt": null,
+    "secondaryPublishedAt": null,
+    "licenseNotes": "第三方作品与媒体保留各自权利。本库 MIT 许可适用于本库自身代码。",
+    "evidenceLevel": "author",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/NicolasDiolez/status/2122328846649250010",
+    "repositoryUrl": null,
+    "sourceDate": "2026-11-16",
+    "sourceUrl": "https://x.com/NicolasDiolez/status/2122328846649250010",
+    "platform": "X",
+    "author": "Nicolas Diolez / @NicolasDiolez",
+    "evidenceStatus": "explicit-fable",
+    "sourceAccess": "核对 X 原帖作者、发布时间、媒体 ID 和两个原平台版本的 MP4 地址。两种文件完整获取并全长解码。",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/nicolas-eiffel-fable-frame-42.jpg",
+    "imageKind": "video-frame",
+    "archivedVideos": [
+      {
+        "label": "埃菲尔铁塔重建 · 完整原帖录像",
+        "posterUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/nicolas-eiffel-fable-frame-42.jpg",
+        "sourceUrl": "https://x.com/NicolasDiolez/status/2122328846649250010",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/nicolas-eiffel-fable-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/nicolas-eiffel-fable-1-original.mp4",
+        "bytes": 8023929,
+        "sha256": "fc0013eb89377ccd314ee07f7ddcf58b08ad282a53d8b7848486d34a678667fb",
+        "durationSeconds": 52.54
+      }
+    ]
+  },
+  {
+    "id": "pplx-miami-heat-fable",
+    "group": "fable",
+    "title": "VICE ’86：用程序生成城市、车库与驾驶体验",
+    "titleEn": "VICE ’86: A Procedural City and Driving Game",
+    "category": "3D 游戏",
+    "modelLabel": "Claude Fable 5.2 · Perplexity Teammate",
+    "evidenceNote": "Aravind Srinivas 的原帖将项目署为 Perplexity Teammate 使用 Fable 5.2。作者说明使用自写 WebGL2 渲染器，并通过代码生成城市、车辆、天气与音效。",
+    "summary": "以 1980 年代的霓虹迈阿密为灵感，车辆穿过街区和雨夜，也可以在车库看车。完整原帖录像包含不同光线下的行驶画面。",
+    "outputType": [
+      "WebGL2",
+      "三维城市",
+      "浏览器驾驶游戏",
+      "完整运行录像"
+    ],
+    "promptAvailability": "author-description",
+    "imageCaption": "本库截取 VICE ’86 原帖的实际驾驶场景。 截帧时间 31 秒。",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/AravSrinivas/status/2122338465648103676",
+      "https://heat.pplx.app/"
+    ],
+    "outcome": "showcase-with-limitations",
+    "addedAt": "2026-11-17",
+    "observedAt": "2026-11-17",
+    "promptExcerpt": null,
+    "secondaryPublishedAt": null,
+    "licenseNotes": "第三方作品与媒体保留各自权利。本库 MIT 许可适用于本库自身代码。",
+    "evidenceLevel": "author",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/AravSrinivas/status/2122338465648103676",
+    "repositoryUrl": null,
+    "promptUrl": null,
+    "promptSummary": null,
+    "sourceDate": "2026-11-16",
+    "platforms": [
+      "X"
+    ],
+    "sourceUrl": "https://x.com/AravSrinivas/status/2122338465648103676",
+    "platform": "X",
+    "author": "Aravind Srinivas / @AravSrinivas",
+    "evidenceStatus": "explicit-fable",
+    "sourceAccess": "核对 X 原帖作者、发布时间、媒体 ID 和两个原平台版本的 MP4 地址。两种文件完整获取并全长解码。 作者网页有加载限制，本条提供完整原帖录像。",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/pplx-miami-heat-fable-frame-31.jpg",
+    "imageKind": "video-frame",
+    "archivedVideos": [
+      {
+        "label": "VICE ’86 驾驶演示 · 完整原帖录像",
+        "posterUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/pplx-miami-heat-fable-frame-31.jpg",
+        "sourceUrl": "https://x.com/AravSrinivas/status/2122338465648103676",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/pplx-miami-heat-fable-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/pplx-miami-heat-fable-1-original.mp4",
+        "bytes": 41739220,
+        "sha256": "29f23689410904ff79b52ca448d696c9fa8eec28b5253ac14816cdc40d359a47",
+        "durationSeconds": 40.05
+      }
+    ]
+  },
+  {
+    "id": "marcus-claw-machine-fable",
+    "group": "fable",
+    "title": "三维抓娃娃机：同一短动画的四个版本",
+    "titleEn": "A 3D Claw Machine Built by Four Models",
+    "category": "角色与动画",
+    "platforms": [
+      "X",
+      "个人网站"
+    ],
+    "modelLabel": "Claude Fable 5.2；对照 Opus 5.5、GPT-6.1 Sol、Gemini 4 Argon",
+    "evidenceNote": "Marcus 在原帖标出四个版本，Fable 5.2 位于首格。作者对照页可切换结果并公开相同的 Three.js 任务。",
+    "summary": "四个模型都要让抓爪下探、夹住毛绒玩具并放下，随后自动循环。可分别打开四个实现，观察材质、姿势和落物时机。",
+    "outputType": [
+      "Three.js",
+      "循环动画",
+      "四模型对照",
+      "完整运行录像"
+    ],
+    "promptAvailability": "full-prompt-on-source",
+    "promptUrl": "https://automators.site/battles/claw-machine-grabbing-plush-cartoon-animation",
+    "promptSummary": "用 Three.js 做卡通抓娃娃机的单文件页面，以抓取和掉落组成连续循环。",
+    "imageCaption": "Marcus 原帖的四格对照封面，Fable 5.2 位于最上方。",
+    "evidenceUrls": [
+      "https://automators.site/battles/claw-machine-grabbing-plush-cartoon-animation/builds/fable",
+      "https://api.fxtwitter.com/mmmarcus_ai/status/2122359273996837281"
+    ],
+    "outcome": "comparison",
+    "addedAt": "2026-11-17",
+    "observedAt": "2026-11-17",
+    "promptExcerpt": null,
+    "secondaryPublishedAt": null,
+    "licenseNotes": "第三方作品与媒体保留各自权利。本库 MIT 许可适用于本库自身代码。",
+    "evidenceLevel": "author",
+    "demoUrl": "https://automators.site/battles/claw-machine-grabbing-plush-cartoon-animation",
+    "videoUrl": "https://x.com/mmmarcus_ai/status/2122359273996837281",
+    "repositoryUrl": null,
+    "sourceDate": "2026-11-17",
+    "sourceUrl": "https://x.com/mmmarcus_ai/status/2122359273996837281",
+    "platform": "X",
+    "author": "Marcus | AI / @mmmarcus_ai",
+    "evidenceStatus": "explicit-fable",
+    "sourceAccess": "核对 X 原帖作者、发布时间、媒体 ID 和两个原平台版本的 MP4 地址。两种文件完整获取并全长解码。 对照网页实测可切换至 Fable 5.2，并在 Three.js 画布播放。",
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2122359262072500224/pu/img/zXcsGnEW_cXZasCU.jpg",
+    "imageKind": "video-poster",
+    "archivedVideos": [
+      {
+        "label": "抓娃娃机 · 四模型完整原帖对照",
+        "posterUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2122359262072500224/pu/img/zXcsGnEW_cXZasCU.jpg",
+        "sourceUrl": "https://x.com/mmmarcus_ai/status/2122359273996837281",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/marcus-claw-machine-fable-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/marcus-claw-machine-fable-1-original.mp4",
+        "bytes": 649292,
+        "sha256": "38496164c3896b8f9371ee95dad56b998476c67007f1c32fdaee967ddfea8142",
+        "durationSeconds": 12.05
+      }
+    ]
+  },
+  {
+    "id": "predis-avocado-wave-gif",
+    "group": "gif",
+    "title": "挥手眨眼的牛油果贴纸",
+    "titleEn": "Waving Avocado Reaction Sticker",
+    "category": "角色动图",
+    "platform": "Predis.ai",
+    "platforms": [
+      "Predis.ai"
+    ],
+    "author": "Predis.ai",
+    "modelLabel": "GPT-Image-2.6 Flare GIF",
+    "evidenceNote": "Predis.ai 公开同一作品的提示词、Flare GIF 归属与原文件，文中记录的生成日为 11 月 8 日。",
+    "summary": "短手挥动后眨一下眼，最后回到起始姿势。适合对照作者的简单角色循环提示词。",
+    "outputType": [
+      "原生 GIF",
+      "反应贴纸"
+    ],
+    "promptAvailability": "full-prompt-on-source",
+    "promptSummary": "画一个白描边的牛油果，挥手、眨眼，再回到原始姿势。",
+    "imageCaption": "由本库提取的 Predis.ai 原始动图首帧。",
+    "outcome": "showcase",
+    "addedAt": "2026-11-17",
+    "observedAt": "2026-11-17",
+    "promptExcerpt": null,
+    "secondaryPublishedAt": null,
+    "licenseNotes": "第三方作品与媒体保留各自权利。本库 MIT 许可适用于本库自身代码。",
+    "evidenceLevel": "author",
+    "evidenceUrls": [
+      "https://predis.ai/assets/img/ai-models/gpt-image-2-6/avocado.gif"
+    ],
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "promptUrl": "https://predis.ai/ai-models/gpt-image-2-6/",
+    "sourceDate": null,
+    "sourceUrl": "https://predis.ai/ai-models/gpt-image-2-6/",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/predis-avocado-wave-gif-poster.jpg",
+    "imageKind": "gif-frame",
+    "evidenceStatus": "作者声明为 GPT-Image-2.6 原生 GIF",
+    "sourceAccess": "直接下载原始 GIF，校验格式、全部帧、有效延时和不同画面。",
+    "animatedGif": {
+      "url": "https://predis.ai/assets/img/ai-models/gpt-image-2-6/avocado.gif",
+      "frames": 8,
+      "durationMs": 1200,
+      "width": 960,
+      "height": 960,
+      "bytes": 790350,
+      "sha256": "5412c8b7be655cb2bc33ecca9577b7853b2fdc5e92a9e17f2e50bb043fa51471",
+      "checkedAt": "2026-11-17"
+    }
+  },
+  {
+    "id": "ofox-wing-lift-bird-gif",
+    "group": "gif",
+    "title": "枝头橙鸟：抬翅再落回起始姿势",
+    "titleEn": "Orange Bird Lifting Its Wings in a Native GIF",
+    "category": "角色动图",
+    "platform": "Ofox",
+    "platforms": [
+      "Ofox"
+    ],
+    "author": "Ofox",
+    "modelLabel": "GPT-Image-2.6 Flare GIF",
+    "evidenceNote": "Ofox 公开其 Flare API 实测、请求参数与同一次返回的原始 GIF。另一个雪碧图转码样例有独立出处。",
+    "summary": "小鸟站在树枝上抬翅、停顿，再回到起始位置。作者提供原始请求参数，便于比较逐帧时长与动作表现。",
+    "outputType": [
+      "原生 GIF",
+      "文本生成动画"
+    ],
+    "promptAvailability": "full-prompt-on-source",
+    "promptSummary": "保持枝条与相机固定，让橙色小鸟完成一次可回到起始位置的抬翅动作。",
+    "imageCaption": "由本库提取的 Ofox 原始动图首帧。",
+    "sourceDate": "2026-11-05",
+    "outcome": "showcase",
+    "addedAt": "2026-11-17",
+    "observedAt": "2026-11-17",
+    "promptExcerpt": null,
+    "secondaryPublishedAt": null,
+    "licenseNotes": "第三方作品与媒体保留各自权利。本库 MIT 许可适用于本库自身代码。",
+    "evidenceLevel": "author",
+    "evidenceUrls": [
+      "https://ofox.ai/blog/_assets/downloads/image26-gif-complete/ofox-native-bird.gif"
+    ],
+    "demoUrl": null,
+    "videoUrl": null,
+    "repositoryUrl": null,
+    "promptUrl": "https://ofox.ai/blog/gpt-image-2-6-gif-guide/",
+    "sourceUrl": "https://ofox.ai/blog/gpt-image-2-6-gif-guide/",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/ofox-wing-lift-bird-gif-poster.jpg",
+    "imageKind": "gif-frame",
+    "evidenceStatus": "作者声明为 GPT-Image-2.6 原生 GIF",
+    "sourceAccess": "直接下载原始 GIF，校验格式、全部帧、有效延时和不同画面。",
+    "animatedGif": {
+      "url": "https://ofox.ai/blog/_assets/downloads/image26-gif-complete/ofox-native-bird.gif",
+      "frames": 9,
+      "durationMs": 1800,
+      "width": 512,
+      "height": 512,
+      "bytes": 677030,
+      "sha256": "fe262fdc8cf8362ad86473c25642aa43add063fd0f08632b53ff1e92f2dc24e8",
+      "checkedAt": "2026-11-17"
+    }
+  },
+  {
     "id": "realcodebear-blender-island-fable",
     "title": "日落浮岛：两版 Blender 场景如何迭代",
     "titleEn": "A Floating Island at Sunset: Two Blender Passes",

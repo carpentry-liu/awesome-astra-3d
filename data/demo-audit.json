@@ -1165,6 +1165,46 @@
       "scope": "Chromium rendered the author WebGL scene and responded to controls.",
       "browserEvidence": "YONKERS RISES\nSTOMPING THE BRONX\n11.1 km\nMECH HEIGHT\n2\nSTOMPS",
       "modelResponses": []
+    },
+    {
+      "id": "kyzo-butterfly-worlds-fable",
+      "url": "https://hidden-layers-eta.vercel.app/?q=low&world=conservatory&p=0.4",
+      "status": 200,
+      "observedAt": "2026-11-17",
+      "result": "verified-interactive",
+      "scope": "The publisher's GitHub-linked deployment rendered the WebGL conservatory scene, butterfly, scrolling instructions and controls for six layers at low quality.",
+      "browserEvidence": {
+        "title": "Hidden Layers",
+        "frame": "Conservatory, layer 01 / 06",
+        "viewport": [
+          1000,
+          720
+        ],
+        "controls": [
+          "Scroll to fly",
+          "Conservatory",
+          "Latent",
+          "Corpus",
+          "Descent",
+          "Loom",
+          "Mirror"
+        ]
+      }
+    },
+    {
+      "id": "marcus-claw-machine-fable",
+      "url": "https://automators.site/battles/claw-machine-grabbing-plush-cartoon-animation",
+      "status": 200,
+      "observedAt": "2026-11-17",
+      "result": "verified-interactive",
+      "scope": "The author comparison switched to Fable 5.2 and rendered its Three.js claw machine as a live WebGL canvas.",
+      "browserEvidence": {
+        "canvas": [
+          830,
+          653
+        ],
+        "selectedModel": "Claude Fable 5.2"
+      }
     }
   ]
 }
