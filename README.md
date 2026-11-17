@@ -13,7 +13,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-更新于 **2026-11-16（Asia/Shanghai）** · **480** 条 Astra 案例（123 条源码 / 工程、135 个演示入口、262 个完整视频） · **6** 条 Fable 5.2 案例 · **12** 件 GIF 动图 · **12** 条方法参考。
+更新于 **2026-11-17（Asia/Shanghai）** · **484** 条 Astra 案例（123 条源码 / 工程、135 个演示入口、266 个完整视频） · **10** 条 Fable 5.2 案例 · **14** 件 GIF 动图 · **12** 条方法参考。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -36,11 +36,11 @@
 
 [GIF 动图分类](https://carpentry-liu.github.io/awesome-astra-3d/?group=gif&order=newest#collection) · [官方生成说明](https://developers.openai.com/api/docs/guides/image-generation#generate-animated-gif-output)
 
-现有十二件原生 GIF。本次加入窗台小猫和逐字促销横幅。点击动图可查看作品、提示词和原始文件。
+现有十四件原生 GIF。11 月 17 日新增挥手牛油果和枝头橙鸟。点击动图可查看原始提示词与文件。
 
-| 窗台小猫 · ViNano | 逐字促销横幅 · Predis.ai |
+| 挥手眨眼的牛油果贴纸 | 枝头橙鸟：抬翅再落回起始姿势 |
 | --- | --- |
-| [<img src="https://img.vinano.ai/mode-img/gif_generator/gif_generator_case01.gif" height="200" alt="窗台小猫 · ViNano">](https://carpentry-liu.github.io/awesome-astra-3d/cases/vinano-window-kitten-gif/) | [<img src="https://predis.ai/assets/img/ai-models/gpt-image-2-6/sale.gif" height="200" alt="逐字促销横幅 · Predis.ai">](https://carpentry-liu.github.io/awesome-astra-3d/cases/predis-sale-lettering-gif/) |
+| [<img src="https://predis.ai/assets/img/ai-models/gpt-image-2-6/avocado.gif" height="186" alt="挥手眨眼的牛油果贴纸">](https://carpentry-liu.github.io/awesome-astra-3d/cases/predis-avocado-wave-gif/) | [<img src="https://ofox.ai/blog/_assets/downloads/image26-gif-complete/ofox-native-bird.gif" height="186" alt="枝头橙鸟：抬翅再落回起始姿势">](https://carpentry-liu.github.io/awesome-astra-3d/cases/ofox-wing-lift-bird-gif/) |
 
 | 提灯橘猫 · Lightlyn | 像素爆炸原始素材 · Kasper Zack Games |
 | --- | --- |
@@ -74,18 +74,18 @@ GIF 分类预览与详情自动播放，支持停止与播放。系统开启减�
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-11-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-11-17.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-网站实拍更新于 **2026-11-16**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+网站实拍更新于 **2026-11-17**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
-<summary>查看案例区、手机与作品详情实拍 · 2026-11-16</summary>
+<summary>查看案例区、手机与作品详情实拍 · 2026-11-17</summary>
 
-[![Fable 5.2 作品与材料筛选](docs/media/collection-2026-11-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?group=fable#collection)
+[![Astra 最新作品及 Fable 5.2 入口](docs/media/collection-2026-11-17.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端 Fable 5.2 分类与材料导航](docs/media/mobile-2026-11-16.jpg)
+![手机端 Fable 5.2 最新案例](docs/media/mobile-2026-11-17.jpg)
 
-[![达芬奇机械手稿的独立作品页](docs/media/case-2026-11-16.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/nanami-davinci-mechanics-fable/)
+[![Hidden Layers 独立作品页](docs/media/case-2026-11-17.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/kyzo-butterfly-worlds-fable/)
 
 </details>
 
@@ -93,44 +93,47 @@ GIF 分类预览与详情自动播放，支持停止与播放。系统开启减�
 
 这里按本库收录日期排列；作品首次发布、模型配置与核查日期在各档案中分别记录。稳定精选不随日更替换。
 
-11 月 16 日新增 **7 件 Astra 作品、6 段完整录像和 2 件原生 GIF**。本次 X 原片包括竞速无人机、复古电车、微缩罗马竞技场、V8 引擎、机械天鹅和毛绒小龙。机械打字机另有交互三维展示与 GLB。
+11 月 17 日新增 **4 件 Astra、4 件 Claude Fable 5.2 和 2 件原生 GIF**，本次归档 **8 段完整 X 录像**。
 
 <!-- atlas:update-previews:start -->
-**新增 Astra 作品**
+**Astra 今日新增**
 
-| 竞速无人机 · Havis | 复古电车 · Lummox |
+| 沙漠绿洲：把棕榈树、风沙和水面做成三维场景 | 高山列车：从花田、河谷到石拱桥的三维镜头 |
 | --- | --- |
-| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/havis-racing-drone-result.jpg" height="165" alt="竞速无人机 · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-racing-drone/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2121920476813332480/img/vOyiBPqorVPC10WT.jpg" height="165" alt="复古电车 · Lummox">](https://carpentry-liu.github.io/awesome-astra-3d/cases/lummox-vintage-tram/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2122270987291066368/img/VWK93tsMt4ZQf2qb.jpg" height="160" alt="沙漠绿洲：把棕榈树、风沙和水面做成三维场景">](https://carpentry-liu.github.io/awesome-astra-3d/cases/chetan-oasis-dunes/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2122388066060910592/img/33B4Dm_M2QX9Ty2g.jpg" height="160" alt="高山列车：从花田、河谷到石拱桥的三维镜头">](https://carpentry-liu.github.io/awesome-astra-3d/cases/rubens-alpine-railway-astra/) |
+| [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/chetan-oasis-dunes/#videos) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/rubens-alpine-railway-astra/#videos) |
 
-| 微缩竞技场 · Rubens Soto | V8 引擎 · Havis |
+| 冰岛座头鲸跃出海面：同一 Three.js 任务的四种演绎 | 跑车零件拆解：座椅、发动机与悬架的交互视图 |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2121753309639815168/img/RIttUzXqOA05U3d4.jpg" height="165" alt="微缩竞技场 · Rubens Soto">](https://carpentry-liu.github.io/awesome-astra-3d/cases/rubens-mini-colosseum/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-16/havis-v8-engine-result.jpg" height="165" alt="V8 引擎 · Havis">](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-v8-engine/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2122544139694985216/img/7iCTcLnNSG-EWg9s.jpg" height="160" alt="冰岛座头鲸跃出海面：同一 Three.js 任务的四种演绎">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-iceland-whale-breach/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/liam-supercar-exploded-frame-51.jpg" height="160" alt="跑车零件拆解：座椅、发动机与悬架的交互视图">](https://carpentry-liu.github.io/awesome-astra-3d/cases/liam-supercar-exploded/) |
+| [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-iceland-whale-breach/#videos) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/liam-supercar-exploded/#videos) |
 
-| 机械天鹅 · teddyaisi | 毛绒小龙 · AndrIy |
+**Fable 5.2 今日新增**
+
+| Hidden Layers：跟着玻璃翼蝶穿过六层三维世界 | 从 1900 年图纸重建埃菲尔铁塔 |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2121305823423188992/img/-8SaVTk41dbma-R7.jpg" height="165" alt="机械天鹅 · teddyaisi">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-clockwork-swan/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2120987848576749568/img/qBB1R2687q4WDQNn.jpg" height="165" alt="毛绒小龙 · AndrIy">](https://carpentry-liu.github.io/awesome-astra-3d/cases/andriy-plush-dragon/) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2122273558659510273/img/6LZ4CetD4TzAwKcC.jpg" height="160" alt="Hidden Layers：跟着玻璃翼蝶穿过六层三维世界">](https://carpentry-liu.github.io/awesome-astra-3d/cases/kyzo-butterfly-worlds-fable/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/nicolas-eiffel-fable-frame-42.jpg" height="160" alt="从 1900 年图纸重建埃菲尔铁塔">](https://carpentry-liu.github.io/awesome-astra-3d/cases/nicolas-eiffel-fable/) |
+| [在线演示](https://hidden-layers-eta.vercel.app/?q=low&world=conservatory&p=0.4) · [源码](https://github.com/ky-zo/fable-butterfly) · [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/kyzo-butterfly-worlds-fable/#videos) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/nicolas-eiffel-fable/#videos) |
 
-**交互三维 · 机械打字机**
+| VICE ’86：用程序生成城市、车库与驾驶体验 | 三维抓娃娃机：同一短动画的四个版本 |
+| --- | --- |
+| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/pplx-miami-heat-fable-frame-31.jpg" height="160" alt="VICE ’86：用程序生成城市、车库与驾驶体验">](https://carpentry-liu.github.io/awesome-astra-3d/cases/pplx-miami-heat-fable/) | [<img src="https://pbs.twimg.com/ext_tw_video_thumb/2122359262072500224/pu/img/zXcsGnEW_cXZasCU.jpg" height="160" alt="三维抓娃娃机：同一短动画的四个版本">](https://carpentry-liu.github.io/awesome-astra-3d/cases/marcus-claw-machine-fable/) |
+| [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/pplx-miami-heat-fable/#videos) | [在线演示](https://automators.site/battles/claw-machine-grabbing-plush-cartoon-animation) · [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/marcus-claw-machine-fable/#videos) |
 
-[<img src="https://lab.einsia.ai/frontier3d/media/typewriter-astra.jpg" height="200" alt="机械打字机 · Frontier3DBench">](https://carpentry-liu.github.io/awesome-astra-3d/cases/frontier3d-typewriter/)
-
-Astra 一栏支持旋转与缩放，也可下载作者的 GLB。
-[打开作者画廊](https://lab.einsia.ai/frontier3dbench/#case-typewriter) · [GLB](https://lab.einsia.ai/frontier3d/models/typewriter-astra.glb?v=02190fc2c95c)
-
-[完整录像](https://carpentry-liu.github.io/awesome-astra-3d/?resource=video&order=newest#collection) · [下载原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-16)
+[Astra 最新](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [Fable 5.2 最新](https://carpentry-liu.github.io/awesome-astra-3d/?group=fable&order=newest#collection) · [下载完整原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-17)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
-| [日落浮岛：两版 Blender 场景如何迭代](https://carpentry-liu.github.io/awesome-astra-3d/cases/realcodebear-blender-island-fable/) | RealCodeBear | [演示](https://realcodebear.github.io/blender-fable-5.2/#island) · [源码](https://github.com/realcodebear/blender-fable-5.2) · [原始来源](https://github.com/realcodebear/blender-fable-5.2) |
-| [达芬奇机械手稿：从笔绘到可拆解三维模型](https://carpentry-liu.github.io/awesome-astra-3d/cases/nanami-davinci-mechanics-fable/) | coding-nanami / u/Sufficient_Nobody477 | [演示](https://davinci-mechanics.vercel.app/) · [源码](https://github.com/coding-nanami/davinci-mechanics) · [原始来源](https://www.reddit.com/r/TopologyAI/comments/1xvghw6/used_fable_52_to_build_an_interactive_3d_da_vinci/) |
-| [Yonkers Rises：纽约地图站起来走路](https://carpentry-liu.github.io/awesome-astra-3d/cases/simonw-yonkers-fable/) | Simon Willison | [演示](https://tools.simonwillison.net/yonkers-rises) · [源码](https://github.com/simonw/tools/blob/ffe3233016ea2f4805e35adcfb8745ea26c755dd/yonkers-rises.html) · [原始来源](https://simonwillison.net/2026/Nov/10/yonkers-rises/) |
-| [Shelby GT500：参照多视图在 Blender 里建车](https://carpentry-liu.github.io/awesome-astra-3d/cases/max-shelby-fable/) | Max / @maxt3chno | [原始来源](https://x.com/maxt3chno/status/2121603388009775599) |
-| [把常去的午餐店做成三维模型与 AR 导览](https://carpentry-liu.github.io/awesome-astra-3d/cases/trace-lunch-spot-fable/) | Trace / @Trace_AR | [原始来源](https://x.com/Trace_AR/status/2121284000232714559) |
-| [暗黑风浏览器游戏：从灰盒到布光与关卡](https://carpentry-liu.github.io/awesome-astra-3d/cases/mengto-dark-fantasy-fable/) | Meng To / @MengTo | [原始来源](https://x.com/MengTo/status/2121896633848017145) |
-| [竞速无人机：机架与摄像头的三维装配演示](https://carpentry-liu.github.io/awesome-astra-3d/cases/havis-racing-drone/) | Havis \| Claude Code / @HavisT83099 | [原始来源](https://x.com/HavisT83099/status/2122110265499988342) |
-| [街角的复古电车：同一主题的四种三维实现](https://carpentry-liu.github.io/awesome-astra-3d/cases/lummox-vintage-tram/) | Lummox / @Lummox_eth | [原始来源](https://x.com/Lummox_eth/status/2121920575517962425) |
+| [沙漠绿洲：把棕榈树、风沙和水面做成三维场景](https://carpentry-liu.github.io/awesome-astra-3d/cases/chetan-oasis-dunes/) | Chetan Ankola / @chetanankola | [原始来源](https://x.com/chetanankola/status/2122276006690013225) |
+| [高山列车：从花田、河谷到石拱桥的三维镜头](https://carpentry-liu.github.io/awesome-astra-3d/cases/rubens-alpine-railway-astra/) | Rubens Soto \| AI & SaaS / @rubenssoto_ai | [原始来源](https://x.com/rubenssoto_ai/status/2122389082114490781) |
+| [冰岛座头鲸跃出海面：同一 Three.js 任务的四种演绎](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-iceland-whale-breach/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2122544449968373997) |
+| [跑车零件拆解：座椅、发动机与悬架的交互视图](https://carpentry-liu.github.io/awesome-astra-3d/cases/liam-supercar-exploded/) | Liam(リアム) / @Liam4480 | [原始来源](https://x.com/Liam4480/status/2121869339058196575) |
+| [Hidden Layers：跟着玻璃翼蝶穿过六层三维世界](https://carpentry-liu.github.io/awesome-astra-3d/cases/kyzo-butterfly-worlds-fable/) | kyzo / @ky__zo | [演示](https://hidden-layers-eta.vercel.app/?q=low&world=conservatory&p=0.4) · [源码](https://github.com/ky-zo/fable-butterfly) · [原始来源](https://x.com/ky__zo/status/2122274109795054036) |
+| [从 1900 年图纸重建埃菲尔铁塔](https://carpentry-liu.github.io/awesome-astra-3d/cases/nicolas-eiffel-fable/) | Nicolas Diolez / @NicolasDiolez | [原始来源](https://x.com/NicolasDiolez/status/2122328846649250010) |
+| [VICE ’86：用程序生成城市、车库与驾驶体验](https://carpentry-liu.github.io/awesome-astra-3d/cases/pplx-miami-heat-fable/) | Aravind Srinivas / @AravSrinivas | [原始来源](https://x.com/AravSrinivas/status/2122338465648103676) |
+| [三维抓娃娃机：同一短动画的四个版本](https://carpentry-liu.github.io/awesome-astra-3d/cases/marcus-claw-machine-fable/) | Marcus \| AI / @mmmarcus_ai | [演示](https://automators.site/battles/claw-machine-grabbing-plush-cartoon-animation) · [原始来源](https://x.com/mmmarcus_ai/status/2122359273996837281) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)

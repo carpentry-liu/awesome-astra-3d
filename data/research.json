@@ -1,5 +1,5 @@
 {
-  "observedAt": "2026-11-16",
+  "observedAt": "2026-11-17",
   "officialSources": [
     "https://developers.openai.com/showcase/all",
     "https://developers.openai.com/api/docs/models/gpt-6-astra"
@@ -14411,6 +14411,347 @@
         "No first-party Xiaohongshu or Bilibili work was selected for this launch.",
         "Blender render or WebGL verification does not reproduce the generation process. Mixed-model attribution follows creators."
       ]
+    },
+    {
+      "observedAt": "2026-11-17",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "baselineCommit": "69f3b9ffbe6332326a701c69913d0be4c0404a51",
+      "baselineCount": 510,
+      "resultingCount": 520,
+      "addedCaseIds": [
+        "chetan-oasis-dunes",
+        "rubens-alpine-railway-astra",
+        "teddy-iceland-whale-breach",
+        "liam-supercar-exploded",
+        "kyzo-butterfly-worlds-fable",
+        "nicolas-eiffel-fable",
+        "pplx-miami-heat-fable",
+        "marcus-claw-machine-fable",
+        "predis-avocado-wave-gif",
+        "ofox-wing-lift-bird-gif"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "observations": [
+        {
+          "id": "chetan-oasis-dunes",
+          "sourceUrl": "https://x.com/chetanankola/status/2122276006690013225",
+          "sourceDate": "2026-11-16",
+          "modelLabel": "GPT-6 Astra",
+          "group": "astra"
+        },
+        {
+          "id": "rubens-alpine-railway-astra",
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2122389082114490781",
+          "sourceDate": "2026-11-17",
+          "modelLabel": "GPT-6 Astra Max",
+          "group": "astra"
+        },
+        {
+          "id": "teddy-iceland-whale-breach",
+          "sourceUrl": "https://x.com/teddyaisi/status/2122544449968373997",
+          "sourceDate": "2026-11-17",
+          "modelLabel": "GPT-6 Astra · xhigh；对照 Fable 5.2、Gemini 4 Carbon、Gemini 4 Hydrogen",
+          "group": "astra"
+        },
+        {
+          "id": "liam-supercar-exploded",
+          "sourceUrl": "https://x.com/Liam4480/status/2121869339058196575",
+          "sourceDate": "2026-11-15",
+          "modelLabel": "ChatGPT Work · Astra",
+          "group": "astra"
+        },
+        {
+          "id": "kyzo-butterfly-worlds-fable",
+          "sourceUrl": "https://x.com/ky__zo/status/2122274109795054036",
+          "sourceDate": "2026-11-16",
+          "modelLabel": "Claude Fable 5.2",
+          "group": "fable"
+        },
+        {
+          "id": "nicolas-eiffel-fable",
+          "sourceUrl": "https://x.com/NicolasDiolez/status/2122328846649250010",
+          "sourceDate": "2026-11-16",
+          "modelLabel": "Claude Fable 5.2 · High",
+          "group": "fable"
+        },
+        {
+          "id": "pplx-miami-heat-fable",
+          "sourceUrl": "https://x.com/AravSrinivas/status/2122338465648103676",
+          "sourceDate": "2026-11-16",
+          "modelLabel": "Claude Fable 5.2 · Perplexity Teammate",
+          "group": "fable"
+        },
+        {
+          "id": "marcus-claw-machine-fable",
+          "sourceUrl": "https://x.com/mmmarcus_ai/status/2122359273996837281",
+          "sourceDate": "2026-11-17",
+          "modelLabel": "Claude Fable 5.2；对照 Opus 5.5、GPT-6.1 Sol、Gemini 4 Argon",
+          "group": "fable"
+        },
+        {
+          "id": "predis-avocado-wave-gif",
+          "sourceUrl": "https://predis.ai/ai-models/gpt-image-2-6/",
+          "sourceDate": null,
+          "modelLabel": "GPT-Image-2.6 Flare GIF",
+          "group": "gif"
+        },
+        {
+          "id": "ofox-wing-lift-bird-gif",
+          "sourceUrl": "https://ofox.ai/blog/gpt-image-2-6-gif-guide/",
+          "sourceDate": "2026-11-05",
+          "modelLabel": "GPT-Image-2.6 Flare GIF",
+          "group": "gif"
+        }
+      ],
+      "queries": [
+        "GPT-6 Astra Blender Three.js 3D after:2026-11-15 X Reddit and GitHub",
+        "Claude Fable 5.2 Blender Three.js 3D after:2026-11-15 original projects and model evidence",
+        "Astra Fable 5.2 三维案例 11月16日 17日 哔哩哔哩 小红书 note",
+        "GPT Image 2.6 animated GIF original downloadable creator samples"
+      ],
+      "discoverySources": [
+        "https://aivs.tv/models/gpt-6-astra/",
+        "https://teapawt.net/vib3coded",
+        "https://teapawt.net/teddyaisi",
+        "https://teapawt.net/noclipepe",
+        "https://teapawt.net/Andr1ycp",
+        "https://teapawt.net/maker_jackie",
+        "https://teapawt.net/sgarlen01",
+        "https://teapawt.net/KostiKoNeuro",
+        "https://teapawt.net/az9713",
+        "https://teapawt.net/EnvolDev",
+        "https://teapawt.net/HavisT83099",
+        "https://teapawt.net/miso_bits",
+        "https://teapawt.net/Lummox_eth",
+        "https://teapawt.net/XtraAi",
+        "https://teapawt.net/evanjcha",
+        "https://teapawt.net/ruofeng",
+        "https://teapawt.net/YouArtStudio",
+        "https://teapawt.net/Olo_polo13",
+        "https://teapawt.net/N1njaCodex",
+        "https://teapawt.net/cfenghub",
+        "https://teapawt.net/One2xDatalab",
+        "https://teapawt.net/maxT3chno",
+        "https://teapawt.net/SimoneGiannini",
+        "https://teapawt.net/Dimillian",
+        "https://teapawt.net/MengTo",
+        "https://teapawt.net/RockkstarX",
+        "https://teapawt.net/MartinSzremeti",
+        "https://teapawt.net/RGR17140",
+        "https://teapawt.net/Ciorki0",
+        "https://teapawt.net/kidrealey",
+        "https://teapawt.net/sshcodes",
+        "https://teapawt.net/Liam4480",
+        "https://teapawt.net/RubensSoto_AI",
+        "https://teapawt.net/mmmarcus_ai",
+        "https://teapawt.net/AlexStLouis10",
+        "https://teapawt.net/NicolasDiolez",
+        "https://teapawt.net/koltreg",
+        "https://teapawt.net/jaxs",
+        "https://teapawt.net/Forizonlabs",
+        "https://teapawt.net/beastxLabs",
+        "https://teapawt.net/Trace_AR",
+        "https://teapawt.net/chetanankola",
+        "https://teapawt.net/ky__zo",
+        "https://fable5.app/fable-5-2/works/",
+        "https://github.com/topics/gpt-6-astra",
+        "https://www.tripo3d.ai/blog/gpt-6-astra-3d-character-workflow",
+        "https://www.bilibili.com/video/BV1gsWg6gEis/",
+        "https://www.fab.com/listings/79937820-b531-49d2-b7a1-98cf4b50872d",
+        "https://note.com/kei4485677/n/na8df3791b9d7",
+        "https://predis.ai/ai-models/gpt-image-2-6/",
+        "https://ofox.ai/blog/gpt-image-2-6-gif-guide/"
+      ],
+      "discoveryErrors": [
+        {
+          "source": "https://teapawt.net/KostiKoNeuro",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "source": "https://teapawt.net/evanjcha",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "source": "https://teapawt.net/RockkstarX",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "source": "https://teapawt.net/MartinSzremeti",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "source": "https://teapawt.net/RGR17140",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "source": "https://teapawt.net/Ciorki0",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "source": "https://teapawt.net/kidrealey",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "source": "https://teapawt.net/koltreg",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "source": "https://teapawt.net/Forizonlabs",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "source": "https://teapawt.net/beastxLabs",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ],
+      "sourceChecks": [
+        {
+          "sourceUrl": "https://x.com/chetanankola/status/2122276006690013225",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 144646,
+          "sha256": "6ba2c90621daef065bab15cd0e6f375ae310bb7864a5d4e6d7882219f798ba79",
+          "createdAtShanghai": "2026-11-16T18:30:04+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122270987291066368",
+          "sourceVideoCount": 1,
+          "caseId": "chetan-oasis-dunes",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "sourceUrl": "https://x.com/Liam4480/status/2121869339058196575",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 124704,
+          "sha256": "94c5ee1a68b42d80fdc7e6f75edfbb4bd52a11f70fdf4b886b28f8afac751aef",
+          "createdAtShanghai": "2026-11-15T15:34:07+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121869315163185152",
+          "sourceVideoCount": 1,
+          "caseId": "liam-supercar-exploded",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2122389082114490781",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 146588,
+          "sha256": "788dc340a7136cfb8bdccb82190f5630d50bcb4edeaede57f0e08eba0c668334",
+          "createdAtShanghai": "2026-11-17T01:59:23+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122388066060910592",
+          "sourceVideoCount": 1,
+          "caseId": "rubens-alpine-railway-astra",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "sourceUrl": "https://x.com/teddyaisi/status/2122544449968373997",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 119943,
+          "sha256": "ec01821df63f2c4332e2e5e7c48ca824d22c9e01b0ef0d52ac290c6a1a9c4496",
+          "createdAtShanghai": "2026-11-17T12:16:46+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122544139694985216",
+          "sourceVideoCount": 1,
+          "caseId": "teddy-iceland-whale-breach",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "sourceUrl": "https://x.com/ky__zo/status/2122274109795054036",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 143981,
+          "sha256": "f1f8a47bf725f1fbe7dfd820b33442063b5b42888e6d634a303214aaa2731ede",
+          "createdAtShanghai": "2026-11-16T18:22:32+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122273558659510273",
+          "sourceVideoCount": 1,
+          "caseId": "kyzo-butterfly-worlds-fable",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "sourceUrl": "https://x.com/NicolasDiolez/status/2122328846649250010",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 146363,
+          "sha256": "9c0c4ad9d24f98cc210aff05ffc79592e72534f7a1ba4a11fc41059e2e0a693e",
+          "createdAtShanghai": "2026-11-16T22:00:02+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121644653153800193",
+          "sourceVideoCount": 1,
+          "caseId": "nicolas-eiffel-fable",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "sourceUrl": "https://x.com/AravSrinivas/status/2122338465648103676",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 155115,
+          "sha256": "ce0106afabc4482237d17bd64814f6004e49bc21362a67bb1d96545d7d97fb1c",
+          "createdAtShanghai": "2026-11-16T22:38:16+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122338376271687680",
+          "sourceVideoCount": 1,
+          "caseId": "pplx-miami-heat-fable",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "sourceUrl": "https://x.com/mmmarcus_ai/status/2122359273996837281",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 130058,
+          "sha256": "f23ffba29f11962755218c03d692b1bcf8a2023faabd3f50ce7915564afda30b",
+          "createdAtShanghai": "2026-11-17T00:00:57+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122359262072500224",
+          "sourceVideoCount": 1,
+          "caseId": "marcus-claw-machine-fable",
+          "originalHtmlMediaMatched": true
+        }
+      ],
+      "excludedOrDeferred": [
+        {
+          "url": "https://x.com/cfenghub/status/2122483957732421808",
+          "reason": "Points to the exact same kyzo source recording. Original by ky__zo included."
+        },
+        {
+          "url": "https://www.reddit.com/r/threejs/comments/1xy72xh/have_the_batmobile_in_the_dune_faaaa_and_this_is/",
+          "reason": "Same creator and reused dune project. Kept the original Oasis entry for this round."
+        },
+        {
+          "url": "https://x.com/rubenssoto_ai/status/2122517583349817563",
+          "reason": "Comparison follow-up to the same short. Kept the earliest creator clip."
+        },
+        {
+          "url": "https://www.tripo3d.ai/blog/gpt-6-astra-3d-character-workflow",
+          "reason": "References Nano’s character already in the atlas and labels tutorial demonstration assets separately."
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1gsWg6gEis/",
+          "reason": "Found a multi-topic Fable showcase. The listed sources reviewed here have case-specific result clips and project evidence."
+        }
+      ],
+      "platformLimits": [
+        "Mirrors served discovery and corroboration. Creator X HTML was matched for all attached media.",
+        "No freshly verified Xiaohongshu work selected for this round.",
+        "GIFs are freshly cataloged maker samples from earlier this month. Generation and first source-post dates are separate."
+      ],
+      "completeSourceClips": 8,
+      "newGifWorks": 2,
+      "newMediaFiles": 16,
+      "newMediaBytes": 216183675,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-17"
     }
   ]
 }

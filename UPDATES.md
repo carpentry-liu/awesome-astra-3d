@@ -2,6 +2,21 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-11-17 · 10 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [沙漠绿洲：把棕榈树、风沙和水面做成三维场景 / Oasis in the Dunes: Water, Palms and Shifting Light](https://carpentry-liu.github.io/awesome-astra-3d/cases/chetan-oasis-dunes/) | Chetan Ankola / @chetanankola | 完整视频 · 提示词 / 过程 |
+| [高山列车：从花田、河谷到石拱桥的三维镜头 / An Alpine Train through Flower Fields and a Stone Viaduct](https://carpentry-liu.github.io/awesome-astra-3d/cases/rubens-alpine-railway-astra/) | Rubens Soto \| AI & SaaS / @rubenssoto_ai | 完整视频 |
+| [冰岛座头鲸跃出海面：同一 Three.js 任务的四种演绎 / Icelandic Humpback Breach: Four Takes on One Three.js Brief](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-iceland-whale-breach/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [跑车零件拆解：座椅、发动机与悬架的交互视图 / An Exploded Supercar Viewer with Part Inspection](https://carpentry-liu.github.io/awesome-astra-3d/cases/liam-supercar-exploded/) | Liam(リアム) / @Liam4480 | 完整视频 · 提示词 / 过程 |
+| [Hidden Layers：跟着玻璃翼蝶穿过六层三维世界 / Hidden Layers: Six 3D Worlds Following a Glasswing Butterfly](https://carpentry-liu.github.io/awesome-astra-3d/cases/kyzo-butterfly-worlds-fable/) | kyzo / @ky__zo | 源码 / 工程 · 演示入口 · 完整视频 · Fable 5.2 · 提示词 / 过程 |
+| [从 1900 年图纸重建埃菲尔铁塔 / Rebuilding the Eiffel Tower from Its 1900 Drawings](https://carpentry-liu.github.io/awesome-astra-3d/cases/nicolas-eiffel-fable/) | Nicolas Diolez / @NicolasDiolez | 完整视频 · Fable 5.2 · 提示词 / 过程 |
+| [VICE ’86：用程序生成城市、车库与驾驶体验 / VICE ’86: A Procedural City and Driving Game](https://carpentry-liu.github.io/awesome-astra-3d/cases/pplx-miami-heat-fable/) | Aravind Srinivas / @AravSrinivas | 完整视频 · Fable 5.2 |
+| [三维抓娃娃机：同一短动画的四个版本 / A 3D Claw Machine Built by Four Models](https://carpentry-liu.github.io/awesome-astra-3d/cases/marcus-claw-machine-fable/) | Marcus \| AI / @mmmarcus_ai | 演示入口 · 完整视频 · Fable 5.2 · 提示词 / 过程 |
+| [挥手眨眼的牛油果贴纸 / Waving Avocado Reaction Sticker](https://carpentry-liu.github.io/awesome-astra-3d/cases/predis-avocado-wave-gif/) | Predis.ai | GIF 动图（独立分组） · 提示词 / 过程 |
+| [枝头橙鸟：抬翅再落回起始姿势 / Orange Bird Lifting Its Wings in a Native GIF](https://carpentry-liu.github.io/awesome-astra-3d/cases/ofox-wing-lift-bird-gif/) | Ofox | GIF 动图（独立分组） · 提示词 / 过程 |
+
 ## 2026-11-16 · 15 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

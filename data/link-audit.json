@@ -29122,6 +29122,494 @@
           "visuallyReviewed": true
         }
       ]
+    },
+    {
+      "checkedAt": "2026-11-17",
+      "round": "daily",
+      "scope": "Eight exact X originals, two native GIFs, author projects and evaluated demo URLs.",
+      "addedCaseIds": [
+        "chetan-oasis-dunes",
+        "rubens-alpine-railway-astra",
+        "teddy-iceland-whale-breach",
+        "liam-supercar-exploded",
+        "kyzo-butterfly-worlds-fable",
+        "nicolas-eiffel-fable",
+        "pplx-miami-heat-fable",
+        "marcus-claw-machine-fable",
+        "predis-avocado-wave-gif",
+        "ofox-wing-lift-bird-gif"
+      ],
+      "sourceChecks": [
+        {
+          "sourceUrl": "https://x.com/chetanankola/status/2122276006690013225",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 144646,
+          "sha256": "6ba2c90621daef065bab15cd0e6f375ae310bb7864a5d4e6d7882219f798ba79",
+          "createdAtShanghai": "2026-11-16T18:30:04+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122270987291066368",
+          "sourceVideoCount": 1,
+          "caseId": "chetan-oasis-dunes",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "sourceUrl": "https://x.com/Liam4480/status/2121869339058196575",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 124704,
+          "sha256": "94c5ee1a68b42d80fdc7e6f75edfbb4bd52a11f70fdf4b886b28f8afac751aef",
+          "createdAtShanghai": "2026-11-15T15:34:07+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121869315163185152",
+          "sourceVideoCount": 1,
+          "caseId": "liam-supercar-exploded",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2122389082114490781",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 146588,
+          "sha256": "788dc340a7136cfb8bdccb82190f5630d50bcb4edeaede57f0e08eba0c668334",
+          "createdAtShanghai": "2026-11-17T01:59:23+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122388066060910592",
+          "sourceVideoCount": 1,
+          "caseId": "rubens-alpine-railway-astra",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "sourceUrl": "https://x.com/teddyaisi/status/2122544449968373997",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 119943,
+          "sha256": "ec01821df63f2c4332e2e5e7c48ca824d22c9e01b0ef0d52ac290c6a1a9c4496",
+          "createdAtShanghai": "2026-11-17T12:16:46+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122544139694985216",
+          "sourceVideoCount": 1,
+          "caseId": "teddy-iceland-whale-breach",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "sourceUrl": "https://x.com/ky__zo/status/2122274109795054036",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 143981,
+          "sha256": "f1f8a47bf725f1fbe7dfd820b33442063b5b42888e6d634a303214aaa2731ede",
+          "createdAtShanghai": "2026-11-16T18:22:32+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122273558659510273",
+          "sourceVideoCount": 1,
+          "caseId": "kyzo-butterfly-worlds-fable",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "sourceUrl": "https://x.com/NicolasDiolez/status/2122328846649250010",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 146363,
+          "sha256": "9c0c4ad9d24f98cc210aff05ffc79592e72534f7a1ba4a11fc41059e2e0a693e",
+          "createdAtShanghai": "2026-11-16T22:00:02+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121644653153800193",
+          "sourceVideoCount": 1,
+          "caseId": "nicolas-eiffel-fable",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "sourceUrl": "https://x.com/AravSrinivas/status/2122338465648103676",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 155115,
+          "sha256": "ce0106afabc4482237d17bd64814f6004e49bc21362a67bb1d96545d7d97fb1c",
+          "createdAtShanghai": "2026-11-16T22:38:16+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122338376271687680",
+          "sourceVideoCount": 1,
+          "caseId": "pplx-miami-heat-fable",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "sourceUrl": "https://x.com/mmmarcus_ai/status/2122359273996837281",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "bytes": 130058,
+          "sha256": "f23ffba29f11962755218c03d692b1bcf8a2023faabd3f50ce7915564afda30b",
+          "createdAtShanghai": "2026-11-17T00:00:57+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122359262072500224",
+          "sourceVideoCount": 1,
+          "caseId": "marcus-claw-machine-fable",
+          "originalHtmlMediaMatched": true
+        }
+      ],
+      "previewChecks": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2122270987291066368/img/VWK93tsMt4ZQf2qb.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 120282,
+          "bytes": 120282,
+          "sha256": "75dd88c3cb37dbe0835e819bec68a566e28269445c7f3bffe799ed9fc660522f",
+          "fullGet": true,
+          "caseId": "chetan-oasis-dunes",
+          "sourceUrl": "https://x.com/chetanankola/status/2122276006690013225",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1199,
+            917
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "liam-supercar-exploded",
+          "kind": "frame",
+          "filename": "liam-supercar-exploded-frame-51.jpg",
+          "sourceUrl": "https://video.twimg.com/amplify_video/2121869315163185152/vid/avc1/1280x720/3L0vGIcaHn3iymRu.mp4?tag=29",
+          "timestampSeconds": 51,
+          "dimensions": [
+            1280,
+            720
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 80792,
+          "sha256": "507d632e6999a211bcf590f637895b3dd007ca0159dd93ce3d9e816b5ba4fdf3",
+          "assetId": 758115371,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/liam-supercar-exploded-frame-51.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2122388066060910592/img/33B4Dm_M2QX9Ty2g.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 189158,
+          "bytes": 189158,
+          "sha256": "955018f34c329364f58c330b14c780a3dde5f2ce2703c70a8ce50a065ae62ccf",
+          "fullGet": true,
+          "caseId": "rubens-alpine-railway-astra",
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2122389082114490781",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2122544139694985216/img/7iCTcLnNSG-EWg9s.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 156192,
+          "bytes": 156192,
+          "sha256": "a8e75377dfd4548ff2d0cfd1e7ea2a7145e6558212029d830f6a6114d93114f5",
+          "fullGet": true,
+          "caseId": "teddy-iceland-whale-breach",
+          "sourceUrl": "https://x.com/teddyaisi/status/2122544449968373997",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2122273558659510273/img/6LZ4CetD4TzAwKcC.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 87210,
+          "bytes": 87210,
+          "sha256": "b34283160dcd7f633c9291d79527d87d0310defe490f708a579afea5b4523a9a",
+          "fullGet": true,
+          "caseId": "kyzo-butterfly-worlds-fable",
+          "sourceUrl": "https://x.com/ky__zo/status/2122274109795054036",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1199,
+            622
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "nicolas-eiffel-fable",
+          "kind": "frame",
+          "filename": "nicolas-eiffel-fable-frame-42.jpg",
+          "sourceUrl": "https://video.twimg.com/amplify_video/2121644653153800193/vid/avc1/1280x720/oZemCSSdkMc3g1rE.mp4?tag=14",
+          "timestampSeconds": 42,
+          "dimensions": [
+            1280,
+            720
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 45603,
+          "sha256": "5660850795955c5d56a0def9b4ef346f836270697b18ba88f19de3e52382bbae",
+          "assetId": 758116153,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/nicolas-eiffel-fable-frame-42.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "pplx-miami-heat-fable",
+          "kind": "frame",
+          "filename": "pplx-miami-heat-fable-frame-31.jpg",
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122338376271687680/vid/avc1/1920x1080/bH-YVdbZW1a3Zpvg.mp4?tag=29",
+          "timestampSeconds": 31,
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 144589,
+          "sha256": "cafa39b9784fd95941bf62afa38a4f5d221fb04ff36cf903fa2f4751080ace84",
+          "assetId": 758117449,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/pplx-miami-heat-fable-frame-31.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2122359262072500224/pu/img/zXcsGnEW_cXZasCU.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 74334,
+          "bytes": 74334,
+          "sha256": "ed51d1f974610846b58a53793c8ce5888a29ac1e799f38cd16efefa21513ea04",
+          "fullGet": true,
+          "caseId": "marcus-claw-machine-fable",
+          "sourceUrl": "https://x.com/mmmarcus_ai/status/2122359273996837281",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            720,
+            960
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "predis-avocado-wave-gif",
+          "kind": "frame",
+          "subtype": "gif-first-frame",
+          "filename": "predis-avocado-wave-gif-poster.jpg",
+          "sourceUrl": "https://predis.ai/assets/img/ai-models/gpt-image-2-6/avocado.gif",
+          "bytes": 91394,
+          "sha256": "440866ab815d2e0be02296dd85f5892e17ff9d58a59e4740078c684abb1c6520",
+          "dimensions": [
+            960,
+            960
+          ],
+          "contentType": "image/jpeg",
+          "frameIndex": 0,
+          "assetId": 758117570,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/predis-avocado-wave-gif-poster.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "ofox-wing-lift-bird-gif",
+          "kind": "frame",
+          "subtype": "gif-first-frame",
+          "filename": "ofox-wing-lift-bird-gif-poster.jpg",
+          "sourceUrl": "https://ofox.ai/blog/_assets/downloads/image26-gif-complete/ofox-native-bird.gif",
+          "bytes": 43467,
+          "sha256": "4cb9eb343e6031a585224401940a5cf95b96d58cd81d1aa639f784150362c441",
+          "dimensions": [
+            512,
+            512
+          ],
+          "contentType": "image/jpeg",
+          "frameIndex": 0,
+          "assetId": 758116227,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-17/ofox-wing-lift-bird-gif-poster.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        }
+      ],
+      "animatedGifChecks": [
+        {
+          "caseId": "predis-avocado-wave-gif",
+          "url": "https://predis.ai/assets/img/ai-models/gpt-image-2-6/avocado.gif",
+          "sourceUrl": "https://predis.ai/ai-models/gpt-image-2-6/",
+          "mediaType": "image/gif",
+          "httpStatus": 200,
+          "dimensions": [
+            960,
+            960
+          ],
+          "frames": 8,
+          "distinctFrames": 8,
+          "allFramesDecoded": true,
+          "durationMs": 1200,
+          "frameDurationsMs": [
+            150,
+            150,
+            150,
+            150,
+            150,
+            150,
+            150,
+            150
+          ],
+          "loopCount": 0,
+          "bytes": 790350,
+          "sha256": "5412c8b7be655cb2bc33ecca9577b7853b2fdc5e92a9e17f2e50bb043fa51471",
+          "contentLength": 790350
+        },
+        {
+          "caseId": "ofox-wing-lift-bird-gif",
+          "url": "https://ofox.ai/blog/_assets/downloads/image26-gif-complete/ofox-native-bird.gif",
+          "sourceUrl": "https://ofox.ai/blog/gpt-image-2-6-gif-guide/",
+          "mediaType": "image/gif",
+          "httpStatus": 200,
+          "dimensions": [
+            512,
+            512
+          ],
+          "frames": 9,
+          "distinctFrames": 9,
+          "allFramesDecoded": true,
+          "durationMs": 1800,
+          "frameDurationsMs": [
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200
+          ],
+          "loopCount": 0,
+          "bytes": 677030,
+          "sha256": "fe262fdc8cf8362ad86473c25642aa43add063fd0f08632b53ff1e92f2dc24e8",
+          "contentLength": 677030
+        }
+      ],
+      "authorDemos": [
+        {
+          "key": "butterfly",
+          "url": "https://hidden-layers-eta.vercel.app/?q=low&world=conservatory&p=0.4",
+          "scope": "The publisher's GitHub-linked deployment rendered the WebGL conservatory scene, butterfly, scrolling instructions and controls for six layers at low quality.",
+          "noteZh": "从作者仓库指向的备用演示载入温室实景、飞行说明和六章选择器。入口采用作者公开的低画质参数以降低启动负担。",
+          "proof": {
+            "title": "Hidden Layers",
+            "frame": "Conservatory, layer 01 / 06",
+            "viewport": [
+              1000,
+              720
+            ],
+            "controls": [
+              "Scroll to fly",
+              "Conservatory",
+              "Latent",
+              "Corpus",
+              "Descent",
+              "Loom",
+              "Mirror"
+            ]
+          }
+        },
+        {
+          "key": "claw",
+          "url": "https://automators.site/battles/claw-machine-grabbing-plush-cartoon-animation",
+          "scope": "The author comparison switched to Fable 5.2 and rendered its Three.js claw machine as a live WebGL canvas.",
+          "noteZh": "对照网页实测可切换至 Fable 5.2，并在 Three.js 画布播放。",
+          "proof": {
+            "canvas": [
+              830,
+              653
+            ],
+            "selectedModel": "Claude Fable 5.2"
+          }
+        }
+      ],
+      "externalDemoAttempts": [
+        {
+          "id": "kyzo-butterfly-worlds-fable",
+          "key": "butterfly",
+          "url": "https://butterfly.kyzo.io/?q=low&world=conservatory&p=0.25",
+          "canvas": "canvas",
+          "controls": [],
+          "status": 200,
+          "title": "Hidden Layers",
+          "size": {
+            "width": 300,
+            "height": 150
+          },
+          "pageText": "Hidden Layers\nWatch\noff\nSound\noff\nKeys\nConservatory\nPerception\n01\nLatent\nMeaning\n02\nCorpus\nMemory\n03\nDescent\nLearning\n04\nLoom\nAttention\n05\nMirror\nSelf\n06\n\n/ 06\n\nRendering layer",
+          "errors": [],
+          "consoleErrors": [],
+          "failedHTTP": []
+        },
+        {
+          "id": "pplx-miami-heat-fable",
+          "key": "heat",
+          "url": "https://heat.pplx.app/",
+          "canvas": "#game",
+          "error": "locator.waitFor: Timeout 46000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#ui[data-screen]') to be visible\u001b[22m\n",
+          "errors": [],
+          "consoleErrors": [],
+          "failedHTTP": [],
+          "pageText": ""
+        },
+        {
+          "id": "marcus-claw-machine-fable",
+          "key": "claw",
+          "url": "https://automators.site/battles/claw-machine-grabbing-plush-cartoon-animation",
+          "canvas": "canvas",
+          "status": 200,
+          "title": "A claw machine grabbing a plush toy and dropping it, in cartoon animation: one prompt, four AI models | Automators",
+          "size": {
+            "width": 830,
+            "height": 653
+          },
+          "pageText": "Automators\nJoin free\n\nMODEL BATTLE\n\nA claw machine grabbing a plush toy and dropping it, in cartoon animation\n\nOne prompt, 4 AI models. Pick a model to see what it built.\n\nClaude Fable 5.2\nClaude Opus 5.5\nGPT-6.1 Sol\nGemini 4 Argon\n\nClaude Fable 5.2 took 11m 29s and cost $2.69.\n\nThe prompt\nCopy prompt\nBuild a single self-contained HTML file with a 3D scene made in Three.js (you may load Three.js from a CDN).\n\nThe scene: A claw machine grabbing a plush toy and dropping it, in a cartoon animation style.\n\nRules:\n- The animation starts on its own and loops forever. No interaction, no controls, no buttons.\n- No text, labels or UI on screen.\n- The ",
+          "errors": [],
+          "consoleErrors": [],
+          "failedHTTP": []
+        },
+        {
+          "key": "butterfly",
+          "url": "https://hidden-layers-eta.vercel.app/?q=low&world=conservatory&p=0.4",
+          "error": "page.waitForFunction: Timeout 47000ms exceeded.",
+          "errors": [],
+          "partial": "Hidden Layers\nWatch\noff\nSound\noff\nKeys\nConservatory\nPerception\n01\nLatent\nMeaning\n02\nCorpus\nMemory\n03\nDescent\nLearning\n04\nLoom\nAttention\n05\nMirror\nSelf\n06\nConservatory\n\n01\n/ 06\nPerception\n\nScroll to fly\nKeep scrolling\n02Latent"
+        },
+        {
+          "key": "heat",
+          "url": "https://heat.pplx.app/",
+          "ok": true,
+          "details": {
+            "screen": "loading",
+            "text": "VICE’86\nPALOMA DRIVE · 1986\nChecking the graphics hardware\n3%\nW or the up arrow is the throttle; S brakes, then reverses.",
+            "after": "loading"
+          },
+          "errors": []
+        }
+      ]
     }
   ]
 }

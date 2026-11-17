@@ -63,6 +63,19 @@ npm start
 
 面向 `main` 的 PR 运行检查、lint 和 Pages 构建，并用 `git diff --exit-code --stat` 确认受控的派生文件已随源数据提交。PR 不下载视频、不部署，也没有 Pages 写权限。[Pages 工作流](../.github/workflows/pages.yml) 在推送 `main` 或手动发布时才获取并校验完整播放文件，再部署。部署后核对公开 JSON、双语详情、metadata、截图和媒体地址；必要时全量 GET 新视频并比对 hash。
 
+## 内容验证（2026-11-17）
+
+新增 4 件 Astra、4 件 Claude Fable 5.2 和 2 件原生 GIF。目录共 520 条，包括 484 条 Astra、10 条 Fable、14 条 GIF 和 12 条独立方法参考。X 原帖发布于上海时间 11 月 15—17 日。
+
+| 范围 | 实际检查 |
+| --- | --- |
+| 原片与动图 | `py -3.13 -X utf8 work/2026-11-17/download-social.py` 与 `verify-assets.py` 核对作者、媒体 ID、原始 MP4 地址和时长。16 个 MP4 共 216,183,675 字节，全长解码通过。[Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-17) 的 21 个附件均核对服务器字节数和 SHA-256。两件原生 GIF 分别为 8 帧 / 1.2 秒与 9 帧 / 1.8 秒，逐帧解码并核对画面差异。 |
+| 真实作品 | Hidden Layers 在作者备用部署实际绘制了温室，抓娃娃机页面可切换并播放 Fable 5.2 版本。VICE ’86 的试玩页在核查设备停在显卡检测，作品页提供其完整实机录像。埃菲尔铁塔的公开录像与作者付费工程页面分别标明。 |
+| 构建 | `npm.cmd run catalog`、`npm.cmd run check`、`npm.cmd run lint` 和 `npm.cmd run build` 通过。普通与 `GITHUB_PAGES=true` 两种模式均导出并校验了 1,078 个静态页、23,206 条本地引用、520 份详情 JSON、1,079 个 sitemap 地址。34 项测试通过。 |
+| 本地浏览器 | `node work/2026-11-17/browser-qa.mjs` 通过 13 项场景。十件新预览及六件稳定精选加载，八段录像播到结尾，GIF 实拍帧实际变化且可停止与恢复。1440、390 和 320 像素视口无横向溢出，所测页面控制台警告和错误均为零。 |
+
+中英文 README 的作品图均链接到公开案例。四张页面实拍见 [截图](media/README.md)，原始下载和详细证据保留在本地忽略目录。
+
 ## 内容验证（2026-11-16）
 
 新增 **7 件 Astra 作品、6 段完整 X 录像、1 个交互三维展示与 2 件原生 GIF**。下架一条作者教程与成果图均已失效的旧记录，现有 504 条记录，包括 480 件 Astra、12 件 GIF 和 12 件方法参考。Astra 案例提供 123 个源码 / 工程入口、135 个演示入口和 262 段站内录像。
