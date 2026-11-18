@@ -2,6 +2,22 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-11-18 · 11 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [巴黎圣母院：同一段分镜的 Unreal 与 Three.js 版本 / Notre-Dame: One Trailer in Unreal and Three.js](https://carpentry-liu.github.io/awesome-astra-3d/cases/ricouard-notre-dame-unreal/) | Thomas Ricouard / @Dimillian | 完整视频 · 提示词 / 过程 |
+| [Meridian Sound Racing：穿过海港的未来赛车 / Meridian Sound Racing: Futuristic Racing Across the Harbor](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-meridian-sound-racing/) | Bhavy☄️ / @Bhavani_00007 | 演示入口 · 完整视频 |
+| [Kasane Valley：在日式山谷里从地面走到空中 / Kasane Valley: Explore a Japanese Mountain Village](https://carpentry-liu.github.io/awesome-astra-3d/cases/givros-kasane-valley/) | Givros / @givros | 源码 / 工程 · 完整视频 · 提示词 / 过程 |
+| [1:1 新加坡：用大量并行任务搭建城市数字孪生 / Singapore at 1:1 Scale: A City-Building Workflow](https://carpentry-liu.github.io/awesome-astra-3d/cases/chua-singapore-digital-twin/) | Gabriel Chua / @gabrielchua | 完整视频 · 提示词 / 过程 |
+| [两个模型造迈阿密：海湾、酒店和水路 / Miami by Two Models: Bays, Hotels and Waterways](https://carpentry-liu.github.io/awesome-astra-3d/cases/aa-miami-astra-fable/) | Artificial Analysis / @ArtificialAnlys | 完整视频 · 提示词 / 过程 |
+| [Autonomous Foundry：同题四版的工厂调度仿真 / Autonomous Foundry: Four Models Simulate Factory Dispatch](https://carpentry-liu.github.io/awesome-astra-3d/cases/kiraz-autonomous-foundry/) | Alican Kiraz / @AlicanKiraz0 | 完整视频 · 提示词 / 过程 |
+| [灰姑娘城堡：从草地、船只到夜间烟花 / Cinderella Castle: A Walkable World with Water and Fireworks](https://carpentry-liu.github.io/awesome-astra-3d/cases/abhinav-cinderella-castle/) | Synopsis / @abhinavflac | 完整视频 · 提示词 / 过程 |
+| [Cat Garden：用猫的视角穿过微缩花园 / Cat Garden: A 110-Second Film at Cat Eye Level](https://carpentry-liu.github.io/awesome-astra-3d/cases/bubblebrain-cat-garden-fable/) | BubbleBrainBB | 源码 / 工程 · Fable 5.2 · 提示词 / 过程 |
+| [Blender 角色动画：表情、衣摆与镜头同时动起来 / Character Animation in Blender: Expression, Cloth and Camera](https://carpentry-liu.github.io/awesome-astra-3d/cases/yokohara-fable-character-motion/) | Hirokazu Yokohara / @Yokohara_h | 完整视频 · Fable 5.2 · 提示词 / 过程 |
+| [复古怀表转台：12 帧展示金属与内部机芯 / Vintage Pocket Watch Turntable: Twelve Native GIF Frames](https://carpentry-liu.github.io/awesome-astra-3d/cases/segmind-watch-turntable/) | Shrey Rajvanshi / Segmind | GIF 动图（独立分组） · 提示词 / 过程 |
+| [发条铁皮机器人：原生透明贴纸动图 / Wind-Up Tin Robot: A Native Transparent Sticker GIF](https://carpentry-liu.github.io/awesome-astra-3d/cases/segmind-tin-robot/) | Shrey Rajvanshi / Segmind | GIF 动图（独立分组） · 提示词 / 过程 |
+
 ## 2026-11-17 · 10 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

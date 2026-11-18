@@ -29610,6 +29610,525 @@
           "errors": []
         }
       ]
+    },
+    {
+      "checkedAt": "2026-11-18",
+      "round": "daily",
+      "scope": "Nine complete X recordings, source-backed movie, two native GIFs, author pages and 11 result previews.",
+      "addedCaseIds": [
+        "ricouard-notre-dame-unreal",
+        "openai-meridian-sound-racing",
+        "givros-kasane-valley",
+        "chua-singapore-digital-twin",
+        "aa-miami-astra-fable",
+        "kiraz-autonomous-foundry",
+        "abhinav-cinderella-castle",
+        "bubblebrain-cat-garden-fable",
+        "yokohara-fable-character-motion",
+        "segmind-watch-turntable",
+        "segmind-tin-robot"
+      ],
+      "sourceChecks": [
+        {
+          "caseId": "ricouard-notre-dame-unreal",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/Dimillian/status/2122750651998355800",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T01:56:08+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122750566484897792",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "ricouard-notre-dame-unreal",
+          "archiveOrdinal": 2,
+          "sourceUrl": "https://x.com/Dimillian/status/2122750734286377130",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T01:56:28+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122750654623997952",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "openai-meridian-sound-racing",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/Bhavani_00007/status/2122767429193646141",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T03:02:48+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122765139741212672",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "givros-kasane-valley",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/givros/status/2122816304071803109",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T06:17:01+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122815661898440704",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "chua-singapore-digital-twin",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/gabrielchua/status/2122762679760883967",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T02:43:56+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122761647316238336",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "aa-miami-astra-fable",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/ArtificialAnlys/status/2122904331276177768",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T12:06:48+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122903195907440640",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "kiraz-autonomous-foundry",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/AlicanKiraz0/status/2122809178963980761",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T05:48:42+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122808977188626432",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "abhinav-cinderella-castle",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/abhinavflac/status/2122761702114828638",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T02:40:03+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122761069693489152",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "bubblebrain-cat-garden-fable",
+          "sourceUrl": "https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/cat-garden-v1.0/cat-garden",
+          "assetUrl": "https://github.com/BubbleBrainBB/awesome-fable-5.2/releases/download/cat-garden-v1.0/cat_garden.mp4",
+          "bytes": 303699308,
+          "sha256": "5c791018329a2ac673eff3e8d1553eb79a2b96175a4a72b5f76bac8d6778d461",
+          "durationSeconds": 110,
+          "complete": true,
+          "decodeChecked": true,
+          "sourcePublishedAt": "2026-11-16T15:34:25Z"
+        },
+        {
+          "caseId": "yokohara-fable-character-motion",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/Yokohara_h/status/2121301810363465749",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-14T01:58:58+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121300243186888704",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        }
+      ],
+      "previewChecks": [
+        {
+          "caseId": "ricouard-notre-dame-unreal",
+          "kind": "frame",
+          "subtype": "video-frame",
+          "filename": "ricouard-notre-dame-unreal-result.jpg",
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122750566484897792/vid/avc1/3840x2160/U8DpQ3rwRfD27Wc-.mp4?tag=29",
+          "bytes": 158071,
+          "sha256": "db1c7ba5f1d24b2a7a4cdfc7d0833040ac95cfc8de5901721b46c1f684fffbd4",
+          "dimensions": [
+            1200,
+            676
+          ],
+          "contentType": "image/jpeg",
+          "timestampSeconds": 28.045,
+          "assetId": 762331218,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-18/ricouard-notre-dame-unreal-result.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "openai-meridian-sound-racing",
+          "kind": "frame",
+          "subtype": "video-frame",
+          "filename": "openai-meridian-sound-racing-result.jpg",
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122765139741212672/vid/avc1/3840x2160/9hKbYeFvBcFfqpaA.mp4?tag=29",
+          "bytes": 129417,
+          "sha256": "f36ecf4eae6fab0f3f8290b93e39b18e1183727dcf4a515ad123e86159b210c7",
+          "dimensions": [
+            1200,
+            676
+          ],
+          "contentType": "image/jpeg",
+          "timestampSeconds": 30.025,
+          "assetId": 762331303,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-18/openai-meridian-sound-racing-result.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2122815661898440704/img/AzaaTFgNS_wRBNa0.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 237980,
+          "bytes": 237980,
+          "sha256": "798344f1826f15cfff112b27cc031f405e5d7deb10d87fd3597ab1711c7c3fd0",
+          "fullGet": true,
+          "caseId": "givros-kasane-valley",
+          "sourceUrl": "https://x.com/givros/status/2122816304071803109",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2122761647316238336/img/1mWdhOsWgRnW_EhY.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 94539,
+          "bytes": 94539,
+          "sha256": "a9de26191dc207fe8bd5e5361428563654e57082d763096f81f83e785c72fb25",
+          "fullGet": true,
+          "caseId": "chua-singapore-digital-twin",
+          "sourceUrl": "https://x.com/gabrielchua/status/2122762679760883967",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2122903195907440640/img/0B3nGuR0BMUzrWsI.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 179298,
+          "bytes": 179298,
+          "sha256": "2de69fe44aae7aa42abf87b4c798cad8a0cc2c2b07e29b189692f7bb03b8c67d",
+          "fullGet": true,
+          "caseId": "aa-miami-astra-fable",
+          "sourceUrl": "https://x.com/ArtificialAnlys/status/2122904331276177768",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1013,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2122808977188626432/img/KpU6CI0v3JW2Ks9G.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 108664,
+          "bytes": 108664,
+          "sha256": "8d5136a20e3fa695249232d06221f82b5b5d4b06855d7a23cd606cbc2c4aa230",
+          "fullGet": true,
+          "caseId": "kiraz-autonomous-foundry",
+          "sourceUrl": "https://x.com/AlicanKiraz0/status/2122809178963980761",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2122761069693489152/img/eS7_SD9sXXetwYOw.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 156172,
+          "bytes": 156172,
+          "sha256": "34c254654e0aae0a4091e899048ba3912748d2eda07fa8fa845c3ea9cb4a2731",
+          "fullGet": true,
+          "caseId": "abhinav-cinderella-castle",
+          "sourceUrl": "https://x.com/abhinavflac/status/2122761702114828638",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "caseId": "bubblebrain-cat-garden-fable",
+          "url": "https://raw.githubusercontent.com/BubbleBrainBB/awesome-fable-5.2/cat-garden-v1.0/cat-garden/preview.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 183342,
+          "sha256": "94c84051cb5a4ba97b1d915689945cacddc45fd66aeb762031e06477af20bcd1",
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2121300243186888704/img/wYkTWR81A_xIwig1.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 42767,
+          "bytes": 42767,
+          "sha256": "a54deae224854804a8933492db699da4706f496d15b7d0d978b36499b560a94a",
+          "fullGet": true,
+          "caseId": "yokohara-fable-character-motion",
+          "sourceUrl": "https://x.com/Yokohara_h/status/2121301810363465749",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "caseId": "segmind-watch-turntable",
+          "kind": "frame",
+          "subtype": "gif-first-frame",
+          "filename": "segmind-watch-turntable-poster.jpg",
+          "sourceUrl": "https://segmind-resources.s3.amazonaws.com/output/gpt-image-2.6-sunburst-example-watch-turntable-19a1544f.gif",
+          "bytes": 141686,
+          "sha256": "b82eb74278cfd7171ed3fe38ae7868cf1e869dfbb324a1e91430afbfc5f9162d",
+          "dimensions": [
+            768,
+            768
+          ],
+          "contentType": "image/jpeg",
+          "frameIndex": 0,
+          "assetId": 762331200,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-18/segmind-watch-turntable-poster.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "segmind-tin-robot",
+          "kind": "frame",
+          "subtype": "gif-first-frame",
+          "filename": "segmind-tin-robot-poster.jpg",
+          "sourceUrl": "https://segmind-resources.s3.amazonaws.com/output/gpt-image-2.6-flare-example-transparent-sticker-07cc4813.gif",
+          "bytes": 119332,
+          "sha256": "c99b4e0f2f146c75db27581a9fe4d72fd0c415696ab8eb5bed0c012b91632583",
+          "dimensions": [
+            960,
+            960
+          ],
+          "contentType": "image/jpeg",
+          "frameIndex": 0,
+          "assetId": 762331309,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-18/segmind-tin-robot-poster.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        }
+      ],
+      "animatedGifChecks": [
+        {
+          "caseId": "segmind-watch-turntable",
+          "sourceUrl": "https://www.segmind.com/@shrey/gpt-image-2-6",
+          "url": "https://segmind-resources.s3.amazonaws.com/output/gpt-image-2.6-sunburst-example-watch-turntable-19a1544f.gif",
+          "mediaType": "image/gif",
+          "httpStatus": 200,
+          "dimensions": [
+            768,
+            768
+          ],
+          "frames": 12,
+          "distinctFrames": 12,
+          "allFramesDecoded": true,
+          "durationMs": 1920,
+          "frameDurationsMs": [
+            160,
+            160,
+            160,
+            160,
+            160,
+            160,
+            160,
+            160,
+            160,
+            160,
+            160,
+            160
+          ],
+          "loopCount": 0,
+          "bytes": 2566870,
+          "sha256": "2b376c0fc276b56a78303f8f20405e118f681ec7583f2aa24e70fcca1ec6605b",
+          "contentLength": 2566870
+        },
+        {
+          "caseId": "segmind-tin-robot",
+          "sourceUrl": "https://www.segmind.com/@shrey/gpt-image-2-6",
+          "url": "https://segmind-resources.s3.amazonaws.com/output/gpt-image-2.6-flare-example-transparent-sticker-07cc4813.gif",
+          "mediaType": "image/gif",
+          "httpStatus": 200,
+          "dimensions": [
+            960,
+            960
+          ],
+          "frames": 9,
+          "distinctFrames": 9,
+          "allFramesDecoded": true,
+          "durationMs": 1800,
+          "frameDurationsMs": [
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200
+          ],
+          "loopCount": 0,
+          "bytes": 1210338,
+          "sha256": "5349a2f8859268438daedb835a44b25e3cdb3926054a1a3971a1da51941b1f79",
+          "contentLength": 1210338
+        }
+      ],
+      "authorDemos": [
+        {
+          "key": "meridian",
+          "url": "https://meridian-futuristic-race.openai.chatgpt.site/",
+          "scope": "Chrome with the native GPU rendered the interactive vehicle selection and Launch Race control. The full course is documented in the archived creator recording.",
+          "scopeZh": "Chrome 实际打开三维选车画面与发车入口；完整赛道另见原帖录像。",
+          "proof": "HTTP 200, 1440×810 render canvas, PARHELION / COACHWORKS constructor selection and Launch Race controls."
+        }
+      ],
+      "externalDemoAttempts": [
+        {
+          "key": "meridian",
+          "url": "https://meridian-futuristic-race.openai.chatgpt.site/",
+          "failed": [],
+          "errors": [],
+          "status": 200,
+          "title": "OpenAI | 3D Futuristic Race",
+          "initial": "MERIDIAN / MOTORSPORT\nOpenAI | 3D Futuristic Race\nOpening the harbour archives…",
+          "canvases": [
+            [
+              1440,
+              810,
+              1440,
+              810
+            ],
+            [
+              1,
+              1,
+              64,
+              64
+            ]
+          ],
+          "text": "MERIDIAN / MOTORSPORT\nOpenAI | 3D Futuristic Race\nOpening the coachworks · 7%",
+          "links": []
+        },
+        {
+          "key": "cathedral",
+          "url": "https://cathedral-walk.openai.chatgpt.site/",
+          "failed": [],
+          "errors": [],
+          "status": 200,
+          "title": "Cathedral Walk",
+          "initial": "Cathedral Walk\nCamera look\nFilm grain\nDreamcore\nClean\nPreparing the cathedral\n5%\n\nLoading material maps · 1 of 15",
+          "canvases": [
+            [
+              1440,
+              950,
+              300,
+              150
+            ]
+          ],
+          "text": "Cathedral Walk\nCamera look\nFilm grain\nDreamcore\nClean\nPreparing the cathedral\n40%\n\nAssembling the sanctuary and choir",
+          "links": [
+            [
+              "illustrated visitor route",
+              "https://cellar-c2.services.clever-cloud.com/s3.notredamedeparis.fr/uploads/2025/01/Dossier-pedagogique-FR-VD_compressed.pdf#page=17"
+            ]
+          ]
+        },
+        {
+          "key": "kasane",
+          "url": "https://givros.github.io/kasane-valley/",
+          "failed": [],
+          "errors": [],
+          "status": 200,
+          "title": "Kasane Valley",
+          "initial": "WebGPU could not find a graphics adapter.",
+          "canvases": [],
+          "text": "WebGPU could not find a graphics adapter.",
+          "links": []
+        },
+        {
+          "key": "analysis",
+          "url": "https://artificialanalysis.ai/3d/explorer",
+          "failed": [
+            [
+              401,
+              "https://artificialanalysis.ai/api/auth/organization/get-full-organization"
+            ]
+          ],
+          "errors": [],
+          "status": 200,
+          "title": "AA-3D Explorer | Artificial Analysis",
+          "initial": "Artificial Analysis\nModels\nCoding Agents\nImage, Speech, Video\nInference\nLeaderboards\nAbout\nAI Trends\nAA-3D Explorer\nVoting\nLeaderboard\nExplorer\n\nWeightlifter anatomy by GPT-6 Astra (max)\n\nWeightlifter anatomy\nPrompt\nGPT-6 Astra (max)\nRestart\n3D only\nFull screen\nPhoto\nClip\n\nShare\n\nLoading Weightlifter anatomy by GPT-6 Astra (max)",
+          "canvases": [],
+          "text": "Artificial Analysis\nModels\nCoding Agents\nImage, Speech, Video\nInference\nLeaderboards\nAbout\nAI Trends\nPremium\nLog in\nAA-3D Explorer\nVoting\nLeaderboard\nExplorer\n\nWeightlifter anatomy by GPT-6 Astra (max)\n\nWeightlifter anatomy\nPrompt\nGPT-6 Astra (max)\nRestart\n3D only\nFull screen\nPhoto\nClip\n\nShare\n\nLoading Weightlifter anatomy by GPT-6 Astra (max)",
+          "links": [
+            [
+              "Data Playground",
+              "https://artificialanalysis.ai/data-playground"
+            ]
+          ]
+        }
+      ]
     }
   ]
 }

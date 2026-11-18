@@ -63,6 +63,19 @@ npm start
 
 面向 `main` 的 PR 运行检查、lint 和 Pages 构建，并用 `git diff --exit-code --stat` 确认受控的派生文件已随源数据提交。PR 不下载视频、不部署，也没有 Pages 写权限。[Pages 工作流](../.github/workflows/pages.yml) 在推送 `main` 或手动发布时才获取并校验完整播放文件，再部署。部署后核对公开 JSON、双语详情、metadata、截图和媒体地址；必要时全量 GET 新视频并比对 hash。
 
+## 内容验证（2026-11-18）
+
+新增 7 件 GPT-6.2 Astra、2 件 Claude Fable 5.2、2 件原生 GIF。目录共 531 条：491 条 Astra、12 条 Fable、16 条 GIF、12 条方法参考。七件 Astra 的主要来源发布于上海时间 11 月 18 日；Fable 与 GIF 按各自的原始发布日标注。
+
+| 范围 | 实际检查 |
+| --- | --- |
+| 来源和演示 | 核对 OpenAI 发布说明、X 原帖和作者工程。巴黎圣母院保存同一段分镜的 Three.js 与 Unreal 两版，Meridian Sound Racing 在 Chrome 中进入了真实车辆选择界面，Kasane Valley 的公开工程包含 `.blend`、脚本和材质。Cat Garden 的 110 秒成片从作者 Release 完整下载并解码，档案链接指向该原片。 |
+| 完整录像 | `py -3.13 -u work/2026-11-18/inspect-media.py` 和 `complete-notre.py` 核对 X 来源和两种平台原文件。9 段录像的 18 个 MP4 共 899,178,156 字节，均通过 FFmpeg 严格全长解码。[媒体 Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-18) 上的 22 个附件（18 个视频、4 张预览）全部核对服务器字节数和 SHA-256。 |
+| 构建 | `npm.cmd run catalog`、`npm.cmd run check`、`npm.cmd run lint`、`npm.cmd run build` 通过，34 项测试通过。普通与 `GITHUB_PAGES=true` 两种构建均校验 1,100 个静态页、23,668 条本地引用、531 份详情 JSON、1,101 个 sitemap 地址。 |
+| 浏览器 | `node work/2026-11-18/browser-qa.mjs` 及 GIF、Fable 定向复核合计通过 14 项场景。新版搜索显示 7 件案例，6 张首页精选加载，9 段录像播放至结束。两张原生 GIF（12 帧 / 1.92 秒和 9 帧 / 1.8 秒）实际自动播放，可暂停和恢复，系统减少动态时显示静态图。1440、390 和 320 像素视口无页面横向溢出，通过场景无控制台错误或警告。 |
+
+中英文 README 的预览链接指向各自语言的案例页，四张页面实拍及分享封面同步更新。检索和源材料核对记录见 [研究档案](../data/research.json)。
+
 ## 内容验证（2026-11-17）
 
 新增 4 件 Astra、4 件 Claude Fable 5.2 和 2 件原生 GIF。目录共 520 条，包括 484 条 Astra、10 条 Fable、14 条 GIF 和 12 条独立方法参考。X 原帖发布于上海时间 11 月 15—17 日。

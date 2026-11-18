@@ -8,13 +8,13 @@ import './gallery.css';
 import cases from '@/data/catalog-index.json';
 import { SITE_URL } from '@/src/site.mjs';
 const shareImage = new URL('share.jpg', SITE_URL).href;
-const title = 'GPT-6 Astra & Claude Fable 5.2 3D Examples | Astra 3D Atlas';
+const title = 'GPT-6.2 Astra, GPT-6 Astra & Fable 5.2 3D Examples | Astra 3D Atlas';
 const astraCount = cases.filter((c) => c.group === 'astra').length;
 const fableCount = cases.filter((c) => c.group === 'fable').length;
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title,
-  description: `浏览 ${astraCount} 个 GPT-6 Astra 三维案例与 ${fableCount} 个 Claude Fable 5.2 案例。查看 Blender 工程、Three.js 演示、完整录像、原作者过程与 GPT-Image-2.6 GIF 动图。`,
+  description: `浏览 ${astraCount} 个 GPT-6 / 6.2 Astra 三维案例与 ${fableCount} 个 Claude Fable 5.2 案例。查看 Blender 工程、Three.js 演示、完整录像、原作者过程与 GPT-Image-2.6 GIF 动图。`,
   alternates: {
     canonical: SITE_URL,
   },

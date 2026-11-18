@@ -14,7 +14,7 @@ export const messages = {
     hero: '下一次三维创作，',
     heroAccent: '从一个作品开始。',
     description:
-      '探索 GPT-6 Astra 与 Claude Fable 5.2 的三维空间、游戏与模型。打开工程、试玩作品，也可以沿原帖看制作过程。',
+      '探索 GPT-6 / 6.2 Astra 与 Claude Fable 5.2 的三维作品。打开工程、试玩场景，或沿原帖看制作过程。',
     picks: '编辑精选',
     updated: '收录更新',
     gif: 'GIF 动图',
@@ -166,7 +166,7 @@ export const messages = {
     hero: 'Your next 3D creation',
     heroAccent: 'starts with a real project.',
     description:
-      'Explore 3D worlds, games and models made with GPT-6 Astra and Claude Fable 5.2. Open projects, try demos and follow the creators’ process.',
+      'Explore 3D worlds, games and models made with GPT-6 / 6.2 Astra and Claude Fable 5.2. Open projects, try demos and follow the creators’ process.',
     picks: 'Editor’s picks',
     updated: 'Collection updated',
     gif: 'GIF animations',
