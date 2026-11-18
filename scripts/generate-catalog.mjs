@@ -29,7 +29,7 @@ const sourceCount = astra.filter((c) => c.repositoryUrl).length;
 const demoCount = astra.filter((c) => c.demoUrl).length;
 let text = `# 案例目录\n\n由 \`data/cases.json\` 生成。最近核查：${latest}。[上手路线](START_HERE.md) · [最新收录](UPDATES.md)。作品归属基于公开来源，不代表独立复现。\n\n`;
 for (const [group, title] of [
-  ['astra', 'GPT-6 Astra 案例'],
+  ['astra', 'GPT-6 / 6.2 Astra 案例'],
   ['fable', 'Claude Fable 5.2 案例'],
   ['gif', 'GPT-Image-2.6 GIF 动图'],
   ['reference', '独立方法参考'],

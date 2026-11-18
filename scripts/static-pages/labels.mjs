@@ -15,7 +15,7 @@ export const labels = {
     gifOriginal: '打开原始 GIF',
     gifFailed: '动图加载失败，请尝试原始文件或作者来源。',
     gifFrames: '帧',
-    astra: 'GPT-6 Astra 案例',
+    astra: 'Astra 案例',
     fable: 'Claude Fable 5.2 案例',
     reference: '独立方法参考 · 不计入 Astra',
     evidence: '来源与核查',
@@ -57,7 +57,7 @@ export const labels = {
     topicIntro:
       '材料以作者公开入口为准；具体环境、资产权利和已知限制见作品档案。',
     topicNote: '演示可达不等于独立复现。没有公开工程的作品仅供效果与过程参考。',
-    methods: '参考作品单独标记，不纳入 GPT-6 Astra 案例数量。',
+    methods: '参考作品单独标记，不纳入 Astra 案例数量。',
     skip: '跳到正文',
     credits: '第三方作品及媒体保留原有权利，不适用本库 MIT 许可证。',
     official: '官方展示',
@@ -81,7 +81,7 @@ export const labels = {
     gifOriginal: 'Open original GIF',
     gifFailed: 'Animation could not load. Try the original file or creator source.',
     gifFrames: 'frames',
-    astra: 'GPT-6 Astra example',
+    astra: 'Astra example',
     fable: 'Claude Fable 5.2 example',
     reference: 'Separate method reference · excluded from Astra count',
     evidence: 'Sources & verification',
@@ -131,7 +131,7 @@ export const labels = {
     topicNote:
       'A reachable demo is not independent reproduction. Works without public projects are visual or process references.',
     methods:
-      'Method references are labeled separately and excluded from the GPT-6 Astra count.',
+      'Method references are labeled separately and excluded from the Astra count.',
     skip: 'Skip to main content',
     credits:
       'Third-party works and media retain their original rights and are excluded from this index’s MIT license.',

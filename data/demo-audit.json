@@ -1205,6 +1205,15 @@
         ],
         "selectedModel": "Claude Fable 5.2"
       }
+    },
+    {
+      "id": "openai-meridian-sound-racing",
+      "url": "https://meridian-futuristic-race.openai.chatgpt.site/",
+      "status": 200,
+      "observedAt": "2026-11-18",
+      "result": "verified-interactive",
+      "scope": "Chrome with the native GPU rendered the interactive vehicle selection and Launch Race control. The full course is documented in the archived creator recording.",
+      "browserEvidence": "HTTP 200, 1440×810 render canvas, PARHELION / COACHWORKS constructor selection and Launch Race controls."
     }
   ]
 }

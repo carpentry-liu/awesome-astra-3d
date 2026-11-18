@@ -1,5 +1,5 @@
 {
-  "observedAt": "2026-11-17",
+  "observedAt": "2026-11-18",
   "officialSources": [
     "https://developers.openai.com/showcase/all",
     "https://developers.openai.com/api/docs/models/gpt-6-astra"
@@ -14752,6 +14752,534 @@
       "newMediaFiles": 16,
       "newMediaBytes": 216183675,
       "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-17"
+    },
+    {
+      "observedAt": "2026-11-18",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "baselineCommit": "8cf15cc2b9e3e017dfd9750da18cff3a0948423a",
+      "baselineCount": 520,
+      "resultingCount": 531,
+      "addedCaseIds": [
+        "ricouard-notre-dame-unreal",
+        "openai-meridian-sound-racing",
+        "givros-kasane-valley",
+        "chua-singapore-digital-twin",
+        "aa-miami-astra-fable",
+        "kiraz-autonomous-foundry",
+        "abhinav-cinderella-castle",
+        "bubblebrain-cat-garden-fable",
+        "yokohara-fable-character-motion",
+        "segmind-watch-turntable",
+        "segmind-tin-robot"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "observations": [
+        {
+          "id": "ricouard-notre-dame-unreal",
+          "sourceUrl": "https://x.com/Dimillian/status/2122750651998355800",
+          "sourceDate": "2026-11-18",
+          "modelLabel": "GPT-6.2 Astra",
+          "group": "astra"
+        },
+        {
+          "id": "openai-meridian-sound-racing",
+          "sourceUrl": "https://x.com/Bhavani_00007/status/2122767429193646141",
+          "sourceDate": "2026-11-18",
+          "modelLabel": "GPT-6.2 Astra",
+          "group": "astra"
+        },
+        {
+          "id": "givros-kasane-valley",
+          "sourceUrl": "https://x.com/givros/status/2122816304071803109",
+          "sourceDate": "2026-11-18",
+          "modelLabel": "GPT-6.2 Astra",
+          "group": "astra"
+        },
+        {
+          "id": "chua-singapore-digital-twin",
+          "sourceUrl": "https://x.com/gabrielchua/status/2122762679760883967",
+          "sourceDate": "2026-11-18",
+          "modelLabel": "GPT-6.2 Astra",
+          "group": "astra"
+        },
+        {
+          "id": "aa-miami-astra-fable",
+          "sourceUrl": "https://x.com/ArtificialAnlys/status/2122904331276177768",
+          "sourceDate": "2026-11-18",
+          "modelLabel": "GPT-6.2 Astra · Claude Fable 5.2",
+          "group": "astra"
+        },
+        {
+          "id": "kiraz-autonomous-foundry",
+          "sourceUrl": "https://x.com/AlicanKiraz0/status/2122809178963980761",
+          "sourceDate": "2026-11-18",
+          "modelLabel": "GPT-6.2 Astra · Claude Fable 5.2 · Gemini 4 Carbon · Qwen4 Max",
+          "group": "astra"
+        },
+        {
+          "id": "abhinav-cinderella-castle",
+          "sourceUrl": "https://x.com/abhinavflac/status/2122761702114828638",
+          "sourceDate": "2026-11-18",
+          "modelLabel": "GPT-6.2 Astra",
+          "group": "astra"
+        },
+        {
+          "id": "bubblebrain-cat-garden-fable",
+          "sourceUrl": "https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/cat-garden-v1.0/cat-garden",
+          "sourceDate": "2026-11-16",
+          "modelLabel": "Claude Fable 5.2",
+          "group": "fable"
+        },
+        {
+          "id": "yokohara-fable-character-motion",
+          "sourceUrl": "https://x.com/Yokohara_h/status/2121301810363465749",
+          "sourceDate": "2026-11-14",
+          "modelLabel": "Claude Fable 5.2",
+          "group": "fable"
+        },
+        {
+          "id": "segmind-watch-turntable",
+          "sourceUrl": "https://www.segmind.com/@shrey/gpt-image-2-6",
+          "sourceDate": "2026-11-06",
+          "modelLabel": "GPT-Image-2.6 Sunburst · 原生 GIF",
+          "group": "gif"
+        },
+        {
+          "id": "segmind-tin-robot",
+          "sourceUrl": "https://www.segmind.com/@shrey/gpt-image-2-6",
+          "sourceDate": "2026-11-06",
+          "modelLabel": "GPT-Image-2.6 Flare · 原生 GIF",
+          "group": "gif"
+        }
+      ],
+      "queries": [
+        "GPT-6.2 Astra November 18 2026 official 3D examples and creator X videos",
+        "Claude Fable 5.2 Three.js Blender GitHub X Reddit Bilibili and Xiaohongshu November 17–18",
+        "GPT Image 2.6 native GIF original download, turntable and transparent sticker"
+      ],
+      "discoverySources": [
+        "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+        "https://developers.openai.com/showcase/notre-damn",
+        "https://dropday.ai/model-drops/drop-openai-gpt62astra",
+        "https://github.com/AI-Terrarium/awesome-gpt-6.2",
+        "https://github.com/BubbleBrainBB/awesome-fable-5.2",
+        "https://www.segmind.com/@shrey/gpt-image-2-6",
+        "https://artificialanalysis.ai/3d/explorer",
+        "https://aivs.tv/models/gpt-6-astra/",
+        "https://teapawt.net/OpenAI",
+        "https://teapawt.net/OpenAIDevs",
+        "https://teapawt.net/AnthropicAI",
+        "https://teapawt.net/ArtificialAnlys",
+        "https://teapawt.net/ntavva",
+        "https://teapawt.net/rakshitN30",
+        "https://teapawt.net/peter_gostev",
+        "https://teapawt.net/ChetanAnkola",
+        "https://teapawt.net/ky_zo",
+        "https://teapawt.net/AravSrinivas",
+        "https://teapawt.net/vib3coded",
+        "https://teapawt.net/teddyaisi",
+        "https://teapawt.net/noclipepe",
+        "https://teapawt.net/Andr1ycp",
+        "https://teapawt.net/maker_jackie",
+        "https://teapawt.net/sgarlen01",
+        "https://teapawt.net/KostiKoNeuro",
+        "https://teapawt.net/az9713",
+        "https://teapawt.net/EnvolDev",
+        "https://teapawt.net/HavisT83099",
+        "https://teapawt.net/miso_bits",
+        "https://teapawt.net/Lummox_eth",
+        "https://teapawt.net/XtraAi",
+        "https://teapawt.net/evanjcha",
+        "https://teapawt.net/ruofeng",
+        "https://teapawt.net/YouArtStudio",
+        "https://teapawt.net/Olo_polo13",
+        "https://teapawt.net/N1njaCodex",
+        "https://teapawt.net/cfenghub",
+        "https://teapawt.net/One2xDatalab",
+        "https://teapawt.net/maxT3chno",
+        "https://teapawt.net/SimoneGiannini",
+        "https://teapawt.net/Dimillian",
+        "https://teapawt.net/MengTo",
+        "https://teapawt.net/RockkstarX",
+        "https://teapawt.net/MartinSzremeti",
+        "https://teapawt.net/RGR17140",
+        "https://teapawt.net/Ciorki0",
+        "https://teapawt.net/kidrealey",
+        "https://teapawt.net/sshcodes",
+        "https://teapawt.net/Liam4480",
+        "https://teapawt.net/RubensSoto_AI",
+        "https://teapawt.net/mmmarcus_ai",
+        "https://teapawt.net/AlexStLouis10",
+        "https://teapawt.net/NicolasDiolez",
+        "https://teapawt.net/koltreg",
+        "https://teapawt.net/jaxs",
+        "https://teapawt.net/Forizonlabs",
+        "https://teapawt.net/beastxLabs",
+        "https://teapawt.net/Trace_AR"
+      ],
+      "discoveryErrors": [
+        {
+          "source": "https://teapawt.net/OpenAI",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/OpenAIDevs",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/AnthropicAI",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/ArtificialAnlys",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/ntavva",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/rakshitN30",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/peter_gostev",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/ChetanAnkola",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/ky_zo",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/AravSrinivas",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/vib3coded",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/teddyaisi",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/noclipepe",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/Andr1ycp",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/maker_jackie",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/sgarlen01",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/KostiKoNeuro",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/az9713",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/EnvolDev",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/HavisT83099",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/miso_bits",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/Lummox_eth",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/XtraAi",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/evanjcha",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/ruofeng",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/YouArtStudio",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/Olo_polo13",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/N1njaCodex",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/cfenghub",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/One2xDatalab",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/maxT3chno",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/SimoneGiannini",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/Dimillian",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/MengTo",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/RockkstarX",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/MartinSzremeti",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/RGR17140",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/Ciorki0",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/kidrealey",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/sshcodes",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/Liam4480",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/RubensSoto_AI",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/mmmarcus_ai",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/AlexStLouis10",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/NicolasDiolez",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/koltreg",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/jaxs",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/Forizonlabs",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/beastxLabs",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "source": "https://teapawt.net/Trace_AR",
+          "error": "HTTP Error 429: Too Many Requests"
+        }
+      ],
+      "sourceChecks": [
+        {
+          "caseId": "ricouard-notre-dame-unreal",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/Dimillian/status/2122750651998355800",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T01:56:08+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122750566484897792",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "ricouard-notre-dame-unreal",
+          "archiveOrdinal": 2,
+          "sourceUrl": "https://x.com/Dimillian/status/2122750734286377130",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T01:56:28+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122750654623997952",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "openai-meridian-sound-racing",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/Bhavani_00007/status/2122767429193646141",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T03:02:48+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122765139741212672",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "givros-kasane-valley",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/givros/status/2122816304071803109",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T06:17:01+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122815661898440704",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "chua-singapore-digital-twin",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/gabrielchua/status/2122762679760883967",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T02:43:56+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122761647316238336",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "aa-miami-astra-fable",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/ArtificialAnlys/status/2122904331276177768",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T12:06:48+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122903195907440640",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "kiraz-autonomous-foundry",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/AlicanKiraz0/status/2122809178963980761",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T05:48:42+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122808977188626432",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "abhinav-cinderella-castle",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/abhinavflac/status/2122761702114828638",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T02:40:03+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122761069693489152",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "bubblebrain-cat-garden-fable",
+          "sourceUrl": "https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/cat-garden-v1.0/cat-garden",
+          "assetUrl": "https://github.com/BubbleBrainBB/awesome-fable-5.2/releases/download/cat-garden-v1.0/cat_garden.mp4",
+          "bytes": 303699308,
+          "sha256": "5c791018329a2ac673eff3e8d1553eb79a2b96175a4a72b5f76bac8d6778d461",
+          "durationSeconds": 110,
+          "complete": true,
+          "decodeChecked": true,
+          "sourcePublishedAt": "2026-11-16T15:34:25Z"
+        },
+        {
+          "caseId": "yokohara-fable-character-motion",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/Yokohara_h/status/2121301810363465749",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-14T01:58:58+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2121300243186888704",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        }
+      ],
+      "excludedOrDeferred": [
+        {
+          "url": "https://x.com/DeryaTR_/status/2122814594737684568",
+          "reason": "Creator identifies the linked interactive butterfly gallery and the attached recording as GPT-6.2 Sol. Astra mentioned separately."
+        },
+        {
+          "url": "https://x.com/chetaslua/status/2122753048351232187",
+          "reason": "Separate Notre-Dame comparison or repost context; kept Ricouard’s two explicit creator originals in a single entry."
+        },
+        {
+          "url": "https://developers.openai.com/showcase/forest-walks",
+          "reason": "Author demo returned missing-site status in the browser. Deferred for a verified playable result."
+        },
+        {
+          "url": "https://developers.openai.com/showcase/escapement",
+          "reason": "Author demo returned missing-site status in the browser. Deferred for a verified playable result."
+        }
+      ],
+      "platformLimits": [
+        "X originals and attached media URLs independently checked; discovery mirror returned 429.",
+        "No Xiaohongshu or Bilibili discovery was selected with case-specific primary proof this round.",
+        "This round adds same-day Astra examples and previously published Fable and GIF works. Source dates are independent.",
+        "Exact Miami entries in the AA-3D viewer were not confirmed. The full original comparison is available."
+      ],
+      "completeSourceClips": 9,
+      "newGifWorks": 2,
+      "newMediaFiles": 18,
+      "newMediaBytes": 899178156,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-18"
     }
   ]
 }

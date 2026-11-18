@@ -1,5 +1,623 @@
 [
   {
+    "id": "ricouard-notre-dame-unreal",
+    "group": "astra",
+    "title": "巴黎圣母院：同一段分镜的 Unreal 与 Three.js 版本",
+    "titleEn": "Notre-Dame: One Trailer in Unreal and Three.js",
+    "category": "建筑可视化",
+    "platforms": [
+      "X",
+      "OpenAI"
+    ],
+    "modelLabel": "GPT-6.2 Astra",
+    "evidenceNote": "Thomas Ricouard 的首帖明确标注 GPT-6.2 Astra。作者先在 Three.js/WebGL 搭建场景，再请 Astra 写导出器，将网格和材质迁移到 Unreal Engine 5。两段录像采用相同机位、剪辑和管风琴音轨。",
+    "summary": "用照片和历史平面图重建巴黎圣母院主中殿；可以对照两种引擎的空间、彩窗和光照表现。两段完整原帖录像分别保留。",
+    "outputType": [
+      "Three.js",
+      "WebGL",
+      "Unreal Engine 5",
+      "完整运行录像"
+    ],
+    "imageCaption": "Thomas Ricouard 原始 Unreal Engine 5 录像中的彩窗与中殿。 截取原始录像第 28.045 秒。",
+    "promptAvailability": "author-description",
+    "promptUrl": "https://developers.openai.com/showcase/notre-damn",
+    "promptSummary": "先研究真实教堂的照片与平面图，复原中殿视角和内部结构，再把网格、材质和同一组镜头迁移到另一种渲染引擎。",
+    "evidenceUrls": [
+      "https://x.com/Dimillian/status/2122750734286377130",
+      "https://developers.openai.com/showcase/notre-damn",
+      "https://cathedral-walk.openai.chatgpt.site/",
+      "https://api.fxtwitter.com/Dimillian/status/2122750651998355800",
+      "https://api.fxtwitter.com/Dimillian/status/2122750734286377130"
+    ],
+    "outcome": "showcase",
+    "addedAt": "2026-11-18",
+    "observedAt": "2026-11-18",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "evidenceLevel": "author",
+    "licenseNotes": "第三方作品与媒体保留各自权利。本库 MIT 许可适用于本库自身代码。",
+    "sourceDate": "2026-11-18",
+    "demoUrl": null,
+    "repositoryUrl": null,
+    "videoUrl": "https://x.com/Dimillian/status/2122750651998355800",
+    "platform": "X",
+    "sourceUrl": "https://x.com/Dimillian/status/2122750651998355800",
+    "author": "Thomas Ricouard / @Dimillian",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-18/ricouard-notre-dame-unreal-result.jpg",
+    "imageKind": "video-frame",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "核对 X 原帖作者、时刻与媒体 ID；所有收录录像的两个原平台 MP4 版本均完整获取、核对字节与 SHA-256 并全长解码。 原网页入口保留在证据链接；观看结果请使用完整录像。",
+    "archivedVideos": [
+      {
+        "label": "Unreal Engine 5 · 完整原帖",
+        "posterUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-18/ricouard-notre-dame-unreal-result.jpg",
+        "sourceUrl": "https://x.com/Dimillian/status/2122750651998355800",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/ricouard-notre-dame-unreal-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-18/ricouard-notre-dame-unreal-1-original.mp4",
+        "durationSeconds": 56.09,
+        "bytes": 117704960,
+        "sha256": "8b5c852ca3f36c70b550ae7a197242090e4aa1f938d07c0a82b18358cfc25db9"
+      },
+      {
+        "label": "Three.js / WebGL · 完整原帖",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2122750654623997952/img/GrQDQfQbYUZ69wGn.jpg",
+        "sourceUrl": "https://x.com/Dimillian/status/2122750734286377130",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/ricouard-notre-dame-unreal-2-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-18/ricouard-notre-dame-unreal-2-original.mp4",
+        "durationSeconds": 56.09,
+        "bytes": 123684713,
+        "sha256": "c818b2017bef61953648c628ea8dcfa3dbd3a07273ed2b908ec65fe3d26ffedc"
+      }
+    ]
+  },
+  {
+    "id": "openai-meridian-sound-racing",
+    "group": "astra",
+    "title": "Meridian Sound Racing：穿过海港的未来赛车",
+    "titleEn": "Meridian Sound Racing: Futuristic Racing Across the Harbor",
+    "category": "3D 游戏",
+    "platforms": [
+      "X",
+      "OpenAI"
+    ],
+    "modelLabel": "GPT-6.2 Astra",
+    "evidenceNote": "分享者 Bhavy 的原帖明确标注模型并指向 OpenAI 的同名试玩页。官方发布说明单独展示了这款赛车作品。公开资料未披露完整工程或复现参数。",
+    "summary": "从发车进入灯光与赛道设施包围的海港赛道，用完整实机录像观察车辆、镜头和速度反馈。",
+    "outputType": [
+      "3D 赛车",
+      "实机演示",
+      "完整运行录像"
+    ],
+    "imageCaption": "Meridian Sound Racing 原帖实机的赛道画面。 截取原始录像第 30.025 秒。",
+    "promptAvailability": "not-public",
+    "evidenceUrls": [
+      "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "https://meridian-futuristic-race.openai.chatgpt.site/",
+      "https://api.fxtwitter.com/Bhavani_00007/status/2122767429193646141"
+    ],
+    "outcome": "showcase",
+    "addedAt": "2026-11-18",
+    "observedAt": "2026-11-18",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "evidenceLevel": "author",
+    "licenseNotes": "第三方作品与媒体保留各自权利。本库 MIT 许可适用于本库自身代码。",
+    "sourceDate": "2026-11-18",
+    "demoUrl": "https://meridian-futuristic-race.openai.chatgpt.site/",
+    "repositoryUrl": null,
+    "promptUrl": null,
+    "promptSummary": null,
+    "videoUrl": "https://x.com/Bhavani_00007/status/2122767429193646141",
+    "platform": "X",
+    "sourceUrl": "https://x.com/Bhavani_00007/status/2122767429193646141",
+    "author": "Bhavy☄️ / @Bhavani_00007",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-18/openai-meridian-sound-racing-result.jpg",
+    "imageKind": "video-frame",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "核对 X 原帖作者、时刻与媒体 ID；所有收录录像的两个原平台 MP4 版本均完整获取、核对字节与 SHA-256 并全长解码。 Chrome 实际打开三维选车画面与发车入口；完整赛道另见原帖录像。",
+    "archivedVideos": [
+      {
+        "label": "Meridian Sound Racing · 完整实机录像",
+        "posterUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-18/openai-meridian-sound-racing-result.jpg",
+        "sourceUrl": "https://x.com/Bhavani_00007/status/2122767429193646141",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/openai-meridian-sound-racing-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-18/openai-meridian-sound-racing-1-original.mp4",
+        "durationSeconds": 60.05,
+        "bytes": 187601558,
+        "sha256": "016457119a4999ee6bced75bbe53d9c8de05e7f4538cb6fe249751d48bae3328"
+      }
+    ]
+  },
+  {
+    "id": "givros-kasane-valley",
+    "group": "astra",
+    "title": "Kasane Valley：在日式山谷里从地面走到空中",
+    "titleEn": "Kasane Valley: Explore a Japanese Mountain Village",
+    "category": "程序化场景",
+    "platforms": [
+      "X",
+      "GitHub"
+    ],
+    "modelLabel": "GPT-6.2 Astra",
+    "evidenceNote": "Givros 在原帖明确说明使用 GPT-6.2 Astra、Blender、Three.js 和自己的工作流，并在同一线程公开图像参考。作者发布了网页及其公开仓库；参考图、场景生成和网页交互是不同步骤。",
+    "summary": "从田野、红桥和村落地面视角切到空中俯瞰。完整录像展示探索操作，公开网页使用 WebGPU。",
+    "outputType": [
+      "Blender",
+      "Three.js",
+      "WebGPU",
+      "完整运行录像"
+    ],
+    "imageCaption": "Givros 原帖的村落、红桥与山谷成果封面。",
+    "promptAvailability": "author-description",
+    "promptUrl": "https://x.com/givros/status/2122816304071803109",
+    "promptSummary": "作者在参考图的基础上构建 Blender 场景，并用 Three.js 实作村落的步行和空中视角。",
+    "repositoryUrl": "https://github.com/givros/kasane-valley/tree/main/artifacts/kasane_valley",
+    "evidenceUrls": [
+      "https://givros.github.io/kasane-valley/",
+      "https://x.com/givros/status/2122816307338830237",
+      "https://api.fxtwitter.com/givros/status/2122816304071803109"
+    ],
+    "outcome": "showcase",
+    "addedAt": "2026-11-18",
+    "observedAt": "2026-11-18",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "evidenceLevel": "author",
+    "licenseNotes": "第三方作品与媒体保留各自权利。本库 MIT 许可适用于本库自身代码。",
+    "sourceDate": "2026-11-18",
+    "demoUrl": null,
+    "videoUrl": "https://x.com/givros/status/2122816304071803109",
+    "platform": "X",
+    "sourceUrl": "https://x.com/givros/status/2122816304071803109",
+    "author": "Givros / @givros",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2122815661898440704/img/AzaaTFgNS_wRBNa0.jpg",
+    "imageKind": "video-poster",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "核对 X 原帖作者、时刻与媒体 ID；所有收录录像的两个原平台 MP4 版本均完整获取、核对字节与 SHA-256 并全长解码。 原网页入口保留在证据链接；观看结果请使用完整录像。",
+    "archivedVideos": [
+      {
+        "label": "Kasane Valley · 完整原帖实机录像",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2122815661898440704/img/AzaaTFgNS_wRBNa0.jpg",
+        "sourceUrl": "https://x.com/givros/status/2122816304071803109",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/givros-kasane-valley-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-18/givros-kasane-valley-1-original.mp4",
+        "durationSeconds": 79.57,
+        "bytes": 112468478,
+        "sha256": "cf0c71ecdf6421ff5396971536032f1de152679c6fac1b17cb09d6468579d7ea"
+      }
+    ]
+  },
+  {
+    "id": "chua-singapore-digital-twin",
+    "group": "astra",
+    "title": "1:1 新加坡：用大量并行任务搭建城市数字孪生",
+    "titleEn": "Singapore at 1:1 Scale: A City-Building Workflow",
+    "category": "建筑可视化",
+    "platforms": [
+      "X"
+    ],
+    "modelLabel": "GPT-6.2 Astra",
+    "evidenceNote": "Gabriel Chua 在 X 原帖标注 6.2 Astra 和 Codex。建筑、道路、街灯的数量与 1:1 比例，以及工作时长、线程和子代理数量为作者披露，未进行独立测绘或代码复现。",
+    "summary": "从全岛鸟瞰到滨海建筑，30 秒完整原帖展示同一座可缩放的城市模型。作者说明将建筑轮廓、道路和街灯拆成并行任务。",
+    "outputType": [
+      "城市数字孪生",
+      "多任务协作",
+      "完整运行录像"
+    ],
+    "imageCaption": "Gabriel Chua 原帖中的新加坡全岛成果视图。",
+    "promptAvailability": "author-description",
+    "promptSummary": "作者公布了并行协作规模以及建筑、道路和街灯的场景范围，未公开完整提示词或项目。",
+    "outcome": "showcase",
+    "addedAt": "2026-11-18",
+    "observedAt": "2026-11-18",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "evidenceLevel": "author",
+    "licenseNotes": "第三方作品与媒体保留各自权利。本库 MIT 许可适用于本库自身代码。",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/gabrielchua/status/2122762679760883967"
+    ],
+    "sourceDate": "2026-11-18",
+    "demoUrl": null,
+    "repositoryUrl": null,
+    "promptUrl": "https://x.com/gabrielchua/status/2122762679760883967",
+    "videoUrl": "https://x.com/gabrielchua/status/2122762679760883967",
+    "platform": "X",
+    "sourceUrl": "https://x.com/gabrielchua/status/2122762679760883967",
+    "author": "Gabriel Chua / @gabrielchua",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2122761647316238336/img/1mWdhOsWgRnW_EhY.jpg",
+    "imageKind": "video-poster",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "核对 X 原帖作者、时刻与媒体 ID；所有收录录像的两个原平台 MP4 版本均完整获取、核对字节与 SHA-256 并全长解码。",
+    "archivedVideos": [
+      {
+        "label": "新加坡数字孪生 · 完整原帖",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2122761647316238336/img/1mWdhOsWgRnW_EhY.jpg",
+        "sourceUrl": "https://x.com/gabrielchua/status/2122762679760883967",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/chua-singapore-digital-twin-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-18/chua-singapore-digital-twin-1-original.mp4",
+        "durationSeconds": 30.06,
+        "bytes": 69281267,
+        "sha256": "fefea44fa4200deb3bda4a344d7d53a4f20fd7d35f7e2fb72e9a33b1dce7e57a"
+      }
+    ]
+  },
+  {
+    "id": "aa-miami-astra-fable",
+    "group": "astra",
+    "title": "两个模型造迈阿密：海湾、酒店和水路",
+    "titleEn": "Miami by Two Models: Bays, Hotels and Waterways",
+    "category": "程序化场景",
+    "platforms": [
+      "X",
+      "Artificial Analysis"
+    ],
+    "modelLabel": "GPT-6.2 Astra · Claude Fable 5.2",
+    "evidenceNote": "Artificial Analysis 公开的 AA-3D 对照使用两个模型各一条相同任务，并运行在无网络的评测沙箱。录像上方为 Claude Fable 5.2，下方为 GPT-6.2 Astra。",
+    "summary": "在同一个迈阿密任务下比较两个三维城市的天际线和水路。对照视频含模型标签，作者说明可用汽车、快艇或飞艇探索。",
+    "outputType": [
+      "AA-3D",
+      "双模型对照",
+      "完整运行录像"
+    ],
+    "imageCaption": "Artificial Analysis 原帖封面：上方 Claude Fable 5.2，下方 GPT-6.2 Astra。",
+    "promptAvailability": "author-description",
+    "promptSummary": "任务是用近期的迈阿密作背景，呈现有 Vice City 风格、昼夜变化和多种交通方式的可探索三维场景。页面不把对照结果当成排行榜。",
+    "evidenceUrls": [
+      "https://artificialanalysis.ai/3d/explorer",
+      "https://artificialanalysis.ai/evaluations/aa-3d",
+      "https://api.fxtwitter.com/ArtificialAnlys/status/2122904331276177768"
+    ],
+    "outcome": "showcase",
+    "addedAt": "2026-11-18",
+    "observedAt": "2026-11-18",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "evidenceLevel": "author",
+    "licenseNotes": "第三方作品与媒体保留各自权利。本库 MIT 许可适用于本库自身代码。",
+    "sourceDate": "2026-11-18",
+    "demoUrl": null,
+    "repositoryUrl": null,
+    "promptUrl": "https://x.com/ArtificialAnlys/status/2122904331276177768",
+    "videoUrl": "https://x.com/ArtificialAnlys/status/2122904331276177768",
+    "platform": "X",
+    "sourceUrl": "https://x.com/ArtificialAnlys/status/2122904331276177768",
+    "author": "Artificial Analysis / @ArtificialAnlys",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2122903195907440640/img/0B3nGuR0BMUzrWsI.jpg",
+    "imageKind": "video-poster",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "核对 X 原帖作者、时刻与媒体 ID；所有收录录像的两个原平台 MP4 版本均完整获取、核对字节与 SHA-256 并全长解码。",
+    "archivedVideos": [
+      {
+        "label": "迈阿密双模型对照 · 上 Fable 5.2 / 下 GPT-6.2 Astra",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2122903195907440640/img/0B3nGuR0BMUzrWsI.jpg",
+        "sourceUrl": "https://x.com/ArtificialAnlys/status/2122904331276177768",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/aa-miami-astra-fable-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-18/aa-miami-astra-fable-1-original.mp4",
+        "durationSeconds": 19.0,
+        "bytes": 12900710,
+        "sha256": "2fb68ce0cb43f480118adad02d41cc64166331834be1684560d10641df4f5f65"
+      }
+    ]
+  },
+  {
+    "id": "kiraz-autonomous-foundry",
+    "group": "astra",
+    "title": "Autonomous Foundry：同题四版的工厂调度仿真",
+    "titleEn": "Autonomous Foundry: Four Models Simulate Factory Dispatch",
+    "category": "交互与工具",
+    "platforms": [
+      "X"
+    ],
+    "modelLabel": "GPT-6.2 Astra · Claude Fable 5.2 · Gemini 4 Carbon · Qwen4 Max",
+    "evidenceNote": "Alican Kiraz 以 OpenCode 让四个模型完成相同任务，并说明评估关注代码和仿真逻辑，不排名画质和帧率。录像左上为 Astra，右上为 Fable；下方是 Gemini 和 Qwen。",
+    "summary": "六台设备、两辆自动导引车和 24 份订单，在三维工厂里应对加单、停机和通道关闭。看同一调度逻辑怎样反映到四个界面上。",
+    "outputType": [
+      "工厂仿真",
+      "自动导引车",
+      "多模型对照",
+      "完整运行录像"
+    ],
+    "imageCaption": "Alican Kiraz 原帖的四模型工厂布局封面。",
+    "promptAvailability": "author-description",
+    "promptSummary": "各版本要在一分钟内演示设备、搬运和订单流转，并在三种扰动发生时安全地调整调度。",
+    "outcome": "showcase",
+    "addedAt": "2026-11-18",
+    "observedAt": "2026-11-18",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "evidenceLevel": "author",
+    "licenseNotes": "第三方作品与媒体保留各自权利。本库 MIT 许可适用于本库自身代码。",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/AlicanKiraz0/status/2122809178963980761"
+    ],
+    "sourceDate": "2026-11-18",
+    "demoUrl": null,
+    "repositoryUrl": null,
+    "promptUrl": "https://x.com/AlicanKiraz0/status/2122809178963980761",
+    "videoUrl": "https://x.com/AlicanKiraz0/status/2122809178963980761",
+    "platform": "X",
+    "sourceUrl": "https://x.com/AlicanKiraz0/status/2122809178963980761",
+    "author": "Alican Kiraz / @AlicanKiraz0",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2122808977188626432/img/KpU6CI0v3JW2Ks9G.jpg",
+    "imageKind": "video-poster",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "核对 X 原帖作者、时刻与媒体 ID；所有收录录像的两个原平台 MP4 版本均完整获取、核对字节与 SHA-256 并全长解码。",
+    "archivedVideos": [
+      {
+        "label": "四版工厂仿真 · 左上 GPT-6.2 Astra，右上 Fable 5.2",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2122808977188626432/img/KpU6CI0v3JW2Ks9G.jpg",
+        "sourceUrl": "https://x.com/AlicanKiraz0/status/2122809178963980761",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/kiraz-autonomous-foundry-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-18/kiraz-autonomous-foundry-1-original.mp4",
+        "durationSeconds": 66.0,
+        "bytes": 64692679,
+        "sha256": "d5a516ea58ea2fe25b7da3e46f1e6a977efb9ec3ee8de9929cd7823cdccaaec1"
+      }
+    ]
+  },
+  {
+    "id": "abhinav-cinderella-castle",
+    "group": "astra",
+    "title": "灰姑娘城堡：从草地、船只到夜间烟花",
+    "titleEn": "Cinderella Castle: A Walkable World with Water and Fireworks",
+    "category": "建筑可视化",
+    "platforms": [
+      "X"
+    ],
+    "modelLabel": "GPT-6.2 Astra",
+    "evidenceNote": "@abhinavflac 原帖明确标注 GPT 6.2 Astra，并公布三分半钟的可漫游成果录像。本库核查的是公开媒体，未验证与现实城堡的尺寸一致性。",
+    "summary": "从城堡外部草地一路看向水面和夜间活动，原帖展示可行走的视角、日夜环境与烟花。当前收录材料为完整录像。",
+    "outputType": [
+      "城堡漫游",
+      "昼夜场景",
+      "完整运行录像"
+    ],
+    "imageCaption": "@abhinavflac 原帖中的城堡远景和动态天空。",
+    "promptAvailability": "author-description",
+    "promptSummary": "以 Walt Disney World 灰姑娘城堡为原型完成可行走的三维场景；未公开完整提示词。",
+    "outcome": "showcase",
+    "addedAt": "2026-11-18",
+    "observedAt": "2026-11-18",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "evidenceLevel": "author",
+    "licenseNotes": "第三方作品与媒体保留各自权利。本库 MIT 许可适用于本库自身代码。",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/abhinavflac/status/2122761702114828638"
+    ],
+    "sourceDate": "2026-11-18",
+    "demoUrl": null,
+    "repositoryUrl": null,
+    "promptUrl": "https://x.com/abhinavflac/status/2122761702114828638",
+    "videoUrl": "https://x.com/abhinavflac/status/2122761702114828638",
+    "platform": "X",
+    "sourceUrl": "https://x.com/abhinavflac/status/2122761702114828638",
+    "author": "Synopsis / @abhinavflac",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2122761069693489152/img/eS7_SD9sXXetwYOw.jpg",
+    "imageKind": "video-poster",
+    "evidenceStatus": "explicit-astra",
+    "sourceAccess": "核对 X 原帖作者、时刻与媒体 ID；所有收录录像的两个原平台 MP4 版本均完整获取、核对字节与 SHA-256 并全长解码。",
+    "archivedVideos": [
+      {
+        "label": "灰姑娘城堡 · 完整原帖实机录像",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2122761069693489152/img/eS7_SD9sXXetwYOw.jpg",
+        "sourceUrl": "https://x.com/abhinavflac/status/2122761702114828638",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/abhinav-cinderella-castle-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-18/abhinav-cinderella-castle-1-original.mp4",
+        "durationSeconds": 212.95,
+        "bytes": 165052125,
+        "sha256": "497937d6b821f6d982cb6b0716432f5ed721e034c5643f8917f368df1585d2f0"
+      }
+    ]
+  },
+  {
+    "id": "bubblebrain-cat-garden-fable",
+    "group": "fable",
+    "title": "Cat Garden：用猫的视角穿过微缩花园",
+    "titleEn": "Cat Garden: A 110-Second Film at Cat Eye Level",
+    "category": "角色与动画",
+    "platform": "GitHub",
+    "platforms": [
+      "GitHub"
+    ],
+    "author": "BubbleBrainBB",
+    "sourceDate": "2026-11-16",
+    "sourceUrl": "https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/cat-garden-v1.0/cat-garden",
+    "modelLabel": "Claude Fable 5.2",
+    "evidenceStatus": "explicit-fable",
+    "evidenceNote": "原作者发布的制作说明将项目归属 Claude Fable 5.2，并分别公布程序化场景、Metal 渲染代码与成片。说明记录了曝光修正与抽帧验证的限制。",
+    "summary": "把相机放到猫眼高度，让镜头追逐昆虫、穿过草叶和花坛。成片 110 秒，配有公开源码、画面接触表与制作说明；本库未在 Windows 重建 Metal 渲染。",
+    "outputType": [
+      "程序化 3D",
+      "Metal",
+      "C++",
+      "原作者成片"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/BubbleBrainBB/awesome-fable-5.2/cat-garden-v1.0/cat-garden/preview.jpg",
+    "imageKind": "result",
+    "imageCaption": "原作者公布的第 780 帧，展现低机位花园视角。",
+    "promptAvailability": "author-description",
+    "promptUrl": "https://github.com/BubbleBrainBB/awesome-fable-5.2/blob/cat-garden-v1.0/cat-garden/README.md",
+    "promptSummary": "作者披露猫视角、景深、曝光与声音的布置，以及像素与音轨的验证方法。",
+    "repositoryUrl": "https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/cat-garden-v1.0/cat-garden/src",
+    "videoUrl": "https://github.com/BubbleBrainBB/awesome-fable-5.2/releases/download/cat-garden-v1.0/cat_garden.mp4",
+    "evidenceUrls": [
+      "https://github.com/BubbleBrainBB/awesome-fable-5.2/releases/tag/cat-garden-v1.0"
+    ],
+    "sourceAccess": "作者 Release 的 303,699,308 字节 H.264/AAC 成片完整下载并通过全长解码；附源代码和真实截帧。",
+    "outcome": "showcase",
+    "addedAt": "2026-11-18",
+    "observedAt": "2026-11-18",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "evidenceLevel": "author",
+    "licenseNotes": "第三方作品与媒体保留各自权利。本库 MIT 许可适用于本库自身代码。",
+    "demoUrl": null
+  },
+  {
+    "id": "yokohara-fable-character-motion",
+    "group": "fable",
+    "title": "Blender 角色动画：表情、衣摆与镜头同时动起来",
+    "titleEn": "Character Animation in Blender: Expression, Cloth and Camera",
+    "category": "角色与动画",
+    "platforms": [
+      "X"
+    ],
+    "modelLabel": "Claude Fable 5.2",
+    "evidenceNote": "Hirokazu Yokohara 的日语原帖明确标注 Fable 5.2 和 Blender。作者称模型处理了表情、服装摆动和镜头，并说明没有使用动作生成系统；未公开角色资产来源和完整制作工程。",
+    "summary": "用 27 秒完整视频观察同一角色的全身动作、表情与镜头切换。作者公布的是动画测试，并未声称基础角色资产也由模型从零生成。",
+    "outputType": [
+      "Blender",
+      "角色动画",
+      "镜头编排",
+      "完整运行录像"
+    ],
+    "imageCaption": "Hirokazu Yokohara 原帖的 Blender 角色动画封面。",
+    "promptAvailability": "author-description",
+    "promptSummary": "作者描述以简单指令测试角色动画能做到哪一步，未公布逐条提示词。",
+    "outcome": "showcase",
+    "addedAt": "2026-11-18",
+    "observedAt": "2026-11-18",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "evidenceLevel": "author",
+    "licenseNotes": "第三方作品与媒体保留各自权利。本库 MIT 许可适用于本库自身代码。",
+    "evidenceUrls": [
+      "https://api.fxtwitter.com/Yokohara_h/status/2121301810363465749"
+    ],
+    "sourceDate": "2026-11-14",
+    "demoUrl": null,
+    "repositoryUrl": null,
+    "promptUrl": "https://x.com/Yokohara_h/status/2121301810363465749",
+    "videoUrl": "https://x.com/Yokohara_h/status/2121301810363465749",
+    "platform": "X",
+    "sourceUrl": "https://x.com/Yokohara_h/status/2121301810363465749",
+    "author": "Hirokazu Yokohara / @Yokohara_h",
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2121300243186888704/img/wYkTWR81A_xIwig1.jpg",
+    "imageKind": "video-poster",
+    "evidenceStatus": "explicit-fable",
+    "sourceAccess": "核对 X 原帖作者、时刻与媒体 ID；所有收录录像的两个原平台 MP4 版本均完整获取、核对字节与 SHA-256 并全长解码。",
+    "archivedVideos": [
+      {
+        "label": "Blender 角色动画 · 27 秒完整原帖",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2121300243186888704/img/wYkTWR81A_xIwig1.jpg",
+        "sourceUrl": "https://x.com/Yokohara_h/status/2121301810363465749",
+        "playbackUrl": "https://carpentry-liu.github.io/awesome-astra-3d/videos/yokohara-fable-character-motion-1-web.mp4",
+        "downloadUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-18/yokohara-fable-character-motion-1-original.mp4",
+        "durationSeconds": 27.0,
+        "bytes": 6300954,
+        "sha256": "75e8846bbd2ca743dbfaa93e4f7adcce8287fe36cdea8483d845790c939a237f"
+      }
+    ]
+  },
+  {
+    "id": "segmind-watch-turntable",
+    "group": "gif",
+    "title": "复古怀表转台：12 帧展示金属与内部机芯",
+    "titleEn": "Vintage Pocket Watch Turntable: Twelve Native GIF Frames",
+    "category": "产品动图",
+    "platform": "Segmind",
+    "platforms": [
+      "Segmind"
+    ],
+    "author": "Shrey Rajvanshi / Segmind",
+    "sourceDate": "2026-11-06",
+    "modelLabel": "GPT-Image-2.6 Sunburst · 原生 GIF",
+    "evidenceNote": "Segmind 发布了同一转台任务的 Flare 与 Sunburst 成果。这里收录并校验 Sunburst 原文件，一次任务只记一件作品。",
+    "summary": "暖色背景上的复古怀表与底座一起转动，展示表盘与表壳细节。原始连续 12 帧共 1.92 秒，可直接播放和下载。",
+    "outputType": [
+      "GIF",
+      "产品转台",
+      "原始动图"
+    ],
+    "imageCaption": "Segmind 原始 Sunburst GIF 的第一帧。",
+    "promptAvailability": "public",
+    "promptSummary": "在固定背景和灯光下缓慢转动怀表，保持产品样式与细节连续。原页面同时给出原始样例与相关设置。",
+    "outcome": "showcase",
+    "addedAt": "2026-11-18",
+    "observedAt": "2026-11-18",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "evidenceLevel": "author",
+    "licenseNotes": "第三方作品与媒体保留各自权利。本库 MIT 许可适用于本库自身代码。",
+    "evidenceUrls": [
+      "https://segmind-resources.s3.amazonaws.com/output/gpt-image-2.6-sunburst-example-watch-turntable-19a1544f.gif"
+    ],
+    "demoUrl": null,
+    "repositoryUrl": null,
+    "promptUrl": "https://www.segmind.com/@shrey/gpt-image-2-6",
+    "videoUrl": null,
+    "sourceUrl": "https://www.segmind.com/@shrey/gpt-image-2-6",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-18/segmind-watch-turntable-poster.jpg",
+    "imageKind": "gif-frame",
+    "evidenceStatus": "作者声明为 GPT-Image-2.6 原生 GIF",
+    "sourceAccess": "完整下载原始 GIF，核对 MIME、字节、各帧和循环时长。",
+    "animatedGif": {
+      "url": "https://segmind-resources.s3.amazonaws.com/output/gpt-image-2.6-sunburst-example-watch-turntable-19a1544f.gif",
+      "frames": 12,
+      "durationMs": 1920,
+      "width": 768,
+      "height": 768,
+      "bytes": 2566870,
+      "sha256": "2b376c0fc276b56a78303f8f20405e118f681ec7583f2aa24e70fcca1ec6605b",
+      "checkedAt": "2026-11-18"
+    }
+  },
+  {
+    "id": "segmind-tin-robot",
+    "group": "gif",
+    "title": "发条铁皮机器人：原生透明贴纸动图",
+    "titleEn": "Wind-Up Tin Robot: A Native Transparent Sticker GIF",
+    "category": "角色动图",
+    "platform": "Segmind",
+    "platforms": [
+      "Segmind"
+    ],
+    "author": "Shrey Rajvanshi / Segmind",
+    "sourceDate": "2026-11-06",
+    "modelLabel": "GPT-Image-2.6 Flare · 原生 GIF",
+    "evidenceNote": "Segmind 的 Flare 示例列出透明 GIF 输出和实文件。九帧均可解码；站点自动播放原文件，减少动态效果模式可查看首帧。",
+    "summary": "蓝红配色的发条铁皮机器人在固定构图中摆动；原始透明 GIF 共有 9 帧，循环时长 1.8 秒。",
+    "outputType": [
+      "GIF",
+      "透明贴纸",
+      "原始动图"
+    ],
+    "imageCaption": "Segmind 原始 Flare GIF 的第一帧，静态预览用浅色底衬托透明区域。",
+    "promptAvailability": "public",
+    "promptSummary": "作者示例指定透明背景、复古铁皮机器人造型和小幅度循环动画。",
+    "outcome": "showcase",
+    "addedAt": "2026-11-18",
+    "observedAt": "2026-11-18",
+    "secondaryPublishedAt": null,
+    "promptExcerpt": null,
+    "evidenceLevel": "author",
+    "licenseNotes": "第三方作品与媒体保留各自权利。本库 MIT 许可适用于本库自身代码。",
+    "evidenceUrls": [
+      "https://segmind-resources.s3.amazonaws.com/output/gpt-image-2.6-flare-example-transparent-sticker-07cc4813.gif"
+    ],
+    "demoUrl": null,
+    "repositoryUrl": null,
+    "promptUrl": "https://www.segmind.com/@shrey/gpt-image-2-6",
+    "videoUrl": null,
+    "sourceUrl": "https://www.segmind.com/@shrey/gpt-image-2-6",
+    "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-18/segmind-tin-robot-poster.jpg",
+    "imageKind": "gif-frame",
+    "evidenceStatus": "作者声明为 GPT-Image-2.6 原生 GIF",
+    "sourceAccess": "完整下载原始 GIF，核对 MIME、字节、各帧和循环时长。",
+    "animatedGif": {
+      "url": "https://segmind-resources.s3.amazonaws.com/output/gpt-image-2.6-flare-example-transparent-sticker-07cc4813.gif",
+      "frames": 9,
+      "durationMs": 1800,
+      "width": 960,
+      "height": 960,
+      "bytes": 1210338,
+      "sha256": "5349a2f8859268438daedb835a44b25e3cdb3926054a1a3971a1da51941b1f79",
+      "checkedAt": "2026-11-18"
+    }
+  },
+  {
     "id": "chetan-oasis-dunes",
     "group": "astra",
     "title": "沙漠绿洲：把棕榈树、风沙和水面做成三维场景",
