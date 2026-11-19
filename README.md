@@ -15,7 +15,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-更新于 **2026-11-18（Asia/Shanghai）** · **491** 条 Astra 案例（124 条源码 / 工程、136 个演示入口、274 个完整视频） · **12** 条 Fable 5.2 案例 · **16** 件 GIF 动图 · **12** 条方法参考。
+更新于 **2026-11-19（Asia/Shanghai）** · **502** 条 Astra 案例（124 条源码 / 工程、139 个演示入口、285 个完整视频） · **14** 条 Fable 5.2 案例 · **18** 件 GIF 动图 · **12** 条方法参考。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -38,11 +38,11 @@
 
 [GIF 动图分类](https://carpentry-liu.github.io/awesome-astra-3d/?group=gif&order=newest#collection) · [官方生成说明](https://developers.openai.com/api/docs/guides/image-generation#generate-animated-gif-output)
 
-现有十六件原生 GIF。本次新增复古怀表转台和带透明背景的发条机器人。
+现有十八件原生 GIF。本次新增窗花结霜和夜空放灯。
 
-| 复古怀表转台：12 帧展示金属与内部机芯 | 发条铁皮机器人：原生透明贴纸动图 |
+| 窗玻璃慢慢结霜：8 帧里看枝状冰花蔓延 | 夜空放灯：16 帧表现灯火升起与闪烁 |
 | --- | --- |
-| [<img src="https://segmind-resources.s3.amazonaws.com/output/gpt-image-2.6-sunburst-example-watch-turntable-19a1544f.gif" height="186" alt="复古怀表转台：12 帧展示金属与内部机芯">](https://carpentry-liu.github.io/awesome-astra-3d/cases/segmind-watch-turntable/) | [<img src="https://segmind-resources.s3.amazonaws.com/output/gpt-image-2.6-flare-example-transparent-sticker-07cc4813.gif" height="186" alt="发条铁皮机器人：原生透明贴纸动图">](https://carpentry-liu.github.io/awesome-astra-3d/cases/segmind-tin-robot/) |
+| [<img src="https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/dfc7622334ac2b5f0b8c0d5cfd918aab8139e4c2/gifs/window-frost-spread.gif" height="186" alt="窗玻璃慢慢结霜：8 帧里看枝状冰花蔓延">](https://carpentry-liu.github.io/awesome-astra-3d/cases/ailingqu-window-frost-gif/) | [<img src="https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/dfc7622334ac2b5f0b8c0d5cfd918aab8139e4c2/gifs/sky-lanterns-rise.gif" height="186" alt="夜空放灯：16 帧表现灯火升起与闪烁">](https://carpentry-liu.github.io/awesome-astra-3d/cases/ailingqu-sky-lanterns-gif/) |
 
 | 提灯橘猫 · Lightlyn | 像素爆炸原始素材 · Kasper Zack Games |
 | --- | --- |
@@ -76,18 +76,18 @@ GIF 分类预览与详情自动播放，支持停止与播放。系统开启减�
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-11-18.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-11-19.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-网站实拍更新于 **2026-11-18**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+网站实拍更新于 **2026-11-19**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
-<summary>查看案例区、手机与作品详情实拍 · 2026-11-18</summary>
+<summary>查看案例区、手机与作品详情实拍 · 2026-11-19</summary>
 
-[![GPT-6.2 Astra 最新作品](docs/media/collection-2026-11-18.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?q=GPT-6.2+Astra&order=newest#collection)
+[![GPT-6.2 Astra 最新作品](docs/media/collection-2026-11-19.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?q=GPT-6.2+Astra&order=newest#collection)
 
-![手机端 Fable 5.2 最新案例](docs/media/mobile-2026-11-18.jpg)
+![手机端 Fable 5.2 最新案例](docs/media/mobile-2026-11-19.jpg)
 
-[![巴黎圣母院双引擎作品页](docs/media/case-2026-11-18.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/ricouard-notre-dame-unreal/)
+[![两座古罗马作品页](docs/media/case-2026-11-19.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/gostev-rome-forum/)
 
 </details>
 
@@ -95,54 +95,59 @@ GIF 分类预览与详情自动播放，支持停止与播放。系统开启减�
 
 这里按本库收录日期排列；作品首次发布、模型配置与核查日期在各档案中分别记录。稳定精选不随日更替换。
 
-11 月 18 日新增 **7 件 GPT-6.2 Astra、2 件 Claude Fable 5.2 和 2 件原生 GIF**，归档 **9 段完整 X 录像**。巴黎圣母院同时保留 Three.js 和 Unreal 两版。[OpenAI 发布说明](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
+11 月 19 日新增 **11 件 GPT-6.2 Astra、2 件 Claude Fable 5.2 和 2 件原生 GIF**，归档 **12 段完整 X 录像**。先看 Astra 和 Fable 如何复原同一座古罗马，再对照两条埃菲尔铁塔建造时间轴。
 
 <!-- atlas:update-previews:start -->
-**GPT-6.2 Astra 新版作品**
+**GPT-6.2 Astra 新收录**
 
-| 巴黎圣母院：同一段分镜的 Unreal 与 Three.js 版本 | Meridian Sound Racing：穿过海港的未来赛车 | Kasane Valley：在日式山谷里从地面走到空中 |
+| 公元 320 年的罗马：Astra 与 Fable 的两座城 | PELAGOS：在三维海上风电场做巡检 | Gullwatch Isle：从海港走上山顶城堡 |
 | --- | --- | --- |
-| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-18/ricouard-notre-dame-unreal-result.jpg" height="154" alt="巴黎圣母院：同一段分镜的 Unreal 与 Three.js 版本">](https://carpentry-liu.github.io/awesome-astra-3d/cases/ricouard-notre-dame-unreal/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-18/openai-meridian-sound-racing-result.jpg" height="154" alt="Meridian Sound Racing：穿过海港的未来赛车">](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-meridian-sound-racing/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2122815661898440704/img/AzaaTFgNS_wRBNa0.jpg" height="154" alt="Kasane Valley：在日式山谷里从地面走到空中">](https://carpentry-liu.github.io/awesome-astra-3d/cases/givros-kasane-valley/) |
-| [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/ricouard-notre-dame-unreal/#videos) | [在线试玩](https://meridian-futuristic-race.openai.chatgpt.site/) · [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-meridian-sound-racing/#videos) | [工程仓库](https://github.com/givros/kasane-valley/tree/main/artifacts/kasane_valley) · [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/givros-kasane-valley/#videos) |
+| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-19/gostev-rome-forum-result.jpg" height="154" alt="公元 320 年的罗马：Astra 与 Fable 的两座城">](https://carpentry-liu.github.io/awesome-astra-3d/cases/gostev-rome-forum/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-19/ajiang-pelagos-wind-inspection-result.jpg" height="154" alt="PELAGOS：在三维海上风电场做巡检">](https://carpentry-liu.github.io/awesome-astra-3d/cases/ajiang-pelagos-wind-inspection/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2123132109673971712/img/kQmO8HndezcS3sVX.jpg" height="154" alt="Gullwatch Isle：从海港走上山顶城堡">](https://carpentry-liu.github.io/awesome-astra-3d/cases/givros-gullwatch-isle/) |
+| [在线体验](https://astra-rome.surge.sh/) · [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/gostev-rome-forum/#videos) | [在线体验](https://ajiang.me/demos/pelagos/gpt-6-2-astra-release/) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/givros-gullwatch-isle/#videos) |
 
-| 1:1 新加坡：用大量并行任务搭建城市数字孪生 | 两个模型造迈阿密：海湾、酒店和水路 | Autonomous Foundry：同题四版的工厂调度仿真 |
+| Paris Atlas：步行或开车穿过巴黎 | 埃菲尔铁塔如何建成：Astra 与 Fable 的两条时间轴 | 优胜美地火瀑：落日让瀑布像熔岩一样发亮 |
 | --- | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2122761647316238336/img/1mWdhOsWgRnW_EhY.jpg" height="154" alt="1:1 新加坡：用大量并行任务搭建城市数字孪生">](https://carpentry-liu.github.io/awesome-astra-3d/cases/chua-singapore-digital-twin/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2122903195907440640/img/0B3nGuR0BMUzrWsI.jpg" height="154" alt="两个模型造迈阿密：海湾、酒店和水路">](https://carpentry-liu.github.io/awesome-astra-3d/cases/aa-miami-astra-fable/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2122808977188626432/img/KpU6CI0v3JW2Ks9G.jpg" height="154" alt="Autonomous Foundry：同题四版的工厂调度仿真">](https://carpentry-liu.github.io/awesome-astra-3d/cases/kiraz-autonomous-foundry/) |
-| [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/chua-singapore-digital-twin/#videos) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/aa-miami-astra-fable/#videos) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/kiraz-autonomous-foundry/#videos) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2122753791984324611/img/6Hxz5k8dwPPH6uPI.jpg" height="154" alt="Paris Atlas：步行或开车穿过巴黎">](https://carpentry-liu.github.io/awesome-astra-3d/cases/ricouard-paris-atlas/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-19/lasme-eiffel-construction-fable-result.jpg" height="154" alt="埃菲尔铁塔如何建成：Astra 与 Fable 的两条时间轴">](https://carpentry-liu.github.io/awesome-astra-3d/cases/lasme-eiffel-construction/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-19/lexnlin-yosemite-firefall-result.jpg" height="154" alt="优胜美地火瀑：落日让瀑布像熔岩一样发亮">](https://carpentry-liu.github.io/awesome-astra-3d/cases/lexnlin-yosemite-firefall/) |
+| [在线体验](https://paris-atlas-street-explorer.openai.chatgpt.site/) · [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/ricouard-paris-atlas/#videos) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/lasme-eiffel-construction/#videos) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/lexnlin-yosemite-firefall/#videos) |
 
-| 灰姑娘城堡：从草地、船只到夜间烟花 |
-| --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2122761069693489152/img/eS7_SD9sXXetwYOw.jpg" height="154" alt="灰姑娘城堡：从草地、船只到夜间烟花">](https://carpentry-liu.github.io/awesome-astra-3d/cases/abhinav-cinderella-castle/) |
-| [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/abhinav-cinderella-castle/#videos) |
+| Blender Bench：动画风屋顶追逐怎么构图 | 阿尔卑斯直升机：一份 HTML 里的三种飞行视角 | 同题造帆船：Astra 与 Opus 怎样处理木纹和浪 |
+| --- | --- | --- |
+| [<img src="https://blenderbench.realityreprojector.com/api/renders/toon-frame__gpt-6.2-astra-think-xhigh__r1__20261118-120638/hero.png?width=960" height="154" alt="Blender Bench：动画风屋顶追逐怎么构图">](https://carpentry-liu.github.io/awesome-astra-3d/cases/bench-toon-rooftop-astra/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2123172517741297664/img/M5lMRLPyyskjuXMF.jpg" height="154" alt="阿尔卑斯直升机：一份 HTML 里的三种飞行视角">](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-alpine-helicopter/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2123135680050085888/img/S3mvPHKrleOyN1CC.jpg" height="154" alt="同题造帆船：Astra 与 Opus 怎样处理木纹和浪">](https://carpentry-liu.github.io/awesome-astra-3d/cases/marc-interactive-sailing-ships/) |
+| [作者录像](https://blenderbench.realityreprojector.com/api/renders/toon-frame__gpt-6.2-astra-think-xhigh__r1__20261118-120638/orbit.webm) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-alpine-helicopter/#videos) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/marc-interactive-sailing-ships/#videos) |
+
+| 亭桥同题四版：看屋檐、灯笼和水面 | Night Port：同一道题，三台太空港弹球机 |
+| --- | --- |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2123186416511561728/img/042o22YPQAiyAANo.jpg" height="154" alt="亭桥同题四版：看屋檐、灯笼和水面">](https://carpentry-liu.github.io/awesome-astra-3d/cases/valuri-pagoda-bridge/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2123046094066364416/img/A1L_E6fHhy-n1GDr.jpg" height="154" alt="Night Port：同一道题，三台太空港弹球机">](https://carpentry-liu.github.io/awesome-astra-3d/cases/rutinelabo-night-port/) |
+| [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/valuri-pagoda-bridge/#videos) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/rutinelabo-night-port/#videos) |
 
 **Fable 5.2 新收录**
 
-| Cat Garden：用猫的视角穿过微缩花园 | Blender 角色动画：表情、衣摆与镜头同时动起来 |
+| Boo-mas：拖着一串灯，点亮整颗下雪的小星球 | 从半截潜艇醒来：Fable 的水下生存游戏 |
 | --- | --- |
-| [<img src="https://raw.githubusercontent.com/BubbleBrainBB/awesome-fable-5.2/cat-garden-v1.0/cat-garden/preview.jpg" height="154" alt="Cat Garden：用猫的视角穿过微缩花园">](https://carpentry-liu.github.io/awesome-astra-3d/cases/bubblebrain-cat-garden-fable/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2121300243186888704/img/wYkTWR81A_xIwig1.jpg" height="154" alt="Blender 角色动画：表情、衣摆与镜头同时动起来">](https://carpentry-liu.github.io/awesome-astra-3d/cases/yokohara-fable-character-motion/) |
-| [工程仓库](https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/cat-garden-v1.0/cat-garden/src) · [原作者成片](https://github.com/BubbleBrainBB/awesome-fable-5.2/releases/download/cat-garden-v1.0/cat_garden.mp4) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/yokohara-fable-character-motion/#videos) |
+| [<img src="https://raw.githubusercontent.com/robinduckett/boo-mas/main/docs/play.jpg" height="154" alt="Boo-mas：拖着一串灯，点亮整颗下雪的小星球">](https://carpentry-liu.github.io/awesome-astra-3d/cases/duckett-boo-mas-fable/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-19/chris-underwater-stranded-fable-result.jpg" height="154" alt="从半截潜艇醒来：Fable 的水下生存游戏">](https://carpentry-liu.github.io/awesome-astra-3d/cases/chris-underwater-stranded-fable/) |
+| [在线体验](https://robinduckett.github.io/boo-mas/) · [源码](https://github.com/robinduckett/boo-mas) · [作者录像](https://v.redd.it/y2x2jtbuwe2i1/CMAF_1080.mp4?source=fallback) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/chris-underwater-stranded-fable/#videos) |
 
 **原生 GIF 新收录**
 
-| 复古怀表转台：12 帧展示金属与内部机芯 | 发条铁皮机器人：原生透明贴纸动图 |
+| 窗玻璃慢慢结霜：8 帧里看枝状冰花蔓延 | 夜空放灯：16 帧表现灯火升起与闪烁 |
 | --- | --- |
-| [<img src="https://segmind-resources.s3.amazonaws.com/output/gpt-image-2.6-sunburst-example-watch-turntable-19a1544f.gif" height="154" alt="复古怀表转台：12 帧展示金属与内部机芯">](https://carpentry-liu.github.io/awesome-astra-3d/cases/segmind-watch-turntable/) | [<img src="https://segmind-resources.s3.amazonaws.com/output/gpt-image-2.6-flare-example-transparent-sticker-07cc4813.gif" height="154" alt="发条铁皮机器人：原生透明贴纸动图">](https://carpentry-liu.github.io/awesome-astra-3d/cases/segmind-tin-robot/) |
-| [原始动图](https://segmind-resources.s3.amazonaws.com/output/gpt-image-2.6-sunburst-example-watch-turntable-19a1544f.gif) | [原始动图](https://segmind-resources.s3.amazonaws.com/output/gpt-image-2.6-flare-example-transparent-sticker-07cc4813.gif) |
+| [<img src="https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/dfc7622334ac2b5f0b8c0d5cfd918aab8139e4c2/gifs/window-frost-spread.gif" height="154" alt="窗玻璃慢慢结霜：8 帧里看枝状冰花蔓延">](https://carpentry-liu.github.io/awesome-astra-3d/cases/ailingqu-window-frost-gif/) | [<img src="https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/dfc7622334ac2b5f0b8c0d5cfd918aab8139e4c2/gifs/sky-lanterns-rise.gif" height="154" alt="夜空放灯：16 帧表现灯火升起与闪烁">](https://carpentry-liu.github.io/awesome-astra-3d/cases/ailingqu-sky-lanterns-gif/) |
+| [原始动图](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/dfc7622334ac2b5f0b8c0d5cfd918aab8139e4c2/gifs/window-frost-spread.gif) | [原始动图](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/dfc7622334ac2b5f0b8c0d5cfd918aab8139e4c2/gifs/sky-lanterns-rise.gif) |
 
-[GPT-6.2 Astra 专辑](https://carpentry-liu.github.io/awesome-astra-3d/?q=GPT-6.2+Astra&order=newest#collection) · [Fable 5.2 最新](https://carpentry-liu.github.io/awesome-astra-3d/?group=fable&order=newest#collection) · [下载完整原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-18)
+[GPT-6.2 Astra 专辑](https://carpentry-liu.github.io/awesome-astra-3d/?q=GPT-6.2+Astra&order=newest#collection) · [Fable 5.2 最新](https://carpentry-liu.github.io/awesome-astra-3d/?group=fable&order=newest#collection) · [下载完整原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-19)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
-| [巴黎圣母院：同一段分镜的 Unreal 与 Three.js 版本](https://carpentry-liu.github.io/awesome-astra-3d/cases/ricouard-notre-dame-unreal/) | Thomas Ricouard / @Dimillian | [原始来源](https://x.com/Dimillian/status/2122750651998355800) |
-| [Meridian Sound Racing：穿过海港的未来赛车](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-meridian-sound-racing/) | Bhavy☄️ / @Bhavani_00007 | [演示](https://meridian-futuristic-race.openai.chatgpt.site/) · [原始来源](https://x.com/Bhavani_00007/status/2122767429193646141) |
-| [Kasane Valley：在日式山谷里从地面走到空中](https://carpentry-liu.github.io/awesome-astra-3d/cases/givros-kasane-valley/) | Givros / @givros | [源码](https://github.com/givros/kasane-valley/tree/main/artifacts/kasane_valley) · [原始来源](https://x.com/givros/status/2122816304071803109) |
-| [1:1 新加坡：用大量并行任务搭建城市数字孪生](https://carpentry-liu.github.io/awesome-astra-3d/cases/chua-singapore-digital-twin/) | Gabriel Chua / @gabrielchua | [原始来源](https://x.com/gabrielchua/status/2122762679760883967) |
-| [两个模型造迈阿密：海湾、酒店和水路](https://carpentry-liu.github.io/awesome-astra-3d/cases/aa-miami-astra-fable/) | Artificial Analysis / @ArtificialAnlys | [原始来源](https://x.com/ArtificialAnlys/status/2122904331276177768) |
-| [Autonomous Foundry：同题四版的工厂调度仿真](https://carpentry-liu.github.io/awesome-astra-3d/cases/kiraz-autonomous-foundry/) | Alican Kiraz / @AlicanKiraz0 | [原始来源](https://x.com/AlicanKiraz0/status/2122809178963980761) |
-| [灰姑娘城堡：从草地、船只到夜间烟花](https://carpentry-liu.github.io/awesome-astra-3d/cases/abhinav-cinderella-castle/) | Synopsis / @abhinavflac | [原始来源](https://x.com/abhinavflac/status/2122761702114828638) |
-| [Cat Garden：用猫的视角穿过微缩花园](https://carpentry-liu.github.io/awesome-astra-3d/cases/bubblebrain-cat-garden-fable/) | BubbleBrainBB | [源码](https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/cat-garden-v1.0/cat-garden/src) · [原始来源](https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/cat-garden-v1.0/cat-garden) |
+| [公元 320 年的罗马：Astra 与 Fable 的两座城](https://carpentry-liu.github.io/awesome-astra-3d/cases/gostev-rome-forum/) | Peter Gostev / @petergostev | [演示](https://astra-rome.surge.sh/) · [原始来源](https://x.com/petergostev/status/2123175702719824292) |
+| [PELAGOS：在三维海上风电场做巡检](https://carpentry-liu.github.io/awesome-astra-3d/cases/ajiang-pelagos-wind-inspection/) | 阿江 / Relakkes | [演示](https://ajiang.me/demos/pelagos/gpt-6-2-astra-release/) · [原始来源](https://ajiang.me/toolbox/pelagos/) |
+| [Gullwatch Isle：从海港走上山顶城堡](https://carpentry-liu.github.io/awesome-astra-3d/cases/givros-gullwatch-isle/) | Givros / @givros | [原始来源](https://x.com/givros/status/2123133158124036295) |
+| [Paris Atlas：步行或开车穿过巴黎](https://carpentry-liu.github.io/awesome-astra-3d/cases/ricouard-paris-atlas/) | Thomas Ricouard / @Dimillian | [演示](https://paris-atlas-street-explorer.openai.chatgpt.site/) · [原始来源](https://x.com/Dimillian/status/2122753859281928626) |
+| [埃菲尔铁塔如何建成：Astra 与 Fable 的两条时间轴](https://carpentry-liu.github.io/awesome-astra-3d/cases/lasme-eiffel-construction/) | Lasme Ephrem / @EphremLasme | [原始来源](https://x.com/EphremLasme/status/2122908106065650173) |
+| [优胜美地火瀑：落日让瀑布像熔岩一样发亮](https://carpentry-liu.github.io/awesome-astra-3d/cases/lexnlin-yosemite-firefall/) | Leon Lin / @LexnLin | [原始来源](https://x.com/LexnLin/status/2123156510339465525) |
+| [Blender Bench：动画风屋顶追逐怎么构图](https://carpentry-liu.github.io/awesome-astra-3d/cases/bench-toon-rooftop-astra/) | Blender Bench / gruku | [原始来源](https://blenderbench.realityreprojector.com/runs/toon-frame__gpt-6.2-astra-think-xhigh__r1__20261118-120638) |
+| [阿尔卑斯直升机：一份 HTML 里的三种飞行视角](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-alpine-helicopter/) | Vib3Coded / @vib3coded | [原始来源](https://x.com/vib3coded/status/2123173597661233427) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)

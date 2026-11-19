@@ -63,6 +63,20 @@ npm start
 
 面向 `main` 的 PR 运行检查、lint 和 Pages 构建，并用 `git diff --exit-code --stat` 确认受控的派生文件已随源数据提交。PR 不下载视频、不部署，也没有 Pages 写权限。[Pages 工作流](../.github/workflows/pages.yml) 在推送 `main` 或手动发布时才获取并校验完整播放文件，再部署。部署后核对公开 JSON、双语详情、metadata、截图和媒体地址；必要时全量 GET 新视频并比对 hash。
 
+## 内容验证（2026-11-19）
+
+新增 11 件 GPT-6.2 Astra、2 件 Claude Fable 5.2 和 2 件原生 GIF；目录共 546 条，其中 Astra 502 条、Fable 14 条、GIF 18 条、方法参考 12 条。古罗马与埃菲尔铁塔分别将同题的两版原作合为一条档案，保留原帖和模型。
+
+| 范围 | 实际检查 |
+| --- | --- |
+| 来源与试玩 | 在 Chrome 实际进入 Astra 的罗马城市并启动飞往斗兽场的镜头、进入 Paris Atlas 埃菲尔铁塔附近街道、操作 PELAGOS 告警面板，并开始 Boo-mas 的第一夜。阿江的 Bilibili 帖讲解内测试跑，公开演示链接为作者另行标注的正式版。Blender Bench 的屋顶追逐保留主渲染和完整环绕片段。 |
+| 原片 | 两批 `download-social.py` 对照 X 原帖作者、发布时间、媒体 ID 和完整时长。`py -3.13 work/2026-11-19/prepare-media.py` 核实 24 个通过严格 FFmpeg 全长解码的原平台 MP4，共 1,291,692,134 字节。`publish-media.py` 核对 [媒体 Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-19) 32 个附件的服务端字节数和 SHA-256。 |
+| GIF | 逐帧核验作者发布的结霜（8 帧、1.76 秒）与天灯（16 帧、2.88 秒），两件皆为原生循环 GIF。Chrome 实拍帧实际变化，停止、恢复和系统减少动态效果也通过检查。 |
+| 构建 | `npm.cmd run catalog`、`npm.cmd run check`、`npm.cmd run lint`、`npm.cmd run build` 通过。34 项测试通过，普通与 `GITHUB_PAGES=true` 两种构建均核对 1,132 个静态页、24,400 条本地引用、546 份详情 JSON 和 1,133 个 sitemap 地址。 |
+| 本地浏览器 | `node work/2026-11-19/browser-qa.mjs` 通过 17 项场景。12 段录像全部播到结尾；新版关键词筛选、Fable 手机筛选、双语详情和旧分享地址通过。1440、390、320 像素视口无横向溢出，测试场景未出现控制台错误或警告。 |
+
+双语 README 最新成果图与实际案例链接已更新，四张真实页面截图见 [媒体说明](media/README.md)。
+
 ## 内容验证（2026-11-18）
 
 新增 7 件 GPT-6.2 Astra、2 件 Claude Fable 5.2、2 件原生 GIF。目录共 531 条：491 条 Astra、12 条 Fable、16 条 GIF、12 条方法参考。七件 Astra 的主要来源发布于上海时间 11 月 18 日；Fable 与 GIF 按各自的原始发布日标注。

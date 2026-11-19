@@ -2,6 +2,26 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-11-19 · 15 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [公元 320 年的罗马：Astra 与 Fable 的两座城 / Rome, AD 320: Two Explorable Cities from the Same Brief](https://carpentry-liu.github.io/awesome-astra-3d/cases/gostev-rome-forum/) | Peter Gostev / @petergostev | 演示入口 · 完整视频 · 提示词 / 过程 |
+| [PELAGOS：在三维海上风电场做巡检 / PELAGOS: Inspect an Offshore Wind Farm in 3D](https://carpentry-liu.github.io/awesome-astra-3d/cases/ajiang-pelagos-wind-inspection/) | 阿江 / Relakkes | 演示入口 · 提示词 / 过程 |
+| [Gullwatch Isle：从海港走上山顶城堡 / Gullwatch Isle: From a Coastal Village to a Hilltop Castle](https://carpentry-liu.github.io/awesome-astra-3d/cases/givros-gullwatch-isle/) | Givros / @givros | 完整视频 · 提示词 / 过程 |
+| [Paris Atlas：步行或开车穿过巴黎 / Paris Atlas: Walk or Drive Through a 3D Paris](https://carpentry-liu.github.io/awesome-astra-3d/cases/ricouard-paris-atlas/) | Thomas Ricouard / @Dimillian | 演示入口 · 完整视频 · 提示词 / 过程 |
+| [埃菲尔铁塔如何建成：Astra 与 Fable 的两条时间轴 / Raising the Eiffel Tower: Astra and Fable Construction Timelines](https://carpentry-liu.github.io/awesome-astra-3d/cases/lasme-eiffel-construction/) | Lasme Ephrem / @EphremLasme | 完整视频 · 提示词 / 过程 |
+| [优胜美地火瀑：落日让瀑布像熔岩一样发亮 / Yosemite Firefall: Sunset Lights a Waterfall Like Molten Rock](https://carpentry-liu.github.io/awesome-astra-3d/cases/lexnlin-yosemite-firefall/) | Leon Lin / @LexnLin | 完整视频 |
+| [Blender Bench：动画风屋顶追逐怎么构图 / Blender Bench: Framing a Toon Rooftop Chase](https://carpentry-liu.github.io/awesome-astra-3d/cases/bench-toon-rooftop-astra/) | Blender Bench / gruku | 提示词 / 过程 |
+| [阿尔卑斯直升机：一份 HTML 里的三种飞行视角 / Alpine Helicopter: Three Camera Views in One HTML File](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-alpine-helicopter/) | Vib3Coded / @vib3coded | 完整视频 · 提示词 / 过程 |
+| [同题造帆船：Astra 与 Opus 怎样处理木纹和浪 / Two Three.js Sailing Ships: Astra and Opus on the Same Brief](https://carpentry-liu.github.io/awesome-astra-3d/cases/marc-interactive-sailing-ships/) | Marcel / @marcthecreatorr | 完整视频 · 提示词 / 过程 |
+| [亭桥同题四版：看屋檐、灯笼和水面 / Pagoda Bridge Gate: Four Takes on the Same Three.js Brief](https://carpentry-liu.github.io/awesome-astra-3d/cases/valuri-pagoda-bridge/) | Sree / @srikanthvaluri | 完整视频 · 提示词 / 过程 |
+| [Night Port：同一道题，三台太空港弹球机 / Night Port: Three Spaceport Pinball Tables from One Brief](https://carpentry-liu.github.io/awesome-astra-3d/cases/rutinelabo-night-port/) | せなお\| AIとITを使った仕事術 / @rutinelabo | 完整视频 · 提示词 / 过程 |
+| [Boo-mas：拖着一串灯，点亮整颗下雪的小星球 / Boo-mas: Light a Tiny Snowy Planet with a String of Lights](https://carpentry-liu.github.io/awesome-astra-3d/cases/duckett-boo-mas-fable/) | Robin Duckett / u/haxd | 源码 / 工程 · 演示入口 · Fable 5.2 · 提示词 / 过程 |
+| [从半截潜艇醒来：Fable 的水下生存游戏 / Waking on Half a Submarine: Fable’s Underwater Survival Prototype](https://carpentry-liu.github.io/awesome-astra-3d/cases/chris-underwater-stranded-fable/) | Chris / @ChrisGPT | 完整视频 · Fable 5.2 · 提示词 / 过程 |
+| [窗玻璃慢慢结霜：8 帧里看枝状冰花蔓延 / Window Frost: Eight Frames of Branching Ice Crystals](https://carpentry-liu.github.io/awesome-astra-3d/cases/ailingqu-window-frost-gif/) | ailingqu | GIF 动图（独立分组） · 提示词 / 过程 |
+| [夜空放灯：16 帧表现灯火升起与闪烁 / Sky Lanterns: Sixteen Frames of Rising and Flickering Lights](https://carpentry-liu.github.io/awesome-astra-3d/cases/ailingqu-sky-lanterns-gif/) | ailingqu | GIF 动图（独立分组） · 提示词 / 过程 |
+
 ## 2026-11-18 · 11 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

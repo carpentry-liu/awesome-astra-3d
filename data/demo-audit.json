@@ -1214,6 +1214,42 @@
       "result": "verified-interactive",
       "scope": "Chrome with the native GPU rendered the interactive vehicle selection and Launch Race control. The full course is documented in the archived creator recording.",
       "browserEvidence": "HTTP 200, 1440×810 render canvas, PARHELION / COACHWORKS constructor selection and Launch Race controls."
+    },
+    {
+      "id": "gostev-rome-forum",
+      "url": "https://astra-rome.surge.sh/",
+      "status": 200,
+      "observedAt": "2026-11-19",
+      "result": "verified-interactive",
+      "scope": "Rendered the city overview in Chrome and reached the Colosseum fly-to state after entering movement.",
+      "browserEvidence": "Rome, AD 320 · The Imperial City"
+    },
+    {
+      "id": "ajiang-pelagos-wind-inspection",
+      "url": "https://ajiang.me/demos/pelagos/gpt-6-2-astra-release/",
+      "status": 200,
+      "observedAt": "2026-11-19",
+      "result": "verified-interactive",
+      "scope": "Rendered the WebGL wind farm and opened the alert center. The dashboard uses simulated data.",
+      "browserEvidence": "PELAGOS — Field 07 Operations"
+    },
+    {
+      "id": "ricouard-paris-atlas",
+      "url": "https://paris-atlas-street-explorer.openai.chatgpt.site/",
+      "status": 200,
+      "observedAt": "2026-11-19",
+      "result": "verified-interactive",
+      "scope": "Loaded a rendered Paris street after selecting Walk here in Chrome.",
+      "browserEvidence": "Paris Atlas — City Explorer"
+    },
+    {
+      "id": "duckett-boo-mas-fable",
+      "url": "https://robinduckett.github.io/boo-mas/",
+      "status": 200,
+      "observedAt": "2026-11-19",
+      "result": "verified-interactive",
+      "scope": "Started night one, steered the ghost and triggered the BOO action in Chrome.",
+      "browserEvidence": "Boo-mas — be the Christmas spirit. Literally."
     }
   ]
 }

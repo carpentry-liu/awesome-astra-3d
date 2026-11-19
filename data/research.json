@@ -1,5 +1,5 @@
 {
-  "observedAt": "2026-11-18",
+  "observedAt": "2026-11-19",
   "officialSources": [
     "https://developers.openai.com/showcase/all",
     "https://developers.openai.com/api/docs/models/gpt-6-astra"
@@ -15280,6 +15280,457 @@
       "newMediaFiles": 18,
       "newMediaBytes": 899178156,
       "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-18"
+    },
+    {
+      "observedAt": "2026-11-19",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "baselineCommit": "956b4bc7e005c12ec47843826448df8fb3487949",
+      "baselineCount": 531,
+      "resultingCount": 546,
+      "addedCaseIds": [
+        "gostev-rome-forum",
+        "ajiang-pelagos-wind-inspection",
+        "givros-gullwatch-isle",
+        "ricouard-paris-atlas",
+        "lasme-eiffel-construction",
+        "lexnlin-yosemite-firefall",
+        "bench-toon-rooftop-astra",
+        "vib3coded-alpine-helicopter",
+        "marc-interactive-sailing-ships",
+        "valuri-pagoda-bridge",
+        "rutinelabo-night-port",
+        "duckett-boo-mas-fable",
+        "chris-underwater-stranded-fable",
+        "ailingqu-window-frost-gif",
+        "ailingqu-sky-lanterns-gif"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "observations": [
+        {
+          "id": "gostev-rome-forum",
+          "sourceUrl": "https://x.com/petergostev/status/2123175702719824292",
+          "sourceDate": "2026-11-19",
+          "modelLabel": "GPT-6.2 Astra · Claude Fable 5.2 Max",
+          "group": "astra"
+        },
+        {
+          "id": "ajiang-pelagos-wind-inspection",
+          "sourceUrl": "https://ajiang.me/toolbox/pelagos/",
+          "sourceDate": null,
+          "modelLabel": "GPT-6.2 Astra",
+          "group": "astra"
+        },
+        {
+          "id": "givros-gullwatch-isle",
+          "sourceUrl": "https://x.com/givros/status/2123133158124036295",
+          "sourceDate": "2026-11-19",
+          "modelLabel": "GPT-6.2 Astra",
+          "group": "astra"
+        },
+        {
+          "id": "ricouard-paris-atlas",
+          "sourceUrl": "https://x.com/Dimillian/status/2122753859281928626",
+          "sourceDate": "2026-11-18",
+          "modelLabel": "GPT-6.2 Astra",
+          "group": "astra"
+        },
+        {
+          "id": "lasme-eiffel-construction",
+          "sourceUrl": "https://x.com/EphremLasme/status/2122908106065650173",
+          "sourceDate": "2026-11-18",
+          "modelLabel": "GPT-6.2 Astra · Claude Fable 5.2",
+          "group": "astra"
+        },
+        {
+          "id": "lexnlin-yosemite-firefall",
+          "sourceUrl": "https://x.com/LexnLin/status/2123156510339465525",
+          "sourceDate": "2026-11-19",
+          "modelLabel": "GPT-6.2 Astra",
+          "group": "astra"
+        },
+        {
+          "id": "bench-toon-rooftop-astra",
+          "sourceUrl": "https://blenderbench.realityreprojector.com/runs/toon-frame__gpt-6.2-astra-think-xhigh__r1__20261118-120638",
+          "sourceDate": "2026-11-18",
+          "modelLabel": "GPT-6.2 Astra xhigh",
+          "group": "astra"
+        },
+        {
+          "id": "vib3coded-alpine-helicopter",
+          "sourceUrl": "https://x.com/vib3coded/status/2123173597661233427",
+          "sourceDate": "2026-11-19",
+          "modelLabel": "GPT-6.2 Astra",
+          "group": "astra"
+        },
+        {
+          "id": "marc-interactive-sailing-ships",
+          "sourceUrl": "https://x.com/marcthecreatorr/status/2123135975308038590",
+          "sourceDate": "2026-11-19",
+          "modelLabel": "GPT-6.2 Astra · Claude Opus 5.5",
+          "group": "astra"
+        },
+        {
+          "id": "valuri-pagoda-bridge",
+          "sourceUrl": "https://x.com/srikanthvaluri/status/2123187817899766190",
+          "sourceDate": "2026-11-19",
+          "modelLabel": "GPT-6.2 Astra · Claude Opus 5.5 · Gemini 4 Neon · Gemini 4 Argon",
+          "group": "astra"
+        },
+        {
+          "id": "rutinelabo-night-port",
+          "sourceUrl": "https://x.com/rutinelabo/status/2123046117080436910",
+          "sourceDate": "2026-11-18",
+          "modelLabel": "GPT-6.2 Astra xhigh",
+          "group": "astra"
+        },
+        {
+          "id": "duckett-boo-mas-fable",
+          "sourceUrl": "https://www.reddit.com/r/ClaudeGameDev/comments/1xzmi58/fable_52_oneshot_christmas_game/",
+          "sourceDate": "2026-11-19",
+          "modelLabel": "Claude Fable 5.2 Max",
+          "group": "fable"
+        },
+        {
+          "id": "chris-underwater-stranded-fable",
+          "sourceUrl": "https://x.com/ChrisGPT/status/2122866766590173419",
+          "sourceDate": "2026-11-18",
+          "modelLabel": "Claude Fable 5.2",
+          "group": "fable"
+        },
+        {
+          "id": "ailingqu-window-frost-gif",
+          "sourceUrl": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/dfc7622334ac2b5f0b8c0d5cfd918aab8139e4c2/README.md#11-frost-spreads-on-glass",
+          "sourceDate": null,
+          "modelLabel": "GPT-Image-2.6 · 原生 GIF",
+          "group": "gif"
+        },
+        {
+          "id": "ailingqu-sky-lanterns-gif",
+          "sourceUrl": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/dfc7622334ac2b5f0b8c0d5cfd918aab8139e4c2/README.md#12-sky-lanterns-rising",
+          "sourceDate": null,
+          "modelLabel": "GPT-Image-2.6 · 原生 GIF",
+          "group": "gif"
+        }
+      ],
+      "queries": [
+        "GPT-6.2 Astra / Blender / Three.js, Nov 18–19 (X, GitHub, Reddit, Bilibili, Douyin and Xiaohongshu)",
+        "Peter Gostev AD 320 Rome; PELAGOS offshore wind simulation; EiffelSWE-Bench; Paris Atlas; Blender Bench xhigh",
+        "Claude Fable 5.2 (Reddit, GitHub and X) and native GPT-Image-2.6 GIF samples with stable files"
+      ],
+      "discoverySources": [
+        "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+        "https://openai.com/zh-Hans-CN/index/introducing-gpt-6-2-astra-sol/",
+        "https://raw.githubusercontent.com/AI-Terrarium/awesome-gpt-6.2/main/README.md",
+        "https://raw.githubusercontent.com/AI-Terrarium/awesome-gpt-6.2/main/COMMUNITY.md",
+        "https://raw.githubusercontent.com/cheercheung/awesome-gpt-6-2-astra-guide-and-use-cases/main/README.md",
+        "https://aivs.tv/models/gpt-6-astra/",
+        "https://dropday.ai/model-drops/drop-openai-gpt62astra",
+        "https://ajiang.me/toolbox/pelagos/",
+        "https://www.bilibili.com/video/BV1WtWS66Eq1/",
+        "https://api.bilibili.com/x/web-interface/view?bvid=BV1WtWS66Eq1",
+        "https://api.bilibili.com/x/player/pagelist?bvid=BV1WtWS66Eq1",
+        "https://aipick.news/items/ejpv885kdq9y4eeuup2xojo56",
+        "https://finance.sina.com.cn/tech/roll/2026-11-18/doc-inizayrr1785090.shtml",
+        "https://blenderbench.realityreprojector.com/",
+        "https://blenderbench.realityreprojector.com/vote",
+        "https://raw.githubusercontent.com/wuyoscar/GPT-Image2-Skill/main/docs/creative-workflows.md",
+        "https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/main/README.md",
+        "https://raw.githubusercontent.com/GPTProto/awesome-gpt-image-2.6-gif/main/README.md",
+        "https://www.reddit.com/r/OpenAI/comments/1xzoup6/",
+        "https://www.reddit.com/r/OpenAI/comments/1xzlivx/",
+        "https://www.reddit.com/r/ClaudeGameDev/comments/1xzmi58/",
+        "https://www.reddit.com/r/TopologyAI/comments/1xzarw2/",
+        "https://www.reddit.com/r/ClaudeAI/comments/1xu4r5m/",
+        "https://www.reddit.com/r/ClaudeAI/comments/1xwlfsn/",
+        "https://www.reddit.com/r/ChatGPT/comments/1xu03hs/",
+        "https://www.reddit.com/r/OpenAI/comments/1xzoup6/.json?raw_json=1",
+        "https://www.reddit.com/r/OpenAI/comments/1xzlivx/.json?raw_json=1",
+        "https://www.reddit.com/r/ClaudeGameDev/comments/1xzmi58/.json?raw_json=1",
+        "https://www.reddit.com/r/TopologyAI/comments/1xzarw2/.json?raw_json=1",
+        "https://www.reddit.com/r/ClaudeAI/comments/1xu4r5m/.json?raw_json=1",
+        "https://www.reddit.com/r/ClaudeAI/comments/1xwlfsn/.json?raw_json=1",
+        "https://www.reddit.com/r/ChatGPT/comments/1xu03hs/.json?raw_json=1",
+        "https://astra-rome.surge.sh/",
+        "https://fable-rome.surge.sh/",
+        "https://ajiang.me/demos/pelagos/gpt-6-2-astra-release/",
+        "https://ajiang.me/demos/pelagos/claude-fable-5-2/",
+        "https://developers.openai.com/showcase/paris-atlas",
+        "https://x.com/Dimillian/status/2122753859281928626",
+        "https://api.fxtwitter.com/Dimillian/status/2122753859281928626",
+        "https://api.fxtwitter.com/petergostev/status/2120167560700383572",
+        "https://blenderbench.realityreprojector.com/gallery",
+        "https://blenderbench.realityreprojector.com/tasks",
+        "https://blenderbench.realityreprojector.com/runs",
+        "https://blenderbench.realityreprojector.com/leaderboard",
+        "https://api.github.com/repos/ailingqu/awesome-ai-gif-prompts",
+        "https://api.github.com/repos/ailingqu/awesome-ai-gif-prompts/commits?path=gifs%2Fwindow-frost-spread.gif&per_page=1",
+        "https://api.github.com/repos/ailingqu/awesome-ai-gif-prompts/commits?path=gifs%2Fsky-lanterns-rise.gif&per_page=1",
+        "https://api.github.com/repos/ailingqu/awesome-ai-gif-prompts/commits?path=gifs%2Fstreet-lamp-first-snow.gif&per_page=1",
+        "https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/main/scripts/generate.mjs",
+        "https://rutinelabo.com/blog/wp-content/uploads/2026/11/gpt-6-2-astra-images6.webp",
+        "https://rutinelabo.com/gpt-6-2-astra/",
+        "https://chatcut.io/blog/chatgpt-gif",
+        "https://old.reddit.com/r/ClaudeGameDev/comments/1xzmi58/",
+        "https://v.redd.it/y2x2jtbuwe2i1/CMAF_1080.mp4?source=fallback",
+        "https://blenderbench.realityreprojector.com/runs/toon-frame__gpt-6.2-astra-think-xhigh__r1__20261118-120638",
+        "https://blenderbench.realityreprojector.com/api/renders/toon-frame__gpt-6.2-astra-think-xhigh__r1__20261118-120638/hero.png?width=960",
+        "https://blenderbench.realityreprojector.com/runs/engine-cutaway-sim__gpt-6.2-astra-think-xhigh__r1__20261118-081347",
+        "https://blenderbench.realityreprojector.com/api/renders/engine-cutaway-sim__gpt-6.2-astra-think-xhigh__r1__20261118-081347/hero.png?width=960",
+        "https://blenderbench.realityreprojector.com/tasks/toon-frame",
+        "https://blenderbench.realityreprojector.com/tasks/engine-cutaway-sim",
+        "https://robinduckett.github.io/boo-mas/",
+        "https://raw.githubusercontent.com/robinduckett/boo-mas/main/README.md",
+        "https://github.com/robinduckett/boo-mas",
+        "https://paris-atlas-street-explorer.openai.chatgpt.site/",
+        "https://developers.openai.com/showcase/paris-atlas/gallery-cover.webp",
+        "https://ajiang.me/toolbox/video-415-argon/#wind-inspection",
+        "https://chatcut.io/blog/images/chatgpt-gif/campfire-snow-16f.gif",
+        "https://chatcut.io/blog/images/chatgpt-gif/brass-metronome-loop.gif",
+        "https://x.com/rutinelabo/status/2123046117080436910",
+        "https://aihot.afreecoder.dev/events/astra-gullwatch-isle-givros-2026-11-19",
+        "https://horizontal.one/builds/",
+        "https://threejs.cc/en/topic/gpt-6-2-astra/"
+      ],
+      "sourceChecks": [
+        {
+          "caseId": "gostev-rome-forum",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/petergostev/status/2123175702719824292",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-19T06:05:08+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2123175131224662016",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "gostev-rome-forum",
+          "archiveOrdinal": 2,
+          "sourceUrl": "https://x.com/petergostev/status/2120167560700383572",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-10T22:51:51+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120166054257168384",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "givros-gullwatch-isle",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/givros/status/2123133158124036295",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-19T03:16:05+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2123132109673971712",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "ricouard-paris-atlas",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/Dimillian/status/2122753859281928626",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T02:08:53+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122753791984324611",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "lasme-eiffel-construction",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/EphremLasme/status/2122908106065650173",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T12:21:48+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122907201798918144",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "lasme-eiffel-construction",
+          "archiveOrdinal": 2,
+          "sourceUrl": "https://x.com/EphremLasme/status/2123130595320709454",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-19T03:05:54+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2123130435165138944",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "lexnlin-yosemite-firefall",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/LexnLin/status/2123156510339465525",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-19T04:48:53+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2123148879977668610",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "vib3coded-alpine-helicopter",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/vib3coded/status/2123173597661233427",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-19T05:56:46+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2123172517741297664",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "marc-interactive-sailing-ships",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/marcthecreatorr/status/2123135975308038590",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-19T03:27:17+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2123135680050085888",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "valuri-pagoda-bridge",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/srikanthvaluri/status/2123187817899766190",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-19T06:53:17+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2123186416511561728",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "rutinelabo-night-port",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/rutinelabo/status/2123046117080436910",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T21:30:13+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2123046094066364416",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "chris-underwater-stranded-fable",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/ChrisGPT/status/2122866766590173419",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T09:37:32+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122866687116472320",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        }
+      ],
+      "perCaseExternalChecks": [
+        {
+          "caseId": "bench-toon-rooftop-astra",
+          "url": "https://blenderbench.realityreprojector.com/api/renders/toon-frame__gpt-6.2-astra-think-xhigh__r1__20261118-120638/hero.png?width=960",
+          "httpStatus": 200,
+          "dimensions": [
+            960,
+            960
+          ],
+          "contentType": "image/webp",
+          "bytes": 114294,
+          "sha256": "70970bd1bf2afcc3dbf86a4e1b28ccef282a18f942c534942a5d40bd605b34c2"
+        },
+        {
+          "caseId": "duckett-boo-mas-fable",
+          "url": "https://raw.githubusercontent.com/robinduckett/boo-mas/main/docs/play.jpg",
+          "httpStatus": 200,
+          "dimensions": [
+            1600,
+            1000
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 361079,
+          "sha256": "1204c2c0f4dc92565ac6e25c99113c7ae9c8c4a1c2debdb00a771c1bab4c071f"
+        },
+        {
+          "caseId": "duckett-boo-mas-fable",
+          "url": "https://v.redd.it/y2x2jtbuwe2i1/CMAF_1080.mp4?source=fallback",
+          "durationSeconds": 53.07,
+          "complete": true,
+          "allFramesDecoded": true,
+          "contentType": "video/mp4",
+          "bytes": 28152868,
+          "sha256": "43e53f57d1c78b76647f79d0c44cfe5052e95064cd01a72a8ba7853f22f6a598"
+        },
+        {
+          "caseId": "bench-toon-rooftop-astra",
+          "url": "https://blenderbench.realityreprojector.com/api/renders/toon-frame__gpt-6.2-astra-think-xhigh__r1__20261118-120638/orbit.webm",
+          "durationSeconds": 4.0,
+          "complete": true,
+          "allFramesDecoded": true,
+          "contentType": "video/webm",
+          "bytes": 149439,
+          "sha256": "0e210107ddcda9ecd51bcd2ac32558164ae73f45aa9ef0fb9f79e09f11f084f8"
+        }
+      ],
+      "excludedOrDeferred": [
+        {
+          "url": "https://x.com/givros/status/2123171320901074973",
+          "reason": "The returned variant of Kasane Valley is explicitly GPT-6.2 Sol."
+        },
+        {
+          "url": "https://x.com/camperaigg/status/2123151760235847864",
+          "reason": "The post shows a drawn illustration, not a verified 3D result."
+        },
+        {
+          "url": "https://www.reddit.com/r/OpenAI/comments/1xzlivx/i_tested_gpt_62_astra_on_6_different_3d_builds/",
+          "reason": "Deferred as a multi-test roundup; the individual demos were not all verified this round."
+        },
+        {
+          "url": "https://aipick.news/items/ejpv885kdq9y4eeuup2xojo56",
+          "reason": "Discovery only; an indexed Douyin summary was insufficient to validate individual works."
+        },
+        {
+          "url": "https://x.com/soya_da_yoot/status/2123137245607555293",
+          "reason": "Not counted as a new production-quality render based on the available evidence."
+        }
+      ],
+      "platformLimits": [
+        "X was checked against original post HTML and attachment IDs, not merely a mirror.",
+        "Reddit HTML returned 403 to the shell; indexed primary Reddit JSON was readable and Boo-mas was corroborated from the creator repository, playable deployment and full video.",
+        "The Chinese Bilibili source illustrates PELAGOS prerelease work; the listed official-release demo is the explicitly labeled creator website variant.",
+        "No Xiaohongshu or Douyin result passed the case-specific source and playable-result checks. No attempt to bypass any login.",
+        "Collection date, creator post date and generation date are recorded separately."
+      ],
+      "completeSourceClips": 12,
+      "newGifWorks": 2,
+      "newMediaFiles": 24,
+      "newMediaBytes": 1291692134,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-19"
     }
   ]
 }
