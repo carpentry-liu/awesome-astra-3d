@@ -15,7 +15,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-11-18 (Asia/Shanghai)** · **491 Astra examples** (124 source / project links, 136 demo links, 274 complete clips) · **12 Fable 5.2 examples** · **16 GIF animations** · **12 method references**.
+Updated **2026-11-19 (Asia/Shanghai)** · **502 Astra examples** (124 source / project links, 139 demo links, 285 complete clips) · **14 Fable 5.2 examples** · **18 GIF animations** · **12 method references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -38,11 +38,11 @@ Source / project totals count public material links; demo totals count creator-h
 
 [GIF collection](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=gif&order=newest#collection) · [Official generation guide](https://developers.openai.com/api/docs/guides/image-generation#generate-animated-gif-output)
 
-Sixteen native GIFs are in the collection. This update adds a pocket watch turntable and a transparent wind-up robot.
+Eighteen native GIFs are in the collection. This update adds branching window frost and rising paper lanterns.
 
-| Vintage Pocket Watch Turntable: Twelve Native GIF Frames | Wind-Up Tin Robot: A Native Transparent Sticker GIF |
+| Window Frost: Eight Frames of Branching Ice Crystals | Sky Lanterns: Sixteen Frames of Rising and Flickering Lights |
 | --- | --- |
-| [<img src="https://segmind-resources.s3.amazonaws.com/output/gpt-image-2.6-sunburst-example-watch-turntable-19a1544f.gif" height="186" alt="Vintage Pocket Watch Turntable: Twelve Native GIF Frames">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/segmind-watch-turntable/) | [<img src="https://segmind-resources.s3.amazonaws.com/output/gpt-image-2.6-flare-example-transparent-sticker-07cc4813.gif" height="186" alt="Wind-Up Tin Robot: A Native Transparent Sticker GIF">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/segmind-tin-robot/) |
+| [<img src="https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/dfc7622334ac2b5f0b8c0d5cfd918aab8139e4c2/gifs/window-frost-spread.gif" height="186" alt="Window Frost: Eight Frames of Branching Ice Crystals">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ailingqu-window-frost-gif/) | [<img src="https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/dfc7622334ac2b5f0b8c0d5cfd918aab8139e4c2/gifs/sky-lanterns-rise.gif" height="186" alt="Sky Lanterns: Sixteen Frames of Rising and Flickering Lights">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ailingqu-sky-lanterns-gif/) |
 
 | Lantern Cat · Lightlyn | Raw Pixel Explosion · Kasper Zack Games |
 | --- | --- |
@@ -76,18 +76,18 @@ Select a title or image to open the creator's demo directly. Case pages retain s
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-11-18.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-11-19.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-The screenshots are from the **November 18, 2026** local production build. Browse in Chinese or English, open topics and share individual case pages.
+The screenshots are from the **November 19, 2026** local production build. Browse in Chinese or English, open topics and share individual case pages.
 
 <details>
-<summary>Gallery, mobile and case screenshots · November 18, 2026</summary>
+<summary>Gallery, mobile and case screenshots · November 19, 2026</summary>
 
-[![Latest GPT-6.2 Astra works](docs/media/collection-2026-11-18.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&q=GPT-6.2+Astra&order=newest#collection)
+[![Latest GPT-6.2 Astra works](docs/media/collection-2026-11-19.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&q=GPT-6.2+Astra&order=newest#collection)
 
-![Latest Fable 5.2 works on mobile](docs/media/mobile-2026-11-18.jpg)
+![Latest Fable 5.2 works on mobile](docs/media/mobile-2026-11-19.jpg)
 
-[![Notre-Dame case in two engines](docs/media/case-2026-11-18.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ricouard-notre-dame-unreal/)
+[![Rome, AD 320 case page](docs/media/case-2026-11-19.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/gostev-rome-forum/)
 
 </details>
 
@@ -95,54 +95,59 @@ The screenshots are from the **November 18, 2026** local production build. Brows
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-November 18 adds **7 GPT-6.2 Astra works, 2 Claude Fable 5.2 works and 2 native GIFs**, with **9 complete X recordings**. Notre-Dame pairs a Three.js trailer with its Unreal Engine port. [OpenAI release notes](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
+November 19 adds **11 GPT-6.2 Astra works, 2 Claude Fable 5.2 works and 2 native GIFs**, with **12 complete X recordings**. Follow the same historic brief through two versions of Rome or watch two models’ timelines of the Eiffel Tower.
 
 <!-- atlas:update-previews:start -->
 **New in GPT-6.2 Astra**
 
-| Notre-Dame: One Trailer in Unreal and Three.js | Meridian Sound Racing: Futuristic Racing Across the Harbor | Kasane Valley: Explore a Japanese Mountain Village |
+| Rome, AD 320: Two Explorable Cities from the Same Brief | PELAGOS: Inspect an Offshore Wind Farm in 3D | Gullwatch Isle: From a Coastal Village to a Hilltop Castle |
 | --- | --- | --- |
-| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-18/ricouard-notre-dame-unreal-result.jpg" height="154" alt="Notre-Dame: One Trailer in Unreal and Three.js">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ricouard-notre-dame-unreal/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-18/openai-meridian-sound-racing-result.jpg" height="154" alt="Meridian Sound Racing: Futuristic Racing Across the Harbor">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/openai-meridian-sound-racing/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2122815661898440704/img/AzaaTFgNS_wRBNa0.jpg" height="154" alt="Kasane Valley: Explore a Japanese Mountain Village">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/givros-kasane-valley/) |
-| [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ricouard-notre-dame-unreal/#videos) | [Play demo](https://meridian-futuristic-race.openai.chatgpt.site/) · [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/openai-meridian-sound-racing/#videos) | [Project](https://github.com/givros/kasane-valley/tree/main/artifacts/kasane_valley) · [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/givros-kasane-valley/#videos) |
+| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-19/gostev-rome-forum-result.jpg" height="154" alt="Rome, AD 320: Two Explorable Cities from the Same Brief">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/gostev-rome-forum/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-19/ajiang-pelagos-wind-inspection-result.jpg" height="154" alt="PELAGOS: Inspect an Offshore Wind Farm in 3D">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ajiang-pelagos-wind-inspection/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2123132109673971712/img/kQmO8HndezcS3sVX.jpg" height="154" alt="Gullwatch Isle: From a Coastal Village to a Hilltop Castle">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/givros-gullwatch-isle/) |
+| [Live demo](https://astra-rome.surge.sh/) · [Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/gostev-rome-forum/#videos) | [Live demo](https://ajiang.me/demos/pelagos/gpt-6-2-astra-release/) | [Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/givros-gullwatch-isle/#videos) |
 
-| Singapore at 1:1 Scale: A City-Building Workflow | Miami by Two Models: Bays, Hotels and Waterways | Autonomous Foundry: Four Models Simulate Factory Dispatch |
+| Paris Atlas: Walk or Drive Through a 3D Paris | Raising the Eiffel Tower: Astra and Fable Construction Timelines | Yosemite Firefall: Sunset Lights a Waterfall Like Molten Rock |
 | --- | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2122761647316238336/img/1mWdhOsWgRnW_EhY.jpg" height="154" alt="Singapore at 1:1 Scale: A City-Building Workflow">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/chua-singapore-digital-twin/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2122903195907440640/img/0B3nGuR0BMUzrWsI.jpg" height="154" alt="Miami by Two Models: Bays, Hotels and Waterways">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/aa-miami-astra-fable/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2122808977188626432/img/KpU6CI0v3JW2Ks9G.jpg" height="154" alt="Autonomous Foundry: Four Models Simulate Factory Dispatch">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kiraz-autonomous-foundry/) |
-| [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/chua-singapore-digital-twin/#videos) | [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/aa-miami-astra-fable/#videos) | [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kiraz-autonomous-foundry/#videos) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2122753791984324611/img/6Hxz5k8dwPPH6uPI.jpg" height="154" alt="Paris Atlas: Walk or Drive Through a 3D Paris">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ricouard-paris-atlas/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-19/lasme-eiffel-construction-fable-result.jpg" height="154" alt="Raising the Eiffel Tower: Astra and Fable Construction Timelines">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lasme-eiffel-construction/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-19/lexnlin-yosemite-firefall-result.jpg" height="154" alt="Yosemite Firefall: Sunset Lights a Waterfall Like Molten Rock">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lexnlin-yosemite-firefall/) |
+| [Live demo](https://paris-atlas-street-explorer.openai.chatgpt.site/) · [Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ricouard-paris-atlas/#videos) | [Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lasme-eiffel-construction/#videos) | [Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lexnlin-yosemite-firefall/#videos) |
 
-| Cinderella Castle: A Walkable World with Water and Fireworks |
-| --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2122761069693489152/img/eS7_SD9sXXetwYOw.jpg" height="154" alt="Cinderella Castle: A Walkable World with Water and Fireworks">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/abhinav-cinderella-castle/) |
-| [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/abhinav-cinderella-castle/#videos) |
+| Blender Bench: Framing a Toon Rooftop Chase | Alpine Helicopter: Three Camera Views in One HTML File | Two Three.js Sailing Ships: Astra and Opus on the Same Brief |
+| --- | --- | --- |
+| [<img src="https://blenderbench.realityreprojector.com/api/renders/toon-frame__gpt-6.2-astra-think-xhigh__r1__20261118-120638/hero.png?width=960" height="154" alt="Blender Bench: Framing a Toon Rooftop Chase">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/bench-toon-rooftop-astra/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2123172517741297664/img/M5lMRLPyyskjuXMF.jpg" height="154" alt="Alpine Helicopter: Three Camera Views in One HTML File">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-alpine-helicopter/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2123135680050085888/img/S3mvPHKrleOyN1CC.jpg" height="154" alt="Two Three.js Sailing Ships: Astra and Opus on the Same Brief">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/marc-interactive-sailing-ships/) |
+| [Author video](https://blenderbench.realityreprojector.com/api/renders/toon-frame__gpt-6.2-astra-think-xhigh__r1__20261118-120638/orbit.webm) | [Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-alpine-helicopter/#videos) | [Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/marc-interactive-sailing-ships/#videos) |
+
+| Pagoda Bridge Gate: Four Takes on the Same Three.js Brief | Night Port: Three Spaceport Pinball Tables from One Brief |
+| --- | --- |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2123186416511561728/img/042o22YPQAiyAANo.jpg" height="154" alt="Pagoda Bridge Gate: Four Takes on the Same Three.js Brief">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/valuri-pagoda-bridge/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2123046094066364416/img/A1L_E6fHhy-n1GDr.jpg" height="154" alt="Night Port: Three Spaceport Pinball Tables from One Brief">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/rutinelabo-night-port/) |
+| [Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/valuri-pagoda-bridge/#videos) | [Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/rutinelabo-night-port/#videos) |
 
 **New in Fable 5.2**
 
-| Cat Garden: A 110-Second Film at Cat Eye Level | Character Animation in Blender: Expression, Cloth and Camera |
+| Boo-mas: Light a Tiny Snowy Planet with a String of Lights | Waking on Half a Submarine: Fable’s Underwater Survival Prototype |
 | --- | --- |
-| [<img src="https://raw.githubusercontent.com/BubbleBrainBB/awesome-fable-5.2/cat-garden-v1.0/cat-garden/preview.jpg" height="154" alt="Cat Garden: A 110-Second Film at Cat Eye Level">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/bubblebrain-cat-garden-fable/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2121300243186888704/img/wYkTWR81A_xIwig1.jpg" height="154" alt="Character Animation in Blender: Expression, Cloth and Camera">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/yokohara-fable-character-motion/) |
-| [Project](https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/cat-garden-v1.0/cat-garden/src) · [Author’s film](https://github.com/BubbleBrainBB/awesome-fable-5.2/releases/download/cat-garden-v1.0/cat_garden.mp4) | [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/yokohara-fable-character-motion/#videos) |
+| [<img src="https://raw.githubusercontent.com/robinduckett/boo-mas/main/docs/play.jpg" height="154" alt="Boo-mas: Light a Tiny Snowy Planet with a String of Lights">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/duckett-boo-mas-fable/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-19/chris-underwater-stranded-fable-result.jpg" height="154" alt="Waking on Half a Submarine: Fable’s Underwater Survival Prototype">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/chris-underwater-stranded-fable/) |
+| [Live demo](https://robinduckett.github.io/boo-mas/) · [Source](https://github.com/robinduckett/boo-mas) · [Author video](https://v.redd.it/y2x2jtbuwe2i1/CMAF_1080.mp4?source=fallback) | [Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/chris-underwater-stranded-fable/#videos) |
 
 **New native GIFs**
 
-| Vintage Pocket Watch Turntable: Twelve Native GIF Frames | Wind-Up Tin Robot: A Native Transparent Sticker GIF |
+| Window Frost: Eight Frames of Branching Ice Crystals | Sky Lanterns: Sixteen Frames of Rising and Flickering Lights |
 | --- | --- |
-| [<img src="https://segmind-resources.s3.amazonaws.com/output/gpt-image-2.6-sunburst-example-watch-turntable-19a1544f.gif" height="154" alt="Vintage Pocket Watch Turntable: Twelve Native GIF Frames">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/segmind-watch-turntable/) | [<img src="https://segmind-resources.s3.amazonaws.com/output/gpt-image-2.6-flare-example-transparent-sticker-07cc4813.gif" height="154" alt="Wind-Up Tin Robot: A Native Transparent Sticker GIF">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/segmind-tin-robot/) |
-| [Original GIF](https://segmind-resources.s3.amazonaws.com/output/gpt-image-2.6-sunburst-example-watch-turntable-19a1544f.gif) | [Original GIF](https://segmind-resources.s3.amazonaws.com/output/gpt-image-2.6-flare-example-transparent-sticker-07cc4813.gif) |
+| [<img src="https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/dfc7622334ac2b5f0b8c0d5cfd918aab8139e4c2/gifs/window-frost-spread.gif" height="154" alt="Window Frost: Eight Frames of Branching Ice Crystals">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ailingqu-window-frost-gif/) | [<img src="https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/dfc7622334ac2b5f0b8c0d5cfd918aab8139e4c2/gifs/sky-lanterns-rise.gif" height="154" alt="Sky Lanterns: Sixteen Frames of Rising and Flickering Lights">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ailingqu-sky-lanterns-gif/) |
+| [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/dfc7622334ac2b5f0b8c0d5cfd918aab8139e4c2/gifs/window-frost-spread.gif) | [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/dfc7622334ac2b5f0b8c0d5cfd918aab8139e4c2/gifs/sky-lanterns-rise.gif) |
 
-[GPT-6.2 Astra collection](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&q=GPT-6.2+Astra&order=newest#collection) · [Fable 5.2 latest](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=fable&order=newest#collection) · [Download full originals](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-18)
+[GPT-6.2 Astra collection](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&q=GPT-6.2+Astra&order=newest#collection) · [Fable 5.2 latest](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=fable&order=newest#collection) · [Download full originals](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-19)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [Notre-Dame: One Trailer in Unreal and Three.js](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ricouard-notre-dame-unreal/) | Thomas Ricouard / @Dimillian | [Original](https://x.com/Dimillian/status/2122750651998355800) |
-| [Meridian Sound Racing: Futuristic Racing Across the Harbor](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/openai-meridian-sound-racing/) | Bhavy☄️ / @Bhavani_00007 | [Demo](https://meridian-futuristic-race.openai.chatgpt.site/) · [Original](https://x.com/Bhavani_00007/status/2122767429193646141) |
-| [Kasane Valley: Explore a Japanese Mountain Village](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/givros-kasane-valley/) | Givros / @givros | [Source](https://github.com/givros/kasane-valley/tree/main/artifacts/kasane_valley) · [Original](https://x.com/givros/status/2122816304071803109) |
-| [Singapore at 1:1 Scale: A City-Building Workflow](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/chua-singapore-digital-twin/) | Gabriel Chua / @gabrielchua | [Original](https://x.com/gabrielchua/status/2122762679760883967) |
-| [Miami by Two Models: Bays, Hotels and Waterways](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/aa-miami-astra-fable/) | Artificial Analysis / @ArtificialAnlys | [Original](https://x.com/ArtificialAnlys/status/2122904331276177768) |
-| [Autonomous Foundry: Four Models Simulate Factory Dispatch](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kiraz-autonomous-foundry/) | Alican Kiraz / @AlicanKiraz0 | [Original](https://x.com/AlicanKiraz0/status/2122809178963980761) |
-| [Cinderella Castle: A Walkable World with Water and Fireworks](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/abhinav-cinderella-castle/) | Synopsis / @abhinavflac | [Original](https://x.com/abhinavflac/status/2122761702114828638) |
-| [Cat Garden: A 110-Second Film at Cat Eye Level](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/bubblebrain-cat-garden-fable/) | BubbleBrainBB | [Source](https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/cat-garden-v1.0/cat-garden/src) · [Original](https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/cat-garden-v1.0/cat-garden) |
+| [Rome, AD 320: Two Explorable Cities from the Same Brief](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/gostev-rome-forum/) | Peter Gostev / @petergostev | [Demo](https://astra-rome.surge.sh/) · [Original](https://x.com/petergostev/status/2123175702719824292) |
+| [PELAGOS: Inspect an Offshore Wind Farm in 3D](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ajiang-pelagos-wind-inspection/) | 阿江 / Relakkes | [Demo](https://ajiang.me/demos/pelagos/gpt-6-2-astra-release/) · [Original](https://ajiang.me/toolbox/pelagos/) |
+| [Gullwatch Isle: From a Coastal Village to a Hilltop Castle](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/givros-gullwatch-isle/) | Givros / @givros | [Original](https://x.com/givros/status/2123133158124036295) |
+| [Paris Atlas: Walk or Drive Through a 3D Paris](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/ricouard-paris-atlas/) | Thomas Ricouard / @Dimillian | [Demo](https://paris-atlas-street-explorer.openai.chatgpt.site/) · [Original](https://x.com/Dimillian/status/2122753859281928626) |
+| [Raising the Eiffel Tower: Astra and Fable Construction Timelines](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lasme-eiffel-construction/) | Lasme Ephrem / @EphremLasme | [Original](https://x.com/EphremLasme/status/2122908106065650173) |
+| [Yosemite Firefall: Sunset Lights a Waterfall Like Molten Rock](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/lexnlin-yosemite-firefall/) | Leon Lin / @LexnLin | [Original](https://x.com/LexnLin/status/2123156510339465525) |
+| [Blender Bench: Framing a Toon Rooftop Chase](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/bench-toon-rooftop-astra/) | Blender Bench / gruku | [Original](https://blenderbench.realityreprojector.com/runs/toon-frame__gpt-6.2-astra-think-xhigh__r1__20261118-120638) |
+| [Alpine Helicopter: Three Camera Views in One HTML File](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-alpine-helicopter/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2123173597661233427) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

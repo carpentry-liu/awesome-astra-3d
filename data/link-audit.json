@@ -30129,6 +30129,592 @@
           ]
         }
       ]
+    },
+    {
+      "checkedAt": "2026-11-19",
+      "round": "daily",
+      "addedCaseIds": [
+        "gostev-rome-forum",
+        "ajiang-pelagos-wind-inspection",
+        "givros-gullwatch-isle",
+        "ricouard-paris-atlas",
+        "lasme-eiffel-construction",
+        "lexnlin-yosemite-firefall",
+        "bench-toon-rooftop-astra",
+        "vib3coded-alpine-helicopter",
+        "marc-interactive-sailing-ships",
+        "valuri-pagoda-bridge",
+        "rutinelabo-night-port",
+        "duckett-boo-mas-fable",
+        "chris-underwater-stranded-fable",
+        "ailingqu-window-frost-gif",
+        "ailingqu-sky-lanterns-gif"
+      ],
+      "previewChecks": [
+        {
+          "caseId": "gostev-rome-forum",
+          "kind": "frame",
+          "subtype": "video-frame",
+          "filename": "gostev-rome-forum-result.jpg",
+          "sourceUrl": "https://video.twimg.com/amplify_video/2123175131224662016/vid/avc1/3840x1916/FF0mqI3oS6jyMchs.mp4?tag=29",
+          "dimensions": [
+            1200,
+            598
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 171038,
+          "sha256": "4f838f17e0e9353829c7376a9b8928d0b3b173c6843f982d4c724ecb2bf67bff",
+          "archiveOrdinal": 1,
+          "timestampSeconds": 58.125,
+          "assetId": 766050114,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-19/gostev-rome-forum-result.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "ajiang-pelagos-wind-inspection",
+          "kind": "frame",
+          "subtype": "demo-screenshot",
+          "filename": "ajiang-pelagos-wind-inspection-result.jpg",
+          "sourceUrl": "https://ajiang.me/demos/pelagos/gpt-6-2-astra-release/",
+          "dimensions": [
+            1340,
+            920
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 206208,
+          "sha256": "e001cf6b593ab526fd01f030a7cfb0ba062f9253b6c97b8ffb706793588134b3",
+          "browser": "Chrome",
+          "observedAt": "2026-11-19",
+          "assetId": 766050118,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-19/ajiang-pelagos-wind-inspection-result.jpg",
+          "releaseDigestMatched": true,
+          "visuallyReviewed": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2123132109673971712/img/kQmO8HndezcS3sVX.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 187124,
+          "bytes": 187124,
+          "sha256": "bd48c2c5bb622ae5a1fabc14aa07f3fec52464eb7d76bc558ab7fb477e18ead2",
+          "fullGet": true,
+          "caseId": "givros-gullwatch-isle",
+          "sourceUrl": "https://x.com/givros/status/2123133158124036295",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2122753791984324611/img/6Hxz5k8dwPPH6uPI.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 108194,
+          "bytes": 108194,
+          "sha256": "6ff0824db6eed2663e91845be7b8606e810248720382d08ed7acd2699fff112c",
+          "fullGet": true,
+          "caseId": "ricouard-paris-atlas",
+          "sourceUrl": "https://x.com/Dimillian/status/2122753859281928626",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            510
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "caseId": "lasme-eiffel-construction",
+          "kind": "frame",
+          "subtype": "video-frame",
+          "filename": "lasme-eiffel-construction-fable-result.jpg",
+          "sourceUrl": "https://video.twimg.com/amplify_video/2123130435165138944/vid/avc1/1920x1080/mE3EG0kqE5Lvcw2L.mp4?tag=29",
+          "dimensions": [
+            1200,
+            676
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 94372,
+          "sha256": "4055b2faca36d1d34a36a5acf3cc1bf6c5fc4224708a479e1d5891cb8f91ec75",
+          "archiveOrdinal": 2,
+          "timestampSeconds": 33.28,
+          "assetId": 766050302,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-19/lasme-eiffel-construction-fable-result.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "lexnlin-yosemite-firefall",
+          "kind": "frame",
+          "subtype": "video-frame",
+          "filename": "lexnlin-yosemite-firefall-result.jpg",
+          "sourceUrl": "https://video.twimg.com/amplify_video/2123148879977668610/vid/avc1/1920x1080/LJZIsnerReF_LiGX.mp4?tag=29",
+          "dimensions": [
+            1200,
+            676
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 140606,
+          "sha256": "0a44483edf9e23f68ea82e86cc07183bd47376caa12c3fd757fa3a26ce2f9950",
+          "archiveOrdinal": 1,
+          "timestampSeconds": 20.02,
+          "assetId": 766050206,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-19/lexnlin-yosemite-firefall-result.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "bench-toon-rooftop-astra",
+          "url": "https://blenderbench.realityreprojector.com/api/renders/toon-frame__gpt-6.2-astra-think-xhigh__r1__20261118-120638/hero.png?width=960",
+          "httpStatus": 200,
+          "dimensions": [
+            960,
+            960
+          ],
+          "contentType": "image/webp",
+          "bytes": 114294,
+          "sha256": "70970bd1bf2afcc3dbf86a4e1b28ccef282a18f942c534942a5d40bd605b34c2"
+        },
+        {
+          "caseId": "bench-toon-rooftop-astra",
+          "url": "https://blenderbench.realityreprojector.com/api/renders/toon-frame__gpt-6.2-astra-think-xhigh__r1__20261118-120638/orbit.webm",
+          "durationSeconds": 4.0,
+          "complete": true,
+          "allFramesDecoded": true,
+          "contentType": "video/webm",
+          "bytes": 149439,
+          "sha256": "0e210107ddcda9ecd51bcd2ac32558164ae73f45aa9ef0fb9f79e09f11f084f8"
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2123172517741297664/img/M5lMRLPyyskjuXMF.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 136749,
+          "bytes": 136749,
+          "sha256": "f80d71de8b50b0e84d3c4c4992c58f32292890842436996d189bb6fb802c8cfb",
+          "fullGet": true,
+          "caseId": "vib3coded-alpine-helicopter",
+          "sourceUrl": "https://x.com/vib3coded/status/2123173597661233427",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            750
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2123135680050085888/img/S3mvPHKrleOyN1CC.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 283487,
+          "bytes": 283487,
+          "sha256": "2e8a9f1b271d8d6a16b0abfbf7d7e406fdef2b4aec524e6325db56394b32c6ef",
+          "fullGet": true,
+          "caseId": "marc-interactive-sailing-ships",
+          "sourceUrl": "https://x.com/marcthecreatorr/status/2123135975308038590",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            898
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2123186416511561728/img/042o22YPQAiyAANo.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 105449,
+          "bytes": 105449,
+          "sha256": "ea2f7c22dbd008cb19e187d565edc98676db4e3141affb8dcf4ed569768bca41",
+          "fullGet": true,
+          "caseId": "valuri-pagoda-bridge",
+          "sourceUrl": "https://x.com/srikanthvaluri/status/2123187817899766190",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2123046094066364416/img/A1L_E6fHhy-n1GDr.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 102551,
+          "bytes": 102551,
+          "sha256": "f2a441b3b3b9b7113262656948fd4c813c9f31a6e60140f7d856ccba57025001",
+          "fullGet": true,
+          "caseId": "rutinelabo-night-port",
+          "sourceUrl": "https://x.com/rutinelabo/status/2123046117080436910",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "caseId": "duckett-boo-mas-fable",
+          "url": "https://raw.githubusercontent.com/robinduckett/boo-mas/main/docs/play.jpg",
+          "httpStatus": 200,
+          "dimensions": [
+            1600,
+            1000
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 361079,
+          "sha256": "1204c2c0f4dc92565ac6e25c99113c7ae9c8c4a1c2debdb00a771c1bab4c071f"
+        },
+        {
+          "caseId": "duckett-boo-mas-fable",
+          "url": "https://v.redd.it/y2x2jtbuwe2i1/CMAF_1080.mp4?source=fallback",
+          "durationSeconds": 53.07,
+          "complete": true,
+          "allFramesDecoded": true,
+          "contentType": "video/mp4",
+          "bytes": 28152868,
+          "sha256": "43e53f57d1c78b76647f79d0c44cfe5052e95064cd01a72a8ba7853f22f6a598"
+        },
+        {
+          "caseId": "chris-underwater-stranded-fable",
+          "kind": "frame",
+          "subtype": "video-frame",
+          "filename": "chris-underwater-stranded-fable-result.jpg",
+          "sourceUrl": "https://video.twimg.com/amplify_video/2122866687116472320/vid/avc1/1280x720/g0qx64nHBHW6u9p9.mp4?tag=29",
+          "dimensions": [
+            1200,
+            676
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 92079,
+          "sha256": "c56d55400e29de651912c7061c7f3d293ff6ed9604e20ecaa10efcb11eacefb8",
+          "archiveOrdinal": 1,
+          "timestampSeconds": 43.99,
+          "assetId": 766050312,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-19/chris-underwater-stranded-fable-result.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "ailingqu-window-frost-gif",
+          "kind": "frame",
+          "subtype": "gif-first-frame",
+          "filename": "ailingqu-window-frost-gif-poster.jpg",
+          "sourceUrl": "https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/dfc7622334ac2b5f0b8c0d5cfd918aab8139e4c2/gifs/window-frost-spread.gif",
+          "dimensions": [
+            439,
+            388
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 53334,
+          "sha256": "cf7b1f4446d98880ed64a13254dfaeb69340cd3e438b94775bdb8270007d21fa",
+          "frameIndex": 0,
+          "assetId": 766050396,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-19/ailingqu-window-frost-gif-poster.jpg",
+          "releaseDigestMatched": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "ailingqu-sky-lanterns-gif",
+          "kind": "frame",
+          "subtype": "gif-first-frame",
+          "filename": "ailingqu-sky-lanterns-gif-poster.jpg",
+          "sourceUrl": "https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/dfc7622334ac2b5f0b8c0d5cfd918aab8139e4c2/gifs/sky-lanterns-rise.gif",
+          "dimensions": [
+            377,
+            248
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 31304,
+          "sha256": "e74853c7a39039f0321ac4acb59b6ee50b0eec0a6f12def672ed256350fae241",
+          "frameIndex": 0,
+          "assetId": 766050423,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-19/ailingqu-sky-lanterns-gif-poster.jpg",
+          "releaseDigestMatched": true,
+          "visuallyReviewed": true
+        }
+      ],
+      "sourceChecks": [
+        {
+          "caseId": "gostev-rome-forum",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/petergostev/status/2123175702719824292",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-19T06:05:08+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2123175131224662016",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "gostev-rome-forum",
+          "archiveOrdinal": 2,
+          "sourceUrl": "https://x.com/petergostev/status/2120167560700383572",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-10T22:51:51+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2120166054257168384",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "givros-gullwatch-isle",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/givros/status/2123133158124036295",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-19T03:16:05+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2123132109673971712",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "ricouard-paris-atlas",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/Dimillian/status/2122753859281928626",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T02:08:53+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122753791984324611",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "lasme-eiffel-construction",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/EphremLasme/status/2122908106065650173",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T12:21:48+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122907201798918144",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "lasme-eiffel-construction",
+          "archiveOrdinal": 2,
+          "sourceUrl": "https://x.com/EphremLasme/status/2123130595320709454",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-19T03:05:54+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2123130435165138944",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "lexnlin-yosemite-firefall",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/LexnLin/status/2123156510339465525",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-19T04:48:53+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2123148879977668610",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "vib3coded-alpine-helicopter",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/vib3coded/status/2123173597661233427",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-19T05:56:46+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2123172517741297664",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "marc-interactive-sailing-ships",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/marcthecreatorr/status/2123135975308038590",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-19T03:27:17+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2123135680050085888",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "valuri-pagoda-bridge",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/srikanthvaluri/status/2123187817899766190",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-19T06:53:17+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2123186416511561728",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "rutinelabo-night-port",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/rutinelabo/status/2123046117080436910",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T21:30:13+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2123046094066364416",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "chris-underwater-stranded-fable",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/ChrisGPT/status/2122866766590173419",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-18T09:37:32+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2122866687116472320",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        }
+      ],
+      "animatedGifChecks": [
+        {
+          "caseId": "ailingqu-window-frost-gif",
+          "sourceUrl": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/dfc7622334ac2b5f0b8c0d5cfd918aab8139e4c2/README.md#11-frost-spreads-on-glass",
+          "url": "https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/dfc7622334ac2b5f0b8c0d5cfd918aab8139e4c2/gifs/window-frost-spread.gif",
+          "generatedOnAuthorPage": "2026-11-17",
+          "httpStatus": 200,
+          "mediaType": "image/gif",
+          "frames": 8,
+          "distinctFrames": 8,
+          "allFramesDecoded": true,
+          "durationMs": 1760,
+          "frameDurationsMs": [
+            220,
+            220,
+            220,
+            220,
+            220,
+            220,
+            220,
+            220
+          ],
+          "dimensions": [
+            439,
+            388
+          ],
+          "loopCount": 0,
+          "bytes": 1148155,
+          "contentLength": 1148155,
+          "sha256": "078bf91a60b74fb489d38f86fabf3140aac0da48ed1ebbd02520745bc2633c2b"
+        },
+        {
+          "caseId": "ailingqu-sky-lanterns-gif",
+          "sourceUrl": "https://github.com/ailingqu/awesome-ai-gif-prompts/blob/dfc7622334ac2b5f0b8c0d5cfd918aab8139e4c2/README.md#12-sky-lanterns-rising",
+          "url": "https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/dfc7622334ac2b5f0b8c0d5cfd918aab8139e4c2/gifs/sky-lanterns-rise.gif",
+          "generatedOnAuthorPage": "2026-11-17",
+          "httpStatus": 200,
+          "mediaType": "image/gif",
+          "frames": 16,
+          "distinctFrames": 16,
+          "allFramesDecoded": true,
+          "durationMs": 2880,
+          "frameDurationsMs": [
+            180,
+            180,
+            180,
+            180,
+            180,
+            180,
+            180,
+            180,
+            180,
+            180,
+            180,
+            180,
+            180,
+            180,
+            180,
+            180
+          ],
+          "dimensions": [
+            377,
+            248
+          ],
+          "loopCount": 0,
+          "bytes": 475763,
+          "contentLength": 475763,
+          "sha256": "8bf07a3193b4184ca439bfe11307f262d4a17582c9f083da2e070f3c0049aa26"
+        }
+      ],
+      "scope": "New source proofs, media and native GIF checks for 15 cases.",
+      "authorDemos": [
+        {
+          "url": "https://astra-rome.surge.sh/",
+          "scope": "Rendered the city overview in Chrome and reached the Colosseum fly-to state after entering movement.",
+          "scopeZh": "Astra 版已实测进入三维城市鸟瞰，并启动飞往斗兽场的镜头。",
+          "title": "Rome, AD 320 · The Imperial City"
+        },
+        {
+          "url": "https://ajiang.me/demos/pelagos/gpt-6-2-astra-release/",
+          "scope": "Rendered the WebGL wind farm and opened the alert center. The dashboard uses simulated data.",
+          "scopeZh": "已实测渲染海上风机并打开告警中心。",
+          "title": "PELAGOS — Field 07 Operations"
+        },
+        {
+          "url": "https://robinduckett.github.io/boo-mas/",
+          "scope": "Started night one, steered the ghost and triggered the BOO action in Chrome.",
+          "scopeZh": "已实测进入第一夜、移动角色和触发 BOO。",
+          "title": "Boo-mas — be the Christmas spirit. Literally."
+        },
+        {
+          "url": "https://paris-atlas-street-explorer.openai.chatgpt.site/",
+          "scope": "Loaded a rendered Paris street after selecting Walk here in Chrome.",
+          "scopeZh": "已在 Chrome 中选择步行并进入实景。",
+          "title": "Paris Atlas — City Explorer"
+        }
+      ]
     }
   ]
 }
