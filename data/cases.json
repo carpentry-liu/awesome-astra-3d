@@ -1489,7 +1489,9 @@
     "promptUrl": null,
     "promptSummary": null,
     "videoUrl": "https://v.redd.it/kjulihak8l2i1/CMAF_720.mp4?source=fallback",
-    "evidenceUrls": [],
+    "evidenceUrls": [
+      "https://v.redd.it/kjulihak8l2i1/CMAF_720.mp4?source=fallback"
+    ],
     "promptAvailability": "not-found",
     "evidenceStatus": "explicit-astra",
     "platform": "Reddit",
@@ -1499,7 +1501,7 @@
     ],
     "imageKind": "video-frame",
     "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-22/reddit-mech-cutscene-astra-result.jpg",
-    "sourceAccess": "核对作者原帖及 14.43 秒录像，全长解码通过。",
+    "sourceAccess": "14.43 秒的作者录像已全长解码。若原帖要求验证，可从下方 v.redd.it 链接直接播放。",
     "platforms": [
       "Reddit"
     ]
@@ -1522,6 +1524,7 @@
     "promptAvailability": "full-prompt-in-repository",
     "promptSummary": "做一座可飞行探索、使用 WebGPU 渲染的水下城市。仓库提供完整任务文本。",
     "evidenceUrls": [
+      "https://v.redd.it/mvdvmg4w6z2i1/CMAF_720.mp4?source=fallback",
       "https://noniv.github.io/atlantis/"
     ],
     "addedAt": "2026-11-22",
@@ -1541,7 +1544,7 @@
     ],
     "imageKind": "demo-screenshot",
     "imageUrl": "https://raw.githubusercontent.com/Noniv/atlantis/main/.github/screenshots/crystal-podium.jpg",
-    "sourceAccess": "核对作者原帖及 133.43 秒录像，全长解码通过。 Chrome 已进入水下城市，切换视点并向前飞行。",
+    "sourceAccess": "133.43 秒的作者录像已全长解码。若原帖要求验证，可从下方 v.redd.it 链接直接播放。Chrome 已进入水下城市，切换视点并向前飞行。",
     "platforms": [
       "Reddit",
       "GitHub",
@@ -1573,7 +1576,9 @@
     "promptUrl": null,
     "promptSummary": null,
     "videoUrl": "https://v.redd.it/tfp53beirx2i1/CMAF_720.mp4?source=fallback",
-    "evidenceUrls": [],
+    "evidenceUrls": [
+      "https://v.redd.it/tfp53beirx2i1/CMAF_720.mp4?source=fallback"
+    ],
     "promptAvailability": "not-found",
     "evidenceStatus": "explicit-fable",
     "platform": "Reddit",
@@ -1583,7 +1588,7 @@
     ],
     "imageKind": "video-frame",
     "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-22/reddit-doomscroll-brain-fable-result.jpg",
-    "sourceAccess": "核对作者原帖及 30.00 秒录像，全长解码通过。",
+    "sourceAccess": "30 秒的作者录像已全长解码。若原帖要求验证，可从下方 v.redd.it 链接直接播放。",
     "platforms": [
       "Reddit"
     ]
