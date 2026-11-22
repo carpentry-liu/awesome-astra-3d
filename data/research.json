@@ -16649,7 +16649,7 @@
       ],
       "platformLimits": [
         "X recordings were matched against original post HTML by author, timestamp and attachment ID.",
-        "Author-released Reddit recordings kept their source-hosted links. The full 720p Atlantis attachment decoded successfully.",
+        "Reddit post pages presented a verification challenge during the browser recheck. All three case pages provide the author-hosted 720p recording alongside the post link. The full attachments decoded successfully.",
         "Bilibili entries use the permanent creator pages as video links.",
         "No Xiaohongshu or Douyin candidate provided both a fitting primary work and independently checkable output this pass.",
         "Supplemental cases keep their earlier publication dates. The three GIF dates refer to their source articles."
