@@ -63,6 +63,20 @@ npm start
 
 面向 `main` 的 PR 运行检查、lint 和 Pages 构建，并用 `git diff --exit-code --stat` 确认受控的派生文件已随源数据提交。PR 不下载视频、不部署，也没有 Pages 写权限。[Pages 工作流](../.github/workflows/pages.yml) 在推送 `main` 或手动发布时才获取并校验完整播放文件，再部署。部署后核对公开 JSON、双语详情、metadata、截图和媒体地址；必要时全量 GET 新视频并比对 hash。
 
+## 内容验证（2026-11-22）
+
+新增 36 个案例，包括 29 个 GPT-6.2 Astra 案例、4 个 Claude Fable 5.2 案例及 3 个原生 GIF。29 个作品原帖发布于上海时间 11 月 20–22 日，其余 7 个为补录。目录共 582 条，其中 Astra 531 条、Fable 18 条、GIF 21 条、方法参考 12 条。
+
+| 范围 | 实际检查 |
+| --- | --- |
+| 来源与试玩 | 27 个案例来自 X，B 站和 Reddit 各 3 个，3 个 GIF 来自发布者站点。Chrome 核对了 Pocket City 的阿姆斯特丹、Castle Valley 的山谷与操作界面，以及进入亚特兰蒂斯、改变视点和向前飞行。6 段 B 站 / Reddit 的作者录像通过全长解码。 |
+| X 原片 | `py -3.13 work/2026-11-22/prepare-media.py` 对照原帖与附件 ID，29 段原帖录像和 29 段原平台播放版通过全长解码，共 995,669,844 字节。`publish-media.py` 与 [媒体 Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-22) 核对 68 个附件的服务器 SHA-256。 |
+| GIF | 原始纸狐狸、熔岩灯和香氛瓶 GIF 分别为 9、16、9 帧。Chrome 中预览自动播放，画面实拍帧有变化，停止、恢复和减少动态效果均通过。 |
+| 构建 | `npm.cmd run catalog`、`npm.cmd run check`、`npm.cmd run lint` 通过，共 34 项测试。`npm.cmd run build` 在普通模式与 `GITHUB_PAGES=true` 模式均验证 1,206 个静态页、26,018 条本地引用、582 份详情 JSON 与 1,207 个站点地图地址。 |
+| 本地浏览器 | `node work/2026-11-22/browser-qa.mjs` 通过 34 项场景，29 段归档录像均播到结尾。核对 Astra 新收录、Fable 手机筛选、双语详情、旧分享地址与 GIF，1440、390、320 像素视口无横向溢出，受测页面无控制台错误或警告。 |
+
+双语 README 更新了案例预览与可直接访问的作品页，四张页面实拍见 [媒体说明](media/README.md)。
+
 ## 内容验证（2026-11-19）
 
 新增 11 件 GPT-6.2 Astra、2 件 Claude Fable 5.2 和 2 件原生 GIF；目录共 546 条，其中 Astra 502 条、Fable 14 条、GIF 18 条、方法参考 12 条。古罗马与埃菲尔铁塔分别将同题的两版原作合为一条档案，保留原帖和模型。

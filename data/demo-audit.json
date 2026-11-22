@@ -1250,6 +1250,33 @@
       "result": "verified-interactive",
       "scope": "Started night one, steered the ghost and triggered the BOO action in Chrome.",
       "browserEvidence": "Boo-mas — be the Christmas spirit. Literally."
+    },
+    {
+      "id": "april-pocket-city",
+      "url": "https://april-zhu.com/pocketcity?city=amsterdam",
+      "status": 200,
+      "observedAt": "2026-11-22",
+      "result": "verified-interactive",
+      "scope": "Rendered the Amsterdam diorama with map controls and a seasonal selector in Chrome.",
+      "browserEvidence": "Pocket City · Amsterdam"
+    },
+    {
+      "id": "noniv-webgpu-atlantis-fable",
+      "url": "https://noniv.github.io/atlantis/",
+      "status": 200,
+      "observedAt": "2026-11-22",
+      "result": "verified-interactive",
+      "scope": "Entered the underwater city, selected a viewpoint and moved forward in Chrome.",
+      "browserEvidence": "Atlantis"
+    },
+    {
+      "id": "morse-castle-valley-fable",
+      "url": "https://omw-game.kimaki.dev/",
+      "status": 200,
+      "observedAt": "2026-11-22",
+      "result": "verified-interactive",
+      "scope": "Rendered the painted valley with the game HUD and movement controls in Chrome.",
+      "browserEvidence": "Castle Valley"
     }
   ]
 }

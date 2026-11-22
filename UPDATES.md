@@ -2,6 +2,47 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-11-22 · 36 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [GaleWatch Atlántico：站上风暴中的货轮 / GaleWatch Atlántico: A Cargo Ship in an Ocean Storm](https://carpentry-liu.github.io/awesome-astra-3d/cases/tokengremlin-galewatch-atlantico/) | Token Gremlin / @TokenGremlin | 完整视频 |
+| [30 秒拆开一台电脑，最后连芯片也拆了 / A 30-Second Exploded View of a PC, Down to the Chip](https://carpentry-liu.github.io/awesome-astra-3d/cases/aijoey-computer-exploded/) | Joey / @aijoey | 完整视频 |
+| [Godot 手绘场景教程：把爱琴海概念图变成可走动的场景 / Aegean Sanctuary: From a Painting to a Godot Environment](https://carpentry-liu.github.io/awesome-astra-3d/cases/guilcher-godot-painted-environment/) | Thomas Guilcher-Trouche / @thomas_guilcher | 源码 / 工程 · 完整视频 · 提示词 / 过程 |
+| [《汐见台》：用 Blender 重建一个车站镜头 / Shiomidai: Recreating a Station Shot in Blender](https://carpentry-liu.github.io/awesome-astra-3d/cases/kidd-shiomidai-station/) | kidd同学 | 作者展示 |
+| [《魔女之旅》三维同人游戏：从草地起飞 / Wandering Witch: An Open-Source 3D Fan Game](https://carpentry-liu.github.io/awesome-astra-3d/cases/shoalrat-majo-no-tabitabi/) | sharkspeare007 | 源码 / 工程 |
+| [租屋小猫：镜头贴着地板拍一场冒险 / Rental Cat: A Floor-Level Adventure Rendered in Code](https://carpentry-liu.github.io/awesome-astra-3d/cases/rockeymen-rental-cat-pov/) | Rockeymen / @rockeymen | 源码 / 工程 · 完整视频 |
+| [Pocket City：把一段真实街区装进掌心 / Pocket City: Real Neighborhoods as Tiny Rotatable Maps](https://carpentry-liu.github.io/awesome-astra-3d/cases/april-pocket-city/) | April / @Aprilzz423 | 演示入口 · 完整视频 · 提示词 / 过程 |
+| [同一条运镜指令：Three.js 三维场景与 Seedance 视频 / Same Camera Brief: Astra’s 3D Scenes vs Seedance Video](https://carpentry-liu.github.io/awesome-astra-3d/cases/aa-astra-seedance-3d-camera/) | Artificial Analysis / @ArtificialAnlys | 完整视频 |
+| [Tachyon Sprint：用自制 WebGPU 引擎跑一圈 / Tachyon Sprint: Racing on a Custom WebGPU Engine](https://carpentry-liu.github.io/awesome-astra-3d/cases/satyam-tachyon-sprint/) | Satyam Kumar / @_satyam_ai | 完整视频 |
+| [纽约体素微缩城：从雕像长到整座城市 / Building a Voxel New York from One Stacked Sprite](https://carpentry-liu.github.io/awesome-astra-3d/cases/semichenkko-nyc-voxel-diorama/) | Semichenko / @semichenkko | 完整视频 |
+| [油罐车透明剖面：同一路线看三种液体晃动 / Inside a Tanker: Three Liquids on the Same Drive](https://carpentry-liu.github.io/awesome-astra-3d/cases/tokengremlin-tanker-slosh/) | Token Gremlin / @TokenGremlin | 完整视频 |
+| [京都雨夜：三款模型只收到同一句话 / Rainy Kyoto in Blender: Three Models, One Line](https://carpentry-liu.github.io/awesome-astra-3d/cases/mizugame-kyoto-rain-blender/) | MizuGame｜無駄にガチなAI使い / @mizugame_22 | 完整视频 · 提示词 / 过程 |
+| [同题造两台雪地步行机：Three.js 与 Blender / One Walker Built Twice: Three.js and Blender](https://carpentry-liu.github.io/awesome-astra-3d/cases/gostos-voidwalker-three-blender/) | Vib3Coded / @vib3coded | 完整视频 · 提示词 / 过程 |
+| [Meridian Observatory：沿雪山盘道走到天文台 / Meridian Observatory: Switchbacks to a Snowy Summit](https://carpentry-liu.github.io/awesome-astra-3d/cases/givros-meridian-observatory/) | Givros / @givros | 完整视频 |
+| [Black Coast Burns：对比两个模型的熔岩海岸 / Black Coast Burns: Two Takes on a Lava Coast](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-black-coast-burns/) | Tony / @EnvolDev | 完整视频 |
+| [Alpine Gold：四个模型做同一段高山水上飞机镜头 / Alpine Gold: Four Models, One Seaplane Shot](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-alpine-gold/) | Tony / @EnvolDev | 完整视频 |
+| [从概念图到浏览器里的绿色机器人 / From a Reference Image to a Browser-Animated Robot](https://carpentry-liu.github.io/awesome-astra-3d/cases/ouchi-reference-to-robot/) | ノウチ / @ouchi | 完整视频 |
+| [月下村落：粉色天际线与水面倒影 / Moonlit Village: Pink Skies and Reflected Houses](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-moonlit-village/) | Vib3Coded / @vib3coded | 完整视频 |
+| [森林小探险家：用 Blender Python 推进一段小故事 / Little Explorers: A Short Story Made with Blender Python](https://carpentry-liu.github.io/awesome-astra-3d/cases/dingchilling-little-explorers/) | @dingchilling / @dingchilling | 完整视频 |
+| [一件奇幻场景道具，三个 Blender MCP 版本 / One Fantasy Prop, Three Blender MCP Results](https://carpentry-liu.github.io/awesome-astra-3d/cases/max-blender-hammer/) | Max / @maxt3chno | 完整视频 |
+| [走动和停下时，头发怎么跟随角色 / Adding Hair Physics to an Existing Character](https://carpentry-liu.github.io/awesome-astra-3d/cases/ryanflorence-character-hair/) | Ryan Florence / @ryanflorence | 完整视频 · 提示词 / 过程 |
+| [Saddle Lake：开着水上飞机飞进阿拉斯加群山 / Saddle Lake: A Seaplane Flight Through Alaska](https://carpentry-liu.github.io/awesome-astra-3d/cases/lumina-alaskan-seaplane/) | Lumina / @LuminaBench | 完整视频 |
+| [京都清晨穿过鸟居：同题看两条 Three.js 镜头 / Kyoto at Dawn: Two Three.js Walkthroughs](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-kyoto-dawn-walk/) | Teddy / @teddyaisi | 完整视频 |
+| [木船遇上风暴：六轮调整后，巨浪遮住地平线 / A Wooden Boat in a Storm, Refined over Six Passes](https://carpentry-liu.github.io/awesome-astra-3d/cases/camper-storm-wooden-boat/) | camper 🦎🎣 / @camperaigg | 完整视频 |
+| [雪中城堡：从高窗里看见暖光与室内 / Winter Castle: Warm Interiors Seen Through Tall Windows](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-winter-castle/) | Tony / @EnvolDev | 完整视频 |
+| [村落资产的分工：Sol 做网格，Astra 做细化和动画 / Village Assets: Sol Geometry, Astra Detail and Animation](https://carpentry-liu.github.io/awesome-astra-3d/cases/tokengremlin-village-animation/) | Token Gremlin / @TokenGremlin | 完整视频 |
+| [Sylva 林地：滚动穿过雨后树林 / Sylva: A Scroll-Driven Walk Through Woodland](https://carpentry-liu.github.io/awesome-astra-3d/cases/meng-sylva-woodland/) | Meng To / @MengTo | 完整视频 |
+| [Rhino 涡扇：看 RedRhino 如何搭出可分解几何 / A Turbofan Model Built with Rhino and RedRhino](https://carpentry-liu.github.io/awesome-astra-3d/cases/muqiang-redrhino-turbofan/) | 幕墙君 | 作者展示 |
+| [从机甲模型到 Unreal 过场：GLB 如何接进场景 / From a Mech Model to an Unreal Cutscene](https://carpentry-liu.github.io/awesome-astra-3d/cases/reddit-mech-cutscene-astra/) | u/blendgame | 作者展示 |
+| [亚特兰蒂斯：单个 HTML 里飞过一座水下城 / Atlantis: Fly Through an Underwater City in One HTML File](https://carpentry-liu.github.io/awesome-astra-3d/cases/noniv-webgpu-atlantis-fable/) | Noniv / u/Any-Reputation8118 | 源码 / 工程 · 演示入口 · Fable 5.2 · 提示词 / 过程 |
+| [Just One More：每刷一次，三维大脑都变一点 / Just One More: A 3D Brain That Changes as You Scroll](https://carpentry-liu.github.io/awesome-astra-3d/cases/reddit-doomscroll-brain-fable/) | u/Fit_Opportunity_2261 | Fable 5.2 |
+| [Castle Valley：走进一座油画质感的幻想山谷 / Castle Valley: Walk into a Painted Fantasy Landscape](https://carpentry-liu.github.io/awesome-astra-3d/cases/morse-castle-valley-fable/) | Tommy D. Rossi / @__morse | 源码 / 工程 · 演示入口 · 完整视频 · Fable 5.2 |
+| [Three.js 回合制原型：四张参考图变成四个角色 / Four Reference Images, Four Characters in a Three.js Arena](https://carpentry-liu.github.io/awesome-astra-3d/cases/meng-threejs-turn-based-fable/) | Meng To / @MengTo | 完整视频 · Fable 5.2 |
+| [纸狐狸 Sunburst：九帧剪纸循环 / Sunburst Paper Fox: A Nine-Frame Papercraft Loop](https://carpentry-liu.github.io/awesome-astra-3d/cases/omniakey-paper-fox-gif/) | OmniaKey | GIF 动图（独立分组） |
+| [复古熔岩灯：气泡升降的 16 帧循环 / Retro Lava Lamp: Sixteen Frames of Rising Wax](https://carpentry-liu.github.io/awesome-astra-3d/cases/oxen-retro-lava-lamp-gif/) | Oxen.ai | GIF 动图（独立分组） · 提示词 / 过程 |
+| [磨砂香氛瓶 Flare：九帧商品动效 / Flare: A Nine-Frame Frosted Perfume Loop](https://carpentry-liu.github.io/awesome-astra-3d/cases/veevid-frosted-perfume-gif/) | Veevid | GIF 动图（独立分组） |
+
 ## 2026-11-19 · 15 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
