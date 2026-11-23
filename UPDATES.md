@@ -2,6 +2,35 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-11-23 · 24 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Momiji Creek：沿着秋日溪流追拍鹡鸰 / Momiji Creek: Tracking a Wagtail through Autumn](https://carpentry-liu.github.io/awesome-astra-3d/cases/meng-momiji-creek/) | Meng To / @MengTo | 演示入口 · 完整视频 |
+| [透明台式机：按一次电源，看三套开机动画 / A Transparent PC: Three Takes on the Power Button](https://carpentry-liu.github.io/awesome-astra-3d/cases/liushang-transparent-pc/) | 流觞 / @liushang1258 | 完整视频 · 提示词 / 过程 |
+| [Heron-K7：把一张概念图拍成 Blender 机甲短片 / Heron-K7: From Concept Art to a Blender Short](https://carpentry-liu.github.io/awesome-astra-3d/cases/apek-heron-k7/) | apek / @apekshik | 完整视频 |
+| [一张演唱会照片，重建机器人和舞台灯束 / Rebuilding a Concert Robot and Its Stage from One Photo](https://carpentry-liu.github.io/awesome-astra-3d/cases/sevenstars-concert-robot/) | Sanchez / @Seven_starsA | 完整视频 · 提示词 / 过程 |
+| [维多利亚玻璃温室：同题做两条清晨漫游 / Victorian Glass Conservatory: Two Morning Walkthroughs](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-victorian-conservatory/) | Teddy / @teddyaisi | 完整视频 |
+| [Studio Glass：一张能调光的书桌 / Studio Glass: An Interactive Desk with Five Lighting Presets](https://carpentry-liu.github.io/awesome-astra-3d/cases/meng-studio-glass/) | Meng To / @MengTo | 演示入口 · 完整视频 |
+| [《流浪地球 2》太空电梯：用 Blender 从港区升到云上 / The Wandering Earth II: A Blender Space Elevator Fan Film](https://carpentry-liu.github.io/awesome-astra-3d/cases/huacha-space-elevator/) | 花茶AI | 作者展示 |
+| [《沉渊》首领场景：三款模型的完整实机对照 / Sunken Abyss: Three Complete Takes on a Soulslike Boss Scene](https://carpentry-liu.github.io/awesome-astra-3d/cases/aikang-souls-arena/) | 袋鼠帝 / @aikangarooking | 完整视频 |
+| [同一句铁路场景任务，三个模型怎么运镜 / One Railway Brief, Three Three.js Scenes](https://carpentry-liu.github.io/awesome-astra-3d/cases/plansmit-threejs-railway/) | Atif / @PlanSmit | 完整视频 |
+| [《哈利·波特》陋居：暖窗光照亮夜间山谷 / The Burrow: Warm Windows in a Three.js Valley](https://carpentry-liu.github.io/awesome-astra-3d/cases/sshayahmet-burrow-3d/) | Serik / @sshayahmet | 完整视频 |
+| [从输入到仓房成片：36 秒看见 Blender 工程 / From an Input Brief to a Furnished Blender Room](https://carpentry-liu.github.io/awesome-astra-3d/cases/surexxxie-blender-workflow/) | yt (准备薄肌版) / @surexxxie | 完整视频 |
+| [从山顶到行星：Three.js 天体观测短片 / From a Mountain to the Planets in Three.js](https://carpentry-liu.github.io/awesome-astra-3d/cases/omoiro-planet-tour/) | Omoiro Project \| AI × 美女＆音楽＆動画 \| ChatGPT × Grok / @OmoiroProject | 完整视频 |
+| [同场比较教堂、双螺旋图书馆和涡轮发动机 / Three Briefs: Cathedral, Double-Helix Library and Turbine](https://carpentry-liu.github.io/awesome-astra-3d/cases/huagechen-3d-triple-test/) | 孙小画 / @huagechen | 完整视频 |
+| [骑行动作对照：站姿冲刺时车和人怎么摆 / Cycling in Three.js: Comparing Rider and Bike Motion](https://carpentry-liu.github.io/awesome-astra-3d/cases/qingzhou-bicycle-motion/) | 产品晓东 / @qingzhoucloud | 完整视频 |
+| [城市自动售货机：条带堆叠和 Three.js 两版短片 / A City Vending Machine: Stripe Stacking vs Three.js](https://carpentry-liu.github.io/awesome-astra-3d/cases/puno-stacking-versus-three/) | プノ / @puno7ray | 完整视频 |
+| [沉没神殿：20 秒的水下 Three.js 镜头 / A Sunken Temple: Two Twenty-Second Underwater Glides](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-submerged-temple/) | Teddy / @teddyaisi | 完整视频 |
+| [从图到迷你角色：在预览里切换表情与动作 / From a Picture to Animated Mini Characters](https://carpentry-liu.github.io/awesome-astra-3d/cases/fishing-mini-character/) | きよごん / @fishing_kiyogon | 完整视频 |
+| [太空列车：同题比较三组舱内和外景镜头 / Space Train: Three Models, One Journey](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-space-train/) | Tony / @EnvolDev | 完整视频 |
+| [Palmera Bay：在三维街区走进商铺 / Palmera Bay: An Explorable City Prototype](https://carpentry-liu.github.io/awesome-astra-3d/cases/r2c-open-city/) | Raphi-2Code / @R2Cdev_ | 完整视频 |
+| [四台笔记本电脑：17 个镜头拍完一张 Blender 书桌 / Four Laptops and Seventeen Shots in a Blender Short](https://carpentry-liu.github.io/awesome-astra-3d/cases/rehan-four-laptops-film/) | Rehan Tahir / @socialwithrehan | 完整视频 · Fable 5.2 |
+| [玻璃机械章鱼：加入拆解技能后的两版对照 / Opening a Glass Robot Octopus, with and without a Skill](https://carpentry-liu.github.io/awesome-astra-3d/cases/fokki-glass-octopus/) | Fokki / @0x_fokki | 完整视频 · Fable 5.2 · 提示词 / 过程 |
+| [《Daisy Bell》：两台小机器人在 Three.js 里合唱 / Daisy Bell: A Three.js Duet for Two Small Robots](https://carpentry-liu.github.io/awesome-astra-3d/cases/kevin-daisy-bell/) | Kevin Ngo / @kevin_t_ngo | 完整视频 · Fable 5.2 |
+| [Shearcasting Lab：同一体素车，比较两种像素渲染 / Shearcasting Lab: Two Pixel Renderers for One Voxel Car](https://carpentry-liu.github.io/awesome-astra-3d/cases/that1aiguy-shearcasting-lab/) | That1AiGuy / @That1AiGuy | 完整视频 · Fable 5.2 |
+| [机械犬队列：从单个资产到同步步态 / A Grid of Robot Dogs: Assets and Synchronized Motion](https://carpentry-liu.github.io/awesome-astra-3d/cases/mint-grid-robot-dogs/) | mint / @mintdotgg | 完整视频 · Fable 5.2 |
+
 ## 2026-11-22 · 36 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

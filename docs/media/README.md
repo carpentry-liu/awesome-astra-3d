@@ -1,14 +1,14 @@
 # 当前网站实拍
 
-2026-11-22 从本地 GitHub Pages 构建通过浏览器截取。中英文 README 共用四张截图，`public/share.jpg` 与首页图字节一致。
+2026-11-23 从本地 GitHub Pages 构建通过浏览器截取。中英文 README 共用四张截图，`public/share.jpg` 与首页图字节一致。
 
 | 文件 | 画面 |
 | --- | --- |
-| [homepage-2026-11-22.jpg](homepage-2026-11-22.jpg) | 桌面首页、更新后的统计与六件精选 |
-| [collection-2026-11-22.jpg](collection-2026-11-22.jpg) | GPT-6.2 Astra 搜索结果，包括货轮风暴、电脑拆解与 Godot 场景教程 |
-| [mobile-2026-11-22.jpg](mobile-2026-11-22.jpg) | Fable 5.2 手机端筛选与可飞行的亚特兰蒂斯 |
-| [case-2026-11-22.jpg](case-2026-11-22.jpg) | GaleWatch Atlántico 货轮风暴作品详情 |
+| [homepage-2026-11-23.jpg](homepage-2026-11-23.jpg) | 桌面首页、更新后的统计与六件精选 |
+| [collection-2026-11-23.jpg](collection-2026-11-23.jpg) | Astra 今日收录的秋日溪流、透明台式机和 Blender 机甲短片 |
+| [mobile-2026-11-23.jpg](mobile-2026-11-23.jpg) | Fable 5.2 手机端筛选与新收录的 Blender 书桌短片 |
+| [case-2026-11-23.jpg](case-2026-11-23.jpg) | Studio Glass 交互书桌作品详情和作者演示入口 |
 
-当日检查覆盖桌面、手机、分类、独立作品页和新媒体。详见 [维护记录](../maintenance.md#内容验证2026-11-22)。
+当日检查覆盖桌面、手机、分类、独立作品页和新媒体。详见 [维护记录](../maintenance.md#内容验证2026-11-23)。
 
 这些是网站界面截图，原样保存。第三方作品权利归各原作者；原始 GIF、录像和大图不提交到代码目录。旧截图保留在 Git 历史，功能文档中的旧验证链接固定到当时提交。
