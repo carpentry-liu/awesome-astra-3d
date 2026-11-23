@@ -15,7 +15,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-更新于 **2026-11-22（Asia/Shanghai）** · **531** 条 Astra 案例（127 条源码 / 工程、140 个演示入口、312 个完整视频） · **18** 条 Fable 5.2 案例 · **21** 件 GIF 动图 · **12** 条方法参考。
+更新于 **2026-11-23（Asia/Shanghai）** · **550** 条 Astra 案例（127 条源码 / 工程、142 个演示入口、332 个完整视频） · **23** 条 Fable 5.2 案例 · **21** 件 GIF 动图 · **12** 条方法参考。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -38,7 +38,7 @@
 
 [GIF 动图分类](https://carpentry-liu.github.io/awesome-astra-3d/?group=gif&order=newest#collection) · [官方生成说明](https://developers.openai.com/api/docs/guides/image-generation#generate-animated-gif-output)
 
-现有 21 件原生 GIF，本次新增纸狐狸、复古熔岩灯与磨砂香氛瓶。
+现有 21 件原生 GIF，包括纸狐狸、复古熔岩灯与磨砂香氛瓶。
 
 | 纸狐狸 Sunburst：九帧剪纸循环 | 复古熔岩灯：气泡升降的 16 帧循环 | 磨砂香氛瓶 Flare：九帧商品动效 |
 | --- | --- | --- |
@@ -76,18 +76,18 @@ GIF 分类预览与详情自动播放，支持停止与播放。系统开启减�
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-11-22.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-11-23.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-网站实拍更新于 **2026-11-22**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+网站实拍更新于 **2026-11-23**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
-<summary>查看案例区、手机与作品详情实拍 · 2026-11-22</summary>
+<summary>查看案例区、手机与作品详情实拍 · 2026-11-23</summary>
 
-[![GPT-6.2 Astra 最新作品](docs/media/collection-2026-11-22.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?q=GPT-6.2+Astra&order=newest#collection)
+[![Astra 最新作品](docs/media/collection-2026-11-23.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端 Fable 5.2 最新案例](docs/media/mobile-2026-11-22.jpg)
+![手机端 Fable 5.2 最新案例](docs/media/mobile-2026-11-23.jpg)
 
-[![GaleWatch 货轮风暴作品页](docs/media/case-2026-11-22.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/tokengremlin-galewatch-atlantico/)
+[![Studio Glass 交互书桌作品页](docs/media/case-2026-11-23.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/meng-studio-glass/)
 
 </details>
 
@@ -95,52 +95,52 @@ GIF 分类预览与详情自动播放，支持停止与播放。系统开启减�
 
 这里按本库收录日期排列；作品首次发布、模型配置与核查日期在各档案中分别记录。稳定精选不随日更替换。
 
-11 月 20–22 日共新增 **29 件 GPT-6.2 Astra、4 件 Claude Fable 5.2 和 3 件原生 GIF**，含少量补录，归档 **29 段完整 X 录像**。先看风暴中的货轮、拆到芯片的电脑，或者用 Godot 把一幅概念画做成可走动的场景。
+11 月 23 日新增 **19 件 Astra、5 件 Claude Fable 5.2 作品**，归档 **25 段完整 X 录像**。其中 22 件原作发布于今天，另补录 11 月 22 日的 Studio Glass 和 Blender 太空电梯同人短片。
 
 <!-- atlas:update-previews:start -->
-**GPT-6.2 Astra 新收录**
+**Astra 新收录**
 
-| GaleWatch Atlántico：站上风暴中的货轮 | 30 秒拆开一台电脑，最后连芯片也拆了 | Godot 手绘场景教程：把爱琴海概念图变成可走动的场景 |
+| Momiji Creek：沿着秋日溪流追拍鹡鸰 | 透明台式机：按一次电源，看三套开机动画 | Heron-K7：把一张概念图拍成 Blender 机甲短片 |
 | --- | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2124152491407278080/img/-38U_zZDwUZHrYTB.jpg" height="154" alt="GaleWatch Atlántico：站上风暴中的货轮">](https://carpentry-liu.github.io/awesome-astra-3d/cases/tokengremlin-galewatch-atlantico/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-22/aijoey-computer-exploded-1-frame.jpg" height="154" alt="30 秒拆开一台电脑，最后连芯片也拆了">](https://carpentry-liu.github.io/awesome-astra-3d/cases/aijoey-computer-exploded/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2123773344352792576/img/evaOpkTXg7wRUMHJ.jpg" height="154" alt="Godot 手绘场景教程：把爱琴海概念图变成可走动的场景">](https://carpentry-liu.github.io/awesome-astra-3d/cases/guilcher-godot-painted-environment/) |
-| [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/tokengremlin-galewatch-atlantico/#videos) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/aijoey-computer-exploded/#videos) | [工作流](https://github.com/Thmsglchr/godot-2-5d-environments) · [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/guilcher-godot-painted-environment/#videos) |
+| [<img src="https://pbs.twimg.com/ext_tw_video_thumb/2124548825910317056/pu/img/JrOuG06JxjdPyLKy.jpg" height="154" alt="Momiji Creek：沿着秋日溪流追拍鹡鸰">](https://carpentry-liu.github.io/awesome-astra-3d/cases/meng-momiji-creek/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-23/liushang-transparent-pc-1-frame.jpg" height="154" alt="透明台式机：按一次电源，看三套开机动画">](https://carpentry-liu.github.io/awesome-astra-3d/cases/liushang-transparent-pc/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2124650058402705408/img/ynKPAfE5bSBhSYWd.jpg" height="154" alt="Heron-K7：把一张概念图拍成 Blender 机甲短片">](https://carpentry-liu.github.io/awesome-astra-3d/cases/apek-heron-k7/) |
+| [在线体验](https://threeui.com/landing-pages/momiji-creek.html) · [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/meng-momiji-creek/#videos) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/liushang-transparent-pc/#videos) · [作者提示词](https://x.com/liushang1258/status/2124731054414303730) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/apek-heron-k7/#videos) |
 
-| 《汐见台》：用 Blender 重建一个车站镜头 | 《魔女之旅》三维同人游戏：从草地起飞 | 租屋小猫：镜头贴着地板拍一场冒险 |
+| 一张演唱会照片，重建机器人和舞台灯束 | 维多利亚玻璃温室：同题做两条清晨漫游 | Studio Glass：一张能调光的书桌 |
 | --- | --- | --- |
-| [<img src="https://i0.hdslb.com/bfs/archive/b99def67b04b2ad806791837351d1951316de5b0.jpg" height="154" alt="《汐见台》：用 Blender 重建一个车站镜头">](https://carpentry-liu.github.io/awesome-astra-3d/cases/kidd-shiomidai-station/) | [<img src="https://i1.hdslb.com/bfs/archive/125cc1fee10232865009ad2d9959ef33fba787e8.jpg" height="154" alt="《魔女之旅》三维同人游戏：从草地起飞">](https://carpentry-liu.github.io/awesome-astra-3d/cases/shoalrat-majo-no-tabitabi/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-22/rockeymen-rental-cat-pov-1-frame.jpg" height="154" alt="租屋小猫：镜头贴着地板拍一场冒险">](https://carpentry-liu.github.io/awesome-astra-3d/cases/rockeymen-rental-cat-pov/) |
-| [作者录像](https://www.bilibili.com/video/BV1MCytzXE7Y/) | [源码](https://github.com/shoal-rat/majo-no-tabitabi) · [作者录像](https://www.bilibili.com/video/BV1t5yizyE1L/) | [源码](https://github.com/rockeymen/rental-cat-pov) · [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/rockeymen-rental-cat-pov/#videos) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2124730655632457728/img/DBGS53oM2HlkaovF.jpg" height="154" alt="一张演唱会照片，重建机器人和舞台灯束">](https://carpentry-liu.github.io/awesome-astra-3d/cases/sevenstars-concert-robot/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2124720694026199040/img/CyzjOWDtvfOcGQ6R.jpg" height="154" alt="维多利亚玻璃温室：同题做两条清晨漫游">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-victorian-conservatory/) | [<img src="https://pbs.twimg.com/ext_tw_video_thumb/2124431786570833920/pu/img/btTr-CDDGn5cPagy.jpg" height="154" alt="Studio Glass：一张能调光的书桌">](https://carpentry-liu.github.io/awesome-astra-3d/cases/meng-studio-glass/) |
+| [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/sevenstars-concert-robot/#videos) · [作者提示词](https://x.com/Seven_starsA/status/2124733831140061293) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-victorian-conservatory/#videos) | [在线体验](https://threeui.com/studio-glass) · [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/meng-studio-glass/#videos) |
 
-| Pocket City：把一段真实街区装进掌心 | 同一条运镜指令：Three.js 三维场景与 Seedance 视频 | Tachyon Sprint：用自制 WebGPU 引擎跑一圈 |
+| 《流浪地球 2》太空电梯：用 Blender 从港区升到云上 | 《沉渊》首领场景：三款模型的完整实机对照 | 同一句铁路场景任务，三个模型怎么运镜 |
 | --- | --- | --- |
-| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-22/april-pocket-city-1-frame.jpg" height="154" alt="Pocket City：把一段真实街区装进掌心">](https://carpentry-liu.github.io/awesome-astra-3d/cases/april-pocket-city/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2123581196999475200/img/eJ9AuNtbtJcXESTR.jpg" height="154" alt="同一条运镜指令：Three.js 三维场景与 Seedance 视频">](https://carpentry-liu.github.io/awesome-astra-3d/cases/aa-astra-seedance-3d-camera/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-22/satyam-tachyon-sprint-1-frame.jpg" height="154" alt="Tachyon Sprint：用自制 WebGPU 引擎跑一圈">](https://carpentry-liu.github.io/awesome-astra-3d/cases/satyam-tachyon-sprint/) |
-| [在线体验](https://april-zhu.com/pocketcity?city=amsterdam) · [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/april-pocket-city/#videos) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/aa-astra-seedance-3d-camera/#videos) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/satyam-tachyon-sprint/#videos) |
+| [<img src="https://i0.hdslb.com/bfs/archive/41533370dc792f7bc898a3cafcee4ef2d0ae84d2.jpg" height="154" alt="《流浪地球 2》太空电梯：用 Blender 从港区升到云上">](https://carpentry-liu.github.io/awesome-astra-3d/cases/huacha-space-elevator/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-23/aikang-souls-arena-3-frame.jpg" height="154" alt="《沉渊》首领场景：三款模型的完整实机对照">](https://carpentry-liu.github.io/awesome-astra-3d/cases/aikang-souls-arena/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2124664364276072449/img/cRgxLoOYfrdXuZPr.jpg" height="154" alt="同一句铁路场景任务，三个模型怎么运镜">](https://carpentry-liu.github.io/awesome-astra-3d/cases/plansmit-threejs-railway/) |
+| [作者录像](https://www.bilibili.com/video/BV1p1yGzKEv3/) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/aikang-souls-arena/#videos) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/plansmit-threejs-railway/#videos) |
 
 **Fable 5.2 新收录**
 
-| 亚特兰蒂斯：单个 HTML 里飞过一座水下城 | Just One More：每刷一次，三维大脑都变一点 |
+| 四台笔记本电脑：17 个镜头拍完一张 Blender 书桌 | 玻璃机械章鱼：加入拆解技能后的两版对照 |
 | --- | --- |
-| [<img src="https://raw.githubusercontent.com/Noniv/atlantis/main/.github/screenshots/crystal-podium.jpg" height="154" alt="亚特兰蒂斯：单个 HTML 里飞过一座水下城">](https://carpentry-liu.github.io/awesome-astra-3d/cases/noniv-webgpu-atlantis-fable/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-22/reddit-doomscroll-brain-fable-result.jpg" height="154" alt="Just One More：每刷一次，三维大脑都变一点">](https://carpentry-liu.github.io/awesome-astra-3d/cases/reddit-doomscroll-brain-fable/) |
-| [在线体验](https://noniv.github.io/atlantis/) · [源码](https://github.com/Noniv/atlantis) · [作者录像](https://v.redd.it/mvdvmg4w6z2i1/CMAF_720.mp4?source=fallback) | [作者录像](https://v.redd.it/tfp53beirx2i1/CMAF_720.mp4?source=fallback) |
+| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-23/rehan-four-laptops-film-1-frame.jpg" height="154" alt="四台笔记本电脑：17 个镜头拍完一张 Blender 书桌">](https://carpentry-liu.github.io/awesome-astra-3d/cases/rehan-four-laptops-film/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-23/fokki-glass-octopus-1-frame.jpg" height="154" alt="玻璃机械章鱼：加入拆解技能后的两版对照">](https://carpentry-liu.github.io/awesome-astra-3d/cases/fokki-glass-octopus/) |
+| [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/rehan-four-laptops-film/#videos) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/fokki-glass-octopus/#videos) · [作者提示词](https://x.com/0x_fokki/status/2124580198251130937) |
 
-| Castle Valley：走进一座油画质感的幻想山谷 | Three.js 回合制原型：四张参考图变成四个角色 |
+| 《Daisy Bell》：两台小机器人在 Three.js 里合唱 | Shearcasting Lab：同一体素车，比较两种像素渲染 |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2122010188265701376/img/gl15gu0pAPmWE-oj.jpg" height="154" alt="Castle Valley：走进一座油画质感的幻想山谷">](https://carpentry-liu.github.io/awesome-astra-3d/cases/morse-castle-valley-fable/) | [<img src="https://pbs.twimg.com/ext_tw_video_thumb/2123355676265385984/pu/img/2U6es6DTSWbei1uq.jpg" height="154" alt="Three.js 回合制原型：四张参考图变成四个角色">](https://carpentry-liu.github.io/awesome-astra-3d/cases/meng-threejs-turn-based-fable/) |
-| [在线体验](https://omw-game.kimaki.dev/) · [源码](https://github.com/remorses/castle-valley) · [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/morse-castle-valley-fable/#videos) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/meng-threejs-turn-based-fable/#videos) |
+| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-23/kevin-daisy-bell-1-frame.jpg" height="154" alt="《Daisy Bell》：两台小机器人在 Three.js 里合唱">](https://carpentry-liu.github.io/awesome-astra-3d/cases/kevin-daisy-bell/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2124712607944712192/img/aC9-YaOzn2nnT0_1.jpg" height="154" alt="Shearcasting Lab：同一体素车，比较两种像素渲染">](https://carpentry-liu.github.io/awesome-astra-3d/cases/that1aiguy-shearcasting-lab/) |
+| [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/kevin-daisy-bell/#videos) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/that1aiguy-shearcasting-lab/#videos) |
 
-[查看本轮全部 36 个案例](UPDATES.md#2026-11-22--36-个案例) · [GPT-6.2 Astra 专辑](https://carpentry-liu.github.io/awesome-astra-3d/?q=GPT-6.2+Astra&order=newest#collection) · [Fable 5.2 最新](https://carpentry-liu.github.io/awesome-astra-3d/?group=fable&order=newest#collection) · [下载完整原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-22)
+[查看本轮全部 24 个案例](UPDATES.md#2026-11-23--24-个案例) · [网站最新收录](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [Fable 5.2 最新](https://carpentry-liu.github.io/awesome-astra-3d/?group=fable&order=newest#collection) · [下载完整原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-23)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
-| [GaleWatch Atlántico：站上风暴中的货轮](https://carpentry-liu.github.io/awesome-astra-3d/cases/tokengremlin-galewatch-atlantico/) | Token Gremlin / @TokenGremlin | [原始来源](https://x.com/TokenGremlin/status/2124154102661722370) |
-| [30 秒拆开一台电脑，最后连芯片也拆了](https://carpentry-liu.github.io/awesome-astra-3d/cases/aijoey-computer-exploded/) | Joey / @aijoey | [原始来源](https://x.com/aijoey/status/2123684286318669976) |
-| [Godot 手绘场景教程：把爱琴海概念图变成可走动的场景](https://carpentry-liu.github.io/awesome-astra-3d/cases/guilcher-godot-painted-environment/) | Thomas Guilcher-Trouche / @thomas_guilcher | [源码](https://github.com/Thmsglchr/godot-2-5d-environments) · [原始来源](https://x.com/thomas_guilcher/status/2123774006683709684) |
-| [《汐见台》：用 Blender 重建一个车站镜头](https://carpentry-liu.github.io/awesome-astra-3d/cases/kidd-shiomidai-station/) | kidd同学 | [原始来源](https://www.bilibili.com/video/BV1MCytzXE7Y/) |
-| [《魔女之旅》三维同人游戏：从草地起飞](https://carpentry-liu.github.io/awesome-astra-3d/cases/shoalrat-majo-no-tabitabi/) | sharkspeare007 | [源码](https://github.com/shoal-rat/majo-no-tabitabi) · [原始来源](https://www.bilibili.com/video/BV1t5yizyE1L/) |
-| [租屋小猫：镜头贴着地板拍一场冒险](https://carpentry-liu.github.io/awesome-astra-3d/cases/rockeymen-rental-cat-pov/) | Rockeymen / @rockeymen | [源码](https://github.com/rockeymen/rental-cat-pov) · [原始来源](https://x.com/rockeymen/status/2123605250825486383) |
-| [Pocket City：把一段真实街区装进掌心](https://carpentry-liu.github.io/awesome-astra-3d/cases/april-pocket-city/) | April / @Aprilzz423 | [演示](https://april-zhu.com/pocketcity?city=amsterdam) · [原始来源](https://x.com/Aprilzz423/status/2123788440714260673) |
-| [同一条运镜指令：Three.js 三维场景与 Seedance 视频](https://carpentry-liu.github.io/awesome-astra-3d/cases/aa-astra-seedance-3d-camera/) | Artificial Analysis / @ArtificialAnlys | [原始来源](https://x.com/ArtificialAnlys/status/2123581865965855205) |
+| [Momiji Creek：沿着秋日溪流追拍鹡鸰](https://carpentry-liu.github.io/awesome-astra-3d/cases/meng-momiji-creek/) | Meng To / @MengTo | [演示](https://threeui.com/landing-pages/momiji-creek.html) · [原始来源](https://x.com/MengTo/status/2124548934270161077) |
+| [透明台式机：按一次电源，看三套开机动画](https://carpentry-liu.github.io/awesome-astra-3d/cases/liushang-transparent-pc/) | 流觞 / @liushang1258 | [原始来源](https://x.com/liushang1258/status/2124730524325622010) |
+| [Heron-K7：把一张概念图拍成 Blender 机甲短片](https://carpentry-liu.github.io/awesome-astra-3d/cases/apek-heron-k7/) | apek / @apekshik | [原始来源](https://x.com/apekshik/status/2124654375801159919) |
+| [一张演唱会照片，重建机器人和舞台灯束](https://carpentry-liu.github.io/awesome-astra-3d/cases/sevenstars-concert-robot/) | Sanchez / @Seven_starsA | [原始来源](https://x.com/Seven_starsA/status/2124733827985920037) |
+| [维多利亚玻璃温室：同题做两条清晨漫游](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-victorian-conservatory/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2124721602856354005) |
+| [Studio Glass：一张能调光的书桌](https://carpentry-liu.github.io/awesome-astra-3d/cases/meng-studio-glass/) | Meng To / @MengTo | [演示](https://threeui.com/studio-glass) · [原始来源](https://x.com/MengTo/status/2124431846859813234) |
+| [《流浪地球 2》太空电梯：用 Blender 从港区升到云上](https://carpentry-liu.github.io/awesome-astra-3d/cases/huacha-space-elevator/) | 花茶AI | [原始来源](https://www.bilibili.com/video/BV1p1yGzKEv3/) |
+| [《沉渊》首领场景：三款模型的完整实机对照](https://carpentry-liu.github.io/awesome-astra-3d/cases/aikang-souls-arena/) | 袋鼠帝 / @aikangarooking | [原始来源](https://x.com/aikangarooking/status/2124704859907895784) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)

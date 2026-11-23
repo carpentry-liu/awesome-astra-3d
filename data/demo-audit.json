@@ -1277,6 +1277,24 @@
       "result": "verified-interactive",
       "scope": "Rendered the painted valley with the game HUD and movement controls in Chrome.",
       "browserEvidence": "Castle Valley"
+    },
+    {
+      "id": "meng-momiji-creek",
+      "url": "https://threeui.com/landing-pages/momiji-creek.html",
+      "status": 200,
+      "observedAt": "2026-11-23",
+      "result": "verified-rendered",
+      "scope": "The original browser build visibly rendered the creek, foliage, bird and water in Chrome.",
+      "browserEvidence": "Momiji Creek"
+    },
+    {
+      "id": "meng-studio-glass",
+      "url": "https://threeui.com/studio-glass",
+      "status": 200,
+      "observedAt": "2026-11-23",
+      "result": "verified-interactive",
+      "scope": "The scene rendered in Chrome. Clicking Sunset in the lighting panel changed the room lighting.",
+      "browserEvidence": "Studio Glass"
     }
   ]
 }

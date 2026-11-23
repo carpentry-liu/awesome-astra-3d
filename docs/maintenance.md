@@ -63,6 +63,19 @@ npm start
 
 面向 `main` 的 PR 运行检查、lint 和 Pages 构建，并用 `git diff --exit-code --stat` 确认受控的派生文件已随源数据提交。PR 不下载视频、不部署，也没有 Pages 写权限。[Pages 工作流](../.github/workflows/pages.yml) 在推送 `main` 或手动发布时才获取并校验完整播放文件，再部署。部署后核对公开 JSON、双语详情、metadata、截图和媒体地址；必要时全量 GET 新视频并比对 hash。
 
+## 内容验证（2026-11-23）
+
+新增 24 个案例，包括 19 个 Astra 案例和 5 个 Claude Fable 5.2 案例。22 个作品原帖发布于上海时间 11 月 23 日，Studio Glass 和太空电梯短片于 11 月 22 日发布。目录共 606 条，包括 21 件原生 GIF 和 12 条方法参考。
+
+| 范围 | 实际检查 |
+| --- | --- |
+| 来源与演示 | 本轮原作者来自 X 和 B 站。Chrome 渲染了 Momiji Creek 的溪流和红叶，并实测 Studio Glass 切换夕阳光。溪流原帖的 Astra 版本标注待确认。`node work/2026-11-23/bili-start.mjs` 确认花茶 AI 的原帖播放器可播放。 |
+| 录像 | `py -3.13 work/2026-11-23/prepare-media.py` 对照 X 原帖、作者、日期和附件 ID。25 段录像各保留最高码率及原平台播放版，合计 1,076,409,090 字节，并通过严格 FFmpeg 全长解码。B 站原帖的 73.98 秒平台视频也完成全长解码。`publish-media.py` 核对媒体 Release 的 58 个附件及服务端 SHA-256。 [媒体 Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-23) |
+| 构建 | `npm.cmd run catalog`、`npm.cmd run check` 与 `npm.cmd run lint` 通过，共 34 项测试。`npm.cmd run build` 与 `GITHUB_PAGES=true` 构建各验证 1,254 个静态页、27,026 条本地引用、606 份详情 JSON 与 1,255 个 sitemap 地址。 |
+| 浏览器 | `node work/2026-11-23/browser-qa.mjs` 覆盖桌面与手机、新收录、双语详情、旧分享链接和媒体。25 段归档录像均播到结尾，GIF 自动播放、暂停、恢复和减少动态效果也检查通过。1440、390、320 像素视口无横向溢出，测试页面没有控制台错误或警告。 |
+
+中英文 README 更新了预览图、案例直达链接和分享封面。 [四张页面实拍](media/README.md)
+
 ## 内容验证（2026-11-22）
 
 新增 36 个案例，包括 29 个 GPT-6.2 Astra 案例、4 个 Claude Fable 5.2 案例及 3 个原生 GIF。29 个作品原帖发布于上海时间 11 月 20–22 日，其余 7 个为补录。目录共 582 条，其中 Astra 531 条、Fable 18 条、GIF 21 条、方法参考 12 条。
