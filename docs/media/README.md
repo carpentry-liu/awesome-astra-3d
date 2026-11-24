@@ -1,14 +1,14 @@
 # 当前网站实拍
 
-2026-11-23 从本地 GitHub Pages 构建通过浏览器截取。中英文 README 共用四张截图，`public/share.jpg` 与首页图字节一致。
+2026-11-24 从本地 GitHub Pages 构建通过浏览器截取。中英文 README 共用四张截图，`public/share.jpg` 与首页图字节一致。
 
 | 文件 | 画面 |
 | --- | --- |
-| [homepage-2026-11-23.jpg](homepage-2026-11-23.jpg) | 桌面首页、更新后的统计与六件精选 |
-| [collection-2026-11-23.jpg](collection-2026-11-23.jpg) | Astra 今日收录的秋日溪流、透明台式机和 Blender 机甲短片 |
-| [mobile-2026-11-23.jpg](mobile-2026-11-23.jpg) | Fable 5.2 手机端筛选与新收录的 Blender 书桌短片 |
-| [case-2026-11-23.jpg](case-2026-11-23.jpg) | Studio Glass 交互书桌作品详情和作者演示入口 |
+| [homepage-2026-11-24.jpg](homepage-2026-11-24.jpg) | 桌面首页、最新统计与六件精选 |
+| [collection-2026-11-24.jpg](collection-2026-11-24.jpg) | Astra 新收录的世博会、机械步行机和多层城市街景 |
+| [mobile-2026-11-24.jpg](mobile-2026-11-24.jpg) | Fable 5.2 手机端筛选与 Windward 海岛 |
+| [case-2026-11-24.jpg](case-2026-11-24.jpg) | 擎天柱作品详情与作者演示入口 |
 
-当日检查覆盖桌面、手机、分类、独立作品页和新媒体。详见 [维护记录](../maintenance.md#内容验证2026-11-23)。
+当日检查覆盖桌面、手机、分类、独立作品页和新媒体。详见 [维护记录](../maintenance.md#内容验证2026-11-24)。
 
 这些是网站界面截图，原样保存。第三方作品权利归各原作者；原始 GIF、录像和大图不提交到代码目录。旧截图保留在 Git 历史，功能文档中的旧验证链接固定到当时提交。

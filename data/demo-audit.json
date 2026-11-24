@@ -1295,6 +1295,24 @@
       "result": "verified-interactive",
       "scope": "The scene rendered in Chrome. Clicking Sunset in the lighting panel changed the room lighting.",
       "browserEvidence": "Studio Glass"
+    },
+    {
+      "id": "fini-optimus-transformation",
+      "url": "https://optimus.finiyang.com/",
+      "status": 200,
+      "observedAt": "2026-11-24",
+      "result": "verified-interactive",
+      "scope": "Loaded the creator’s model in Chrome, switched to free camera and dragged the viewpoint.",
+      "browserEvidence": "Optimus Prime"
+    },
+    {
+      "id": "jordanz-windward",
+      "url": "https://jordanz00.github.io/Windward/",
+      "status": 200,
+      "observedAt": "2026-11-24",
+      "result": "verified-interactive",
+      "scope": "Entered the WebGPU scene in Chrome at Low quality, switched to flight and rendered the lagoon.",
+      "browserEvidence": "Windward"
     }
   ]
 }
