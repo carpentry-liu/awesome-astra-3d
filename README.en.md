@@ -15,7 +15,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-11-23 (Asia/Shanghai)** · **550 Astra examples** (127 source / project links, 142 demo links, 332 complete clips) · **23 Fable 5.2 examples** · **21 GIF animations** · **12 method references**.
+Updated **2026-11-24 (Asia/Shanghai)** · **556 Astra examples** (127 source / project links, 143 demo links, 338 complete clips) · **29 Fable 5.2 examples** · **21 GIF animations** · **12 method references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -76,18 +76,18 @@ Select a title or image to open the creator's demo directly. Case pages retain s
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-11-23.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-11-24.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-The screenshots are from the **November 23, 2026** local production build. Browse in Chinese or English, open topics and share individual case pages.
+The screenshots are from the **November 24, 2026** local production build. Browse in Chinese or English, open topics and share individual case pages.
 
 <details>
-<summary>Gallery, mobile and case screenshots · November 23, 2026</summary>
+<summary>Gallery, mobile and case screenshots · November 24, 2026</summary>
 
-[![Latest Astra works](docs/media/collection-2026-11-23.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Latest Astra works](docs/media/collection-2026-11-24.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Latest Fable 5.2 works on mobile](docs/media/mobile-2026-11-23.jpg)
+![Latest Fable 5.2 works on mobile](docs/media/mobile-2026-11-24.jpg)
 
-[![Studio Glass case page](docs/media/case-2026-11-23.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/meng-studio-glass/)
+[![Optimus Prime case page](docs/media/case-2026-11-24.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/fini-optimus-transformation/)
 
 </details>
 
@@ -95,52 +95,47 @@ The screenshots are from the **November 23, 2026** local production build. Brows
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The November 23 update adds **19 Astra cases and 5 Claude Fable 5.2 cases** and preserves **25 full X recordings**. Twenty-two works were published on November 23 in Shanghai time. Studio Glass and the Blender space-elevator film are supplemental finds from November 22.
+The November 24 update adds **6 Astra cases and 6 Claude Fable 5.2 cases**, updates Bloom Pool with a second comparison, and archives **9 full X recordings**. Six new cases were published on November 24 in Shanghai time, and six are supplemental finds from November 23.
 
 <!-- atlas:update-previews:start -->
-**New Astra cases**
+**New and updated Astra cases**
 
-| Momiji Creek: Tracking a Wagtail through Autumn | A Transparent PC: Three Takes on the Power Button | Heron-K7: From Concept Art to a Blender Short |
+| Recreating San Francisco’s 1915 World’s Fair in Blender | Optimus Prime Transforms in an Interactive 3D Viewer | From One Reference to a Multilevel City in Blender |
 | --- | --- | --- |
-| [<img src="https://pbs.twimg.com/ext_tw_video_thumb/2124548825910317056/pu/img/JrOuG06JxjdPyLKy.jpg" height="154" alt="Momiji Creek: Tracking a Wagtail through Autumn">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/meng-momiji-creek/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-23/liushang-transparent-pc-1-frame.jpg" height="154" alt="A Transparent PC: Three Takes on the Power Button">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/liushang-transparent-pc/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2124650058402705408/img/ynKPAfE5bSBhSYWd.jpg" height="154" alt="Heron-K7: From Concept Art to a Blender Short">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/apek-heron-k7/) |
-| [Live demo](https://threeui.com/landing-pages/momiji-creek.html) · [Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/meng-momiji-creek/#videos) | [Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/liushang-transparent-pc/#videos) · [Creator prompt](https://x.com/liushang1258/status/2124731054414303730) | [Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/apek-heron-k7/#videos) |
+| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-24/openai-worlds-fair-1915-1-frame.jpg" height="154" alt="Recreating San Francisco’s 1915 World’s Fair in Blender">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/openai-worlds-fair-1915/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2124837555258699776/img/rLh_9UZgNNToM9ak.jpg" height="154" alt="Optimus Prime Transforms in an Interactive 3D Viewer">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/fini-optimus-transformation/) | [<img src="https://pbs.twimg.com/media/HX0rdkNaIAAcp7x.jpg?name=orig" height="154" alt="From One Reference to a Multilevel City in Blender">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/surexxxie-layered-city/) |
+| [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/openai-worlds-fair-1915/#videos) | [Live demo](https://optimus.finiyang.com/) · [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/fini-optimus-transformation/#videos) | [Author results](https://x.com/surexxxie/status/2124904385679650958) |
 
-| Rebuilding a Concert Robot and Its Stage from One Photo | Victorian Glass Conservatory: Two Morning Walkthroughs | Studio Glass: An Interactive Desk with Five Lighting Presets |
+| One Mechanical Walker Brief, Two 3D Workflows | Floating Flower Pool: Two Takes on Petals and Vortices | Christmas Eve: Three 3D Animations from One Brief |
 | --- | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2124730655632457728/img/DBGS53oM2HlkaovF.jpg" height="154" alt="Rebuilding a Concert Robot and Its Stage from One Photo">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/sevenstars-concert-robot/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2124720694026199040/img/CyzjOWDtvfOcGQ6R.jpg" height="154" alt="Victorian Glass Conservatory: Two Morning Walkthroughs">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-victorian-conservatory/) | [<img src="https://pbs.twimg.com/ext_tw_video_thumb/2124431786570833920/pu/img/btTr-CDDGn5cPagy.jpg" height="154" alt="Studio Glass: An Interactive Desk with Five Lighting Presets">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/meng-studio-glass/) |
-| [Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/sevenstars-concert-robot/#videos) · [Creator prompt](https://x.com/Seven_starsA/status/2124733831140061293) | [Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-victorian-conservatory/#videos) | [Live demo](https://threeui.com/studio-glass) · [Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/meng-studio-glass/#videos) |
-
-| The Wandering Earth II: A Blender Space Elevator Fan Film | Sunken Abyss: Three Complete Takes on a Soulslike Boss Scene | One Railway Brief, Three Three.js Scenes |
-| --- | --- | --- |
-| [<img src="https://i0.hdslb.com/bfs/archive/41533370dc792f7bc898a3cafcee4ef2d0ae84d2.jpg" height="154" alt="The Wandering Earth II: A Blender Space Elevator Fan Film">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/huacha-space-elevator/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-23/aikang-souls-arena-3-frame.jpg" height="154" alt="Sunken Abyss: Three Complete Takes on a Soulslike Boss Scene">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/aikang-souls-arena/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2124664364276072449/img/cRgxLoOYfrdXuZPr.jpg" height="154" alt="One Railway Brief, Three Three.js Scenes">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/plansmit-threejs-railway/) |
-| [Author video](https://www.bilibili.com/video/BV1p1yGzKEv3/) | [Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/aikang-souls-arena/#videos) | [Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/plansmit-threejs-railway/#videos) |
+| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-24/vib3coded-two-walkers-1-frame.jpg" height="154" alt="One Mechanical Walker Brief, Two 3D Workflows">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-two-walkers/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2124998813689524225/img/1K6CRjhy8Tgl8-vl.jpg" height="154" alt="Floating Flower Pool: Two Takes on Petals and Vortices">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-flower-pool/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2124916213474361344/img/9FU_2OX8ltYslbxP.jpg" height="154" alt="Christmas Eve: Three 3D Animations from One Brief">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/envol-christmas-eve/) |
+| [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-two-walkers/#videos) | [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-flower-pool/#videos) | [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/envol-christmas-eve/#videos) |
 
 **New Fable 5.2 cases**
 
-| Four Laptops and Seventeen Shots in a Blender Short | Opening a Glass Robot Octopus, with and without a Skill |
-| --- | --- |
-| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-23/rehan-four-laptops-film-1-frame.jpg" height="154" alt="Four Laptops and Seventeen Shots in a Blender Short">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/rehan-four-laptops-film/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-23/fokki-glass-octopus-1-frame.jpg" height="154" alt="Opening a Glass Robot Octopus, with and without a Skill">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/fokki-glass-octopus/) |
-| [Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/rehan-four-laptops-film/#videos) | [Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/fokki-glass-octopus/#videos) · [Creator prompt](https://x.com/0x_fokki/status/2124580198251130937) |
+| Windward: Walk, Dive and Fly through a Procedural Island | A Woodland Robot Short Rendered in Blender on Cloud GPUs | Xiamen Gaoqi Airport: Combining Imagery and 3D Airport Geometry |
+| --- | --- | --- |
+| [<img src="https://raw.githubusercontent.com/jordanz00/Windward/fe085686302edbfabab7c10b877f3920281f364b/media/lagoon.jpg" height="154" alt="Windward: Walk, Dive and Fly through a Procedural Island">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/jordanz-windward/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-24/riley-fable-gpu-animation-1-frame.jpg" height="154" alt="A Woodland Robot Short Rendered in Blender on Cloud GPUs">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/riley-fable-gpu-animation/) | [<img src="https://i1.hdslb.com/bfs/archive/85107e31d4613fbf7a67ea5c63c0e648a60cb735.jpg" height="154" alt="Xiamen Gaoqi Airport: Combining Imagery and 3D Airport Geometry">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/dianxianmian-xiamen-airport/) |
+| [Live demo](https://jordanz00.github.io/Windward/) · [Source code](https://github.com/jordanz00/Windward) | [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/riley-fable-gpu-animation/#videos) | [Creator footage](https://www.bilibili.com/video/BV1SPynzKEnx/) |
 
-| Daisy Bell: A Three.js Duet for Two Small Robots | Shearcasting Lab: Two Pixel Renderers for One Voxel Car |
-| --- | --- |
-| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-23/kevin-daisy-bell-1-frame.jpg" height="154" alt="Daisy Bell: A Three.js Duet for Two Small Robots">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kevin-daisy-bell/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2124712607944712192/img/aC9-YaOzn2nnT0_1.jpg" height="154" alt="Shearcasting Lab: Two Pixel Renderers for One Voxel Car">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/that1aiguy-shearcasting-lab/) |
-| [Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kevin-daisy-bell/#videos) | [Full recordings](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/that1aiguy-shearcasting-lab/#videos) |
+| Snow Day: A 3D Snowball Fight Inside a Claude Artifact | SANDLINE: From 3D Assets and Textures to a Gameplay Recording | A Three.js Pirate Game with Sailing, Loot and Ship Upgrades |
+| --- | --- | --- |
+| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-24/pappkin-snow-day-frame.jpg" height="154" alt="Snow Day: A 3D Snowball Fight Inside a Claude Artifact">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/pappkin-snow-day/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2124854077523976192/img/jvOhip-0t9bNtH8B.jpg" height="154" alt="SANDLINE: From 3D Assets and Textures to a Gameplay Recording">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/gkx-sandline/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2124820284066684928/img/2FtiC4yq_5mu4UeB.jpg" height="154" alt="A Three.js Pirate Game with Sailing, Loot and Ship Upgrades">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-pirate-game/) |
+| [Creator footage](https://v.redd.it/p2mw2l7bqd3i1/CMAF_1080.mp4?source=fallback) | [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/gkx-sandline/#videos) | [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-pirate-game/#videos) |
 
-[All 24 cases](UPDATES.md#2026-11-23--24-个案例) · [Latest cases](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection) · [Latest Fable 5.2](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=fable&order=newest#collection) · [Download full originals](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-23)
+[All 12 new cases](UPDATES.md#2026-11-24--12-个案例) · [Latest Astra](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection) · [Latest Fable 5.2](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=fable&order=newest#collection) · [Download full originals](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-24)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [Momiji Creek: Tracking a Wagtail through Autumn](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/meng-momiji-creek/) | Meng To / @MengTo | [Demo](https://threeui.com/landing-pages/momiji-creek.html) · [Original](https://x.com/MengTo/status/2124548934270161077) |
-| [A Transparent PC: Three Takes on the Power Button](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/liushang-transparent-pc/) | 流觞 / @liushang1258 | [Original](https://x.com/liushang1258/status/2124730524325622010) |
-| [Heron-K7: From Concept Art to a Blender Short](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/apek-heron-k7/) | apek / @apekshik | [Original](https://x.com/apekshik/status/2124654375801159919) |
-| [Rebuilding a Concert Robot and Its Stage from One Photo](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/sevenstars-concert-robot/) | Sanchez / @Seven_starsA | [Original](https://x.com/Seven_starsA/status/2124733827985920037) |
-| [Victorian Glass Conservatory: Two Morning Walkthroughs](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-victorian-conservatory/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2124721602856354005) |
-| [Studio Glass: An Interactive Desk with Five Lighting Presets](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/meng-studio-glass/) | Meng To / @MengTo | [Demo](https://threeui.com/studio-glass) · [Original](https://x.com/MengTo/status/2124431846859813234) |
-| [The Wandering Earth II: A Blender Space Elevator Fan Film](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/huacha-space-elevator/) | 花茶AI | [Original](https://www.bilibili.com/video/BV1p1yGzKEv3/) |
-| [Sunken Abyss: Three Complete Takes on a Soulslike Boss Scene](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/aikang-souls-arena/) | 袋鼠帝 / @aikangarooking | [Original](https://x.com/aikangarooking/status/2124704859907895784) |
+| [Recreating San Francisco’s 1915 World’s Fair in Blender](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/openai-worlds-fair-1915/) | OpenAI Developers / @OpenAIDevs | [Original](https://x.com/OpenAIDevs/status/2124944225955639430) |
+| [One Mechanical Walker Brief, Two 3D Workflows](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/vib3coded-two-walkers/) | Vib3Coded / @vib3coded | [Original](https://x.com/vib3coded/status/2124899286739816771) |
+| [From One Reference to a Multilevel City in Blender](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/surexxxie-layered-city/) | yt (准备薄肌版) / @surexxxie | [Original](https://x.com/surexxxie/status/2124904385679650958) |
+| [Christmas Eve: Three 3D Animations from One Brief](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/envol-christmas-eve/) | Tony / @EnvolDev | [Original](https://x.com/EnvolDev/status/2124916325051166884) |
+| [Optimus Prime Transforms in an Interactive 3D Viewer](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/fini-optimus-transformation/) | Fini.Yang / @FiniYang | [Demo](https://optimus.finiyang.com/) · [Original](https://x.com/FiniYang/status/2124839248679637440) |
+| [Three Game Boy Color Breakdowns with In-Screen Games](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/aijoey-game-boy-color/) | Joey / @aijoey | [Original](https://x.com/aijoey/status/2124853490165960815) |
+| [Windward: Walk, Dive and Fly through a Procedural Island](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/jordanz-windward/) | Jordan Zabady / u/WhyAreYouSqueezingMe | [Demo](https://jordanz00.github.io/Windward/) · [Source](https://github.com/jordanz00/Windward) · [Original](https://www.reddit.com/r/ClaudeAI/comments/1y3prbb/testing_fable_52_by_building_a_photorealistic/) |
+| [A Woodland Robot Short Rendered in Blender on Cloud GPUs](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/riley-fable-gpu-animation/) | Riley Brown / @rileybrown | [Original](https://x.com/rileybrown/status/2124955587486032096) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

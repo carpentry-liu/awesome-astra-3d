@@ -32929,6 +32929,518 @@
         }
       ],
       "scope": "New source, cover and playback checks for the November 23 update."
+    },
+    {
+      "checkedAt": "2026-11-24",
+      "round": "daily",
+      "addedCaseIds": [
+        "openai-worlds-fair-1915",
+        "vib3coded-two-walkers",
+        "surexxxie-layered-city",
+        "envol-christmas-eve",
+        "fini-optimus-transformation",
+        "aijoey-game-boy-color",
+        "jordanz-windward",
+        "riley-fable-gpu-animation",
+        "dianxianmian-xiamen-airport",
+        "pappkin-snow-day",
+        "gkx-sandline",
+        "vib3coded-pirate-game"
+      ],
+      "updatedCaseIds": [
+        "vib3coded-flower-pool"
+      ],
+      "previewChecks": [
+        {
+          "caseId": "openai-worlds-fair-1915",
+          "archiveOrdinal": 1,
+          "timestampSeconds": 30.48,
+          "kind": "frame",
+          "subtype": "video-frame",
+          "filename": "openai-worlds-fair-1915-1-frame.jpg",
+          "sourceUrl": "https://video.twimg.com/amplify_video/2124943221969272832/vid/avc1/1920x1080/WPHthRkJrClvGwVB.mp4?tag=29",
+          "dimensions": [
+            1200,
+            676
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 61004,
+          "sha256": "71eb9d29b6bd2787ae13d5374500ea4db0e45c1d10a23ee9a7eea0292d379801",
+          "assetId": 785202340,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-24/openai-worlds-fair-1915-1-frame.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2124998813689524225/img/1K6CRjhy8Tgl8-vl.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 176329,
+          "bytes": 176329,
+          "sha256": "06a6551bad4326c81fe7d4f55e1a4191c1bdf3007dc25525f02652c074f0d6fd",
+          "fullGet": true,
+          "caseId": "vib3coded-flower-pool",
+          "sourceUrl": "https://x.com/vib3coded/status/2124999025505993078",
+          "archiveOrdinal": 2,
+          "mediaIndex": 1,
+          "dimensions": [
+            923,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "caseId": "vib3coded-two-walkers",
+          "archiveOrdinal": 1,
+          "timestampSeconds": 9,
+          "kind": "frame",
+          "subtype": "video-frame",
+          "filename": "vib3coded-two-walkers-1-frame.jpg",
+          "sourceUrl": "https://video.twimg.com/amplify_video/2124899137837498368/vid/avc1/1280x1664/X1edmqzOhJiMeMtX.mp4?tag=29",
+          "dimensions": [
+            1200,
+            1560
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 313654,
+          "sha256": "9d3c3aab7497171a1b61c3d56ee3a66efb3c9027bf3662fc6f0146d9f7a00f9f",
+          "assetId": 785202238,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-24/vib3coded-two-walkers-1-frame.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "id": "surexxxie-1",
+          "url": "https://pbs.twimg.com/media/HX0rZERa0AAZGcX.jpg?name=orig",
+          "sourceUrl": "https://x.com/surexxxie/status/2124904385679650958",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "dimensions": [
+            2800,
+            1600
+          ],
+          "bytes": 1370984,
+          "sha256": "a77ecd0b841a5817c9de641acdeb66534fc05306a6f216f651802d66148f55dd",
+          "decoded": true,
+          "caseId": "surexxxie-layered-city",
+          "visuallyReviewed": true,
+          "inputReference": true
+        },
+        {
+          "id": "surexxxie-2",
+          "url": "https://pbs.twimg.com/media/HX0rbISaYAQ1Cc6.jpg?name=orig",
+          "sourceUrl": "https://x.com/surexxxie/status/2124904385679650958",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "dimensions": [
+            1960,
+            1120
+          ],
+          "bytes": 522334,
+          "sha256": "216f5d8c11d629b39716076ef0ef8814661f3f29968c521d39cbb97771a87f50",
+          "decoded": true,
+          "caseId": "surexxxie-layered-city",
+          "visuallyReviewed": true,
+          "inputReference": false
+        },
+        {
+          "id": "surexxxie-3",
+          "url": "https://pbs.twimg.com/media/HX0rdkNaIAAcp7x.jpg?name=orig",
+          "sourceUrl": "https://x.com/surexxxie/status/2124904385679650958",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "dimensions": [
+            1960,
+            1120
+          ],
+          "bytes": 474698,
+          "sha256": "b0e967a19a67d0558db50e945062cde5ef9314413d5c4027ca5175e26ab5075a",
+          "decoded": true,
+          "caseId": "surexxxie-layered-city",
+          "visuallyReviewed": true,
+          "inputReference": false
+        },
+        {
+          "id": "surexxxie-4",
+          "url": "https://pbs.twimg.com/media/HX0rhA4a8AAUCGA.jpg?name=orig",
+          "sourceUrl": "https://x.com/surexxxie/status/2124904385679650958",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "dimensions": [
+            1920,
+            1200
+          ],
+          "bytes": 317968,
+          "sha256": "f060fa8e5000a33f7870ef496425e8e931b12552f366e1f5c6b1032f104febf9",
+          "decoded": true,
+          "caseId": "surexxxie-layered-city",
+          "visuallyReviewed": true,
+          "inputReference": false
+        },
+        {
+          "id": "surexxxie-5",
+          "url": "https://pbs.twimg.com/media/HX0rjMoaYAAv5jW.jpg?name=orig",
+          "sourceUrl": "https://x.com/surexxxie/status/2124904385679650958",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "dimensions": [
+            1920,
+            1200
+          ],
+          "bytes": 391141,
+          "sha256": "485c5689115bdacbd5121511b5045d0b1ee285413352396061d160c438ce3bb4",
+          "decoded": true,
+          "caseId": "surexxxie-layered-city",
+          "visuallyReviewed": true,
+          "inputReference": false
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2124916213474361344/img/9FU_2OX8ltYslbxP.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 152723,
+          "bytes": 152723,
+          "sha256": "33919827c2c6d14095c787c9843331125685b7ec7896841b5fabb0b92789dd38",
+          "fullGet": true,
+          "caseId": "envol-christmas-eve",
+          "sourceUrl": "https://x.com/EnvolDev/status/2124916325051166884",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            675,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2124837555258699776/img/rLh_9UZgNNToM9ak.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 131693,
+          "bytes": 131693,
+          "sha256": "bc1cf92ddb163fb09be1810667f31286746e3bb1916d760f3fa26a2103452a88",
+          "fullGet": true,
+          "caseId": "fini-optimus-transformation",
+          "sourceUrl": "https://x.com/FiniYang/status/2124839248679637440",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            500
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2124851806698192896/img/ZGJ1p4KbZI-TkDNo.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 94458,
+          "bytes": 94458,
+          "sha256": "f774f92b754d3d9b14d196f0ba0924a892105a97bdd7abaff6be0c2d28f919c3",
+          "fullGet": true,
+          "caseId": "aijoey-game-boy-color",
+          "sourceUrl": "https://x.com/aijoey/status/2124853490165960815",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1199,
+            581
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "id": "windward-beach",
+          "url": "https://raw.githubusercontent.com/jordanz00/Windward/fe085686302edbfabab7c10b877f3920281f364b/media/beach.jpg",
+          "sourceUrl": "https://github.com/jordanz00/Windward",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "bytes": 198339,
+          "sha256": "142e560e126b02c08a2ea6ba55858744c20a2a5654aa0435753b2b19548cc877",
+          "decoded": true,
+          "caseId": "jordanz-windward",
+          "visuallyReviewed": true
+        },
+        {
+          "id": "windward-lagoon",
+          "url": "https://raw.githubusercontent.com/jordanz00/Windward/fe085686302edbfabab7c10b877f3920281f364b/media/lagoon.jpg",
+          "sourceUrl": "https://github.com/jordanz00/Windward",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "bytes": 250314,
+          "sha256": "5161dcc064b556fdb77f329f06862310d1232eb7779d245853f1b8242a632a1c",
+          "decoded": true,
+          "caseId": "jordanz-windward",
+          "visuallyReviewed": true
+        },
+        {
+          "id": "windward-coral",
+          "url": "https://raw.githubusercontent.com/jordanz00/Windward/fe085686302edbfabab7c10b877f3920281f364b/media/coral.jpg",
+          "sourceUrl": "https://github.com/jordanz00/Windward",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "bytes": 140847,
+          "sha256": "5a7e1acac3356e7dee2ad8586c555f286582d19716cf0524a34014380048892e",
+          "decoded": true,
+          "caseId": "jordanz-windward",
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "riley-fable-gpu-animation",
+          "archiveOrdinal": 1,
+          "timestampSeconds": 69.3,
+          "kind": "frame",
+          "subtype": "video-frame",
+          "filename": "riley-fable-gpu-animation-1-frame.jpg",
+          "sourceUrl": "https://video.twimg.com/amplify_video/2124955311127592960/vid/avc1/1920x1080/JW3CPRD0rpdwEDbG.mp4?tag=29",
+          "dimensions": [
+            1200,
+            676
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 97729,
+          "sha256": "ca3b892a9893d7ac9de310dec382d5b26330b9c1c51dc4058d8a6a5d9b6a2dac",
+          "assetId": 785202341,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-24/riley-fable-gpu-animation-1-frame.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "dianxianmian-xiamen-airport",
+          "url": "https://i1.hdslb.com/bfs/archive/85107e31d4613fbf7a67ea5c63c0e648a60cb735.jpg",
+          "contentType": "image/jpeg",
+          "httpStatus": 200,
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "bytes": 265942,
+          "sha256": "7f2d2b4ab68b8f12e9ff579576afdd0bdbeb772851ed8ea36b769118044a7a86",
+          "decoded": true,
+          "visuallyReviewed": true
+        },
+        {
+          "caseId": "pappkin-snow-day",
+          "archiveOrdinal": 1,
+          "timestampSeconds": 16,
+          "kind": "frame",
+          "subtype": "video-frame",
+          "filename": "pappkin-snow-day-frame.jpg",
+          "sourceUrl": "https://v.redd.it/p2mw2l7bqd3i1/CMAF_1080.mp4?source=fallback",
+          "dimensions": [
+            720,
+            1234
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 108843,
+          "sha256": "ca5adb39de72fb471cd2f62bd4a9292ad04dffcaedad91bde5697a08da3adf69",
+          "assetId": 785208510,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-24/pappkin-snow-day-frame.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2124854077523976192/img/jvOhip-0t9bNtH8B.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 108547,
+          "bytes": 108547,
+          "sha256": "643f717caefd3eeed11de8564da7f4be7446774838a8a0adc98c5f40a14ae34f",
+          "fullGet": true,
+          "caseId": "gkx-sandline",
+          "sourceUrl": "https://x.com/gkxspace/status/2124855202314600663",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2124820284066684928/img/2FtiC4yq_5mu4UeB.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 132927,
+          "bytes": 132927,
+          "sha256": "8e2fb3a87b35038038c354c6842074cfd602624c29dc106ebb371def0af25ae8",
+          "fullGet": true,
+          "caseId": "vib3coded-pirate-game",
+          "sourceUrl": "https://x.com/vib3coded/status/2124821725497917835",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        }
+      ],
+      "sourceChecks": [
+        {
+          "caseId": "openai-worlds-fair-1915",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/OpenAIDevs/status/2124944225955639430",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-24T03:12:37+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2124943221969272832",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "vib3coded-flower-pool",
+          "archiveOrdinal": 2,
+          "sourceUrl": "https://x.com/vib3coded/status/2124999025505993078",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-24T06:50:22+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2124998813689524225",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "vib3coded-two-walkers",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/vib3coded/status/2124899286739816771",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-24T00:14:03+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2124899137837498368",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "envol-christmas-eve",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/EnvolDev/status/2124916325051166884",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-24T01:21:45+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2124916213474361344",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "fini-optimus-transformation",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/FiniYang/status/2124839248679637440",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-23T20:15:29+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2124837555258699776",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "aijoey-game-boy-color",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/aijoey/status/2124853490165960815",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-23T21:12:04+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2124851806698192896",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "riley-fable-gpu-animation",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/rileybrown/status/2124955587486032096",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-24T03:57:46+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2124955311127592960",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "gkx-sandline",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/gkxspace/status/2124855202314600663",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-23T21:18:52+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2124854077523976192",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "vib3coded-pirate-game",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/vib3coded/status/2124821725497917835",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-23T19:05:51+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "selectedMediaId": "2124820284066684928",
+          "sourceVideoCount": 1,
+          "originalHtmlMediaMatched": true
+        }
+      ],
+      "authorDemos": [
+        {
+          "url": "https://optimus.finiyang.com/",
+          "title": "Optimus Prime",
+          "result": "verified-interactive",
+          "scope": "Loaded the creator’s model in Chrome, switched to free camera and dragged the viewpoint.",
+          "scopeZh": "Chrome 实测加载作者模型、切换到自由旋转并拖动查看。"
+        },
+        {
+          "url": "https://jordanz00.github.io/Windward/",
+          "title": "Windward",
+          "result": "verified-interactive",
+          "scope": "Entered the WebGPU scene in Chrome at Low quality, switched to flight and rendered the lagoon.",
+          "scopeZh": "Chrome 以 Low 档进入 WebGPU 场景，切到飞行后切换至泻湖。"
+        }
+      ],
+      "scope": "Incremental creator source, cover and playback checks for November 24, 2026."
     }
   ]
 }

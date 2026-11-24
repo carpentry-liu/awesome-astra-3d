@@ -63,6 +63,19 @@ npm start
 
 面向 `main` 的 PR 运行检查、lint 和 Pages 构建，并用 `git diff --exit-code --stat` 确认受控的派生文件已随源数据提交。PR 不下载视频、不部署，也没有 Pages 写权限。[Pages 工作流](../.github/workflows/pages.yml) 在推送 `main` 或手动发布时才获取并校验完整播放文件，再部署。部署后核对公开 JSON、双语详情、metadata、截图和媒体地址；必要时全量 GET 新视频并比对 hash。
 
+## 内容验证（2026-11-24）
+
+新增 12 件作品，Astra 和 Claude Fable 5.2 各 6 件。其中 6 件发表于上海时间 11 月 24 日，6 件为 11 月 23 日补录。Bloom Pool 在原档案中加上 11 月 24 日的第二轮对比。目录共 618 条，包括 21 件原生 GIF 和 12 条方法参考。
+
+| 范围 | 实际检查 |
+| --- | --- |
+| 原作者与演示 | 核对 X、Reddit 和 B 站原始来源。`node work/2026-11-24/playable.mjs` 在 Chrome 中实测擎天柱的自由旋转与 Windward 的低画质、飞行和泻湖场景。`node work/2026-11-24/bili-start.mjs` 确认厦门机场原帖能播放。`external-player.mjs` 验证 Snow Day 的 40.97 秒公开静音版播到结束。 |
+| 完整录像 | `py -3.13 work/2026-11-24/prepare-media.py` 对照 9 个 X 原帖与录像 ID。最高码率原版和原平台播放版合计 437,037,892 字节，均通过 FFmpeg 全长解码。机场录像与 Snow Day 的公开静音画面也通过全长解码。发布脚本核对 22 个附件的服务端 SHA-256 与尺寸，包括 18 个 MP4 和 4 张成果帧。 [媒体 Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-24) |
+| 构建 | `npm.cmd run catalog`、`npm.cmd run check` 与 `npm.cmd run lint` 通过，34 项测试通过。普通与 Pages 子路径模式的 `npm.cmd run build` 各核对 1,280 个静态页、27,640 条本地引用、618 份详情 JSON 和 1,281 个 sitemap 地址。 |
+| 浏览器 | `node work/2026-11-24/browser-qa.mjs` 通过 14 项检查，9 段新归档录像全部播放至结束。核对最新筛选、双语详情、旧分享地址及 GIF 自动播放、暂停、恢复与减少动态效果。1440、390、320 像素视口未发现页面横向溢出，受测页面无控制台错误或警告。 |
+
+中英文 README 同步更新案例预览和直达链接。 [四张页面实拍](media/README.md)
+
 ## 内容验证（2026-11-23）
 
 新增 24 个案例，包括 19 个 Astra 案例和 5 个 Claude Fable 5.2 案例。22 个作品原帖发布于上海时间 11 月 23 日，Studio Glass 和太空电梯短片于 11 月 22 日发布。目录共 606 条，包括 21 件原生 GIF 和 12 条方法参考。

@@ -2,6 +2,23 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-11-24 · 12 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [1915 年旧金山世博会：用 Blender 重建历史影像 / Recreating San Francisco’s 1915 World’s Fair in Blender](https://carpentry-liu.github.io/awesome-astra-3d/cases/openai-worlds-fair-1915/) | OpenAI Developers / @OpenAIDevs | 完整视频 |
+| [同一个步行机任务，两种 3D 工作流 / One Mechanical Walker Brief, Two 3D Workflows](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-two-walkers/) | Vib3Coded / @vib3coded | 完整视频 · 提示词 / 过程 |
+| [一张参考图，重建多层城市街景 / From One Reference to a Multilevel City in Blender](https://carpentry-liu.github.io/awesome-astra-3d/cases/surexxxie-layered-city/) | yt (准备薄肌版) / @surexxxie | 作者展示 |
+| [平安夜雪橇：同一分镜的三份 3D 动画 / Christmas Eve: Three 3D Animations from One Brief](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-christmas-eve/) | Tony / @EnvolDev | 完整视频 |
+| [擎天柱初次变形：在线旋转与拆解 / Optimus Prime Transforms in an Interactive 3D Viewer](https://carpentry-liu.github.io/awesome-astra-3d/cases/fini-optimus-transformation/) | Fini.Yang / @FiniYang | 演示入口 · 完整视频 |
+| [掌机同题对比：三套机壳与屏幕游戏 / Three Game Boy Color Breakdowns with In-Screen Games](https://carpentry-liu.github.io/awesome-astra-3d/cases/aijoey-game-boy-color/) | Joey / @aijoey | 完整视频 · 提示词 / 过程 |
+| [Windward：从海滩走到珊瑚礁，再飞回岸上 / Windward: Walk, Dive and Fly through a Procedural Island](https://carpentry-liu.github.io/awesome-astra-3d/cases/jordanz-windward/) | Jordan Zabady / u/WhyAreYouSqueezingMe | 源码 / 工程 · 演示入口 · Fable 5.2 · 提示词 / 过程 |
+| [林间机器人短片：用 Blender 和云 GPU 出片 / A Woodland Robot Short Rendered in Blender on Cloud GPUs](https://carpentry-liu.github.io/awesome-astra-3d/cases/riley-fable-gpu-animation/) | Riley Brown / @rileybrown | 完整视频 · Fable 5.2 |
+| [厦门高崎机场：把卫星地面材质与机场模型接起来 / Xiamen Gaoqi Airport: Combining Imagery and 3D Airport Geometry](https://carpentry-liu.github.io/awesome-astra-3d/cases/dianxianmian-xiamen-airport/) | 点线面3D | Fable 5.2 |
+| [Snow Day：在 Claude Artifact 里打一场 3D 雪仗 / Snow Day: A 3D Snowball Fight Inside a Claude Artifact](https://carpentry-liu.github.io/awesome-astra-3d/cases/pappkin-snow-day/) | u/Fit-Version-7192 | Fable 5.2 |
+| [SANDLINE：把 3D 资产、贴图与实机录制接成一条流程 / SANDLINE: From 3D Assets and Textures to a Gameplay Recording](https://carpentry-liu.github.io/awesome-astra-3d/cases/gkx-sandline/) | 余温 / @gkxspace | 完整视频 · Fable 5.2 |
+| [Three.js 海战：从开船到进港升级 / A Three.js Pirate Game with Sailing, Loot and Ship Upgrades](https://carpentry-liu.github.io/awesome-astra-3d/cases/vib3coded-pirate-game/) | Vib3Coded / @vib3coded | 完整视频 · Fable 5.2 · 提示词 / 过程 |
+
 ## 2026-11-23 · 24 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
