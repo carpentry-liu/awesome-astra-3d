@@ -2,6 +2,28 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-11-25 · 17 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [伊斯坦布尔地下水宫：两次二十秒穿行 / Istanbul’s Basilica Cistern: Two Unbroken Three.js Walkthroughs](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-istanbul-cistern/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [Saffron Canopy：三次从海岛上空下降 / Saffron Canopy: Three Descents over a Tropical Coast](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-saffron-canopy/) | Tony / @EnvolDev | 完整视频 |
+| [Blender 正交参考面：从角色设定图到绑定动画 / From Orthographic Reference Planes to a Rigged Blender Character](https://carpentry-liu.github.io/awesome-astra-3d/cases/mweman-ortho-character/) | u/mweman | 提示词 / 过程 |
+| [圣米歇尔山风格岛镇：在 Unreal 里移动一条路 / A Mont-Saint-Michel-Style Town Built with Editable Unreal Paths](https://carpentry-liu.github.io/awesome-astra-3d/cases/rewind-saint-michel/) | rewind / @rewind02 | 完整视频 · 提示词 / 过程 |
+| [Slipstream：同一辆概念赛车的两种风洞演示 / Slipstream: Two Code-Only Takes on a Formula Car in a Wind Tunnel](https://carpentry-liu.github.io/awesome-astra-3d/cases/diegocabezas-wind-tunnel/) | Diego \| AI 🚀 - e/acc / @diegocabezas01 | 完整视频 · 提示词 / 过程 |
+| [悬浮深海生态缸：四层海水与发光的海床 / A Floating Deep-Sea Tank in Two Three.js Builds](https://carpentry-liu.github.io/awesome-astra-3d/cases/fini-deep-sea-tank/) | Fini.Yang / @FiniYang | 完整视频 |
+| [Saltmere：把潮汐和海岸做成互动界面 / Saltmere: An Interactive Coastal Field Study](https://carpentry-liu.github.io/awesome-astra-3d/cases/meng-saltmere/) | Meng To / @MengTo | 演示入口 · 完整视频 |
+| [亚洲一号：圆筒太空城全景 / Asia One: A Panoramic Space City from The Three-Body Problem](https://carpentry-liu.github.io/awesome-astra-3d/cases/w1379-asia-one-space-city/) | w1379 | 演示入口 |
+| [EVA 场景制作：同一机械参考的两版短片 / Two 3D Reinterpretations of an Evangelion-Inspired Scene](https://carpentry-liu.github.io/awesome-astra-3d/cases/photogarrido-eva-recreation/) | David Garrido / @PhotoGarrido | 完整视频 |
+| [严岛潮汐：同题制作日落中的红鸟居 / Itsukushima at Sunset: Two Takes on the Floating Torii](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-itsukushima-tide/) | Teddy / @teddyaisi | 完整视频 |
+| [同题重建游戏房屋：Astra 与 GLM-5.4 / One Game-House Brief, with Astra and GLM-5.4](https://carpentry-liu.github.io/awesome-astra-3d/cases/dagou-glm-astra-building/) | 人工大黑 | 作者展示 |
+| [Brushwild：走进手绘质感的开放世界 / Brushwild: A Procedural Open-World RPG in One HTML File](https://carpentry-liu.github.io/awesome-astra-3d/cases/kevin-procedural-rpg/) | Kevin Ngo / @kevin_t_ngo | 源码 / 工程 · 完整视频 · Fable 5.2 |
+| [极地天线阵列：从概念画到整段 Blender 海岸 / Arctic Radio Dishes: From Concept Painting to a Blender Coast](https://carpentry-liu.github.io/awesome-astra-3d/cases/apek-arctic-radio-dishes/) | apek / @apekshik | 完整视频 · Fable 5.2 |
+| [回廊机甲短片：用 Python 搭建 Blender 镜头 / A Mech in a Ruined Colonnade, Animated in Blender](https://carpentry-liu.github.io/awesome-astra-3d/cases/kevin-colonnade-mech-film/) | Kevin Ngo / @kevin_t_ngo | 完整视频 · Fable 5.2 |
+| [体素森林小游戏：用截图和无头试玩验收 / A Voxel Forest Game Built with Model Roles and Playtest Gates](https://carpentry-liu.github.io/awesome-astra-3d/cases/that1-fable-team-voxel-game/) | That1AiGuy / @That1AiGuy | 完整视频 · Fable 5.2 |
+| [Cinderwatch：一份 HTML 的等距塔防 / Cinderwatch: An Isometric Tower Defense in One HTML File](https://carpentry-liu.github.io/awesome-astra-3d/cases/kevin-cinderwatch-fable/) | Kevin Ngo / @kevin_t_ngo | 源码 / 工程 · 演示入口 · 完整视频 · Fable 5.2 |
+| [复古眼镜舞步：12 帧 Sunburst 循环 / Retro Disco: A Twelve-Frame Sunburst GIF](https://carpentry-liu.github.io/awesome-astra-3d/cases/useapi-retro-disco-gif/) | UseAPI / u/useapi_net | GIF 动图（独立分组） · 提示词 / 过程 |
+
 ## 2026-11-24 · 12 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

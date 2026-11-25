@@ -1,13 +1,18 @@
 # 案例目录
 
-由 `data/cases.json` 生成。最近核查：2026-11-24。[上手路线](START_HERE.md) · [最新收录](UPDATES.md)。作品归属基于公开来源，不代表独立复现。
+由 `data/cases.json` 生成。最近核查：2026-11-25。[上手路线](START_HERE.md) · [最新收录](UPDATES.md)。作品归属基于公开来源，不代表独立复现。
 
-## GPT-6 / 6.2 Astra 案例（556）
+## GPT-6 / 6.2 Astra 案例（567）
 
 ### 建筑可视化
 
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
+| [伊斯坦布尔地下水宫：两次二十秒穿行](https://x.com/teddyaisi/status/2125260781176709333) | Teddy / @teddyaisi · X | 作者自述 | [视频](https://x.com/teddyaisi/status/2125260781176709333) · [提示词/过程](https://x.com/teddyaisi/status/2125260781176709333) |
+| [圣米歇尔山风格岛镇：在 Unreal 里移动一条路](https://x.com/rewind02/status/2125243173651771643) | rewind / @rewind02 · X | 作者自述 | [视频](https://x.com/rewind02/status/2125243173651771643) · [提示词/过程](https://x.com/rewind02/status/2125243173651771643) |
+| [亚洲一号：圆筒太空城全景](https://www.bilibili.com/video/BV1YtyZzLEpY/) | w1379 · Bilibili | 作者自述 | [在线作品](https://w1379.com/asia-one/) · [视频](https://www.bilibili.com/video/BV1YtyZzLEpY/) |
+| [严岛潮汐：同题制作日落中的红鸟居](https://x.com/teddyaisi/status/2125167548702294506) | Teddy / @teddyaisi · X | 作者自述 | [视频](https://x.com/teddyaisi/status/2125167548702294506) |
+| [同题重建游戏房屋：Astra 与 GLM-5.4](https://www.bilibili.com/video/BV1eQ1czxE7z/) | 人工大黑 · Bilibili | 作者自述 | [视频](https://www.bilibili.com/video/BV1eQ1czxE7z/?t=208) |
 | [1915 年旧金山世博会：用 Blender 重建历史影像](https://x.com/OpenAIDevs/status/2124944225955639430) | OpenAI Developers / @OpenAIDevs · X | 官方展示 | [视频](https://x.com/OpenAIDevs/status/2124944225955639430) |
 | [维多利亚玻璃温室：同题做两条清晨漫游](https://x.com/teddyaisi/status/2124721602856354005) | Teddy / @teddyaisi · X | 作者自述 | [视频](https://x.com/teddyaisi/status/2124721602856354005) |
 | [《哈利·波特》陋居：暖窗光照亮夜间山谷](https://x.com/sshayahmet/status/2124623412882702825) | Serik / @sshayahmet · X | 作者自述 | [视频](https://x.com/sshayahmet/status/2124623412882702825) |
@@ -25,6 +30,8 @@
 
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
+| [Saffron Canopy：三次从海岛上空下降](https://x.com/EnvolDev/status/2125325740321460454) | Tony / @EnvolDev · X | 作者自述 | [视频](https://x.com/EnvolDev/status/2125325740321460454) |
+| [EVA 场景制作：同一机械参考的两版短片](https://x.com/PhotoGarrido/status/2125212057108688979) | David Garrido / @PhotoGarrido · X | 作者自述 | [视频](https://x.com/PhotoGarrido/status/2125212057108688979) |
 | [同一个步行机任务，两种 3D 工作流](https://x.com/vib3coded/status/2124899286739816771) | Vib3Coded / @vib3coded · X | 作者自述 | [视频](https://x.com/vib3coded/status/2124899286739816771) · [提示词/过程](https://x.com/vib3coded/status/2124899286739816771) |
 | [平安夜雪橇：同一分镜的三份 3D 动画](https://x.com/EnvolDev/status/2124916325051166884) | Tony / @EnvolDev · X | 作者自述 | [视频](https://x.com/EnvolDev/status/2124916325051166884) |
 | [擎天柱初次变形：在线旋转与拆解](https://x.com/FiniYang/status/2124839248679637440) | Fini.Yang / @FiniYang · X | 作者自述 | [在线作品](https://optimus.finiyang.com/) · [视频](https://x.com/FiniYang/status/2124839248679637440) |
@@ -77,6 +84,7 @@
 
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
+| [Blender 正交参考面：从角色设定图到绑定动画](https://www.reddit.com/r/TopologyAI/comments/1y4ixb2/astra_modeling_with_orthographic_reference_planes/) | u/mweman · Reddit | 作者自述 | [视频](https://v.redd.it/wrj3kk6rbl3i1/CMAF_1080.mp4?source=fallback) · [提示词/过程](https://www.reddit.com/r/TopologyAI/comments/1y4ixb2/astra_modeling_with_orthographic_reference_planes/) |
 | [一张参考图，重建多层城市街景](https://x.com/surexxxie/status/2124904385679650958) | yt (准备薄肌版) / @surexxxie · X | 作者自述 | 原帖展示 |
 | [一张演唱会照片，重建机器人和舞台灯束](https://x.com/Seven_starsA/status/2124733827985920037) | Sanchez / @Seven_starsA · X | 作者自述 | [视频](https://x.com/Seven_starsA/status/2124733827985920037) · [提示词/过程](https://x.com/Seven_starsA/status/2124733831140061293) |
 | [从输入到仓房成片：36 秒看见 Blender 工程](https://x.com/surexxxie/status/2124693370941657243) | yt (准备薄肌版) / @surexxxie · X | 作者自述 | [视频](https://x.com/surexxxie/status/2124693370941657243) |
@@ -136,20 +144,11 @@
 | [AURELION-07：可编辑科幻巡洋舰](https://developers.openai.com/blog/architectural-visualization-with-astra) | Thomas Ricouard · OpenAI | 官方展示 | [提示词/过程](https://developers.openai.com/blog/architectural-visualization-with-astra#design-beyond-architecture) |
 | [拖拉机总成：长时间建模与动画实验](https://www.reddit.com/r/codex/comments/1wb8wgr/gpt6_astra_max_spent_7_hours_building_a_fully/) | yo_hello_123 · Reddit | 作者自述 | [提示词/过程](https://www.reddit.com/r/codex/comments/1wb8wgr/gpt6_astra_max_spent_7_hours_building_a_fully/) |
 
-### 3D 网页
-
-| 作品 | 作者 / 来源 | 证据 | 产物与过程 |
-|---|---|---|---|
-| [掌机同题对比：三套机壳与屏幕游戏](https://x.com/aijoey/status/2124853490165960815) | Joey / @aijoey · X | 作者自述 | [视频](https://x.com/aijoey/status/2124853490165960815) · [提示词/过程](https://x.com/aijoey/status/2124853490165960815) |
-| [Studio Glass：一张能调光的书桌](https://x.com/MengTo/status/2124431846859813234) | Meng To / @MengTo · X | 作者自述 | [在线作品](https://threeui.com/studio-glass) · [视频](https://x.com/MengTo/status/2124431846859813234) |
-| [Brain Jelly 会回弹的果冻脑](https://x.com/vib3coded/status/2116632234916749597) | Vib3Coded / @vib3coded · X | 作者自述 | [在线作品](https://brain-jelly.vercel.app/) · [视频](https://x.com/vib3coded/status/2116632234916749597) · [提示词/过程](https://x.com/vib3coded/status/2116632336494190710) |
-| [同一句话，两座锦鲤池：Astra 与 Opus 对照](https://x.com/keydol123/status/2111817735181332826) | Harry Jackson / @keydol123 · X | 作者自述 | [视频](https://x.com/keydol123/status/2111817735181332826) · [提示词/过程](https://x.com/keydol123/status/2111817735181332826) |
-| [Object Lab：十五个滚动驱动三维故事](https://github.com/SafaElmali/interactive-3d-lab) | SafaElmali · GitHub | 作者自述 | [在线作品](https://object-lab-3d.netlify.app) · [源码](https://github.com/SafaElmali/interactive-3d-lab) |
-
 ### 程序化场景
 
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
+| [Slipstream：同一辆概念赛车的两种风洞演示](https://x.com/diegocabezas01/status/2125214350843498981) | Diego \| AI 🚀 - e/acc / @diegocabezas01 · X | 作者自述 | [视频](https://x.com/diegocabezas01/status/2125214350843498981) · [提示词/过程](https://x.com/diegocabezas01/status/2125214350843498981) |
 | [Momiji Creek：沿着秋日溪流追拍鹡鸰](https://x.com/MengTo/status/2124548934270161077) | Meng To / @MengTo · X | 作者自述 | [在线作品](https://threeui.com/landing-pages/momiji-creek.html) · [视频](https://x.com/MengTo/status/2124548934270161077) |
 | [同一句铁路场景任务，三个模型怎么运镜](https://x.com/PlanSmit/status/2124664847480803504) | Atif / @PlanSmit · X | 作者自述 | [视频](https://x.com/PlanSmit/status/2124664847480803504) |
 | [沉没神殿：20 秒的水下 Three.js 镜头](https://x.com/teddyaisi/status/2124535879041761737) | Teddy / @teddyaisi · X | 作者自述 | [视频](https://x.com/teddyaisi/status/2124535879041761737) |
@@ -263,6 +262,7 @@
 
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
+| [悬浮深海生态缸：四层海水与发光的海床](https://x.com/FiniYang/status/2125132455032316136) | Fini.Yang / @FiniYang · X | 作者自述 | [视频](https://x.com/FiniYang/status/2125132455032316136) |
 | [透明台式机：按一次电源，看三套开机动画](https://x.com/liushang1258/status/2124730524325622010) | 流觞 / @liushang1258 · X | 作者自述 | [视频](https://x.com/liushang1258/status/2124730524325622010) · [提示词/过程](https://x.com/liushang1258/status/2124731054414303730) |
 | [30 秒拆开一台电脑，最后连芯片也拆了](https://x.com/aijoey/status/2123684286318669976) | Joey / @aijoey · X | 作者自述 | [视频](https://x.com/aijoey/status/2123684286318669976) |
 | [油罐车透明剖面：同一路线看三种液体晃动](https://x.com/TokenGremlin/status/2124171631320875451) | Token Gremlin / @TokenGremlin · X | 作者自述 | [视频](https://x.com/TokenGremlin/status/2124171631320875451) |
@@ -286,6 +286,17 @@
 | [USS Enterprise：星舰 CAD 装配展示](https://x.com/DeryaTR_/status/2095641163441254676) | Derya Unutmaz (@DeryaTR_) · X | 转引待复核 | [视频](https://x.com/DeryaTR_/status/2095641163441254676) |
 | [机械光圈对照：保留原始生成代码与失败记录](https://github.com/teshnizi2/astra-fable-3d-iris) | teshnizi2 · GitHub | 作者自述 | [源码](https://github.com/teshnizi2/astra-fable-3d-iris) · [视频](https://github.com/teshnizi2/astra-fable-3d-iris/blob/main/evidence/high/comparison-high.mp4) · [提示词/过程](https://github.com/teshnizi2/astra-fable-3d-iris/blob/main/PROMPT.md) |
 | [电脑主机拆解：逐层查看核心部件](https://x.com/icooperhero/status/2096578761877860502) | cooper / @icooperhero · X | 转引待复核 | [视频](https://x.com/icooperhero/status/2096578761877860502) |
+
+### 3D 网页
+
+| 作品 | 作者 / 来源 | 证据 | 产物与过程 |
+|---|---|---|---|
+| [Saltmere：把潮汐和海岸做成互动界面](https://x.com/MengTo/status/2125125308991090749) | Meng To / @MengTo · X | 作者自述 | [在线作品](https://threeui.com/saltmere) · [视频](https://x.com/MengTo/status/2125125308991090749) |
+| [掌机同题对比：三套机壳与屏幕游戏](https://x.com/aijoey/status/2124853490165960815) | Joey / @aijoey · X | 作者自述 | [视频](https://x.com/aijoey/status/2124853490165960815) · [提示词/过程](https://x.com/aijoey/status/2124853490165960815) |
+| [Studio Glass：一张能调光的书桌](https://x.com/MengTo/status/2124431846859813234) | Meng To / @MengTo · X | 作者自述 | [在线作品](https://threeui.com/studio-glass) · [视频](https://x.com/MengTo/status/2124431846859813234) |
+| [Brain Jelly 会回弹的果冻脑](https://x.com/vib3coded/status/2116632234916749597) | Vib3Coded / @vib3coded · X | 作者自述 | [在线作品](https://brain-jelly.vercel.app/) · [视频](https://x.com/vib3coded/status/2116632234916749597) · [提示词/过程](https://x.com/vib3coded/status/2116632336494190710) |
+| [同一句话，两座锦鲤池：Astra 与 Opus 对照](https://x.com/keydol123/status/2111817735181332826) | Harry Jackson / @keydol123 · X | 作者自述 | [视频](https://x.com/keydol123/status/2111817735181332826) · [提示词/过程](https://x.com/keydol123/status/2111817735181332826) |
+| [Object Lab：十五个滚动驱动三维故事](https://github.com/SafaElmali/interactive-3d-lab) | SafaElmali · GitHub | 作者自述 | [在线作品](https://object-lab-3d.netlify.app) · [源码](https://github.com/SafaElmali/interactive-3d-lab) |
 
 ### 3D 游戏
 
@@ -630,7 +641,43 @@
 | [GPS：用三维球面讲清定位的连续故事](https://github.com/Citaborg/how-does-gps-work) | Lars Thomas Bredland / Citaborg · GitHub | 作者自述 | [在线作品](https://www.bredland.no/gps/gpt-6-astra/) · [源码](https://github.com/Citaborg/how-does-gps-work/tree/main/GPT6-Astra-xhigh) · [提示词/过程](https://github.com/Citaborg/how-does-gps-work/blob/main/USER_PROMPTS.md) |
 | [OpenEngineering：机械原理三维交互讲解](https://github.com/gulnoorCheema/OpenEngineering) | gulnoorCheema · GitHub | 作者自述 | [在线作品](https://gulnoorcheema.github.io/OpenEngineering/) · [源码](https://github.com/gulnoorCheema/OpenEngineering) |
 
-## Claude Fable 5.2 案例（29）
+## Claude Fable 5.2 案例（34）
+
+### 3D 游戏
+
+| 作品 | 作者 / 来源 | 证据 | 产物与过程 |
+|---|---|---|---|
+| [Brushwild：走进手绘质感的开放世界](https://x.com/kevin_t_ngo/status/2125321244686029289) | Kevin Ngo / @kevin_t_ngo · X | 作者自述 | [源码](https://github.com/kevintngo/procedural-rpg) · [视频](https://x.com/kevin_t_ngo/status/2125321244686029289) |
+| [体素森林小游戏：用截图和无头试玩验收](https://x.com/That1AiGuy/status/2125308046075449476) | That1AiGuy / @That1AiGuy · X | 作者自述 | [视频](https://x.com/That1AiGuy/status/2125308046075449476) |
+| [Cinderwatch：一份 HTML 的等距塔防](https://x.com/kevin_t_ngo/status/2125119969109418333) | Kevin Ngo / @kevin_t_ngo · X | 作者自述 | [在线作品](https://kevintngo.github.io/cinderwatch/) · [源码](https://github.com/kevintngo/cinderwatch) · [视频](https://x.com/kevin_t_ngo/status/2125119969109418333) |
+| [亚特兰蒂斯：单个 HTML 里飞过一座水下城](https://www.reddit.com/r/ClaudeAI/comments/1y1yve8/i_vibecoded_a_flyable_atlantis_in_one_96_kb_html/) | Noniv / u/Any-Reputation8118 · Reddit | 作者自述 | [在线作品](https://noniv.github.io/atlantis/) · [源码](https://github.com/Noniv/atlantis) · [视频](https://v.redd.it/mvdvmg4w6z2i1/CMAF_720.mp4?source=fallback) · [提示词/过程](https://github.com/Noniv/atlantis/blob/main/prompt.txt) |
+| [Castle Valley：走进一座油画质感的幻想山谷](https://x.com/__morse/status/2122013410309153042) | Tommy D. Rossi / @__morse · X | 作者自述 | [在线作品](https://omw-game.kimaki.dev/) · [源码](https://github.com/remorses/castle-valley) · [视频](https://x.com/__morse/status/2122013410309153042) |
+| [Three.js 回合制原型：四张参考图变成四个角色](https://x.com/MengTo/status/2123355714693521766) | Meng To / @MengTo · X | 作者自述 | [视频](https://x.com/MengTo/status/2123355714693521766) |
+| [Boo-mas：拖着一串灯，点亮整颗下雪的小星球](https://www.reddit.com/r/ClaudeGameDev/comments/1xzmi58/fable_52_oneshot_christmas_game/) | Robin Duckett / u/haxd · GitHub | 作者自述 | [在线作品](https://robinduckett.github.io/boo-mas/) · [源码](https://github.com/robinduckett/boo-mas) · [视频](https://v.redd.it/y2x2jtbuwe2i1/CMAF_1080.mp4?source=fallback) · [提示词/过程](https://www.reddit.com/r/ClaudeGameDev/comments/1xzmi58/fable_52_oneshot_christmas_game/) |
+| [从半截潜艇醒来：Fable 的水下生存游戏](https://x.com/ChrisGPT/status/2122866766590173419) | Chris / @ChrisGPT · X | 作者自述 | [视频](https://x.com/ChrisGPT/status/2122866766590173419) · [提示词/过程](https://x.com/ChrisGPT/status/2122866766590173419) |
+| [VICE ’86：用程序生成城市、车库与驾驶体验](https://x.com/AravSrinivas/status/2122338465648103676) | Aravind Srinivas / @AravSrinivas · X | 作者自述 | [视频](https://x.com/AravSrinivas/status/2122338465648103676) |
+| [暗黑风浏览器游戏：从灰盒到布光与关卡](https://x.com/MengTo/status/2121896633848017145) | Meng To / @MengTo · X | 作者自述 | [视频](https://x.com/MengTo/status/2121896633848017145) · [提示词/过程](https://x.com/MengTo/status/2121896633848017145) |
+
+### 建筑可视化
+
+| 作品 | 作者 / 来源 | 证据 | 产物与过程 |
+|---|---|---|---|
+| [极地天线阵列：从概念画到整段 Blender 海岸](https://x.com/apekshik/status/2125313162815889411) | apek / @apekshik · X | 作者自述 | [视频](https://x.com/apekshik/status/2125313162815889411) |
+| [厦门高崎机场：把卫星地面材质与机场模型接起来](https://www.bilibili.com/video/BV1SPynzKEnx/) | 点线面3D · Bilibili | 作者自述 | [视频](https://www.bilibili.com/video/BV1SPynzKEnx/) |
+| [把常去的午餐店做成三维模型与 AR 导览](https://x.com/Trace_AR/status/2121284000232714559) | Trace / @Trace_AR · X | 作者自述 | [视频](https://x.com/Trace_AR/status/2121284000232714559) |
+
+### 角色与动画
+
+| 作品 | 作者 / 来源 | 证据 | 产物与过程 |
+|---|---|---|---|
+| [回廊机甲短片：用 Python 搭建 Blender 镜头](https://x.com/kevin_t_ngo/status/2125382762861580571) | Kevin Ngo / @kevin_t_ngo · X | 作者自述 | [视频](https://x.com/kevin_t_ngo/status/2125382762861580571) |
+| [林间机器人短片：用 Blender 和云 GPU 出片](https://x.com/rileybrown/status/2124955587486032096) | Riley Brown / @rileybrown · X | 作者自述 | [视频](https://x.com/rileybrown/status/2124955587486032096) |
+| [四台笔记本电脑：17 个镜头拍完一张 Blender 书桌](https://x.com/socialwithrehan/status/2124723054144266541) | Rehan Tahir / @socialwithrehan · X | 作者自述 | [视频](https://x.com/socialwithrehan/status/2124723054144266541) |
+| [《Daisy Bell》：两台小机器人在 Three.js 里合唱](https://x.com/kevin_t_ngo/status/2124627860153610751) | Kevin Ngo / @kevin_t_ngo · X | 作者自述 | [视频](https://x.com/kevin_t_ngo/status/2124627860153610751) |
+| [机械犬队列：从单个资产到同步步态](https://x.com/mintdotgg/status/2124715451397923149) | mint / @mintdotgg · X | 作者自述 | [视频](https://x.com/mintdotgg/status/2124715451397923149) |
+| [Cat Garden：用猫的视角穿过微缩花园](https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/cat-garden-v1.0/cat-garden) | BubbleBrainBB · GitHub | 作者自述 | [源码](https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/cat-garden-v1.0/cat-garden/src) · [视频](https://github.com/BubbleBrainBB/awesome-fable-5.2/releases/download/cat-garden-v1.0/cat_garden.mp4) · [提示词/过程](https://github.com/BubbleBrainBB/awesome-fable-5.2/blob/cat-garden-v1.0/cat-garden/README.md) |
+| [Blender 角色动画：表情、衣摆与镜头同时动起来](https://x.com/Yokohara_h/status/2121301810363465749) | Hirokazu Yokohara / @Yokohara_h · X | 作者自述 | [视频](https://x.com/Yokohara_h/status/2121301810363465749) · [提示词/过程](https://x.com/Yokohara_h/status/2121301810363465749) |
+| [三维抓娃娃机：同一短动画的四个版本](https://x.com/mmmarcus_ai/status/2122359273996837281) | Marcus \| AI / @mmmarcus_ai · X | 作者自述 | [在线作品](https://automators.site/battles/claw-machine-grabbing-plush-cartoon-animation) · [视频](https://x.com/mmmarcus_ai/status/2122359273996837281) · [提示词/过程](https://automators.site/battles/claw-machine-grabbing-plush-cartoon-animation) |
 
 ### 3D 网页
 
@@ -641,25 +688,6 @@
 | [SANDLINE：把 3D 资产、贴图与实机录制接成一条流程](https://x.com/gkxspace/status/2124855202314600663) | 余温 / @gkxspace · X | 作者自述 | [视频](https://x.com/gkxspace/status/2124855202314600663) |
 | [Three.js 海战：从开船到进港升级](https://x.com/vib3coded/status/2124821725497917835) | Vib3Coded / @vib3coded · X | 作者自述 | [视频](https://x.com/vib3coded/status/2124821725497917835) · [提示词/过程](https://x.com/vib3coded/status/2124821725497917835) |
 | [Just One More：每刷一次，三维大脑都变一点](https://www.reddit.com/r/ClaudeDesign/comments/1y1t5kq/presenting_this_to_doomscrollers_built_with_fable/) | u/Fit_Opportunity_2261 · Reddit | 作者自述 | [视频](https://v.redd.it/tfp53beirx2i1/CMAF_720.mp4?source=fallback) |
-
-### 角色与动画
-
-| 作品 | 作者 / 来源 | 证据 | 产物与过程 |
-|---|---|---|---|
-| [林间机器人短片：用 Blender 和云 GPU 出片](https://x.com/rileybrown/status/2124955587486032096) | Riley Brown / @rileybrown · X | 作者自述 | [视频](https://x.com/rileybrown/status/2124955587486032096) |
-| [四台笔记本电脑：17 个镜头拍完一张 Blender 书桌](https://x.com/socialwithrehan/status/2124723054144266541) | Rehan Tahir / @socialwithrehan · X | 作者自述 | [视频](https://x.com/socialwithrehan/status/2124723054144266541) |
-| [《Daisy Bell》：两台小机器人在 Three.js 里合唱](https://x.com/kevin_t_ngo/status/2124627860153610751) | Kevin Ngo / @kevin_t_ngo · X | 作者自述 | [视频](https://x.com/kevin_t_ngo/status/2124627860153610751) |
-| [机械犬队列：从单个资产到同步步态](https://x.com/mintdotgg/status/2124715451397923149) | mint / @mintdotgg · X | 作者自述 | [视频](https://x.com/mintdotgg/status/2124715451397923149) |
-| [Cat Garden：用猫的视角穿过微缩花园](https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/cat-garden-v1.0/cat-garden) | BubbleBrainBB · GitHub | 作者自述 | [源码](https://github.com/BubbleBrainBB/awesome-fable-5.2/tree/cat-garden-v1.0/cat-garden/src) · [视频](https://github.com/BubbleBrainBB/awesome-fable-5.2/releases/download/cat-garden-v1.0/cat_garden.mp4) · [提示词/过程](https://github.com/BubbleBrainBB/awesome-fable-5.2/blob/cat-garden-v1.0/cat-garden/README.md) |
-| [Blender 角色动画：表情、衣摆与镜头同时动起来](https://x.com/Yokohara_h/status/2121301810363465749) | Hirokazu Yokohara / @Yokohara_h · X | 作者自述 | [视频](https://x.com/Yokohara_h/status/2121301810363465749) · [提示词/过程](https://x.com/Yokohara_h/status/2121301810363465749) |
-| [三维抓娃娃机：同一短动画的四个版本](https://x.com/mmmarcus_ai/status/2122359273996837281) | Marcus \| AI / @mmmarcus_ai · X | 作者自述 | [在线作品](https://automators.site/battles/claw-machine-grabbing-plush-cartoon-animation) · [视频](https://x.com/mmmarcus_ai/status/2122359273996837281) · [提示词/过程](https://automators.site/battles/claw-machine-grabbing-plush-cartoon-animation) |
-
-### 建筑可视化
-
-| 作品 | 作者 / 来源 | 证据 | 产物与过程 |
-|---|---|---|---|
-| [厦门高崎机场：把卫星地面材质与机场模型接起来](https://www.bilibili.com/video/BV1SPynzKEnx/) | 点线面3D · Bilibili | 作者自述 | [视频](https://www.bilibili.com/video/BV1SPynzKEnx/) |
-| [把常去的午餐店做成三维模型与 AR 导览](https://x.com/Trace_AR/status/2121284000232714559) | Trace / @Trace_AR · X | 作者自述 | [视频](https://x.com/Trace_AR/status/2121284000232714559) |
 
 ### 拆解与剖面
 
@@ -673,18 +701,6 @@
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
 | [Shearcasting Lab：同一体素车，比较两种像素渲染](https://x.com/That1AiGuy/status/2124712739369005248) | That1AiGuy / @That1AiGuy · X | 作者自述 | [视频](https://x.com/That1AiGuy/status/2124712739369005248) |
-
-### 3D 游戏
-
-| 作品 | 作者 / 来源 | 证据 | 产物与过程 |
-|---|---|---|---|
-| [亚特兰蒂斯：单个 HTML 里飞过一座水下城](https://www.reddit.com/r/ClaudeAI/comments/1y1yve8/i_vibecoded_a_flyable_atlantis_in_one_96_kb_html/) | Noniv / u/Any-Reputation8118 · Reddit | 作者自述 | [在线作品](https://noniv.github.io/atlantis/) · [源码](https://github.com/Noniv/atlantis) · [视频](https://v.redd.it/mvdvmg4w6z2i1/CMAF_720.mp4?source=fallback) · [提示词/过程](https://github.com/Noniv/atlantis/blob/main/prompt.txt) |
-| [Castle Valley：走进一座油画质感的幻想山谷](https://x.com/__morse/status/2122013410309153042) | Tommy D. Rossi / @__morse · X | 作者自述 | [在线作品](https://omw-game.kimaki.dev/) · [源码](https://github.com/remorses/castle-valley) · [视频](https://x.com/__morse/status/2122013410309153042) |
-| [Three.js 回合制原型：四张参考图变成四个角色](https://x.com/MengTo/status/2123355714693521766) | Meng To / @MengTo · X | 作者自述 | [视频](https://x.com/MengTo/status/2123355714693521766) |
-| [Boo-mas：拖着一串灯，点亮整颗下雪的小星球](https://www.reddit.com/r/ClaudeGameDev/comments/1xzmi58/fable_52_oneshot_christmas_game/) | Robin Duckett / u/haxd · GitHub | 作者自述 | [在线作品](https://robinduckett.github.io/boo-mas/) · [源码](https://github.com/robinduckett/boo-mas) · [视频](https://v.redd.it/y2x2jtbuwe2i1/CMAF_1080.mp4?source=fallback) · [提示词/过程](https://www.reddit.com/r/ClaudeGameDev/comments/1xzmi58/fable_52_oneshot_christmas_game/) |
-| [从半截潜艇醒来：Fable 的水下生存游戏](https://x.com/ChrisGPT/status/2122866766590173419) | Chris / @ChrisGPT · X | 作者自述 | [视频](https://x.com/ChrisGPT/status/2122866766590173419) · [提示词/过程](https://x.com/ChrisGPT/status/2122866766590173419) |
-| [VICE ’86：用程序生成城市、车库与驾驶体验](https://x.com/AravSrinivas/status/2122338465648103676) | Aravind Srinivas / @AravSrinivas · X | 作者自述 | [视频](https://x.com/AravSrinivas/status/2122338465648103676) |
-| [暗黑风浏览器游戏：从灰盒到布光与关卡](https://x.com/MengTo/status/2121896633848017145) | Meng To / @MengTo · X | 作者自述 | [视频](https://x.com/MengTo/status/2121896633848017145) · [提示词/过程](https://x.com/MengTo/status/2121896633848017145) |
 
 ### 程序化场景
 
@@ -701,12 +717,13 @@
 | [日落浮岛：两版 Blender 场景如何迭代](https://github.com/realcodebear/blender-fable-5.2) | RealCodeBear · GitHub | 作者自述 | [在线作品](https://realcodebear.github.io/blender-fable-5.2/#island) · [源码](https://github.com/realcodebear/blender-fable-5.2) · [提示词/过程](https://realcodebear.github.io/blender-fable-5.2/#prompts) |
 | [Shelby GT500：参照多视图在 Blender 里建车](https://x.com/maxt3chno/status/2121603388009775599) | Max / @maxt3chno · X | 作者自述 | [视频](https://x.com/maxt3chno/status/2121603388009775599) · [提示词/过程](https://x.com/maxt3chno/status/2121603721742127142) |
 
-## GPT-Image-2.6 GIF 动图（21）
+## GPT-Image-2.6 GIF 动图（22）
 
 ### 角色动图
 
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
+| [复古眼镜舞步：12 帧 Sunburst 循环](https://useapi.net/docs/articles/gpt-image-2-6-gif-api) | UseAPI / u/useapi_net · 作者网站 | 作者自述 | [原始 GIF](https://media.useapi.net/pixverse/2026-11-23-gpt-image-2-6-gif-article/gpt-image-2-6-sunburst-gif-christmas-disco-576x1024.gif) · [提示词/过程](https://www.reddit.com/r/PixVerse_AI/comments/1y42wvq/gpt_image_26_on_pixverse_now_makes_animated_gifs/) |
 | [纸狐狸 Sunburst：九帧剪纸循环](https://omniakey.com/blog/gpt-image-2-6-review) | OmniaKey · 作者网站 | 作者自述 | [原始 GIF](https://omniakey.com/blog/gpt-image-2-6-review/paper-fox.gif) |
 | [发条铁皮机器人：原生透明贴纸动图](https://www.segmind.com/@shrey/gpt-image-2-6) | Shrey Rajvanshi / Segmind · Segmind | 作者自述 | [原始 GIF](https://segmind-resources.s3.amazonaws.com/output/gpt-image-2.6-flare-example-transparent-sticker-07cc4813.gif) · [提示词/过程](https://www.segmind.com/@shrey/gpt-image-2-6) |
 | [挥手眨眼的牛油果贴纸](https://predis.ai/ai-models/gpt-image-2-6/) | Predis.ai · Predis.ai | 作者自述 | [原始 GIF](https://predis.ai/assets/img/ai-models/gpt-image-2-6/avocado.gif) · [提示词/过程](https://predis.ai/ai-models/gpt-image-2-6/) |
