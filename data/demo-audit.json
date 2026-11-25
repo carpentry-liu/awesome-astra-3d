@@ -1313,6 +1313,33 @@
       "result": "verified-interactive",
       "scope": "Entered the WebGPU scene in Chrome at Low quality, switched to flight and rendered the lagoon.",
       "browserEvidence": "Windward"
+    },
+    {
+      "id": "meng-saltmere",
+      "url": "https://threeui.com/saltmere",
+      "status": 200,
+      "observedAt": "2026-11-25",
+      "result": "verified-interactive",
+      "scope": "Rendered the embedded 3D site in Chrome and switched the specimen.",
+      "browserEvidence": "Saltmere"
+    },
+    {
+      "id": "w1379-asia-one-space-city",
+      "url": "https://w1379.com/asia-one/",
+      "status": 200,
+      "observedAt": "2026-11-25",
+      "result": "verified-rendered",
+      "scope": "Chrome rendered the author’s panoramic view of the space city.",
+      "browserEvidence": "Asia One"
+    },
+    {
+      "id": "kevin-cinderwatch-fable",
+      "url": "https://kevintngo.github.io/cinderwatch/",
+      "status": 200,
+      "observedAt": "2026-11-25",
+      "result": "verified-rendered",
+      "scope": "Rendered the isometric board in Chrome and observed the first wave.",
+      "browserEvidence": "Cinderwatch"
     }
   ]
 }

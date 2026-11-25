@@ -63,6 +63,20 @@ npm start
 
 面向 `main` 的 PR 运行检查、lint 和 Pages 构建，并用 `git diff --exit-code --stat` 确认受控的派生文件已随源数据提交。PR 不下载视频、不部署，也没有 Pages 写权限。[Pages 工作流](../.github/workflows/pages.yml) 在推送 `main` 或手动发布时才获取并校验完整播放文件，再部署。部署后核对公开 JSON、双语详情、metadata、截图和媒体地址；必要时全量 GET 新视频并比对 hash。
 
+## 内容验证（2026-11-25）
+
+新增 11 件 Astra 作品、5 件 Claude Fable 5.2 作品与 1 件原生 GIF，目录共 635 条。按上海时间，7 件首发于 11 月 25 日、9 件发表于 11 月 24 日。GIF 首发于 11 月 23 日，次日由同一作者发到 Reddit，两处文件一致。
+
+| 范围 | 实际检查 |
+| --- | --- |
+| 作者材料 | `node work/2026-11-25/play-demos.mjs` 验证 Saltmere 切换观察物和 Cinderwatch 的首波关卡，`probe-demos.mjs` 拍到了亚洲一号作者站的圆筒城 360° 全景。Brushwild 试玩页启动慢，本轮以实录核对。 |
+| 完整录像 | `py -3.13 work/2026-11-25/prepare-media.py` 比对 14 个 X 原帖和全部 15 段录像。30 个原版及播放版 MP4 共 402,057,484 字节，均通过全长解码。服务器 SHA-256 与 37 个 Release 附件一致。两段 B 站录像均通过完整解码，`bili-start.mjs` 验证原帖开始播放。Reddit 的 18.10 秒完整角色录像在 Chrome 播到结束。 [媒体 Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-25) |
+| 原生 GIF | 两处公开下载逐字节一致。12 帧像素各异，单帧 130 毫秒，循环 1.56 秒。Chrome 中首页与独立详情实拍帧均自动变化，暂停、恢复和减少动态效果均通过。 |
+| 构建 | `npm.cmd run catalog`、`npm.cmd run check` 和 `npm.cmd run lint` 通过，共 34 项测试。普通与 Pages 模式的 `npm.cmd run build` 各核查 1,314 个静态页、28,354 条本地引用、635 份详情 JSON 和 1,315 个站点地图地址。 |
+| 网站 | `node work/2026-11-25/browser-qa.mjs` 通过 21 项检查。15 段 X 录像均播到结尾，首页、最新筛选、双语详情和旧分享地址通过。1440、390 与 320 像素下没有页面横向溢出，测试页面无控制台错误或警告。 |
+
+中英文 README 同步更新作品实拍、直达链接和原始动图。 [四张页面实拍](media/README.md)
+
 ## 内容验证（2026-11-24）
 
 新增 12 件作品，Astra 和 Claude Fable 5.2 各 6 件。其中 6 件发表于上海时间 11 月 24 日，6 件为 11 月 23 日补录。Bloom Pool 在原档案中加上 11 月 24 日的第二轮对比。目录共 618 条，包括 21 件原生 GIF 和 12 条方法参考。

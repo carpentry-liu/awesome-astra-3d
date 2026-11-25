@@ -33441,6 +33441,638 @@
         }
       ],
       "scope": "Incremental creator source, cover and playback checks for November 24, 2026."
+    },
+    {
+      "checkedAt": "2026-11-25",
+      "round": "daily",
+      "addedCaseIds": [
+        "teddy-istanbul-cistern",
+        "envol-saffron-canopy",
+        "mweman-ortho-character",
+        "rewind-saint-michel",
+        "diegocabezas-wind-tunnel",
+        "fini-deep-sea-tank",
+        "meng-saltmere",
+        "w1379-asia-one-space-city",
+        "photogarrido-eva-recreation",
+        "teddy-itsukushima-tide",
+        "dagou-glm-astra-building",
+        "kevin-procedural-rpg",
+        "apek-arctic-radio-dishes",
+        "kevin-colonnade-mech-film",
+        "that1-fable-team-voxel-game",
+        "kevin-cinderwatch-fable",
+        "useapi-retro-disco-gif"
+      ],
+      "previewChecks": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2125259606867980288/img/3xvY3Fvpoa8iDqAh.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 231943,
+          "bytes": 231943,
+          "sha256": "af47657a2204d2d483be0009b0709f53061460d70ee7e333df018f2d182cefad",
+          "fullGet": true,
+          "caseId": "teddy-istanbul-cistern",
+          "sourceUrl": "https://x.com/teddyaisi/status/2125260781176709333",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1067,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2125325695203328000/img/H3WtOCAzX8mbrH5E.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 142020,
+          "bytes": 142020,
+          "sha256": "9cbe970992125f8f34536ea175779d8d9b345f3b3616f684b4b115029106a6e9",
+          "fullGet": true,
+          "caseId": "envol-saffron-canopy",
+          "sourceUrl": "https://x.com/EnvolDev/status/2125325740321460454",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            675,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "caseId": "mweman-ortho-character",
+          "archiveOrdinal": 1,
+          "timestampSeconds": 3.2,
+          "kind": "frame",
+          "subtype": "video-frame",
+          "filename": "mweman-ortho-character-1-frame.jpg",
+          "sourceUrl": "https://v.redd.it/wrj3kk6rbl3i1/CMAF_1080.mp4?source=fallback",
+          "dimensions": [
+            1200,
+            676
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 57198,
+          "sha256": "39debc947ce5c468aa41f2692af590f08c19dc95d5704f15994660399edd691a",
+          "assetId": 789588667,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-25/mweman-ortho-character-1-frame.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "rewind-saint-michel",
+          "archiveOrdinal": 1,
+          "timestampSeconds": 30,
+          "kind": "frame",
+          "subtype": "video-frame",
+          "filename": "rewind-saint-michel-1-frame.jpg",
+          "sourceUrl": "https://video.twimg.com/amplify_video/2125243034715516928/vid/avc1/1920x1080/9uJCfH0xImUrj4MQ.mp4?tag=29",
+          "dimensions": [
+            1200,
+            676
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 181254,
+          "sha256": "044d3563c612c148bec8214cd330c8ce2ec10bac23c57b9e2a0a7de5af69436e",
+          "assetId": 789588526,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-25/rewind-saint-michel-1-frame.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2124914840640589824/img/lvyLQyXCFhkLbdEp.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 86091,
+          "bytes": 86091,
+          "sha256": "5cc5cb247453d58412eeb757afa21ff99f10bf1a3b59e6b920a65f0dd010cc5b",
+          "fullGet": true,
+          "caseId": "diegocabezas-wind-tunnel",
+          "sourceUrl": "https://x.com/diegocabezas01/status/2125214350843498981",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            666
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2125235593474961408/img/rDF870cz6ZJ5u0pn.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 89122,
+          "bytes": 89122,
+          "sha256": "1bc761d782dbdb394994dd3d2c4c6489d4743b806842aa644cea10c14d7721e9",
+          "fullGet": true,
+          "caseId": "diegocabezas-wind-tunnel",
+          "sourceUrl": "https://x.com/diegocabezas01/status/2125281039375536571",
+          "archiveOrdinal": 2,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            658
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2125113891315388416/img/nX8aoqgBjVOSDmjJ.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 138220,
+          "bytes": 138220,
+          "sha256": "3d98da81e07ee9eb78c554ff48fecb2a1fdb56fa4b08479f1c22d77dee62fb63",
+          "fullGet": true,
+          "caseId": "fini-deep-sea-tank",
+          "sourceUrl": "https://x.com/FiniYang/status/2125132455032316136",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            980,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2125125173909340160/pu/img/JYYYwiTd5cTEaoP2.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 116123,
+          "bytes": 116123,
+          "sha256": "24d6ba8a63382db316fd8fc4aa93c8400a0f1a5bab1fd0cb02cef570ceb8e9ce",
+          "fullGet": true,
+          "caseId": "meng-saltmere",
+          "sourceUrl": "https://x.com/MengTo/status/2125125308991090749",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "caseId": "w1379-asia-one-space-city",
+          "url": "https://i0.hdslb.com/bfs/archive/1e365b14b5643cd1eaba18a0d605998b42098437.jpg",
+          "contentType": "image/jpeg",
+          "httpStatus": 200,
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "bytes": 276329,
+          "sha256": "4a4499bcb62853f777f62c03a73393b676598fda80ba0a6031a8fdf1432b631f",
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2125212018856579072/img/-fZYXcdBgG9xks-l.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 78570,
+          "bytes": 78570,
+          "sha256": "bc66f536af2d986beed708fb0a7d3bff0546fc91e558eeb2b1bf5c678989f081",
+          "fullGet": true,
+          "caseId": "photogarrido-eva-recreation",
+          "sourceUrl": "https://x.com/PhotoGarrido/status/2125212057108688979",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            960,
+            960
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2125212018894336000/img/F4jrXbvzglg4QimK.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 113167,
+          "bytes": 113167,
+          "sha256": "3595fcb9f349a8182d2e38c6f8ff0753cc8e082cfce39ee5963eb9801a3bca28",
+          "fullGet": true,
+          "caseId": "photogarrido-eva-recreation",
+          "sourceUrl": "https://x.com/PhotoGarrido/status/2125212057108688979",
+          "archiveOrdinal": 2,
+          "mediaIndex": 2,
+          "dimensions": [
+            1200,
+            660
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "caseId": "teddy-itsukushima-tide",
+          "archiveOrdinal": 1,
+          "timestampSeconds": 10,
+          "kind": "frame",
+          "subtype": "video-frame",
+          "filename": "teddy-itsukushima-tide-1-frame.jpg",
+          "sourceUrl": "https://video.twimg.com/amplify_video/2124966202208571392/vid/avc1/1280x1440/dCYSYGXApqfQYTFo.mp4?tag=29",
+          "dimensions": [
+            1200,
+            1350
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 259136,
+          "sha256": "f942d0169135b1c690712e9ee222684ca4096c9805925a3f19085a808b883b4b",
+          "assetId": 789588514,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-25/teddy-itsukushima-tide-1-frame.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "dagou-glm-astra-building",
+          "archiveOrdinal": 1,
+          "timestampSeconds": 215,
+          "kind": "frame",
+          "subtype": "video-frame",
+          "filename": "dagou-glm-astra-building-1-frame.jpg",
+          "sourceUrl": "https://www.bilibili.com/video/BV1eQ1czxE7z/",
+          "dimensions": [
+            1200,
+            800
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 78584,
+          "sha256": "5812d5a164774256d814403e210d15b0f79847ef331889c2ca15242776df88cf",
+          "assetId": 789588643,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-25/dagou-glm-astra-building-1-frame.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2125321148481347584/img/7RoLsAV1_0hJQFnu.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 402497,
+          "bytes": 402497,
+          "sha256": "150d2e49c05101085f033db61a19ebd974312b91117ad76b1ae1dd897342376f",
+          "fullGet": true,
+          "caseId": "kevin-procedural-rpg",
+          "sourceUrl": "https://x.com/kevin_t_ngo/status/2125321244686029289",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1080,
+            1080
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "caseId": "apek-arctic-radio-dishes",
+          "archiveOrdinal": 1,
+          "timestampSeconds": 9,
+          "kind": "frame",
+          "subtype": "video-frame",
+          "filename": "apek-arctic-radio-dishes-1-frame.jpg",
+          "sourceUrl": "https://video.twimg.com/amplify_video/2125312192279101440/vid/avc1/1920x1080/twyXI9MJUbD069Bf.mp4?tag=29",
+          "dimensions": [
+            1200,
+            676
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 105521,
+          "sha256": "ff344a1ca4584002527f6fc88d767c80e8cf3971b199c5aac4cfe6bd09984f08",
+          "assetId": 789588646,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-25/apek-arctic-radio-dishes-1-frame.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2125381847169589248/img/pXU1vj6XOlZHUZxU.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 116539,
+          "bytes": 116539,
+          "sha256": "2f0cb3362b679149166aa656c717b190a628eecb7862a2d011215f580cd9db7e",
+          "fullGet": true,
+          "caseId": "kevin-colonnade-mech-film",
+          "sourceUrl": "https://x.com/kevin_t_ngo/status/2125382762861580571",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "caseId": "that1-fable-team-voxel-game",
+          "archiveOrdinal": 1,
+          "timestampSeconds": 18,
+          "kind": "frame",
+          "subtype": "video-frame",
+          "filename": "that1-fable-team-voxel-game-1-frame.jpg",
+          "sourceUrl": "https://video.twimg.com/amplify_video/2125307973211652096/vid/avc1/1920x1080/oOynBB_hDZzCNoZW.mp4?tag=29",
+          "dimensions": [
+            1200,
+            676
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 188006,
+          "sha256": "753aa6f9b0bb7559fccf590dedd9ad7a7d11f6b11311f9bf66689dee3d76c415",
+          "assetId": 789588525,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-25/that1-fable-team-voxel-game-1-frame.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2125117779334615040/img/Oy6LTaMnXdVM7Q4T.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 148468,
+          "bytes": 148468,
+          "sha256": "7ac6de8296f3fcb059a4650e964c04a67f4014b836ded2a0d7fdd22203fd26ff",
+          "fullGet": true,
+          "caseId": "kevin-cinderwatch-fable",
+          "sourceUrl": "https://x.com/kevin_t_ngo/status/2125119969109418333",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "caseId": "useapi-retro-disco-gif",
+          "archiveOrdinal": 1,
+          "timestampSeconds": 0,
+          "kind": "frame",
+          "subtype": "gif-frame",
+          "filename": "useapi-retro-disco-gif-poster.jpg",
+          "sourceUrl": "https://media.useapi.net/pixverse/2026-11-23-gpt-image-2-6-gif-article/gpt-image-2-6-sunburst-gif-christmas-disco-576x1024.gif",
+          "dimensions": [
+            576,
+            1024
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 174851,
+          "sha256": "d50cd0a38d16e75c9f55f937b770abaabee3dee21e0c785c63a532b7109b19ed",
+          "assetId": 789588686,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-25/useapi-retro-disco-gif-poster.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        }
+      ],
+      "sourceChecks": [
+        {
+          "caseId": "teddy-istanbul-cistern",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2125260781176709333",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-25T00:10:30+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "selectedMediaId": "2125259606867980288",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "envol-saffron-canopy",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/EnvolDev/status/2125325740321460454",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-25T04:28:37+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "selectedMediaId": "2125325695203328000",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "rewind-saint-michel",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/rewind02/status/2125243173651771643",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-24T23:00:32+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "selectedMediaId": "2125243034715516928",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "diegocabezas-wind-tunnel",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/diegocabezas01/status/2125214350843498981",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-24T21:06:00+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "selectedMediaId": "2124914840640589824",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "diegocabezas-wind-tunnel",
+          "archiveOrdinal": 2,
+          "sourceUrl": "https://x.com/diegocabezas01/status/2125281039375536571",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-25T01:31:00+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "selectedMediaId": "2125235593474961408",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "fini-deep-sea-tank",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/FiniYang/status/2125132455032316136",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-24T15:40:34+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "selectedMediaId": "2125113891315388416",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "meng-saltmere",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/MengTo/status/2125125308991090749",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-24T15:12:11+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "selectedMediaId": "2125125173909340160",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "photogarrido-eva-recreation",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/PhotoGarrido/status/2125212057108688979",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-24T20:56:53+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 2,
+          "selectedMediaId": "2125212018856579072",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "photogarrido-eva-recreation",
+          "archiveOrdinal": 2,
+          "sourceUrl": "https://x.com/PhotoGarrido/status/2125212057108688979",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-24T20:56:53+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 2,
+          "selectedMediaId": "2125212018894336000",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "teddy-itsukushima-tide",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/teddyaisi/status/2125167548702294506",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-24T18:00:01+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "selectedMediaId": "2124966202208571392",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "kevin-procedural-rpg",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/kevin_t_ngo/status/2125321244686029289",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-25T04:10:45+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "selectedMediaId": "2125321148481347584",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "apek-arctic-radio-dishes",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/apekshik/status/2125313162815889411",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-25T03:38:39+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "selectedMediaId": "2125312192279101440",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "kevin-colonnade-mech-film",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/kevin_t_ngo/status/2125382762861580571",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-25T08:15:13+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "selectedMediaId": "2125381847169589248",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "that1-fable-team-voxel-game",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/That1AiGuy/status/2125308046075449476",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-25T03:18:19+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "selectedMediaId": "2125307973211652096",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "kevin-cinderwatch-fable",
+          "archiveOrdinal": 1,
+          "sourceUrl": "https://x.com/kevin_t_ngo/status/2125119969109418333",
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "createdAtShanghai": "2026-11-24T14:50:58+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "selectedMediaId": "2125117779334615040",
+          "originalHtmlMediaMatched": true
+        }
+      ],
+      "authorDemos": [
+        {
+          "title": "Saltmere",
+          "url": "https://threeui.com/saltmere",
+          "scope": "Rendered the embedded 3D site in Chrome and switched the specimen.",
+          "scopeZh": "Chrome 加载作者的 3D 页面，并实测切换观察物。",
+          "result": "verified-interactive"
+        },
+        {
+          "title": "Asia One",
+          "url": "https://w1379.com/asia-one/",
+          "result": "verified-rendered",
+          "scope": "Chrome rendered the author’s panoramic view of the space city.",
+          "scopeZh": "Chrome 实际渲染了作者发布的轴心联廊全景。"
+        },
+        {
+          "title": "Cinderwatch",
+          "url": "https://kevintngo.github.io/cinderwatch/",
+          "scope": "Rendered the isometric board in Chrome and observed the first wave.",
+          "scopeZh": "Chrome 实测渲染三维棋盘并进入第一波关卡。",
+          "result": "verified-rendered"
+        }
+      ],
+      "scope": "Incremental creator source, still, GIF and playback checks for November 25, 2026."
     }
   ]
 }
