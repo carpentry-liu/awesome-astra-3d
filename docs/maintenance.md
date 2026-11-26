@@ -63,6 +63,19 @@ npm start
 
 面向 `main` 的 PR 运行检查、lint 和 Pages 构建，并用 `git diff --exit-code --stat` 确认受控的派生文件已随源数据提交。PR 不下载视频、不部署，也没有 Pages 写权限。[Pages 工作流](../.github/workflows/pages.yml) 在推送 `main` 或手动发布时才获取并校验完整播放文件，再部署。部署后核对公开 JSON、双语详情、metadata、截图和媒体地址；必要时全量 GET 新视频并比对 hash。
 
+## 内容验证（2026-11-26）
+
+新增 8 件 Astra 作品和 3 件 Claude Fable 5.2 作品，目录共 646 条。按上海时间，5 件首发于 11 月 26 日，6 件为 11 月 25 日补录。
+
+| 范围 | 实际检查 |
+| --- | --- |
+| 原始录像 | `py -3.13 work/2026-11-26/prepare-media.py` 对照 9 个 X 原帖和全部 10 段附件。20 个原版与原平台播放版共 426,536,346 字节，均通过 FFmpeg 全长解码。Release 上 26 个附件的尺寸与 SHA-256 核对通过，包括 6 张实际截帧。 [媒体 Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-26) |
+| Reddit 与 GIF | `node work/2026-11-26/external-player.mjs` 实播两位原作者的完整公开静音画面，时长 52.50 秒和 24.53 秒。GIF 列表和详情复测首帧、自动播放、暂停、恢复与减少动态效果。 |
+| 构建 | `npm.cmd run catalog`、`npm.cmd run check`、`npm.cmd run lint` 通过，共 34 项测试。普通与 Pages 子路径的 `npm.cmd run build` 核查 1,336 个静态页、28,816 条本地引用、646 份详情 JSON 与 1,337 个站点地图地址。 |
+| 页面 | `node work/2026-11-26/browser-qa.mjs` 通过 16 项检查，10 段新归档录像均播到结尾。桌面、手机、最新筛选、双语详情和旧分享地址通过。1440、390 与 320 像素下没有页面横向溢出，受测页面无控制台错误或警告。 |
+
+中英文 README 同步更新作品预览、真实直达链接和网站分享封面。 [四张页面实拍](media/README.md)
+
 ## 内容验证（2026-11-25）
 
 新增 11 件 Astra 作品、5 件 Claude Fable 5.2 作品与 1 件原生 GIF，目录共 635 条。按上海时间，7 件首发于 11 月 25 日、9 件发表于 11 月 24 日。GIF 首发于 11 月 23 日，次日由同一作者发到 Reddit，两处文件一致。
