@@ -2,6 +2,22 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-11-26 · 11 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [博物馆夜场：用 Blender 拍活恐龙骨架 / A Night at the Museum: Animating a Dinosaur Skeleton in Blender](https://carpentry-liu.github.io/awesome-astra-3d/cases/minute-dinosaur-museum/) | u/Minute_Razzmatazz914 | 作者展示 |
+| [亚特兰蒂斯鳐鱼：同题对照游动与水下光 / Rays in Atlantis: Comparing Two Three.js Underwater Scenes](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-atlantis-rays/) | Tony / @EnvolDev | 完整视频 |
+| [Winter Crown：四个模型各做一座雪堡 / Winter Crown: Four Builds of the Same Snow-Castle Brief](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-winter-crown/) | Tony / @EnvolDev | 完整视频 |
+| [海岸列车遇上巨浪：三版场景运镜 / A Coastal Train Meets a Giant Wave in Three Model Builds](https://carpentry-liu.github.io/awesome-astra-3d/cases/rubens-train-and-wave/) | Rubens Soto \| AI & SaaS / @rubenssoto_ai | 完整视频 |
+| [同一张鬼面参考，两版 Blender 雕刻 / One Oni Mask Reference, Two Blender Sculpts](https://carpentry-liu.github.io/awesome-astra-3d/cases/semi-oni-sculpt/) | Semichenko / @semichenkko | 完整视频 |
+| [Saffron Reach：彩色河湾城镇的美术方向 / Saffron Reach: An Art-Direction Study of a Colorful River Town](https://carpentry-liu.github.io/awesome-astra-3d/cases/danny-art-directions/) | Danny Postma / @dannypostma | 完整视频 |
+| [雾中轨道：把灯光、林地与音效放进浏览器 / Misty Rails: A Three.js and WebGPU Forest Environment](https://carpentry-liu.github.io/awesome-astra-3d/cases/chetan-misty-rail-world/) | Chetan Ankola / @chetanankola | 完整视频 |
+| [从角色图到 VRM：转身、动作与表情测试 / From a Character Reference to a VRM Avatar](https://carpentry-liu.github.io/awesome-astra-3d/cases/hajime-vrm-avatar/) | ついはじめ \| Hajime Tsui / @hajimetwi3 | 完整视频 |
+| [拆船厂：从一张概念图搭出 875 米场景 / An 875-Metre Shipbreaking Yard from One Concept Image](https://carpentry-liu.github.io/awesome-astra-3d/cases/apek-shipbreaking-yard/) | apek / @apekshik | 完整视频 · Fable 5.2 |
+| [把样板房平面图变成可编辑的 Blender 住宅 / Turning a Brochure Floor Plan into an Editable Blender House](https://carpentry-liu.github.io/awesome-astra-3d/cases/fokki-brochure-house/) | Fokki / @0x_fokki | 完整视频 · Fable 5.2 |
+| [狼头面具：用 Blender 原生笔刷雕刻 / Sculpting a Wolf Mask with Blender’s Stock Brushes](https://carpentry-liu.github.io/awesome-astra-3d/cases/delicious-sculpted-wolf-mask/) | u/Delicious-Shower8401 | Fable 5.2 |
+
 ## 2026-11-25 · 17 个案例
 
 | 作品 / Example | 作者 | 可用材料 |

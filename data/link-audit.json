@@ -34073,6 +34073,405 @@
         }
       ],
       "scope": "Incremental creator source, still, GIF and playback checks for November 25, 2026."
+    },
+    {
+      "checkedAt": "2026-11-26",
+      "round": "daily",
+      "addedCaseIds": [
+        "minute-dinosaur-museum",
+        "envol-atlantis-rays",
+        "envol-winter-crown",
+        "rubens-train-and-wave",
+        "semi-oni-sculpt",
+        "danny-art-directions",
+        "chetan-misty-rail-world",
+        "hajime-vrm-avatar",
+        "apek-shipbreaking-yard",
+        "fokki-brochure-house",
+        "delicious-sculpted-wolf-mask"
+      ],
+      "previewChecks": [
+        {
+          "caseId": "minute-dinosaur-museum",
+          "archiveOrdinal": 1,
+          "timestampSeconds": 24,
+          "kind": "frame",
+          "subtype": "video-frame",
+          "filename": "minute-dinosaur-museum-1-frame.jpg",
+          "sourceUrl": "https://v.redd.it/37p2gurnnt3i1/CMAF_1080.mp4?source=fallback",
+          "dimensions": [
+            1200,
+            676
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 52512,
+          "sha256": "ce0e2e24530e6f066b8a4f0712df6b5fe403701f28d4edfeb7b5ba88c0ada04d",
+          "assetId": 794007101,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-26/minute-dinosaur-museum-1-frame.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "envol-atlantis-rays",
+          "archiveOrdinal": 1,
+          "timestampSeconds": 12.5,
+          "kind": "frame",
+          "subtype": "video-frame",
+          "filename": "envol-atlantis-rays-1-frame.jpg",
+          "sourceUrl": "https://video.twimg.com/amplify_video/2125680695855235072/vid/avc1/2880x2880/xqEupFoSYHD8GtcC.mp4?tag=29",
+          "dimensions": [
+            1200,
+            1200
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 268572,
+          "sha256": "3689df05091b6894b9cd3736e67a2eeea7c1197bf4e0f9bb1e9e339355a593e5",
+          "assetId": 794006966,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-26/envol-atlantis-rays-1-frame.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2125632934812205059/img/Q7y6Zm9TM7ytmwhu.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 256340,
+          "bytes": 256340,
+          "sha256": "c2ccdf9904887b71099f48e1969bf631e3dc08a18f41073480212e4500e61dc4",
+          "fullGet": true,
+          "caseId": "envol-winter-crown",
+          "sourceUrl": "https://x.com/EnvolDev/status/2125633183161139699",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            1067
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2125630563998466048/img/L054Auusia9klE22.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 128222,
+          "bytes": 128222,
+          "sha256": "c1bfb4e17d7c7954d0031c58e55c46d6c9ccf5956cd177411e6d4dfeda73968c",
+          "fullGet": true,
+          "caseId": "rubens-train-and-wave",
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2125630819251147181",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            711,
+            1200
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "caseId": "semi-oni-sculpt",
+          "archiveOrdinal": 1,
+          "timestampSeconds": 14,
+          "kind": "frame",
+          "subtype": "video-frame",
+          "filename": "semi-oni-sculpt-1-frame.jpg",
+          "sourceUrl": "https://video.twimg.com/amplify_video/2125609852550434816/vid/avc1/1080x1156/dI-3PEN-JaC8obuJ.mp4?tag=29",
+          "dimensions": [
+            1200,
+            1284
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 103576,
+          "sha256": "f3a0dbc64878a9cf437e219d3ba84c5de28c5b125316e649de61be41c77eafe8",
+          "assetId": 794007042,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-26/semi-oni-sculpt-1-frame.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2125520822706278400/img/BNp8xhJi06TZSg3W.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 178562,
+          "bytes": 178562,
+          "sha256": "28b2be40908e9750a038c635956f65ff232575c0818ca1f35565802e7545086c",
+          "fullGet": true,
+          "caseId": "danny-art-directions",
+          "sourceUrl": "https://x.com/dannypostma/status/2125521082711244920",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            687
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "caseId": "chetan-misty-rail-world",
+          "archiveOrdinal": 1,
+          "timestampSeconds": 21,
+          "kind": "frame",
+          "subtype": "video-frame",
+          "filename": "chetan-misty-rail-world-1-frame.jpg",
+          "sourceUrl": "https://video.twimg.com/amplify_video/2125524987482443776/vid/avc1/2722x2078/MSHY95p25DkOAThp.mp4?tag=29",
+          "dimensions": [
+            1200,
+            916
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 81883,
+          "sha256": "7a57ca6f08f2e1b07a577a1c899983a93e96abeaa7c75be675b0883ca5b7bac7",
+          "assetId": 794007085,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-26/chetan-misty-rail-world-1-frame.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2125503293174722560/img/8o3hL1p-eDMB3Wx_.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 47974,
+          "bytes": 47974,
+          "sha256": "53c4d795006135ad4394ba3b2389f4e2018aedb3a008cd4d7344c34ec130e3bc",
+          "fullGet": true,
+          "caseId": "hajime-vrm-avatar",
+          "sourceUrl": "https://x.com/hajimetwi3/status/2125505899523649966",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            914,
+            728
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2125503308060360704/img/_FI3r8S5IbZq8deD.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 65471,
+          "bytes": 65471,
+          "sha256": "37315eae426b7c48ca94c31929bf998c20fe8b594aba24a3e3439b3c0b44882a",
+          "fullGet": true,
+          "caseId": "hajime-vrm-avatar",
+          "sourceUrl": "https://x.com/hajimetwi3/status/2125505899523649966",
+          "archiveOrdinal": 2,
+          "mediaIndex": 2,
+          "dimensions": [
+            928,
+            682
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2125669324849610752/img/LXlAVEbkvcwWpkpa.jpg",
+          "httpStatus": 200,
+          "contentType": "image/jpeg",
+          "contentLength": 112154,
+          "bytes": 112154,
+          "sha256": "b9fb19b1dd69f84773d0fae9f9016f4c86035693e6f3f2751b803b94cdadf016",
+          "fullGet": true,
+          "caseId": "apek-shipbreaking-yard",
+          "sourceUrl": "https://x.com/apekshik/status/2125671677032059005",
+          "archiveOrdinal": 1,
+          "mediaIndex": 1,
+          "dimensions": [
+            1200,
+            675
+          ],
+          "frames": 1,
+          "decoded": true,
+          "visuallyReviewed": true,
+          "releaseDigestMatched": false
+        },
+        {
+          "caseId": "fokki-brochure-house",
+          "archiveOrdinal": 1,
+          "timestampSeconds": 12.5,
+          "kind": "frame",
+          "subtype": "video-frame",
+          "filename": "fokki-brochure-house-1-frame.jpg",
+          "sourceUrl": "https://video.twimg.com/amplify_video/2125573456569741312/vid/avc1/1920x1080/6BVb1pSKPevA1V8j.mp4?tag=29",
+          "dimensions": [
+            1200,
+            676
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 129207,
+          "sha256": "c03ae5f5687cee22ca1a2f65f810bcb217d1cd7677f549f7ea6e10a97e0f4545",
+          "assetId": 794007014,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-26/fokki-brochure-house-1-frame.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        },
+        {
+          "caseId": "delicious-sculpted-wolf-mask",
+          "archiveOrdinal": 1,
+          "timestampSeconds": 21,
+          "kind": "frame",
+          "subtype": "video-frame",
+          "filename": "delicious-sculpted-wolf-mask-1-frame.jpg",
+          "sourceUrl": "https://v.redd.it/p2ui692nsm3i1/CMAF_1080.mp4?source=fallback",
+          "dimensions": [
+            1200,
+            676
+          ],
+          "contentType": "image/jpeg",
+          "bytes": 82742,
+          "sha256": "c74d3bed5ffb9d9a7a8db867028045faf215143cc4f65f6da178a52d9f1f24df",
+          "assetId": 794007077,
+          "releaseUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-26/delicious-sculpted-wolf-mask-1-frame.jpg",
+          "visuallyReviewed": true,
+          "releaseDigestMatched": true
+        }
+      ],
+      "sourceChecks": [
+        {
+          "caseId": "envol-atlantis-rays",
+          "sourceUrl": "https://x.com/EnvolDev/status/2125687970867154949",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-26T04:28:00+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2125680695855235072",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "envol-winter-crown",
+          "sourceUrl": "https://x.com/EnvolDev/status/2125633183161139699",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-26T00:50:17+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2125632934812205059",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "rubens-train-and-wave",
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2125630819251147181",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-26T00:40:54+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2125630563998466048",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "semi-oni-sculpt",
+          "sourceUrl": "https://x.com/semichenkko/status/2125609971580645590",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-25T23:18:03+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2125609852550434816",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "danny-art-directions",
+          "sourceUrl": "https://x.com/dannypostma/status/2125521082711244920",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-25T17:24:51+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2125520822706278400",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "chetan-misty-rail-world",
+          "sourceUrl": "https://x.com/chetanankola/status/2125525605907309008",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-25T17:42:49+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2125524987482443776",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "hajime-vrm-avatar",
+          "sourceUrl": "https://x.com/hajimetwi3/status/2125505899523649966",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-25T16:24:31+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 2,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2125503293174722560",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "hajime-vrm-avatar",
+          "sourceUrl": "https://x.com/hajimetwi3/status/2125505899523649966",
+          "archiveOrdinal": 2,
+          "createdAtShanghai": "2026-11-25T16:24:31+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 2,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2125503308060360704",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "apek-shipbreaking-yard",
+          "sourceUrl": "https://x.com/apekshik/status/2125671677032059005",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-26T03:23:15+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2125669324849610752",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "fokki-brochure-house",
+          "sourceUrl": "https://x.com/0x_fokki/status/2125573708211232839",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-25T20:53:57+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2125573456569741312",
+          "originalHtmlMediaMatched": true
+        }
+      ],
+      "authorDemos": [],
+      "scope": "Incremental author, image and video checks for November 26, 2026."
     }
   ]
 }
