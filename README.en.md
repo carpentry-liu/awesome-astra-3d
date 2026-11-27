@@ -15,7 +15,7 @@ Explore Blender models, Three.js games, architectural worlds and exploded assemb
 </div>
 
 <!-- atlas:summary:start -->
-Updated **2026-11-26 (Asia/Shanghai)** · **575 Astra examples** (127 source / project links, 145 demo links, 356 complete clips) · **37 Fable 5.2 examples** · **22 GIF animations** · **12 method references**.
+Updated **2026-11-27 (Asia/Shanghai)** · **589 Astra examples** (129 source / project links, 146 demo links, 365 complete clips) · **39 Fable 5.2 examples** · **23 GIF animations** · **12 method references**.
 <!-- atlas:summary:end -->
 
 Source / project totals count public material links; demo totals count creator-hosted entry points. They do not establish independent reproduction of every project. Complete videos retain the full posted clip. Each case records attribution and model evidence.
@@ -38,11 +38,11 @@ Source / project totals count public material links; demo totals count creator-h
 
 [GIF collection](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=gif&order=newest#collection) · [Official generation guide](https://developers.openai.com/api/docs/guides/image-generation#generate-animated-gif-output)
 
-The collection has 22 native GIFs. See UseAPI’s 12-frame Sunburst disco loop below.
+The collection has 23 native GIFs. This update adds Kingy AI’s 10-frame Sunburst product loop, first published November 5 in Shanghai time.
 
-| Sunburst Paper Fox: A Nine-Frame Papercraft Loop | Retro Lava Lamp: Sixteen Frames of Rising Wax | Flare: A Nine-Frame Frosted Perfume Loop |
-| --- | --- | --- |
-| [<img src="https://omniakey.com/blog/gpt-image-2-6-review/paper-fox.gif" height="186" alt="Sunburst Paper Fox: A Nine-Frame Papercraft Loop">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/omniakey-paper-fox-gif/) | [<img src="https://storage.ghost.io/c/bc/24/bc2443b9-eb39-4b32-b473-8eb4576181dd/content/images/2026/11/20261109-012500_a-retro-1970s-lava-lamp-on-a-woo.gif" height="186" alt="Retro Lava Lamp: Sixteen Frames of Rising Wax">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/oxen-retro-lava-lamp-gif/) | [<img src="https://cdn.veevid.ai/gpt-image-2-6-samples/blog/gif-perfume-loop.gif" height="186" alt="Flare: A Nine-Frame Frosted Perfume Loop">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/veevid-frosted-perfume-gif/) |
+| Sunburst Paper Fox: A Nine-Frame Papercraft Loop | Retro Lava Lamp: Sixteen Frames of Rising Wax | Flare: A Nine-Frame Frosted Perfume Loop | Rocking Bottle · Kingy AI |
+| --- | --- | --- | --- |
+| [<img src="https://omniakey.com/blog/gpt-image-2-6-review/paper-fox.gif" height="186" alt="Sunburst Paper Fox: A Nine-Frame Papercraft Loop">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/omniakey-paper-fox-gif/) | [<img src="https://storage.ghost.io/c/bc/24/bc2443b9-eb39-4b32-b473-8eb4576181dd/content/images/2026/11/20261109-012500_a-retro-1970s-lava-lamp-on-a-woo.gif" height="186" alt="Retro Lava Lamp: Sixteen Frames of Rising Wax">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/oxen-retro-lava-lamp-gif/) | [<img src="https://cdn.veevid.ai/gpt-image-2-6-samples/blog/gif-perfume-loop.gif" height="186" alt="Flare: A Nine-Frame Frosted Perfume Loop">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/veevid-frosted-perfume-gif/) | [<img src="https://kingy.ai/wp-content/uploads/2026/11/kingy-images26-test-26-T4.gif" height="186" alt="Rocking Bottle · Kingy AI">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kingy-rocking-bottle-gif/) |
 
 | Retro Disco: A Twelve-Frame Sunburst GIF | Lantern Cat · Lightlyn | Raw Pixel Explosion · Kasper Zack Games |
 | --- | --- | --- |
@@ -76,18 +76,18 @@ Select a title or image to open the creator's demo directly. Case pages retain s
 
 ## Website preview
 
-[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-11-26.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
+[![Astra 3D Atlas homepage: featured works and material links](docs/media/homepage-2026-11-27.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en)
 
-The screenshots are from the **November 26, 2026** local production build. Browse in Chinese or English, open topics and share individual case pages.
+The screenshots are from the **November 27, 2026** local production build. Browse in Chinese or English, open topics and share individual case pages.
 
 <details>
-<summary>Gallery, mobile and case screenshots · November 26, 2026</summary>
+<summary>Gallery, mobile and case screenshots · November 27, 2026</summary>
 
-[![Latest Astra works](docs/media/collection-2026-11-26.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
+[![Latest Astra works](docs/media/collection-2026-11-27.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection)
 
-![Latest Fable 5.2 works on mobile](docs/media/mobile-2026-11-26.jpg)
+![Latest Fable 5.2 works on mobile](docs/media/mobile-2026-11-27.jpg)
 
-[![Blender shipbreaking-yard case page](docs/media/case-2026-11-26.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/apek-shipbreaking-yard/)
+[![Light & Debris case page](docs/media/case-2026-11-27.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kondo-light-and-debris/)
 
 </details>
 
@@ -95,42 +95,42 @@ The screenshots are from the **November 26, 2026** local production build. Brows
 
 Ordered by collection date, separate from each work's original publication and verification dates. Featured works stay independent of daily additions.
 
-The November 26 update adds **8 Astra cases and 3 Claude Fable 5.2 cases** and archives **10 full X recordings**. Five works were first published on November 26 in Shanghai time, and six are supplemental finds from November 25.
+The November 27 update adds **14 Astra cases, 2 Claude Fable 5.2 cases and 1 native GIF**, with **11 complete X recordings**. In Shanghai time, four works debuted on November 27 and eight on November 26. The remaining five are supplemental finds.
 
 <!-- atlas:update-previews:start -->
 **New Astra cases**
 
-| A Night at the Museum: Animating a Dinosaur Skeleton in Blender | Rays in Atlantis: Comparing Two Three.js Underwater Scenes | Winter Crown: Four Builds of the Same Snow-Castle Brief |
+| Cloud Pass: An Endless Motorcycle Ride Through the Mountains | The Li River in Guilin: A Three.js Landscape with Seasons and Weather | Basalt Sea Cave: Two Three.js Takes on a Sunset Glide |
 | --- | --- | --- |
-| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-26/minute-dinosaur-museum-1-frame.jpg" height="154" alt="A Night at the Museum: Animating a Dinosaur Skeleton in Blender">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/minute-dinosaur-museum/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-26/envol-atlantis-rays-1-frame.jpg" height="154" alt="Rays in Atlantis: Comparing Two Three.js Underwater Scenes">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/envol-atlantis-rays/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2125632934812205059/img/Q7y6Zm9TM7ytmwhu.jpg" height="154" alt="Winter Crown: Four Builds of the Same Snow-Castle Brief">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/envol-winter-crown/) |
-| [Creator footage](https://v.redd.it/37p2gurnnt3i1/CMAF_1080.mp4?source=fallback) | [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/envol-atlantis-rays/#videos) | [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/envol-winter-crown/#videos) |
+| [<img src="https://pbs.twimg.com/ext_tw_video_thumb/2125995879584985088/pu/img/knS7gnxVoy4Z2R0F.jpg" height="154" alt="Cloud Pass: An Endless Motorcycle Ride Through the Mountains">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/meng-cloud-pass/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-27/young-russell-li-river-1-frame.jpg" height="154" alt="The Li River in Guilin: A Three.js Landscape with Seasons and Weather">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/young-russell-li-river/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-27/teddy-basalt-cave-1-frame.jpg" height="154" alt="Basalt Sea Cave: Two Three.js Takes on a Sunset Glide">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-basalt-cave/) |
+| [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/meng-cloud-pass/#videos) · [Creator demo](https://threeui.com/cloud-pass) | [Creator footage](https://v.redd.it/8j7c1giyip3i1/CMAF_720.mp4?source=fallback) | [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-basalt-cave/#videos) |
 
-| A Coastal Train Meets a Giant Wave in Three Model Builds | One Oni Mask Reference, Two Blender Sculpts | Saffron Reach: An Art-Direction Study of a Colorful River Town |
+| Night City in the Rain: Wet Asphalt, Puddles and Neon in Three.js | A Hummingbird’s Alpine Flight: Two Blender Scripts, One Brief | One Robotic-Hand Reference, Three Blender Models and Animations |
 | --- | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2125630563998466048/img/L054Auusia9klE22.jpg" height="154" alt="A Coastal Train Meets a Giant Wave in Three Model Builds">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/rubens-train-and-wave/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-26/semi-oni-sculpt-1-frame.jpg" height="154" alt="One Oni Mask Reference, Two Blender Sculpts">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/semi-oni-sculpt/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2125520822706278400/img/BNp8xhJi06TZSg3W.jpg" height="154" alt="Saffron Reach: An Art-Direction Study of a Colorful River Town">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/danny-art-directions/) |
-| [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/rubens-train-and-wave/#videos) | [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/semi-oni-sculpt/#videos) | [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/danny-art-directions/#videos) |
+| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-27/unnone-night-city-1-frame.jpg" height="154" alt="Night City in the Rain: Wet Asphalt, Puddles and Neon in Three.js">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/unnone-night-city/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-27/funwalk-hummingbird-valley-1-frame.jpg" height="154" alt="A Hummingbird’s Alpine Flight: Two Blender Scripts, One Brief">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/funwalk-hummingbird-valley/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-27/amir-three-way-robo-hand-1-frame.jpg" height="154" alt="One Robotic-Hand Reference, Three Blender Models and Animations">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/amir-three-way-robo-hand/) |
+| [Watch on Bilibili](https://www.bilibili.com/video/BV1ZVyyz7EYe/) | [Creator footage](https://v.redd.it/8ql4kbew2z3i1/CMAF_480.mp4?source=fallback) | [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/amir-three-way-robo-hand/#videos) |
 
 **New Fable 5.2 cases**
 
-| An 875-Metre Shipbreaking Yard from One Concept Image | Turning a Brochure Floor Plan into an Editable Blender House | Sculpting a Wolf Mask with Blender’s Stock Brushes |
-| --- | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2125669324849610752/img/LXlAVEbkvcwWpkpa.jpg" height="154" alt="An 875-Metre Shipbreaking Yard from One Concept Image">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/apek-shipbreaking-yard/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-26/fokki-brochure-house-1-frame.jpg" height="154" alt="Turning a Brochure Floor Plan into an Editable Blender House">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/fokki-brochure-house/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-26/delicious-sculpted-wolf-mask-1-frame.jpg" height="154" alt="Sculpting a Wolf Mask with Blender’s Stock Brushes">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/delicious-sculpted-wolf-mask/) |
-| [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/apek-shipbreaking-yard/#videos) | [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/fokki-brochure-house/#videos) | [Creator footage](https://v.redd.it/p2ui692nsm3i1/CMAF_1080.mp4?source=fallback) |
+| Light & Debris: Moving 150,000 Shards with a Cursor Light | Blender Fire in Unreal: A Night Scene Directed by Voice Commands |
+| --- | --- |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2125811291537510400/img/VEpXo7j7fNjhHggL.jpg" height="154" alt="Light &amp; Debris: Moving 150,000 Shards with a Cursor Light">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kondo-light-and-debris/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2125250151765639168/img/xa2Ze7W4c7kKEd1l.jpg" height="154" alt="Blender Fire in Unreal: A Night Scene Directed by Voice Commands">](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/hector-house-fire/) |
+| [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/kondo-light-and-debris/#videos) · [Creator demo](https://nkondo-ft.github.io/light-and-debris/) · [Source](https://github.com/nkondo-ft/light-and-debris) | [Full recording](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/hector-house-fire/#videos) |
 
-[All 11 cases](UPDATES.md#2026-11-26--11-个案例) · [Latest Astra](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection) · [Latest Fable 5.2](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=fable&order=newest#collection) · [Download full originals](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-26)
+[All 17 cases](UPDATES.md#2026-11-27--17-个案例) · [Latest Astra](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&order=newest#collection) · [Latest Fable 5.2](https://carpentry-liu.github.io/awesome-astra-3d/?lang=en&group=fable&order=newest#collection) · [Download full originals](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-27)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | Example | Creator | Resources |
 | --- | --- | --- |
-| [A Night at the Museum: Animating a Dinosaur Skeleton in Blender](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/minute-dinosaur-museum/) | u/Minute_Razzmatazz914 | [Original](https://www.reddit.com/r/TopologyAI/comments/1y5ihd4/i_directed_a_blender_short_with_gpt_astra_62/) |
-| [Rays in Atlantis: Comparing Two Three.js Underwater Scenes](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/envol-atlantis-rays/) | Tony / @EnvolDev | [Original](https://x.com/EnvolDev/status/2125687970867154949) |
-| [Winter Crown: Four Builds of the Same Snow-Castle Brief](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/envol-winter-crown/) | Tony / @EnvolDev | [Original](https://x.com/EnvolDev/status/2125633183161139699) |
-| [A Coastal Train Meets a Giant Wave in Three Model Builds](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/rubens-train-and-wave/) | Rubens Soto \| AI & SaaS / @rubenssoto_ai | [Original](https://x.com/rubenssoto_ai/status/2125630819251147181) |
-| [One Oni Mask Reference, Two Blender Sculpts](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/semi-oni-sculpt/) | Semichenko / @semichenkko | [Original](https://x.com/semichenkko/status/2125609971580645590) |
-| [Saffron Reach: An Art-Direction Study of a Colorful River Town](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/danny-art-directions/) | Danny Postma / @dannypostma | [Original](https://x.com/dannypostma/status/2125521082711244920) |
-| [Misty Rails: A Three.js and WebGPU Forest Environment](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/chetan-misty-rail-world/) | Chetan Ankola / @chetanankola | [Original](https://x.com/chetanankola/status/2125525605907309008) |
-| [From a Character Reference to a VRM Avatar](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/hajime-vrm-avatar/) | ついはじめ \| Hajime Tsui / @hajimetwi3 | [Original](https://x.com/hajimetwi3/status/2125505899523649966) |
+| [Cloud Pass: An Endless Motorcycle Ride Through the Mountains](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/meng-cloud-pass/) | Meng To / @MengTo | [Demo](https://threeui.com/cloud-pass) · [Source](https://github.com/MengTo/Skills/tree/main/agent-skills/3d/endless-riding-parallax) · [Original](https://x.com/MengTo/status/2125995984400654658) |
+| [The Li River in Guilin: A Three.js Landscape with Seasons and Weather](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/young-russell-li-river/) | u/Young_Russell | [Original](https://www.reddit.com/r/codex/comments/1y50ubv/my_favorite_3d_vibecoding_project/) |
+| [Basalt Sea Cave: Two Three.js Takes on a Sunset Glide](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/teddy-basalt-cave/) | Teddy / @teddyaisi | [Original](https://x.com/teddyaisi/status/2126011573177307352) |
+| [Night City in the Rain: Wet Asphalt, Puddles and Neon in Three.js](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/unnone-night-city/) | unnone-studio | [Original](https://www.bilibili.com/video/BV1ZVyyz7EYe/) |
+| [A Hummingbird’s Alpine Flight: Two Blender Scripts, One Brief](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/funwalk-hummingbird-valley/) | u/Fun_Walk_4965 | [Original](https://www.reddit.com/r/ChatGPT/comments/1y63f9y/zero_generated_assets_100_code_claude_fable_52/) |
+| [One Robotic-Hand Reference, Three Blender Models and Animations](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/amir-three-way-robo-hand/) | AmirMušić / @AmirMushich | [Original](https://x.com/AmirMushich/status/2125635764029370722) |
+| [First Tracks Above: Two Three.js Ski Runs from One Brief](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/envol-first-tracks/) | Tony / @EnvolDev | [Original](https://x.com/EnvolDev/status/2126051891805295088) |
+| [Belugas: Three Model Takes on Motion Under the Ice](https://carpentry-liu.github.io/awesome-astra-3d/en/cases/envol-belugas/) | Tony / @EnvolDev | [Original](https://x.com/EnvolDev/status/2125989960662802928) |
 <!-- atlas:latest:end -->
 
 [Full update history →](UPDATES.md) · [Maintenance and verification](docs/maintenance.md)

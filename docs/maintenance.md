@@ -63,6 +63,20 @@ npm start
 
 面向 `main` 的 PR 运行检查、lint 和 Pages 构建，并用 `git diff --exit-code --stat` 确认受控的派生文件已随源数据提交。PR 不下载视频、不部署，也没有 Pages 写权限。[Pages 工作流](../.github/workflows/pages.yml) 在推送 `main` 或手动发布时才获取并校验完整播放文件，再部署。部署后核对公开 JSON、双语详情、metadata、截图和媒体地址；必要时全量 GET 新视频并比对 hash。
 
+## 内容验证（2026-11-27）
+
+新增 14 件 Astra 作品、2 件 Claude Fable 5.2 作品与 1 件原生 GIF，目录共 663 条。按上海时间，4 件首发于 11 月 27 日，8 件首发于 11 月 26 日。其余四件三维作品发表于 11 月 24–25 日，Kingy AI 的 GIF 首发于 11 月 5 日。
+
+| 范围 | 实际检查 |
+| --- | --- |
+| 原始录像 | `py -3.13 work/2026-11-27/prepare-media.py` 核对 11 个 X 作者原帖、发布时间和全部 11 段附件。22 个最高码率原版与原平台播放版共 239,811,130 字节，均通过 FFmpeg 全长解码。Release 的 33 个附件尺寸和 SHA-256 一致，包括 11 张成果帧。 [媒体 Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-27) |
+| 作者演示与外部录像 | `node work/2026-11-27/demo-retry.mjs` 在支持 WebGPU 的 Chrome 中实测 Cloud Pass 的滚动控制与光与破片的光点交互。两段 B 站录像均通过全长解码，`bili-start.mjs` 与 `bili-retry.mjs` 确认原帖开始播放。三段 Reddit 画面在 `external-player.mjs` 中播到结尾，时长 70、10、10 秒。漓江的配乐随作者原帖播放。 |
+| 原生 GIF | Kingy AI 的公开 Sunburst API 输出经完整 GET 和逐帧解码，512 × 512、10 帧各 200 毫秒。浏览器检查了列表与详情的自动播放、暂停、恢复和减少动态效果。 |
+| 构建 | `npm.cmd run catalog`、`npm.cmd run check` 和 `npm.cmd run lint` 通过，共 34 项测试。普通与 GitHub Pages 子路径的 `npm.cmd run build` 各核查 1,372 个静态页、29,644 条本地引用、663 份详情 JSON 与 1,373 个站点地图地址。 |
+| 网站 | `node work/2026-11-27/browser-qa.mjs` 在本地 Pages 子路径通过 17 项检查，11 段新归档录像均播到结尾。首页、最新筛选、双语详情和旧分享地址通过。1440、390 与 320 像素下无页面横向溢出，受测页面无控制台错误或警告。 |
+
+中英文 README 更新了案例预览、作品直达链接和分享封面。 [四张页面实拍](media/README.md)
+
 ## 内容验证（2026-11-26）
 
 新增 8 件 Astra 作品和 3 件 Claude Fable 5.2 作品，目录共 646 条。按上海时间，5 件首发于 11 月 26 日，6 件为 11 月 25 日补录。
