@@ -15,7 +15,7 @@
 </div>
 
 <!-- atlas:summary:start -->
-更新于 **2026-11-26（Asia/Shanghai）** · **575** 条 Astra 案例（127 条源码 / 工程、145 个演示入口、356 个完整视频） · **37** 条 Fable 5.2 案例 · **22** 件 GIF 动图 · **12** 条方法参考。
+更新于 **2026-11-27（Asia/Shanghai）** · **589** 条 Astra 案例（129 条源码 / 工程、146 个演示入口、365 个完整视频） · **39** 条 Fable 5.2 案例 · **23** 件 GIF 动图 · **12** 条方法参考。
 <!-- atlas:summary:end -->
 
 源码 / 工程数表示作者公开材料的入口，演示数表示作者运行入口；不代表所有工程均已独立复现。完整录像保留原帖片段的全部时长。每条案例注明来源与模型证据。
@@ -38,11 +38,11 @@
 
 [GIF 动图分类](https://carpentry-liu.github.io/awesome-astra-3d/?group=gif&order=newest#collection) · [官方生成说明](https://developers.openai.com/api/docs/guides/image-generation#generate-animated-gif-output)
 
-现有 22 件原生 GIF，包括下方 UseAPI 的 12 帧 Sunburst 舞步循环。
+现有 23 件原生 GIF。本轮补录 Kingy AI 的 10 帧 Sunburst 商品动图，按上海时间首发于 11 月 5 日。
 
-| 纸狐狸 Sunburst：九帧剪纸循环 | 复古熔岩灯：气泡升降的 16 帧循环 | 磨砂香氛瓶 Flare：九帧商品动效 |
-| --- | --- | --- |
-| [<img src="https://omniakey.com/blog/gpt-image-2-6-review/paper-fox.gif" height="186" alt="纸狐狸 Sunburst：九帧剪纸循环">](https://carpentry-liu.github.io/awesome-astra-3d/cases/omniakey-paper-fox-gif/) | [<img src="https://storage.ghost.io/c/bc/24/bc2443b9-eb39-4b32-b473-8eb4576181dd/content/images/2026/11/20261109-012500_a-retro-1970s-lava-lamp-on-a-woo.gif" height="186" alt="复古熔岩灯：气泡升降的 16 帧循环">](https://carpentry-liu.github.io/awesome-astra-3d/cases/oxen-retro-lava-lamp-gif/) | [<img src="https://cdn.veevid.ai/gpt-image-2-6-samples/blog/gif-perfume-loop.gif" height="186" alt="磨砂香氛瓶 Flare：九帧商品动效">](https://carpentry-liu.github.io/awesome-astra-3d/cases/veevid-frosted-perfume-gif/) |
+| 纸狐狸 Sunburst：九帧剪纸循环 | 复古熔岩灯：气泡升降的 16 帧循环 | 磨砂香氛瓶 Flare：九帧商品动效 | 轻晃水壶 · Kingy AI |
+| --- | --- | --- | --- |
+| [<img src="https://omniakey.com/blog/gpt-image-2-6-review/paper-fox.gif" height="186" alt="纸狐狸 Sunburst：九帧剪纸循环">](https://carpentry-liu.github.io/awesome-astra-3d/cases/omniakey-paper-fox-gif/) | [<img src="https://storage.ghost.io/c/bc/24/bc2443b9-eb39-4b32-b473-8eb4576181dd/content/images/2026/11/20261109-012500_a-retro-1970s-lava-lamp-on-a-woo.gif" height="186" alt="复古熔岩灯：气泡升降的 16 帧循环">](https://carpentry-liu.github.io/awesome-astra-3d/cases/oxen-retro-lava-lamp-gif/) | [<img src="https://cdn.veevid.ai/gpt-image-2-6-samples/blog/gif-perfume-loop.gif" height="186" alt="磨砂香氛瓶 Flare：九帧商品动效">](https://carpentry-liu.github.io/awesome-astra-3d/cases/veevid-frosted-perfume-gif/) | [<img src="https://kingy.ai/wp-content/uploads/2026/11/kingy-images26-test-26-T4.gif" height="186" alt="轻晃水壶 · Kingy AI">](https://carpentry-liu.github.io/awesome-astra-3d/cases/kingy-rocking-bottle-gif/) |
 
 | 复古眼镜舞步：12 帧 Sunburst 循环 | 提灯橘猫 · Lightlyn | 像素爆炸原始素材 · Kasper Zack Games |
 | --- | --- | --- |
@@ -76,18 +76,18 @@ GIF 分类预览与详情自动播放，支持停止与播放。系统开启减�
 
 ## 网站实拍
 
-[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-11-26.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
+[![Astra 3D Atlas 首页：六件精选与材料入口](docs/media/homepage-2026-11-27.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/)
 
-网站实拍更新于 **2026-11-26**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
+网站实拍更新于 **2026-11-27**，取自当前版本的本地生产构建；新增内容见下方成果预览与目录。中文 / 英文浏览、任务专题和作品详情页提供可分享的真实地址；首页首批展示 36 条，继续加载后可浏览其余匹配作品。
 
 <details>
-<summary>查看案例区、手机与作品详情实拍 · 2026-11-26</summary>
+<summary>查看案例区、手机与作品详情实拍 · 2026-11-27</summary>
 
-[![Astra 最新作品](docs/media/collection-2026-11-26.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
+[![Astra 最新作品](docs/media/collection-2026-11-27.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection)
 
-![手机端 Fable 5.2 最新案例](docs/media/mobile-2026-11-26.jpg)
+![手机端 Fable 5.2 最新案例](docs/media/mobile-2026-11-27.jpg)
 
-[![Blender 拆船厂作品页](docs/media/case-2026-11-26.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/apek-shipbreaking-yard/)
+[![光与破片作品页](docs/media/case-2026-11-27.jpg)](https://carpentry-liu.github.io/awesome-astra-3d/cases/kondo-light-and-debris/)
 
 </details>
 
@@ -95,42 +95,42 @@ GIF 分类预览与详情自动播放，支持停止与播放。系统开启减�
 
 这里按本库收录日期排列；作品首次发布、模型配置与核查日期在各档案中分别记录。稳定精选不随日更替换。
 
-11 月 26 日新增 **8 件 Astra、3 件 Claude Fable 5.2 作品**，归档 **10 段完整 X 录像**。按上海时间，5 件作品首发于 11 月 26 日，另补录 11 月 25 日的 6 件。
+11 月 27 日新增 **14 件 Astra、2 件 Claude Fable 5.2 作品和 1 件原生 GIF**，归档 **11 段完整 X 录像**。按上海时间，4 件作品首发于 11 月 27 日，8 件首发于 11 月 26 日，其余 5 件为补录。
 
 <!-- atlas:update-previews:start -->
 **Astra 新收录**
 
-| 博物馆夜场：用 Blender 拍活恐龙骨架 | 亚特兰蒂斯鳐鱼：同题对照游动与水下光 | Winter Crown：四个模型各做一座雪堡 |
+| Cloud Pass：骑摩托穿过云间山道 | 桂林漓江：把家乡照片做成可切天气的三维场景 | 玄武岩海洞：两版日落运镜 |
 | --- | --- | --- |
-| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-26/minute-dinosaur-museum-1-frame.jpg" height="154" alt="博物馆夜场：用 Blender 拍活恐龙骨架">](https://carpentry-liu.github.io/awesome-astra-3d/cases/minute-dinosaur-museum/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-26/envol-atlantis-rays-1-frame.jpg" height="154" alt="亚特兰蒂斯鳐鱼：同题对照游动与水下光">](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-atlantis-rays/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2125632934812205059/img/Q7y6Zm9TM7ytmwhu.jpg" height="154" alt="Winter Crown：四个模型各做一座雪堡">](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-winter-crown/) |
-| [作者录像](https://v.redd.it/37p2gurnnt3i1/CMAF_1080.mp4?source=fallback) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-atlantis-rays/#videos) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-winter-crown/#videos) |
+| [<img src="https://pbs.twimg.com/ext_tw_video_thumb/2125995879584985088/pu/img/knS7gnxVoy4Z2R0F.jpg" height="154" alt="Cloud Pass：骑摩托穿过云间山道">](https://carpentry-liu.github.io/awesome-astra-3d/cases/meng-cloud-pass/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-27/young-russell-li-river-1-frame.jpg" height="154" alt="桂林漓江：把家乡照片做成可切天气的三维场景">](https://carpentry-liu.github.io/awesome-astra-3d/cases/young-russell-li-river/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-27/teddy-basalt-cave-1-frame.jpg" height="154" alt="玄武岩海洞：两版日落运镜">](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-basalt-cave/) |
+| [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/meng-cloud-pass/#videos) · [作者演示](https://threeui.com/cloud-pass) | [作者录像](https://v.redd.it/8j7c1giyip3i1/CMAF_720.mp4?source=fallback) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-basalt-cave/#videos) |
 
-| 海岸列车遇上巨浪：三版场景运镜 | 同一张鬼面参考，两版 Blender 雕刻 | Saffron Reach：彩色河湾城镇的美术方向 |
+| 雨夜之城：让湿柏油与积水映出不同的霓虹 | 蜂鸟眼里的高山湖：两份 Blender 脚本，同一条航线 | 同一张机械手参考，三版 Blender 建模与动作 |
 | --- | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2125630563998466048/img/L054Auusia9klE22.jpg" height="154" alt="海岸列车遇上巨浪：三版场景运镜">](https://carpentry-liu.github.io/awesome-astra-3d/cases/rubens-train-and-wave/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-26/semi-oni-sculpt-1-frame.jpg" height="154" alt="同一张鬼面参考，两版 Blender 雕刻">](https://carpentry-liu.github.io/awesome-astra-3d/cases/semi-oni-sculpt/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2125520822706278400/img/BNp8xhJi06TZSg3W.jpg" height="154" alt="Saffron Reach：彩色河湾城镇的美术方向">](https://carpentry-liu.github.io/awesome-astra-3d/cases/danny-art-directions/) |
-| [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/rubens-train-and-wave/#videos) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/semi-oni-sculpt/#videos) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/danny-art-directions/#videos) |
+| [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-27/unnone-night-city-1-frame.jpg" height="154" alt="雨夜之城：让湿柏油与积水映出不同的霓虹">](https://carpentry-liu.github.io/awesome-astra-3d/cases/unnone-night-city/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-27/funwalk-hummingbird-valley-1-frame.jpg" height="154" alt="蜂鸟眼里的高山湖：两份 Blender 脚本，同一条航线">](https://carpentry-liu.github.io/awesome-astra-3d/cases/funwalk-hummingbird-valley/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-27/amir-three-way-robo-hand-1-frame.jpg" height="154" alt="同一张机械手参考，三版 Blender 建模与动作">](https://carpentry-liu.github.io/awesome-astra-3d/cases/amir-three-way-robo-hand/) |
+| [在 B 站播放](https://www.bilibili.com/video/BV1ZVyyz7EYe/) | [作者录像](https://v.redd.it/8ql4kbew2z3i1/CMAF_480.mp4?source=fallback) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/amir-three-way-robo-hand/#videos) |
 
 **Fable 5.2 新收录**
 
-| 拆船厂：从一张概念图搭出 875 米场景 | 把样板房平面图变成可编辑的 Blender 住宅 | 狼头面具：用 Blender 原生笔刷雕刻 |
-| --- | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2125669324849610752/img/LXlAVEbkvcwWpkpa.jpg" height="154" alt="拆船厂：从一张概念图搭出 875 米场景">](https://carpentry-liu.github.io/awesome-astra-3d/cases/apek-shipbreaking-yard/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-26/fokki-brochure-house-1-frame.jpg" height="154" alt="把样板房平面图变成可编辑的 Blender 住宅">](https://carpentry-liu.github.io/awesome-astra-3d/cases/fokki-brochure-house/) | [<img src="https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-26/delicious-sculpted-wolf-mask-1-frame.jpg" height="154" alt="狼头面具：用 Blender 原生笔刷雕刻">](https://carpentry-liu.github.io/awesome-astra-3d/cases/delicious-sculpted-wolf-mask/) |
-| [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/apek-shipbreaking-yard/#videos) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/fokki-brochure-house/#videos) | [作者录像](https://v.redd.it/p2ui692nsm3i1/CMAF_1080.mp4?source=fallback) |
+| 光与破片：用鼠标推开 15 万片碎屑 | Blender 火焰到 Unreal：用手机语音导演的夜景 |
+| --- | --- |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2125811291537510400/img/VEpXo7j7fNjhHggL.jpg" height="154" alt="光与破片：用鼠标推开 15 万片碎屑">](https://carpentry-liu.github.io/awesome-astra-3d/cases/kondo-light-and-debris/) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2125250151765639168/img/xa2Ze7W4c7kKEd1l.jpg" height="154" alt="Blender 火焰到 Unreal：用手机语音导演的夜景">](https://carpentry-liu.github.io/awesome-astra-3d/cases/hector-house-fire/) |
+| [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/kondo-light-and-debris/#videos) · [作者演示](https://nkondo-ft.github.io/light-and-debris/) · [源码](https://github.com/nkondo-ft/light-and-debris) | [完整录像](https://carpentry-liu.github.io/awesome-astra-3d/cases/hector-house-fire/#videos) |
 
-[查看本轮全部 11 个案例](UPDATES.md#2026-11-26--11-个案例) · [Astra 最新](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [Fable 5.2 最新](https://carpentry-liu.github.io/awesome-astra-3d/?group=fable&order=newest#collection) · [下载完整原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-26)
+[查看本轮全部 17 个案例](UPDATES.md#2026-11-27--17-个案例) · [Astra 最新](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [Fable 5.2 最新](https://carpentry-liu.github.io/awesome-astra-3d/?group=fable&order=newest#collection) · [下载完整原版](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-27)
 <!-- atlas:update-previews:end -->
 
 <!-- atlas:latest:start -->
 | 作品 | 原作者 | 直接入口 |
 | --- | --- | --- |
-| [博物馆夜场：用 Blender 拍活恐龙骨架](https://carpentry-liu.github.io/awesome-astra-3d/cases/minute-dinosaur-museum/) | u/Minute_Razzmatazz914 | [原始来源](https://www.reddit.com/r/TopologyAI/comments/1y5ihd4/i_directed_a_blender_short_with_gpt_astra_62/) |
-| [亚特兰蒂斯鳐鱼：同题对照游动与水下光](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-atlantis-rays/) | Tony / @EnvolDev | [原始来源](https://x.com/EnvolDev/status/2125687970867154949) |
-| [Winter Crown：四个模型各做一座雪堡](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-winter-crown/) | Tony / @EnvolDev | [原始来源](https://x.com/EnvolDev/status/2125633183161139699) |
-| [海岸列车遇上巨浪：三版场景运镜](https://carpentry-liu.github.io/awesome-astra-3d/cases/rubens-train-and-wave/) | Rubens Soto \| AI & SaaS / @rubenssoto_ai | [原始来源](https://x.com/rubenssoto_ai/status/2125630819251147181) |
-| [同一张鬼面参考，两版 Blender 雕刻](https://carpentry-liu.github.io/awesome-astra-3d/cases/semi-oni-sculpt/) | Semichenko / @semichenkko | [原始来源](https://x.com/semichenkko/status/2125609971580645590) |
-| [Saffron Reach：彩色河湾城镇的美术方向](https://carpentry-liu.github.io/awesome-astra-3d/cases/danny-art-directions/) | Danny Postma / @dannypostma | [原始来源](https://x.com/dannypostma/status/2125521082711244920) |
-| [雾中轨道：把灯光、林地与音效放进浏览器](https://carpentry-liu.github.io/awesome-astra-3d/cases/chetan-misty-rail-world/) | Chetan Ankola / @chetanankola | [原始来源](https://x.com/chetanankola/status/2125525605907309008) |
-| [从角色图到 VRM：转身、动作与表情测试](https://carpentry-liu.github.io/awesome-astra-3d/cases/hajime-vrm-avatar/) | ついはじめ \| Hajime Tsui / @hajimetwi3 | [原始来源](https://x.com/hajimetwi3/status/2125505899523649966) |
+| [Cloud Pass：骑摩托穿过云间山道](https://carpentry-liu.github.io/awesome-astra-3d/cases/meng-cloud-pass/) | Meng To / @MengTo | [演示](https://threeui.com/cloud-pass) · [源码](https://github.com/MengTo/Skills/tree/main/agent-skills/3d/endless-riding-parallax) · [原始来源](https://x.com/MengTo/status/2125995984400654658) |
+| [桂林漓江：把家乡照片做成可切天气的三维场景](https://carpentry-liu.github.io/awesome-astra-3d/cases/young-russell-li-river/) | u/Young_Russell | [原始来源](https://www.reddit.com/r/codex/comments/1y50ubv/my_favorite_3d_vibecoding_project/) |
+| [玄武岩海洞：两版日落运镜](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-basalt-cave/) | Teddy / @teddyaisi | [原始来源](https://x.com/teddyaisi/status/2126011573177307352) |
+| [雨夜之城：让湿柏油与积水映出不同的霓虹](https://carpentry-liu.github.io/awesome-astra-3d/cases/unnone-night-city/) | unnone-studio | [原始来源](https://www.bilibili.com/video/BV1ZVyyz7EYe/) |
+| [蜂鸟眼里的高山湖：两份 Blender 脚本，同一条航线](https://carpentry-liu.github.io/awesome-astra-3d/cases/funwalk-hummingbird-valley/) | u/Fun_Walk_4965 | [原始来源](https://www.reddit.com/r/ChatGPT/comments/1y63f9y/zero_generated_assets_100_code_claude_fable_52/) |
+| [同一张机械手参考，三版 Blender 建模与动作](https://carpentry-liu.github.io/awesome-astra-3d/cases/amir-three-way-robo-hand/) | AmirMušić / @AmirMushich | [原始来源](https://x.com/AmirMushich/status/2125635764029370722) |
+| [First Tracks Above：同一条雪坡上的两位滑雪者](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-first-tracks/) | Tony / @EnvolDev | [原始来源](https://x.com/EnvolDev/status/2126051891805295088) |
+| [Belugas：冰墙下的三版白鲸动画](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-belugas/) | Tony / @EnvolDev | [原始来源](https://x.com/EnvolDev/status/2125989960662802928) |
 <!-- atlas:latest:end -->
 
 [完整更新目录 →](UPDATES.md) · [维护与核查说明](docs/maintenance.md)

@@ -1,5 +1,5 @@
 {
-  "observedAt": "2026-11-26",
+  "observedAt": "2026-11-27",
   "officialSources": [
     "https://developers.openai.com/showcase/all",
     "https://developers.openai.com/api/docs/models/gpt-6-astra"
@@ -19115,6 +19115,598 @@
       "newMediaFiles": 20,
       "newMediaBytes": 426536346,
       "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-26"
+    },
+    {
+      "observedAt": "2026-11-27",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "baselineCommit": "f7f2b8bbdf6af42a1704006ff87437bf65d5d16e",
+      "baselineCount": 646,
+      "resultingCount": 663,
+      "addedCaseIds": [
+        "meng-cloud-pass",
+        "young-russell-li-river",
+        "teddy-basalt-cave",
+        "unnone-night-city",
+        "funwalk-hummingbird-valley",
+        "amir-three-way-robo-hand",
+        "envol-first-tracks",
+        "envol-belugas",
+        "happycapy-palais-garnier",
+        "p40-four-fantasy-worlds",
+        "sentimental-kafue-roundabout",
+        "diego-whiskey-glass",
+        "teddy-moroccan-riad",
+        "fresh-four-legged-cargo-walker",
+        "kondo-light-and-debris",
+        "hector-house-fire",
+        "kingy-rocking-bottle-gif"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "observations": [
+        {
+          "id": "meng-cloud-pass",
+          "sourceUrl": "https://x.com/MengTo/status/2125995984400654658",
+          "sourceDate": "2026-11-27",
+          "modelLabel": "GPT-6.2 Astra",
+          "group": "astra"
+        },
+        {
+          "id": "young-russell-li-river",
+          "sourceUrl": "https://www.reddit.com/r/codex/comments/1y50ubv/my_favorite_3d_vibecoding_project/",
+          "sourceDate": "2026-11-25",
+          "modelLabel": "GPT-6.2 Astra",
+          "group": "astra"
+        },
+        {
+          "id": "teddy-basalt-cave",
+          "sourceUrl": "https://x.com/teddyaisi/status/2126011573177307352",
+          "sourceDate": "2026-11-27",
+          "modelLabel": "GPT-6.2 Astra · Gemini 4 Neon",
+          "group": "astra"
+        },
+        {
+          "id": "unnone-night-city",
+          "sourceUrl": "https://www.bilibili.com/video/BV1ZVyyz7EYe/",
+          "sourceDate": "2026-11-26",
+          "modelLabel": "GPT-6.2 Astra",
+          "group": "astra"
+        },
+        {
+          "id": "funwalk-hummingbird-valley",
+          "sourceUrl": "https://www.reddit.com/r/ChatGPT/comments/1y63f9y/zero_generated_assets_100_code_claude_fable_52/",
+          "sourceDate": "2026-11-26",
+          "modelLabel": "GPT-6.2 Astra · Claude Fable 5.2",
+          "group": "astra"
+        },
+        {
+          "id": "amir-three-way-robo-hand",
+          "sourceUrl": "https://x.com/AmirMushich/status/2125635764029370722",
+          "sourceDate": "2026-11-26",
+          "modelLabel": "GPT-6.2 Astra · Claude Fable 5.2 · Gemini 4 Neon",
+          "group": "astra"
+        },
+        {
+          "id": "envol-first-tracks",
+          "sourceUrl": "https://x.com/EnvolDev/status/2126051891805295088",
+          "sourceDate": "2026-11-27",
+          "modelLabel": "GPT-6.2 Astra · Claude Fable 5.2",
+          "group": "astra"
+        },
+        {
+          "id": "envol-belugas",
+          "sourceUrl": "https://x.com/EnvolDev/status/2125989960662802928",
+          "sourceDate": "2026-11-27",
+          "modelLabel": "GPT-6.2 Astra · Claude Fable 5.2 · Claude Opus 5.5",
+          "group": "astra"
+        },
+        {
+          "id": "happycapy-palais-garnier",
+          "sourceUrl": "https://x.com/happycapyai/status/2125900277408743935",
+          "sourceDate": "2026-11-26",
+          "modelLabel": "GPT-6.2 Astra · Claude Fable 5.2",
+          "group": "astra"
+        },
+        {
+          "id": "p40-four-fantasy-worlds",
+          "sourceUrl": "https://www.bilibili.com/video/BV1ZByfz4ESL/",
+          "sourceDate": "2026-11-24",
+          "modelLabel": "GPT-6.2 Astra",
+          "group": "astra"
+        },
+        {
+          "id": "sentimental-kafue-roundabout",
+          "sourceUrl": "https://x.com/SentimentalCook/status/2125826737703625091",
+          "sourceDate": "2026-11-26",
+          "modelLabel": "GPT-6.2 Astra",
+          "group": "astra"
+        },
+        {
+          "id": "diego-whiskey-glass",
+          "sourceUrl": "https://x.com/diegocabezas01/status/2125947575605821601",
+          "sourceDate": "2026-11-26",
+          "modelLabel": "GPT-6.2 Astra Ultra",
+          "group": "astra"
+        },
+        {
+          "id": "teddy-moroccan-riad",
+          "sourceUrl": "https://x.com/teddyaisi/status/2125801723172467109",
+          "sourceDate": "2026-11-26",
+          "modelLabel": "GPT-6.2 Astra · Gemini 4 Neon",
+          "group": "astra"
+        },
+        {
+          "id": "fresh-four-legged-cargo-walker",
+          "sourceUrl": "https://www.reddit.com/r/ArtificialInteligence/comments/1y4unti/same_model_same_prompt_two_pipelines_gpt62_astra/",
+          "sourceDate": "2026-11-25",
+          "modelLabel": "GPT-6.2 Astra",
+          "group": "astra"
+        },
+        {
+          "id": "kondo-light-and-debris",
+          "sourceUrl": "https://x.com/Nkondo_funtech/status/2125811742001541535",
+          "sourceDate": "2026-11-26",
+          "modelLabel": "Claude Fable 5.2",
+          "group": "fable"
+        },
+        {
+          "id": "hector-house-fire",
+          "sourceUrl": "https://x.com/hectorVFX/status/2125250192773390610",
+          "sourceDate": "2026-11-24",
+          "modelLabel": "Claude Fable 5.2",
+          "group": "fable"
+        },
+        {
+          "id": "kingy-rocking-bottle-gif",
+          "sourceUrl": "https://kingy.ai/blog/chatgpt-gifs-images-2-6-vs-2-5-hands-on-test/#the-native-gif-a-2-6-api-output-with-no-2-5-comparator",
+          "sourceDate": "2026-11-05",
+          "modelLabel": "GPT-Image-2.6 Sunburst",
+          "group": "gif"
+        }
+      ],
+      "queries": [
+        "Recent Blender, Three.js, Unreal and WebGPU creator work using GPT-6.2 Astra or Fable 5.2",
+        "X, GitHub, Reddit, Bilibili, Xiaohongshu and Douyin discovery. Creator record and explicit model proof required.",
+        "Documented original GPT-Image-2.6 GIF output from a named API variant"
+      ],
+      "discoverySources": [
+        "https://search.bilibili.com/all?keyword=GPT-6.2%20Astra&order=pubdate",
+        "https://search.bilibili.com/all?keyword=Fable%205.2%20Blender&order=pubdate",
+        "https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=GPT+6.2+Astra+Three.js&order=pubdate&page=1",
+        "https://www.xiaohongshu.com/search_result?keyword=GPT-6.2%20Astra%20%E5%BB%BA%E6%A8%A1",
+        "https://www.douyin.com/search/GPT-6.2%20Astra",
+        "https://www.xiaohongshu.com/search_result?keyword=Fable%205.2%20Blender",
+        "https://www.douyin.com/search/Fable%205.2%20Blender",
+        "https://raw.githubusercontent.com/sandbase-lab/awesome-gpt-6-2-astra/main/README.md",
+        "https://raw.githubusercontent.com/sandbase-lab/awesome-gpt-6-2-astra/main/docs/prompts.md",
+        "https://madewiththreejs.com/",
+        "https://threejs.cc/en/topic/gpt-6-2-astra/",
+        "https://threejs.cc/en/topic/fable-5-2/",
+        "https://claude-motion.com/gpt-6-2-videos",
+        "https://maomaoailab.com/zh/news/",
+        "https://nexttoken.tv/weekly/011/transcript",
+        "https://www.waytoagi.com/usecase-atlas/fable5-2/",
+        "https://raw.githubusercontent.com/fengyiqicoder/awesome-fable-5.2/main/README.md",
+        "https://raw.githubusercontent.com/mofa-si/awesome-fable-5-2-videos/main/README.md",
+        "https://fablelist.000ooo.ooo/video-demos/",
+        "https://fablelist.000ooo.ooo/",
+        "https://www.reddit.com/r/codex/new.json?limit=65",
+        "https://www.reddit.com/r/TopologyAI/new.json?limit=75&raw_json=1",
+        "https://www.reddit.com/r/ClaudeGameDev/new.json?limit=55",
+        "https://www.reddit.com/r/OpenAIAstra/new.json?limit=65&raw_json=1",
+        "https://www.reddit.com/r/vibecoding/new.json?limit=75&raw_json=1",
+        "https://www.reddit.com/r/ChatGPT/comments/1y63f9y/zero_generated_assets_100_code_claude_fable_52/",
+        "https://www.reddit.com/r/codex/comments/1y50ubv/my_favorite_3d_vibecoding_project/",
+        "https://www.reddit.com/r/ArtificialInteligence/comments/1y4unti/same_model_same_prompt_two_pipelines_gpt62_astra/",
+        "https://nitter.tiekoetter.com/EnvolDev?filter=posts",
+        "https://nitter.tiekoetter.com/teddyaisi?filter=posts",
+        "https://nitter.tiekoetter.com/ThreeUI?filter=posts",
+        "https://runware.ai/docs/models/openai-gpt-image-2-6-flare/guides/animated-gifs",
+        "https://www.photoworkout.com/gpt-image-26-test/",
+        "https://xinyuai.app/en/news/gpt-image-2-6-gif-launch",
+        "https://openai.com/index/introducing-images-2-6/",
+        "https://www.reddit.com/comments/1y50ubv.json?raw_json=1",
+        "https://www.reddit.com/comments/1y63f9y.json?raw_json=1",
+        "https://www.reddit.com/comments/1y4unti.json?raw_json=1",
+        "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZVyyz7EYe",
+        "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZByfz4ESL",
+        "https://github.com/P40-traveler/concept-to-threejs",
+        "https://kingy.ai/blog/chatgpt-gifs-images-2-6-vs-2-5-hands-on-test/",
+        "https://sparkpix.ai/gpt-image-2-6",
+        "https://oraclip.com/blog/how-to-make-gpt-image-2-6-gifs"
+      ],
+      "sourceChecks": [
+        {
+          "caseId": "meng-cloud-pass",
+          "sourceUrl": "https://x.com/MengTo/status/2125995984400654658",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-27T00:51:56+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2125995879584985088",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "teddy-basalt-cave",
+          "sourceUrl": "https://x.com/teddyaisi/status/2126011573177307352",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-27T01:53:53+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2126011078236889088",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "amir-three-way-robo-hand",
+          "sourceUrl": "https://x.com/AmirMushich/status/2125635764029370722",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-26T01:00:33+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2125631368692469760",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "envol-first-tracks",
+          "sourceUrl": "https://x.com/EnvolDev/status/2126051891805295088",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-27T04:34:05+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2126051722045030401",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "envol-belugas",
+          "sourceUrl": "https://x.com/EnvolDev/status/2125989960662802928",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-27T00:28:00+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2125986669744816129",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "happycapy-palais-garnier",
+          "sourceUrl": "https://x.com/happycapyai/status/2125900277408743935",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-26T18:31:38+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2125899281160900608",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "sentimental-kafue-roundabout",
+          "sourceUrl": "https://x.com/SentimentalCook/status/2125826737703625091",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-26T13:39:24+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2125825333916299264",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "diego-whiskey-glass",
+          "sourceUrl": "https://x.com/diegocabezas01/status/2125947575605821601",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-26T21:39:34+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2125752814605348864",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "teddy-moroccan-riad",
+          "sourceUrl": "https://x.com/teddyaisi/status/2125801723172467109",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-26T12:00:00+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2125795739884482560",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "kondo-light-and-debris",
+          "sourceUrl": "https://x.com/Nkondo_funtech/status/2125811742001541535",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-26T12:39:49+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2125811291537510400",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "hector-house-fire",
+          "sourceUrl": "https://x.com/hectorVFX/status/2125250192773390610",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-24T23:28:25+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2125250151765639168",
+          "originalHtmlMediaMatched": true
+        }
+      ],
+      "perCaseExternalChecks": [
+        {
+          "caseId": "young-russell-li-river",
+          "sourceUrl": "https://www.reddit.com/r/codex/comments/1y50ubv/my_favorite_3d_vibecoding_project/",
+          "metadataUrl": "https://www.reddit.com/comments/1y50ubv.json?raw_json=1",
+          "author": "u/Young_Russell",
+          "sourceDate": "2026-11-25",
+          "publishedAtShanghai": "2026-11-25T15:00:56+08:00",
+          "publicMediaUrl": "https://v.redd.it/8j7c1giyip3i1/CMAF_720.mp4?source=fallback",
+          "mediaId": "8j7c1giyip3i1",
+          "contentType": "video/mp4",
+          "httpStatus": 200,
+          "bytes": 16984122,
+          "sha256": "5a0b4f7efefc786d62e4ec09c01273555d15e379fd3d902e7019539684bae3b8",
+          "expectedDurationSeconds": 70,
+          "durationSeconds": 70.0,
+          "decodeChecked": true,
+          "complete": true,
+          "audioIncluded": false,
+          "authorUploadHasAudio": true
+        },
+        {
+          "caseId": "funwalk-hummingbird-valley",
+          "sourceUrl": "https://www.reddit.com/r/ChatGPT/comments/1y63f9y/zero_generated_assets_100_code_claude_fable_52/",
+          "metadataUrl": "https://www.reddit.com/comments/1y63f9y.json?raw_json=1",
+          "author": "u/Fun_Walk_4965",
+          "sourceDate": "2026-11-26",
+          "publishedAtShanghai": "2026-11-26T23:08:13+08:00",
+          "publicMediaUrl": "https://v.redd.it/8ql4kbew2z3i1/CMAF_480.mp4?source=fallback",
+          "mediaId": "8ql4kbew2z3i1",
+          "contentType": "video/mp4",
+          "httpStatus": 200,
+          "bytes": 1435811,
+          "sha256": "1d9a22044b715efeb6a004c62a221364a9cb76d7308f1371e299cf2f62c11822",
+          "expectedDurationSeconds": 10,
+          "durationSeconds": 10.0,
+          "decodeChecked": true,
+          "complete": true,
+          "audioIncluded": false,
+          "authorUploadHasAudio": false
+        },
+        {
+          "caseId": "fresh-four-legged-cargo-walker",
+          "sourceUrl": "https://www.reddit.com/r/ArtificialInteligence/comments/1y4unti/same_model_same_prompt_two_pipelines_gpt62_astra/",
+          "metadataUrl": "https://www.reddit.com/comments/1y4unti.json?raw_json=1",
+          "author": "u/Fresh-Resolution182",
+          "sourceDate": "2026-11-25",
+          "publishedAtShanghai": "2026-11-25T09:26:15+08:00",
+          "publicMediaUrl": "https://v.redd.it/3m0fad6dvn3i1/CMAF_480.mp4?source=fallback",
+          "mediaId": "3m0fad6dvn3i1",
+          "contentType": "video/mp4",
+          "httpStatus": 200,
+          "bytes": 814498,
+          "sha256": "5575a9256e9b5d6a4169c98d063612589de8e613b3f6d07529758b5c848757b0",
+          "expectedDurationSeconds": 10,
+          "durationSeconds": 10.0,
+          "decodeChecked": true,
+          "complete": true,
+          "audioIncluded": false,
+          "authorUploadHasAudio": false
+        },
+        {
+          "caseId": "unnone-night-city",
+          "sourceUrl": "https://www.bilibili.com/video/BV1ZVyyz7EYe/",
+          "metadataUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZVyyz7EYe",
+          "author": "unnone-studio",
+          "sourceDate": "2026-11-26",
+          "publishedAtShanghai": "2026-11-26T00:06:42+08:00",
+          "contentType": "video/mp4",
+          "httpStatus": 200,
+          "mediaId": 43920983902,
+          "durationSeconds": 115.39,
+          "expectedDurationSeconds": 115.392,
+          "bytes": 28825174,
+          "sha256": "bb4091342551ea7ba6dce9dff0b41d0aa0e6a7d4cbbdd15701a91c680e432ab6",
+          "decodeChecked": true,
+          "complete": true
+        },
+        {
+          "caseId": "p40-four-fantasy-worlds",
+          "sourceUrl": "https://www.bilibili.com/video/BV1ZByfz4ESL/",
+          "metadataUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZByfz4ESL",
+          "author": "变成红潮守护贝拉小姐",
+          "sourceDate": "2026-11-24",
+          "publishedAtShanghai": "2026-11-24T17:05:50+08:00",
+          "contentType": "video/mp4",
+          "httpStatus": 200,
+          "mediaId": 43882909532,
+          "durationSeconds": 99.93,
+          "expectedDurationSeconds": 99.933,
+          "bytes": 23568646,
+          "sha256": "62ad44c4ce083d49019ecdf46095a1589076acbca608dee319dcb902290edf3c",
+          "decodeChecked": true,
+          "complete": true
+        }
+      ],
+      "authorDemos": [
+        {
+          "caseId": "meng-cloud-pass",
+          "url": "https://threeui.com/cloud-pass",
+          "checkedAt": "2026-11-27",
+          "httpStatus": 200,
+          "canvasRendered": true,
+          "input": "scroll",
+          "canvasChangedAfterInput": true,
+          "consoleErrors": [],
+          "environment": "Desktop Chrome with WebGPU adapter"
+        },
+        {
+          "caseId": "kondo-light-and-debris",
+          "url": "https://nkondo-ft.github.io/light-and-debris/",
+          "checkedAt": "2026-11-27",
+          "httpStatus": 200,
+          "canvasRendered": true,
+          "input": "pointer",
+          "canvasChangedAfterInput": true,
+          "consoleErrors": [],
+          "environment": "Desktop Chrome with WebGPU adapter"
+        }
+      ],
+      "animatedGifs": [
+        {
+          "caseId": "kingy-rocking-bottle-gif",
+          "sourceUrl": "https://kingy.ai/blog/chatgpt-gifs-images-2-6-vs-2-5-hands-on-test/#the-native-gif-a-2-6-api-output-with-no-2-5-comparator",
+          "author": "Curtis Pyke / Kingy AI",
+          "platform": "网站",
+          "sourceDate": "2026-11-05",
+          "publishedAtShanghai": "2026-11-05T08:37:24+08:00",
+          "animatedGif": {
+            "url": "https://kingy.ai/wp-content/uploads/2026/11/kingy-images26-test-26-T4.gif",
+            "frames": 10,
+            "durationMs": 2000,
+            "width": 512,
+            "height": 512,
+            "bytes": 470342,
+            "sha256": "059023af76fb0d8f10a226477500c1fc76f0afda5a319c3d99a3721c9f454c49",
+            "verifiedAt": "2026-11-27"
+          },
+          "individualFrameDurationsMs": [
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200
+          ],
+          "distinctFrames": 10,
+          "contentType": "image/gif",
+          "httpStatus": 200,
+          "fullGet": true,
+          "allFramesDecoded": true,
+          "loopCount": 0,
+          "model": "GPT-Image-2.6 Sunburst",
+          "modelEvidence": "Native generation response identified by the original tester."
+        }
+      ],
+      "excludedOrDeferred": [
+        {
+          "url": "https://x.com/Techmadara/status/2126002372799508499",
+          "reason": "The author attributes a single-file coded film to Astra but the available materials do not establish a 3D scene or pipeline."
+        },
+        {
+          "url": "https://x.com/kinderlayer/status/2125995083044356557",
+          "reason": "The creator identifies this as a comparison on Higgsfield and says the workflow did not use 3D."
+        },
+        {
+          "url": "https://x.com/avenmode/status/2125664228392522016",
+          "reason": "Another video about the same Singapore digital twin, already cataloged under chua-singapore-digital-twin."
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1QqyrzPEQ5/",
+          "reason": "The Bilibili run is explicitly credited to the X author. Do not list the repost independently."
+        },
+        {
+          "url": "https://www.reddit.com/r/TopologyAI/comments/1y66rh1/fable_52_built_a_3d_tower_defense_in_one_html/",
+          "reason": "Third-party recap of Kevin Ngo’s Cinderwatch, already collected on November 25."
+        },
+        {
+          "url": "https://www.photoworkout.com/gpt-image-26-test/",
+          "reason": "The tester cannot verify that the mascot GIF was returned by native GPT-Image-2.6 output. A nonuniform timing pass is explicitly mentioned."
+        },
+        {
+          "url": "https://xinyuai.app/en/news/gpt-image-2-6-gif-launch",
+          "reason": "The public 1280 × 800 animation is a combined cover of three separate demos. The original individual output files were not identified."
+        },
+        {
+          "url": "https://runware.ai/docs/models/openai-gpt-image-2-6-flare/guides/animated-gifs",
+          "reason": "The three listed example file URLs returned HTTP 404."
+        }
+      ],
+      "platformLimits": [
+        "X discovery used specific indexed creator timelines and public catalogs after broad mirror searches stopped returning timelines. Every selected X status was corroborated by the creator page.",
+        "Xiaohongshu and Douyin discovery did not yield verifiable first-party examples for this refresh.",
+        "Guilin’s direct Reddit MP4 carries the full picture track. Reddit combines its music separately in the original player.",
+        "Kingy’s GIF was first published November 5 Shanghai time. Its test date is November 4 as reported by the creator."
+      ],
+      "completeSourceClips": 11,
+      "newGifWorks": 1,
+      "newMediaFiles": 22,
+      "newMediaBytes": 239811130,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-27",
+      "discoveryProbeSummary": [
+        {
+          "scan": "discovery",
+          "requests": 272,
+          "responseCodes": {
+            "000": 1,
+            "200": 46,
+            "403": 18,
+            "404": 4,
+            "412": 9,
+            "502": 194
+          }
+        },
+        {
+          "scan": "extra-discovery",
+          "requests": 65,
+          "responseCodes": {
+            "000": 9,
+            "200": 21,
+            "403": 21,
+            "404": 5,
+            "429": 3,
+            "451": 3,
+            "502": 3
+          }
+        },
+        {
+          "scan": "mirror-discovery",
+          "requests": 194,
+          "responseCodes": {
+            "200": 194
+          }
+        },
+        {
+          "scan": "post-discovery",
+          "requests": 154,
+          "responseCodes": {
+            "200": 154
+          }
+        }
+      ]
     }
   ]
 }

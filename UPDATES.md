@@ -2,6 +2,28 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-11-27 · 17 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [Cloud Pass：骑摩托穿过云间山道 / Cloud Pass: An Endless Motorcycle Ride Through the Mountains](https://carpentry-liu.github.io/awesome-astra-3d/cases/meng-cloud-pass/) | Meng To / @MengTo | 源码 / 工程 · 演示入口 · 完整视频 |
+| [桂林漓江：把家乡照片做成可切天气的三维场景 / The Li River in Guilin: A Three.js Landscape with Seasons and Weather](https://carpentry-liu.github.io/awesome-astra-3d/cases/young-russell-li-river/) | u/Young_Russell | 作者展示 |
+| [玄武岩海洞：两版日落运镜 / Basalt Sea Cave: Two Three.js Takes on a Sunset Glide](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-basalt-cave/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [雨夜之城：让湿柏油与积水映出不同的霓虹 / Night City in the Rain: Wet Asphalt, Puddles and Neon in Three.js](https://carpentry-liu.github.io/awesome-astra-3d/cases/unnone-night-city/) | unnone-studio | 提示词 / 过程 |
+| [蜂鸟眼里的高山湖：两份 Blender 脚本，同一条航线 / A Hummingbird’s Alpine Flight: Two Blender Scripts, One Brief](https://carpentry-liu.github.io/awesome-astra-3d/cases/funwalk-hummingbird-valley/) | u/Fun_Walk_4965 | 提示词 / 过程 |
+| [同一张机械手参考，三版 Blender 建模与动作 / One Robotic-Hand Reference, Three Blender Models and Animations](https://carpentry-liu.github.io/awesome-astra-3d/cases/amir-three-way-robo-hand/) | AmirMušić / @AmirMushich | 完整视频 |
+| [First Tracks Above：同一条雪坡上的两位滑雪者 / First Tracks Above: Two Three.js Ski Runs from One Brief](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-first-tracks/) | Tony / @EnvolDev | 完整视频 |
+| [Belugas：冰墙下的三版白鲸动画 / Belugas: Three Model Takes on Motion Under the Ice](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-belugas/) | Tony / @EnvolDev | 完整视频 |
+| [巴黎歌剧院大楼梯：两版可步行的 Three.js 场景 / Palais Garnier: Two Walkable Three.js Takes on the Grand Staircase](https://carpentry-liu.github.io/awesome-astra-3d/cases/happycapy-palais-garnier/) | Happycapy / @happycapyai | 完整视频 |
+| [雾海到螺旋深渊：四座离线 Three.js 奇幻城 / Four Offline Three.js Fantasy Worlds, from the Mist Sea to the Spiral Abyss](https://carpentry-liu.github.io/awesome-astra-3d/cases/p40-four-fantasy-worlds/) | 变成红潮守护贝拉小姐 | 源码 / 工程 · 提示词 / 过程 |
+| [Findeco House：用 Three.js 搭卢萨卡路口 / Findeco House: Rebuilding a Lusaka Roundabout in Three.js](https://carpentry-liu.github.io/awesome-astra-3d/cases/sentimental-kafue-roundabout/) | Sentimental Foodie / @SentimentalCook | 完整视频 · 提示词 / 过程 |
+| [一杯威士忌：单文件 HTML 里的玻璃、冰和焦散 / A Glass of Whiskey: Ice, Refraction and Caustics in One HTML File](https://carpentry-liu.github.io/awesome-astra-3d/cases/diego-whiskey-glass/) | Diego \| AI 🚀 - e/acc / @diegocabezas01 | 完整视频 · 提示词 / 过程 |
+| [摩洛哥 Riad：两版围绕水池的庭院 / A Moroccan Riad: Two Three.js Courtyards around the Pool](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-moroccan-riad/) | Teddy / @teddyaisi | 完整视频 |
+| [四足货运机甲：同一个 Astra 分别写 Three.js 和 Blender / One Astra Brief, Two Pipelines: A Four-Legged Cargo Walker](https://carpentry-liu.github.io/awesome-astra-3d/cases/fresh-four-legged-cargo-walker/) | u/Fresh-Resolution182 | 提示词 / 过程 |
+| [光与破片：用鼠标推开 15 万片碎屑 / Light & Debris: Moving 150,000 Shards with a Cursor Light](https://carpentry-liu.github.io/awesome-astra-3d/cases/kondo-light-and-debris/) | 近藤尚幸 Naoyuki Kondou / @Nkondo_funtech | 源码 / 工程 · 演示入口 · 完整视频 · Fable 5.2 |
+| [Blender 火焰到 Unreal：用手机语音导演的夜景 / Blender Fire in Unreal: A Night Scene Directed by Voice Commands](https://carpentry-liu.github.io/awesome-astra-3d/cases/hector-house-fire/) | hectorvfx / @hectorVFX | 完整视频 · Fable 5.2 |
+| [水壶左右轻晃：Sunburst 原生商品 GIF / A Bottle Rocking Side to Side: Sunburst’s Native Product GIF](https://carpentry-liu.github.io/awesome-astra-3d/cases/kingy-rocking-bottle-gif/) | Curtis Pyke / Kingy AI | GIF 动图（独立分组） · 提示词 / 过程 |
+
 ## 2026-11-26 · 11 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
