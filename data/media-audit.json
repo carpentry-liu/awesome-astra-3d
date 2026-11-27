@@ -96485,7 +96485,7 @@
           "sourceDate": "2026-11-05",
           "publishedAtShanghai": "2026-11-05T08:37:24+08:00",
           "animatedGif": {
-            "url": "https://kingy.ai/wp-content/uploads/2026/11/kingy-images26-test-26-T4.gif",
+            "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-27/kingy-rocking-bottle-original.gif",
             "frames": 10,
             "durationMs": 2000,
             "width": 512,
@@ -96513,7 +96513,30 @@
           "allFramesDecoded": true,
           "loopCount": 0,
           "model": "GPT-Image-2.6 Sunburst",
-          "modelEvidence": "Native generation response identified by the original tester."
+          "modelEvidence": "Native generation response identified by the original tester.",
+          "originalArticleAssetUrl": "https://kingy.ai/wp-content/uploads/2026/11/kingy-images26-test-26-T4.gif",
+          "originDeliveryCheck": {
+            "checkedAt": "2026-11-27",
+            "verifiedRawBytes": 470342,
+            "verifiedRawSha256": "059023af76fb0d8f10a226477500c1fc76f0afda5a319c3d99a3721c9f454c49",
+            "alternateCdnBytes": 470186,
+            "alternateCdnSha256": "10fc7a505e9886a9803360fc08ecc3ce2d843262595c89e8fb75063796d471e8",
+            "sameDecodedPixelsAndTiming": true,
+            "authorArchive": {
+              "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-27/kingy-rocking-bottle-original.gif",
+              "contentType": "image/gif",
+              "bytes": 470342,
+              "sha256": "059023af76fb0d8f10a226477500c1fc76f0afda5a319c3d99a3721c9f454c49",
+              "authorArchive": "kingy-rocking-bottle-original.gif"
+            },
+            "browserArcVerified": {
+              "width": 512,
+              "height": 512,
+              "animationFramesChanged": true,
+              "sha256": "059023af76fb0d8f10a226477500c1fc76f0afda5a319c3d99a3721c9f454c49"
+            },
+            "note": "The author CDN serves an animated WebP to Chrome at the public article URL. The Release download preserves the verified original GIF bytes."
+          }
         }
       ],
       "newVideos": [

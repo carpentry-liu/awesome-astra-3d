@@ -849,7 +849,8 @@
     "repositoryUrl": null,
     "promptUrl": "https://kingy.ai/blog/chatgpt-gifs-images-2-6-vs-2-5-hands-on-test/#the-native-gif-a-2-6-api-output-with-no-2-5-comparator",
     "evidenceUrls": [
-      "https://kingy.ai/wp-content/uploads/2026/11/kingy-images26-test-26-T4.gif"
+      "https://kingy.ai/wp-content/uploads/2026/11/kingy-images26-test-26-T4.gif",
+      "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-27/kingy-rocking-bottle-original.gif"
     ],
     "outcome": "showcase",
     "author": "Curtis Pyke / Kingy AI",
@@ -858,7 +859,7 @@
     "imageUrl": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-27/kingy-rocking-bottle-gif-1-frame.jpg",
     "imageKind": "gif-frame",
     "animatedGif": {
-      "url": "https://kingy.ai/wp-content/uploads/2026/11/kingy-images26-test-26-T4.gif",
+      "url": "https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-27/kingy-rocking-bottle-original.gif",
       "frames": 10,
       "durationMs": 2000,
       "width": 512,
@@ -867,7 +868,7 @@
       "sha256": "059023af76fb0d8f10a226477500c1fc76f0afda5a319c3d99a3721c9f454c49",
       "checkedAt": "2026-11-27"
     },
-    "sourceAccess": "从作者原文完整获取 GIF。10 帧全部不同，每帧 200 毫秒，首帧归档用于停止和减少动态效果。",
+    "sourceAccess": "完整解码作者公开的 10 帧，每帧 200 毫秒。Release 收录作者的原始 GIF 字节，保留出处及 SHA-256。",
     "platforms": [
       "作者网站"
     ]
