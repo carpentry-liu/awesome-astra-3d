@@ -69,9 +69,9 @@ npm start
 
 | 范围 | 实际检查 |
 | --- | --- |
-| 原始录像 | `py -3.13 work/2026-11-27/prepare-media.py` 核对 11 个 X 作者原帖、发布时间和全部 11 段附件。22 个最高码率原版与原平台播放版共 239,811,130 字节，均通过 FFmpeg 全长解码。Release 的 33 个附件尺寸和 SHA-256 一致，包括 11 张成果帧。 [媒体 Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-27) |
+| 原始录像 | `py -3.13 work/2026-11-27/prepare-media.py` 核对 11 个 X 作者原帖、发布时间和全部 11 段附件。22 个最高码率原版与原平台播放版共 239,811,130 字节，均通过 FFmpeg 全长解码。Release 的 34 个附件尺寸和 SHA-256 一致，包括 11 张成果帧和 1 个原始 GIF。 [媒体 Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-27) |
 | 作者演示与外部录像 | `node work/2026-11-27/demo-retry.mjs` 在支持 WebGPU 的 Chrome 中实测 Cloud Pass 的滚动控制与光与破片的光点交互。两段 B 站录像均通过全长解码，`bili-start.mjs` 与 `bili-retry.mjs` 确认原帖开始播放。三段 Reddit 画面在 `external-player.mjs` 中播到结尾，时长 70、10、10 秒。漓江的配乐随作者原帖播放。 |
-| 原生 GIF | Kingy AI 的公开 Sunburst API 输出经完整 GET 和逐帧解码，512 × 512、10 帧各 200 毫秒。浏览器检查了列表与详情的自动播放、暂停、恢复和减少动态效果。原地址的 CDN 版本与原始下载逐帧像素和时序一致，采用三种请求所得 SHA-256 相同的原始下载地址。 |
+| 原生 GIF | Kingy AI 的公开 Sunburst API 输出经完整 GET 和逐帧解码，512 × 512、10 帧各 200 毫秒。浏览器检查了列表与详情的自动播放、暂停、恢复和减少动态效果。作者站会按客户端提供 WebP 动图，案例使用 Release 中经 SHA-256 核对的原始 GIF，并保留作者原站链接。 |
 | 构建 | `npm.cmd run catalog`、`npm.cmd run check` 和 `npm.cmd run lint` 通过，共 34 项测试。普通与 GitHub Pages 子路径的 `npm.cmd run build` 各核查 1,372 个静态页、29,644 条本地引用、663 份详情 JSON 与 1,373 个站点地图地址。 |
 | 网站 | `node work/2026-11-27/browser-qa.mjs` 在本地 Pages 子路径通过 17 项检查，11 段新归档录像均播到结尾。首页、最新筛选、双语详情和旧分享地址通过。1440、390 与 320 像素下无页面横向溢出，受测页面无控制台错误或警告。 |
 

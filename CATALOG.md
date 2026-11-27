@@ -750,7 +750,7 @@
 
 | 作品 | 作者 / 来源 | 证据 | 产物与过程 |
 |---|---|---|---|
-| [水壶左右轻晃：Sunburst 原生商品 GIF](https://kingy.ai/blog/chatgpt-gifs-images-2-6-vs-2-5-hands-on-test/#the-native-gif-a-2-6-api-output-with-no-2-5-comparator) | Curtis Pyke / Kingy AI · 作者网站 | 作者自述 | [原始 GIF](https://kingy.ai/wp-content/uploads/2026/11/kingy-images26-test-26-T4.gif) · [提示词/过程](https://kingy.ai/blog/chatgpt-gifs-images-2-6-vs-2-5-hands-on-test/#the-native-gif-a-2-6-api-output-with-no-2-5-comparator) |
+| [水壶左右轻晃：Sunburst 原生商品 GIF](https://kingy.ai/blog/chatgpt-gifs-images-2-6-vs-2-5-hands-on-test/#the-native-gif-a-2-6-api-output-with-no-2-5-comparator) | Curtis Pyke / Kingy AI · 作者网站 | 作者自述 | [原始 GIF](https://github.com/carpentry-liu/awesome-astra-3d/releases/download/media-2026-11-27/kingy-rocking-bottle-original.gif) · [提示词/过程](https://kingy.ai/blog/chatgpt-gifs-images-2-6-vs-2-5-hands-on-test/#the-native-gif-a-2-6-api-output-with-no-2-5-comparator) |
 | [复古熔岩灯：气泡升降的 16 帧循环](https://ghost.oxen.ai/gpt-image-26/) | Oxen.ai · 作者网站 | 作者自述 | [原始 GIF](https://storage.ghost.io/c/bc/24/bc2443b9-eb39-4b32-b473-8eb4576181dd/content/images/2026/11/20261109-012500_a-retro-1970s-lava-lamp-on-a-woo.gif) · [提示词/过程](https://ghost.oxen.ai/gpt-image-26/) |
 | [磨砂香氛瓶 Flare：九帧商品动效](https://veevid.ai/blog/gpt-image-2-6-gif) | Veevid · 作者网站 | 作者自述 | [原始 GIF](https://cdn.veevid.ai/gpt-image-2-6-samples/blog/gif-perfume-loop.gif) |
 | [复古怀表转台：12 帧展示金属与内部机芯](https://www.segmind.com/@shrey/gpt-image-2-6) | Shrey Rajvanshi / Segmind · Segmind | 作者自述 | [原始 GIF](https://segmind-resources.s3.amazonaws.com/output/gpt-image-2.6-sunburst-example-watch-turntable-19a1544f.gif) · [提示词/过程](https://www.segmind.com/@shrey/gpt-image-2-6) |
