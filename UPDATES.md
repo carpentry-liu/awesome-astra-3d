@@ -2,6 +2,29 @@
 
 按本库收录日期排列，不等同于作品首次发布日期。更新由事实源生成。[浏览网站](https://carpentry-liu.github.io/awesome-astra-3d/?order=newest#collection) · [收录规则](CONTRIBUTING.md)
 
+## 2026-11-28 · 18 个案例
+
+| 作品 / Example | 作者 | 可用材料 |
+| --- | --- | --- |
+| [《魔鱼之旅》：骑扫帚飞过海边小镇 / The Fish Witch’s Journey: A Broom Flight over a Seaside Town](https://carpentry-liu.github.io/awesome-astra-3d/cases/big-fish-witch-journey/) | DeepSeek大肥鱼摸鱼中 | 作者展示 |
+| [凌晨 1:17 的末班车：23 轮 Three.js 视觉迭代 / Last Train at 1:17 AM: 23 Three.js Look-Development Iterations](https://carpentry-liu.github.io/awesome-astra-3d/cases/teddy-last-train/) | Teddy / @teddyaisi | 完整视频 · 提示词 / 过程 |
+| [故宫角楼：把榫卯和斗拱逐层拆开 / Forbidden City Corner Tower: Exploded Timber and Dougong Assemblies](https://carpentry-liu.github.io/awesome-astra-3d/cases/fini-forbidden-city-corner-tower/) | Fini.Yang / @FiniYang | 源码 / 工程 · 演示入口 · 完整视频 · 提示词 / 过程 |
+| [《白龙骑行》：从龙背俯瞰屋顶和塔楼 / Riding a White Dragon: A First-Person Flight over Rooftops](https://carpentry-liu.github.io/awesome-astra-3d/cases/ordinary-stranger-character/) | 普普通通的异邦人 | 作者展示 |
+| [一殿藏千里：从祈年殿飞进《千里江山图》 / A Hall Hiding a Thousand Li: An Endless Flight through Art and Architecture](https://carpentry-liu.github.io/awesome-astra-3d/cases/fini-qinian-endless-loop/) | Fini.Yang / @FiniYang | 完整视频 |
+| [66 号公路餐馆：用 Three.js 拍一段第一视角悬疑 / Route 66 Diner: A Bodycam Horror Short Built in Three.js](https://carpentry-liu.github.io/awesome-astra-3d/cases/kloss-route-66-diner/) | klöss / @kloss_xyz | 完整视频 |
+| [Gate Air Race：两架小飞机贴湖穿门 / Gate Air Race: Two Takes on Low Flight through Lake Gates](https://carpentry-liu.github.io/awesome-astra-3d/cases/envol-gate-air-race/) | Tony / @EnvolDev | 完整视频 |
+| [自由女神像：同一视角下的两代 Astra / The Statue of Liberty from One Angle, Across Two Astra Generations](https://carpentry-liu.github.io/awesome-astra-3d/cases/ninja-statue-of-liberty/) | NinjaCodex / @N1njaCodex | 完整视频 |
+| [11,588 张多米诺骨牌：从一颗滚珠开始的连锁动画 / 11,588 Dominoes: A Chain-Reaction Animation Triggered by a Marble](https://carpentry-liu.github.io/awesome-astra-3d/cases/sotsot-domino-chain/) | Sotiris Kaniras / @itssotsot | 完整视频 |
+| [Felix 的三维工作室：能拿起相机和打开电脑 / Felix’s Interactive Studio: Pick Up the Camera and Open the Computer](https://carpentry-liu.github.io/awesome-astra-3d/cases/felix-interactive-room/) | Felix Yang / @gofelixpy | 演示入口 · 完整视频 |
+| [夜航风暴：从船头甲板看浪墙扑近 / Storm at Sea: Towering Waves from a Ship’s Bow](https://carpentry-liu.github.io/awesome-astra-3d/cases/diego-storm-at-sea/) | Diego \| AI 🚀 - e/acc / @diegocabezas01 | 完整视频 · 提示词 / 过程 |
+| [特雷维喷泉：同一张照片，两版罗马暮色 / Trevi Fountain at Dusk: Two Walkable Scenes from the Same Photograph](https://carpentry-liu.github.io/awesome-astra-3d/cases/happycapy-trevi-fountain/) | Happycapy / @happycapyai | 完整视频 |
+| [夜海直升机：两束探照灯穿过暴雨 / A Helicopter over a Night Storm: Two Takes on Rain and Searchlights](https://carpentry-liu.github.io/awesome-astra-3d/cases/klaus-night-storm-helicopter/) | Klaus / @askKlaus | 完整视频 · 提示词 / 过程 |
+| [VIBEVILLE 海边小镇：开源复刻与昼夜切换 / VIBEVILLE: An Open-Source Recreation of Two Seaside Villages](https://carpentry-liu.github.io/awesome-astra-3d/cases/makerjackie-vibeville-remake/) | MakerJackie | 源码 / 工程 · 演示入口 · 提示词 / 过程 |
+| [Exponential：第一人称走进暖光飞船 / Exponential: A First-Person Walk inside a Warmly Lit Spaceship](https://carpentry-liu.github.io/awesome-astra-3d/cases/scott-exponential/) | Scott / @scottstts | 演示入口 · 完整视频 · Fable 5.2 |
+| [重庆 8D 山城：切开三层雨夜沙盘 / Chongqing 8D: Exploding Three Layers of a Rainy City Diorama](https://carpentry-liu.github.io/awesome-astra-3d/cases/zhiwei-chongqing-webgl/) | 知微-见著 | Fable 5.2 |
+| [The Broken Sky：一个 Unreal 世界的三个 Windows 版本 / The Broken Sky: Three Iterations of an Unreal Engine MMORPG Prototype](https://carpentry-liu.github.io/awesome-astra-3d/cases/stefan-broken-sky/) | Stefan 3D AI / u/Certain_Friendship16 | Fable 5.2 |
+| [紫色机器人挥手：九帧 GPT-Image-2.6 循环 / A Violet Robot Waves: Nine Frames from GPT-Image-2.6](https://carpentry-liu.github.io/awesome-astra-3d/cases/oraclip-violet-robot-gif/) | Oraclip Team | GIF 动图（独立分组） · 提示词 / 过程 |
+
 ## 2026-11-27 · 17 个案例
 
 | 作品 / Example | 作者 | 可用材料 |
