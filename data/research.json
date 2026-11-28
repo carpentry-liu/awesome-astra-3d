@@ -1,5 +1,5 @@
 {
-  "observedAt": "2026-11-27",
+  "observedAt": "2026-11-28",
   "officialSources": [
     "https://developers.openai.com/showcase/all",
     "https://developers.openai.com/api/docs/models/gpt-6-astra"
@@ -19730,6 +19730,600 @@
           }
         }
       ]
+    },
+    {
+      "observedAt": "2026-11-28",
+      "timezone": "Asia/Shanghai",
+      "round": "daily",
+      "baselineCommit": "56a627361c2ddfe4eae8cce3fa3f68324587678b",
+      "baselineCount": 663,
+      "resultingCount": 681,
+      "addedCaseIds": [
+        "big-fish-witch-journey",
+        "teddy-last-train",
+        "fini-forbidden-city-corner-tower",
+        "ordinary-stranger-character",
+        "fini-qinian-endless-loop",
+        "kloss-route-66-diner",
+        "envol-gate-air-race",
+        "ninja-statue-of-liberty",
+        "sotsot-domino-chain",
+        "felix-interactive-room",
+        "diego-storm-at-sea",
+        "happycapy-trevi-fountain",
+        "klaus-night-storm-helicopter",
+        "makerjackie-vibeville-remake",
+        "scott-exponential",
+        "zhiwei-chongqing-webgl",
+        "stefan-broken-sky",
+        "oraclip-violet-robot-gif"
+      ],
+      "updatedCaseIds": [],
+      "removedCaseIds": [],
+      "observations": [
+        {
+          "id": "big-fish-witch-journey",
+          "sourceUrl": "https://www.bilibili.com/video/BV1Gr1KzBEL1/",
+          "sourceDate": "2026-11-28",
+          "modelLabel": "GPT-6.2 Astra",
+          "group": "astra"
+        },
+        {
+          "id": "teddy-last-train",
+          "sourceUrl": "https://x.com/teddyaisi/status/2126184852148138338",
+          "sourceDate": "2026-11-27",
+          "modelLabel": "GPT-6.2 Astra · Gemini 4 Neon · Claude Opus 5.5 · ElevenLabs",
+          "group": "astra"
+        },
+        {
+          "id": "fini-forbidden-city-corner-tower",
+          "sourceUrl": "https://x.com/FiniYang/status/2126224946619888016",
+          "sourceDate": "2026-11-27",
+          "modelLabel": "GPT-6.2 Astra · Gemini 4 Neon",
+          "group": "astra"
+        },
+        {
+          "id": "ordinary-stranger-character",
+          "sourceUrl": "https://www.bilibili.com/video/BV15q1Kz3EMM/",
+          "sourceDate": "2026-11-28",
+          "modelLabel": "GPT-6.2 Astra",
+          "group": "astra"
+        },
+        {
+          "id": "fini-qinian-endless-loop",
+          "sourceUrl": "https://x.com/FiniYang/status/2126146043687686175",
+          "sourceDate": "2026-11-27",
+          "modelLabel": "GPT-6.2 Astra · Gemini 4 Neon",
+          "group": "astra"
+        },
+        {
+          "id": "kloss-route-66-diner",
+          "sourceUrl": "https://x.com/kloss_xyz/status/2126358067759698115",
+          "sourceDate": "2026-11-28",
+          "modelLabel": "GPT-6.2 Astra · Suno",
+          "group": "astra"
+        },
+        {
+          "id": "envol-gate-air-race",
+          "sourceUrl": "https://x.com/EnvolDev/status/2126412746493227032",
+          "sourceDate": "2026-11-28",
+          "modelLabel": "GPT-6.2 Astra · Claude Fable 5.2",
+          "group": "astra"
+        },
+        {
+          "id": "ninja-statue-of-liberty",
+          "sourceUrl": "https://x.com/N1njaCodex/status/2126395225430216902",
+          "sourceDate": "2026-11-28",
+          "modelLabel": "GPT-6.2 Astra · GPT-6 Astra",
+          "group": "astra"
+        },
+        {
+          "id": "sotsot-domino-chain",
+          "sourceUrl": "https://x.com/itssotsot/status/2126372122050142567",
+          "sourceDate": "2026-11-28",
+          "modelLabel": "GPT-6.2 Astra",
+          "group": "astra"
+        },
+        {
+          "id": "felix-interactive-room",
+          "sourceUrl": "https://x.com/gofelixpy/status/2126133038300238290",
+          "sourceDate": "2026-11-27",
+          "modelLabel": "GPT-6.2 Astra",
+          "group": "astra"
+        },
+        {
+          "id": "diego-storm-at-sea",
+          "sourceUrl": "https://x.com/diegocabezas01/status/2126324927892537535",
+          "sourceDate": "2026-11-27",
+          "modelLabel": "GPT-6.2 Astra Ultra",
+          "group": "astra"
+        },
+        {
+          "id": "happycapy-trevi-fountain",
+          "sourceUrl": "https://x.com/happycapyai/status/2126264722492428688",
+          "sourceDate": "2026-11-27",
+          "modelLabel": "GPT-6.2 Astra · Claude Fable 5.2",
+          "group": "astra"
+        },
+        {
+          "id": "klaus-night-storm-helicopter",
+          "sourceUrl": "https://x.com/askKlaus/status/2126181134178349400",
+          "sourceDate": "2026-11-27",
+          "modelLabel": "GPT-6.2 Astra · Gemini 4 Neon",
+          "group": "astra"
+        },
+        {
+          "id": "makerjackie-vibeville-remake",
+          "sourceUrl": "https://www.bilibili.com/video/BV1Pq1tzDEaS/",
+          "sourceDate": "2026-11-27",
+          "modelLabel": "GPT-6.2 Astra",
+          "group": "astra"
+        },
+        {
+          "id": "scott-exponential",
+          "sourceUrl": "https://x.com/scottstts/status/2126411782411427883",
+          "sourceDate": "2026-11-28",
+          "modelLabel": "Claude Fable 5.2 · Gemini 4 Neon",
+          "group": "fable"
+        },
+        {
+          "id": "zhiwei-chongqing-webgl",
+          "sourceUrl": "https://www.bilibili.com/video/BV1tp1WzyE1M/",
+          "sourceDate": "2026-11-27",
+          "modelLabel": "Claude Fable 5.2",
+          "group": "fable"
+        },
+        {
+          "id": "stefan-broken-sky",
+          "sourceUrl": "https://www.reddit.com/r/TopologyAI/comments/1y6w6mj/i_gave_fable_52_10_billion_tokens_to_build_an/",
+          "sourceDate": null,
+          "modelLabel": "Claude Fable 5.2 · Claude Opus 5.5 · GPT-6.2 Astra · Tripo AI",
+          "group": "fable"
+        },
+        {
+          "id": "oraclip-violet-robot-gif",
+          "sourceUrl": "https://oraclip.com/blog/how-to-make-gpt-image-2-6-gifs",
+          "sourceDate": "2026-11-06",
+          "modelLabel": "GPT-Image-2.6",
+          "group": "gif"
+        }
+      ],
+      "queries": [
+        "First-party Astra and Fable Three.js, Blender, Unreal, WebGL and authored 3D clips on November 27–28 Shanghai time",
+        "X creator search, Bilibili author runs, Reddit, public GitHub, Xiaohongshu and Douyin"
+      ],
+      "discoverySources": [
+        "https://raw.githubusercontent.com/sandbase-lab/awesome-gpt-6-2-astra/main/README.md",
+        "https://raw.githubusercontent.com/sandbase-lab/awesome-gpt-6-2-astra/main/docs/prompts.md",
+        "https://cheerselfai.com/en/usecase/gpt-6-2-astra",
+        "https://raw.githubusercontent.com/cheercheung/awesome-gpt-6-2-astra-guide-and-use-cases/main/README.md",
+        "https://raw.githubusercontent.com/AI-Terrarium/awesome-gpt-6.2/main/README.md",
+        "https://maomaoailab.com/zh/news/",
+        "https://lgtm.news/daily",
+        "https://raw.githubusercontent.com/VibeClip/awesome-fable-5-2-videos/main/README.md",
+        "https://raw.githubusercontent.com/mofa-si/awesome-fable-5-2-videos/main/README.md",
+        "https://raw.githubusercontent.com/hideewsj-maker/awesome-fable-5-2-videos/main/README.md",
+        "https://raw.githubusercontent.com/fengyiqicoder/awesome-fable-5.2/main/README.md",
+        "https://raw.githubusercontent.com/ygx2378/awesome-fable-5-2-games/master/README.md",
+        "https://fablelist.000ooo.ooo/video-demos/",
+        "https://fablelist.000ooo.ooo/",
+        "https://madewiththreejs.com/",
+        "https://threejs.cc/en/topic/gpt-6-2-astra/",
+        "https://threejs.cc/en/topic/fable-5-2/",
+        "https://claude-motion.com/gpt-6-2-videos",
+        "https://claude-motion.com/fable-5-2-videos",
+        "https://claude-motion.com/zh/gpt-6-2-videos",
+        "https://www.blume.cafe/api/blooms",
+        "https://agihunt.info/en/daily/2026-11-28",
+        "https://dropday.ai/model-drops/drop-openai-gpt62astra",
+        "https://dropday.ai/model-drops/drop-anthropic-fable-52",
+        "https://note.com/search?context=note&q=GPT-6.2+Astra+Blender",
+        "https://www.xiaohongshu.com/search_result?keyword=GPT-6.2%20Astra%20Blender",
+        "https://www.douyin.com/search/Astra%20Blender",
+        "https://search.bilibili.com/all?keyword=GPT-6.2%20Astra&order=pubdate",
+        "https://note.com/npaka/n/n7e86091b23c3?hl=en",
+        "https://raw.githubusercontent.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/main/README.md",
+        "https://oraclip.com/blog/how-to-make-gpt-image-2-6-gifs",
+        "https://sparkpix.ai/gpt-image-2-6",
+        "https://useapi.net/docs/articles/gpt-image-2-6-gif-api",
+        "https://apiko.app/gpt-image-2-6-prompts",
+        "https://gptimagegif.com/gpt-image-2-6-gif",
+        "https://www.reddit.com/r/TopologyAI/new/",
+        "https://www.reddit.com/r/OpenAIAstra/new/",
+        "https://www.reddit.com/r/vibecoding/new/",
+        "https://www.reddit.com/r/codex/new/",
+        "https://www.reddit.com/r/ClaudeGameDev/new/",
+        "https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=GPT-6.2+Astra&order=pubdate&page=1",
+        "https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=GPT+6.2+Astra+Three.js&order=pubdate&page=1",
+        "https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=GPT+6.2+Astra&order=pubdate&page=1",
+        "https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=Fable+5.2+Blender&order=pubdate&page=1",
+        "https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=GPT-6.2+Astra+%E5%BB%BA%E6%A8%A1&order=pubdate&page=1",
+        "https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=GPT+6.2+3D&order=pubdate&page=1",
+        "https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=GPT-6.2+Astra+Blender&order=pubdate&page=1",
+        "https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=Claude+Fable+5.2+%E4%B8%89%E7%BB%B4&order=pubdate&page=1",
+        "https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=Fable+5.2&order=pubdate&page=1",
+        "https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=GPT+Image+2.6+%E5%8A%A8%E5%9B%BE&order=pubdate&page=1",
+        "https://www.teapawt.net/EnvolDev/media",
+        "https://www.teapawt.net/teddyaisi/media",
+        "https://www.teapawt.net/diegocabezas01/media",
+        "https://www.teapawt.net/FiniYang/media",
+        "https://www.teapawt.net/happycapyai/media",
+        "https://api.bilibili.com/x/web-interface/view?bvid=BV1Gr1KzBEL1",
+        "https://api.bilibili.com/x/web-interface/view?bvid=BV15q1Kz3EMM",
+        "https://api.bilibili.com/x/web-interface/view?bvid=BV1Pq1tzDEaS",
+        "https://api.bilibili.com/x/web-interface/view?bvid=BV1tp1WzyE1M",
+        "https://www.reddit.com/comments/1y6w6mj.json?raw_json=1",
+        "https://lab.finiyang.com/demos.json",
+        "https://github.com/makerjackie/vibeville-remake",
+        "https://www.patreon.com/Stefan3DAI/posts/claude-fable-5-2-176155691"
+      ],
+      "discoveryProbeSummary": {
+        "requestCount": 151,
+        "httpStatuses": {
+          "200": 137,
+          "000": 1,
+          "404": 1,
+          "403": 5,
+          "412": 7
+        },
+        "timelinesWithPosts": 12
+      },
+      "sourceChecks": [
+        {
+          "caseId": "teddy-last-train",
+          "sourceUrl": "https://x.com/teddyaisi/status/2126184852148138338",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-27T13:22:26+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2126179747235524608",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "fini-forbidden-city-corner-tower",
+          "sourceUrl": "https://x.com/FiniYang/status/2126224946619888016",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-27T16:01:45+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2126224067061792768",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "fini-qinian-endless-loop",
+          "sourceUrl": "https://x.com/FiniYang/status/2126146043687686175",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-27T10:48:13+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2126144589077843968",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "kloss-route-66-diner",
+          "sourceUrl": "https://x.com/kloss_xyz/status/2126358067759698115",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-28T00:50:43+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2126357830475354113",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "envol-gate-air-race",
+          "sourceUrl": "https://x.com/EnvolDev/status/2126412746493227032",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-28T04:28:00+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2126411876901007361",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "ninja-statue-of-liberty",
+          "sourceUrl": "https://x.com/N1njaCodex/status/2126395225430216902",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-28T03:18:22+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2126394866821152768",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "sotsot-domino-chain",
+          "sourceUrl": "https://x.com/itssotsot/status/2126372122050142567",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-28T01:46:34+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2126371694172397569",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "felix-interactive-room",
+          "sourceUrl": "https://x.com/gofelixpy/status/2126133038300238290",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-27T09:56:32+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2126132013086408704",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "diego-storm-at-sea",
+          "sourceUrl": "https://x.com/diegocabezas01/status/2126324927892537535",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-27T22:39:02+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2126324004894003200",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "happycapy-trevi-fountain",
+          "sourceUrl": "https://x.com/happycapyai/status/2126264722492428688",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-27T18:39:48+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2126264614480744448",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "klaus-night-storm-helicopter",
+          "sourceUrl": "https://x.com/askKlaus/status/2126181134178349400",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-27T13:07:39+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2126181061868544000",
+          "originalHtmlMediaMatched": true
+        },
+        {
+          "caseId": "scott-exponential",
+          "sourceUrl": "https://x.com/scottstts/status/2126411782411427883",
+          "archiveOrdinal": 1,
+          "createdAtShanghai": "2026-11-28T04:24:10+08:00",
+          "authorMatched": true,
+          "mirrorTimestampMatched": true,
+          "sourceVideoCount": 1,
+          "httpStatus": 200,
+          "contentType": "text/html",
+          "selectedMediaId": "2126409841828646912",
+          "originalHtmlMediaMatched": true
+        }
+      ],
+      "perCaseExternalChecks": [
+        {
+          "caseId": "big-fish-witch-journey",
+          "sourceUrl": "https://www.bilibili.com/video/BV1Gr1KzBEL1/",
+          "metadataUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Gr1KzBEL1",
+          "author": "DeepSeek大肥鱼摸鱼中",
+          "sourceDate": "2026-11-28",
+          "publishedAtShanghai": "2026-11-28T11:58:07+08:00",
+          "contentType": "video/mp4",
+          "httpStatus": 200,
+          "mediaId": 43985993771,
+          "durationSeconds": 240.11,
+          "expectedDurationSeconds": 240.106,
+          "bytes": 23260806,
+          "sha256": "9d5e52f6740de92a6809455d473128409f1f3be2abdbd6238ad05ef885f02057",
+          "decodeChecked": true,
+          "complete": true,
+          "browserPlaybackStarted": true,
+          "browserPlayerUrl": "https://www.bilibili.com/video/BV1Gr1KzBEL1/"
+        },
+        {
+          "caseId": "ordinary-stranger-character",
+          "sourceUrl": "https://www.bilibili.com/video/BV15q1Kz3EMM/",
+          "metadataUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15q1Kz3EMM",
+          "author": "普普通通的异邦人",
+          "sourceDate": "2026-11-28",
+          "publishedAtShanghai": "2026-11-28T10:54:30+08:00",
+          "contentType": "video/mp4",
+          "httpStatus": 200,
+          "mediaId": 43983701420,
+          "durationSeconds": 92.44,
+          "expectedDurationSeconds": 92.437,
+          "bytes": 14150017,
+          "sha256": "25b5db5ef572682b8aba7ade1f9b3076d5f2cea8740a9e795ab4500c6c72e40e",
+          "decodeChecked": true,
+          "complete": true,
+          "browserPlaybackStarted": true,
+          "browserPlayerUrl": "https://www.bilibili.com/video/BV15q1Kz3EMM/"
+        },
+        {
+          "caseId": "makerjackie-vibeville-remake",
+          "sourceUrl": "https://www.bilibili.com/video/BV1Pq1tzDEaS/",
+          "metadataUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Pq1tzDEaS",
+          "author": "MakerJackie",
+          "sourceDate": "2026-11-27",
+          "publishedAtShanghai": "2026-11-27T22:49:59+08:00",
+          "contentType": "video/mp4",
+          "httpStatus": 200,
+          "mediaId": 43974853238,
+          "durationSeconds": 112.62,
+          "expectedDurationSeconds": 112.618,
+          "bytes": 12521386,
+          "sha256": "dc71584eecd0f9b1e1115c0b8dd47fc3f3fa7cb4213a510773436d371806f34b",
+          "decodeChecked": true,
+          "complete": true,
+          "browserPlaybackStarted": true,
+          "browserPlayerUrl": "https://www.bilibili.com/video/BV1Pq1tzDEaS/"
+        },
+        {
+          "caseId": "zhiwei-chongqing-webgl",
+          "sourceUrl": "https://www.bilibili.com/video/BV1tp1WzyE1M/",
+          "metadataUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tp1WzyE1M",
+          "author": "知微-见著",
+          "sourceDate": "2026-11-27",
+          "publishedAtShanghai": "2026-11-27T15:35:10+08:00",
+          "contentType": "video/mp4",
+          "httpStatus": 200,
+          "mediaId": 43963450183,
+          "durationSeconds": 74.51,
+          "expectedDurationSeconds": 74.512,
+          "bytes": 17134336,
+          "sha256": "1c371e81bace676309cd432dbed93eb223838078cb41b648cc71820480f2e2cd",
+          "decodeChecked": true,
+          "complete": true,
+          "browserPlaybackStarted": true,
+          "browserPlayerUrl": "https://www.bilibili.com/video/BV1tp1WzyE1M/"
+        },
+        {
+          "caseId": "stefan-broken-sky",
+          "author": "Stefan 3D AI / u/Certain_Friendship16",
+          "platform": "Reddit",
+          "sourceUrl": "https://www.reddit.com/r/TopologyAI/comments/1y6w6mj/i_gave_fable_52_10_billion_tokens_to_build_an/",
+          "sourceDate": null,
+          "publishedAtShanghai": "2026-11-27T23:36:50+08:00",
+          "publicMediaUrl": "https://v.redd.it/fqzkdihwc64i1/CMAF_480.mp4?source=fallback",
+          "metadataUrl": "https://www.reddit.com/comments/1y6w6mj.json?raw_json=1",
+          "mediaId": "fqzkdihwc64i1",
+          "contentType": "video/mp4",
+          "httpStatus": 200,
+          "bytes": 5419203,
+          "sha256": "3e6adcafca4f3aa114f738e9bb71025553e84ddd20bc5869ee2109d9794b35ad",
+          "durationSeconds": 37.37,
+          "expectedDurationSeconds": 37,
+          "complete": true,
+          "decodeChecked": true,
+          "audioIncluded": false,
+          "browserPlaybackEnded": true,
+          "additionalAuthorVideo": "https://www.bilibili.com/video/BV1cC1tz2EXF/",
+          "additionalAuthorVideoStarted": true
+        }
+      ],
+      "authorDemos": [
+        {
+          "caseId": "fini-forbidden-city-corner-tower",
+          "url": "https://lab.finiyang.com/play/forbidden-tower-astra/",
+          "checkedAt": "2026-11-28",
+          "httpStatus": 200,
+          "canvasRendered": true,
+          "input": "Digit4",
+          "result": "Explode mode visible with 100% progress",
+          "sourceArchiveCrcChecked": true
+        },
+        {
+          "caseId": "makerjackie-vibeville-remake",
+          "url": "https://vibeville.ynot.games/",
+          "checkedAt": "2026-11-28",
+          "httpStatus": 200,
+          "canvasRendered": true,
+          "input": "pointer drag",
+          "result": "Rendered village; view changed after camera drag"
+        },
+        {
+          "caseId": "scott-exponential",
+          "url": "https://exponential.scottsun.io/",
+          "checkedAt": "2026-11-28",
+          "httpStatus": 200,
+          "result": "Reached loading surfaces; scene load not confirmed"
+        },
+        {
+          "caseId": "felix-interactive-room",
+          "url": "https://felixpy.com/",
+          "checkedAt": "2026-11-28",
+          "httpStatus": 200,
+          "result": "Creator site loaded; full studio did not finish loading during the test"
+        }
+      ],
+      "animatedGifs": [
+        {
+          "caseId": "oraclip-violet-robot-gif",
+          "author": "Oraclip Team",
+          "sourceUrl": "https://oraclip.com/blog/how-to-make-gpt-image-2-6-gifs",
+          "sourceDate": "2026-11-06",
+          "publishedAtShanghai": "2026-11-06T20:00:20+08:00",
+          "model": "GPT-Image-2.6",
+          "allFramesDecoded": true,
+          "distinctFrames": 9,
+          "originalBrowserPayloadVerified": true,
+          "contentType": "image/gif",
+          "httpStatus": 200,
+          "fullGet": true,
+          "animatedGif": {
+            "url": "https://oraclip.com/trends/gpt26-tools/violet-robot.gif",
+            "frames": 9,
+            "durationMs": 1800,
+            "width": 414,
+            "height": 414,
+            "bytes": 304261,
+            "sha256": "78ff4b35283b593d4e13738853ca969d9baeff8dd97ff7d76eecfa76068dd2ac",
+            "checkedAt": "2026-11-28"
+          }
+        }
+      ],
+      "excludedOrDeferred": [
+        {
+          "url": "https://x.com/notlikeryo_/status/2126294991999848631",
+          "reason": "Secondary recap of Teddy’s basalt cave; the original is already cataloged."
+        },
+        {
+          "url": "https://x.com/apekshik/status/2126473061880971640",
+          "reason": "Author shows Blender scene; explicit model attribution was unavailable."
+        },
+        {
+          "url": "https://x.com/apekshik/status/2126476348172698105",
+          "reason": "Author shows release and engine footage but the showcased work does not identify model roles."
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1Xf1tzvEUu/",
+          "reason": "Visual lyric film. The available original does not document a verifiable 3D production pipeline."
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1VV1WzDEKx/",
+          "reason": "The video has a Chinese version of a workflow, but the origin of the underlying English production clip could not be confirmed."
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1DC14zoEBH/",
+          "reason": "Chinese reupload of Stefan’s case. The original Reddit author and author-owned Bilibili post are the recorded sources."
+        }
+      ],
+      "platformLimits": [
+        "7 works first known on November 28, 9 on November 27, 1 GIF from November 6. Earliest release of The Broken Sky was not resolved.",
+        "Xiaohongshu and Douyin search did not yield further primary work with verifiable media.",
+        "Exponential uses a smaller complete X playback variant to stay within the Pages hosting limit. Its highest verified bitrate file is available in the same release."
+      ],
+      "completeSourceClips": 12,
+      "newGifWorks": 1,
+      "newMediaFiles": 24,
+      "newMediaBytes": 981530012,
+      "mediaRelease": "https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-28"
     }
   ]
 }

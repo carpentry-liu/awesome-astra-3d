@@ -63,6 +63,20 @@ npm start
 
 面向 `main` 的 PR 运行检查、lint 和 Pages 构建，并用 `git diff --exit-code --stat` 确认受控的派生文件已随源数据提交。PR 不下载视频、不部署，也没有 Pages 写权限。[Pages 工作流](../.github/workflows/pages.yml) 在推送 `main` 或手动发布时才获取并校验完整播放文件，再部署。部署后核对公开 JSON、双语详情、metadata、截图和媒体地址；必要时全量 GET 新视频并比对 hash。
 
+## 内容验证（2026-11-28）
+
+新增 14 件 Astra 作品、3 件 Claude Fable 5.2 作品与 1 件原生 GIF，目录共 681 条。按上海时间，7 件首发于 11 月 28 日，9 件首发于 11 月 27 日。Oraclip 的 GIF 首发于 11 月 6 日，The Broken Sky 的首次公开发布日期待确认。
+
+| 范围 | 实际检查 |
+| --- | --- |
+| 完整 X 录像 | `py -3.13 work/2026-11-28/prepare-media.py` 核对原帖、作者和媒体 ID。12 段附件各保留最高码率原版与完整原平台播放版，共 981,530,012 字节，均通过 FFmpeg 全长解码。服务器尺寸与 SHA-256 核对 35 个 Release 附件，包括 11 张真实预览。 [媒体 Release](https://github.com/carpentry-liu/awesome-astra-3d/releases/tag/media-2026-11-28) |
+| 作者媒体 | 4 段 B 站录像通过全长解码，`external-playback.mjs` 与 `external-retry.mjs` 确认均能启动。The Broken Sky 的 37.37 秒 Reddit 短实录播到结尾，作者 B 站长片也能启动。故宫角楼按 4 进入 100% 结构拆解，源码 ZIP 通过 CRC。VIBEVILLE 实拍成功，飞船与 Felix 的作者页核查到资源加载阶段。 |
+| 原生 GIF | Oraclip 发布的 414 × 414 GIF 共 9 帧，帧间隔均为 200 毫秒。Chrome 收到的原始字节与 cURL 及 urllib 的 SHA-256 一致，分类和详情的自动播放、暂停、恢复和减少动态效果均通过。 |
+| 构建 | `npm.cmd run catalog`、`npm.cmd run check` 和 `npm.cmd run lint` 通过，共 34 项测试。普通和 Pages 子路径的 `npm.cmd run build` 各核查 1,408 个静态页、30,400 条本地引用、681 份详情 JSON 与 1,409 个 sitemap 地址。发布文件预计 989,125,430 字节，含 405 段站内录像。 |
+| 网站 | `node work/2026-11-28/browser-qa.mjs` 在本地 Pages 子路径通过 18 项场景。12 段本轮新增站内录像全部播到结尾，桌面、手机、静态详情、双语和旧分享地址均可访问。1440、390 和 320 像素宽度无横向溢出，受测页面无控制台错误和警告。 |
+
+中英文 README 刷新成果图、作品直达链接与分享封面。 [四张页面实拍](media/README.md)
+
 ## 内容验证（2026-11-27）
 
 新增 14 件 Astra 作品、2 件 Claude Fable 5.2 作品与 1 件原生 GIF，目录共 663 条。按上海时间，4 件首发于 11 月 27 日，8 件首发于 11 月 26 日。其余四件三维作品发表于 11 月 24–25 日，Kingy AI 的 GIF 首发于 11 月 5 日。
